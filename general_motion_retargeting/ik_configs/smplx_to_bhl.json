@@ -1,0 +1,200 @@
+{
+    "robot_root_name": "base",
+    "human_root_name": "pelvis",
+    "ground_height": 0.0,
+    "human_height_assumption": 1.8,
+    "use_ik_match_table1": true,
+    "use_ik_match_table2": false,
+    "human_scale_table": {
+        "pelvis": 0.5,
+        "left_hip": 0.5,
+        "right_hip": 0.5,
+        "left_knee": 0.5,
+        "right_knee": 0.5,
+        "left_foot": 0.5,
+        "right_foot": 0.5,
+        "left_elbow": 0.8,
+        "right_elbow": 0.8,
+        "left_wrist": 0.8,
+        "right_wrist": 0.8
+    },
+    "ik_match_table1": {
+        "imu_2": [
+            "pelvis",
+            100,
+            10,
+            [
+                0.08,
+                0.0,
+                0.2
+            ],
+            [
+                0.5,
+                -0.5,
+                -0.5,
+                -0.5
+            ]
+        ],
+        "leg_left_hip_roll": [
+            "left_hip",
+            1,
+            1,
+            [
+                0.0,
+                0.0,
+                0.0
+            ],
+            [
+                0.0,
+                0.707,
+                0.0,
+                0.707
+            ]
+        ],
+        "leg_left_knee_pitch": [
+            "left_knee",
+            0,
+            1,
+            [
+                0.0,
+                0.0,
+                0.0
+            ],
+            [
+                0.707,
+                0,
+                -0.707,
+                0.0
+            ]
+        ],
+        "leg_left_ankle_roll": [
+            "left_foot",
+            100,
+            10,
+            [
+                -0.05,
+                0.0,
+                0.0
+            ],
+            [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ]
+        ],
+        "leg_right_hip_roll": [
+            "right_hip",
+            1,
+            1,
+            [
+                0.0,
+                0.0,
+                0.0
+            ],
+            [
+                0.0,
+                0.707,
+                0.0,
+                0.707
+            ]
+        ],
+        "leg_right_knee_pitch": [
+            "right_knee",
+            0,
+            1,
+            [
+                0.0,
+                0.0,
+                0.0
+            ],
+            [
+                0.0,
+                0.707,
+                0.0,
+                0.707
+            ]
+        ],
+        "leg_right_ankle_roll": [
+            "right_foot",
+            100,
+            10,
+            [
+                0.05,
+                0.0,
+                0.0
+            ],
+            [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ]
+        ],
+        "arm_left_elbow_pitch": [
+            "left_elbow",
+            1,
+            10,
+            [
+                0.0,
+                0.0,
+                0.0
+            ],
+            [
+                0.5,
+                0.5,
+                0.5,
+                -0.5
+            ]
+        ],
+        "arm_left_hand_link": [
+            "left_wrist",
+            50,
+            10,
+            [
+                0.0,
+                0.0,
+                0.0
+            ],
+            [
+                0.707,
+                0.0,
+                -0.707,
+                0.0
+            ]
+        ],
+        "arm_right_elbow_pitch": [
+            "right_elbow",
+            1,
+            10,
+            [
+                0.0,
+                0.0,
+                0.0
+            ],
+            [
+                0.5,
+                0.5,
+                -0.5,
+                0.5
+            ]
+        ],
+        "arm_right_hand_link": [
+            "right_wrist",
+            50,
+            10,
+            [
+                0.0,
+                0.0,
+                0.0
+            ],
+            [
+                0.707,
+                0.0,
+                0.707,
+                0.0
+            ]
+        ]
+    },
+    "ik_match_table2": {}
+}

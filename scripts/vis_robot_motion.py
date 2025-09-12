@@ -25,11 +25,16 @@ if __name__ == "__main__":
     
     env = RobotMotionViewer(robot_type=robot_type,
                             motion_fps=motion_fps,
+                            camera_follow=False,
                             record_video=args.record_video, video_path=args.video_path)
     
-    for i in tqdm(range(len(motion_root_pos))):
-        env.step(motion_root_pos[i], 
-                motion_root_rot[i], 
-                motion_dof_pos[i], 
+    frame_idx = 0
+    while True:
+        env.step(motion_root_pos[frame_idx], 
+                motion_root_rot[frame_idx], 
+                motion_dof_pos[frame_idx], 
                 rate_limit=True)
+        frame_idx += 1
+        if frame_idx >= len(motion_root_pos):
+            frame_idx = 0
     env.close()

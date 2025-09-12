@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"/>
   </a>
   <a href="https://github.com/YanjieZe/GMR/releases">
-    <img src="https://img.shields.io/badge/version-0.1.0-blue.svg" alt="Version"/>
+    <img src="https://img.shields.io/badge/version-0.2.0-blue.svg" alt="Version"/>
   </a>
   <a href="https://x.com/ZeYanjie/status/1952446745696469334">
     <img src="https://img.shields.io/badge/twitter-ZeYanjie-blue.svg" alt="Twitter"/>
@@ -29,7 +29,25 @@ Key features of GMR:
 
 This repo is licensed under the [MIT License](LICENSE).
 
+Starting from its release, GMR is massively used by the community. See below for cool papers that use GMR:
+- [arXiv 2025.08](https://arxiv.org/abs/2508.21043), *HITTER: A HumanoId Table TEnnis Robot via Hierarchical Planning and Learning*
+- [arXiv 2025.08](https://arxiv.org/abs/2508.13444), *Switch4EAI: Leveraging Console Game Platform for Benchmarking Robotic Athletics*
+- [arXiv 2025.05](https://arxiv.org/abs/2505.02833), *TWIST: Teleoperated Whole-Body Imitation System*
+
+ # To Do List
+ - [ ] add doc on ik config offset
+ - [ ] support xsens data
+
+
 # News & Updates
+- 2025-09-12: GMR now supports [Tienkung](https://github.com/Open-X-Humanoid/TienKung-Lab), the 14th humanoid robot in the repo.
+- 2025-08-30: GMR now supports [Unitree H1 2](https://www.unitree.com/cn/h1) and [PND Adam Lite](https://pndbotics.com/), the 12th and 13th humanoid robots in the repo.
+- 2025-08-28: GMR now supports [Booster T1](https://www.boosterobotics.com/) for both 23dof and 29dof.
+- 2025-08-28: GMR now supports using exported offline FBX motion data from [OptiTrack](https://www.optitrack.com/). 
+- 2025-08-27: GMR now supports [Berkeley Humanoid Lite](https://github.com/HybridRobotics/Berkeley-Humanoid-Lite-Assets), the 11th humanoid robot in the repo.
+- 2025-08-24: GMR now supports [Unitree H1](https://www.unitree.com/h1/), the 10th humanoid robot in the repo.
+- 2025-08-24: GMR now supports velocity limits for the robot motors, `use_velocity_limit=True` by default in `GeneralMotionRetargeting` class (and we use 3*pi as the velocity limit by default); we also add printing of robot DoF/Body/Motor names and their IDs by default, and you can access them via `robot_dof_names`, `robot_body_names`, and `robot_motor_names` attributes.
+- 2025-08-10: GMR now supports [Booster K1](https://www.boosterobotics.com/), the 9th robot in the repo.
 - 2025-08-09: GMR now supports *Unitree G1 with Dex31 hands*.
 - 2025-08-07: GMR now supports [Galexea R1 Pro](https://galaxea-dynamics.com/) (this is a wheeled humanoid robot!) and [KUAVO](https://www.kuavo.ai/), the 7th and 8th humanoid robots in the repo.
 - 2025-08-06: GMR now supports [HighTorque Hi](https://www.hightorquerobotics.com/hi/), the 6th humanoid robot in the repo.
@@ -69,22 +87,64 @@ Demo 5: Kuavo robot picking up a box
 
 https://github.com/user-attachments/assets/02fc8f41-c363-484b-a329-4f4e83ed5b80
 
+Demo 6: Unitree H1 doing ChaCha dance
+
+
+https://github.com/user-attachments/assets/28ee6f0f-be30-42bb-8543-cf1152d97724
+
+
+Demo 7: Booster T1 23dof/29dof doing some jumping
+
+
+
+https://github.com/user-attachments/assets/2c75a146-e28f-4327-930f-5281bfc2ca9c
+
+
+
+https://github.com/user-attachments/assets/ff10c7ef-4357-4789-9219-23c6db8dba6d
+
+
+Demo 8: Unitree H1 2 doing some jumping
+
+
+https://github.com/user-attachments/assets/2382d8ce-7902-432f-ab45-348a11eeb312
+
+
+Demo 9: PND Adam lite
+
+
+https://github.com/user-attachments/assets/a8ef1409-88f1-4393-9cd0-d2b14216d2a4
+
+Demo 10: Tienkung Walking
+
+
+https://github.com/user-attachments/assets/7a775ecc-4254-450c-a3eb-49e843b8e331
 
 
 # Supported Robots and Data Formats
 
-| Robot/Data Format | Robot DoF | SMPLX ([AMASS](https://amass.is.tue.mpg.de/), [OMOMO](https://github.com/lijiaman/omomo_release)) | BVH ( [LAFAN1](https://github.com/ubisoft/ubisoft-laforge-animation-dataset)) | FBX ( [OptiTrack](https://www.optitrack.com/)) | More formats coming soon | 
-| --- | --- | --- | --- | --- | --- |
-| Unitree G1 `unitree_g1` | Leg (2\*6) + Waist (3) + Arm (2\*7) = 29 | ✅ | ✅ | ✅ |
-| Unitree G1 with Hands `unitree_g1_with_hands` | Leg (2\*6) + Waist (3) + Arm (2\*7) + Hand (2\*7) = 43 | ✅ | ✅ | ✅ |
-| Booster T1 `booster_t1` | TBD | ✅ |  ✅  | TBD | 
-| Stanford ToddlerBot `stanford_toddy` | TBD | ✅ | ✅ | TBD |
-| Fourier N1 `fourier_n1` | TBD | ✅ | ✅ | TBD |
-| ENGINEAI PM01 `engineai_pm01` | TBD | ✅ | ✅ | TBD |
-| HighTorque Hi `hightorque_hi` | Head (2) + Arm (2\*5) + Waist (1) + Leg (2\*6) = 25 | ✅ | TBD | TBD |
-| Galaxea R1 Pro `galaxea_r1pro` (this is a wheeled robot!) |  Base (6) + Torso (4) + Arm (2*7) = 24 | ✅ | TBD | TBD |
-| Kuavo `kuavo_s45` |  Head (2) + Arm (2\*7) + Leg (2\*6) = 28 | ✅ | TBD | TBD |
-| More robots coming soon | |
+| Assigned ID | Robot/Data Format | Robot DoF | SMPLX ([AMASS](https://amass.is.tue.mpg.de/), [OMOMO](https://github.com/lijiaman/omomo_release)) | BVH ( [LAFAN1](https://github.com/ubisoft/ubisoft-laforge-animation-dataset)) | FBX ([OptiTrack](https://www.optitrack.com/)) | More formats coming soon | 
+| --- | --- | --- | --- | --- | --- | --- |
+| 0 | Unitree G1 `unitree_g1` | Leg (2\*6) + Waist (3) + Arm (2\*7) = 29 | ✅ | ✅ | ✅ |
+| 1 | Unitree G1 with Hands `unitree_g1_with_hands` | Leg (2\*6) + Waist (3) + Arm (2\*7) + Hand (2\*7) = 43 | ✅ | ✅ | ✅ |
+| 2 | Unitree H1 `unitree_h1` | Leg (2\*5) + Waist (1) + Arm (2\*4) = 19 | ✅ | TBD | TBD |
+| 3 | Unitree H1 2 `unitree_h1_2` | Leg (2\*6) + Waist (1) + Arm (2\*7) = 27 | ✅ | TBD | TBD |
+| 4 | Booster T1 `booster_t1` | TBD | ✅ |  TBD  | TBD |
+| 5 | Booster T1 29dof `booster_t1_29dof` | TBD | ✅ |  ✅  | TBD | 
+| 6 | Booster K1 `booster_k1` | Neck (2) + Arm (2\*4) + Leg (2\*6) = 22 | ✅ | TBD | TBD |
+| 7 | Stanford ToddlerBot `stanford_toddy` | TBD | ✅ | ✅ | TBD |
+| 8 | Fourier N1 `fourier_n1` | TBD | ✅ | ✅ | TBD |
+| 9 | ENGINEAI PM01 `engineai_pm01` | TBD | ✅ | ✅ | TBD |
+| 10 | HighTorque Hi `hightorque_hi` | Head (2) + Arm (2\*5) + Waist (1) + Leg (2\*6) = 25 | ✅ | TBD | TBD |
+| 11 | Galaxea R1 Pro `galaxea_r1pro` (this is a wheeled robot!) |  Base (6) + Torso (4) + Arm (2*7) = 24 | ✅ | TBD | TBD |
+| 12 | Kuavo `kuavo_s45` |  Head (2) + Arm (2\*7) + Leg (2\*6) = 28 | ✅ | TBD | TBD |
+| 13 | Berkeley Humanoid Lite `berkeley_humanoid_lite` (need further tuning) | Leg (2\*6) + Arm (2\*5) = 22 | ✅ | TBD | TBD |
+| 14 | PND Adam Lite `pnd_adam_lite`  | Leg (2\*6) + Waist (3) + Arm (2\*5) = 25 | ✅ | TBD | TBD |
+| 15 | Tienkung `tienkung`  | Leg (2\*6) + Arm (2\*4) = 20 | ✅ | TBD | TBD |
+| More robots coming soon ! |
+| 16 | AgiBot A2 `agibot_a2` | TBD | TBD | TBD | TBD |
+| 17 | OpenLoong `openloong` | TBD | TBD | TBD | TBD |
+
 
 
 
@@ -181,6 +241,26 @@ By default there is no visualization for batch retargeting.
 
 
 ## Retargeting from FBX (OptiTrack) to Robot
+### Offline FBX Files
+Retarget a single motion:
+1. Install `fbx_sdk` by following [these instructions](https://github.com/nv-tlabs/ASE/tree/main/ase/poselib#importing-from-fbx) and [these instructions](https://github.com/nv-tlabs/ASE/issues/61#issuecomment-2670315114). You will probably need a new conda environment for this.
+2. Activate the conda environment where you installed `fbx_sdk`.
+Use the following command to extract motion data from your `.fbx` file:
+```bash
+cd third_party
+python poselib/fbx_importer.py --input <path_to_fbx_file.fbx> --output <path_to_save_motion_data.pkl> --root-joint <root_joint_name> --fps <fps>
+```
+3. Then, run the command below to retarget the extracted motion data to your robot:
+```bash
+conda activate gmr
+# single motion
+python scripts/fbx_offline_to_robot.py --motion_file <path_to_saved_motion_data.pkl> --robot <path_to_robot_data> --save_path <path_to_save_robot_data.pkl> --rate_limit
+```
+By default you should see the visualization of the retargeted robot motion in a mujoco window. 
+- `--rate_limit` is used to limit the rate of the retargeted robot motion to keep the same as the human motion. If you want it as fast as possible, remove `--rate_limit`.
+
+
+### Online Streaming
 
 We provide the script to use OptiTrack MoCap data for real-time streaming and retargeting.
 
@@ -254,4 +334,5 @@ The original robot models can be found at the following locations:
 * [HighToqure Hi](https://www.hightorquerobotics.com/hi/)
 * [Galaxea R1 Pro](https://galaxea-dynamics.com/): MIT license
 * [LEJU Kuavo S45](https://gitee.com/leju-robot/kuavo-ros-opensource/blob/master/LICENSE): MIT license
-
+* [Berkley Humanoid Lite](https://github.com/HybridRobotics/Berkeley-Humanoid-Lite-Assets): CC-BY-SA-4.0 license
+* [Booster K1](https://www.boosterobotics.com/)

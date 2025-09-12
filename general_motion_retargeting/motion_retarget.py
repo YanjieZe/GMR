@@ -27,6 +27,32 @@ class GeneralMotionRetargeting:
         if verbose:
             print("Use robot model: ", self.xml_file)
         self.model = mj.MjModel.from_xml_path(self.xml_file)
+        
+        # Print DoF names in order
+        print("[GMR] Robot Degrees of Freedom (DoF) names and their order:")
+        self.robot_dof_names = {}
+        for i in range(self.model.nv):  # 'nv' is the number of DoFs
+            dof_name = mj.mj_id2name(self.model, mj.mjtObj.mjOBJ_JOINT, self.model.dof_jntid[i])
+            self.robot_dof_names[dof_name] = i
+            if verbose:
+                print(f"DoF {i}: {dof_name}")
+            
+            
+        print("[GMR] Robot Body names and their IDs:")
+        self.robot_body_names = {}
+        for i in range(self.model.nbody):  # 'nbody' is the number of bodies
+            body_name = mj.mj_id2name(self.model, mj.mjtObj.mjOBJ_BODY, i)
+            self.robot_body_names[body_name] = i
+            if verbose:
+                print(f"Body ID {i}: {body_name}")
+        
+        print("[GMR] Robot Motor (Actuator) names and their IDs:")
+        self.robot_motor_names = {}
+        for i in range(self.model.nu):  # 'nu' is the number of actuators (motors)
+            motor_name = mj.mj_id2name(self.model, mj.mjtObj.mjOBJ_ACTUATOR, i)
+            self.robot_motor_names[motor_name] = i
+            if verbose:
+                print(f"Motor ID {i}: {motor_name}")
 
         # Load the IK config
         with open(IK_CONFIG_DICT[src_human][tgt_robot]) as f:
@@ -119,6 +145,7 @@ class GeneralMotionRetargeting:
         human_data = self.to_numpy(human_data)
         human_data = self.scale_human_data(human_data, self.human_root_name, self.human_scale_table)
         human_data = self.offset_human_data(human_data, self.pos_offsets1, self.rot_offsets1)
+        human_data = self.apply_ground_offset(human_data)
         if offset_to_ground:
             human_data = self.offset_human_data_to_ground(human_data)
         self.scaled_human_data = human_data
@@ -145,7 +172,7 @@ class GeneralMotionRetargeting:
             curr_error = self.error1()
             dt = self.configuration.model.opt.timestep
             vel1 = mink.solve_ik(
-                self.configuration, self.tasks1, dt, self.solver, self.damping
+                self.configuration, self.tasks1, dt, self.solver, self.damping, self.ik_limits
             )
             self.configuration.integrate_inplace(vel1, dt)
             next_error = self.error1()
@@ -154,7 +181,7 @@ class GeneralMotionRetargeting:
                 curr_error = next_error
                 dt = self.configuration.model.opt.timestep
                 vel1 = mink.solve_ik(
-                    self.configuration, self.tasks1, dt, self.solver, self.damping
+                    self.configuration, self.tasks1, dt, self.solver, self.damping, self.ik_limits
                 )
                 self.configuration.integrate_inplace(vel1, dt)
                 next_error = self.error1()
@@ -164,7 +191,7 @@ class GeneralMotionRetargeting:
             curr_error = self.error2()
             dt = self.configuration.model.opt.timestep
             vel2 = mink.solve_ik(
-                self.configuration, self.tasks2, dt, self.solver, self.damping
+                self.configuration, self.tasks2, dt, self.solver, self.damping, self.ik_limits
             )
             self.configuration.integrate_inplace(vel2, dt)
             next_error = self.error2()
@@ -174,7 +201,7 @@ class GeneralMotionRetargeting:
                 # Solve the IK problem with the second task
                 dt = self.configuration.model.opt.timestep
                 vel2 = mink.solve_ik(
-                    self.configuration, self.tasks2, dt, self.solver, self.damping
+                    self.configuration, self.tasks2, dt, self.solver, self.damping, self.ik_limits
                 )
                 self.configuration.integrate_inplace(vel2, dt)
                 
@@ -263,3 +290,12 @@ class GeneralMotionRetargeting:
             offset_human_data[body_name] = [pos, quat]
             offset_human_data[body_name][0] = pos - np.array([0, 0, lowest_pos]) + np.array([0, 0, ground_offset])
         return offset_human_data
+
+    def set_ground_offset(self, ground_offset):
+        self.ground_offset = ground_offset
+
+    def apply_ground_offset(self, human_data):
+        for body_name in human_data.keys():
+            pos, quat = human_data[body_name]
+            human_data[body_name][0] = pos - np.array([0, 0, self.ground_offset])
+        return human_data

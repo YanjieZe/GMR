@@ -32,17 +32,19 @@ conda install -c conda-forge libstdcxx-ng -y
 ### Supported Robots
 
 Core robot models in `assets/` directory:
-- Unitree G1 (`unitree_g1`)
-- Booster T1 (`booster_t1`)
-- Stanford ToddlerBot (`stanford_toddy`) 
-- Fourier N1 (`fourier_n1`)
-- ENGINEAI PM01 (`engineai_pm01`)
-- Kuavo S45 (`kuavo_s45`)
-- HighTorque Hi (`hightorque_hi`)
-- Galaxea R1 Pro (`galaxea_r1pro`)
+- Unitree G1 (`unitree_g1`) - 29 DOF humanoid
+- Booster T1 (`booster_t1`) - Full-body humanoid 
+- Booster K1 (`booster_k1`) - 22 DOF humanoid
+- Stanford ToddlerBot (`stanford_toddy`) - Research humanoid
+- Fourier N1 (`fourier_n1`) - Commercial humanoid
+- ENGINEAI PM01 (`engineai_pm01`) - Industrial humanoid
+- Kuavo S45 (`kuavo_s45`) - 28 DOF humanoid
+- HighTorque Hi (`hightorque_hi`) - 25 DOF humanoid
+- Galaxea R1 Pro (`galaxea_r1pro`) - 24 DOF wheeled humanoid
 
 Additional models retained in ROBOT_BASE_DICT for compatibility:
-- `unitree_g1_with_hands`, `dex31_left_hand`, `dex31_right_hand`
+- `unitree_g1_with_hands` (43 DOF with dexterous hands)
+- `dex31_left_hand`, `dex31_right_hand` (hand components)
 
 ## Common Commands
 
@@ -83,6 +85,30 @@ Add `--record_video --video_path <output.mp4>` to any visualization command to r
 - `general_motion_retargeting/`: Core library code
 - `assets/`: Robot models (MuJoCo XML) and body models (SMPL-X)
 - `general_motion_retargeting/ik_configs/`: JSON configuration files for human-to-robot body mappings:
-  - SMPL-X configs: `smplx_to_{g1,t1,toddy,n1,pm01,kuavo,hi,r1pro}.json`
+  - SMPL-X configs: `smplx_to_{g1,t1,k1,toddy,n1,pm01,kuavo,hi,r1pro}.json`
   - BVH configs: `bvh_to_{g1,t1,toddy,n1,pm01}.json`
   - FBX configs: `fbx_to_g1.json`
+
+## Project Status & Features
+
+**Current State**: Production-ready motion retargeting system with extensive robot support
+
+**Key Capabilities**:
+- **Multi-format Input**: SMPL-X (AMASS/OMOMO), BVH (LAFAN1), FBX (OptiTrack)
+- **Real-time Performance**: 60-70 FPS on high-end hardware for teleoperation
+- **9 Robot Models**: From research platforms to commercial humanoids
+- **Robust IK**: Mink-based solver with automatic human height scaling
+- **Visualization**: MuJoCo-based viewer with video recording capabilities
+- **Batch Processing**: Dataset-level retargeting workflows
+
+**Use Cases**:
+- Real-time whole-body teleoperation (see [TWIST](https://github.com/YanjieZe/TWIST))
+- RL policy training data generation
+- Motion capture to robot deployment
+- Cross-platform humanoid motion transfer
+
+**Recent Additions** (2025):
+- Booster K1 support (9th robot)
+- Dexterous hand integration (G1 + Dex31)
+- Wheeled humanoid support (Galaxea R1 Pro)
+- Enhanced OptiTrack real-time streaming
