@@ -98,7 +98,7 @@ class RobotMotionViewer:
         
     def step(self, 
             # robot data
-            root_pos, root_rot, dof_pos, 
+            root_pos, root_rot, dof_pos,
             # human data
             human_motion_data=None, 
             show_human_body_name=False,
@@ -109,7 +109,7 @@ class RobotMotionViewer:
             # rate limit
             rate_limit=True, 
             follow_camera=True,
-            ):
+        ):
         """
         by default visualize robot motion.
         also support visualize human motion by providing human_motion_data, to compare with robot motion.

@@ -6,6 +6,7 @@ from smplx.joint_names import JOINT_NAMES
 from scipy.interpolate import interp1d
 
 
+# Joints names for finger joints and fingertips in SMPLH model
 FINGER_JOINT_NAMES = [
     "left_index1", "left_index2", "left_index3",
     "left_middle1", "left_middle2", "left_middle3",
@@ -18,7 +19,6 @@ FINGER_JOINT_NAMES = [
     "right_ring1", "right_ring2", "right_ring3",
     "right_thumb1", "right_thumb2", "right_thumb3"  
 ]
-
 FINGERTIP_NAMES = [
     "left_thumb", "left_index", "left_middle", "left_ring", "left_pinky",
     "right_thumb", "right_index", "right_middle", "right_ring", "right_pinky"
@@ -32,31 +32,35 @@ def load_smpl_file(smpl_file):
 
 def load_smplx_file(smplx_file, smplx_body_model_dir):
     smplx_data = np.load(smplx_file, allow_pickle=True)
+    is_smplh = "left_hand_pose" in smplx_data.keys()
     body_model = smplx.create(
         smplx_body_model_dir,
         "smplx",
         gender=str(smplx_data["gender"]),
         use_pca=False,
         ext="pkl",
-        flat_hand_mean=True, # TODO: set to False if not using hand data
+        flat_hand_mean=is_smplh,
     )
-    
     num_frames = smplx_data["pose_body"].shape[0]
-    smplx_output = body_model(
-        betas=torch.tensor(smplx_data["betas"]).float().view(1, -1), # (16,)
-        global_orient=torch.tensor(smplx_data["root_orient"]).float(), # (N, 3)
-        body_pose=torch.tensor(smplx_data["pose_body"]).float(), # (N, 63)
-        transl=torch.tensor(smplx_data["trans"]).float(), # (N, 3)
 
-        # TODO: dynamical change bewteen using hands data and using zeros
-        # left_hand_pose=torch.zeros(num_frames, 45).float(),
-        # right_hand_pose=torch.zeros(num_frames, 45).float(),
-        left_hand_pose=torch.tensor(smplx_data["left_hand_pose"]).float(),  # (T, 45)
-        right_hand_pose=torch.tensor(smplx_data["right_hand_pose"]).float(), # (T, 45)
+    if is_smplh:
+        print(f"Using SMPLH model.")
+        left_hand_pose = torch.tensor(smplx_data["left_hand_pose"]).float()
+        right_hand_pose = torch.tensor(smplx_data["right_hand_pose"]).float()
+    else:
+        left_hand_pose = torch.zeros(num_frames, 45).float()
+        right_hand_pose = torch.zeros(num_frames, 45).float()
+
+    smplx_output = body_model(
+        betas=torch.tensor(smplx_data["betas"]).float().view(1, -1),    # (16,)
+        global_orient=torch.tensor(smplx_data["root_orient"]).float(),  # (N, 3)
+        body_pose=torch.tensor(smplx_data["pose_body"]).float(),        # (N, 63)
+        transl=torch.tensor(smplx_data["trans"]).float(),               # (N, 3)
+        left_hand_pose=left_hand_pose,                                  # (N, 45)
+        right_hand_pose=right_hand_pose,                                # (N, 45)
         jaw_pose=torch.zeros(num_frames, 3).float(),
         leye_pose=torch.zeros(num_frames, 3).float(),
         reye_pose=torch.zeros(num_frames, 3).float(),
-        # expression=torch.zeros(num_frames, 10).float(),
         return_full_pose=True,
     )
     
@@ -65,7 +69,7 @@ def load_smplx_file(smplx_file, smplx_body_model_dir):
     else:
         human_height = 1.66 + 0.1 * smplx_data["betas"][0, 0]
     
-    return smplx_data, body_model, smplx_output, human_height
+    return smplx_data, body_model, smplx_output, human_height, is_smplh
 
 
 def get_smplx_data(smplx_data, body_model, smplx_output, curr_frame):
@@ -136,7 +140,6 @@ def slerp(rot1, rot2, t):
 
 def FK(global_orient, full_pose, parents):
     print(f"Computing FK...")
-
     all_rots = []
     T, J, _ = full_pose.shape
     for t in range(T):
@@ -153,7 +156,7 @@ def FK(global_orient, full_pose, parents):
     return all_rots
 
 
-def get_smplx_data_offline_fast(smplx_data, body_model, smplx_output, tgt_fps=30):
+def get_smplx_data_offline_fast(smplx_data, body_model, smplx_output, tgt_fps=30, is_smplh=False):
     """
     Must return a dictionary with the following structure:
     {
@@ -168,7 +171,9 @@ def get_smplx_data_offline_fast(smplx_data, body_model, smplx_output, tgt_fps=30
     global_orient = smplx_output.global_orient.squeeze()
     full_body_pose = smplx_output.full_pose.reshape(num_frames, -1, 3)
     joints =  smplx_output.joints.detach().numpy().squeeze()
-    joint_names = JOINT_NAMES[:len(body_model.parents)] + FINGERTIP_NAMES
+    joint_names = JOINT_NAMES[:len(body_model.parents)]
+    if is_smplh:
+        joint_names += FINGERTIP_NAMES
     joints = get_joints_from_names(smplx_output, joint_names)
     parents = body_model.parents
     
@@ -218,37 +223,21 @@ def get_smplx_data_offline_fast(smplx_data, body_model, smplx_output, tgt_fps=30
                 interp_func = interp1d(original_time, joints[:, i, j], kind='linear')
                 joints_interp.append(interp_func(target_time))
         joints = np.stack(joints_interp, axis=1).reshape(new_num_frames, -1, 3)
-        
         aligned_fps = len(global_orient) / num_frames * src_fps
     else:
         aligned_fps = tgt_fps
 
     joint_rots = FK(global_orient=global_orient, full_pose=full_body_pose, parents=parents)
-    joint_rots = correct_finger_joint_rots(joints, joint_rots, joint_names, parents)
-    joint_rots = append_fingertip_rots(joint_rots)
+    if is_smplh:
+        # Finger rotations in GRAB dataset are offset from expected directions.
+        # This recomputes finger rotations based on finger/fingertip joint positions
+        joint_rots = correct_finger_joint_rots(joints, joint_rots, joint_names, parents)
+        joint_rots = append_fingertip_rots(joint_rots)
     
     smplx_data_frames = [
         {joint_name: (joints[i, j], joint_rots[i, j]) for j, joint_name in enumerate(joint_names)}
         for i in range(len(global_orient))
     ]
-    # for curr_frame in range(len(global_orient)):
-    #     result = {}
-    #     single_global_orient = global_orient[curr_frame]
-    #     single_full_body_pose = full_body_pose[curr_frame]
-    #     single_joints = joints[curr_frame]
-    #     joint_orientations = []
-    #     for i, joint_name in enumerate(joint_names):
-    #         if i == 0:
-    #             rot = R.from_rotvec(single_global_orient)
-    #         else:
-    #             rot = joint_orientations[parents[i]] * R.from_rotvec(
-    #                 single_full_body_pose[i].squeeze()
-    #             )
-    #         joint_orientations.append(rot)
-    #         result[joint_name] = (single_joints[i], rot.as_quat(scalar_first=True))
-
-    #     smplx_data_frames.append(result)
-
     return smplx_data_frames, aligned_fps
 
 
@@ -266,7 +255,7 @@ def correct_finger_joint_rots(joints, joint_rots, joint_names, parents):
     parents = np.concatenate([parents, fingertip_parents], axis=0)
     assert joints.shape[1] == len(parents) and joints.shape[1] == len(joint_names)
 
-    # This array only returns the first child for each joint. Make this a dictionary if you want all children
+    # This array only returns the first child for each joint
     children = []
     for j in range(len(parents)):
         if j in parents:

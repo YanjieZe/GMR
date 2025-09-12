@@ -18,6 +18,7 @@ class GeneralMotionRetargeting:
         actual_human_height: float = None,
         solver: str="daqp", # change from "quadprog" to "daqp".
         damping: float=5e-1, # change from 1e-1 to 1e-2.
+        max_iters: int=10,
         verbose: bool=False,
     ) -> None:
 
@@ -51,7 +52,8 @@ class GeneralMotionRetargeting:
         self.human_scale_table = self.build_human_scale_table(ik_config, ratio)
         self.ground = ik_config["ground_height"] * np.array([0, 0, 1])
 
-        self.max_iter = 10
+        # Solver parameters
+        self.max_iter = max_iters
         self.solver = solver
         self.damping = damping
 
@@ -61,10 +63,8 @@ class GeneralMotionRetargeting:
         self.rot_offsets1 = {}
         self.pos_offsets2 = {}
         self.rot_offsets2 = {}
-
         self.task_errors1 = {}
         self.task_errors2 = {}
-
         self.setup_retarget_configuration()
 
     def setup_retarget_configuration(self):    
@@ -118,8 +118,6 @@ class GeneralMotionRetargeting:
         # scale human data in local frame
         human_data = self.to_numpy(human_data)
         human_data = self.scale_human_data(human_data, self.human_root_name, self.human_scale_table)
-
-        # NOTE: Michael - If something is added only to ik_match_table2, then the corresponding entry will not exist is self.rot_offsets1, and this will error. We should have one source of truth for the pos and rot offsets.
         human_data = self.offset_human_data(human_data, self.pos_offsets1, self.rot_offsets1)
         if offset_to_ground:
             human_data = self.offset_human_data_to_ground(human_data)
@@ -183,7 +181,6 @@ class GeneralMotionRetargeting:
                 next_error = self.error2()
                 num_iter += 1
                 
-            
         return self.configuration.data.qpos.copy()
 
     def error1(self):
@@ -206,7 +203,6 @@ class GeneralMotionRetargeting:
         return human_data
 
     def scale_human_data(self, human_data, human_root_name, human_scale_table):
-        
         human_data_local = {}
         root_pos, root_quat = human_data[human_root_name]
         

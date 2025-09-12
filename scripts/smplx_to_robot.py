@@ -3,6 +3,7 @@ import pathlib
 import os
 import time
 
+import ipdb
 import numpy as np
 from scipy.spatial.transform import Rotation as R
 
@@ -59,25 +60,32 @@ if __name__ == "__main__":
     )
 
     parser.add_argument(
+        "--max_iters",
+        type=int,
+        default=10,
+    )
+
+    parser.add_argument(
         "--debug",
         default=False,
         action="store_true",
     )
 
     args = parser.parse_args()
-
-
     SMPLX_FOLDER = HERE / ".." / "assets" / "body_models"
     
-    
     # Load SMPLX trajectory
-    smplx_data, body_model, smplx_output, actual_human_height = load_smplx_file(
+
+    smplx_data, body_model, smplx_output, actual_human_height, is_smplh = load_smplx_file(
         args.smplx_file, SMPLX_FOLDER
     )
     
     # align fps
     tgt_fps = 30
-    smplx_data_frames, aligned_fps = get_smplx_data_offline_fast(smplx_data, body_model, smplx_output, tgt_fps=tgt_fps)
+    smplx_data_frames, aligned_fps = get_smplx_data_offline_fast(
+        smplx_data, body_model, smplx_output, tgt_fps=tgt_fps,
+        is_smplh=is_smplh
+    )
 
     video_path = f"videos/{args.robot}_{args.smplx_file.split('/')[-1].split('.')[0]}.mp4"
     robot_motion_viewer = RobotMotionViewer(robot_type=args.robot,
@@ -90,6 +98,7 @@ if __name__ == "__main__":
         actual_human_height=actual_human_height,
         src_human="smplx",
         tgt_robot=args.robot,
+        max_iters=args.max_iters,
     )
 
     curr_frame = 0
@@ -124,12 +133,10 @@ if __name__ == "__main__":
             fps_start_time = current_time
         
         # Update task targets.
-        # i = 0
         smplx_data = smplx_data_frames[i]
 
         # retarget
         qpos = retarget.retarget(smplx_data)
-        # qpos = retarget.configuration.data.qpos.copy()
 
         # visualize
         robot_motion_viewer.step(
