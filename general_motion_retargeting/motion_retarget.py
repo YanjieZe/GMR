@@ -20,6 +20,7 @@ class GeneralMotionRetargeting:
         damping: float=5e-1, # change from 1e-1 to 1e-2.
         max_iters: int=10,
         verbose: bool=False,
+        use_velocity_limit: bool=True,
     ) -> None:
 
         # load the robot model
@@ -91,7 +92,14 @@ class GeneralMotionRetargeting:
         self.rot_offsets2 = {}
         self.task_errors1 = {}
         self.task_errors2 = {}
+
+        self.ik_limits = [mink.ConfigurationLimit(self.model)]
+        if use_velocity_limit:
+            VELOCITY_LIMITS = {k: 3*np.pi for k in self.robot_motor_names.keys()}
+            self.ik_limits.append(mink.VelocityLimit(self.model, VELOCITY_LIMITS))
+            
         self.setup_retarget_configuration()
+        self.ground_offset = 0.0
 
     def setup_retarget_configuration(self):    
         self.tasks1 = []

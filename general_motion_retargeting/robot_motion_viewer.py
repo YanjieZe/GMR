@@ -76,6 +76,8 @@ class RobotMotionViewer:
             data=self.data,
             show_left_ui=False,
             show_right_ui=False)      
+        
+        self.viewer.opt.flags[mj.mjtVisFlag.mjVIS_TRANSPARENT] = transparent_robot
 
         # Create separate camera for video recording so we can have viewer open at the same time
         self.camera = _structs.MjvCamera()
