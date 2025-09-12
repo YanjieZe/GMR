@@ -79,7 +79,8 @@ class RobotMotionViewer:
         
         self.viewer.opt.flags[mj.mjtVisFlag.mjVIS_TRANSPARENT] = transparent_robot
 
-        # Create separate camera for video recording so we can have viewer open at the same time
+        # Create separate camera for video recording so we have the option to change the viewer camera separate
+        # from video recording camera
         self.camera = _structs.MjvCamera()
         self.camera.fixedcamid = 0
         
@@ -108,7 +109,6 @@ class RobotMotionViewer:
             human_pos_offset=np.array([0.0, 0.0, 0]),
             # rate limit
             rate_limit=True, 
-            follow_camera=True,
         ):
         """
         by default visualize robot motion.
@@ -125,12 +125,6 @@ class RobotMotionViewer:
         self.data.qpos[7:] = dof_pos
         
         mj.mj_forward(self.model, self.data)
-        
-        if follow_camera:
-            self.viewer.cam.lookat = self.data.xpos[self.model.body(self.robot_base).id]
-            self.viewer.cam.distance = self.viewer_cam_distance
-            self.viewer.cam.elevation = -10  # 正面视角，轻微向下看
-            # self.viewer.cam.azimuth = 180    # 正面朝向机器人
 
         if self.record_video:
             self.camera.lookat = self.data.xpos[self.model.body(self.robot_base).id]
