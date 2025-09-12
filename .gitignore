@@ -1,7 +1,3 @@
-michael_scratch.py
-notes.md
-GRAB_data_notes.md
-
 # Python
 *.egg-info/
 __pycache__/
@@ -104,3 +100,7 @@ videos/
 PythonClient/
 
 TEST_MOTIONS_MY.md
+
+tmp/
+
+motion_data/

@@ -30,11 +30,11 @@ def load_smpl_file(smpl_file):
     return smpl_data
 
 
-def load_smplx_file(smplx_file, smplx_body_model_dir):
+def load_smplx_file(smplx_file, smplx_body_model_path):
     smplx_data = np.load(smplx_file, allow_pickle=True)
     is_smplh = "left_hand_pose" in smplx_data.keys()
     body_model = smplx.create(
-        smplx_body_model_dir,
+        smplx_body_model_path,
         "smplx",
         gender=str(smplx_data["gender"]),
         use_pca=False,
@@ -170,7 +170,6 @@ def get_smplx_data_offline_fast(smplx_data, body_model, smplx_output, tgt_fps=30
     num_frames = smplx_data["pose_body"].shape[0]
     global_orient = smplx_output.global_orient.squeeze()
     full_body_pose = smplx_output.full_pose.reshape(num_frames, -1, 3)
-    joints =  smplx_output.joints.detach().numpy().squeeze()
     joint_names = JOINT_NAMES[:len(body_model.parents)]
     if is_smplh:
         joint_names += FINGERTIP_NAMES

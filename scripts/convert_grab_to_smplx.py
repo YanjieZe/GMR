@@ -10,15 +10,7 @@ from scipy.spatial.transform import Rotation as R
 from smplx.joint_names import JOINT_NAMES
 
 
-# these paths are from the GRAB dataset npz files (not the pt files you get from their preprocessing code)
-# motion_path1 = "/move/u/mpiseno/data/GRAB/grab/"
-
-# find all npz files in this subdir recursively
-# motion_files = [
-#     os.path.join(root, file)
-#     for root, _, files in os.walk(motion_path1)
-#     for file in files if file.endswith('.npz')
-# ]
+# These paths are from the GRAB dataset npz files
 motion_files = [
     'data/GRAB/s1/apple_lift.npz',
     # '/move/u/mpiseno/data/GRAB/grab/s1/banana_pass_1.npz',
@@ -53,9 +45,8 @@ def construct_smplx_data(smplx_file):
 def main():
     HERE = Path(__file__).parent
     smplx_body_model_dir = HERE / ".." / "assets" / "body_models"
-
-    # save as individual files
     target_dir = "./data/GRAB_smplx"
+
     os.makedirs(target_dir, exist_ok=True)
     for motion_file in motion_files:
         print(f"Processing {motion_file}...")
@@ -64,11 +55,12 @@ def main():
         motion_file.split('/')[:-3]
 
         smplx_data = construct_smplx_data(motion_file)
-        
+
         out_dir = f"{target_dir}/{subject}"
         os.makedirs(out_dir, exist_ok=True)
         with open(f"{out_dir}/{seq_name}.pkl", "wb") as f:
             pickle.dump(smplx_data, f)
+            
         print(f"saved to {out_dir}/{seq_name}.pkl")
 
 

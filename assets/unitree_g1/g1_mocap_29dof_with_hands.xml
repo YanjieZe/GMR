@@ -21,8 +21,8 @@
   </default>
 
   <asset>
-    <material name="black" rgba="0.2 0.2 0.2 0.4"/>
-    <material name="metal" rgba="0.7 0.7 0.7 0.4"/>
+    <material name="black" rgba="0.2 0.2 0.2 1"/>
+    <material name="metal" rgba="0.7 0.7 0.7 1"/>
 
     <mesh file="pelvis.STL"/>
     <mesh file="pelvis_contour_link.STL"/>
@@ -76,7 +76,6 @@
   </asset>
 
   <worldbody>
-    <light pos="1 0 3.5" dir="0 0 -1" directional="true"/>
     <body name="pelvis" pos="0 0 0.793" childclass="g1">
       <inertial pos="0 0 -0.07605" quat="1 0 -0.000399148 0" mass="3.813" diaginertia="0.010549 0.0093089 0.0079184"/>
       <freejoint name="floating_base_joint"/>
@@ -531,37 +530,31 @@
       0.2 -0.2 0 1.28 0 0 0
       0 -1.05 0 0 0 0 0
       "/>
-    <key name="T_pose"
-      qpos="
-      0.02927824  0.41012413  0.77983396
-      0.70935813  0.01505238  0.04207096 -0.70343052
-      0.0139483 0.12925332 0.13679715 0.01709589 -0.17135523 -0.00531353
-      -0.02001732 -0.10059191 -0.18422575  0.1247722  -0.02890259 0.1074067
-      -0.03012799  0.06761572 -0.08430122
-      0.12522224  1.43132554 0.40083936  1.56501938  0.24976588  0.1884634 0.19050316
-      -0.49216117 0.77894933 0.44826833 -0.16110361 -0.20089374 -0.18375689 -0.25899736
-      0.12955298 -1.50839925 -0.55783856 1.42158752 -0.10287228  0.08138021 -0.18992803
-      -0.44341122 -0.73780688 -0.60517783  0.14478374  0.24274271 0.21559879  0.31713663
-      "
-    />
   </keyframe>
 
-  <statistic center="1 -0.8 1.1" extent=".35"/>
-
+<!-- setup scene -->
+  <statistic center="1.0 0.7 1.0" extent="0.8"/>
   <visual>
     <headlight diffuse="0.6 0.6 0.6" ambient="0.1 0.1 0.1" specular="0.9 0.9 0.9"/>
     <rgba haze="0.15 0.25 0.35 1"/>
-    <global azimuth="140" elevation="-20"/>
+    <global azimuth="-140" elevation="-20" offwidth="2080" offheight="1170"/>
   </visual>
-
   <asset>
-    <texture type="skybox" builtin="gradient" rgb1="0.3 0.5 0.7" rgb2="0 0 0" width="512" height="3072"/>
-    <texture type="2d" name="groundplane" builtin="checker" mark="edge" rgb1="0.2 0.3 0.4" rgb2="0.1 0.2 0.3"
-      markrgb="0.8 0.8 0.8" width="300" height="300"/>
-    <material name="groundplane" texture="groundplane" texuniform="true" texrepeat="5 5" reflectance="0.2"/>
+     <texture type="skybox" builtin="gradient" rgb1="1 1 1" rgb2="1 1 1" width="800" height="800"/>
+    <texture type="2d" name="groundplane" builtin="checker" mark="edge" rgb1="1 1 1" rgb2="1 1 1" markrgb="0 0 0"
+      width="300" height="300"/>
+    <material name="groundplane" texture="groundplane" texuniform="true" texrepeat="5 5" reflectance="0"/>
+    <texture type="skybox" builtin="gradient" rgb1=".4 .5 .6" rgb2="0 0 0" width="100" height="100"/>
+    <texture builtin="flat" height="1278" mark="cross" markrgb="1 1 1" name="texgeom" random="0.01" rgb1="0.8 0.6 0.4" rgb2="0.8 0.6 0.4" type="cube" width="127"/>
+    <texture name="texplane" builtin="checker" height="512" width="512" rgb1=".2 .3 .4" rgb2=".1 .15 .2" type="2d" />
+    <material name="MatPlane" reflectance="0.5" shininess="0.01" specular="0.1" texrepeat="1 1" texture="texplane" texuniform="true" />
+    <material name="geom" texture="texgeom" texuniform="true"/>
   </asset>
+   <worldbody>
+    <geom name="floor" size="0 0 0.01" type="plane" material="groundplane" contype="1" conaffinity="0" priority="1"
+      friction="0.6" condim="3"/>
 
-  <worldbody>
-    <geom name="floor" size="0 0 0.05" type="plane" material="groundplane"/>
+        <light diffuse=".5 .5 .5" pos="-3 -3 5" dir="3 3 -5" castshadow="true"/>
+
   </worldbody>
 </mujoco>
