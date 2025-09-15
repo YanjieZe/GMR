@@ -6,6 +6,7 @@ import json
 from scipy.spatial.transform import Rotation as R
 from .params import ROBOT_XML_DICT, IK_CONFIG_DICT
 from rich import print
+import ipdb
 
 class GeneralMotionRetargeting:
     """General Motion Retargeting (GMR).
@@ -17,7 +18,8 @@ class GeneralMotionRetargeting:
         actual_human_height: float = None,
         solver: str="daqp", # change from "quadprog" to "daqp".
         damping: float=5e-1, # change from 1e-1 to 1e-2.
-        verbose: bool=True,
+        max_iters: int=10,
+        verbose: bool=False,
         use_velocity_limit: bool=True,
     ) -> None:
 
@@ -64,12 +66,9 @@ class GeneralMotionRetargeting:
             ratio = actual_human_height / ik_config["human_height_assumption"]
         else:
             ratio = 1.0
-            
-        # adjust the human scale table
-        for key in ik_config["human_scale_table"].keys():
-            ik_config["human_scale_table"][key] = ik_config["human_scale_table"][key] * ratio
-    
 
+        self.configuration = mink.Configuration(self.model)
+    
         # used for retargeting
         self.ik_match_table1 = ik_config["ik_match_table1"]
         self.ik_match_table2 = ik_config["ik_match_table2"]
@@ -77,11 +76,11 @@ class GeneralMotionRetargeting:
         self.robot_root_name = ik_config["robot_root_name"]
         self.use_ik_match_table1 = ik_config["use_ik_match_table1"]
         self.use_ik_match_table2 = ik_config["use_ik_match_table2"]
-        self.human_scale_table = ik_config["human_scale_table"]
+        self.human_scale_table = self.build_human_scale_table(ik_config, ratio)
         self.ground = ik_config["ground_height"] * np.array([0, 0, 1])
 
-        self.max_iter = 10
-
+        # Solver parameters
+        self.max_iter = max_iters
         self.solver = solver
         self.damping = damping
 
@@ -91,27 +90,27 @@ class GeneralMotionRetargeting:
         self.rot_offsets1 = {}
         self.pos_offsets2 = {}
         self.rot_offsets2 = {}
-
         self.task_errors1 = {}
         self.task_errors2 = {}
 
         self.ik_limits = [mink.ConfigurationLimit(self.model)]
         if use_velocity_limit:
             VELOCITY_LIMITS = {k: 3*np.pi for k in self.robot_motor_names.keys()}
-            self.ik_limits.append(mink.VelocityLimit(self.model, VELOCITY_LIMITS)) 
+            self.ik_limits.append(mink.VelocityLimit(self.model, VELOCITY_LIMITS))
             
         self.setup_retarget_configuration()
-        
         self.ground_offset = 0.0
 
-    def setup_retarget_configuration(self):
-        self.configuration = mink.Configuration(self.model)
-    
+    def setup_retarget_configuration(self):    
         self.tasks1 = []
         self.tasks2 = []
         
         for frame_name, entry in self.ik_match_table1.items():
             body_name, pos_weight, rot_weight, pos_offset, rot_offset = entry
+            self.pos_offsets1[body_name] = np.array(pos_offset) - self.ground
+            self.rot_offsets1[body_name] = R.from_quat(
+                rot_offset, scalar_first=True
+            )
             if pos_weight != 0 or rot_weight != 0:
                 task = mink.FrameTask(
                     frame_name=frame_name,
@@ -121,15 +120,15 @@ class GeneralMotionRetargeting:
                     lm_damping=1,
                 )
                 self.human_body_to_task1[body_name] = task
-                self.pos_offsets1[body_name] = np.array(pos_offset) - self.ground
-                self.rot_offsets1[body_name] = R.from_quat(
-                    rot_offset, scalar_first=True
-                )
                 self.tasks1.append(task)
                 self.task_errors1[task] = []
         
         for frame_name, entry in self.ik_match_table2.items():
             body_name, pos_weight, rot_weight, pos_offset, rot_offset = entry
+            self.pos_offsets2[body_name] = np.array(pos_offset) - self.ground
+            self.rot_offsets2[body_name] = R.from_quat(
+                rot_offset, scalar_first=True
+            )
             if pos_weight != 0 or rot_weight != 0:
                 task = mink.FrameTask(
                     frame_name=frame_name,
@@ -139,13 +138,15 @@ class GeneralMotionRetargeting:
                     lm_damping=1,
                 )
                 self.human_body_to_task2[body_name] = task
-                self.pos_offsets2[body_name] = np.array(pos_offset) - self.ground
-                self.rot_offsets2[body_name] = R.from_quat(
-                    rot_offset, scalar_first=True
-                )
                 self.tasks2.append(task)
                 self.task_errors2[task] = []
 
+    def build_human_scale_table(self, ik_config, ratio):
+        human_scale_table = {}
+        for key in ik_config["human_scale_table"].keys():
+            human_scale_table[key] = ik_config["human_scale_table"][key] * ratio
+
+        return human_scale_table
   
     def update_targets(self, human_data, offset_to_ground=False):
         # scale human data in local frame
@@ -162,7 +163,7 @@ class GeneralMotionRetargeting:
                 task = self.human_body_to_task1[body_name]
                 pos, rot = human_data[body_name]
                 task.set_target(mink.SE3.from_rotation_and_translation(mink.SO3(rot), pos))
-        
+
         if self.use_ik_match_table2:
             for body_name in self.human_body_to_task2.keys():
                 task = self.human_body_to_task2[body_name]
@@ -215,9 +216,7 @@ class GeneralMotionRetargeting:
                 next_error = self.error2()
                 num_iter += 1
                 
-            
         return self.configuration.data.qpos.copy()
-
 
     def error1(self):
         return np.linalg.norm(
@@ -233,15 +232,12 @@ class GeneralMotionRetargeting:
             )
         )
 
-
     def to_numpy(self, human_data):
         for body_name in human_data.keys():
             human_data[body_name] = [np.asarray(human_data[body_name][0]), np.asarray(human_data[body_name][1])]
         return human_data
 
-
     def scale_human_data(self, human_data, human_root_name, human_scale_table):
-        
         human_data_local = {}
         root_pos, root_quat = human_data[human_root_name]
         
@@ -261,7 +257,7 @@ class GeneralMotionRetargeting:
         # transform the human data back to the global frame
         human_data_global = {human_root_name: (scaled_root_pos, root_quat)}
         for body_name in human_data_local.keys():
-            human_data_global[body_name] = (human_data_local[body_name] + scaled_root_pos, human_data[body_name][1])
+           human_data_global[body_name] = (human_data_local[body_name] + scaled_root_pos, human_data[body_name][1])
 
         return human_data_global
     

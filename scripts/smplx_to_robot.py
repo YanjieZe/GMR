@@ -3,7 +3,9 @@ import pathlib
 import os
 import time
 
+import ipdb
 import numpy as np
+from scipy.spatial.transform import Rotation as R
 
 from general_motion_retargeting import GeneralMotionRetargeting as GMR
 from general_motion_retargeting import RobotMotionViewer
@@ -64,35 +66,47 @@ if __name__ == "__main__":
         help="Limit the rate of the retargeted robot motion to keep the same as the human motion.",
     )
 
+    parser.add_argument(
+        "--max_iters",
+        type=int,
+        default=10,
+    )
+
+    parser.add_argument(
+        "--debug",
+        default=False,
+        action="store_true",
+    )
+
     args = parser.parse_args()
-
-
     SMPLX_FOLDER = HERE / ".." / "assets" / "body_models"
     
-    
     # Load SMPLX trajectory
-    smplx_data, body_model, smplx_output, actual_human_height = load_smplx_file(
+
+    smplx_data, body_model, smplx_output, actual_human_height, is_smplh = load_smplx_file(
         args.smplx_file, SMPLX_FOLDER
     )
     
     # align fps
     tgt_fps = 30
-    smplx_data_frames, aligned_fps = get_smplx_data_offline_fast(smplx_data, body_model, smplx_output, tgt_fps=tgt_fps)
-    
-   
+    smplx_data_frames, aligned_fps = get_smplx_data_offline_fast(
+        smplx_data, body_model, smplx_output, tgt_fps=tgt_fps,
+        is_smplh=is_smplh
+    )
+
+    video_path = f"videos/{args.robot}_{args.smplx_file.split('/')[-1].split('.')[0]}.mp4"
+    robot_motion_viewer = RobotMotionViewer(robot_type=args.robot,
+                                            motion_fps=aligned_fps,
+                                            transparent_robot=0,
+                                            record_video=args.record_video,
+                                            video_path=video_path)
     # Initialize the retargeting system
     retarget = GMR(
         actual_human_height=actual_human_height,
         src_human="smplx",
         tgt_robot=args.robot,
+        max_iters=args.max_iters,
     )
-    
-    robot_motion_viewer = RobotMotionViewer(robot_type=args.robot,
-                                            motion_fps=aligned_fps,
-                                            transparent_robot=0,
-                                            record_video=args.record_video,
-                                            video_path=f"videos/{args.robot}_{args.smplx_file.split('/')[-1].split('.')[0]}.mp4",)
-    
 
     curr_frame = 0
     # FPS measurement variables
@@ -108,7 +122,6 @@ if __name__ == "__main__":
     
     # Start the viewer
     i = 0
-
     while True:
         if args.loop:
             i = (i + 1) % len(smplx_data_frames)
@@ -138,6 +151,7 @@ if __name__ == "__main__":
             root_rot=qpos[3:7],
             dof_pos=qpos[7:],
             human_motion_data=retarget.scaled_human_data,
+            # human_motion_data=None,
             # human_motion_data=smplx_data,
             human_pos_offset=np.array([0.0, 0.0, 0.0]),
             show_human_body_name=False,

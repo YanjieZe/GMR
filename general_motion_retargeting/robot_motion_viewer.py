@@ -1,19 +1,23 @@
 import os
 import time
+
 import mujoco as mj
 import mujoco.viewer as mjv
 import imageio
+import numpy as np
+
+from mujoco import _structs
 from scipy.spatial.transform import Rotation as R
 from general_motion_retargeting import ROBOT_XML_DICT, ROBOT_BASE_DICT, VIEWER_CAM_DISTANCE_DICT
 from loop_rate_limiters import RateLimiter
-import numpy as np
 from rich import print
+
 
 
 def draw_frame(
     pos,
     mat,
-    v,
+    scene: mj.MjvScene,
     size,
     joint_name=None,
     orientation_correction=R.from_euler("xyz", [0, 0, 0]),
@@ -21,7 +25,7 @@ def draw_frame(
 ):
     rgba_list = [[1, 0, 0, 1], [0, 1, 0, 1], [0, 0, 1, 1]]
     for i in range(3):
-        geom = v.user_scn.geoms[v.user_scn.ngeom]
+        geom = scene.geoms[scene.ngeom]
         mj.mjv_initGeom(
             geom,
             type=mj.mjtGeom.mjGEOM_ARROW,
@@ -34,13 +38,13 @@ def draw_frame(
             geom.label = joint_name  # 这里赋名字
         fix = orientation_correction.as_matrix()
         mj.mjv_connector(
-            v.user_scn.geoms[v.user_scn.ngeom],
+            scene.geoms[scene.ngeom],
             type=mj.mjtGeom.mjGEOM_ARROW,
             width=0.005,
             from_=pos + pos_offset,
             to=pos + pos_offset + size * (mat @ fix)[:, i],
         )
-        v.user_scn.ngeom += 1
+        scene.ngeom += 1
 
 class RobotMotionViewer:
     def __init__(self,
@@ -67,14 +71,18 @@ class RobotMotionViewer:
         self.camera_follow = camera_follow
         self.record_video = record_video
 
-
         self.viewer = mjv.launch_passive(
             model=self.model,
             data=self.data,
             show_left_ui=False,
             show_right_ui=False)      
-
+        
         self.viewer.opt.flags[mj.mjtVisFlag.mjVIS_TRANSPARENT] = transparent_robot
+
+        # Create separate camera for video recording so we have the option to change the viewer camera separate
+        # from video recording camera
+        self.camera = _structs.MjvCamera()
+        self.camera.fixedcamid = 0
         
         if self.record_video:
             assert video_path is not None, "Please provide video path for recording"
@@ -91,7 +99,7 @@ class RobotMotionViewer:
         
     def step(self, 
             # robot data
-            root_pos, root_rot, dof_pos, 
+            root_pos, root_rot, dof_pos,
             # human data
             human_motion_data=None, 
             show_human_body_name=False,
@@ -101,8 +109,7 @@ class RobotMotionViewer:
             human_pos_offset=np.array([0.0, 0.0, 0]),
             # rate limit
             rate_limit=True, 
-            follow_camera=True,
-            ):
+        ):
         """
         by default visualize robot motion.
         also support visualize human motion by providing human_motion_data, to compare with robot motion.
@@ -118,26 +125,26 @@ class RobotMotionViewer:
         self.data.qpos[7:] = dof_pos
         
         mj.mj_forward(self.model, self.data)
-        
-        if follow_camera:
-            self.viewer.cam.lookat = self.data.xpos[self.model.body(self.robot_base).id]
-            self.viewer.cam.distance = self.viewer_cam_distance
-            self.viewer.cam.elevation = -10  # 正面视角，轻微向下看
-            # self.viewer.cam.azimuth = 180    # 正面朝向机器人
+
+        if self.record_video:
+            self.camera.lookat = self.data.xpos[self.model.body(self.robot_base).id]
+            self.camera.distance = self.viewer_cam_distance
+            self.camera.elevation = -10
         
         if human_motion_data is not None:
             # Clean custom geometry
             self.viewer.user_scn.ngeom = 0
+
             # Draw the task targets for reference
             for human_body_name, (pos, rot) in human_motion_data.items():
                 draw_frame(
                     pos,
                     R.from_quat(rot, scalar_first=True).as_matrix(),
-                    self.viewer,
-                    human_point_scale,
+                    self.viewer.user_scn,
+                    size=human_point_scale,
+                    joint_name=human_body_name if show_human_body_name else None,
                     pos_offset=human_pos_offset,
-                    joint_name=human_body_name if show_human_body_name else None
-                    )
+                )
 
         self.viewer.sync()
         if rate_limit is True:
@@ -145,7 +152,7 @@ class RobotMotionViewer:
 
         if self.record_video:
             # Use renderer for proper offscreen rendering
-            self.renderer.update_scene(self.data, camera=self.viewer.cam)
+            self.renderer.update_scene(self.data, camera=self.camera)
             img = self.renderer.render()
             self.mp4_writer.append_data(img)
     

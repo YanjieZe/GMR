@@ -27,6 +27,7 @@ setup(
     "protobuf",
     "redis[hiredis]",
     "imageio[ffmpeg]",
+    "ipdb",
   ],
   python_requires='>=3.10',
 )
