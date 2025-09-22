@@ -51,6 +51,10 @@ IK_CONFIG_DICT = {
         "stanford_toddy": IK_CONFIG_ROOT / "bvh_to_toddy.json",
         "engineai_pm01": IK_CONFIG_ROOT / "bvh_to_pm01.json",
     },
+    "xsens_bvh":{
+        "unitree_g1": IK_CONFIG_ROOT / "xsens_bvh_to_g1.json",
+        "unitree_h1_2": IK_CONFIG_ROOT / "xsens_bvh_to_h1_2.json",
+    },
     "fbx":{
         "unitree_g1": IK_CONFIG_ROOT / "fbx_to_g1.json",
         "unitree_g1_with_hands": IK_CONFIG_ROOT / "fbx_to_g1.json",

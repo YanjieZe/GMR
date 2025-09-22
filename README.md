@@ -265,6 +265,30 @@ python scripts/bvh_to_robot_dataset.py --src_folder <path_to_dir_of_bvh_data> --
 ```
 By default there is no visualization for batch retargeting.
 
+## Retargeting from BVH (Xsens) to Robot
+
+Retarget a single motion:
+```bash
+# single motion
+python scripts/xsens_bvh_to_robot.py --bvh_file <path_to_bvh_data> --robot <path_to_robot_data> --save_path <path_to_save_robot_data.pkl> --rate_limit --start <number of the first frame> --scale <displacement scaling size> --reset_to_zero --bvh_format <exported bvh format>
+```
+By default you should see the visualization of the retargeted robot motion in a mujoco window. 
+- `--rate_limit` is used to limit the rate of the retargeted robot motion to keep the same as the human motion. If you want it as fast as possible, remove `--rate_limit`.
+
+- `--start` is used to specify the initial processing frame. If no input is given, processing will start from the first frame by default.
+
+- `--end` is used to specify the final processing frame. If not input, it will be processed by default to the last frame.
+
+- `--reset_to_zero` is used to reset the displacement and Z-axis rotation to zero.This function, when used in combination with `--start`, will set the data to the initial zero position very well.Because sometimes the first one or two frames of some datasets differ too much from the subsequent data, these data need to be discarded.
+
+- `--scale` is used to set the scaling value of the displacement, which depends on the relationship between the unit used for the displacement in the dataset and the meter.
+
+- `--bvh_format` is used to set the format of the bvh being parsed. In the Xsens MVN software, BVH files in three formats can be exported. There will be some differences among BVH files in different formats. Here I recommend using the 3ds Max format.
+
+Visualize bvh data using mujoco:
+```bash
+python general_motion_retargeting/utils/xsens_vendor/mujoco_xsens_bvh_view.py --src_folder <path_to_dir_of_bvh_data> 
+```
 
 ## Retargeting from FBX (OptiTrack) to Robot
 ### Offline FBX Files
