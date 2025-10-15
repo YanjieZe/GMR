@@ -22,6 +22,7 @@ ROBOT_XML_DICT = {
     "pnd_adam_lite": ASSET_ROOT / "pnd_adam_lite" / "scene.xml",
     "tienkung": ASSET_ROOT / "tienkung" / "mjcf" / "tienkung.xml",
     "pal_talos": ASSET_ROOT / "pal_talos" / "talos.xml",
+    "pal_kangaroo": ASSET_ROOT / "pal_kangaroo" / "kangaroo.xml",
 }
 
 IK_CONFIG_DICT = {
@@ -51,7 +52,8 @@ IK_CONFIG_DICT = {
         "fourier_n1": IK_CONFIG_ROOT / "bvh_lafan1_to_n1.json",
         "stanford_toddy": IK_CONFIG_ROOT / "bvh_lafan1_to_toddy.json",
         "engineai_pm01": IK_CONFIG_ROOT / "bvh_lafan1_to_pm01.json",
-        "pal_talos": IK_CONFIG_ROOT / "bvh_to_talos.json",
+        "pal_talos": IK_CONFIG_ROOT / "bvh_lafan1_to_talos.json",
+        "pal_kangaroo": IK_CONFIG_ROOT / "bvh_lafan1_to_kangaroo.json",
     },
     "bvh_nokov":{
         "unitree_g1": IK_CONFIG_ROOT / "bvh_nokov_to_g1.json",
@@ -84,6 +86,7 @@ ROBOT_BASE_DICT = {
     "pnd_adam_lite": "pelvis",
     "tienkung": "Base_link",
     "pal_talos": "base_link",
+    "pal_kangaroo": "base_link",
 }
 
 VIEWER_CAM_DISTANCE_DICT = {
@@ -104,4 +107,5 @@ VIEWER_CAM_DISTANCE_DICT = {
     "pnd_adam_lite": 3.0,
     "tienkung": 3.0,
     "pal_talos": 3.0,
+    "pal_kangaroo": 3.0,
 }
