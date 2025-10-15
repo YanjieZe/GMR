@@ -30,7 +30,7 @@
 
 This repo is licensed under the [MIT License](LICENSE).
 
-Starting from its release, **GMR** has been massively used by the community. See below for cool papers that use GMR:
+Starting from its release, **GMR** has been massively used by the community. See below for cool papers that use **GMR**:
 
 - [arXiv 2025.08](https://arxiv.org/abs/2508.21043), *HITTER: A HumanoId Table TEnnis Robot via Hierarchical Planning and Learning*
 - [arXiv 2025.08](https://arxiv.org/abs/2508.13444), *Switch4EAI: Leveraging Console Game Platform for Benchmarking Robotic Athletics*
@@ -39,26 +39,27 @@ Starting from its release, **GMR** has been massively used by the community. See
 
 
 # News & Updates
+- **2025-10-15:** Now supporting [PAL Robotics' KANGAROO](https://pal-robotics.com/robot/kangaroo/), the 16th humanoid robot.
 - **2025-10-15:** Now supporting [PAL Robotics' Talos](https://pal-robotics.com/robot/talos/), the 15th humanoid robot.
-- **2025-10-14:** GMR now supports [Nokov](https://www.nokov.com/) BVH data.
+- **2025-10-14:** Now supporting [Nokov](https://www.nokov.com/) BVH data.
 - **2025-10-14:** Add a doc on ik config. See [DOC.md](DOC.md)
 - **2025-10-09:** Check [TWIST](https://github.com/YanjieZe/TWIST) open-sourced code for RL motion tracking.
-- **2025-10-02:** Tech report for GMR is now on [arXiv](https://arxiv.org/abs/2510.02252).
-- **2025-10-01:** GMR now supports converting GMR pickle files to CSV (for beyondmimic), check `scripts/batch_gmr_pkl_to_csv.py`.
-- **2025-09-25:** An introduction on GMR is available on [Bilibili](https://www.bilibili.com/video/BV1p1nazeEzC/?share_source=copy_web&vd_source=c76e3ab14ac3f7219a9006b96b4b0f76).
-- **2025-09-16:** GMR now supports to use [GVHMR](https://github.com/zju3dv/GVHMR) for extracting human pose from **monocular video** and retargeting to robot.
-- **2025-09-12:** GMR now supports [Tienkung](https://github.com/Open-X-Humanoid/TienKung-Lab), the 14th humanoid robot in the repo.
-- **2025-08-30:** GMR now supports [Unitree H1 2](https://www.unitree.com/cn/h1) and [PND Adam Lite](https://pndbotics.com/), the 12th and 13th humanoid robots in the repo.
-- **2025-08-28:** GMR now supports [Booster T1](https://www.boosterobotics.com/) for both 23dof and 29dof.
-- **2025-08-28:** GMR now supports using exported offline FBX motion data from [OptiTrack](https://www.optitrack.com/). 
-- **2025-08-27:** GMR now supports [Berkeley Humanoid Lite](https://github.com/HybridRobotics/Berkeley-Humanoid-Lite-Assets), the 11th humanoid robot in the repo.
-- **2025-08-24:** GMR now supports [Unitree H1](https://www.unitree.com/h1/), the 10th humanoid robot in the repo.
-- **2025-08-24:** GMR now supports velocity limits for the robot motors, `use_velocity_limit=True` by default in `GeneralMotionRetargeting` class (and we use 3*pi as the velocity limit by default); we also add printing of robot DoF/Body/Motor names and their IDs by default, and you can access them via `robot_dof_names`, `robot_body_names`, and `robot_motor_names` attributes.
-- **2025-08-10:** GMR now supports [Booster K1](https://www.boosterobotics.com/), the 9th robot in the repo.
-- **2025-08-09:** GMR now supports *Unitree G1 with Dex31 hands*.
-- **2025-08-07:** GMR now supports [Galexea R1 Pro](https://galaxea-dynamics.com/) (this is a wheeled humanoid robot!) and [KUAVO](https://www.kuavo.ai/), the 7th and 8th humanoid robots in the repo.
-- **2025-08-06:** GMR now supports [HighTorque Hi](https://www.hightorquerobotics.com/hi/), the 6th humanoid robot in the repo.
-- **2025-08-04:** Initial release of GMR. Check our [twitter post](https://x.com/ZeYanjie/status/1952446745696469334).
+- **2025-10-02:** Tech report for **GMR** is now on [arXiv](https://arxiv.org/abs/2510.02252).
+- **2025-10-01:** Now supporting converting **GMR** pickle files to CSV (for beyondmimic), check `scripts/batch_gmr_pkl_to_csv.py`.
+- **2025-09-25:** An introduction on **GMR** is available on [Bilibili](https://www.bilibili.com/video/BV1p1nazeEzC/?share_source=copy_web&vd_source=c76e3ab14ac3f7219a9006b96b4b0f76).
+- **2025-09-16:** Now supporting to use [GVHMR](https://github.com/zju3dv/GVHMR) for extracting human pose from **monocular video** and retargeting to robot.
+- **2025-09-12:** Now supporting [Tienkung](https://github.com/Open-X-Humanoid/TienKung-Lab), the 14th humanoid robot in the repo.
+- **2025-08-30:** Now supporting [Unitree H1 2](https://www.unitree.com/cn/h1) and [PND Adam Lite](https://pndbotics.com/), the 12th and 13th humanoid robots in the repo.
+- **2025-08-28:** Now supporting [Booster T1](https://www.boosterobotics.com/) for both 23dof and 29dof.
+- **2025-08-28:** Now supporting using exported offline FBX motion data from [OptiTrack](https://www.optitrack.com/). 
+- **2025-08-27:** Now supporting [Berkeley Humanoid Lite](https://github.com/HybridRobotics/Berkeley-Humanoid-Lite-Assets), the 11th humanoid robot in the repo.
+- **2025-08-24:** Now supporting [Unitree H1](https://www.unitree.com/h1/), the 10th humanoid robot in the repo.
+- **2025-08-24:** Now supporting velocity limits for the robot motors, `use_velocity_limit=True` by default in `GeneralMotionRetargeting` class (and we use 3*pi as the velocity limit by default); we also add printing of robot DoF/Body/Motor names and their IDs by default, and you can access them via `robot_dof_names`, `robot_body_names`, and `robot_motor_names` attributes.
+- **2025-08-10:** Now supporting [Booster K1](https://www.boosterobotics.com/), the 9th robot in the repo.
+- **2025-08-09:** Now supporting *Unitree G1 with Dex31 hands*.
+- **2025-08-07:** Now supporting [Galexea R1 Pro](https://galaxea-dynamics.com/) (this is a wheeled humanoid robot!) and [KUAVO](https://www.kuavo.ai/), the 7th and 8th humanoid robots in the repo.
+- **2025-08-06:** Now supporting [HighTorque Hi](https://www.hightorquerobotics.com/hi/), the 6th humanoid robot in the repo.
+- **2025-08-04:** Initial release of **GMR**. Check our [twitter post](https://x.com/ZeYanjie/status/1952446745696469334).
 
 ## Demos
 
@@ -106,7 +107,7 @@ _**Demo 10:** Tienkung robot walking._
 
 https://github.com/user-attachments/assets/7a775ecc-4254-450c-a3eb-49e843b8e331
 
-_**Demo 11:** Extracting human pose from monocular video with GVHMR and retarget with GMR._
+_**Demo 11:** Extracting human pose from monocular video with GVHMR and retarget with **GMR**._
 
 [Watch on Bilibili »](https://www.bilibili.com/video/BV1Tnpmz9EaE)
 
@@ -135,6 +136,7 @@ https://github.com/user-attachments/assets/3ec0bf80-80c1-4181-a623-dc2b072c2ca2
 | 14 | PND Adam Lite `pnd_adam_lite`  | Leg (2\*6) + Waist (3) + Arm (2\*5) = 25 | ✅ | TBD | TBD |
 | 15 | Tienkung `tienkung`  | Leg (2\*6) + Arm (2\*4) = 20 | ✅ | TBD | TBD |
 | 16 | PAL Robotics' Talos `pal_talos`  | Head (2) + Arm (2\*7) + Waist (2) + Leg (2\*6) = 30 | ✅ | TBD | TBD |
+| 16 | PAL Robotics' KANGAROO `pal_kangaroo`  | Arm (2\*4) + Waist (2) + Leg (2\*6) = 22 | ✅ | TBD | TBD |
 | More robots coming soon ! |
 | 16 | AgiBot A2 `agibot_a2` | TBD | TBD | TBD | TBD |
 | 17 | OpenLoong `openloong` | TBD | TBD | TBD | TBD |
@@ -151,7 +153,7 @@ conda create -n gmr python=3.10 -y
 conda activate gmr
 ```
 
-Then, install GMR:
+Then, install **GMR**:
 
 ```bash
 pip install -e .
@@ -195,7 +197,7 @@ Each frame of **robot motion data** can be understood as a tuple of (robot_base_
 ### Retargeting from SMPL-X (AMASS, OMOMO) to Robot
 
 > [!NOTE]
-> NOTE: after install SMPL-X, change `ext` in `smplx/body_models.py` from `npz` to `pkl` if you are using SMPL-X pkl files.
+> After installing SMPL-X, change `ext` in `smplx/body_models.py` from `npz` to `pkl` if you are using SMPL-X pkl files.
 
 Retarget a single motion:
 
@@ -291,7 +293,7 @@ By default you should see the visualization of the retargeted robot motion in a 
 
 We provide the script to use OptiTrack MoCap data for real-time streaming and retargeting.
 
-Usually you will have two computers, one is the server that installed with Motive (Desktop APP for OptiTrack) and the other is the client that installed with GMR.
+Usually you will have two computers, one is the server that installed with Motive (Desktop APP for OptiTrack) and the other is the client that installed with **GMR**.
 
 Find the server ip (the computer that installed with Motive) and client ip (your computer). Set the streaming as follows:
 
@@ -373,6 +375,7 @@ The original robot models can be found at the following locations:
 * [Galaxea R1 Pro](https://galaxea-dynamics.com/): MIT license
 * [HighToqure Hi](https://www.hightorquerobotics.com/hi/)
 * [LEJU Kuavo S45](https://gitee.com/leju-robot/kuavo-ros-opensource/blob/master/LICENSE): MIT license
+* [PAL Robotics' KANGAROO](https://pal-robotics.com/robot/kangaroo/)
 * [PAL Robotics' Talos](https://github.com/google-deepmind/mujoco_menagerie): [Link to file](https://github.com/google-deepmind/mujoco_menagerie/tree/main/pal_talos)
 * [Toddlerbot](https://github.com/hshi74/toddlerbot): [Link to file](https://github.com/hshi74/toddlerbot/tree/main/toddlerbot/descriptions/toddlerbot_active)
 * [Unitree G1](https://github.com/unitreerobotics/unitree_ros): [Link to file](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/g1_description)
