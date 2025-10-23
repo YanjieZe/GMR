@@ -5,29 +5,14 @@ import time
 from BVHParser import BVHParser, euler_to_quat, Anim, quat_fk
 from scipy.spatial.transform import Rotation
 import argparse
+from video_recorder import VideoRecorder
 
 class mujoco_displayanimanim:
-    def __init__(self, _bvh_file, _scale):
-        self.bvh_file = _bvh_file
-        self.scale = _scale
-        self._init_bvh_data()
-        self._init_xml_data()
-
-    def _init_bvh_data(self):
-        self.parser = BVHParser('zxy',self.scale)
-        # self.parser = BVHParser('zxy')
-        with open(self.bvh_file, "r") as f:
-            bvh_text = f.read()
-            # root, frames, frame_time = parser.parse(f.read())
-            self.anim: Anim = self.parser.parse(bvh_text,start = 2,reset_to_zero=True)
-            print("Parsed BVH:")
-            print(f"Bones: {self.anim.bones}")
-            print(f"Parents: {self.anim.parents}")
-            print(f"Offsets shape: {self.anim.offsets.shape}")
-            print(f"Quats shape: {self.anim.quats.shape}")
-            print(f"Positions shape: {self.anim.pos.shape}")
-            print(f"Frame time: {self.parser.frame_time}")
-            self.global_data = quat_fk(
+    def __init__(self, _parser, _anim):
+        self.scale = _parser.scale
+        self.parser = _parser
+        self.anim = _anim
+        self.global_data = quat_fk(
                 self.anim.quats, self.anim.pos, self.anim.parents
             )
 
@@ -94,6 +79,14 @@ class mujoco_displayanimanim:
             )
             self.viewer.user_scn.ngeom += 1
 
+    def set_camera(self):
+        self.viewer.cam.distance = 5
+        self.viewer.cam.azimuth = 135
+        self.viewer.cam.elevation = 0.0
+        self.viewer.cam.fixedcamid = -1
+        self.viewer.cam.type = mujoco.mjtCamera.mjCAMERA_TRACKING
+        self.viewer.cam.trackbodyid = 0
+
     def animate_bvh(self, scale=None):
         scale = self.scale if scale is None else 0.01
         print("animate scale:",scale)
@@ -107,6 +100,15 @@ class mujoco_displayanimanim:
             # show_right_ui=False
         ) as self.viewer:
             frame_idx = 0
+            self.set_camera()
+            self.renderer = mujoco.renderer.Renderer(self.model, height=480, width=640)
+            self.video_recorder = VideoRecorder(
+                path="./recordings",
+                tag=None,
+                video_name="video_0",
+                fps=int(1 / frame_time),
+                compress=False,
+            )
             while self.viewer.is_running() and frame_idx < frames_len:
                 self.viewer.user_scn.ngeom = 0
                 for idx, name in enumerate(self.anim.bones):
@@ -138,6 +140,16 @@ class mujoco_displayanimanim:
                 self.data.qvel[:] = 0
                 time.sleep(frame_time)
                 mujoco.mj_step(self.model, self.data)
+                # self.set_camera()
+                self.renderer.update_scene(
+                    self.data,
+                    camera=self.viewer.cam,  # 使用查看器的相机视图
+                    scene_option=self.viewer.opt,  # 使用查看器的渲染选项
+                )
+
+                # 捕获图像：返回 (height, width, 3) 的 uint8 NumPy 数组 (RGB)
+                img = self.renderer.render()
+                self.video_recorder(img)
                 self.viewer.sync()
                 frame_idx += 1
                 if frame_idx % frames_len == 0:
@@ -149,8 +161,16 @@ if __name__ == "__main__":
     parser.add_argument(
         "--bvh_file",
         help="BVH motion file to load.",
-        required=True,
+        default="xsens_bvh/251016_01_slowly_walk.bvh",
+        required=False,
         type=str,
+    )
+    parser.add_argument(
+        "--scale",
+        help="displacement scale",
+        required=False,
+        default=0.01,
+        type=float,
     )
     args = parser.parse_args()
     # bvh_file_name = "xsens_bvh/hpx_walk_3DSM_cm.bvh"
@@ -159,8 +179,17 @@ if __name__ == "__main__":
     # bvh_file_name = "xsens_bvh/bj_jump_3DSM.bvh"
     bvh_file_name = args.bvh_file
     xml_file_name = "human_skeleton.xml"
-    scale = 1
-    # scale = 0.01
-
-    d = mujoco_displayanimanim(bvh_file_name, scale)
-    d.animate_bvh()
+    # scale = 1
+    scale = args.scale
+    parser = BVHParser('zxy', args.scale)
+    with open(args.bvh_file, "r") as f:
+        bvh_text = f.read()
+        rotations, positions = parser.parse(bvh_text,start = 2,reset_to_zero=True)
+    from PyQt6.QtWidgets import QApplication
+    import sys
+    app = QApplication(sys.argv)
+    window = parser.bias_edit(rotations, positions)  # 假设rotations/positions预计算
+    window.show()
+    sys.exit(app.exec())
+    # d = mujoco_displayanimanim(bvh_file_name, scale)
+    # d.animate_bvh()

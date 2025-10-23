@@ -1,40 +1,35 @@
 import re
 import numpy as np
 from scipy.spatial.transform import Rotation
+
 ordermap = {
-    'x': 0,
-    'y': 1,
-    'z': 2,
+    "x": 0,
+    "y": 1,
+    "z": 2,
 }
 
-rot_channelmap = {
-    'Xrotation': 'x',
-    'Yrotation': 'y',
-    'Zrotation': 'z'
-}
+rot_channelmap = {"Xrotation": "x", "Yrotation": "y", "Zrotation": "z"}
 
 rot_channelmap_inv = {
-    'x': 'Xrotation',
-    'y': 'Yrotation',
-    'z': 'Zrotation',
+    "x": "Xrotation",
+    "y": "Yrotation",
+    "z": "Zrotation",
 }
 
-pos_channelmap = {
-    'Xposition': 'x',
-    'Yposition': 'y',
-    'Zposition': 'z'
-}
+pos_channelmap = {"Xposition": "x", "Yposition": "y", "Zposition": "z"}
 
 pos_channelmap_inv = {
-    'x': 'Xposition',
-    'y': 'Yposition',
-    'z': 'Zposition',
+    "x": "Xposition",
+    "y": "Yposition",
+    "z": "Zposition",
 }
+
 
 def euler_to_quat(euler):
     """Convert Euler angles (in degrees) to quaternion(wxyz) in xyz order."""
     # Convert degrees to radians
     mujoco_euler_rad = np.deg2rad(np.array(euler))
+    # mujoco_euler_rad = euler
     rot = Rotation.from_euler("xyz", mujoco_euler_rad, degrees=False)
     quat = rot.as_quat(scalar_first=True)
     return quat
@@ -155,16 +150,16 @@ class Node:
 
 
 class BVHParser:
-    def __init__(self, axis_order = 'zxy',scale = 0.01):
+    def __init__(self, axis_order="zxy", scale=0.01):
         self.root = None
-        
+
         self.frame_time = 0.0
         self.num_frames = 0
         self.channel_map = []  # 存储每个节点的通道索引
         self.axis_idx = [ordermap[ax] for ax in axis_order]
         self.scale = scale
 
-    def _HIERARCHY_paser(self,line_idx=-1):
+    def _HIERARCHY_paser(self, line_idx=-1):
         try:
             # print(line_idx,self.line)
             if self.line.startswith("ROOT"):
@@ -195,9 +190,7 @@ class BVHParser:
                 self.channel_map.append((node, 0))
             elif self.line.startswith("End Site"):
                 if not self.stack:
-                    raise ValueError(
-                        "End Site found before ROOT or outside hierarchy"
-                    )
+                    raise ValueError("End Site found before ROOT or outside hierarchy")
                 self.end_site_flag = True
             elif self.line.startswith("OFFSET"):
                 parts = re.findall(r"[-+]?\d*\.\d+|[-+]?\d+\.\d*", self.line)
@@ -207,7 +200,7 @@ class BVHParser:
                 # 转换为 MuJoCo 坐标系: BVH [X, Y, Z] -> MuJoCo [Z, X, Y]
                 # mujoco_offset = [offset[0], offset[1], offset[2]]
                 # mujoco_offset = [offset[2], offset[0], offset[1]]
-                mujoco_offset = [offset[i]*self.scale for i in self.axis_idx]
+                mujoco_offset = [offset[i] * self.scale for i in self.axis_idx]
                 if not self.stack:
                     raise ValueError("OFFSET found before any node")
                 self.stack[-1].offset = mujoco_offset
@@ -218,7 +211,9 @@ class BVHParser:
                 num = int(parts[1])
                 channels = parts[2 : 2 + num]
                 if len(channels) != num:
-                    raise ValueError(f"CHANNELS count mismatch in self.line: {self.line}")
+                    raise ValueError(
+                        f"CHANNELS count mismatch in self.line: {self.line}"
+                    )
                 if not self.stack:
                     raise ValueError("CHANNELS found before any node")
                 self.stack[-1].channels = channels
@@ -233,11 +228,11 @@ class BVHParser:
             elif self.line == "}":
                 if not self.stack:
                     raise ValueError("Unmatched closing brace '}'")
-                if self.end_site_flag: 
+                if self.end_site_flag:
                     """
-                        # end_site_flag is not pushed onto the self.stack, 
-                        # so the root node backtracking based on 
-                        # the inverted parentheses needs to be done one less time
+                    # end_site_flag is not pushed onto the self.stack,
+                    # so the root node backtracking based on
+                    # the inverted parentheses needs to be done one less time
                     """
                     self.end_site_flag = False
                 else:
@@ -250,10 +245,12 @@ class BVHParser:
             else:
                 raise ValueError(f"Unrecognized self.line in HIERARCHY: {self.line}")
         except Exception as e:
-            raise ValueError(f"Error parsing HIERARCHY self.line {line_idx+1}: {self.line}\n{e}")
-        
+            raise ValueError(
+                f"Error parsing HIERARCHY self.line {line_idx+1}: {self.line}\n{e}"
+            )
+
         return 1
-    
+
     def _init_HIERARCHY_paser_stack(self):
         self.stack = []
         self.names = []
@@ -262,7 +259,7 @@ class BVHParser:
         self.end_site_flag = False
         self.active = -1
 
-    def _MOTION_paser(self,line_idx=-1):
+    def _MOTION_paser(self, line_idx=-1):
         try:
             # print(line_idx,self.line)
             if self.line.startswith("Frames:"):
@@ -277,15 +274,16 @@ class BVHParser:
                 frame_data = [float(p) for p in parts]
                 self.frames.append(frame_data)
         except Exception as e:
-            raise ValueError(f"Error parsing MOTION line {line_idx+1}: {self.line}\n{e}")
+            raise ValueError(
+                f"Error parsing MOTION line {line_idx+1}: {self.line}\n{e}"
+            )
         return 1
-    
 
     def _init_MOTION_paser_stack(self):
         self.frames = []
         return
-    
-    def _MOTION_data_process(self,start=None, end=None, reset_to_zero = False):
+
+    def _MOTION_data_process(self, start=None, end=None, reset_to_zero=False):
         # 解析 MOTION
         rotations = []
         positions = []
@@ -301,8 +299,10 @@ class BVHParser:
 
         # 初始化输出数组
         N = len(self.names)  # 关节数
-        rotations = np.zeros((fnum, N, 3))  # 欧拉角
-        positions = np.array(self.offsets)[np.newaxis].repeat(fnum, axis=0)  # (fnum, N, 3)
+        self.rotations = np.zeros((fnum, N, 3))  # 欧拉角
+        self.positions = np.array(self.offsets)[np.newaxis].repeat(
+            fnum, axis=0
+        )  # (fnum, N, 3)
 
         # 解析 MOTION 数据
         for fi, frame_data in enumerate(frames):
@@ -313,30 +313,54 @@ class BVHParser:
                 channels = node.channels
                 num_channels = len(channels)
                 data = frame_data[channel_idx : channel_idx + num_channels]
-                if node.name == "Hips" and num_channels == 6:
+                # if node.name == "Hips" and num_channels == 6:
+                #     # 根节点: 位置 + 旋转
+                #     pos_cha = channels[:3]
+                #     rot_cha = channels[3:]
+                #     bvh_pos_idx = [ordermap[pos_channelmap[c]] for c in pos_cha]
+                #     bvh_rot_idx = [ordermap[rot_channelmap[c]] for c in rot_cha]
+                #     bvh_pos = [data[0:3][i] for i in bvh_pos_idx]
+                #     bvh_rot = [data[3:6][i] for i in bvh_rot_idx]
+
+                #     # 转换为 MuJoCo 坐标系: BVH [X, Y, Z] -> MuJoCo [Z, X, Y]
+                #     mujoco_pos = [bvh_pos[i] * self.scale for i in self.axis_idx]
+                #     mujoco_rot = [bvh_rot[i] for i in self.axis_idx]
+                #     self.positions[fi, node_idx] = mujoco_pos
+                #     self.rotations[fi, node_idx] = mujoco_rot
+                if num_channels == 6:
                     # 根节点: 位置 + 旋转
                     pos_cha = channels[:3]
                     rot_cha = channels[3:]
-                    bvh_pos_idx = [ordermap[pos_channelmap[c]]for c in pos_cha]
-                    bvh_rot_idx = [ordermap[rot_channelmap[c]]for c in rot_cha]
+                    bvh_pos_idx = [ordermap[pos_channelmap[c]] for c in pos_cha]
+                    bvh_rot_idx = [ordermap[rot_channelmap[c]] for c in rot_cha]
                     bvh_pos = [data[0:3][i] for i in bvh_pos_idx]
                     bvh_rot = [data[3:6][i] for i in bvh_rot_idx]
-                    
+
                     # 转换为 MuJoCo 坐标系: BVH [X, Y, Z] -> MuJoCo [Z, X, Y]
-                    mujoco_pos = [bvh_pos[i]*self.scale for i in self.axis_idx]
+                    mujoco_pos = [bvh_pos[i] * self.scale for i in self.axis_idx]
                     mujoco_rot = [bvh_rot[i] for i in self.axis_idx]
-                    positions[fi, node_idx] = mujoco_pos
-                    rotations[fi, node_idx] = mujoco_rot  
-                    
+                    if node.name == "Hips":
+                        self.positions[fi, node_idx] = mujoco_pos
+                    self.rotations[fi, node_idx] = mujoco_rot
+
                 else:
                     # 其他关节: 仅旋转
                     rot_cha = channels
-                    bvh_rot_idx = [ordermap[rot_channelmap[c]]for c in rot_cha]
+                    bvh_rot_idx = [ordermap[rot_channelmap[c]] for c in rot_cha]
                     bvh_rot = [data[0:3][i] for i in bvh_rot_idx]
                     mujoco_rot = [bvh_rot[i] for i in self.axis_idx]
-                    rotations[fi, node_idx] = mujoco_rot  
+                    self.rotations[fi, node_idx] = mujoco_rot
                 channel_idx += num_channels
+        return self.rotations, self.positions
+        # window = self.bias_edit(rotations, positions)
+        # rotations, positions = self.bias_edit(self.rotations, self.positions)
 
+        # quats, positions, offsets, parents = self._MOTION_data_post_processing(
+        #     rotations, positions, reset_to_zero
+        # )
+        # return Anim(quats, positions, offsets, parents, self.names)
+
+    def _MOTION_data_post_processing(self, rotations, positions, reset_to_zero):
         # 转换为四元数
         quats = np.array(
             [[euler_to_quat(rot) for rot in frame] for frame in rotations]
@@ -348,14 +372,32 @@ class BVHParser:
         # 转换为 numpy 数组
         offsets = np.array(self.offsets)  # (N, 3)
         parents = np.array(self.parents, dtype=int)  # (N,)
-        
         if reset_to_zero:
-            positions[:, 0] = self.compensate_displacements(quats[:, 0],positions[:, 0])
-            positions[:, 0][:,0:2] -=positions[:, 0][0,0:2]
+            
+            positions[:, 0][:, 0:2] -= positions[:, 0][0, 0:2]
+
+            positions[:, 0] = self.compensate_displacements(
+                quats[:, 0], positions[:, 0]
+            )
             quats[:, 0] = self.compensate_z_rotation(quats[:, 0])
-        return Anim(quats, positions, offsets, parents, self.names)
-    
-    def compensate_displacements(self,quaternions, displacements):
+        return quats, positions, offsets, parents
+
+    def bias_edit(self, rotations, positions):
+        import sys
+        from PyQt6.QtWidgets import QApplication
+        from general_motion_retargeting.utils.xsens_vendor.bvh_edit.CurveEditor import (
+            CurveEditorWindow,
+        )
+
+        # 示例数据：假设解析了BVH数据
+        app = QApplication(sys.argv)
+        window = CurveEditorWindow(self.names, rotations, parser=self)
+        window.show()
+        # app.exec()
+        # sys.exit(app.exec())
+        return window
+
+    def compensate_displacements(self, quaternions, displacements):
         """
         计算第一个四元数的 z 轴转角，并对所有位移值应用补偿旋转（反向旋转）。
         参数：
@@ -367,7 +409,11 @@ class BVHParser:
         # 确保输入形状正确
         quaternions = np.array(quaternions, dtype=float)
         displacements = np.array(displacements, dtype=float)
-        if quaternions.shape[1] != 4 or displacements.shape[1] != 3 or quaternions.shape[0] != displacements.shape[0]:
+        if (
+            quaternions.shape[1] != 4
+            or displacements.shape[1] != 3
+            or quaternions.shape[0] != displacements.shape[0]
+        ):
             raise ValueError("输入数组必须是 n x 4 的四元数和 n x 3 的位移")
 
         # 获取第一个四元数并归一化
@@ -382,17 +428,21 @@ class BVHParser:
         sin_neg_theta = np.sin(-theta)
 
         # 构造绕 z 轴的旋转矩阵 R(-theta)
-        rotation_matrix = np.array([
-            [cos_neg_theta, -sin_neg_theta, 0],
-            [sin_neg_theta, cos_neg_theta, 0],
-            [0, 0, 1]
-        ])
+        rotation_matrix = np.array(
+            [
+                [cos_neg_theta, -sin_neg_theta, 0],
+                [sin_neg_theta, cos_neg_theta, 0],
+                [0, 0, 1],
+            ]
+        )
 
         # 对所有位移向量应用旋转（矢量化操作，更高效）
-        compensated_displacements = np.dot(displacements, rotation_matrix.T)  # 使用 .T 因为矩阵是行向量形式
+        compensated_displacements = np.dot(
+            displacements, rotation_matrix.T
+        )  # 使用 .T 因为矩阵是行向量形式
 
         return compensated_displacements
-    
+
     def compensate_z_rotation(self, quaternions):
         """
         补偿 n x 4 四元数数组中所有四元数的 z 轴转角，使其等于第一个四元数的 z 轴转角归零。
@@ -441,8 +491,8 @@ class BVHParser:
             result[i] = result[i] / np.linalg.norm(result[i])
 
         return result
-    
-    def parse(self, text, start=None, end=None, reset_to_zero = False):
+
+    def parse(self, text, start=None, end=None, reset_to_zero=False):
         lines = text.strip().split("\n")
         i = 0
         self._init_HIERARCHY_paser_stack()
@@ -468,35 +518,33 @@ class BVHParser:
             elif mode == "MOTION":
                 self._MOTION_paser(i)
             i += 1
-        
+
         if self.stack:
             raise ValueError(
                 "HIERARCHY parsing incomplete: stack not empty, missing closing braces"
             )
         if not self.root:
             raise ValueError("No ROOT node found in hierarchy")
-        
+
         if len(self.frames) != self.num_frames:
             raise ValueError(
                 f"MOTION data has {len(self.frames)} frames, but expected {self.num_frames}"
             )
-        
+
         return self._MOTION_data_process(start, end, reset_to_zero)
 
-    def generate_mujoco_xml(self,frame_0=[]):
+    def generate_mujoco_xml(self, frame_0=[]):
         self.end_site = 0
 
         def generate_xml(node, indent=2):
             spaces = " " * indent
             if node.name == "Hips":
                 # frame_0[2] += 0.2/self.scale
-                # print(pos)
                 pos_str = " ".join(f"{x:.6f}" for x in frame_0)
             else:
                 pos_str = " ".join(f"{x:.6f}" for x in node.offset)
 
             xml = f'{spaces}<body name="{node.name}" pos="{pos_str}">\n'
-            # print(xml)
             if node.name == "Hips":  # Root
                 xml += f'{spaces}  <joint name="floating_base_joint" type="free" limited="false" actuatorfrclimited="false"/>\n'
             else:
