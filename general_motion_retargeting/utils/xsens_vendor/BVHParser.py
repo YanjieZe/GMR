@@ -2,6 +2,27 @@ import re
 import numpy as np
 from scipy.spatial.transform import Rotation
 
+
+class Anim(object):
+    """
+    A very basic animation object
+    """
+
+    def __init__(self, quats, pos, offsets, parents, bones):
+        """
+        :param quats: local quaternions tensor
+        :param pos: local positions tensor
+        :param offsets: local joint offsets
+        :param parents: bone hierarchy
+        :param bones: bone names
+        """
+        self.quats = quats
+        self.pos = pos
+        self.offsets = offsets
+        self.parents = parents
+        self.bones = bones
+
+
 ordermap = {
     "x": 0,
     "y": 1,
@@ -110,25 +131,6 @@ def quat_mul_vec(q, x):
 
     return res
 
-
-class Anim(object):
-    """
-    A very basic animation object
-    """
-
-    def __init__(self, quats, pos, offsets, parents, bones):
-        """
-        :param quats: local quaternions tensor
-        :param pos: local positions tensor
-        :param offsets: local joint offsets
-        :param parents: bone hierarchy
-        :param bones: bone names
-        """
-        self.quats = quats
-        self.pos = pos
-        self.offsets = offsets
-        self.parents = parents
-        self.bones = bones
 
 
 class Node:
@@ -313,20 +315,6 @@ class BVHParser:
                 channels = node.channels
                 num_channels = len(channels)
                 data = frame_data[channel_idx : channel_idx + num_channels]
-                # if node.name == "Hips" and num_channels == 6:
-                #     # 根节点: 位置 + 旋转
-                #     pos_cha = channels[:3]
-                #     rot_cha = channels[3:]
-                #     bvh_pos_idx = [ordermap[pos_channelmap[c]] for c in pos_cha]
-                #     bvh_rot_idx = [ordermap[rot_channelmap[c]] for c in rot_cha]
-                #     bvh_pos = [data[0:3][i] for i in bvh_pos_idx]
-                #     bvh_rot = [data[3:6][i] for i in bvh_rot_idx]
-
-                #     # 转换为 MuJoCo 坐标系: BVH [X, Y, Z] -> MuJoCo [Z, X, Y]
-                #     mujoco_pos = [bvh_pos[i] * self.scale for i in self.axis_idx]
-                #     mujoco_rot = [bvh_rot[i] for i in self.axis_idx]
-                #     self.positions[fi, node_idx] = mujoco_pos
-                #     self.rotations[fi, node_idx] = mujoco_rot
                 if num_channels == 6:
                     # 根节点: 位置 + 旋转
                     pos_cha = channels[:3]
@@ -352,13 +340,6 @@ class BVHParser:
                     self.rotations[fi, node_idx] = mujoco_rot
                 channel_idx += num_channels
         return self.rotations, self.positions
-        # window = self.bias_edit(rotations, positions)
-        # rotations, positions = self.bias_edit(self.rotations, self.positions)
-
-        # quats, positions, offsets, parents = self._MOTION_data_post_processing(
-        #     rotations, positions, reset_to_zero
-        # )
-        # return Anim(quats, positions, offsets, parents, self.names)
 
     def _MOTION_data_post_processing(self, rotations, positions, reset_to_zero):
         # 转换为四元数

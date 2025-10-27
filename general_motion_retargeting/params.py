@@ -8,6 +8,8 @@ ROBOT_XML_DICT = {
     "unitree_g1": ASSET_ROOT / "unitree_g1" / "g1_mocap_29dof.xml",
     "unitree_g1_with_hands": ASSET_ROOT / "unitree_g1" / "g1_mocap_29dof_with_hands.xml",
     "unitree_h1": ASSET_ROOT / "unitree_h1" / "h1.xml",
+    # "unitree_h1_2": ASSET_ROOT / "h1_2" / "h1_2_wo_hand.xml",
+    # "unitree_h1_2": ASSET_ROOT / "unitree_h1_2" / "h1_2.xml",
     "unitree_h1_2": ASSET_ROOT / "unitree_h1_2" / "h1_2_handless.xml",
     "booster_t1": ASSET_ROOT / "booster_t1" / "T1_serial.xml",
     "booster_t1_29dof": ASSET_ROOT / "booster_t1_29dof" / "t1_mocap.xml",
@@ -21,6 +23,7 @@ ROBOT_XML_DICT = {
     "booster_k1": ASSET_ROOT / "booster_k1" / "K1_serial.xml",
     "pnd_adam_lite": ASSET_ROOT / "pnd_adam_lite" / "scene.xml",
     "tienkung": ASSET_ROOT / "tienkung" / "mjcf" / "tienkung.xml",
+    "Q1": ASSET_ROOT / "Q1P01" / "mjcf" / "Q1_01.xml",
 }
 
 IK_CONFIG_DICT = {
@@ -54,6 +57,7 @@ IK_CONFIG_DICT = {
     "xsens_bvh":{
         "unitree_g1": IK_CONFIG_ROOT / "xsens_bvh_to_g1.json",
         "unitree_h1_2": IK_CONFIG_ROOT / "xsens_bvh_to_h1_2.json",
+        "Q1": IK_CONFIG_ROOT / "xsens_bvh_to_Q1.json",
     },
     "fbx":{
         "unitree_g1": IK_CONFIG_ROOT / "fbx_to_g1.json",
@@ -82,6 +86,7 @@ ROBOT_BASE_DICT = {
     "booster_k1": "Trunk",
     "pnd_adam_lite": "pelvis",
     "tienkung": "Base_link",
+    "Q1": "torso_link",
 }
 
 VIEWER_CAM_DISTANCE_DICT = {
@@ -101,4 +106,5 @@ VIEWER_CAM_DISTANCE_DICT = {
     "booster_k1": 2.0,
     "pnd_adam_lite": 3.0,
     "tienkung": 3.0,
+    "Q1": 3.0,
 }

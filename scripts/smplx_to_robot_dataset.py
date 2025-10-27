@@ -22,7 +22,6 @@ import time
 import psutil
 import tracemalloc
 
-
 def check_memory(threshold_gb=30):  # adjust based on your available memory
     mem = psutil.virtual_memory()
     used_memory_gb = (mem.total - mem.available) / (1024 ** 3)
@@ -68,7 +67,7 @@ def process_file(smplx_file_path, tgt_file_path, tgt_robot, SMPLX_FOLDER, tgt_fo
         return
     
   
-    tgt_fps = 30
+    tgt_fps = 50
     try:
         smplx_frame_data_list, aligned_fps = get_smplx_data_offline_fast(smplx_data, body_model, smplx_output, tgt_fps=tgt_fps)
     except Exception as e:
@@ -99,7 +98,7 @@ def process_file(smplx_file_path, tgt_file_path, tgt_robot, SMPLX_FOLDER, tgt_fo
         print(f"Error processing {smplx_file_path}: {e}")
         return
     root_rot = qpos_list[:, 3:7]
-    root_rot[:, [0, 1, 2, 3]] = root_rot[:, [1, 2, 3, 0]]
+    # root_rot[:, [0, 1, 2, 3]] = root_rot[:, [1, 2, 3, 0]]
     dof_pos = qpos_list[:, 7:]
     num_frames = root_pos.shape[0]
 
@@ -139,7 +138,6 @@ def process_file(smplx_file_path, tgt_file_path, tgt_robot, SMPLX_FOLDER, tgt_fo
         "local_body_pos": local_body_pos.detach().cpu().numpy(),
         "link_body_list": body_names,
     }
-
 
     os.makedirs(os.path.dirname(tgt_file_path), exist_ok=True)
     with open(tgt_file_path, "wb") as f:

@@ -59,31 +59,34 @@ def load_xsens_file(args):
         if args.bvh_format == "3DSM" or args.bvh_format == "MB":
             result["LeftFootMod"] = (result["LeftAnkle"][0], result["LeftAnkle"][1])
             result["RightFootMod"] = (result["RightAnkle"][0], result["RightAnkle"][1])
-            result["Spine2"] = result.pop("Chest4")
+            # result["Spine2"] = result.pop("Chest4")
 
         else:
             result["LeftFootMod"] = (result["LeftAnkle"][0], result["lToe"][1])
             result["RightFootMod"] = (result["RightAnkle"][0], result["rToe"][1])
-            result["Spine2"] = result.pop("Chest")
+            # result["Spine2"] = result.pop("Chest")
 
-        result["LeftUpLeg"] = result.pop("LeftHip")
-        result["LeftLeg"] = result.pop("LeftKnee")
+        # result["LeftUpLeg"] = result.pop("LeftHip")
+        # result["LeftLeg"] = result.pop("LeftKnee")
 
-        result["RightUpLeg"] = result.pop("RightHip")
-        result["RightLeg"] = result.pop("RightKnee")
+        # result["RightUpLeg"] = result.pop("RightHip")
+        # result["RightLeg"] = result.pop("RightKnee")
 
-        result["LeftArm"] = result.pop("LeftShoulder")
-        result["LeftForeArm"] = result.pop("LeftElbow")
-        result["LeftHand"] = result.pop("LeftWrist")
+        # result["LeftArm"] = result.pop("LeftShoulder")
+        # result["LeftForeArm"] = result.pop("LeftElbow")
+        # result["LeftHand"] = result.pop("LeftWrist")
 
-        result["RightArm"] = result.pop("RightShoulder")
-        result["RightForeArm"] = result.pop("RightElbow")
-        result["RightHand"] = result.pop("RightWrist")
+        # result["RightArm"] = result.pop("RightShoulder")
+        # result["RightForeArm"] = result.pop("RightElbow")
+        # result["RightHand"] = result.pop("RightWrist")
         frames.append(result)
 
     human_height = result["Head"][0][2] - min(
         result["LeftFootMod"][0][2], result["RightFootMod"][0][2]
     )
+    print(result["Neck"][0][2] - min(
+        result["LeftFootMod"][0][2], result["RightFootMod"][0][2]
+    ))
     # human_height = human_height + 0.2  # cm to m
     # human_height = 1.75  # cm to m
 

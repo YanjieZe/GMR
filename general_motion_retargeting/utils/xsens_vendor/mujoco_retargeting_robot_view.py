@@ -14,14 +14,8 @@ class cfg:
     only_leg_flag = False  # True, False
     with_wrist_flag = True  # True, False
 
-
-class mujoco_displayanimanim:
-    def __init__(self, _robot_file, _rtg_data_file_path):
-        self.robot_file = _robot_file
-        self.spec = mujoco.MjSpec.from_file(self.robot_file)
-        # self._rehandle_xml()
-        self.model = self.spec.compile()
-        self.data = mujoco.MjData(self.model)
+class pkl_load_and_csv_save:
+    def __init__(self,_rtg_data_file_path):
         with open(_rtg_data_file_path, "rb") as f:
             self.data_collection = pickle.load(f)
         #     self.data_collection['root_pos'] = np.delete(self.data_collection['root_pos'] ,[0,1],axis=0)
@@ -30,6 +24,38 @@ class mujoco_displayanimanim:
         # self.data_collection['root_pos'] = self.compensate_displacements(self.data_collection['root_rot'],self.data_collection['root_pos'])
         # self.data_collection['root_pos'][:,0:2] -=self.data_collection['root_pos'][0,0:2]
         # self.data_collection['root_rot'] = self.compensate_z_rotation(self.data_collection['root_rot'])
+    def save_as_csv(self,_csv_folder_path,file_name):
+        csv_file = _csv_folder_path + "/" +file_name
+        os.makedirs(os.path.dirname(csv_file), exist_ok=True)
+
+        if os.path.exists(csv_file):
+            os.remove(csv_file)
+        frames_len = int(self.data_collection["root_pos"].shape[0])
+        with open(csv_file, "w", newline="") as file:
+            writer = csv.writer(file)
+            result = np.concatenate(
+                (
+                    self.data_collection["root_pos"],
+                    self.data_collection["root_rot"][:, [1, 2, 3, 0]],
+                    self.data_collection["dof_pos"],
+                ),
+                axis=1,
+            )
+            for idx in range(frames_len):
+                row = result[idx, :]
+                writer.writerow(row)
+
+        print(f"数据已写入 {csv_file}")
+        return True
+    
+class mujoco_displayanimanim(pkl_load_and_csv_save):
+    def __init__(self, _robot_file, _rtg_data_file_path):
+        super().__init__(_rtg_data_file_path)
+        self.robot_file = _robot_file
+        self.spec = mujoco.MjSpec.from_file(self.robot_file)
+        # self._rehandle_xml()
+        self.model = self.spec.compile()
+        self.data = mujoco.MjData(self.model)
         a = 1
 
     def compensate_displacements(self,quaternions, displacements):
@@ -118,31 +144,6 @@ class mujoco_displayanimanim:
             result[i] = result[i] / np.linalg.norm(result[i])
 
         return result
-    
-    def save_as_csv(self,_csv_file):
-        csv_file = _csv_file
-        if os.path.exists(csv_file):
-            os.remove(csv_file)
-        frames_len = int(self.data_collection["root_pos"].shape[0])
-        with open(csv_file, "w", newline="") as file:
-            writer = csv.writer(file)
-            result = np.concatenate(
-                (
-                    self.data_collection["root_pos"],
-                    self.data_collection["root_rot"][:, [1, 2, 3, 0]],
-                    self.data_collection["dof_pos"],
-                ),
-                axis=1,
-            )
-            # 示例：循环写入10次，每次8个随机浮点数
-            for idx in range(frames_len):
-                # 生成8个随机浮点数
-                row = result[idx, :]
-                # 写入一行
-                writer.writerow(row)
-
-        print(f"数据已写入 {csv_file}")
-        return
 
     def animate_bvh(self):
         # 动画播放
@@ -150,23 +151,6 @@ class mujoco_displayanimanim:
         frames_len = int(self.data_collection["root_pos"].shape[0])-start_bias
         # frames_len = 3700
         frame_time = 1 / self.data_collection["fps"]
-        """
-        from scipy.spatial.transform import Rotation as R
-        import matplotlib.pyplot as plt
-        t = np.linspace(0, frames_len*frame_time, frames_len)
-        rotvec = R.from_quat(self.data_collection["root_rot"],scalar_first=True).as_rotvec(degrees=True) # 
-        # 绘制三维散点图
-        plt.figure(figsize=(10, 6))
-        plt.plot(t, rotvec[:,0], label=r'$\roll$')
-        # plt.plot(t, rotvec[:,1], label=r'$\pitch$')
-        # plt.plot(t, rotvec[:,2], label=r'$\yaw$')
-
-        # 显示图形
-        plt.show()
-        mean_angle = np.mean(self.data_collection["dof_pos"],axis=0)
-        for i in range(mean_angle.shape[0]):
-            print(mean_angle[i])
-        """
         # print(np.mean(self.data_collection["dof_pos"],axis=1))
         with mujoco.viewer.launch_passive(
             self.model,
@@ -318,16 +302,37 @@ class mujoco_displayanimanim:
         return joints_to_remove, actuators_to_remove, equ_constr_to_remove
 
 import argparse
+import multiprocessing as mp
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument(
         "--pkl_file",
         help="BVH motion file to load.",
-        default="251021_05_xingyiquan_120Hz",
+        default="",
         type=str,
     )
+
+    parser.add_argument(
+        "--retargeting_data_folder",
+        help="BVH motion file to load.",
+        default="",
+        type=str,
+    )
+
+    parser.add_argument(
+        "--csv_folder",
+        help="BVH motion file to load.",
+        default="",
+        type=str,
+    )
+    parser.add_argument("--num_cpus", default=4, type=int)
     args = parser.parse_args()
+
+
+    print(f"Total CPUs: {mp.cpu_count()}")
+    print(f"Using {args.num_cpus} CPUs.")
+
     robot_xml_file_name = (
         "/home/hpx/HPX_LOCO_2/GMR/assets/unitree_h1_2/h1_2_handless.xml"
         # "/home/hpx/HPX_LOCO_2/GMR/assets/h1_2/h1_2_wo_hand.xml"
@@ -338,13 +343,10 @@ if __name__ == "__main__":
         # "/home/hpx/HPX_LOCO_2/retargeting/retargeting_data/unitree_h1_2_xsens_jump_0917.pkl"
         # "/home/hpx/HPX_LOCO_2/GMR/retargeting_data/h1_2_slowly_walk_1011_test.pkl"
         "/home/hpx/HPX_LOCO_2/GMR/"
-        + "retargeting_data/"
-        + "251021/"
-        + args.pkl_file
-        + ".pkl"
+        + "retargeting_data/AMASS_SMPLX_G/ACCAD/Male1Walking_c3d/Walk_B10_-_Walk_turn_left_45_stageii.pkl"
         # "/home/hpx/HPX_LOCO_2/retargeting/retargeting_data/unitree_h1_2_xsens_ground_0917.pkl"
     )
     # 7+27
     d = mujoco_displayanimanim(robot_xml_file_name, retargeting_data_file_name)
-    d.save_as_csv("lafan_h1_2/251021/"+args.pkl_file+".csv")
+    d.save_as_csv("lafan_h1_2/AMASS_SMPLX_G/ACCAD/Male1Walking_c3d","Walk_B10_-_Walk_turn_left_45_stageii.pkl.csv")
     d.animate_bvh()

@@ -12,6 +12,8 @@ def load_smpl_file(smpl_file):
     return smpl_data
 
 def load_smplx_file(smplx_file, smplx_body_model_path):
+    print("smplx_file:",smplx_file)
+    print("smplx_body_model_path:",smplx_body_model_path)
     smplx_data = np.load(smplx_file, allow_pickle=True)
     body_model = smplx.create(
         smplx_body_model_path,

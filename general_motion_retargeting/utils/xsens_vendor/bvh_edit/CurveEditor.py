@@ -110,7 +110,7 @@ class OffsetManager:
 
 
 class CurveEditorWindow(QMainWindow):
-    def __init__(self, joint_names, data, scale=200.0, parser=None):
+    def __init__(self, joint_names, data, scale=100.0, parser=None):
         super().__init__()
         self.parser = parser  # 传入BVHParser实例
         self.is_frozen = False
