@@ -140,6 +140,7 @@ class Node:
         self.channels = channels if channels is not None else []
         self.children = []
         self.is_end = is_end
+        self.index = -1  # 新增索引属性，用于跟踪关节索引
 
     def __str__(self, level=0):
         ret = (
@@ -173,7 +174,8 @@ class BVHParser:
                 self.offsets.append([0.0, 0.0, 0.0])
                 self.parents.append(self.active)
                 self.active = len(self.parents) - 1
-                self.channel_map.append((self.root, 0))
+                self.root.index = self.active
+                self.channel_map.append((self.root, self.current_channel_idx))
             elif self.line.startswith("JOINT"):
                 name = self.line.split()[1]
                 if not self.stack:
@@ -189,19 +191,22 @@ class BVHParser:
                 self.parents.append(self.active)
                 # print(f"JOINT {name} parent is {self.active}")
                 self.active = len(self.parents) - 1
-                self.channel_map.append((node, 0))
+                node.index = self.active
+                self.channel_map.append((node, self.current_channel_idx))
             elif self.line.startswith("End Site"):
                 if not self.stack:
                     raise ValueError("End Site found before ROOT or outside hierarchy")
-                self.end_site_flag = True
+                parent_name = self.stack[-1].name
+                name = parent_name + "_end_site"
+                node = Node(name, is_end=True)
+                self.stack[-1].children.append(node)
+                self.stack.append(node)
+                # 不添加至names、offsets、parents和channel_map
             elif self.line.startswith("OFFSET"):
                 parts = re.findall(r"[-+]?\d*\.\d+|[-+]?\d+\.\d*", self.line)
                 if len(parts) != 3:
                     raise ValueError(f"Invalid OFFSET format in self.line: {self.line}")
                 offset = [float(p) for p in parts]
-                # 转换为 MuJoCo 坐标系: BVH [X, Y, Z] -> MuJoCo [Z, X, Y]
-                # mujoco_offset = [offset[0], offset[1], offset[2]]
-                # mujoco_offset = [offset[2], offset[0], offset[1]]
                 mujoco_offset = [offset[i] * self.scale for i in self.axis_idx]
                 if not self.stack:
                     raise ValueError("OFFSET found before any node")
@@ -219,31 +224,16 @@ class BVHParser:
                 if not self.stack:
                     raise ValueError("CHANNELS found before any node")
                 self.stack[-1].channels = channels
-                # 更新 channel_map 中的通道起始索引
-                if self.stack[-1] is not self.root and not self.stack[-1].is_end:
-                    self.channel_map[-1] = (
-                        self.stack[-1],
-                        self.channel_map[-1][1] + num,
-                    )
+                # 更新累积通道索引
+                self.current_channel_idx += num
             elif self.line == "{":
                 pass
             elif self.line == "}":
                 if not self.stack:
                     raise ValueError("Unmatched closing brace '}'")
-                if self.end_site_flag:
-                    """
-                    # end_site_flag is not pushed onto the self.stack,
-                    # so the root node backtracking based on
-                    # the inverted parentheses needs to be done one less time
-                    """
-                    self.end_site_flag = False
-                else:
-                    self.stack.pop()
-                    # for idx, node in enumerate(self.stack):
-                    #     print("\t" * idx, node.name)
-                    if self.stack:
-                        self.active = self.parents[self.active]
-                        # print("}", self.active)
+                self.stack.pop()
+                if self.stack:
+                    self.active = self.stack[-1].index
             else:
                 raise ValueError(f"Unrecognized self.line in HIERARCHY: {self.line}")
         except Exception as e:
@@ -258,8 +248,8 @@ class BVHParser:
         self.names = []
         self.offsets = []
         self.parents = []
-        self.end_site_flag = False
         self.active = -1
+        self.current_channel_idx = 0  # 新增累积通道索引
 
     def _MOTION_paser(self, line_idx=-1):
         try:
@@ -535,8 +525,8 @@ class BVHParser:
             )
             for child in node.children:
                 if child.is_end:
-                    end_pos = " ".join(f"{x:.6f}" for x in node.offset)
-                    xml += f'{spaces}  <site name="{child.name+str(self.end_site)}" pos="{end_pos}"/>\n'
+                    end_pos = " ".join(f"{x:.6f}" for x in child.offset)  # 修改为child.offset
+                    xml += f'{spaces}  <site name="{child.name}" pos="{end_pos}"/>\n'  # 修改为child.name，无需+str(self.end_site)
                     self.end_site += 1
                 else:
                     xml += generate_xml(child, indent + 2)
