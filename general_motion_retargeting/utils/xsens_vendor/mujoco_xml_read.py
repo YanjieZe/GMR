@@ -9,8 +9,8 @@ model_name_list = [
         "Hips",
         "Chest4",
         "LeftHip",
-        "LeftAnkle",
-        "LeftAnkle",
+        "LeftKnee",
+        "LeftToe",
         "LeftShoulder",
         "LeftElbow",
         "LeftWrist",
@@ -48,7 +48,7 @@ for i in range(2):
         idx = mujoco.mj_name2id(model, mujoco.mjtObj.mjOBJ_BODY, name)
         xpos = data.xpos[idx, :]
         pos_list[i].append(np.copy(xpos))
-        # print(f"{idx} {name}:{xpos}")
+        print(f"{idx} {name}:{xpos}")
     for j in range(len(pos_list[i])-1):
         err_list[i].append(pos_list[i][j+1]-pos_list[i][0])
 

@@ -83,11 +83,6 @@ class GeneralMotionRetargeting:
         self.use_ik_match_table2 = ik_config["use_ik_match_table2"]
         self.human_scale_table = ik_config["human_scale_table"]
         self.ground = ik_config["ground_height"] * np.array([0, 0, 1])
-        self.human_scale_table_2 = ik_config["human_scale_table_2"]
-        for key in ik_config["human_scale_table_2"].keys():
-            ik_config["human_scale_table_2"][key] = (
-                np.array(ik_config["human_scale_table_2"][key]) * ratio
-            )
         self.max_iter = 10
 
         self.solver = solver
@@ -158,8 +153,8 @@ class GeneralMotionRetargeting:
         # scale human data in local frame
         human_data = self.to_numpy(human_data)
         human_data = self.scale_human_data(
-            # human_data, self.human_root_name, self.human_scale_table
-            human_data, self.human_root_name, self.human_scale_table_2
+            human_data, self.human_root_name, self.human_scale_table
+            # human_data, self.human_root_name, self.human_scale_table_2
         )
         human_data = self.offset_human_data(
             human_data, self.pos_offsets1, self.rot_offsets1

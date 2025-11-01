@@ -24,8 +24,8 @@ class pkl_load_and_csv_save:
         # self.data_collection['root_pos'] = self.compensate_displacements(self.data_collection['root_rot'],self.data_collection['root_pos'])
         # self.data_collection['root_pos'][:,0:2] -=self.data_collection['root_pos'][0,0:2]
         # self.data_collection['root_rot'] = self.compensate_z_rotation(self.data_collection['root_rot'])
-    def save_as_csv(self,_csv_folder_path,file_name):
-        csv_file = _csv_folder_path + "/" +file_name
+    def save_as_csv(self,_csv_file):
+        csv_file = _csv_file
         os.makedirs(os.path.dirname(csv_file), exist_ok=True)
 
         if os.path.exists(csv_file):
@@ -334,7 +334,8 @@ if __name__ == "__main__":
     print(f"Using {args.num_cpus} CPUs.")
 
     robot_xml_file_name = (
-        "/home/hpx/HPX_LOCO_2/GMR/assets/unitree_h1_2/h1_2_handless.xml"
+        # "/home/hpx/HPX_LOCO_2/GMR/assets/unitree_h1_2/h1_2_handless.xml"
+        "/home/hpx/HPX_LOCO_2/GMR/assets/Q1P01/mjcf/Q1_02.xml"
         # "/home/hpx/HPX_LOCO_2/GMR/assets/h1_2/h1_2_wo_hand.xml"
     )
 
@@ -343,10 +344,10 @@ if __name__ == "__main__":
         # "/home/hpx/HPX_LOCO_2/retargeting/retargeting_data/unitree_h1_2_xsens_jump_0917.pkl"
         # "/home/hpx/HPX_LOCO_2/GMR/retargeting_data/h1_2_slowly_walk_1011_test.pkl"
         "/home/hpx/HPX_LOCO_2/GMR/"
-        + "retargeting_data/AMASS_SMPLX_G/ACCAD/Male1Walking_c3d/Walk_B10_-_Walk_turn_left_45_stageii.pkl"
+        + "retargeting_data/Q1/251021/251021_03_saw_120Hz.pkl"
         # "/home/hpx/HPX_LOCO_2/retargeting/retargeting_data/unitree_h1_2_xsens_ground_0917.pkl"
     )
     # 7+27
     d = mujoco_displayanimanim(robot_xml_file_name, retargeting_data_file_name)
-    d.save_as_csv("lafan_h1_2/AMASS_SMPLX_G/ACCAD/Male1Walking_c3d","Walk_B10_-_Walk_turn_left_45_stageii.pkl.csv")
+    d.save_as_csv("lafan_Q1/251021/251021_03_saw_120Hz.csv")
     d.animate_bvh()

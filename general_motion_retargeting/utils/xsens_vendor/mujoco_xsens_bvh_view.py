@@ -21,6 +21,7 @@ class mujoco_displayanimanim:
         self.xml_content = self.parser.generate_mujoco_xml(frame_0=self.anim.pos[0, 0]
         )
         # print(xml_content)
+        xml_file_name = "human_skeleton.xml"
         if save_flag:
             with open(xml_file_name, "w") as f:
                 f.write(self.xml_content)

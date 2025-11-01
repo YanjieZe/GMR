@@ -49,7 +49,7 @@ class MujocoThread(QThread):
             self.parser, self.anim
         )  # 假设bvh_file=None，使用预计算anim
         # d.anim = self.anim  # 注入预计算的Anim
-        d._init_xml_data(save_flag=False)  # 使用内存XML
+        d._init_xml_data(save_flag=True)  # 使用内存XML
         try:
             d.animate_bvh()
         except Exception as e:

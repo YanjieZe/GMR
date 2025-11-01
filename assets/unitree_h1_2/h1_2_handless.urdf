@@ -34,7 +34,7 @@
     </collision>
   </link>
 
-  <!-- L Leg -->
+<!-- L Leg -->
   <link name="left_hip_yaw_link">
     <inertial>
       <origin xyz="0 -0.026197 0.006647" rpy="0 0 0"/>
@@ -210,7 +210,7 @@
     <limit lower="-0.261799" upper="0.261799" effort="40" velocity="9"/>
   </joint>
 
-  <!-- R Leg -->
+<!-- R Leg -->
   <link name="right_hip_yaw_link">
     <inertial>
       <origin xyz="0 0.026197 0.006647" rpy="0 0 0"/>
@@ -386,7 +386,7 @@
     <limit lower="-0.261799" upper="0.261799" effort="40" velocity="9"/>
   </joint>
 
-  <!-- Torso -->
+<!-- Torso -->
   <link name="torso_link">
     <inertial>
       <origin xyz="0.000489 0.002797 0.20484" rpy="0 0 0"/>
@@ -417,7 +417,7 @@
     <limit lower="-2.35" upper="2.35" effort="200" velocity="23"/>
   </joint>
 
-  <!-- L arm -->
+<!-- L arm -->
   <link name="left_shoulder_pitch_link">
     <inertial>
       <origin xyz="0.003053 0.06042 -0.0059" rpy="0 0 0"/>

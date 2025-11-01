@@ -23,7 +23,7 @@ ROBOT_XML_DICT = {
     "booster_k1": ASSET_ROOT / "booster_k1" / "K1_serial.xml",
     "pnd_adam_lite": ASSET_ROOT / "pnd_adam_lite" / "scene.xml",
     "tienkung": ASSET_ROOT / "tienkung" / "mjcf" / "tienkung.xml",
-    "Q1": ASSET_ROOT / "Q1P01" / "mjcf" / "Q1_01.xml",
+    "Q1": ASSET_ROOT / "Q1" / "mjcf" / "Q1.xml",
 }
 
 IK_CONFIG_DICT = {

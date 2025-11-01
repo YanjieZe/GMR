@@ -106,3 +106,13 @@ tmp/
 motion_data/
 
 GVHMR/
+xsens_bvh/*
+
+lafan_Q1/*
+lafan_h1_2/*
+assets/Q1
+AMASS_SMPLX_G/*
+human_skeleton.xml
+MJDATA.TXT
+MJMODEL.TXT
+mjmodel.xml

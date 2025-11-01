@@ -140,7 +140,6 @@ class Node:
         self.channels = channels if channels is not None else []
         self.children = []
         self.is_end = is_end
-        self.index = -1  # 新增索引属性，用于跟踪关节索引
 
     def __str__(self, level=0):
         ret = (
@@ -174,8 +173,7 @@ class BVHParser:
                 self.offsets.append([0.0, 0.0, 0.0])
                 self.parents.append(self.active)
                 self.active = len(self.parents) - 1
-                self.root.index = self.active
-                self.channel_map.append((self.root, self.current_channel_idx))
+                self.channel_map.append((self.root, 0))
             elif self.line.startswith("JOINT"):
                 name = self.line.split()[1]
                 if not self.stack:
@@ -191,28 +189,33 @@ class BVHParser:
                 self.parents.append(self.active)
                 # print(f"JOINT {name} parent is {self.active}")
                 self.active = len(self.parents) - 1
-                node.index = self.active
-                self.channel_map.append((node, self.current_channel_idx))
+                self.channel_map.append((node, 0))
             elif self.line.startswith("End Site"):
                 if not self.stack:
                     raise ValueError("End Site found before ROOT or outside hierarchy")
-                parent_name = self.stack[-1].name
-                name = parent_name + "_end_site"
+                parent = self.stack[-1]
+                name = parent.name + "_end_site"
                 node = Node(name, is_end=True)
                 self.stack[-1].children.append(node)
                 self.stack.append(node)
-                # 不添加至names、offsets、parents和channel_map
+                self.names.append(name)
+                self.offsets.append([0.0, 0.0, 0.0])
+                self.parents.append(self.active)
+                self.active = len(self.parents) - 1
+                self.channel_map.append((node, 0))
             elif self.line.startswith("OFFSET"):
                 parts = re.findall(r"[-+]?\d*\.\d+|[-+]?\d+\.\d*", self.line)
                 if len(parts) != 3:
                     raise ValueError(f"Invalid OFFSET format in self.line: {self.line}")
                 offset = [float(p) for p in parts]
+                # 转换为 MuJoCo 坐标系: BVH [X, Y, Z] -> MuJoCo [Z, X, Y]
+                # mujoco_offset = [offset[0], offset[1], offset[2]]
+                # mujoco_offset = [offset[2], offset[0], offset[1]]
                 mujoco_offset = [offset[i] * self.scale for i in self.axis_idx]
                 if not self.stack:
                     raise ValueError("OFFSET found before any node")
                 self.stack[-1].offset = mujoco_offset
-                if not self.stack[-1].is_end:
-                    self.offsets[-1] = mujoco_offset
+                self.offsets[-1] = mujoco_offset
             elif self.line.startswith("CHANNELS"):
                 parts = self.line.split()
                 num = int(parts[1])
@@ -224,16 +227,23 @@ class BVHParser:
                 if not self.stack:
                     raise ValueError("CHANNELS found before any node")
                 self.stack[-1].channels = channels
-                # 更新累积通道索引
-                self.current_channel_idx += num
+                # 更新 channel_map 中的通道起始索引
+                if self.stack[-1] is not self.root:
+                    self.channel_map[-1] = (
+                        self.stack[-1],
+                        self.channel_map[-1][1] + num,
+                    )
             elif self.line == "{":
                 pass
             elif self.line == "}":
                 if not self.stack:
                     raise ValueError("Unmatched closing brace '}'")
                 self.stack.pop()
+                # for idx, node in enumerate(self.stack):
+                #     print("\t" * idx, node.name)
                 if self.stack:
-                    self.active = self.stack[-1].index
+                    self.active = self.parents[self.active]
+                    # print("}", self.active)
             else:
                 raise ValueError(f"Unrecognized self.line in HIERARCHY: {self.line}")
         except Exception as e:
@@ -249,7 +259,6 @@ class BVHParser:
         self.offsets = []
         self.parents = []
         self.active = -1
-        self.current_channel_idx = 0  # 新增累积通道索引
 
     def _MOTION_paser(self, line_idx=-1):
         try:
@@ -300,8 +309,6 @@ class BVHParser:
         for fi, frame_data in enumerate(frames):
             channel_idx = 0
             for node_idx, (node, _) in enumerate(self.channel_map):
-                if node.is_end:
-                    continue
                 channels = node.channels
                 num_channels = len(channels)
                 data = frame_data[channel_idx : channel_idx + num_channels]
@@ -321,13 +328,16 @@ class BVHParser:
                         self.positions[fi, node_idx] = mujoco_pos
                     self.rotations[fi, node_idx] = mujoco_rot
 
-                else:
+                elif num_channels == 3:
                     # 其他关节: 仅旋转
                     rot_cha = channels
                     bvh_rot_idx = [ordermap[rot_channelmap[c]] for c in rot_cha]
                     bvh_rot = [data[0:3][i] for i in bvh_rot_idx]
                     mujoco_rot = [bvh_rot[i] for i in self.axis_idx]
                     self.rotations[fi, node_idx] = mujoco_rot
+                elif num_channels == 0:
+                    # End Site: 旋转赋值为0
+                    self.rotations[fi, node_idx] = [0, 0, 0]
                 channel_idx += num_channels
         return self.rotations, self.positions
 
@@ -505,8 +515,6 @@ class BVHParser:
         return self._MOTION_data_process(start, end, reset_to_zero)
 
     def generate_mujoco_xml(self, frame_0=[]):
-        self.end_site = 0
-
         def generate_xml(node, indent=2):
             spaces = " " * indent
             if node.name == "Hips":
@@ -521,15 +529,10 @@ class BVHParser:
             else:
                 xml += f'{spaces}  <joint type="ball" name="{node.name}_joint"/>\n'
             xml += (
-                f'{spaces}  <geom type="sphere" size="0.05" rgba="0.8 0.8 0.8 0.5"/>\n'
+                f'{spaces}  <geom type="sphere" size="0.025" rgba="0.8 0.8 0.8 0.5"/>\n'
             )
             for child in node.children:
-                if child.is_end:
-                    end_pos = " ".join(f"{x:.6f}" for x in child.offset)  # 修改为child.offset
-                    xml += f'{spaces}  <site name="{child.name}" pos="{end_pos}"/>\n'  # 修改为child.name，无需+str(self.end_site)
-                    self.end_site += 1
-                else:
-                    xml += generate_xml(child, indent + 2)
+                xml += generate_xml(child, indent + 2)
             xml += f"{spaces}</body>\n"
             return xml
 

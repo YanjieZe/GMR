@@ -15,9 +15,7 @@ def bvh_parse(args):
     )
     offset_manager = OffsetManager(default_path="offsets.json")
     loaded_offsets = offset_manager.load_offsets()
-    offsets = offset_manager.parse_to_window_format(
-        parser.names, loaded_offsets
-    )
+    offsets = offset_manager.parse_to_window_format(parser.names, loaded_offsets)
     new_rotations = np.zeros_like(rotations)
     joint_offset = np.zeros((new_rotations.shape[1], 3))
     for i in range(new_rotations.shape[1]):
@@ -31,7 +29,7 @@ def bvh_parse(args):
     print("MOTION_data_post_processing")
     anim = Anim(_quats, _positions, _offsets, _parents, parser.names)
     global_data = utils.quat_fk(anim.quats, anim.pos, anim.parents)
-    return anim, global_data,parser.frame_time
+    return anim, global_data, parser.frame_time
 
 
 def load_xsens_file(args):
@@ -43,7 +41,7 @@ def load_xsens_file(args):
         ...
     }
     """
-    anim, global_data,frame_time = bvh_parse(args)
+    anim, global_data, frame_time = bvh_parse(args)
     frames = []
     for frame in range(anim.pos.shape[0]):
         result = {}
@@ -57,8 +55,15 @@ def load_xsens_file(args):
         # here the descriptions of the key points of the bvh file
         # that xsens may obtain are aligned with Lafan1
         if args.bvh_format == "3DSM" or args.bvh_format == "MB":
-            result["LeftFootMod"] = (result["LeftAnkle"][0], result["LeftAnkle"][1])
-            result["RightFootMod"] = (result["RightAnkle"][0], result["RightAnkle"][1])
+            result["LeftFootMod"] = (
+                result["LeftToe"][0],
+                result["LeftToe_end_site"][1],
+            )
+            result["RightFootMod"] = (
+                result["RightToe"][0],
+                result["RightToe_end_site"][1],
+            )
+
             # result["Spine2"] = result.pop("Chest4")
 
         else:
@@ -66,27 +71,14 @@ def load_xsens_file(args):
             result["RightFootMod"] = (result["RightAnkle"][0], result["rToe"][1])
             # result["Spine2"] = result.pop("Chest")
 
-        # result["LeftUpLeg"] = result.pop("LeftHip")
-        # result["LeftLeg"] = result.pop("LeftKnee")
-
-        # result["RightUpLeg"] = result.pop("RightHip")
-        # result["RightLeg"] = result.pop("RightKnee")
-
-        # result["LeftArm"] = result.pop("LeftShoulder")
-        # result["LeftForeArm"] = result.pop("LeftElbow")
-        # result["LeftHand"] = result.pop("LeftWrist")
-
-        # result["RightArm"] = result.pop("RightShoulder")
-        # result["RightForeArm"] = result.pop("RightElbow")
-        # result["RightHand"] = result.pop("RightWrist")
         frames.append(result)
 
-    human_height = result["Head"][0][2] - min(
-        result["LeftFootMod"][0][2], result["RightFootMod"][0][2]
+    human_height = result["Head_end_site"][0][2] - min(
+        result["LeftToe_end_site"][0][2], result["LeftToe_end_site"][0][2]
     )
-    print(result["Neck"][0][2] - min(
-        result["LeftFootMod"][0][2], result["RightFootMod"][0][2]
-    ))
+    # print(result["Head_end_site"][0][2] - min(
+    #     result["LeftToe_end_site"][0][2], result["LeftToe_end_site"][0][2]
+    # ))
     # human_height = human_height + 0.2  # cm to m
     # human_height = 1.75  # cm to m
 
