@@ -1,0 +1,3 @@
+a person lifts up their left arm and dramatically dunks it down.#a/DET person/NOUN lift/VERB up/ADP their/DET left/ADJ arm/NOUN and/CCONJ dramatically/ADV dunk/VERB it/PRON down/ADP#0.0#0.0
+a person seems to angrily slap/hit something with their left hand, with their hand landing at about knee level.#a/DET person/NOUN seem/VERB to/PART angrily/ADV slap/VERB hit/VERB something/PRON with/ADP their/DET left/ADJ hand/NOUN with/ADP their/DET hand/NOUN landing/NOUN at/ADP about/ADP knee/NOUN level/NOUN#0.0#0.0
+he does a tennis smash#he/PRON does/AUX a/DET tennis/NOUN smash/NOUN#0.0#0.0

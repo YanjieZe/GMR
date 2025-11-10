@@ -1,0 +1,3 @@
+a person jumps around as if they are dancing in a club.#a/DET person/NOUN jump/VERB around/ADV as/SCONJ if/SCONJ they/PRON are/AUX dance/VERB in/ADP a/DET club/NOUN#0.0#0.0
+a person lowers outstretched arms and then begins hopping side to side in random directions while flailing their arms.#a/DET person/NOUN lower/NOUN outstretche/VERB arm/NOUN and/CCONJ then/ADV begin/VERB hop/VERB side/NOUN to/PART side/VERB in/ADP random/ADJ direction/NOUN while/SCONJ flail/VERB their/DET arm/NOUN#0.0#0.0
+the person looks like he’s boxing and dancing around#the/DET person/NOUN look/VERB like/SCONJ he/PRON box/VERB and/CCONJ dance/VERB around/ADV#0.0#0.0

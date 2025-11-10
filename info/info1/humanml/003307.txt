@@ -1,0 +1,3 @@
+the person is knocking.#the/DET person/NOUN is/AUX knock/VERB#0.0#0.0
+a standing figure with arms to sides, raises it's left hand and waves slightly from side to side before assuming it's original position.#a/DET stand/VERB figure/NOUN with/ADP arm/NOUN to/ADP side/NOUN raise/VERB it/PRON left/VERB hand/NOUN and/CCONJ wave/VERB slightly/ADV from/ADP side/NOUN to/PART side/VERB before/ADP assume/VERB it/PRON original/ADJ position/NOUN#0.0#0.0
+a person standing in one spot and waiving their hand.#a/DET person/NOUN stand/VERB in/ADP one/NUM spot/NOUN and/CCONJ waive/VERB their/DET hand/NOUN#0.0#0.0

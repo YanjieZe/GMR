@@ -1,0 +1,3 @@
+a person is performing a ballet dance.#a/DET person/NOUN is/AUX perform/VERB a/DET ballet/NOUN dance/NOUN#0.0#0.0
+a person is doing a acrobatic dance.#a/DET person/NOUN is/AUX do/VERB a/DET acrobatic/ADJ dance/NOUN#0.0#0.0
+a person is waving his arms around and is jumping.#a/DET person/NOUN is/AUX wave/VERB his/DET arm/NOUN around/ADV and/CCONJ is/AUX jump/VERB#0.0#0.0

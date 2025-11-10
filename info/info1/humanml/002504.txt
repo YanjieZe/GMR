@@ -1,0 +1,3 @@
+a person claps with both hands .#a/DET person/NOUN clap/VERB with/ADP both/DET hand/NOUN#0.0#0.0
+a person standing and clapping hands.#a/DET person/NOUN stand/VERB and/CCONJ clap/VERB hand/NOUN#0.0#0.0
+a standing person claps and makes a slight twist about their waist.#a/DET stand/VERB person/NOUN clap/NOUN and/CCONJ make/VERB a/DET slight/ADJ twist/NOUN about/ADP their/DET waist/NOUN#0.0#0.0

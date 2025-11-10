@@ -1,0 +1,3 @@
+a man hops up and down while using his arms, and seems to be using a jump rope.#a/DET man/NOUN hop/VERB up/ADV and/CCONJ down/ADV while/SCONJ use/VERB his/DET arm/NOUN and/CCONJ seem/VERB to/PART be/AUX use/VERB a/DET jump/NOUN rope/NOUN#0.0#0.0
+a person grabbed something and start jumping on something#a/DET person/NOUN grab/VERB something/PRON and/CCONJ start/VERB jump/VERB on/ADP something/PRON#0.0#0.0
+toon is standing moves, forward then makes the potion as to be jumping rope.#toon/PROPN is/AUX stand/VERB move/NOUN forward/ADV then/ADV make/VERB the/DET potion/NOUN as/SCONJ to/PART be/AUX jump/VERB rope/NOUN#0.0#10.0

@@ -1,0 +1,3 @@
+the person is picking up something.#the/DET person/NOUN is/AUX pick/VERB up/ADP something/PRON#0.0#0.0
+a person bending down to touch the ground.#a/DET person/NOUN bend/VERB down/ADP to/PART touch/VERB the/DET ground/NOUN#0.0#0.0
+picking something up with the right hand#pick/VERB something/PRON up/ADP with/ADP the/DET right/ADJ hand/NOUN#0.0#0.0

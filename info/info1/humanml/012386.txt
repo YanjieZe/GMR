@@ -1,0 +1,3 @@
+a person is standing straight, and lifts their right arm to theirhead as if to look at the time on their watch.#a/DET person/NOUN is/AUX stand/VERB straight/ADV and/CCONJ lift/VERB their/DET right/ADJ arm/NOUN to/PART theirhead/VERB as/SCONJ if/SCONJ to/PART look/VERB at/ADP the/DET time/NOUN on/ADP their/DET watch/NOUN#0.0#0.0
+the person brings their right arm up as if checking a watch and brings it back down.#the/DET person/NOUN bring/VERB their/DET right/ADJ arm/NOUN up/ADP as/SCONJ if/SCONJ check/VERB a/DET watch/NOUN and/CCONJ bring/VERB it/PRON back/ADV down/ADP#0.0#0.0
+a person raises their hand to their chest then back to their side.#a/DET person/NOUN raise/VERB their/DET hand/NOUN to/ADP their/DET chest/NOUN then/ADV back/ADV to/ADP their/DET side/NOUN#0.0#0.0

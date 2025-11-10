@@ -1,0 +1,3 @@
+a figure runs in place turning counterclockwise#a/DET figure/NOUN run/VERB in/ADP place/NOUN turn/VERB counterclockwise/NOUN#0.0#0.0
+a man turns left and continues running.#a/DET man/NOUN turn/VERB left/VERB and/CCONJ continue/VERB run/VERB#0.0#0.0
+person hopping around rotates on their left foot in a counter clockwise motion while punching with their fist as they make their way away from camera.#person/NOUN hop/VERB around/ADP rotate/NOUN on/ADP their/DET left/ADJ foot/NOUN in/ADP a/DET counter/NOUN clockwise/NOUN motion/NOUN while/SCONJ punch/VERB with/ADP their/DET fist/NOUN as/SCONJ they/PRON make/VERB their/DET way/NOUN away/ADV from/ADP camera/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person does a squat, widens their stance by moving their right foot out, then performs a second squat.#a/DET person/NOUN does/AUX a/DET squat/NOUN widen/VERB their/DET stance/NOUN by/ADP move/VERB their/DET right/ADJ foot/NOUN out/ADP then/ADV perform/VERB a/DET second/ADJ squat/NOUN#0.0#0.0
+a person squats up and down two times.#a/DET person/NOUN squat/VERB up/ADV and/CCONJ down/ADP two/NUM time/NOUN#0.0#0.0
+the body squats, steps to its right, and squats again#the/DET body/NOUN squat/VERB step/VERB to/ADP its/DET right/NOUN and/CCONJ squat/NOUN again/ADV#0.0#7.0

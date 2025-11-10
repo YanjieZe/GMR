@@ -1,0 +1,3 @@
+he runs in jumplace then stops#he/PRON run/VERB in/ADP jumplace/PROPN then/ADV stop/VERB#0.0#0.0
+person walks backward then runs forward and takes a small jump.#person/NOUN walk/VERB backward/ADJ then/ADV run/VERB forward/ADV and/CCONJ take/VERB a/DET small/ADJ jump/NOUN#0.0#0.0
+a person walks backwards then runs forwards before walking back one more time.#a/DET person/NOUN walk/VERB backwards/ADV then/ADV run/VERB forwards/ADV before/ADP walk/VERB back/ADV one/NUM more/ADJ time/NOUN#0.0#0.0

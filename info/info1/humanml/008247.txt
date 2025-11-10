@@ -1,0 +1,3 @@
+moving arms towards face then kneeling.#move/VERB arm/NOUN towards/ADP face/NOUN then/ADV kneel/VERB#0.0#0.0
+a person continually steps forward with their left leg, while bending at the knees, uses the left forearm in an upward motion as a blocking something.#a/DET person/NOUN continually/ADV step/VERB forward/ADV with/ADP their/DET left/ADJ leg/NOUN while/SCONJ bend/VERB at/ADP the/DET knee/NOUN use/VERB the/DET left/ADJ forearm/NOUN in/ADP an/DET upward/ADJ motion/NOUN as/SCONJ a/DET block/VERB something/PRON#0.0#0.0
+the person is lunging to the left.#the/DET person/NOUN is/AUX lunge/VERB to/ADP the/DET left/NOUN#0.0#0.0

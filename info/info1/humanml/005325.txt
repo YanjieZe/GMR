@@ -1,0 +1,3 @@
+a person is walking across the room and stepping over things.#a/DET person/NOUN is/AUX walk/VERB across/ADP the/DET room/NOUN and/CCONJ step/VERB over/ADP thing/NOUN#0.0#0.0
+a figure steps up on a block and then down, turns back around and steps up and down it again#a/DET figure/NOUN step/VERB up/ADP on/ADP a/DET block/NOUN and/CCONJ then/ADV down/ADV turn/VERB back/ADV around/ADV and/CCONJ step/VERB up/ADV and/CCONJ down/ADP it/PRON again/ADV#0.0#0.0
+somebody is climbing something and steps down from it as well.#somebody/PRON is/AUX climb/VERB something/PRON and/CCONJ step/VERB down/ADP from/ADP it/PRON as/ADV well/ADV#0.0#0.0

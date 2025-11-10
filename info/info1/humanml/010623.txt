@@ -1,0 +1,3 @@
+a person attempts to do a handstand.#a/DET person/NOUN attempt/VERB to/PART do/AUX a/DET handstand/NOUN#0.0#0.0
+a person jumps onto their hands, but cannot support themselves twice.#a/DET person/NOUN jump/VERB onto/ADP their/DET hand/NOUN but/CCONJ can/VERB not/PART support/VERB themselves/PRON twice/ADV#0.0#0.0
+a person attempts to do two cartwheels.#a/DET person/NOUN attempt/VERB to/PART do/AUX two/NUM cartwheel/NOUN#0.0#0.0

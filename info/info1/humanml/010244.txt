@@ -1,0 +1,3 @@
+a person walks down a path taking 3 meaningful steps.#a/DET person/NOUN walk/VERB down/ADP a/DET path/NOUN take/VERB meaningful/ADJ step/NOUN#0.0#0.0
+this person is walking forward.#this/DET person/NOUN is/AUX walk/VERB forward/ADV#0.0#0.0
+a person walks forward from one end to the other.#a/DET person/NOUN walk/VERB forward/ADV from/ADP one/NUM end/NOUN to/ADP the/DET other/ADJ#0.0#0.0

@@ -1,0 +1,3 @@
+a person sits down on the ground then stands back up#a/DET person/NOUN sit/VERB down/ADP on/ADP the/DET ground/NOUN then/ADV stand/VERB back/ADV up/ADV#0.0#0.0
+a person standing, sits down crosslegged, pauses, stands up, and then looks back.#a/DET person/NOUN stand/VERB sit/VERB down/ADV crosslegged/ADJ pause/NOUN stand/VERB up/ADV and/CCONJ then/ADV look/VERB back/ADV#0.0#0.0
+a person sits down, then gets back up.#a/DET person/NOUN sit/VERB down/ADV then/ADV get/VERB back/ADV up/ADV#0.0#0.0

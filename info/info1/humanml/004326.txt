@@ -1,0 +1,3 @@
+a person reaches their head with their right hand and scratches their scalp.#a/DET person/NOUN reach/VERB their/DET head/NOUN with/ADP their/DET right/ADJ hand/NOUN and/CCONJ scratch/VERB their/DET scalp/NOUN#0.0#0.0
+a man scratches the top of his head with his right hand.#a/DET man/NOUN scratch/VERB the/DET top/NOUN of/ADP his/DET head/NOUN with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+someone head itches and scratches#someone/PRON head/NOUN itch/VERB and/CCONJ scratch/NOUN#0.0#0.0

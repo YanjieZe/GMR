@@ -1,0 +1,3 @@
+doing a cartwheel then jumping up and down.#do/VERB a/DET cartwheel/NOUN then/ADV jump/VERB up/ADV and/CCONJ down/ADV#0.0#0.0
+a person cartwheels then does back handsprings#a/DET person/NOUN cartwheel/NOUN then/ADV does/AUX back/ADV handspring/NOUN#0.0#0.0
+a person does cartwheels and backflips.#a/DET person/NOUN does/AUX cartwheel/NOUN and/CCONJ backflip/NOUN#0.0#0.0

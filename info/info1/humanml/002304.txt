@@ -1,0 +1,3 @@
+the person walked towards someone taking 4 steps#the/DET person/NOUN walk/VERB towards/ADP someone/PRON take/VERB step/NOUN#0.0#0.0
+a person walks forward, hand at the side.#a/DET person/NOUN walk/VERB forward/ADV hand/VERB at/ADP the/DET side/NOUN#0.0#0.0
+person walks forward with a regular stance. looks to be walking normally#person/NOUN walk/VERB forward/ADV with/ADP a/DET regular/ADJ stance/NOUN look/VERB to/PART be/AUX walk/VERB normally/ADV#0.0#0.0

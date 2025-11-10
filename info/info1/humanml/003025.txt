@@ -1,0 +1,3 @@
+a person is resting and bending over while moving their left hand, then they eventually stand up straight#a/DET person/NOUN is/AUX rest/VERB and/CCONJ bend/VERB over/ADP while/SCONJ move/VERB their/DET left/ADJ hand/NOUN then/ADV they/PRON eventually/ADV stand/VERB up/ADP straight/ADV#0.0#8.0
+a person unscrews something from an object.#a/DET person/NOUN unscrew/VERB something/PRON from/ADP an/DET object/NOUN#0.0#0.0
+person is working on something.#person/NOUN is/AUX work/VERB on/ADP something/PRON#0.0#0.0

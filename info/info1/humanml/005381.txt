@@ -1,0 +1,3 @@
+a man walks in a counter-clockwise circle, hunched over and not moving smoothly#a/DET man/NOUN walk/VERB in/ADP a/DET counterclockwise/ADJ circle/NOUN hunch/VERB over/ADV and/CCONJ not/PART move/VERB smoothly/ADV#0.0#0.0
+a person bends at the waist and moves in a circle with elbows bent#a/DET person/NOUN bend/VERB at/ADP the/DET waist/NOUN and/CCONJ move/NOUN in/ADP a/DET circle/NOUN with/ADP elbow/NOUN bent/ADJ#0.0#0.0
+a man takes the steps while jerkily bending at the waist with his arms or in front of him.#a/DET man/NOUN take/VERB the/DET step/NOUN while/SCONJ jerkily/ADV bend/VERB at/ADP the/DET waist/NOUN with/ADP his/DET arm/NOUN or/CCONJ in/ADP front/NOUN of/ADP him/PRON#0.0#0.0

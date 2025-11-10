@@ -1,0 +1,3 @@
+person walks backward clockwise in a full circle then another five steps backward then turns#person/NOUN walk/VERB backward/ADJ clockwise/NOUN in/ADP a/DET full/ADJ circle/NOUN then/ADV another/DET five/NUM step/NOUN backward/ADV then/ADV turn/VERB#0.0#0.0
+a man walks backwards in a circle.#a/DET man/NOUN walk/VERB backwards/ADV in/ADP a/DET circle/NOUN#0.0#0.0
+person walking backward in a clockwise circle#person/NOUN walk/VERB backward/ADV in/ADP a/DET clockwise/NOUN circle/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+someone moves to the left and then to the right and back to starting position with arms straight by sides.#someone/PRON move/VERB to/ADP the/DET left/NOUN and/CCONJ then/ADV to/ADP the/DET right/NOUN and/CCONJ back/ADV to/ADP start/VERB position/NOUN with/ADP arm/NOUN straight/ADV by/ADP side/NOUN#0.0#0.0
+a man side steps to the left, then to right, then back to the left before stopping.#a/DET man/NOUN side/NOUN step/NOUN to/ADP the/DET left/NOUN then/ADV to/ADP right/NOUN then/ADV back/ADV to/ADP the/DET left/NOUN before/ADP stop/VERB#0.0#0.0
+a person skips side by side horizontally.#a/DET person/NOUN skip/VERB side/NOUN by/ADP side/NOUN horizontally/ADV#0.0#0.0

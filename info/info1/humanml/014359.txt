@@ -1,0 +1,3 @@
+the person didn’t warm up and started jogging in place.#the/DET person/NOUN did/AUX warm/VERB up/ADP and/CCONJ start/VERB jog/VERB in/ADP place/NOUN#0.0#0.0
+a person walk, jogs, then runs in-place as though doing a quick warmup session.#a/DET person/NOUN walk/NOUN jogs/PROPN then/ADV run/VERB inplace/NOUN as/SCONJ though/SCONJ do/VERB a/DET quick/ADJ warmup/PROPN session/NOUN#0.0#0.0
+he does a run on the spot#he/PRON does/AUX a/DET run/NOUN on/ADP the/DET spot/NOUN#0.0#0.0

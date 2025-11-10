@@ -1,0 +1,3 @@
+a person sweeping the floor#a/DET person/NOUN sweep/VERB the/DET floor/NOUN#0.0#0.0
+a person is sweeping the floor#a/DET person/NOUN is/AUX sweep/VERB the/DET floor/NOUN#0.0#0.0
+a person moves their hands back and forth as if using a broom.#a/DET person/NOUN move/VERB their/DET hand/NOUN back/ADV and/CCONJ forth/ADV as/SCONJ if/SCONJ use/VERB a/DET broom/NOUN#0.0#0.0

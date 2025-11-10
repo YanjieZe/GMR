@@ -1,0 +1,3 @@
+a person doing different type of hand signals#a/DET person/NOUN do/VERB different/ADJ type/NOUN of/ADP hand/NOUN signal/NOUN#0.0#0.0
+person is pushing buttons on a screen#person/NOUN is/AUX push/VERB button/NOUN on/ADP a/DET screen/NOUN#0.0#0.0
+a figure makes the "no goal" hand gesture then waves or pushes people back#a/DET figure/NOUN make/VERB the/DET no/DET goal/NOUN hand/NOUN gesture/NOUN then/ADV wave/VERB or/CCONJ push/VERB people/NOUN back/ADV#0.0#0.0

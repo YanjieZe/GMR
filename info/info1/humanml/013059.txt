@@ -1,0 +1,3 @@
+person checks left wrist then outs it back to his sied#person/NOUN check/NOUN left/VERB wrist/NOUN then/ADV out/VERB it/PRON back/ADV to/ADP his/DET sied/ADJ#0.0#0.0
+a person is feeling their belly#a/DET person/NOUN is/AUX feel/VERB their/DET belly/NOUN#0.0#0.0
+person is moving his arms in and out#person/NOUN is/AUX move/VERB his/DET arm/NOUN in/ADP and/CCONJ out/ADV#0.0#0.0

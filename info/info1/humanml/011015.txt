@@ -1,0 +1,3 @@
+a person walks forward, then takes a large step clockwise#a/DET person/NOUN walk/VERB forward/ADV then/ADV take/VERB a/DET large/ADJ step/NOUN clockwise/NOUN#0.0#0.0
+a figure stumbles as he walks in a loosely diagonal line.#a/DET figure/NOUN stumble/NOUN as/SCONJ he/PRON walk/VERB in/ADP a/DET loosely/ADV diagonal/ADJ line/NOUN#0.0#0.0
+he starts getting pushed a lot#he/PRON start/VERB get/VERB push/VERB a/DET lot/NOUN#0.0#0.0

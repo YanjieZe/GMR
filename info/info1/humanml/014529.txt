@@ -1,0 +1,3 @@
+a person walks forward from one end to the other.#a/DET person/NOUN walk/VERB forward/ADV from/ADP one/NUM end/NOUN to/ADP the/DET other/ADJ#0.0#0.0
+a person is walking and comes to a stop.#a/DET person/NOUN is/AUX walk/VERB and/CCONJ come/VERB to/ADP a/DET stop/NOUN#0.0#0.0
+walking forward and then stopping.#walk/VERB forward/ADV and/CCONJ then/ADV stop/VERB#0.0#0.0

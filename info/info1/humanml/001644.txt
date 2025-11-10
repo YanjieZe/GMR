@@ -1,0 +1,3 @@
+man sits down and cross-legged fashion and then stands up again.#man/NOUN sit/VERB down/ADP and/CCONJ crosslegged/ADJ fashion/NOUN and/CCONJ then/ADV stand/VERB up/ADP again/ADV#0.0#0.0
+a person sits down crossed legged.#a/DET person/NOUN sit/VERB down/ADV crossed/ADJ legged/NOUN#0.0#0.0
+a person sits on the floor then stands back up.#a/DET person/NOUN sit/VERB on/ADP the/DET floor/NOUN then/ADV stand/VERB back/ADV up/ADV#0.0#0.0

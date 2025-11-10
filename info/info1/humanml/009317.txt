@@ -1,0 +1,3 @@
+standing person claps hands then arms go down to their sides.#stand/VERB person/NOUN clap/NOUN hand/NOUN then/ADV arm/NOUN go/VERB down/ADP to/ADP their/DET side/NOUN#0.0#0.0
+a standing person claps her hands.#a/DET stand/VERB person/NOUN clap/VERB her/DET hand/NOUN#0.0#0.0
+a man claps politely with his arms held at belly level, before letting them drop to his sides.#a/DET man/NOUN clap/VERB politely/ADV with/ADP his/DET arm/NOUN hold/VERB at/ADP belly/NOUN level/NOUN before/ADP let/VERB them/PRON drop/VERB to/ADP his/DET side/NOUN#0.0#0.0

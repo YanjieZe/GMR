@@ -1,0 +1,3 @@
+a person reaches for something with both hands, the raises their left hand then sets its hands back down.#a/DET person/NOUN reach/VERB for/ADP something/PRON with/ADP both/DET hand/NOUN the/DET raise/VERB their/DET left/ADJ hand/NOUN then/ADV set/VERB its/DET hand/NOUN back/ADV down/ADV#0.0#0.0
+a person tilts object on its side.#a/DET person/NOUN tilt/VERB object/NOUN on/ADP its/DET side/NOUN#0.0#0.0
+stick figure stands an object up holding it a few seconds before setting it back down#stick/PROPN figure/NOUN stand/VERB an/DET object/NOUN up/ADP hold/VERB it/PRON a/DET few/ADJ second/NOUN before/ADP set/VERB it/PRON back/ADV down/ADP#1.0#10.0

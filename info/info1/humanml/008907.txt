@@ -1,0 +1,3 @@
+a person stretches his bent elbows behind his back and then straightens both arms and stretches them behind him, then raises his right arm over his head in a practice throwing motion.#a/DET person/NOUN stretch/VERB his/DET bent/ADJ elbow/NOUN behind/ADP his/DET back/NOUN and/CCONJ then/ADV straighten/VERB both/DET arm/NOUN and/CCONJ stretch/VERB them/PRON behind/ADP him/PRON then/ADV raise/VERB his/DET right/ADJ arm/NOUN over/ADP his/DET head/NOUN in/ADP a/DET practice/NOUN throwing/NOUN motion/NOUN#0.0#0.0
+a person is stretching out his arms and back#a/DET person/NOUN is/AUX stretch/VERB out/ADP his/DET arm/NOUN and/CCONJ back/ADV#0.0#0.0
+moving arms side to side.#move/VERB arm/NOUN side/NOUN to/PART side/VERB#0.0#0.0

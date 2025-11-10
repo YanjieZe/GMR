@@ -1,0 +1,3 @@
+a person is walking sideways with their arms out and hunched down.#a/DET person/NOUN is/AUX walk/VERB sideways/ADV with/ADP their/DET arm/NOUN out/ADP and/CCONJ hunch/VERB down/ADP#0.0#0.0
+a person is sheltering a child from harm#a/DET person/NOUN is/AUX shelter/VERB a/DET child/NOUN from/ADP harm/NOUN#0.0#0.0
+a man side steps carefully away with his arms held outstretched as if to be protecting or sheilding someone#a/DET man/NOUN side/NOUN step/NOUN carefully/ADV away/ADV with/ADP his/DET arm/NOUN hold/VERB outstretche/VERB as/SCONJ if/SCONJ to/PART be/AUX protect/VERB or/CCONJ sheilde/VERB someone/PRON#0.0#0.0

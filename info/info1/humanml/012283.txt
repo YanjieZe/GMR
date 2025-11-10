@@ -1,0 +1,3 @@
+a man swings with his right arm, then his left arm and then spins around.#a/DET man/NOUN swing/VERB with/ADP his/DET right/ADJ arm/NOUN then/ADV his/DET left/ADJ arm/NOUN and/CCONJ then/ADV spin/VERB around/ADV#0.0#5.0
+person is working on balance for boxing#person/NOUN is/AUX work/VERB on/ADP balance/NOUN for/ADP boxing/NOUN#0.0#0.0
+a boxer practices a round house punch#a/DET boxer/PROPN practice/VERB a/DET round/ADJ house/NOUN punch/NOUN#0.0#0.0

@@ -1,0 +1,4 @@
+a man squats extraordinarily low then bolts up in an unsatisfactory jump.#a/DET man/NOUN squat/VERB extraordinarily/ADV low/ADJ then/ADV bolt/VERB up/ADP in/ADP an/DET unsatisfactory/ADJ jump/NOUN#0.0#0.0
+a person falls to the ground in a sitting motion and then pops back up in a standing position.#a/DET person/NOUN fall/VERB to/ADP the/DET ground/NOUN in/ADP a/DET sit/VERB motion/NOUN and/CCONJ then/ADV pop/VERB back/ADV up/ADV in/ADP a/DET standing/ADJ position/NOUN#0.0#0.0
+a person squats down then jumps#a/DET person/NOUN squat/VERB down/ADP then/ADV jump/VERB#0.0#0.0
+a descends into a falling motion and thens bounces back up.#a/DET descend/NOUN into/ADP a/DET fall/VERB motion/NOUN and/CCONJ then/NOUN bounce/VERB back/ADV up/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a man steps back and shields his face with both of his hands.#a/DET man/NOUN step/VERB back/ADV and/CCONJ shield/VERB his/DET face/NOUN with/ADP both/DET of/ADP his/DET hand/NOUN#0.0#0.0
+a person stepping back and putting both arms up in front of face#a/DET person/NOUN step/VERB back/ADV and/CCONJ put/VERB both/DET arm/NOUN up/ADP in/ADP front/NOUN of/ADP face/NOUN#0.0#0.0
+a person stepping back and raising arms to face in self defence.#a/DET person/NOUN step/VERB back/ADV and/CCONJ raise/VERB arm/NOUN to/PART face/VERB in/ADP self/NOUN defence/NOUN#0.0#0.0

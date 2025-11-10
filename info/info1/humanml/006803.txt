@@ -1,0 +1,3 @@
+a man steps onto, walks across, then steps off a rectangular box on the ground.#a/DET man/NOUN step/VERB onto/ADP walk/VERB across/ADV then/ADV step/VERB off/ADP a/DET rectangular/ADJ box/NOUN on/ADP the/DET ground/NOUN#0.0#0.0
+the man is walking forward#the/DET man/NOUN is/AUX walk/VERB forward/ADV#0.0#0.0
+the man steps up and walks across a beam then steps down.#the/DET man/NOUN step/VERB up/ADP and/CCONJ walk/VERB across/ADP a/DET beam/NOUN then/ADV step/VERB down/ADP#0.0#0.0

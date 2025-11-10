@@ -1,0 +1,3 @@
+person hops forward only on the left foot and the turn clockwise 180 degrees and hops the opposite direction in which they came from#person/NOUN hop/VERB forward/ADV only/ADV on/ADP the/DET left/ADJ foot/NOUN and/CCONJ the/DET turn/NOUN clockwise/NOUN degree/NOUN and/CCONJ hop/VERB the/DET opposite/ADJ direction/NOUN in/ADP which/DET they/PRON come/VERB from/ADP#0.0#0.0
+person hops on one leg#person/NOUN hop/VERB on/ADP one/NUM leg/NOUN#0.0#0.0
+the person in the video is walking on its red leg in a circle.#the/DET person/NOUN in/ADP the/DET video/NOUN is/AUX walk/VERB on/ADP its/DET red/ADJ leg/NOUN in/ADP a/DET circle/NOUN#0.0#0.0

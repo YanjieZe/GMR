@@ -1,0 +1,3 @@
+a person dancing around while swinging both arms.#a/DET person/NOUN dance/VERB around/ADV while/SCONJ swinge/VERB both/DET arm/NOUN#0.0#0.0
+a person is excitedly dancing around#a/DET person/NOUN is/AUX excitedly/ADV dance/VERB around/ADV#0.0#0.0
+walking to the side and waving arms.#walk/VERB to/ADP the/DET side/NOUN and/CCONJ wave/VERB arm/NOUN#0.0#0.0

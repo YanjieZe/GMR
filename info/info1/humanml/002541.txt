@@ -1,0 +1,3 @@
+a person walks forward taking small steps.#a/DET person/NOUN walk/VERB forward/ADV take/VERB small/ADJ step/NOUN#0.0#0.0
+a man works slowly forwards a few steps, swinging his arms gently.#a/DET man/NOUN work/VERB slowly/ADV forward/VERB a/DET few/ADJ step/NOUN swinge/VERB his/DET arm/NOUN gently/ADV#0.0#0.0
+a person walks slowly forward.#a/DET person/NOUN walk/VERB slowly/ADV forward/ADV#0.0#0.0

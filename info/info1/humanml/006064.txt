@@ -1,0 +1,3 @@
+the figure appears to be in some sort of distress#the/DET figure/NOUN appear/VERB to/PART be/AUX in/ADP some/DET sort/NOUN of/ADP distress/NOUN#0.0#0.0
+person looked like he was hanging on to something to pose.#person/NOUN look/VERB like/SCONJ he/PRON was/AUX hang/VERB on/ADP to/ADP something/PRON to/PART pose/VERB#0.0#0.0
+person has hands in front of face, puts them down, then acts nervously#person/NOUN has/AUX hand/NOUN in/ADP front/NOUN of/ADP face/NOUN put/VERB them/PRON down/ADP then/ADV act/VERB nervously/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person holds his right arm out and his hand parrallel to the ground.#a/DET person/NOUN hold/VERB his/DET right/ADJ arm/NOUN out/ADP and/CCONJ his/DET hand/NOUN parrallel/VERB to/ADP the/DET ground/NOUN#0.0#0.0
+person raises right arms and points aggressively#person/NOUN raise/VERB right/ADJ arm/NOUN and/CCONJ point/NOUN aggressively/ADV#0.0#0.0
+a person holds their right hand out infront of themselves and puts it back down.#a/DET person/NOUN hold/VERB their/DET right/ADJ hand/NOUN out/ADP infront/ADV of/ADP themselves/PRON and/CCONJ put/VERB it/PRON back/ADV down/ADP#0.0#0.0

@@ -1,0 +1,3 @@
+a person does two jumping jacks.#a/DET person/NOUN does/AUX two/NUM jump/VERB jack/NOUN#0.0#0.0
+person is doing jumping jacks#person/NOUN is/AUX do/VERB jump/VERB jack/NOUN#0.0#0.0
+a person jumps while putting both legs out and their arms up, then returns their arms and legs to a standing position#a/DET person/NOUN jump/VERB while/SCONJ put/VERB both/DET leg/NOUN out/ADV and/CCONJ their/DET arm/NOUN up/ADP then/ADV return/VERB their/DET arm/NOUN and/CCONJ leg/NOUN to/ADP a/DET standing/ADJ position/NOUN#0.0#0.0

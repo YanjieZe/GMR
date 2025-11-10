@@ -1,0 +1,3 @@
+a person moving something from left to right#a/DET person/NOUN move/VERB something/PRON from/ADP left/ADJ to/ADP right/ADJ#0.0#0.0
+a person reaches slightly down first to their left, then to their right.#a/DET person/NOUN reach/VERB slightly/ADV down/ADV first/ADV to/ADP their/DET left/NOUN then/ADV to/ADP their/DET right/NOUN#0.0#0.0
+a person reaches arms forward as he leans right to left#a/DET person/NOUN reach/VERB arm/NOUN forward/ADV as/SCONJ he/PRON lean/VERB right/ADJ to/ADP left/ADV#0.0#0.0

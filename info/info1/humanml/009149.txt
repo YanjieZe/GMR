@@ -1,0 +1,3 @@
+a person nervously walks forward, stops, turns around, and walks back.#a/DET person/NOUN nervously/ADV walk/VERB forward/ADV stop/NOUN turn/VERB around/ADV and/CCONJ walk/VERB back/ADV#0.0#0.0
+a person is walking around and they are scared#a/DET person/NOUN is/AUX walk/VERB around/ADV and/CCONJ they/PRON are/AUX scared/ADJ#0.0#0.0
+a person walks forward and back glancing frighteningly to his sides.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ back/ADV glance/VERB frighteningly/ADV to/ADP his/DET side/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+the person is doing a pectoral warm up.#the/DET person/NOUN is/AUX do/VERB a/DET pectoral/ADJ warm/VERB up/ADP#0.0#0.0
+person is warming up the chest muscles#person/NOUN is/AUX warm/VERB up/ADP the/DET chest/NOUN muscle/NOUN#0.0#0.0
+a figure seems to be slowly, jauntily clapping#a/DET figure/NOUN seem/VERB to/PART be/AUX slowly/ADV jauntily/ADV clap/VERB#0.0#0.0

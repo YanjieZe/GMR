@@ -1,0 +1,3 @@
+person moves forward then quickly side steps to their right hand side then zig zags back to front centre#person/NOUN move/VERB forward/ADV then/ADV quickly/ADV side/VERB step/NOUN to/ADP their/DET right/ADJ hand/NOUN side/NOUN then/ADV zig/VERB zag/VERB back/ADP to/ADP front/ADJ centre/NOUN#0.0#0.0
+a person quickly step right#a/DET person/NOUN quickly/ADV step/VERB right/ADV#0.0#0.0
+a man steps forward and quickly takes a wide step to the right and then comes back to the left to the same position he started from.#a/DET man/NOUN step/VERB forward/ADV and/CCONJ quickly/ADV take/VERB a/DET wide/ADJ step/NOUN to/ADP the/DET right/NOUN and/CCONJ then/ADV come/VERB back/ADV to/ADP the/DET left/NOUN to/ADP the/DET same/ADJ position/NOUN he/PRON start/VERB from/ADP#0.0#0.0

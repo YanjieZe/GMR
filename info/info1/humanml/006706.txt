@@ -1,0 +1,3 @@
+man reach up with left hand threw arm outwardly and drew back.#man/NOUN reach/VERB up/ADP with/ADP left/ADJ hand/NOUN throw/VERB arm/NOUN outwardly/ADV and/CCONJ draw/VERB back/ADV#0.0#0.0
+a person raises their left hand, steps forward onto their left foot, and slaps with their left hand.#a/DET person/NOUN raise/VERB their/DET left/ADJ hand/NOUN step/VERB forward/ADV onto/ADP their/DET left/ADJ foot/NOUN and/CCONJ slap/VERB with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0
+the person is playing tennis with his left arm.#the/DET person/NOUN is/AUX play/VERB tennis/NOUN with/ADP his/DET left/ADJ arm/NOUN#0.0#0.0

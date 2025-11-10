@@ -1,0 +1,3 @@
+the person is boxing with her left arm.#the/DET person/NOUN is/AUX box/VERB with/ADP her/DET left/ADJ arm/NOUN#0.0#0.0
+happily dancing thrusting right arm upward and then the left arm upward#happily/ADV dance/VERB thrust/VERB right/ADJ arm/NOUN upward/ADV and/CCONJ then/ADV the/DET left/ADJ arm/NOUN upward/ADV#0.0#0.0
+a person moves side to side while making punching motions with hands.#a/DET person/NOUN move/VERB side/NOUN to/PART side/VERB while/SCONJ make/VERB punching/NOUN motion/NOUN with/ADP hand/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks forward gingerly, then walks to the back of the space and turns around#a/DET person/NOUN walk/VERB forward/ADV gingerly/ADV then/ADV walk/VERB to/ADP the/DET back/NOUN of/ADP the/DET space/NOUN and/CCONJ turn/VERB around/ADV#0.0#0.0
+a man walks forward, turns around and walks back.#a/DET man/NOUN walk/VERB forward/ADV turn/VERB around/ADV and/CCONJ walk/VERB back/ADV#0.0#0.0
+person moves forward with arms moving dancing and then a turn then  walks back#person/NOUN move/VERB forward/ADV with/ADP arm/NOUN move/VERB dancing/NOUN and/CCONJ then/ADV a/DET turn/NOUN then/ADV walk/VERB back/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+he acts like a big cow#he/PRON act/VERB like/SCONJ a/DET big/ADJ cow/NOUN#0.0#0.0
+a person is hunched over.#a/DET person/NOUN is/AUX hunch/VERB over/ADP#0.0#0.0
+a person bends forward at the waist with his hands out in front of him as he looks to his left and then straight ahead.#a/DET person/NOUN bend/VERB forward/ADV at/ADP the/DET waist/NOUN with/ADP his/DET hand/NOUN out/ADP in/ADP front/NOUN of/ADP him/PRON as/SCONJ he/PRON look/VERB to/ADP his/DET left/NOUN and/CCONJ then/ADV straight/ADV ahead/ADV#0.0#0.0

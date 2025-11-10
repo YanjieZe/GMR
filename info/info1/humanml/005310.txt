@@ -1,0 +1,3 @@
+the person cleans the kitchen counter#the/DET person/NOUN clean/VERB the/DET kitchen/NOUN counter/NOUN#0.0#0.0
+person walks to table and wipes it down#person/NOUN walk/VERB to/PART table/VERB and/CCONJ wipe/VERB it/PRON down/ADP#0.0#0.0
+moving forwards on the floor and little band.#move/VERB forwards/ADV on/ADP the/DET floor/NOUN and/CCONJ little/ADJ band/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person locks fingers, reach up down left right.#a/DET person/NOUN lock/VERB finger/NOUN reach/VERB up/ADP down/ADV left/VERB right/ADV#0.0#0.0
+a person brigns their hands together, palms forward,#a/DET person/NOUN brign/VERB their/DET hand/NOUN together/ADV palm/NOUN forward/ADV#0.0#0.0
+a man stretches his arms, up, down, left, right, and center.#a/DET man/NOUN stretch/VERB his/DET arm/NOUN up/ADV down/ADV left/VERB right/INTJ and/CCONJ center/NOUN#0.0#0.0

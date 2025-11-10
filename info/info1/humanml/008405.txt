@@ -1,0 +1,3 @@
+a person sits on the ground, takes something out with his left hand and holds it up with his right#a/DET person/NOUN sit/VERB on/ADP the/DET ground/NOUN take/VERB something/PRON out/ADP with/ADP his/DET left/ADJ hand/NOUN and/CCONJ hold/VERB it/PRON up/ADP with/ADP his/DET right/NOUN#0.0#0.0
+a person makes a phone call while sitting.#a/DET person/NOUN make/VERB a/DET phone/NOUN call/NOUN while/SCONJ sit/VERB#0.0#0.0
+while sitting, a person is tapping his phone and then puts it to his ear.#while/SCONJ sit/VERB a/DET person/NOUN is/AUX tap/VERB his/DET phone/NOUN and/CCONJ then/ADV put/VERB it/PRON to/ADP his/DET ear/NOUN#0.0#0.0

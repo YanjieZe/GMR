@@ -1,0 +1,3 @@
+a man runs on the same spot repeatedly.#a/DET man/NOUN run/VERB on/ADP the/DET same/ADJ spot/NOUN repeatedly/ADV#0.0#0.0
+a person jogs on a treadmill.#a/DET person/NOUN jog/VERB on/ADP a/DET treadmill/NOUN#0.0#0.0
+a man is running forward, leading with his right leg, and pumping both arms foward.#a/DET man/NOUN is/AUX run/VERB forward/ADV lead/VERB with/ADP his/DET right/ADJ leg/NOUN and/CCONJ pump/VERB both/DET arm/NOUN foward/ADJ#0.0#0.0

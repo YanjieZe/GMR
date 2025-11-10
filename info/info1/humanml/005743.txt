@@ -1,0 +1,3 @@
+a person is walking down stairs.#a/DET person/NOUN is/AUX walk/VERB down/ADP stair/NOUN#0.0#0.0
+a figure slowly walks down a staircase using railing as support#a/DET figure/NOUN slowly/ADV walk/VERB down/ADP a/DET staircase/NOUN use/VERB rail/VERB as/SCONJ support/NOUN#0.0#0.0
+a person walks down some stairs, stopping in a standing position.#a/DET person/NOUN walk/VERB down/ADP some/DET stair/NOUN stop/VERB in/ADP a/DET standing/ADJ position/NOUN#0.0#0.0

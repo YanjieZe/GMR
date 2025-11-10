@@ -1,0 +1,3 @@
+a man throwing something or swinging something#a/DET man/NOUN throw/VERB something/PRON or/CCONJ swinge/VERB something/PRON#0.0#0.0
+a person throws something with his left hand#a/DET person/NOUN throw/VERB something/PRON with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0
+a individual is standing at an angle raising their left hand in the motion as to throw an object like a baseball.#a/DET individual/NOUN is/AUX stand/VERB at/ADP an/DET angle/NOUN raise/VERB their/DET left/ADJ hand/NOUN in/ADP the/DET motion/NOUN as/SCONJ to/PART throw/VERB an/DET object/NOUN like/SCONJ a/DET baseball/NOUN#0.0#2.0

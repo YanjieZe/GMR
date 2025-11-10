@@ -1,0 +1,3 @@
+a person takes a step forward#a/DET person/NOUN take/VERB a/DET step/NOUN forward/ADV#0.0#0.0
+a person steps slightly forward, like he is being pushed from behind.#a/DET person/NOUN step/VERB slightly/ADV forward/ADV like/SCONJ he/PRON is/AUX being/AUX push/VERB from/ADP behind/ADV#0.0#0.0
+person takes a step forward#person/NOUN take/VERB a/DET step/NOUN forward/ADV#0.0#0.0

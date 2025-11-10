@@ -1,0 +1,3 @@
+a person with both arms bent is shuffling slowly leading with their right leg, then the began to turn and lead with their left.#a/DET person/NOUN with/ADP both/DET arm/NOUN bent/ADJ is/AUX shuffle/VERB slowly/ADV lead/VERB with/ADP their/DET right/ADJ leg/NOUN then/ADV the/DET begin/VERB to/PART turn/VERB and/CCONJ lead/VERB with/ADP their/DET left/NOUN#0.0#0.0
+a person walks slowly sideways to his right, turns and starts towards his left.#a/DET person/NOUN walk/VERB slowly/ADV sideways/ADV to/ADP his/DET right/NOUN turn/VERB and/CCONJ start/VERB towards/ADP his/DET left/NOUN#0.0#0.0
+a person stealthily creeps around.#a/DET person/NOUN stealthily/ADV creep/VERB around/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks over a beam#a/DET person/NOUN walk/VERB over/ADP a/DET beam/NOUN#0.0#0.0
+a person steps up onto a platform and walks across it at an angle.#a/DET person/NOUN step/VERB up/ADP onto/ADP a/DET platform/NOUN and/CCONJ walk/VERB across/ADP it/PRON at/ADP an/DET angle/NOUN#0.0#0.0
+a person standing up takes one step up, then walks forward slightly to the left.#a/DET person/NOUN stand/VERB up/ADP take/VERB one/NUM step/NOUN up/ADP then/ADV walk/VERB forward/ADV slightly/ADV to/ADP the/DET left/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person stands still and shifts their weight from one foot to another while looking back and forth.#a/DET person/NOUN stand/VERB still/ADV and/CCONJ shift/VERB their/DET weight/NOUN from/ADP one/NUM foot/NOUN to/ADP another/DET while/SCONJ look/VERB back/ADV and/CCONJ forth/ADV#0.0#9.0
+a person looks left, then looks right, then confirms left by looking left again.#a/DET person/NOUN look/VERB left/VERB then/ADV look/VERB right/ADJ then/ADV confirm/VERB left/VERB by/ADP look/VERB left/VERB again/ADV#0.0#0.0
+a person forming a good and strong stance.#a/DET person/NOUN form/VERB a/DET good/ADJ and/CCONJ strong/ADJ stance/NOUN#0.0#0.0

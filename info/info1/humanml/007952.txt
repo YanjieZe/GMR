@@ -1,0 +1,3 @@
+person walks forward and to the left#person/NOUN walk/VERB forward/ADV and/CCONJ to/ADP the/DET left/NOUN#0.0#0.0
+the person walk forward and turn to the left.#the/DET person/NOUN walk/VERB forward/ADV and/CCONJ turn/VERB to/ADP the/DET left/NOUN#0.0#0.0
+someone walks in a curved path to their left.#someone/PRON walk/VERB in/ADP a/DET curved/ADJ path/NOUN to/ADP their/DET left/NOUN#0.0#0.0

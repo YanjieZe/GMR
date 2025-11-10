@@ -1,0 +1,3 @@
+a person scratches head with right hand.#a/DET person/NOUN scratch/VERB head/NOUN with/ADP right/ADJ hand/NOUN#0.0#0.0
+the person is is rubbing something.#the/DET person/NOUN is/AUX is/AUX rub/VERB something/PRON#0.0#0.0
+subject is scraching its head while looking around standimg#subject/PROPN is/AUX scrache/VERB its/DET head/NOUN while/SCONJ look/VERB around/ADP standimg/NOUN#0.0#0.0

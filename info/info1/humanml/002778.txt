@@ -1,0 +1,3 @@
+a person does double bicep curls with dumbbells.#a/DET person/NOUN does/AUX double/ADJ bicep/NOUN curl/NOUN with/ADP dumbbell/NOUN#0.0#0.0
+a person is lighting weights with both hands.#a/DET person/NOUN is/AUX light/VERB weight/NOUN with/ADP both/DET hand/NOUN#0.0#0.0
+the man lifts two dumbells with both hands#the/DET man/NOUN lift/VERB two/NUM dumbell/NOUN with/ADP both/DET hand/NOUN#0.0#0.0

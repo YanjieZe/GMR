@@ -1,0 +1,3 @@
+person stands for a few moments before  jumps and spins right leg around clockwise#person/NOUN stand/VERB for/ADP a/DET few/ADJ moment/NOUN before/ADP jumps/PROPN and/CCONJ spin/VERB right/ADJ leg/NOUN around/ADP clockwise/NOUN#0.0#0.0
+a person does a spinning kick.#a/DET person/NOUN does/AUX a/DET spinning/ADJ kick/NOUN#0.0#0.0
+a man spins with arms flailing on a diagonal.#a/DET man/NOUN spin/VERB with/ADP arm/NOUN flailing/NOUN on/ADP a/DET diagonal/ADJ#0.0#0.0

@@ -1,0 +1,3 @@
+a person puts his hands together and bows, then it takes a step to the right and bows again with arms at its side.#a/DET person/NOUN put/VERB his/DET hand/NOUN together/ADV and/CCONJ bow/NOUN then/ADV it/PRON take/VERB a/DET step/NOUN to/ADP the/DET right/NOUN and/CCONJ bow/VERB again/ADV with/ADP arm/NOUN at/ADP its/DET side/NOUN#0.0#0.0
+a person walks forward, bows, takes a step to the left and bows again.#a/DET person/NOUN walk/VERB forward/ADV bow/NOUN take/VERB a/DET step/NOUN to/ADP the/DET left/NOUN and/CCONJ bow/NOUN again/ADV#0.0#0.0
+person walks up and bows and shifts left a bit and bows again#person/NOUN walk/VERB up/ADV and/CCONJ bow/NOUN and/CCONJ shift/NOUN left/VERB a/DET bit/NOUN and/CCONJ bow/NOUN again/ADV#0.0#0.0

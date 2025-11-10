@@ -1,0 +1,3 @@
+the toon walks forward a few steps, then turns around walking back.#the/DET toon/NOUN walk/VERB forward/ADV a/DET few/ADJ step/NOUN then/ADV turn/VERB around/ADP walk/VERB back/ADV#0.0#5.0
+the person is walking forward turning left.#the/DET person/NOUN is/AUX walk/VERB forward/ADV turn/VERB left/ADV#0.0#0.0
+a person walks and turns to his left.#a/DET person/NOUN walk/VERB and/CCONJ turn/VERB to/ADP his/DET left/NOUN#0.0#0.0

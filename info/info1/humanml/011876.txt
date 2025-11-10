@@ -1,0 +1,3 @@
+the sim walks down the plane.#the/DET sim/PROPN walk/VERB down/ADP the/DET plane/NOUN#0.0#0.0
+a person walks at a regular pace forward.#a/DET person/NOUN walk/VERB at/ADP a/DET regular/ADJ pace/NOUN forward/ADV#0.0#0.0
+the man takes 5 steps forward.#the/DET man/NOUN take/VERB step/NOUN forward/ADV#0.0#0.0

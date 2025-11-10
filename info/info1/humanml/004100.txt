@@ -1,0 +1,3 @@
+a person walks forward then slows#a/DET person/NOUN walk/VERB forward/ADV then/ADV slow/VERB#0.0#0.0
+a person appears to look, shuffles forward quickly then slows down, rearing back slightly to look at something.#a/DET person/NOUN appear/VERB to/PART look/VERB shuffle/NOUN forward/ADV quickly/ADV then/ADV slow/VERB down/ADP rear/VERB back/ADV slightly/ADV to/PART look/VERB at/ADP something/PRON#0.0#0.0
+the person is walking down jumping a bit.#the/DET person/NOUN is/AUX walk/VERB down/ADP jump/VERB a/DET bit/NOUN#0.0#0.0

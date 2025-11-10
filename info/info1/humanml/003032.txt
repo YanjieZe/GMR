@@ -1,0 +1,3 @@
+person walks quickly forward as if in a hurry#person/NOUN walk/VERB quickly/ADV forward/ADV as/SCONJ if/SCONJ in/ADP a/DET hurry/NOUN#0.0#0.0
+a figure runs on a line.#a/DET figure/NOUN run/VERB on/ADP a/DET line/NOUN#0.0#0.0
+a person hurriedly walks foreward in a straight line then stops and stands.#a/DET person/NOUN hurriedly/ADV walk/VERB foreward/NOUN in/ADP a/DET straight/ADJ line/NOUN then/ADV stop/VERB and/CCONJ stand/VERB#0.0#0.0

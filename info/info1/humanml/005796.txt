@@ -1,0 +1,3 @@
+a person creeps forward with their knees and arms slightly bent.#a/DET person/NOUN creep/VERB forward/ADV with/ADP their/DET knee/NOUN and/CCONJ arm/NOUN slightly/ADV bent/ADJ#0.0#0.0
+a person is creeping around the room.#a/DET person/NOUN is/AUX creep/VERB around/ADP the/DET room/NOUN#0.0#0.0
+a person slinks forward to the other side of the room#a/DET person/NOUN slink/VERB forward/ADV to/ADP the/DET other/ADJ side/NOUN of/ADP the/DET room/NOUN#0.0#0.0

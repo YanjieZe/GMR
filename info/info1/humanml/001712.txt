@@ -1,0 +1,3 @@
+the stick figure person slides to his left while dabbing to the oposite direction.#the/DET stick/NOUN figure/NOUN person/NOUN slide/VERB to/ADP his/DET left/NOUN while/SCONJ dab/VERB to/ADP the/DET oposite/ADJ direction/NOUN#0.0#0.0
+a person does usain bolt's celebration#a/DET person/NOUN does/AUX usain/VERB bolt/PROPN celebration/NOUN#0.0#0.0
+person leans to his left, streches right arm and takes selfie#person/NOUN lean/VERB to/ADP his/DET left/NOUN streche/VERB right/ADJ arm/NOUN and/CCONJ take/VERB selfie/NOUN#0.0#0.0

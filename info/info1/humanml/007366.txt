@@ -1,0 +1,3 @@
+a person doing robot dance moves#a/DET person/NOUN do/VERB robot/NOUN dance/NOUN move/NOUN#0.0#0.0
+he acts like he is a weight lifter showing off, then raises his right arm and left arm towards his side#he/PRON act/VERB like/SCONJ he/PRON is/AUX a/DET weight/NOUN lifter/NOUN show/VERB off/ADP then/ADV raise/VERB his/DET right/ADJ arm/NOUN and/CCONJ left/ADJ arm/NOUN towards/ADP his/DET side/NOUN#0.0#0.0
+a person does the "i'm a little teapot" dance.#a/DET person/NOUN does/AUX the/DET i/PRON a/DET little/ADJ teapot/NOUN dance/NOUN#0.0#0.0

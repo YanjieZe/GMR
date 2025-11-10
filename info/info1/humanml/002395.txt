@@ -1,0 +1,3 @@
+a person spints in a circle then taks big steps forward#a/DET person/NOUN spint/VERB in/ADP a/DET circle/NOUN then/ADV tak/VERB big/ADJ step/NOUN forward/ADV#0.0#0.0
+he turns and walks awkwardly.#he/PRON turn/VERB and/CCONJ walk/VERB awkwardly/ADV#0.0#0.0
+a man turns around and then does a silly walk forward.#a/DET man/NOUN turn/VERB around/ADP and/CCONJ then/ADV does/AUX a/DET silly/ADJ walk/NOUN forward/ADV#0.0#0.0

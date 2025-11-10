@@ -1,0 +1,3 @@
+both arms are lifted up so the hands meet the shoulders.#both/DET arm/NOUN are/AUX lift/VERB up/ADP so/SCONJ the/DET hand/NOUN meet/VERB the/DET shoulder/NOUN#0.0#0.0
+a person raises both hands to shoulder level and then lowers their hands to their sides.#a/DET person/NOUN raise/VERB both/DET hand/NOUN to/PART shoulder/VERB level/NOUN and/CCONJ then/ADV lower/VERB their/DET hand/NOUN to/ADP their/DET side/NOUN#0.0#0.0
+person bends both arms towards chest and back bends it back straight#person/NOUN bend/VERB both/DET arm/NOUN towards/ADP chest/NOUN and/CCONJ back/NOUN bend/NOUN it/PRON back/ADV straight/ADV#0.0#0.0

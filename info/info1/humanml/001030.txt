@@ -1,0 +1,3 @@
+the person is walking back and forth at a very slow pace#the/DET person/NOUN is/AUX walk/VERB back/ADV and/CCONJ forth/ADV at/ADP a/DET very/ADV slow/ADJ pace/NOUN#0.0#0.0
+a man staggers forward in on a diagonal and then turns around.#a/DET man/NOUN stagger/VERB forward/ADV in/ADV on/ADP a/DET diagonal/ADJ and/CCONJ then/ADV turn/VERB around/ADV#0.0#0.0
+a man staggers forward then turns around and staggers half way back.#a/DET man/NOUN stagger/VERB forward/ADV then/ADV turn/VERB around/ADP and/CCONJ stagger/VERB half/ADJ way/ADV back/ADV#0.0#0.0

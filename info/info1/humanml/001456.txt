@@ -1,0 +1,3 @@
+a man does four different body builder poses.#a/DET man/NOUN does/AUX four/NUM different/ADJ body/NOUN builder/NOUN pose/NOUN#0.0#0.0
+person is flexing muscles.#person/NOUN is/AUX flex/VERB muscle/NOUN#0.0#0.0
+a figure makes several body building poses while standing.#a/DET figure/NOUN make/VERB several/ADJ body/NOUN building/NOUN pose/NOUN while/SCONJ stand/VERB#0.0#0.0

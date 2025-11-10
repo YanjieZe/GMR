@@ -1,0 +1,3 @@
+a person holds their hands to their face, then kneel down and mess with their left foot.#a/DET person/NOUN hold/VERB their/DET hand/NOUN to/ADP their/DET face/NOUN then/ADV kneel/VERB down/ADP and/CCONJ mess/NOUN with/ADP their/DET left/ADJ foot/NOUN#0.0#0.0
+a person who seems to shout something then proceeds to tie their left shoe#a/DET person/NOUN who/PRON seem/VERB to/PART shout/VERB something/PRON then/ADV proceed/VERB to/PART tie/VERB their/DET left/ADJ shoe/NOUN#0.0#0.0
+a person has both hands together and kneels down.#a/DET person/NOUN has/AUX both/DET hand/NOUN together/ADV and/CCONJ kneel/VERB down/ADP#0.0#0.0

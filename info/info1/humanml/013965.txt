@@ -1,0 +1,3 @@
+this person jumps up and down on his right leg.#this/DET person/NOUN jump/VERB up/ADV and/CCONJ down/ADV on/ADP his/DET right/ADJ leg/NOUN#0.0#0.0
+a person jumps vertically on the spot.#a/DET person/NOUN jump/VERB vertically/ADV on/ADP the/DET spot/NOUN#0.0#0.0
+a person jumps up and down multiple times.#a/DET person/NOUN jump/VERB up/ADV and/CCONJ down/ADP multiple/ADJ time/NOUN#0.0#0.0

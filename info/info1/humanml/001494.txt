@@ -1,0 +1,3 @@
+a person is crouching and shaking while grabbing their head.#a/DET person/NOUN is/AUX crouch/VERB and/CCONJ shake/VERB while/SCONJ grab/VERB their/DET head/NOUN#0.0#0.0
+sitting, knees toward the chest while both hands go toward the face and back down.#sit/VERB knee/VERB toward/ADP the/DET chest/NOUN while/SCONJ both/DET hand/NOUN go/VERB toward/ADP the/DET face/NOUN and/CCONJ back/VERB down/ADV#0.0#0.0
+a person squatting, raises arms, shaking in fear.#a/DET person/NOUN squat/VERB raise/VERB arm/NOUN shake/VERB in/ADP fear/NOUN#0.0#0.0

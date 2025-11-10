@@ -1,0 +1,3 @@
+the body slides to the left.#the/DET body/NOUN slide/VERB to/ADP the/DET left/NOUN#0.0#0.0
+a person quickly sidesteps to the left and regains balance.#a/DET person/NOUN quickly/ADV sidestep/VERB to/ADP the/DET left/NOUN and/CCONJ regain/VERB balance/NOUN#0.0#0.0
+person was pushed from the right side but didn’t fall.#person/NOUN was/AUX push/VERB from/ADP the/DET right/ADJ side/NOUN but/CCONJ did/AUX fall/VERB#0.0#0.0

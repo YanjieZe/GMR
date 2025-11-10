@@ -1,0 +1,3 @@
+a figure walks backward slowly#a/DET figure/NOUN walk/VERB backward/ADV slowly/ADV#0.0#0.0
+a person walks backwards.#a/DET person/NOUN walk/VERB backwards/ADV#0.0#0.0
+walking straight backwards then stopping.#walk/VERB straight/ADJ backwards/ADV then/ADV stop/VERB#0.0#0.0

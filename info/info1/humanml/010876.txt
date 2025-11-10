@@ -1,0 +1,3 @@
+grabing a golf club and lightly moving it#grab/VERB a/DET golf/NOUN club/NOUN and/CCONJ lightly/ADV move/VERB it/PRON#0.0#0.0
+with arms down in front of his body, the person clasps his hands.#with/ADP arm/NOUN down/ADV in/ADP front/NOUN of/ADP his/DET body/NOUN the/DET person/NOUN clasp/VERB his/DET hand/NOUN#0.0#0.0
+a person doing golf with a club#a/DET person/NOUN do/VERB golf/NOUN with/ADP a/DET club/NOUN#0.0#0.0

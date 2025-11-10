@@ -1,0 +1,3 @@
+a man standing and suddenly seems to lean to the front and then quickly to the back like he's losing balance.#a/DET man/NOUN stand/VERB and/CCONJ suddenly/ADV seem/VERB to/PART lean/VERB to/ADP the/DET front/NOUN and/CCONJ then/ADV quickly/ADV to/ADP the/DET back/NOUN like/SCONJ he/PRON lose/VERB balance/NOUN#0.0#0.0
+the body bends forward, with the right hand that pushes further back than the side.#the/DET body/NOUN bend/VERB forward/ADV with/ADP the/DET right/ADJ hand/NOUN that/DET push/VERB further/ADV back/ADV than/SCONJ the/DET side/NOUN#0.0#0.0
+a person falling forward then sits back up.#a/DET person/NOUN fall/VERB forward/ADV then/ADV sit/VERB back/ADV up/ADV#0.0#0.0

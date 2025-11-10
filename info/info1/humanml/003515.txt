@@ -1,0 +1,3 @@
+a person hops then climbs stairs.#a/DET person/NOUN hop/VERB then/ADV climb/VERB stair/NOUN#0.0#0.0
+a person puts hands up then jumps in place before walking up stairs and using their right arm for support.#a/DET person/NOUN put/VERB hand/NOUN up/ADP then/ADV jump/VERB in/ADP place/NOUN before/ADP walk/VERB up/ADP stair/NOUN and/CCONJ use/VERB their/DET right/ADJ arm/NOUN for/ADP support/NOUN#0.0#0.0
+a person moves their arms down to their sides, hops, and then begins to walk up stairs with their right hand held out.#a/DET person/NOUN move/VERB their/DET arm/NOUN down/ADP to/ADP their/DET side/NOUN hop/NOUN and/CCONJ then/ADV begin/VERB to/PART walk/VERB up/ADP stair/NOUN with/ADP their/DET right/ADJ hand/NOUN hold/VERB out/ADP#0.0#0.0

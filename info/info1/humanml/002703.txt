@@ -1,0 +1,3 @@
+someone is talking on the cell phone#someone/PRON is/AUX talk/VERB on/ADP the/DET cell/NOUN phone/NOUN#0.0#0.0
+a person uses their hand to scratch their ear while slowly taking a step forward.#a/DET person/NOUN use/VERB their/DET hand/NOUN to/PART scratch/VERB their/DET ear/NOUN while/SCONJ slowly/ADV take/VERB a/DET step/NOUN forward/ADV#0.0#0.0
+a person scratches their head while swaying back and forth.#a/DET person/NOUN scratch/VERB their/DET head/NOUN while/SCONJ sway/VERB back/ADV and/CCONJ forth/ADV#0.0#0.0

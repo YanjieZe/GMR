@@ -1,0 +1,3 @@
+character stands for a few seconds, takes four step foward and then hops once.#character/NOUN stand/VERB for/ADP a/DET few/ADJ second/NOUN take/VERB four/NUM step/NOUN foward/NOUN and/CCONJ then/ADV hop/VERB once/ADV#1.0#10.0
+the person sluggishly walks forward then stops and jumps in place#the/DET person/NOUN sluggishly/ADV walk/VERB forward/ADV then/ADV stop/VERB and/CCONJ jump/VERB in/ADP place/NOUN#0.0#0.0
+walking forward with both arms drooping and then hopping at the end#walk/VERB forward/ADV with/ADP both/DET arm/NOUN droop/VERB and/CCONJ then/ADV hop/VERB at/ADP the/DET end/NOUN#0.0#0.0

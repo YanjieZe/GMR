@@ -1,0 +1,3 @@
+a person calping their hands#a/DET person/NOUN calpe/VERB their/DET hand/NOUN#0.0#0.0
+a person claps their hands.#a/DET person/NOUN clap/VERB their/DET hand/NOUN#0.0#0.0
+person raises hand clapsed together and claps seven times#person/NOUN raise/VERB hand/NOUN clapse/VERB together/ADV and/CCONJ clap/VERB seven/NUM time/NOUN#0.0#0.0

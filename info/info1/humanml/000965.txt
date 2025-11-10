@@ -1,0 +1,3 @@
+the person is standing in place.#the/DET person/NOUN is/AUX stand/VERB in/ADP place/NOUN#0.0#0.0
+the figure curls an imaginary barbell with his left hand.#the/DET figure/NOUN curl/VERB an/DET imaginary/ADJ barbell/NOUN with/ADP his/DET left/ADJ hand/NOUN#0.0#3.0
+a person bends their arm at the elbow repeatedly#a/DET person/NOUN bend/VERB their/DET arm/NOUN at/ADP the/DET elbow/NOUN repeatedly/ADV#0.0#0.0

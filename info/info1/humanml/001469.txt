@@ -1,0 +1,3 @@
+person takes step forward, then turns around to look behind them#person/NOUN take/VERB step/NOUN forward/ADV then/ADV turn/VERB around/ADP to/PART look/VERB behind/ADP them/PRON#0.0#0.0
+the person was facing forward and turned around to look behind them.#the/DET person/NOUN was/AUX face/VERB forward/ADV and/CCONJ turn/VERB around/ADP to/PART look/VERB behind/ADP them/PRON#0.0#0.0
+a person takes a few steps forward then slowly look back to the right behind his and hesitantly moves backwards#a/DET person/NOUN take/VERB a/DET few/ADJ step/NOUN forward/ADV then/ADV slowly/ADV look/VERB back/ADV to/ADP the/DET right/NOUN behind/ADP his/DET and/CCONJ hesitantly/ADV move/VERB backwards/ADV#0.0#0.0

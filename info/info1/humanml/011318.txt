@@ -1,0 +1,3 @@
+a person steps backwards two steps, then rushes forward a few steps and swings his right arm forward as though tossing something.#a/DET person/NOUN step/VERB backwards/ADV two/NUM step/NOUN then/ADV rush/VERB forward/ADV a/DET few/ADJ step/NOUN and/CCONJ swing/VERB his/DET right/ADJ arm/NOUN forward/ADV as/SCONJ though/SCONJ toss/VERB something/PRON#0.0#0.0
+the person moves forward, throw something then moves back#the/DET person/NOUN move/VERB forward/ADV throw/VERB something/PRON then/ADV move/VERB back/ADV#0.0#0.0
+a person hits a backhand hit during tennis#a/DET person/NOUN hit/VERB a/DET backhand/NOUN hit/VERB during/ADP tennis/NOUN#0.0#0.0

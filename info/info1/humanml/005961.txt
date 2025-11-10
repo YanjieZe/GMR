@@ -1,0 +1,3 @@
+this person jogs forward then stops.#this/DET person/NOUN jog/VERB forward/ADV then/ADV stop/VERB#0.0#0.0
+a person jogs forward.#a/DET person/NOUN jog/VERB forward/ADV#0.0#0.0
+a person slowly jogs forward.#a/DET person/NOUN slowly/ADV jog/VERB forward/ADV#0.0#0.0

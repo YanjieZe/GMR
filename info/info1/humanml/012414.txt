@@ -1,0 +1,3 @@
+a person runs diagonally across a room with their arms swinging hands down.#a/DET person/NOUN run/VERB diagonally/ADV across/ADP a/DET room/NOUN with/ADP their/DET arm/NOUN swinge/VERB hand/NOUN down/ADV#0.0#0.0
+a person runs slight towards the right.#a/DET person/NOUN run/VERB slight/ADJ towards/ADP the/DET right/NOUN#0.0#0.0
+a person runs forward with their arms swinging side to side in front of their body.#a/DET person/NOUN run/VERB forward/ADV with/ADP their/DET arm/NOUN swinge/VERB side/NOUN to/PART side/VERB in/ADP front/NOUN of/ADP their/DET body/NOUN#0.0#0.0

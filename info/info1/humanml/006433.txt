@@ -1,0 +1,3 @@
+a person lifts both arms out to their side and runs forward in a figure 8 pattern.#a/DET person/NOUN lift/VERB both/DET arm/NOUN out/ADV to/ADP their/DET side/NOUN and/CCONJ run/VERB forward/ADV in/ADP a/DET figure/NOUN pattern/NOUN#0.0#0.0
+the person is flying like a airplane.#the/DET person/NOUN is/AUX fly/VERB like/SCONJ a/DET airplane/NOUN#0.0#0.0
+the man is pretending to be a plane i think#the/DET man/NOUN is/AUX pretend/VERB to/PART be/AUX a/DET plane/NOUN i/PRON think/VERB#0.0#0.0

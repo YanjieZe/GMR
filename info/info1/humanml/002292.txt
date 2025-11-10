@@ -1,0 +1,3 @@
+a person lifts something up with their right arm, perhaps curling a dumbbell but#a/DET person/NOUN lift/VERB something/PRON up/ADP with/ADP their/DET right/ADJ arm/NOUN perhaps/ADV curl/VERB a/DET dumbbell/NOUN but/CCONJ#0.0#0.0
+person quickly raises their right hand#person/NOUN quickly/ADV raise/VERB their/DET right/ADJ hand/NOUN#0.0#0.0
+a person lifts a dumbbell with their right hand.#a/DET person/NOUN lift/VERB a/DET dumbbell/NOUN with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0

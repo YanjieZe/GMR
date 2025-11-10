@@ -1,0 +1,3 @@
+the person takes their turn and jumps into a double dutch jump rope game.#the/DET person/NOUN take/VERB their/DET turn/NOUN and/CCONJ jump/VERB into/ADP a/DET double/ADJ dutch/ADJ jump/NOUN rope/NOUN game/NOUN#0.0#0.0
+a person takes their true jumping with a single long rope.#a/DET person/NOUN take/VERB their/DET true/ADJ jumping/NOUN with/ADP a/DET single/ADJ long/ADJ rope/NOUN#0.0#0.0
+a person is jumping rope.#a/DET person/NOUN is/AUX jump/VERB rope/NOUN#0.0#0.0

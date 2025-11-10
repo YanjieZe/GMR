@@ -1,0 +1,3 @@
+a person shifts down to the ground and crawls forward before getting back up.#a/DET person/NOUN shift/VERB down/ADP to/ADP the/DET ground/NOUN and/CCONJ crawl/VERB forward/ADV before/ADP get/VERB back/ADV up/ADP#0.0#0.0
+the person crawls diagonally on the ground then stands up#the/DET person/NOUN crawl/VERB diagonally/ADV on/ADP the/DET ground/NOUN then/ADV stand/VERB up/ADP#0.0#0.0
+crawling forward and then standing.#crawl/VERB forward/ADV and/CCONJ then/ADV stand/VERB#0.0#0.0

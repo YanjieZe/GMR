@@ -1,0 +1,3 @@
+a person takes one step diagionally forward and left.#a/DET person/NOUN take/VERB one/NUM step/NOUN diagionally/ADV forward/ADV and/CCONJ left/VERB#0.0#0.0
+the man takes a sideways step to the left.#the/DET man/NOUN take/VERB a/DET sideways/ADJ step/NOUN to/ADP the/DET left/NOUN#0.0#0.0
+a person who is standing with his hands by his sides takes one big step to his left.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP his/DET hand/NOUN by/ADP his/DET side/NOUN take/VERB one/NUM big/ADJ step/NOUN to/ADP his/DET left/NOUN#0.0#0.0

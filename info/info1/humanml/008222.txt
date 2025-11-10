@@ -1,0 +1,3 @@
+a person brings his hands together in front of him and shakes them#a/DET person/NOUN bring/VERB his/DET hand/NOUN together/ADV in/ADP front/NOUN of/ADP him/PRON and/CCONJ shake/VERB them/PRON#0.0#0.0
+a figure claps in front of their chest#a/DET figure/NOUN clap/NOUN in/ADP front/NOUN of/ADP their/DET chest/NOUN#0.0#0.0
+the person is clapping its hands together.#the/DET person/NOUN is/AUX clap/VERB its/DET hand/NOUN together/ADV#0.0#0.0

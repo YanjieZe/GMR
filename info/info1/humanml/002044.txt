@@ -1,0 +1,3 @@
+a person leans forward with both hands together, then extends their right arm, then reverses and repeats the same motion.#a/DET person/NOUN lean/VERB forward/ADV with/ADP both/DET hand/NOUN together/ADV then/ADV extend/VERB their/DET right/ADJ arm/NOUN then/ADV reverse/VERB and/CCONJ repeat/VERB the/DET same/ADJ motion/NOUN#0.0#0.0
+a person hunces forward gives something with the right then takes it back with the right.#a/DET person/NOUN hunce/VERB forward/ADV give/VERB something/PRON with/ADP the/DET right/NOUN then/ADV take/VERB it/PRON back/ADV with/ADP the/DET right/NOUN#0.0#0.0
+person leans forward and picks up item  and puts it back#person/NOUN lean/VERB forward/ADV and/CCONJ pick/VERB up/ADP item/NOUN and/CCONJ put/VERB it/PRON back/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person lifts a weight with the left hand.#a/DET person/NOUN lift/VERB a/DET weight/NOUN with/ADP the/DET left/ADJ hand/NOUN#0.0#0.0
+a person is flexing their left arm.#a/DET person/NOUN is/AUX flex/VERB their/DET left/ADJ arm/NOUN#0.0#0.0
+the person is lifting a dumbbell with his left hand.#the/DET person/NOUN is/AUX lift/VERB a/DET dumbbell/NOUN with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0

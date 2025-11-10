@@ -1,0 +1,3 @@
+the person was doing a tough guy walk.#the/DET person/NOUN was/AUX do/VERB a/DET tough/ADJ guy/NOUN walk/NOUN#0.0#0.0
+a person swaggers to the front, with their body moving side to side, and then turns around and swaggers back.#a/DET person/NOUN swagger/VERB to/ADP the/DET front/NOUN with/ADP their/DET body/NOUN move/VERB side/NOUN to/PART side/VERB and/CCONJ then/ADV turn/VERB around/ADP and/CCONJ swagger/NOUN back/ADP#0.0#10.0
+the man is walking with a pep in his step#the/DET man/NOUN is/AUX walk/VERB with/ADP a/DET pep/NOUN in/ADP his/DET step/NOUN#0.0#0.0

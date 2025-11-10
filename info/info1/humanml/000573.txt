@@ -1,0 +1,3 @@
+a person is dancing the waltz.#a/DET person/NOUN is/AUX dance/VERB the/DET waltz/NOUN#0.0#0.0
+a man is doing the waltz in a circle.#a/DET man/NOUN is/AUX do/VERB the/DET waltz/NOUN in/ADP a/DET circle/NOUN#0.0#0.0
+he has his hands raised as if on his partner's shoulders and dances the box step.#he/PRON has/AUX his/DET hand/NOUN raise/VERB as/SCONJ if/SCONJ on/ADP his/DET partner/NOUN shoulder/NOUN and/CCONJ dance/VERB the/DET box/NOUN step/NOUN#0.0#0.0

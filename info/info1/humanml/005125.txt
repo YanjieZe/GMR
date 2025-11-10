@@ -1,0 +1,3 @@
+a man stands arms at his side jumps up and down 5 times on both feet slowly.#a/DET man/NOUN stand/VERB arm/NOUN at/ADP his/DET side/NOUN jump/VERB up/ADV and/CCONJ down/ADV time/NOUN on/ADP both/DET foot/NOUN slowly/ADV#0.0#0.0
+hops up and down in place w/ hands on side.#hop/VERB up/ADV and/CCONJ down/ADV in/ADP place/NOUN hand/NOUN on/ADP side/NOUN#0.0#0.0
+a person hops up and down.#a/DET person/NOUN hop/VERB up/ADV and/CCONJ down/ADV#0.0#0.0

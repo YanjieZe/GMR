@@ -1,0 +1,3 @@
+figure appears to be yawning or breathing through a mask#figure/NOUN appear/VERB to/PART be/AUX yawn/VERB or/CCONJ breathe/VERB through/ADP a/DET mask/NOUN#0.0#0.0
+a person covering their mouth.#a/DET person/NOUN cover/VERB their/DET mouth/NOUN#0.0#0.0
+right hand on knee, left hand cradling head, a person goes from leaning to standing, drops both hands, then cradles head in right hand and bends over again.#right/ADJ hand/NOUN on/ADP knee/NOUN left/VERB hand/NOUN cradle/VERB head/NOUN a/DET person/NOUN go/VERB from/ADP lean/VERB to/ADP standing/NOUN drop/VERB both/DET hand/NOUN then/ADV cradle/VERB head/NOUN in/ADP right/ADJ hand/NOUN and/CCONJ bend/VERB over/ADP again/ADV#0.0#0.0

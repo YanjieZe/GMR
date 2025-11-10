@@ -1,0 +1,3 @@
+the man stomps his left foot.#the/DET man/NOUN stomp/VERB his/DET left/ADJ foot/NOUN#0.0#0.0
+a person stomps with their right foot.#a/DET person/NOUN stomp/VERB with/ADP their/DET right/ADJ foot/NOUN#0.0#0.0
+the man is stomping to the right#the/DET man/NOUN is/AUX stomp/VERB to/ADP the/DET right/NOUN#0.0#0.0

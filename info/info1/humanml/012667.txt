@@ -1,0 +1,3 @@
+man walked in a 90 degree angle foward and turned around completely to walk back from starting point in a 90 degree angle.#man/NOUN walk/VERB in/ADP a/DET degree/NOUN angle/NOUN foward/NOUN and/CCONJ turn/VERB around/ADP completely/ADV to/PART walk/VERB back/ADV from/ADP start/VERB point/NOUN in/ADP a/DET degree/NOUN angle/NOUN#0.0#0.0
+a person walks forward turns to the left and walks back to same spot.#a/DET person/NOUN walk/VERB forward/ADV turn/VERB to/ADP the/DET left/NOUN and/CCONJ walk/VERB back/ADV to/ADP same/ADJ spot/NOUN#0.0#0.0
+a person slowly walked forward in left direction adn after returned back#a/DET person/NOUN slowly/ADV walk/VERB forward/ADV in/ADP left/ADJ direction/NOUN adn/PROPN after/ADP return/VERB back/ADV#0.0#0.0

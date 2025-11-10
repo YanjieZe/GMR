@@ -1,0 +1,3 @@
+a person looks down at the ground and then takes one jump forward with both feet.#a/DET person/NOUN look/VERB down/ADP at/ADP the/DET ground/NOUN and/CCONJ then/ADV take/VERB one/NUM jump/NOUN forward/ADV with/ADP both/DET foot/NOUN#0.0#0.0
+a person does a small jump forward then takes a small step back#a/DET person/NOUN does/AUX a/DET small/ADJ jump/NOUN forward/ADV then/ADV take/VERB a/DET small/ADJ step/NOUN back/ADV#0.0#0.0
+this person jumps a small jump forward.#this/DET person/NOUN jump/VERB a/DET small/ADJ jump/NOUN forward/ADV#0.0#0.0

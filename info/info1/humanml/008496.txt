@@ -1,0 +1,3 @@
+a person raise both their hands and claps.#a/DET person/NOUN raise/VERB both/CCONJ their/DET hand/NOUN and/CCONJ clap/NOUN#0.0#0.0
+the person is standing there and put his hands together and then took them apart again.#the/DET person/NOUN is/AUX stand/VERB there/ADV and/CCONJ put/VERB his/DET hand/NOUN together/ADV and/CCONJ then/ADV take/VERB them/PRON apart/ADV again/ADV#0.0#0.0
+person is wading up paper towels#person/NOUN is/AUX wade/VERB up/ADP paper/NOUN towel/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person is moving something with both hands.#a/DET person/NOUN is/AUX move/VERB something/PRON with/ADP both/DET hand/NOUN#0.0#0.0
+lifting up from left and then putting it back down to right#lift/VERB up/ADP from/ADP left/ADV and/CCONJ then/ADV put/VERB it/PRON back/ADV down/ADP to/ADP right/ADJ#0.0#0.0
+a man picks up an object and then sets it on top of another object.#a/DET man/NOUN pick/VERB up/ADP an/DET object/NOUN and/CCONJ then/ADV set/VERB it/PRON on/ADP top/NOUN of/ADP another/DET object/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person uses his left arm to do a passing something back motion#a/DET person/NOUN use/VERB his/DET left/ADJ arm/NOUN to/PART do/AUX a/DET pass/VERB something/PRON back/ADV motion/NOUN#0.0#0.0
+a person waves at somebody unseen, makes a second wave, and then leans forward to pick up an object.#a/DET person/NOUN wave/VERB at/ADP somebody/PRON unseen/ADJ make/VERB a/DET second/ADJ wave/NOUN and/CCONJ then/ADV lean/VERB forward/ADV to/PART pick/VERB up/ADP an/DET object/NOUN#0.0#0.0
+the person picked up the van tastic to the left.#the/DET person/NOUN pick/VERB up/ADP the/DET van/PROPN tastic/NOUN to/ADP the/DET left/NOUN#0.0#0.0

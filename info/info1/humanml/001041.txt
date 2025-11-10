@@ -1,0 +1,3 @@
+a man walks up stairs leading with his right foot.#a/DET man/NOUN walk/VERB up/ADP stair/NOUN lead/VERB with/ADP his/DET right/ADJ foot/NOUN#0.0#0.0
+a man climbs a set of stairs.#a/DET man/NOUN climb/VERB a/DET set/NOUN of/ADP stair/NOUN#0.0#0.0
+the man goes up 5 stairs.#the/DET man/NOUN go/VERB up/ADV stair/NOUN#0.0#0.0

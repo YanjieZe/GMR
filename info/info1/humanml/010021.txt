@@ -1,0 +1,3 @@
+a man walks four steps forward and then stops.#a/DET man/NOUN walk/VERB four/NUM step/NOUN forward/ADV and/CCONJ then/ADV stop/VERB#0.0#0.0
+this person walks forward very slowly.#this/DET person/NOUN walk/VERB forward/ADV very/ADV slowly/ADV#0.0#0.0
+a person is standing still, walks forwards, thens stops#a/DET person/NOUN is/AUX stand/VERB still/ADV walk/VERB forwards/ADV then/NOUN stop/VERB#0.0#0.0

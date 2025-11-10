@@ -1,0 +1,3 @@
+the person took his right arm up to his face.#the/DET person/NOUN take/VERB his/DET right/ADJ arm/NOUN up/ADP to/ADP his/DET face/NOUN#0.0#0.0
+a person raises their right arm to their face#a/DET person/NOUN raise/VERB their/DET right/ADJ arm/NOUN to/ADP their/DET face/NOUN#0.0#0.0
+he moves around then stops#he/PRON move/VERB around/ADV then/ADV stop/VERB#0.0#0.0

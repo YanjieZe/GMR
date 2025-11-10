@@ -1,0 +1,3 @@
+the person is shaking their shoulders standing up and again bending at the waist.#the/DET person/NOUN is/AUX shake/VERB their/DET shoulder/NOUN stand/VERB up/ADV and/CCONJ again/ADV bend/VERB at/ADP the/DET waist/NOUN#0.0#0.0
+person leans forward from the waist then shakes shoulders and keeps shaking them whilst returning to standing upright.#person/NOUN lean/VERB forward/ADV from/ADP the/DET waist/NOUN then/ADV shake/VERB shoulder/NOUN and/CCONJ keep/VERB shake/VERB them/PRON whilst/SCONJ return/VERB to/ADP stand/VERB upright/ADV#0.0#0.0
+the body shimmies violently back and forth.#the/DET body/NOUN shimmy/VERB violently/ADV back/ADV and/CCONJ forth/ADV#0.0#0.0

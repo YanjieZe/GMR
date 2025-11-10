@@ -1,0 +1,3 @@
+person walks forward with irregular step height, turns right, walks straight forward normal, turns right, and steps up onto something before continuing to walk forward.#person/NOUN walk/VERB forward/ADV with/ADP irregular/ADJ step/NOUN height/NOUN turn/VERB right/ADV walk/VERB straight/ADV forward/ADV normal/ADJ turn/VERB right/ADJ and/CCONJ step/VERB up/ADP onto/ADP something/PRON before/ADP continue/VERB to/PART walk/VERB forward/ADV#0.0#0.0
+person is walking on uneven terrain.#person/NOUN is/AUX walk/VERB on/ADP uneven/ADJ terrain/NOUN#0.0#0.0
+the person walks diagionally twice before then taking a step both up and down#the/DET person/NOUN walk/VERB diagionally/ADV twice/ADV before/ADV then/ADV take/VERB a/DET step/NOUN both/CCONJ up/ADP and/CCONJ down/ADV#0.0#0.0

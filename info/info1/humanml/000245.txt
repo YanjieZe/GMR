@@ -1,0 +1,3 @@
+a man presses on object over his head using both arms.#a/DET man/NOUN press/VERB on/ADP object/NOUN over/ADP his/DET head/NOUN use/VERB both/DET arm/NOUN#0.0#0.0
+someone is lifting a medium-weight dumbell over their head.#someone/PRON is/AUX lift/VERB a/DET mediumweight/NOUN dumbell/NOUN over/ADP their/DET head/NOUN#0.0#0.0
+person is lifting dumbbells over their head#person/NOUN is/AUX lift/VERB dumbbell/NOUN over/ADP their/DET head/NOUN#0.0#0.0

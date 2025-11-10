@@ -1,0 +1,2 @@
+the man walks across to get something walks back then back again to put the thing back.#the/DET man/NOUN walk/VERB across/ADP to/PART get/AUX something/PRON walk/VERB back/ADV then/ADV back/ADV again/ADV to/PART put/VERB the/DET thing/NOUN back/ADV#0.0#0.0
+a person turns and walks forward touches something and does it again .#a/DET person/NOUN turn/VERB and/CCONJ walk/VERB forward/ADV touch/NOUN something/PRON and/CCONJ does/AUX it/PRON again/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+person is walking in a circle moving his arms.#person/NOUN is/AUX walk/VERB in/ADP a/DET circle/NOUN move/VERB his/DET arm/NOUN#0.0#0.0
+a person walks in a spiral, counter-clockwise, and starts to sit at the center of the spiral.#a/DET person/NOUN walk/VERB in/ADP a/DET spiral/ADJ counterclockwise/NOUN and/CCONJ start/VERB to/PART sit/VERB at/ADP the/DET center/NOUN of/ADP the/DET spiral/NOUN#0.0#0.0
+taking a long circle walk and lifting up a leg#take/VERB a/DET long/ADJ circle/NOUN walk/NOUN and/CCONJ lift/VERB up/ADP a/DET leg/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person walking down a slope.#a/DET person/NOUN walk/VERB down/ADP a/DET slope/NOUN#0.0#0.0
+person is walking ahead slowly.#person/NOUN is/AUX walk/VERB ahead/ADV slowly/ADV#0.0#0.0
+a man of normal height walks forward with arms swinging at his side#a/DET man/NOUN of/ADP normal/ADJ height/NOUN walk/VERB forward/ADV with/ADP arm/NOUN swinge/VERB at/ADP his/DET side/NOUN#0.0#0.0

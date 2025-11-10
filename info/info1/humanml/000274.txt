@@ -1,0 +1,3 @@
+a man walks forward and raises both his arms and then drop his arms .#a/DET man/NOUN walk/VERB forward/ADV and/CCONJ raise/VERB both/CCONJ his/DET arm/NOUN and/CCONJ then/ADV drop/VERB his/DET arm/NOUN#0.0#0.0
+a person walks forward one foot in front of the other with both arms stretched out.#a/DET person/NOUN walk/VERB forward/ADV one/NUM foot/NOUN in/ADP front/NOUN of/ADP the/DET other/ADJ with/ADP both/DET arm/NOUN stretch/VERB out/ADP#0.0#0.0
+a person walks carefully forward over a wide beam.#a/DET person/NOUN walk/VERB carefully/ADV forward/ADV over/ADP a/DET wide/ADJ beam/NOUN#0.0#0.0

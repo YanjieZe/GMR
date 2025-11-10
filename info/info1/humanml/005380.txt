@@ -1,0 +1,3 @@
+figure appears to be picking something up#figure/NOUN appear/VERB to/PART be/AUX pick/VERB something/PRON up/ADP#0.0#0.0
+a person getting low to pick something up#a/DET person/NOUN get/VERB low/ADJ to/PART pick/VERB something/PRON up/ADP#0.0#0.0
+a person bends down and picks up something gets up and stops#a/DET person/NOUN bend/VERB down/ADP and/CCONJ pick/VERB up/ADP something/PRON get/VERB up/ADV and/CCONJ stop/NOUN#0.0#0.0

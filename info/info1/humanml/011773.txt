@@ -1,0 +1,3 @@
+the person pretends to be a t-rex#the/DET person/NOUN pretend/VERB to/PART be/AUX a/DET trex/NOUN#0.0#0.0
+walks forward with arms set in middle and then bends.#walk/VERB forward/ADV with/ADP arm/NOUN set/VERB in/ADP middle/ADJ and/CCONJ then/ADV bend/VERB#0.0#0.0
+a person picks something up with their arms close to their chest.#a/DET person/NOUN pick/VERB something/PRON up/ADP with/ADP their/DET arm/NOUN close/ADV to/ADP their/DET chest/NOUN#0.0#0.0

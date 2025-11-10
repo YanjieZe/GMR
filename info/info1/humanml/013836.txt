@@ -1,0 +1,3 @@
+person is standing up while praying#person/NOUN is/AUX stand/VERB up/ADP while/SCONJ pray/VERB#0.0#0.0
+a man stands shakily, holdings his hands in front of his chest.#a/DET man/NOUN stand/VERB shakily/ADV holding/VERB his/DET hand/NOUN in/ADP front/NOUN of/ADP his/DET chest/NOUN#0.0#0.0
+a person stands, hands clasped together, and bounces gently up and down.#a/DET person/NOUN stand/VERB hand/NOUN clasped/ADJ together/ADV and/CCONJ bounce/VERB gently/ADV up/ADP and/CCONJ down/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person raises both their hands and flexes their biceps simultaneously.#a/DET person/NOUN raise/VERB both/CCONJ their/DET hand/NOUN and/CCONJ flexes/VERB their/DET bicep/NOUN simultaneously/ADV#0.0#0.0
+a person stretches out then drops their arms.#a/DET person/NOUN stretch/VERB out/ADP then/ADV drop/VERB their/DET arm/NOUN#0.0#0.0
+a person is waving both hands at the same time.#a/DET person/NOUN is/AUX wave/VERB both/DET hand/NOUN at/ADP the/DET same/ADJ time/NOUN#0.0#0.0

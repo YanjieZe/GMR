@@ -1,0 +1,3 @@
+a person runs diagonally forward to the right then turns around to run back.#a/DET person/NOUN run/VERB diagonally/ADV forward/ADV to/ADP the/DET right/NOUN then/ADV turn/VERB around/ADP to/PART run/VERB back/ADV#0.0#0.0
+a person jogs forward, does a little dance then jogs back.#a/DET person/NOUN jog/VERB forward/ADV does/AUX a/DET little/ADJ dance/NOUN then/ADV jog/VERB back/ADV#0.0#0.0
+a person runs forward while holding their right arm steady, then they turn around and run back while holding their left arm steady.#a/DET person/NOUN run/VERB forward/ADV while/SCONJ hold/VERB their/DET right/ADJ arm/NOUN steady/ADJ then/ADV they/PRON turn/VERB around/ADP and/CCONJ run/VERB back/ADV while/SCONJ hold/VERB their/DET left/ADJ arm/NOUN steady/ADJ#0.0#0.0

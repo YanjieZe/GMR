@@ -1,0 +1,3 @@
+a person moves his hands.#a/DET person/NOUN move/VERB his/DET hand/NOUN#0.0#0.0
+a person brings two hands together with right hand coming in from upper direction and left hand coming from bottom direction, meeting in the middle.#a/DET person/NOUN bring/VERB two/NUM hand/NOUN together/ADV with/ADP right/ADJ hand/NOUN come/VERB in/ADV from/ADP upper/ADJ direction/NOUN and/CCONJ left/VERB hand/NOUN come/VERB from/ADP bottom/ADJ direction/NOUN meet/VERB in/ADP the/DET middle/NOUN#0.0#0.0
+a man lowers his arms then brings his hands together, touching finger tips twice.#a/DET man/NOUN lower/VERB his/DET arm/NOUN then/ADV bring/VERB his/DET hand/NOUN together/ADV touch/VERB finger/NOUN tip/NOUN twice/ADV#0.0#0.0

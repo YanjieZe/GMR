@@ -1,0 +1,3 @@
+a person walks straight forward#a/DET person/NOUN walk/VERB straight/ADV forward/ADV#0.0#0.0
+the man walked forward a few steps then stopped.#the/DET man/NOUN walk/VERB forward/ADV a/DET few/ADJ step/NOUN then/ADV stop/VERB#0.0#0.0
+a man walking in a straight line in the forward direction#a/DET man/NOUN walk/VERB in/ADP a/DET straight/ADJ line/NOUN in/ADP the/DET forward/ADJ direction/NOUN#0.0#0.0

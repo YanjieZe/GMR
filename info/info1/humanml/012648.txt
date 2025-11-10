@@ -1,0 +1,3 @@
+a man extends his right arm up over his head, while his left arm is bent in front of his chest.#a/DET man/NOUN extend/VERB his/DET right/ADJ arm/NOUN up/ADP over/ADP his/DET head/NOUN while/SCONJ his/DET left/ADJ arm/NOUN is/AUX bent/ADJ in/ADP front/NOUN of/ADP his/DET chest/NOUN#0.0#0.0
+a figure gestures to the sky with their outstretched right hand, perhaps dabbing?#a/DET figure/NOUN gesture/NOUN to/ADP the/DET sky/NOUN with/ADP their/DET outstretched/ADJ right/ADJ hand/NOUN perhaps/ADV dab/VERB#0.0#0.0
+person takes a step to the right while holding right arm straight out and left arm curved.#person/NOUN take/VERB a/DET step/NOUN to/ADP the/DET right/NOUN while/SCONJ hold/VERB right/ADJ arm/NOUN straight/ADV out/ADV and/CCONJ left/VERB arm/NOUN curved/ADJ#0.0#0.0

@@ -1,0 +1,3 @@
+a man steps forward rhythmically, moving his arms up and around and out as he walks around erratically in a dance.#a/DET man/NOUN step/VERB forward/ADV rhythmically/ADV move/VERB his/DET arm/NOUN up/ADV and/CCONJ around/ADV and/CCONJ out/ADV as/SCONJ he/PRON walk/VERB around/ADV erratically/ADV in/ADP a/DET dance/NOUN#0.0#0.0
+person is performing a dance#person/NOUN is/AUX perform/VERB a/DET dance/NOUN#0.0#0.0
+the person is walking around with his hands out in front offering something to people all over.#the/DET person/NOUN is/AUX walk/VERB around/ADP with/ADP his/DET hand/NOUN out/ADP in/ADP front/ADJ offer/VERB something/PRON to/ADP people/NOUN all/ADV over/ADV#0.0#0.0

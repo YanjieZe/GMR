@@ -1,0 +1,3 @@
+the person walk forward then turn around and walk the other way.#the/DET person/NOUN walk/VERB forward/ADV then/ADV turn/VERB around/ADP and/CCONJ walk/VERB the/DET other/ADJ way/NOUN#0.0#0.0
+walks a normal few steps then turns back to keep walking.#walk/VERB a/DET normal/ADJ few/ADJ step/NOUN then/ADV turn/VERB back/ADV to/PART keep/VERB walk/VERB#0.0#0.0
+a person walking forward and turning around and walking back#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ turn/VERB around/ADV and/CCONJ walk/VERB back/ADV#0.0#0.0

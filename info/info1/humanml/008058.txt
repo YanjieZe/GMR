@@ -1,0 +1,3 @@
+a person walks up to something and wipes it down.#a/DET person/NOUN walk/VERB up/ADP to/ADP something/PRON and/CCONJ wipe/VERB it/PRON down/ADP#0.0#0.0
+a man walks forward and wipes something off of a surface#a/DET man/NOUN walk/VERB forward/ADV and/CCONJ wipe/VERB something/PRON off/ADP of/ADP a/DET surface/NOUN#0.0#0.0
+a person walks forward and bends over. they start performing a scrubbing motion with their hand as if petting a dog or cleaning a surface.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ bend/VERB over/ADP they/PRON start/VERB perform/VERB a/DET scrubbing/ADJ motion/NOUN with/ADP their/DET hand/NOUN as/SCONJ if/SCONJ pet/VERB a/DET dog/NOUN or/CCONJ clean/VERB a/DET surface/NOUN#0.0#0.0

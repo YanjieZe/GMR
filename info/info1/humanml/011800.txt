@@ -1,0 +1,3 @@
+a person is moving to the left and right, trying to dodge something#a/DET person/NOUN is/AUX move/VERB to/ADP the/DET left/NOUN and/CCONJ right/INTJ try/VERB to/PART dodge/VERB something/PRON#0.0#0.0
+a person is dodging things flying at his head#a/DET person/NOUN is/AUX dodge/VERB thing/NOUN fly/VERB at/ADP his/DET head/NOUN#0.0#0.0
+walking side to side and leaning.#walk/VERB side/NOUN to/ADP side/NOUN and/CCONJ lean/VERB#0.0#0.0

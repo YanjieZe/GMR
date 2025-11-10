@@ -1,0 +1,3 @@
+a person is doing exercise small arm circles and then turns torso to look behind.#a/DET person/NOUN is/AUX do/VERB exercise/VERB small/ADJ arm/NOUN circle/NOUN and/CCONJ then/ADV turn/VERB torso/NOUN to/PART look/VERB behind/ADV#0.0#0.0
+a person stands in a t-pose, moves their hands a bit, then looks behind them to their right.#a/DET person/NOUN stand/VERB in/ADP a/DET tpose/NOUN move/VERB their/DET hand/NOUN a/DET bit/NOUN then/ADV look/VERB behind/ADP them/PRON to/ADP their/DET right/NOUN#0.0#0.0
+a person is stretching their arms and turns.#a/DET person/NOUN is/AUX stretch/VERB their/DET arm/NOUN and/CCONJ turn/NOUN#0.0#0.0

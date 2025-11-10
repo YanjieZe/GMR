@@ -1,0 +1,3 @@
+a person sits briefly and then rises again#a/DET person/NOUN sit/VERB briefly/ADV and/CCONJ then/ADV rise/VERB again/ADV#0.0#0.0
+a person is standing, then they sit down in a chair and then stand back up#a/DET person/NOUN is/AUX stand/VERB then/ADV they/PRON sit/VERB down/ADP in/ADP a/DET chair/NOUN and/CCONJ then/ADV stand/VERB back/ADP up/ADP#0.0#0.0
+a person sits down on an object, then stands back up.#a/DET person/NOUN sit/VERB down/ADP on/ADP an/DET object/NOUN then/ADV stand/VERB back/ADV up/ADV#0.0#0.0

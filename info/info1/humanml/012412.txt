@@ -1,0 +1,3 @@
+person moves forward and kicks something with right foot#person/NOUN move/VERB forward/ADV and/CCONJ kick/VERB something/PRON with/ADP right/ADJ foot/NOUN#0.0#0.0
+a man takes a few steps forward kick slightly with his right leg, then a few steps back to his starting position.#a/DET man/NOUN take/VERB a/DET few/ADJ step/NOUN forward/ADV kick/VERB slightly/ADV with/ADP his/DET right/ADJ leg/NOUN then/ADV a/DET few/ADJ step/NOUN back/ADV to/ADP his/DET starting/NOUN position/NOUN#0.0#0.0
+a person slightly kicked with right leg, and back to the place#a/DET person/NOUN slightly/ADV kick/VERB with/ADP right/ADJ leg/NOUN and/CCONJ back/ADV to/ADP the/DET place/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person slightly moved into right direction#a/DET person/NOUN slightly/ADV move/VERB into/ADP right/ADJ direction/NOUN#0.0#0.0
+the person was pushed to the left but did not fall down#the/DET person/NOUN was/AUX push/VERB to/ADP the/DET left/NOUN but/CCONJ did/AUX not/PART fall/VERB down/ADP#0.0#0.0
+a person sidesteps to his right, ending in a standing position.#a/DET person/NOUN sidestep/VERB to/ADP his/DET right/NOUN end/VERB in/ADP a/DET standing/ADJ position/NOUN#0.0#0.0

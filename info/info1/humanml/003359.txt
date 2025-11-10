@@ -1,0 +1,3 @@
+a person is pushed lightly from the right side.#a/DET person/NOUN is/AUX push/VERB lightly/ADV from/ADP the/DET right/ADJ side/NOUN#0.0#0.0
+a person sways from right to left and then stops.#a/DET person/NOUN sway/VERB from/ADP right/NOUN to/ADP left/NOUN and/CCONJ then/ADV stop/VERB#0.0#0.0
+a person is lightly pushed from left to right.#a/DET person/NOUN is/AUX lightly/ADV push/VERB from/ADP left/VERB to/ADP right/NOUN#4.0#5.0

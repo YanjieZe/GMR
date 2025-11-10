@@ -1,0 +1,3 @@
+a person walks down several steps, while using their left hand along a handrail.#a/DET person/NOUN walk/VERB down/ADP several/ADJ step/NOUN while/SCONJ use/VERB their/DET left/ADJ hand/NOUN along/ADP a/DET handrail/NOUN#0.0#0.0
+a person who is standing with his hands by his sides descends stairs while touching a hand rail with his left hand.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP his/DET hand/NOUN by/ADP his/DET side/NOUN descend/VERB stair/NOUN while/SCONJ touch/VERB a/DET hand/NOUN rail/NOUN with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0
+a person walks down stairs with their left hand on the railing.#a/DET person/NOUN walk/VERB down/ADP stair/NOUN with/ADP their/DET left/ADJ hand/NOUN on/ADP the/DET railing/NOUN#0.0#0.0

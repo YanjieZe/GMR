@@ -1,0 +1,3 @@
+a person walks forward unbalanced and almost falls over.#a/DET person/NOUN walk/VERB forward/ADV unbalanced/ADJ and/CCONJ almost/ADV fall/VERB over/ADP#0.0#0.0
+a person walks forward and then stumble to their left.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ then/ADV stumble/VERB to/ADP their/DET left/NOUN#0.0#0.0
+someone walks down a sidewalk and slips#someone/PRON walk/VERB down/ADP a/DET sidewalk/NOUN and/CCONJ slip/VERB#0.0#0.0

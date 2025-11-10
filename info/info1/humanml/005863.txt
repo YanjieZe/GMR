@@ -1,0 +1,3 @@
+the person walks forward and a little to their right.#the/DET person/NOUN walk/VERB forward/ADV and/CCONJ a/DET little/ADJ to/ADP their/DET right/NOUN#0.0#0.0
+a person walks several steps forward.#a/DET person/NOUN walk/VERB several/ADJ step/NOUN forward/ADV#0.0#0.0
+a person confidently walks forward#a/DET person/NOUN confidently/ADV walk/VERB forward/ADV#0.0#0.0

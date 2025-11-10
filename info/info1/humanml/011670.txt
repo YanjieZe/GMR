@@ -1,0 +1,3 @@
+this person with shoulders raised slowly walks from left to right.#this/DET person/NOUN with/ADP shoulder/NOUN raise/VERB slowly/ADV walk/VERB from/ADP left/NOUN to/ADP right/NOUN#0.0#0.0
+the person is walking with her head down because they are shy.#the/DET person/NOUN is/AUX walk/VERB with/ADP her/DET head/NOUN down/ADP because/SCONJ they/PRON are/AUX shy/ADJ#0.0#0.0
+a person walks very shyly.#a/DET person/NOUN walk/VERB very/ADV shyly/ADV#0.0#0.0

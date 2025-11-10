@@ -1,0 +1,3 @@
+a person tries to screw something large into place.#a/DET person/NOUN try/VERB to/PART screw/VERB something/PRON large/ADJ into/ADP place/NOUN#0.0#0.0
+a person bent over bracing object with right hand and rotating object with their left hand.#a/DET person/NOUN bent/ADJ over/ADP brace/VERB object/NOUN with/ADP right/ADJ hand/NOUN and/CCONJ rotate/VERB object/NOUN with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0
+a person bends over to loosen a bolt with a wrench#a/DET person/NOUN bend/VERB over/ADP to/PART loosen/VERB a/DET bolt/NOUN with/ADP a/DET wrench/NOUN#0.0#0.0

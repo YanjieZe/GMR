@@ -1,0 +1,3 @@
+a man moves his arms by his sides.#a/DET man/NOUN move/VERB his/DET arm/NOUN by/ADP his/DET side/NOUN#0.0#0.0
+the man moves his arms in exercising motions.#the/DET man/NOUN move/VERB his/DET arm/NOUN in/ADP exercise/VERB motion/NOUN#0.0#0.0
+a person is moving its left and right arm up and down from shoulder to side#a/DET person/NOUN is/AUX move/VERB its/DET left/ADJ and/CCONJ right/ADJ arm/NOUN up/ADV and/CCONJ down/ADP from/ADP shoulder/NOUN to/PART side/VERB#0.0#0.0

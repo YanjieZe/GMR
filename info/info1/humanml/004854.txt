@@ -1,0 +1,3 @@
+the person is walking around.#the/DET person/NOUN is/AUX walk/VERB around/ADV#0.0#0.0
+he does a punchkarate walk#he/PRON does/AUX a/DET punchkarate/NOUN walk/VERB#0.0#0.0
+a man crouches and punches the air with his left hand.#a/DET man/NOUN crouch/VERB and/CCONJ punch/VERB the/DET air/NOUN with/ADP his/DET left/ADJ hand/NOUN#0.0#2.0

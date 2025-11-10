@@ -1,0 +1,3 @@
+person is doing some kind of gesture#person/NOUN is/AUX do/VERB some/DET kind/NOUN of/ADP gesture/NOUN#0.0#0.0
+a man uses his right hand to unscrew something held in his left hand, then brings his right hand up to his mouth, moves it slightly, then repeats the process with his left hand.#a/DET man/NOUN use/VERB his/DET right/ADJ hand/NOUN to/ADP unscrew/ADJ something/PRON hold/VERB in/ADP his/DET left/ADJ hand/NOUN then/ADV bring/VERB his/DET right/ADJ hand/NOUN up/ADP to/ADP his/DET mouth/NOUN move/VERB it/PRON slightly/ADV then/ADV repeat/VERB the/DET process/NOUN with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0
+crossing arms near face.#cross/VERB arm/NOUN near/SCONJ face/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+person moves something with both hands diagnoly#person/NOUN move/VERB something/PRON with/ADP both/DET hand/NOUN diagnoly/ADJ#0.0#0.0
+figure appears to be stretching out an item#figure/NOUN appear/VERB to/PART be/AUX stretch/VERB out/ADP an/DET item/NOUN#0.0#0.0
+a man is holding his arms up at the side and lowers them to then takes his hands midlevel and act like he is pulling something apart#a/DET man/NOUN is/AUX hold/VERB his/DET arm/NOUN up/ADV at/ADP the/DET side/NOUN and/CCONJ lower/VERB them/PRON to/PART then/ADV take/VERB his/DET hand/NOUN midlevel/ADJ and/CCONJ act/VERB like/SCONJ he/PRON is/AUX pull/VERB something/PRON apart/ADV#0.0#0.0

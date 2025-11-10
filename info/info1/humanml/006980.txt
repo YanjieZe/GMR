@@ -1,0 +1,3 @@
+a person walks forward, steps over something with his right leg, and then he continues walking forward.#a/DET person/NOUN walk/VERB forward/ADV step/NOUN over/ADP something/PRON with/ADP his/DET right/ADJ leg/NOUN and/CCONJ then/ADV he/PRON continue/VERB walk/VERB forward/ADV#0.0#0.0
+a person walking straight with regular sized gamps between their feet#a/DET person/NOUN walk/VERB straight/ADV with/ADP regular/ADJ sized/ADJ gamp/NOUN between/ADP their/DET foot/NOUN#0.0#0.0
+person is walking straight ahead#person/NOUN is/AUX walk/VERB straight/ADV ahead/ADV#0.0#0.0

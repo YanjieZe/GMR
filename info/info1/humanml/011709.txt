@@ -1,0 +1,3 @@
+a person walks clockwise quickly in an oval shape until they returned to starting position.#a/DET person/NOUN walk/VERB clockwise/VERB quickly/ADV in/ADP an/DET oval/ADJ shape/NOUN until/ADP they/PRON return/VERB to/ADP start/VERB position/NOUN#0.0#0.0
+figure appears to be walking in a clockwise manner#figure/NOUN appear/VERB to/PART be/AUX walk/VERB in/ADP a/DET clockwise/NOUN manner/NOUN#0.0#0.0
+a person starts standing still and then proceeds to slowly walk in a clockwise circle until they reach their starting point#a/DET person/NOUN start/VERB stand/VERB still/ADV and/CCONJ then/ADV proceed/VERB to/PART slowly/ADV walk/VERB in/ADP a/DET clockwise/NOUN circle/NOUN until/ADP they/PRON reach/VERB their/DET starting/NOUN point/NOUN#0.0#0.0

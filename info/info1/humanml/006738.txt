@@ -1,0 +1,3 @@
+a man behaves like a chicken.#a/DET man/NOUN behave/VERB like/SCONJ a/DET chicken/NOUN#0.0#0.0
+a man bends his neck and continues to bend his back, and stays in this position with only slight movements in the neck.#a/DET man/NOUN bend/VERB his/DET neck/NOUN and/CCONJ continue/VERB to/PART bend/VERB his/DET back/NOUN and/CCONJ stay/VERB in/ADP this/DET position/NOUN with/ADP only/ADJ slight/ADJ movement/NOUN in/ADP the/DET neck/NOUN#0.0#0.0
+a person bows very slightly.#a/DET person/NOUN bow/VERB very/ADV slightly/ADV#0.0#0.0

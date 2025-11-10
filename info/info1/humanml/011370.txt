@@ -1,0 +1,2 @@
+a person walks two steps straight forward and then walks in a slight curve to their right.#a/DET person/NOUN walk/VERB two/NUM step/NOUN straight/ADV forward/ADV and/CCONJ then/ADV walk/VERB in/ADP a/DET slight/ADJ curve/NOUN to/ADP their/DET right/NOUN#0.0#0.0
+the person is walking forward slowly.#the/DET person/NOUN is/AUX walk/VERB forward/ADV slowly/ADV#0.0#0.0

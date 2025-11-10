@@ -1,0 +1,3 @@
+a man stands on the ground,puts his hands together and starts clapping.#a/DET man/NOUN stand/VERB on/ADP the/DET ground/NOUN put/VERB his/DET hand/NOUN together/ADV and/CCONJ start/VERB clap/VERB#0.0#0.0
+simple clappes both the hands.#simple/ADJ clappe/NOUN both/CCONJ the/DET hand/NOUN#0.0#0.0
+the man is moving happily#the/DET man/NOUN is/AUX move/VERB happily/ADV#0.0#0.0

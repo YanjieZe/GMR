@@ -1,0 +1,3 @@
+a person is dancing with a partner with their left arm extended.#a/DET person/NOUN is/AUX dance/VERB with/ADP a/DET partner/NOUN with/ADP their/DET left/ADJ arm/NOUN extended/ADJ#0.0#0.0
+a person holds their arms out and makes steps as if dancing.#a/DET person/NOUN hold/VERB their/DET arm/NOUN out/ADP and/CCONJ make/VERB step/NOUN as/SCONJ if/SCONJ dancing/NOUN#0.0#0.0
+someone holds their hands up in a partners' dance, then waltzes back and forth.#someone/PRON hold/VERB their/DET hand/NOUN up/ADP in/ADP a/DET partner/NOUN dance/NOUN then/ADV waltz/VERB back/ADV and/CCONJ forth/ADV#0.0#0.0

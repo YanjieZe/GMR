@@ -1,0 +1,3 @@
+a person jumped and spun at the same time in the air.#a/DET person/NOUN jump/VERB and/CCONJ spin/VERB at/ADP the/DET same/ADJ time/NOUN in/ADP the/DET air/NOUN#0.0#0.0
+spinning in a circle fast.#spin/VERB in/ADP a/DET circle/NOUN fast/NOUN#0.0#0.0
+a person that does a jump and spin in one spot#a/DET person/NOUN that/DET does/AUX a/DET jump/NOUN and/CCONJ spin/VERB in/ADP one/NUM spot/NOUN#0.0#0.0

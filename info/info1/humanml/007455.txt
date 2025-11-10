@@ -1,0 +1,3 @@
+circular movement of hips#circular/ADJ movement/NOUN of/ADP hips/PROPN#0.0#6.0
+person moving torso like they are using a hoolahoop#person/NOUN move/VERB torso/NOUN like/SCONJ they/PRON are/AUX use/VERB a/DET hoolahoop/NOUN#0.0#0.0
+the man is stretching his hips#the/DET man/NOUN is/AUX stretch/VERB his/DET hip/NOUN#0.0#0.0

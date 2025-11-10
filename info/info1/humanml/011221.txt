@@ -1,0 +1,3 @@
+a person walks forward slowly.#a/DET person/NOUN walk/VERB forward/ADV slowly/ADV#0.0#0.0
+a person casually walks a few steps forward.#a/DET person/NOUN casually/ADV walk/VERB a/DET few/ADJ step/NOUN forward/ADV#0.0#0.0
+a person stands straight with their arms at their sides moving forward at a reasonable pace.#a/DET person/NOUN stand/VERB straight/ADV with/ADP their/DET arm/NOUN at/ADP their/DET side/NOUN move/VERB forward/ADV at/ADP a/DET reasonable/ADJ pace/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person raises their hands toward their body repeatedly.#a/DET person/NOUN raise/VERB their/DET hand/NOUN toward/ADP their/DET body/NOUN repeatedly/ADV#0.0#0.0
+a person that lifts both of their hands up twice#a/DET person/NOUN that/DET lift/VERB both/DET of/ADP their/DET hand/NOUN up/ADV twice/ADV#0.0#0.0
+someone is lifting weights with both hands their arms are in front of them and it is bending at the elbow in a curling motion.#someone/PRON is/AUX lift/VERB weight/NOUN with/ADP both/DET hand/NOUN their/DET arm/NOUN are/AUX in/ADP front/NOUN of/ADP them/PRON and/CCONJ it/PRON is/AUX bend/VERB at/ADP the/DET elbow/NOUN in/ADP a/DET curling/ADJ motion/NOUN#0.0#0.0

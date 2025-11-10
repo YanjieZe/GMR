@@ -1,0 +1,3 @@
+a man swings his arms to pick up a bucket and pour it out.#a/DET man/NOUN swing/VERB his/DET arm/NOUN to/PART pick/VERB up/ADP a/DET bucket/NOUN and/CCONJ pour/VERB it/PRON out/ADP#0.0#0.0
+a person is removing an object from a wheel and then steering a large boat wheel.#a/DET person/NOUN is/AUX remove/VERB an/DET object/NOUN from/ADP a/DET wheel/NOUN and/CCONJ then/ADV steer/VERB a/DET large/ADJ boat/NOUN wheel/NOUN#0.0#0.0
+person looks like he’s putting something on the wall.#person/NOUN look/VERB like/SCONJ he/PRON put/VERB something/PRON on/ADP the/DET wall/NOUN#0.0#0.0

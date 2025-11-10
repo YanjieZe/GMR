@@ -1,0 +1,3 @@
+a person is stretching their left leg.#a/DET person/NOUN is/AUX stretch/VERB their/DET left/ADJ leg/NOUN#0.0#0.0
+a person stretches their left leg by pulling the foot to the hip. they then rotate to the left#a/DET person/NOUN stretch/VERB their/DET left/ADJ leg/NOUN by/ADP pull/VERB the/DET foot/NOUN to/ADP the/DET hip/NOUN they/PRON then/ADV rotate/VERB to/ADP the/DET left/NOUN#0.0#0.0
+a person grabbed the left leg with the left hand, and start stretching#a/DET person/NOUN grab/VERB the/DET left/ADJ leg/NOUN with/ADP the/DET left/ADJ hand/NOUN and/CCONJ start/VERB stretch/VERB#0.0#0.0

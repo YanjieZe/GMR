@@ -1,0 +1,3 @@
+a person runs forward, jumps and lands, and then turns to the side.#a/DET person/NOUN run/VERB forward/ADV jumps/PROPN and/CCONJ land/NOUN and/CCONJ then/ADV turn/VERB to/ADP the/DET side/NOUN#0.0#0.0
+a person runs forward and then jumps landing on both feet and then preparing to turn around.#a/DET person/NOUN run/VERB forward/ADV and/CCONJ then/ADV jump/VERB land/VERB on/ADP both/DET foot/NOUN and/CCONJ then/ADV prepare/VERB to/PART turn/VERB around/ADP#0.0#0.0
+the man runs then jumps#the/DET man/NOUN run/VERB then/ADV jump/VERB#0.0#0.0

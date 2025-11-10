@@ -1,0 +1,3 @@
+a person who picks up something and puts it down to the left#a/DET person/NOUN who/PRON pick/VERB up/ADP something/PRON and/CCONJ put/VERB it/PRON down/ADP to/ADP the/DET left/NOUN#0.0#0.0
+a person picks something up from their left, and places it to their right.#a/DET person/NOUN pick/VERB something/PRON up/ADP from/ADP their/DET left/NOUN and/CCONJ place/VERB it/PRON to/ADP their/DET right/NOUN#0.0#0.0
+a person lifts an object and moves it from left to right and set it back down#a/DET person/NOUN lift/VERB an/DET object/NOUN and/CCONJ move/VERB it/PRON from/ADP left/VERB to/ADP right/NOUN and/CCONJ set/VERB it/PRON back/ADV down/ADP#0.0#0.0

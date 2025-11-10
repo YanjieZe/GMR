@@ -1,0 +1,3 @@
+a person moving his hand around in small circles.#a/DET person/NOUN move/VERB his/DET hand/NOUN around/ADV in/ADP small/ADJ circle/NOUN#0.0#0.0
+a person is lifting his left forearm and rotating it toward him as if he is pouring something, and then puts his hand back down as if to set down an object. see from: to: above.#a/DET person/NOUN is/AUX lift/VERB his/DET left/ADJ forearm/NOUN and/CCONJ rotate/VERB it/PRON toward/ADP him/PRON as/SCONJ if/SCONJ he/PRON is/AUX pour/VERB something/PRON and/CCONJ then/ADV put/VERB his/DET hand/NOUN back/ADV down/ADV as/SCONJ if/SCONJ to/PART set/VERB down/ADP an/DET object/NOUN see/VERB from/ADP to/PART above/ADV#0.0#4.0
+he starts preparing the dough#he/PRON start/VERB prepare/VERB the/DET dough/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+person walks forward in slow manner#person/NOUN walk/VERB forward/ADV in/ADP slow/ADJ manner/NOUN#0.0#0.0
+a person walks straight forward#a/DET person/NOUN walk/VERB straight/ADV forward/ADV#0.0#0.0
+a man slowing walking forward#a/DET man/NOUN slow/VERB walk/VERB forward/ADV#0.0#0.0

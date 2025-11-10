@@ -1,0 +1,3 @@
+a person raises their hands above their heads, rotates their torso side to side, stretches side to side, and then stretches back and forth.#a/DET person/NOUN raise/VERB their/DET hand/NOUN above/ADP their/DET head/NOUN rotate/VERB their/DET torso/NOUN side/NOUN to/PART side/VERB stretch/VERB side/NOUN to/PART side/VERB and/CCONJ then/ADV stretch/VERB back/ADV and/CCONJ forth/ADV#0.0#0.0
+someone is stretching out their core#someone/PRON is/AUX stretch/VERB out/ADP their/DET core/NOUN#0.0#0.0
+a person twists from side to side, then left to right, then touches their toes.#a/DET person/NOUN twist/VERB from/ADP side/NOUN to/ADP side/NOUN then/ADV left/VERB to/ADP right/NOUN then/ADV touch/VERB their/DET toe/NOUN#0.0#0.0

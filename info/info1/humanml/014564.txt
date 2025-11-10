@@ -1,0 +1,3 @@
+person jumps and spins in the air 360 degrees clockwise#person/NOUN jump/VERB and/CCONJ spin/VERB in/ADP the/DET air/NOUN degree/NOUN clockwise/ADV#0.0#0.0
+a man bends slightly, then jumps and spins in a circle, ending in a standing position.#a/DET man/NOUN bend/VERB slightly/ADV then/ADV jump/VERB and/CCONJ spin/VERB in/ADP a/DET circle/NOUN end/VERB in/ADP a/DET standing/ADJ position/NOUN#0.0#0.0
+the person jumps up in the air with both legs#the/DET person/NOUN jump/VERB up/ADP in/ADP the/DET air/NOUN with/ADP both/DET leg/NOUN#0.0#0.0

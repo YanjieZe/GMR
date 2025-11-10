@@ -1,0 +1,3 @@
+a man steps backwards then lifts his right hand out by his side.#a/DET man/NOUN step/VERB backwards/ADV then/ADV lift/VERB his/DET right/ADJ hand/NOUN out/ADP by/ADP his/DET side/NOUN#0.0#0.0
+a person idles, occasionally shaking circulation back into their arms.#a/DET person/NOUN idle/NOUN occasionally/ADV shake/VERB circulation/NOUN back/ADV into/ADP their/DET arm/NOUN#0.0#0.0
+person is stepping side to side so they can loosen up .#person/NOUN is/AUX step/VERB side/NOUN to/PART side/VERB so/SCONJ they/PRON can/VERB loosen/VERB up/ADP#0.0#0.0

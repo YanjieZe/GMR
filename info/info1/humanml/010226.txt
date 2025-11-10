@@ -1,0 +1,3 @@
+a man stretches arms raised side to side and bends forward.#a/DET man/NOUN stretch/VERB arm/NOUN raise/VERB side/NOUN to/PART side/NOUN and/CCONJ bend/VERB forward/ADV#0.0#0.0
+a person streaches back and forth with hands raised then touches their toes#a/DET person/NOUN streache/VERB back/ADV and/CCONJ forth/ADV with/ADP hand/NOUN raise/VERB then/ADV touch/VERB their/DET toe/NOUN#0.0#0.0
+the man stretches bend then stretches more side to side with his arms in the air.#the/DET man/NOUN stretch/VERB bend/VERB then/ADV stretch/VERB more/ADJ side/NOUN to/PART side/VERB with/ADP his/DET arm/NOUN in/ADP the/DET air/NOUN#0.0#0.0

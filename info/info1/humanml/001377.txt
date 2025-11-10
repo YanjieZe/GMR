@@ -1,0 +1,3 @@
+a man is running in place before moving the left.#a/DET man/NOUN is/AUX run/VERB in/ADP place/NOUN before/ADP move/VERB the/DET left/NOUN#0.0#0.0
+the person is running in place.#the/DET person/NOUN is/AUX run/VERB in/ADP place/NOUN#0.0#0.0
+someone who is doing zumba#someone/PRON who/PRON is/AUX do/VERB zumba/PROPN#0.0#0.0

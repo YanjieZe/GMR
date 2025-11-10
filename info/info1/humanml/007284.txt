@@ -1,0 +1,3 @@
+a person hops around while swatting at something with both hands.#a/DET person/NOUN hop/VERB around/ADV while/SCONJ swat/VERB at/ADP something/PRON with/ADP both/DET hand/NOUN#0.0#0.0
+jump boxer step kanno lol#jump/PROPN boxer/PROPN step/PROPN kanno/PROPN lol/PROPN#0.0#0.0
+a boxer moves around in a sparring match#a/DET boxer/PROPN move/VERB around/ADP in/ADP a/DET sparring/NOUN match/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person walking slowly with his feet apart .#a/DET person/NOUN walk/VERB slowly/ADV with/ADP his/DET foot/NOUN apart/ADV#0.0#0.0
+a person walks in a broken line as if drunk.#a/DET person/NOUN walk/VERB in/ADP a/DET broken/ADJ line/NOUN as/SCONJ if/SCONJ drunk/ADJ#0.0#0.0
+person walks from back to front side steping#person/NOUN walk/VERB from/ADP back/ADV to/ADP front/ADJ side/NOUN step/VERB#0.0#0.0

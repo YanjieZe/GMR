@@ -1,0 +1,3 @@
+sits down than brushes off knees#sit/VERB down/ADP than/SCONJ brush/NOUN off/ADP knee/NOUN#0.0#0.0
+a man sits down before rubbing his legs.#a/DET man/NOUN sit/VERB down/ADP before/ADP rub/VERB his/DET leg/NOUN#0.0#0.0
+a person steps into a puddle or container of sorts, dips their feet in, and then raises their needs to start rubbing on it#a/DET person/NOUN step/VERB into/ADP a/DET puddle/NOUN or/CCONJ container/NOUN of/ADP sort/NOUN dip/VERB their/DET foot/NOUN in/ADV and/CCONJ then/ADV raise/VERB their/DET need/NOUN to/PART start/VERB rub/VERB on/ADP it/PRON#0.0#0.0

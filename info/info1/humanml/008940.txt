@@ -1,0 +1,3 @@
+a person is hunched over with their hands on their knees, and lifts both their arms out to their sides before places them back down again.#a/DET person/NOUN is/AUX hunch/VERB over/ADP with/ADP their/DET hand/NOUN on/ADP their/DET knee/NOUN and/CCONJ lift/VERB both/CCONJ their/DET arm/NOUN out/ADP to/ADP their/DET side/NOUN before/ADP place/VERB them/PRON back/ADV down/ADP again/ADV#0.0#0.0
+the person is doing bent knee  arm lifts.#the/DET person/NOUN is/AUX do/VERB bent/ADJ knee/PROPN arm/NOUN lift/NOUN#0.0#0.0
+a man stands with his hands on his knees, then raises his hands above his head.#a/DET man/NOUN stand/VERB with/ADP his/DET hand/NOUN on/ADP his/DET knee/NOUN then/ADV raise/VERB his/DET hand/NOUN above/ADP his/DET head/NOUN#0.0#0.0

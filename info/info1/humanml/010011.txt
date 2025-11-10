@@ -1,0 +1,3 @@
+a person puts things together and begins to stir them with their right hand.#a/DET person/NOUN put/VERB thing/NOUN together/ADV and/CCONJ begin/VERB to/PART stir/VERB them/PRON with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+a man pours something and then mixes it.#a/DET man/NOUN pour/VERB something/PRON and/CCONJ then/ADV mix/VERB it/PRON#0.0#0.0
+a person walks forward and pours something from their right hand into their left hand.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ pour/VERB something/PRON from/ADP their/DET right/ADJ hand/NOUN into/ADP their/DET left/ADJ hand/NOUN#0.0#0.0

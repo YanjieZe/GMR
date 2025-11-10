@@ -1,0 +1,3 @@
+raise both hands sideways, put them down, leaning towards left a bit and then raising both hands sideways again.#raise/VERB both/DET hand/NOUN sideways/ADV put/VERB them/PRON down/ADP lean/VERB towards/ADP left/VERB a/DET bit/NOUN and/CCONJ then/ADV raise/VERB both/DET hand/NOUN sideways/ADV again/ADV#0.0#0.0
+a person with legs bent puts arms up.#a/DET person/NOUN with/ADP leg/NOUN bent/ADJ put/VERB arm/NOUN up/ADP#0.0#0.0
+the woman skips happily backwards towards her friend.#the/DET woman/NOUN skip/VERB happily/ADV backwards/ADV towards/ADP her/DET friend/NOUN#0.0#0.0

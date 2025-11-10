@@ -1,0 +1,3 @@
+a person performs a salsa dance.#a/DET person/NOUN perform/VERB a/DET salsa/NOUN dance/NOUN#0.0#0.0
+a person is dancing part of a partner dance.#a/DET person/NOUN is/AUX dance/VERB part/NOUN of/ADP a/DET partner/NOUN dance/NOUN#0.0#0.0
+a person moves in rythym to the musical beat moving his arms. at the same time the person moves his feet back and forth in a#a/DET person/NOUN move/VERB in/ADP rythym/NOUN to/ADP the/DET musical/ADJ beat/NOUN move/VERB his/DET arm/NOUN at/ADP the/DET same/ADJ time/NOUN the/DET person/NOUN move/VERB his/DET foot/NOUN back/ADV and/CCONJ forth/ADV in/ADP a/DET#0.0#0.0

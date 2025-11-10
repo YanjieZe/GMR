@@ -1,0 +1,3 @@
+a person walks forward with shoulders held high.#a/DET person/NOUN walk/VERB forward/ADV with/ADP shoulder/NOUN hold/VERB high/ADV#0.0#0.0
+the body slowly paces forward.#the/DET body/NOUN slowly/ADV pace/VERB forward/ADV#0.0#0.0
+a man walks forward slowly leading with his right foot.#a/DET man/NOUN walk/VERB forward/ADV slowly/ADV lead/VERB with/ADP his/DET right/ADJ foot/NOUN#0.0#0.0

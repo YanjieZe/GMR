@@ -1,0 +1,3 @@
+the person is doing upper body stretches.#the/DET person/NOUN is/AUX do/VERB upper/ADJ body/NOUN stretch/NOUN#0.0#0.0
+a person stretches their left arm up and to the left.#a/DET person/NOUN stretch/VERB their/DET left/ADJ arm/NOUN up/ADP and/CCONJ to/ADP the/DET left/NOUN#0.0#0.0
+person is warming up left arm#person/NOUN is/AUX warm/VERB up/ADP left/ADJ arm/NOUN#0.0#0.0

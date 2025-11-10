@@ -1,0 +1,3 @@
+the person is getting ready to serve a tennis ball.#the/DET person/NOUN is/AUX get/VERB ready/ADJ to/PART serve/VERB a/DET tennis/NOUN ball/NOUN#0.0#0.0
+a person grabbed something and thriw it away with right hand#a/DET person/NOUN grab/VERB something/PRON and/CCONJ thriw/VERB it/PRON away/ADV with/ADP right/ADJ hand/NOUN#0.0#0.0
+a person serves a tennis ball left handed.#a/DET person/NOUN serve/VERB a/DET tennis/NOUN ball/NOUN left/VERB hand/VERB#0.0#0.0

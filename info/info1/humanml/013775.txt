@@ -1,0 +1,3 @@
+a man walks forward, then stops.#a/DET man/NOUN walk/VERB forward/ADV then/ADV stop/VERB#0.0#0.0
+the figure walks toward the viewer and stops.#the/DET figure/NOUN walk/VERB toward/ADP the/DET viewer/NOUN and/CCONJ stop/NOUN#0.0#0.0
+a person takes four steps forward.#a/DET person/NOUN take/VERB four/NUM step/NOUN forward/ADV#0.0#0.0

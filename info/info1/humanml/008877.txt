@@ -1,0 +1,3 @@
+perso is keeping water out of their face while swimming .#perso/PROPN is/AUX keep/VERB water/NOUN out/SCONJ of/ADP their/DET face/NOUN while/SCONJ swim/VERB#0.0#0.0
+a person raised the hands and start to make wave#a/DET person/NOUN raise/VERB the/DET hand/NOUN and/CCONJ start/VERB to/PART make/VERB wave/NOUN#0.0#0.0
+the person uses their arms to sort through the pile of clothes#the/DET person/NOUN use/VERB their/DET arm/NOUN to/PART sort/VERB through/ADP the/DET pile/NOUN of/ADP clothe/NOUN#0.0#0.0

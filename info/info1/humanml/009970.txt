@@ -1,0 +1,3 @@
+a person reaches forward with his hand, then moves it out to the side and back to the middle again several times.#a/DET person/NOUN reach/VERB forward/ADV with/ADP his/DET hand/NOUN then/ADV move/VERB it/PRON out/ADP to/ADP the/DET side/NOUN and/CCONJ back/ADV to/ADP the/DET middle/NOUN again/ADV several/ADJ time/NOUN#0.0#0.0
+a person repeatedly reaches for an object and appears to put it back with their right hand.#a/DET person/NOUN repeatedly/ADV reach/VERB for/ADP an/DET object/NOUN and/CCONJ appear/VERB to/PART put/VERB it/PRON back/ADV with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+moving hand side to side.#move/VERB hand/NOUN side/NOUN to/PART side/VERB#0.0#0.0

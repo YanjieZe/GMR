@@ -1,0 +1,3 @@
+walks normally in a straight direction, turns around then walks straight back#walk/VERB normally/ADV in/ADP a/DET straight/ADJ direction/NOUN turn/VERB around/ADV then/ADV walk/VERB straight/ADV back/ADV#0.0#0.0
+the person walked forward then turned around and walked back again.#the/DET person/NOUN walk/VERB forward/ADV then/ADV turn/VERB around/ADP and/CCONJ walk/VERB back/ADV again/ADV#0.0#0.0
+a man walks across an object then turns around and walks back.#a/DET man/NOUN walk/VERB across/ADP an/DET object/NOUN then/ADV turn/VERB around/ADV and/CCONJ walk/VERB back/ADV#0.0#0.0

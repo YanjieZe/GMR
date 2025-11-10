@@ -1,0 +1,3 @@
+a man stands still and then takes a step forward.#a/DET man/NOUN stand/VERB still/ADV and/CCONJ then/ADV take/VERB a/DET step/NOUN forward/ADV#0.0#0.0
+the man pauses then stumbles forward 2 steps.#the/DET man/NOUN pause/VERB then/ADV stumble/VERB forward/ADV step/NOUN#0.0#0.0
+he takes two awkward steps forward.#he/PRON take/VERB two/NUM awkward/ADJ step/NOUN forward/ADV#0.0#0.0

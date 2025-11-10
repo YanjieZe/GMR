@@ -1,0 +1,3 @@
+this person is standing in place while organizing items.#this/DET person/NOUN is/AUX stand/VERB in/ADP place/NOUN while/SCONJ organize/VERB item/NOUN#0.0#0.0
+a person grabbed both hands and made some jesture#a/DET person/NOUN grab/VERB both/DET hand/NOUN and/CCONJ make/VERB some/DET jesture/NOUN#0.0#0.0
+moving hands near chest then to face.#move/VERB hand/NOUN near/SCONJ chest/NOUN then/ADV to/PART face/VERB#0.0#0.0

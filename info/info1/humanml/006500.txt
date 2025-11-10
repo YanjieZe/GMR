@@ -1,0 +1,3 @@
+the person is jogging fast in place.#the/DET person/NOUN is/AUX jog/VERB fast/ADV in/ADP place/NOUN#0.0#0.0
+jogs in place, walks backwards, and walks forward on the knees.#jog/VERB in/ADP place/NOUN walk/VERB backwards/ADV and/CCONJ walk/VERB forward/ADV on/ADP the/DET knee/NOUN#0.0#0.0
+a person is running in place then walks backwards.#a/DET person/NOUN is/AUX run/VERB in/ADP place/NOUN then/ADV walk/VERB backwards/ADV#0.0#0.0

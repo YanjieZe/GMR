@@ -1,0 +1,3 @@
+a person with knees bent, curls up by hunching over, and then stands straight up.#a/DET person/NOUN with/ADP knee/NOUN bent/ADJ curl/VERB up/ADP by/ADP hunch/VERB over/ADV and/CCONJ then/ADV stand/VERB straight/ADV up/ADV#0.0#0.0
+a person is sitting on something and then stands up.#a/DET person/NOUN is/AUX sit/VERB on/ADP something/PRON and/CCONJ then/ADV stand/VERB up/ADP#0.0#0.0
+a person standing still then bends at the knees.#a/DET person/NOUN stand/VERB still/ADV then/ADV bend/VERB at/ADP the/DET knee/NOUN#0.0#0.0

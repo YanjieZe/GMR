@@ -1,0 +1,3 @@
+a person turns around and pulls something.#a/DET person/NOUN turn/VERB around/ADP and/CCONJ pull/VERB something/PRON#0.0#0.0
+person starts with both arms held out then moves clockwise with arms in a clench position pulling backwards#person/NOUN start/VERB with/ADP both/DET arm/NOUN hold/VERB out/ADP then/ADV move/VERB clockwise/NOUN with/ADP arm/NOUN in/ADP a/DET clench/NOUN position/NOUN pull/VERB backwards/ADV#0.0#0.0
+a person standing in a t pose and then playing tug of war by what it seems like.#a/DET person/NOUN stand/VERB in/ADP a/DET t/NOUN pose/NOUN and/CCONJ then/ADV play/VERB tug/NOUN of/ADP war/NOUN by/ADP what/PRON it/PRON seem/VERB like/SCONJ#0.0#0.0

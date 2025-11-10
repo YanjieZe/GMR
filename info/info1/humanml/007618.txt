@@ -1,0 +1,3 @@
+a figure runs in place#a/DET figure/NOUN run/VERB in/ADP place/NOUN#0.0#0.0
+a person jogs in place.#a/DET person/NOUN jog/VERB in/ADP place/NOUN#0.0#0.0
+a person is jogging on the spot.#a/DET person/NOUN is/AUX jog/VERB on/ADP the/DET spot/NOUN#0.0#0.0

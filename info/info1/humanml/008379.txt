@@ -1,0 +1,3 @@
+a figure walks forward in a womanly way#a/DET figure/NOUN walk/VERB forward/ADV in/ADP a/DET womanly/ADJ way/NOUN#0.0#0.0
+person is walking straight ahead#person/NOUN is/AUX walk/VERB straight/ADV ahead/ADV#0.0#0.0
+lerson appears to step over something and contiues to walk forward.#lerson/PROPN appear/VERB to/PART step/VERB over/ADP something/PRON and/CCONJ contiue/NOUN to/PART walk/VERB forward/ADV#0.0#0.0

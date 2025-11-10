@@ -1,0 +1,3 @@
+the person is stepping over a gap.#the/DET person/NOUN is/AUX step/VERB over/ADP a/DET gap/NOUN#0.0#0.0
+the man is doing step over gapa#the/DET man/NOUN is/AUX do/VERB step/NOUN over/ADP gapa/NOUN#0.0#0.0
+a person walks forward on a slight leftward angle.#a/DET person/NOUN walk/VERB forward/ADV on/ADP a/DET slight/ADJ leftward/NOUN angle/NOUN#0.0#0.0

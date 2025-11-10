@@ -1,0 +1,3 @@
+a person squats and gets up. then repeats it.#a/DET person/NOUN squat/VERB and/CCONJ get/VERB up/ADP then/ADV repeat/VERB it/PRON#0.0#0.0
+a standing person crouches down with hands up and out to the side, stands back up, couches down again, then stands again.#a/DET stand/VERB person/NOUN crouch/VERB down/ADP with/ADP hand/NOUN up/ADV and/CCONJ out/ADV to/ADP the/DET side/NOUN stand/VERB back/ADV up/ADV couch/VERB down/ADV again/ADV then/ADV stand/VERB again/ADV#0.0#0.0
+a person performs bodyweight squats.#a/DET person/NOUN perform/VERB bodyweight/NOUN squat/NOUN#0.0#0.0

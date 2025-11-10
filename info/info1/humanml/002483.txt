@@ -1,0 +1,3 @@
+person walks slowly on the spot#person/NOUN walk/VERB slowly/ADV on/ADP the/DET spot/NOUN#0.0#0.0
+a person walks in a straight line, almost as if they are walking on a treadmill.#a/DET person/NOUN walk/VERB in/ADP a/DET straight/ADJ line/NOUN almost/ADV as/SCONJ if/SCONJ they/PRON are/AUX walk/VERB on/ADP a/DET treadmill/NOUN#0.0#0.0
+a person is walking slowly in place.#a/DET person/NOUN is/AUX walk/VERB slowly/ADV in/ADP place/NOUN#0.0#0.0

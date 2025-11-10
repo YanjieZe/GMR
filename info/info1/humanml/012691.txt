@@ -1,0 +1,3 @@
+the person took a large side step to the right.#the/DET person/NOUN take/VERB a/DET large/ADJ side/NOUN step/NOUN to/ADP the/DET right/NOUN#0.0#0.0
+person makes one large step to the right#person/NOUN make/VERB one/NUM large/ADJ step/NOUN to/ADP the/DET right/NOUN#0.0#0.0
+a person standing with his hands by his sides takes a huge side step forward.#a/DET person/NOUN stand/VERB with/ADP his/DET hand/NOUN by/ADP his/DET side/NOUN take/VERB a/DET huge/ADJ side/NOUN step/NOUN forward/ADV#0.0#0.0

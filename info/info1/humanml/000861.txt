@@ -1,0 +1,3 @@
+the person is  walking down.#the/DET person/NOUN is/AUX walk/VERB down/ADP#0.0#0.0
+a person walks forward quickly and aggresively.#a/DET person/NOUN walk/VERB forward/ADV quickly/ADV and/CCONJ aggresively/ADV#0.0#0.0
+a person walks forward while swinging their arms.#a/DET person/NOUN walk/VERB forward/ADV while/SCONJ swinge/VERB their/DET arm/NOUN#0.0#0.0

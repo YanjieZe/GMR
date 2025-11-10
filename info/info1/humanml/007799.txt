@@ -1,0 +1,3 @@
+a person shakes with his left arm up, then puts it down and shakes with his right arm up#a/DET person/NOUN shake/VERB with/ADP his/DET left/ADJ arm/NOUN up/ADP then/ADV put/VERB it/PRON down/ADP and/CCONJ shake/VERB with/ADP his/DET right/ADJ arm/NOUN up/ADP#0.0#0.0
+person is standing still and bending arms up and down alternating#person/NOUN is/AUX stand/VERB still/ADV and/CCONJ bend/VERB arm/NOUN up/ADV and/CCONJ down/ADV alternate/VERB#0.0#0.0
+a person shaking both right and left hands in the air.#a/DET person/NOUN shake/VERB both/CCONJ right/ADJ and/CCONJ left/VERB hand/NOUN in/ADP the/DET air/NOUN#0.0#0.0

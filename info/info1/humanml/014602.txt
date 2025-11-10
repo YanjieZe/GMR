@@ -1,0 +1,3 @@
+rubbing belly while standing in place.#rub/VERB belly/NOUN while/SCONJ stand/VERB in/ADP place/NOUN#0.0#0.0
+a person rubs their abdomen then takes a drink of something with the other hand.#a/DET person/NOUN rub/VERB their/DET abdoman/NOUN then/ADV take/VERB a/DET drink/NOUN of/ADP something/PRON with/ADP the/DET other/ADJ hand/NOUN#0.0#0.0
+a person slowly stumbles forward while holding his stomach#a/DET person/NOUN slowly/ADV stumble/VERB forward/ADV while/SCONJ hold/VERB his/DET stomach/NOUN#0.0#0.0

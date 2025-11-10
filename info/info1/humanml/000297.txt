@@ -1,0 +1,3 @@
+two arms are brought down to their hips and played around with he right hand#two/NUM arm/NOUN are/AUX bring/VERB down/ADP to/ADP their/DET hip/NOUN and/CCONJ play/VERB around/ADV with/ADP he/PRON right/ADJ hand/NOUN#0.0#0.0
+a person puts their left arm out in front of them and moves it as if arraigning things on shelves.#a/DET person/NOUN put/VERB their/DET left/ADJ arm/NOUN out/ADP in/ADP front/NOUN of/ADP them/PRON and/CCONJ move/VERB it/PRON as/SCONJ if/SCONJ arraign/VERB thing/NOUN on/ADP shelf/NOUN#0.0#0.0
+person is pressing some buttons in an order like a passcode#person/NOUN is/AUX press/VERB some/DET button/NOUN in/ADP an/DET order/NOUN like/SCONJ a/DET passcode/NOUN#0.0#0.0

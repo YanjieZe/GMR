@@ -1,0 +1,3 @@
+robot touched his face with right hand.#robot/PROPN touch/VERB his/DET face/NOUN with/ADP right/ADJ hand/NOUN#0.0#0.0
+a person touches their head using their left hand#a/DET person/NOUN touch/VERB their/DET head/NOUN use/VERB their/DET left/ADJ hand/NOUN#0.0#0.0
+a person lifting their hand close to face, in a frustrated or upset manner.#a/DET person/NOUN lift/VERB their/DET hand/NOUN close/ADV to/ADP face/NOUN in/ADP a/DET frustrated/ADJ or/CCONJ upset/ADJ manner/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person grabs something off the floor, before using that object to wipe something down.#a/DET person/NOUN grab/VERB something/PRON off/ADP the/DET floor/NOUN before/ADP use/VERB that/DET object/NOUN to/PART wipe/VERB something/PRON down/ADP#0.0#0.0
+the man turns a vacuum clean on reverse then walks over to let the air blow dry his dog.#the/DET man/NOUN turn/VERB a/DET vacuum/NOUN clean/ADJ on/ADP reverse/PROPN then/ADV walk/VERB over/ADP to/PART let/VERB the/DET air/NOUN blow/NOUN dry/VERB his/DET dog/NOUN#0.0#0.0
+kneeling down and then shaking hand.#kneel/VERB down/ADP and/CCONJ then/ADV shake/VERB hand/NOUN#0.0#0.0

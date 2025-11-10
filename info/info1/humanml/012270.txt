@@ -1,0 +1,3 @@
+raising hands in the air.#raise/VERB hand/NOUN in/ADP the/DET air/NOUN#0.0#0.0
+a person raises their arms.#a/DET person/NOUN raise/VERB their/DET arm/NOUN#0.0#0.0
+a person is lifting something.#a/DET person/NOUN is/AUX lift/VERB something/PRON#0.0#0.0

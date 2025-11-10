@@ -1,0 +1,3 @@
+a person stumbles to their left.#a/DET person/NOUN stumble/VERB to/ADP their/DET left/NOUN#0.0#0.0
+a man steps widely to the side on the right.#a/DET man/NOUN step/VERB widely/ADV to/ADP the/DET side/NOUN on/ADP the/DET right/NOUN#0.0#0.0
+a person stumbles to his left.#a/DET person/NOUN stumble/VERB to/ADP his/DET left/NOUN#0.0#0.0

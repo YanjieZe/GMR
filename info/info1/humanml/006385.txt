@@ -1,0 +1,3 @@
+a person standing still shuffles to the left.#a/DET person/NOUN stand/VERB still/ADV shuffle/VERB to/ADP the/DET left/NOUN#0.0#0.0
+this person stands and suddenly steps to the right.#this/DET person/NOUN stand/VERB and/CCONJ suddenly/ADV step/VERB to/ADP the/DET right/NOUN#0.0#0.0
+standing still then moving to the side.#stand/VERB still/ADV then/ADV move/VERB to/ADP the/DET side/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person walking forward and then turns around#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ then/ADV turn/VERB around/ADV#0.0#0.0
+a person walks forward and then turns around.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ then/ADV turn/VERB around/ADV#0.0#0.0
+a man appears to be walking at a steady pace in a right foot left foot motion.#a/DET man/NOUN appear/VERB to/PART be/AUX walk/VERB at/ADP a/DET steady/ADJ pace/NOUN in/ADP a/DET right/ADJ foot/NOUN left/VERB foot/NOUN motion/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person stands still with their elbows up.#a/DET person/NOUN stand/VERB still/ADV with/ADP their/DET elbow/NOUN up/ADP#0.0#0.0
+a man stands with his hands and arms level to his shoulders.#a/DET man/NOUN stand/VERB with/ADP his/DET hand/NOUN and/CCONJ arm/NOUN level/NOUN to/ADP his/DET shoulder/NOUN#0.0#0.0
+a person stands in a static pose.#a/DET person/NOUN stand/VERB in/ADP a/DET static/ADJ pose/NOUN#0.0#0.0

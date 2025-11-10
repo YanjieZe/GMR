@@ -1,0 +1,3 @@
+this person lifts both arms and strums to the right.#this/DET person/NOUN lift/VERB both/CCONJ arm/NOUN and/CCONJ strum/NOUN to/ADP the/DET right/NOUN#0.0#0.0
+a man imitates strumming a guitar in his arms#a/DET man/NOUN imitate/VERB strum/VERB a/DET guitar/NOUN in/ADP his/DET arm/NOUN#0.0#0.0
+figure strums the air in a guitar picking motion.#figure/NOUN strum/VERB the/DET air/NOUN in/ADP a/DET guitar/NOUN picking/NOUN motion/NOUN#0.0#0.0

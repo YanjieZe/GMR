@@ -1,0 +1,3 @@
+a person raised right hand and after pull it down#a/DET person/NOUN raise/VERB right/ADJ hand/NOUN and/CCONJ after/ADV pull/VERB it/PRON down/ADP#0.0#0.0
+a person lifts their right arm up to their head, then brings it back down.#a/DET person/NOUN lift/VERB their/DET right/ADJ arm/NOUN up/ADP to/ADP their/DET head/NOUN then/ADV bring/VERB it/PRON back/ADV down/ADP#0.0#0.0
+a person moves their right hand to their head and then drops it back down.#a/DET person/NOUN move/VERB their/DET right/ADJ hand/NOUN to/ADP their/DET head/NOUN and/CCONJ then/ADV drop/VERB it/PRON back/ADV down/ADP#0.0#0.0

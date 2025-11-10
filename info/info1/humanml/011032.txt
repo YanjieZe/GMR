@@ -1,0 +1,3 @@
+a person is playing ring around the rosie.#a/DET person/NOUN is/AUX play/VERB ring/NOUN around/ADP the/DET rosie/NOUN#0.0#0.0
+a person skips in a circle one way and then turns and skips in a circle in the opposite direction.#a/DET person/NOUN skip/VERB in/ADP a/DET circle/NOUN one/NUM way/NOUN and/CCONJ then/ADV turn/VERB and/CCONJ skip/VERB in/ADP a/DET circle/NOUN in/ADP the/DET opposite/ADJ direction/NOUN#0.0#0.0
+a person jumps around in a circle clockwise then counter clockwise.#a/DET person/NOUN jump/VERB around/ADP in/ADP a/DET circle/NOUN clockwise/NOUN then/ADV counter/VERB clockwise/NOUN#0.0#0.0

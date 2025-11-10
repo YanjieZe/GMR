@@ -1,0 +1,3 @@
+a person walks with purpose to the far left.#a/DET person/NOUN walk/VERB with/ADP purpose/NOUN to/ADP the/DET far/ADV left/NOUN#0.0#0.0
+a person walks in a half cresent counter clockwise#a/DET person/NOUN walk/VERB in/ADP a/DET half/ADJ cresent/ADJ counter/NOUN clockwise/NOUN#0.0#0.0
+a person walks in a curved line#a/DET person/NOUN walk/VERB in/ADP a/DET curved/ADJ line/NOUN#0.0#0.0

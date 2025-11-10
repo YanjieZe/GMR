@@ -1,0 +1,3 @@
+the man plays the violin.#the/DET man/NOUN play/VERB the/DET violin/NOUN#0.0#0.0
+a person looking at their phone with left hand.#a/DET person/NOUN look/VERB at/ADP their/DET phone/NOUN with/ADP left/ADJ hand/NOUN#0.0#0.0
+the person is playing the violin with his left hand.#the/DET person/NOUN is/AUX play/VERB the/DET violin/NOUN with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0

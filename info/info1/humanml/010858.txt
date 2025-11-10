@@ -1,0 +1,3 @@
+person is walking quickly up#person/NOUN is/AUX walk/VERB quickly/ADV up/ADV#0.0#0.0
+a man walks a short distance then walks on the spot briefly#a/DET man/NOUN walk/VERB a/DET short/ADJ distance/NOUN then/ADV walk/VERB on/ADP the/DET spot/NOUN briefly/ADV#0.0#0.0
+a person runs forward and up.#a/DET person/NOUN run/VERB forward/ADV and/CCONJ up/ADV#0.0#0.0

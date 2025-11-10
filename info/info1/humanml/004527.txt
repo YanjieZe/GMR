@@ -1,0 +1,3 @@
+waving hands up and down and outs right hand down and continues moving left hand up and down#wave/VERB hand/NOUN up/ADV and/CCONJ down/ADP and/CCONJ out/VERB right/ADJ hand/NOUN down/ADP and/CCONJ continue/VERB move/VERB left/ADJ hand/NOUN up/ADP and/CCONJ down/ADV#0.0#0.0
+person stands and stretches our their arms before rotating their right arm#person/NOUN stand/VERB and/CCONJ stretch/VERB our/DET their/DET arm/NOUN before/ADP rotate/VERB their/DET right/ADJ arm/NOUN#0.0#0.0
+a person standing using both hands to move objects, circular rubbing motion with right hand.#a/DET person/NOUN stand/VERB use/VERB both/DET hand/NOUN to/PART move/VERB object/NOUN circular/ADJ rubbing/NOUN motion/NOUN with/ADP right/ADJ hand/NOUN#0.0#0.0

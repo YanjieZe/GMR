@@ -1,0 +1,3 @@
+a person shields themselves with their left arm.#a/DET person/NOUN shield/VERB themselves/PRON with/ADP their/DET left/ADJ arm/NOUN#0.0#0.0
+a person swings their left hand above their head and in front of them.#a/DET person/NOUN swing/VERB their/DET left/ADJ hand/NOUN above/ADP their/DET head/NOUN and/CCONJ in/ADP front/NOUN of/ADP them/PRON#0.0#0.0
+a person raises his left arm above his head and returns his arm to his side.#a/DET person/NOUN raise/VERB his/DET left/ADJ arm/NOUN above/ADP his/DET head/NOUN and/CCONJ return/VERB his/DET arm/NOUN to/ADP his/DET side/NOUN#0.0#0.0

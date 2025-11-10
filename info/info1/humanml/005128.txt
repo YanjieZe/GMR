@@ -1,0 +1,3 @@
+a man walks in an irregular patttern turns around and sprints back to the start#a/DET man/NOUN walk/VERB in/ADP an/DET irregular/ADJ patttern/NOUN turn/VERB around/ADV and/CCONJ sprint/NOUN back/ADV to/ADP the/DET start/NOUN#0.0#0.0
+a person walks backwards, runs forwards, and then walks backwards.#a/DET person/NOUN walk/VERB backwards/ADV run/VERB forwards/ADV and/CCONJ then/ADV walk/VERB backwards/ADV#0.0#0.0
+a person partly runs and partly walks around in a circle.#a/DET person/NOUN partly/ADV run/VERB and/CCONJ partly/ADV walk/VERB around/ADV in/ADP a/DET circle/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+the person twisted something with his right hand and then backed up.#the/DET person/NOUN twist/VERB something/PRON with/ADP his/DET right/ADJ hand/NOUN and/CCONJ then/ADV back/VERB up/ADP#0.0#0.0
+a person wipes something off with his right hand and then steps backward into a t-pose.#a/DET person/NOUN wipe/VERB something/PRON off/ADP with/ADP his/DET right/ADJ hand/NOUN and/CCONJ then/ADV step/VERB backward/ADV into/ADP a/DET tpose/NOUN#0.0#0.0
+a person who tries to grab some something stuck in a surface then proceeds to stand in a t pose#a/DET person/NOUN who/PRON try/VERB to/PART grab/VERB some/DET something/PRON stick/VERB in/ADP a/DET surface/NOUN then/ADV proceed/VERB to/PART stand/VERB in/ADP a/DET t/NOUN pose/NOUN#0.0#0.0

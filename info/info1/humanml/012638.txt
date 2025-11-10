@@ -1,0 +1,3 @@
+a person (likely female) is bowing using their arms#a/DET person/NOUN likely/ADV female/NOUN is/AUX bow/VERB use/VERB their/DET arm/NOUN#0.0#0.0
+walking forward with arms outstretched.#walk/VERB forward/ADV with/ADP arm/NOUN outstretche/VERB#0.0#0.0
+a person is doing a yoga pose#a/DET person/NOUN is/AUX do/VERB a/DET yoga/NOUN pose/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person jogs forward and slightly to the left.#a/DET person/NOUN jog/VERB forward/ADV and/CCONJ slightly/ADV to/ADP the/DET left/NOUN#0.0#0.0
+a person runs down a ramp.#a/DET person/NOUN run/VERB down/ADP a/DET ramp/NOUN#0.0#0.0
+the person i was walking forward slightly to the left.#the/DET person/NOUN i/PRON was/AUX walk/VERB forward/ADV slightly/ADV to/ADP the/DET left/NOUN#0.0#0.0

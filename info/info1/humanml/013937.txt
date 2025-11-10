@@ -1,0 +1,3 @@
+a person jumps up and turns to the left, landing facing towards the right of the screen.#a/DET person/NOUN jump/VERB up/ADP and/CCONJ turn/VERB to/ADP the/DET left/NOUN landing/NOUN face/VERB towards/ADP the/DET right/NOUN of/ADP the/DET screen/NOUN#0.0#0.0
+a person standing and jumps to the right side.#a/DET person/NOUN stand/VERB and/CCONJ jump/VERB to/ADP the/DET right/ADJ side/NOUN#0.0#0.0
+a person hops and turns to their left in mid air.#a/DET person/NOUN hop/VERB and/CCONJ turn/VERB to/ADP their/DET left/NOUN in/ADP mid/ADJ air/NOUN#0.0#0.0

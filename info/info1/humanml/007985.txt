@@ -1,0 +1,3 @@
+a person takes step to jump upward, then takes a few steps back to run forward to throw right arm outward.#a/DET person/NOUN take/VERB step/NOUN to/PART jump/VERB upward/ADV then/ADV take/VERB a/DET few/ADJ step/NOUN back/ADV to/PART run/VERB forward/ADV to/PART throw/VERB right/ADJ arm/NOUN outward/ADV#0.0#0.0
+put your arms up in the air and act like you are throwing a basketball#put/VERB your/DET arm/NOUN up/ADP in/ADP the/DET air/NOUN and/CCONJ act/VERB like/SCONJ you/PRON are/AUX throw/VERB a/DET basketball/NOUN#0.0#0.0
+this person jumps and acts as if to throw then steps back to throw again.#this/DET person/NOUN jump/VERB and/CCONJ act/VERB as/SCONJ if/SCONJ to/PART throw/VERB then/ADV step/VERB back/ADV to/PART throw/VERB again/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+the man is walking fast#the/DET man/NOUN is/AUX walk/VERB fast/ADV#0.0#0.0
+a man walks forward quickly.#a/DET man/NOUN walk/VERB forward/ADV quickly/ADV#0.0#0.0
+a person walks forward quickly.#a/DET person/NOUN walk/VERB forward/ADV quickly/ADV#0.0#0.0

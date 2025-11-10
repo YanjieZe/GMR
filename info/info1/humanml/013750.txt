@@ -1,0 +1,3 @@
+a person walks in a diagonal to their right, and then scratches their right shoulder.#a/DET person/NOUN walk/VERB in/ADP a/DET diagonal/ADJ to/ADP their/DET right/NOUN and/CCONJ then/ADV scratch/VERB their/DET right/ADJ shoulder/NOUN#0.0#0.0
+a person greets somebody with a salute#a/DET person/NOUN greet/VERB somebody/PRON with/ADP a/DET salute/NOUN#0.0#0.0
+the person is walking to greet someone.#the/DET person/NOUN is/AUX walk/VERB to/PART greet/VERB someone/PRON#0.0#0.0

@@ -1,0 +1,3 @@
+a person raises their arms in the air while walking down an incline.#a/DET person/NOUN raise/VERB their/DET arm/NOUN in/ADP the/DET air/NOUN while/SCONJ walk/VERB down/ADP an/DET incline/NOUN#0.0#0.0
+a person raises both hands in the air and walks forward.#a/DET person/NOUN raise/VERB both/DET hand/NOUN in/ADP the/DET air/NOUN and/CCONJ walk/VERB forward/ADV#0.0#0.0
+a person walks forward in a straight line while having both arms up in the air and once completed the person puts both arms back down.#a/DET person/NOUN walk/VERB forward/ADV in/ADP a/DET straight/ADJ line/NOUN while/SCONJ have/VERB both/DET arm/NOUN up/ADP in/ADP the/DET air/NOUN and/CCONJ once/ADV complete/VERB the/DET person/NOUN put/VERB both/DET arm/NOUN back/ADV down/ADV#0.0#0.0

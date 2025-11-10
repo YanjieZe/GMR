@@ -1,0 +1,3 @@
+someone throwing or sporting also moving#someone/PRON throw/VERB or/CCONJ sporting/NOUN also/ADV move/VERB#7.5#9.0
+a person hops up while pushing a ball at eye level with both hands, and walks backwards a bit, then launches a ball with right hand using a long stride.#a/DET person/NOUN hop/VERB up/ADP while/SCONJ push/VERB a/DET ball/NOUN at/ADP eye/NOUN level/NOUN with/ADP both/DET hand/NOUN and/CCONJ walk/VERB backwards/ADV a/DET bit/NOUN then/ADV launch/VERB a/DET ball/NOUN with/ADP right/ADJ hand/NOUN use/VERB a/DET long/ADJ stride/NOUN#0.0#0.0
+a person throwing a basketball and then walking back and throwing a ball#a/DET person/NOUN throw/VERB a/DET basketball/NOUN and/CCONJ then/ADV walk/VERB back/ADV and/CCONJ throw/VERB a/DET ball/NOUN#0.0#0.0

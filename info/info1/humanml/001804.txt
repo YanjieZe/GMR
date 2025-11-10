@@ -1,0 +1,3 @@
+a person bends slightly to their left and picks something up then turns slightly to their right and places it down.#a/DET person/NOUN bend/VERB slightly/ADV to/ADP their/DET left/NOUN and/CCONJ pick/VERB something/PRON up/ADV then/ADV turn/VERB slightly/ADV to/ADP their/DET right/NOUN and/CCONJ place/VERB it/PRON down/ADP#0.0#0.0
+a person is picking something from their left up, and placing it down to their right.#a/DET person/NOUN is/AUX pick/VERB something/PRON from/ADP their/DET left/VERB up/ADP and/CCONJ place/VERB it/PRON down/ADP to/ADP their/DET right/NOUN#0.0#0.0
+a person picking up a item and placing it to the right#a/DET person/NOUN pick/VERB up/ADP a/DET item/NOUN and/CCONJ place/VERB it/PRON to/ADP the/DET right/NOUN#0.0#0.0

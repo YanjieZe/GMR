@@ -1,0 +1,3 @@
+a person stretches his neck from side to side, and then backwards and finally to his side again.#a/DET person/NOUN stretch/VERB his/DET neck/NOUN from/ADP side/NOUN to/ADP side/NOUN and/CCONJ then/ADV backwards/ADV and/CCONJ finally/ADV to/ADP his/DET side/NOUN again/ADV#0.0#0.0
+a person slowly glances from side to side while remaining still.#a/DET person/NOUN slowly/ADV glance/VERB from/ADP side/NOUN to/PART side/NOUN while/SCONJ remain/VERB still/ADV#0.0#0.0
+a person stands still and looks back, forth, and down#a/DET person/NOUN stand/VERB still/ADV and/CCONJ look/VERB back/ADV forth/ADV and/CCONJ down/ADV#0.0#0.0

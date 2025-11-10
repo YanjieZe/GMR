@@ -1,0 +1,3 @@
+a person is pushed forward.#a/DET person/NOUN is/AUX push/VERB forward/ADV#0.0#0.0
+person standing and falls forward, then regains balance#person/NOUN stand/VERB and/CCONJ fall/VERB forward/ADV then/ADV regain/VERB balance/NOUN#0.0#0.0
+the man takes a quick step forward starting with his left foot.#the/DET man/NOUN take/VERB a/DET quick/ADJ step/NOUN forward/ADV start/VERB with/ADP his/DET left/ADJ foot/NOUN#0.0#0.0

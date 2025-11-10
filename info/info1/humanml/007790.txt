@@ -1,0 +1,3 @@
+the person is injured dragging his left leg while carrying something heavy on the right.#the/DET person/NOUN is/AUX injure/VERB drag/VERB his/DET left/ADJ leg/NOUN while/SCONJ carry/VERB something/PRON heavy/ADJ on/ADP the/DET right/NOUN#0.0#0.0
+the person is limping with their right leg.#the/DET person/NOUN is/AUX limp/VERB with/ADP their/DET right/ADJ leg/NOUN#0.0#0.0
+a person leans over and uses their arms to carry something heavy, stumbling forward with small steps.#a/DET person/NOUN lean/VERB over/ADP and/CCONJ use/VERB their/DET arm/NOUN to/PART carry/VERB something/PRON heavy/ADJ stumble/VERB forward/ADV with/ADP small/ADJ step/NOUN#0.0#0.0

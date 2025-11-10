@@ -1,0 +1,3 @@
+a person raises both hands and waves them in various ways.#a/DET person/NOUN raise/VERB both/DET hand/NOUN and/CCONJ wave/VERB them/PRON in/ADP various/ADJ way/NOUN#0.0#0.0
+a person leans on something in front of them, then waves with each hand.#a/DET person/NOUN lean/VERB on/ADP something/PRON in/ADP front/NOUN of/ADP them/PRON then/ADV wave/VERB with/ADP each/DET hand/NOUN#0.0#0.0
+a man stands for few seconds and picks up his arms and shakes them#a/DET man/NOUN stand/VERB for/ADP few/ADJ second/NOUN and/CCONJ pick/VERB up/ADP his/DET arm/NOUN and/CCONJ shake/VERB them/PRON#1.0#10.0

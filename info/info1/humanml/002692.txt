@@ -1,0 +1,3 @@
+a man is blocking fighting moves with his left arm.#a/DET man/NOUN is/AUX block/VERB fight/VERB move/NOUN with/ADP his/DET left/ADJ arm/NOUN#0.0#0.0
+a man practices blocking a punch with his left arm several times#a/DET man/NOUN practice/VERB block/VERB a/DET punch/NOUN with/ADP his/DET left/ADJ arm/NOUN several/ADJ time/NOUN#0.0#0.0
+person is practicing a defensive fighting technique#person/NOUN is/AUX practice/VERB a/DET defensive/ADJ fighting/NOUN technique/NOUN#0.0#0.0

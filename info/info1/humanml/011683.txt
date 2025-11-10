@@ -1,0 +1,3 @@
+a man lowers his arms and places his hands on his knees.#a/DET man/NOUN lower/VERB his/DET arm/NOUN and/CCONJ place/VERB his/DET hand/NOUN on/ADP his/DET knee/NOUN#0.0#0.0
+a person drops their hands to their side and then raises them again.#a/DET person/NOUN drop/VERB their/DET hand/NOUN to/ADP their/DET side/NOUN and/CCONJ then/ADV raise/VERB them/PRON again/ADV#0.0#0.0
+a person is standing with their arms out at both sides, the person the drops the arms down to their sides.#a/DET person/NOUN is/AUX stand/VERB with/ADP their/DET arm/NOUN out/ADV at/ADP both/DET side/NOUN the/DET person/NOUN the/DET drop/VERB the/DET arm/NOUN down/ADP to/ADP their/DET side/NOUN#0.0#0.0

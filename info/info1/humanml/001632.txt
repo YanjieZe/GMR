@@ -1,0 +1,3 @@
+a man sits down and then stays still.#a/DET man/NOUN sit/VERB down/ADP and/CCONJ then/ADV stay/VERB still/ADV#0.0#0.0
+he sits down in an armchair.#he/PRON sit/VERB down/ADP in/ADP an/DET armchair/NOUN#0.0#0.0
+a person is standing up with their arms out to the sides, then sits down and rests their hands on their knees.#a/DET person/NOUN is/AUX stand/VERB up/ADP with/ADP their/DET arm/NOUN out/SCONJ to/ADP the/DET side/NOUN then/ADV sit/VERB down/ADP and/CCONJ rest/VERB their/DET hand/NOUN on/ADP their/DET knee/NOUN#0.0#0.0

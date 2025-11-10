@@ -1,0 +1,3 @@
+a person walks around with his left hand on his face.#a/DET person/NOUN walk/VERB around/ADP with/ADP his/DET left/ADJ hand/NOUN on/ADP his/DET face/NOUN#0.0#0.0
+he puts his hand up then down#he/PRON put/VERB his/DET hand/NOUN up/ADP then/ADV down/ADV#0.0#0.0
+the toon has both ups extended upward, bring them down before touching their face with their left hand.#the/DET toon/NOUN has/AUX both/DET up/NOUN extend/VERB upward/ADV bring/VERB them/PRON down/ADP before/ADP touch/VERB their/DET face/NOUN with/ADP their/DET left/ADJ hand/NOUN#0.0#10.0

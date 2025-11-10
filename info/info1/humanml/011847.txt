@@ -1,0 +1,3 @@
+a figure throws hard forward with their right hand#a/DET figure/NOUN throw/VERB hard/ADV forward/ADV with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+a person swings their right arm back and then quickly forward, as if throwing something.#a/DET person/NOUN swing/VERB their/DET right/ADJ arm/NOUN back/ADV and/CCONJ then/ADV quickly/ADV forward/ADV as/SCONJ if/SCONJ throw/VERB something/PRON#0.0#0.0
+a person throws an imaginary baseball with the right arm towards the camera.#a/DET person/NOUN throw/VERB an/DET imaginary/ADJ baseball/NOUN with/ADP the/DET right/ADJ arm/NOUN towards/ADP the/DET camera/NOUN#0.0#4.0

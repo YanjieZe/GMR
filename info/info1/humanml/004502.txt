@@ -1,0 +1,3 @@
+a person walks in a circle while using their right arm and hand in a clawing motion over and over again.#a/DET person/NOUN walk/VERB in/ADP a/DET circle/NOUN while/SCONJ use/VERB their/DET right/ADJ arm/NOUN and/CCONJ hand/NOUN in/ADP a/DET clawing/ADJ motion/NOUN over/ADV and/CCONJ over/ADV again/ADV#0.0#0.0
+the person walks in a circle while swatting in front of them with their right arm.#the/DET person/NOUN walk/VERB in/ADP a/DET circle/NOUN while/SCONJ swat/VERB in/ADP front/NOUN of/ADP them/PRON with/ADP their/DET right/ADJ arm/NOUN#0.0#0.0
+someone is moving around slowly in circles while flinging their arm#someone/PRON is/AUX move/VERB around/ADV slowly/ADV in/ADP circle/NOUN while/SCONJ fling/VERB their/DET arm/NOUN#0.0#0.0

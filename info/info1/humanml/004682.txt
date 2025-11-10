@@ -1,0 +1,3 @@
+a person stumbles backwards and stops.#a/DET person/NOUN stumble/VERB backwards/ADV and/CCONJ stop/NOUN#0.0#0.0
+a person stumbles backwards, first with right foot while raising left arm, then left foot, dropping left arm back down.#a/DET person/NOUN stumble/VERB backwards/ADV first/ADV with/ADP right/ADJ foot/NOUN while/SCONJ raise/VERB left/ADJ arm/NOUN then/ADV left/VERB foot/NOUN drop/VERB left/ADJ arm/NOUN back/ADV down/ADV#0.0#0.0
+person steps back two  steps leading with right foot first#person/NOUN step/VERB back/ADV two/NUM step/NOUN lead/VERB with/ADP right/ADJ foot/NOUN first/ADV#0.0#0.0

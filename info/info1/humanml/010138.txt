@@ -1,0 +1,3 @@
+person is making a basketball move#person/NOUN is/AUX make/VERB a/DET basketball/NOUN move/NOUN#0.0#0.0
+a person runs curving right.#a/DET person/NOUN run/VERB curve/VERB right/ADV#0.0#0.0
+a person runs towards the left, then towards the right.#a/DET person/NOUN run/VERB towards/ADP the/DET left/NOUN then/ADV towards/ADP the/DET right/NOUN#0.0#0.0

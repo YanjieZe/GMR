@@ -1,0 +1,3 @@
+a person walks forward then turns and walks in a diagonal, then turns around and walks back.#a/DET person/NOUN walk/VERB forward/ADV then/ADV turn/VERB and/CCONJ walk/VERB in/ADP a/DET diagonal/ADJ then/ADV turn/VERB around/ADV and/CCONJ walk/VERB back/ADV#0.0#0.0
+he was walking around aimlessly.#he/PRON was/AUX walk/VERB around/ADP aimlessly/ADV#0.0#0.0
+a man walks forward slowly, turns clockwise, takes a few steps, turns counterclockwise, and steps back.#a/DET man/NOUN walk/VERB forward/ADV slowly/ADV turn/VERB clockwise/NOUN take/VERB a/DET few/ADJ step/NOUN turn/VERB counterclockwise/NOUN and/CCONJ step/VERB back/ADV#0.0#0.0

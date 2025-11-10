@@ -1,0 +1,3 @@
+someone is working out and lifting something with a hand#someone/PRON is/AUX work/VERB out/ADP and/CCONJ lift/VERB something/PRON with/ADP a/DET hand/NOUN#0.0#0.0
+a person waves their left hand side to side#a/DET person/NOUN wave/VERB their/DET left/ADJ hand/NOUN side/NOUN to/PART side/VERB#2.0#5.0
+person is waiving hands slowly.#person/NOUN is/AUX waive/VERB hand/NOUN slowly/ADV#0.0#0.0

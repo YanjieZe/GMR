@@ -1,0 +1,3 @@
+a person is holding a round object and takes a few steps forward.#a/DET person/NOUN is/AUX hold/VERB a/DET round/ADJ object/NOUN and/CCONJ take/VERB a/DET few/ADJ step/NOUN forward/ADV#0.0#0.0
+the man slowly creeps forward with his arms curled up at his chest.#the/DET man/NOUN slowly/ADV creep/VERB forward/ADV with/ADP his/DET arm/NOUN curl/VERB up/ADP at/ADP his/DET chest/NOUN#0.0#0.0
+a person walks creepily while holding arms like a dinosaur.#a/DET person/NOUN walk/VERB creepily/ADV while/SCONJ hold/VERB arm/NOUN like/SCONJ a/DET dinosaur/NOUN#0.0#0.0

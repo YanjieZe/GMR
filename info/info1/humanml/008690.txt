@@ -1,0 +1,3 @@
+walking forward and bending down#walk/VERB forward/ADV and/CCONJ bend/VERB down/ADP#0.0#0.0
+a figure walks a step forward bends down squatting on his let leg and looks down into something and then stands back up#a/DET figure/NOUN walk/VERB a/DET step/NOUN forward/ADV bend/VERB down/ADP squat/VERB on/ADP his/DET let/NOUN leg/NOUN and/CCONJ look/VERB down/ADP into/ADP something/PRON and/CCONJ then/ADV stand/VERB back/ADV up/ADV#0.0#0.0
+person walks forward, places right hand on left knee and bends and then stands back up and steps back into place.#person/NOUN walk/VERB forward/ADV place/VERB right/ADJ hand/NOUN on/ADP left/ADJ knee/NOUN and/CCONJ bend/NOUN and/CCONJ then/ADV stand/VERB back/ADV up/ADV and/CCONJ step/VERB back/ADV into/ADP place/NOUN#0.0#0.0

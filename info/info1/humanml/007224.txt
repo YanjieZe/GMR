@@ -1,0 +1,3 @@
+a person crosses right leg behind left to sit down and then stands back up.#a/DET person/NOUN cross/VERB right/ADJ leg/NOUN behind/ADV left/VERB to/PART sit/VERB down/ADP and/CCONJ then/ADV stand/VERB back/ADV up/ADV#0.0#8.0
+person sits down indian style and then stands back up#person/NOUN sit/VERB down/ADP indian/ADJ style/NOUN and/CCONJ then/ADV stand/VERB back/ADV up/ADV#0.0#0.0
+this person sits crossed legged on the floor then stands up.#this/DET person/NOUN sit/VERB cross/VERB legge/VERB on/ADP the/DET floor/NOUN then/ADV stand/VERB up/ADP#0.0#0.0

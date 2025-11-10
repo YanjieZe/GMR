@@ -1,0 +1,3 @@
+a person walks forward two steps, and the takes two steps backwards.#a/DET person/NOUN walk/VERB forward/ADV two/NUM step/NOUN and/CCONJ the/DET take/VERB two/NUM step/NOUN backwards/ADV#0.0#0.0
+a person step forward, places something with his right hand and then steps backward.#a/DET person/NOUN step/NOUN forward/ADV place/VERB something/PRON with/ADP his/DET right/ADJ hand/NOUN and/CCONJ then/ADV step/VERB backward/ADV#0.0#0.0
+walking forward and then backwards.#walk/VERB forward/ADV and/CCONJ then/ADV backwards/ADV#0.0#0.0

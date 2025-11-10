@@ -1,0 +1,3 @@
+person touches something the right arm and then reaches out across the body for something and then walks backwards#person/NOUN touch/VERB something/PRON the/DET right/ADJ arm/NOUN and/CCONJ then/ADV reach/VERB out/ADP across/ADP the/DET body/NOUN for/ADP something/PRON and/CCONJ then/ADV walk/VERB backwards/ADV#0.0#0.0
+a person walks backward, then raises his arms to up to either side.#a/DET person/NOUN walk/VERB backward/ADV then/ADV raise/VERB his/DET arm/NOUN to/ADP up/ADP to/ADP either/DET side/NOUN#7.0#9.0
+the person is pouring and mixing some thing.#the/DET person/NOUN is/AUX pour/VERB and/CCONJ mix/VERB some/DET thing/NOUN#0.0#0.0

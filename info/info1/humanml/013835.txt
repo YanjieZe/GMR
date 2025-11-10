@@ -1,0 +1,3 @@
+a person moves from side to side in a dance motion#a/DET person/NOUN move/VERB from/ADP side/NOUN to/PART side/VERB in/ADP a/DET dance/NOUN motion/NOUN#0.0#0.0
+a person does the charleston dance with their partner on the left side.#a/DET person/NOUN does/AUX the/DET charleston/PROPN dance/NOUN with/ADP their/DET partner/NOUN on/ADP the/DET left/ADJ side/NOUN#0.0#0.0
+a person does  some dancing moves with their feet.#a/DET person/NOUN does/AUX some/DET dance/VERB move/NOUN with/ADP their/DET foot/NOUN#0.0#0.0

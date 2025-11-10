@@ -1,0 +1,3 @@
+the figure makes a half turn to the left, pauses, and makes another half turn to the left to come back to where it started.#the/DET figure/NOUN make/VERB a/DET half/ADJ turn/NOUN to/ADP the/DET left/NOUN pause/NOUN and/CCONJ make/VERB another/DET half/ADJ turn/VERB to/ADP the/DET left/NOUN to/PART come/VERB back/ADV to/ADP where/ADV it/PRON start/VERB#0.0#0.0
+the man turns and twists in different directions#the/DET man/NOUN turn/VERB and/CCONJ twist/NOUN in/ADP different/ADJ direction/NOUN#0.0#0.0
+a person turns counterclockwise in a full rotation.#a/DET person/NOUN turn/VERB counterclockwise/NOUN in/ADP a/DET full/ADJ rotation/NOUN#0.0#0.0

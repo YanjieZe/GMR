@@ -1,0 +1,3 @@
+a person stretches out their right arm.#a/DET person/NOUN stretch/VERB out/ADP their/DET right/ADJ arm/NOUN#0.0#0.0
+person stands still and aggressively points straight forward#person/NOUN stand/VERB still/ADV and/CCONJ aggressively/ADV point/VERB straight/ADV forward/ADV#0.0#0.0
+person standing straight up and feet are shoulder width apart. reachs arm (right) up to shoulder height, straight out hold there for a second and drops back at side#person/NOUN stand/VERB straight/ADV up/ADV and/CCONJ foot/NOUN are/AUX shoulder/ADJ width/NOUN apart/ADV reachs/PROPN arm/PROPN right/INTJ up/ADP to/ADP shoulder/NOUN height/NOUN straight/ADV out/ADV hold/VERB there/ADV for/ADP a/DET second/ADJ and/CCONJ drop/VERB back/ADV at/ADP side/NOUN#0.0#0.0

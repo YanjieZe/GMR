@@ -1,0 +1,3 @@
+a person mimics a cat grooming itself by licking its paws and then rubbing its head.#a/DET person/NOUN mimic/VERB a/DET cat/NOUN groom/VERB itself/PRON by/ADP lick/VERB its/DET paw/NOUN and/CCONJ then/ADV rub/VERB its/DET head/NOUN#0.0#0.0
+a person raised hands, and strech them up#a/DET person/NOUN raise/VERB hand/NOUN and/CCONJ strech/VERB them/PRON up/ADP#0.0#0.0
+stickman connecting hands together to lean left then right, circle motion of left hand then right, and hands back together to make a full circle.#stickman/NOUN connect/VERB hand/NOUN together/ADV to/PART lean/VERB left/ADV then/ADV right/INTJ circle/NOUN motion/NOUN of/ADP left/ADJ hand/NOUN then/ADV right/INTJ and/CCONJ hand/NOUN back/ADV together/ADV to/PART make/VERB a/DET full/ADJ circle/NOUN#0.0#10.0

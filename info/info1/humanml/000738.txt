@@ -1,0 +1,3 @@
+a person catches a ball, steps backwards, and throws a ball with their right hand.#a/DET person/NOUN catch/VERB a/DET ball/NOUN step/VERB backwards/ADV and/CCONJ throw/VERB a/DET ball/NOUN with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+a man holds his head then walks back sideways then runs and jumps with his hand in the air.#a/DET man/NOUN hold/VERB his/DET head/NOUN then/ADV walk/VERB back/ADV sideways/ADV then/ADV run/VERB and/CCONJ jump/VERB with/ADP his/DET hand/NOUN in/ADP the/DET air/NOUN#1.0#8.0
+person throwing a back hand football'#person/NOUN throw/VERB a/DET back/ADJ hand/NOUN football/NOUN#0.0#0.0

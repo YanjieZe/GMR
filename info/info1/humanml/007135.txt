@@ -1,0 +1,3 @@
+figure appears to be cooking adding seasoning to dishes#figure/NOUN appear/VERB to/PART be/AUX cook/VERB add/VERB seasoning/NOUN to/ADP dish/NOUN#0.0#0.0
+person turns to the side and reaches out with his right hand and shakes it, then turns to the right again and shakes his right hand again.#person/NOUN turn/VERB to/ADP the/DET side/NOUN and/CCONJ reach/VERB out/ADP with/ADP his/DET right/ADJ hand/NOUN and/CCONJ shake/VERB it/PRON then/ADV turn/VERB to/ADP the/DET right/NOUN again/ADV and/CCONJ shake/VERB his/DET right/ADJ hand/NOUN again/ADV#0.0#0.0
+the person is shaking hands with someone#the/DET person/NOUN is/AUX shake/VERB hand/NOUN with/ADP someone/PRON#0.0#0.0

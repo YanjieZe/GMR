@@ -1,0 +1,3 @@
+a man pats himself on the head#a/DET man/NOUN pat/VERB himself/PRON on/ADP the/DET head/NOUN#0.0#0.0
+a person raises right hand, waves with hand, and then places the hand back at side.#a/DET person/NOUN raise/VERB right/ADJ hand/NOUN wave/NOUN with/ADP hand/NOUN and/CCONJ then/ADV place/VERB the/DET hand/NOUN back/ADV at/ADP side/NOUN#0.0#4.0
+a person reaches up above his head with his right hand, makes a scratching motion with his right hand and then lowers his arm to his side.#a/DET person/NOUN reach/VERB up/ADP above/ADP his/DET head/NOUN with/ADP his/DET right/ADJ hand/NOUN make/VERB a/DET scratching/NOUN motion/NOUN with/ADP his/DET right/ADJ hand/NOUN and/CCONJ then/ADV lower/VERB his/DET arm/NOUN to/ADP his/DET side/NOUN#0.0#0.0

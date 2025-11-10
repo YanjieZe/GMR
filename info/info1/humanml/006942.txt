@@ -1,0 +1,3 @@
+a person throws a ball with their right hand.#a/DET person/NOUN throw/VERB a/DET ball/NOUN with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+a person leans back and swing his arm forward.#a/DET person/NOUN lean/VERB back/ADV and/CCONJ swing/VERB his/DET arm/NOUN forward/ADV#0.0#0.0
+a person makes a motion with his right arm as if he were throwing a baseball.#a/DET person/NOUN make/VERB a/DET motion/NOUN with/ADP his/DET right/ADJ arm/NOUN as/SCONJ if/SCONJ he/PRON were/AUX throw/VERB a/DET baseball/NOUN#0.0#0.0

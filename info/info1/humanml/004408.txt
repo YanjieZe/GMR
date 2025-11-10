@@ -1,0 +1,3 @@
+a person points his right arm straight out in front on him, then returns it to his side.#a/DET person/NOUN point/VERB his/DET right/ADJ arm/NOUN straight/ADV out/ADV in/ADP front/NOUN on/ADP him/PRON then/ADV return/VERB it/PRON to/ADP his/DET side/NOUN#0.0#0.0
+a person uses their right hand and points at an object in front of them.#a/DET person/NOUN use/VERB their/DET right/ADJ hand/NOUN and/CCONJ point/VERB at/ADP an/DET object/NOUN in/ADP front/NOUN of/ADP them/PRON#0.0#0.0
+a person sticking right arm directly in front.#a/DET person/NOUN stick/VERB right/ADJ arm/NOUN directly/ADV in/ADP front/NOUN#0.0#0.0

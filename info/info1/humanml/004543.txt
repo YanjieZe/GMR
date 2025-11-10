@@ -1,0 +1,3 @@
+the right arm goes up at shoulder height and goes across the body to the left and right again.#the/DET right/ADJ arm/NOUN go/VERB up/ADV at/ADP shoulder/NOUN height/NOUN and/CCONJ go/VERB across/ADP the/DET body/NOUN to/ADP the/DET left/NOUN and/CCONJ right/ADV again/ADV#0.0#0.0
+a person is waving left arm.#a/DET person/NOUN is/AUX wave/VERB left/ADJ arm/NOUN#0.0#0.0
+a person pans around with their right hand, motioning to something in front of them.#a/DET person/NOUN pan/VERB around/ADP with/ADP their/DET right/ADJ hand/NOUN motion/VERB to/ADP something/PRON in/ADP front/NOUN of/ADP them/PRON#0.0#0.0

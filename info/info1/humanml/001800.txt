@@ -1,0 +1,3 @@
+a person is standing and bends down using their knees to place their knees on the ground, and then places their hands infront of their knees so they look like a dog.#a/DET person/NOUN is/AUX stand/VERB and/CCONJ bend/NOUN down/ADP use/VERB their/DET knee/NOUN to/PART place/VERB their/DET knee/NOUN on/ADP the/DET ground/NOUN and/CCONJ then/ADV place/VERB their/DET hand/NOUN infront/ADV of/ADP their/DET knee/NOUN so/SCONJ they/PRON look/VERB like/SCONJ a/DET dog/NOUN#0.0#0.0
+a person gets down onto their hands and knees.#a/DET person/NOUN get/VERB down/ADP onto/ADP their/DET hand/NOUN and/CCONJ knee/NOUN#0.0#0.0
+a person kneels then gets in crawling position.#a/DET person/NOUN kneel/VERB then/ADV get/VERB in/ADP crawl/VERB position/NOUN#0.0#0.0

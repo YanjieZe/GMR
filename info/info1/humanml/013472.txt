@@ -1,0 +1,3 @@
+the figure "picks up" a rag/cloth and makes a motion to dry a larger object#the/DET figure/NOUN pick/VERB up/ADP a/DET rag/NOUN cloth/NOUN and/CCONJ make/VERB a/DET motion/NOUN to/PART dry/VERB a/DET larger/ADJ object/NOUN#0.0#0.0
+the person is drying his right arm.#the/DET person/NOUN is/AUX dry/VERB his/DET right/ADJ arm/NOUN#0.0#0.0
+a person grabbed something and put it on somehwere#a/DET person/NOUN grab/VERB something/PRON and/CCONJ put/VERB it/PRON on/ADP somehwere/PROPN#0.0#0.0

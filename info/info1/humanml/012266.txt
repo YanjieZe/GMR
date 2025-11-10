@@ -1,0 +1,3 @@
+the man is on a motorcycle#the/DET man/NOUN is/AUX on/ADP a/DET motorcycle/NOUN#0.0#0.0
+a person starts out with his legs shoulder-width apart, knees slightly bent, toes facing out, hands on hips, and twists his torso and hands slightly, as if he is steadying or balancing himself.#a/DET person/NOUN start/VERB out/ADP with/ADP his/DET leg/NOUN shoulderwidth/NOUN apart/ADV knee/VERB slightly/ADV bent/ADJ toe/NOUN face/VERB out/ADV hand/NOUN on/ADP hip/NOUN and/CCONJ twist/VERB his/DET torso/NOUN and/CCONJ hand/NOUN slightly/ADV as/SCONJ if/SCONJ he/PRON is/AUX steady/VERB or/CCONJ balance/VERB himself/PRON#0.0#0.0
+a person stands still and does nothing.#a/DET person/NOUN stand/VERB still/ADV and/CCONJ does/AUX nothing/PRON#0.0#0.0

@@ -1,0 +1,3 @@
+this person jumps and walks up to the front.#this/DET person/NOUN jump/VERB and/CCONJ walk/VERB up/ADP to/ADP the/DET front/NOUN#0.0#0.0
+a person standing in a t pose, performing a hop and then started walking#a/DET person/NOUN stand/VERB in/ADP a/DET t/NOUN pose/NOUN perform/VERB a/DET hop/NOUN and/CCONJ then/ADV start/VERB walk/VERB#0.0#0.0
+a person hops and then takes a few steps forward.#a/DET person/NOUN hop/VERB and/CCONJ then/ADV take/VERB a/DET few/ADJ step/NOUN forward/ADV#0.0#0.0

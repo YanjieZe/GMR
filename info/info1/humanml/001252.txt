@@ -1,0 +1,3 @@
+a person jogs back and forth then faces forward#a/DET person/NOUN jog/VERB back/ADV and/CCONJ forth/ADV then/ADV face/VERB forward/ADV#0.0#0.0
+a person runs to the right and then turns and runs to the left.#a/DET person/NOUN run/VERB to/ADP the/DET right/NOUN and/CCONJ then/ADV turn/VERB and/CCONJ run/VERB to/ADP the/DET left/NOUN#0.0#0.0
+a person turns to the right, jogs a few steps, then pivots to the left and jogs a few steps then returns to the start point.#a/DET person/NOUN turn/VERB to/ADP the/DET right/NOUN jog/VERB a/DET few/ADJ step/NOUN then/ADV pivot/NOUN to/ADP the/DET left/NOUN and/CCONJ jog/VERB a/DET few/ADJ step/NOUN then/ADV return/VERB to/ADP the/DET start/NOUN point/NOUN#0.0#0.0

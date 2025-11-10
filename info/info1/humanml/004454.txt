@@ -1,0 +1,3 @@
+a person walks forward several steps.#a/DET person/NOUN walk/VERB forward/ADV several/ADJ step/NOUN#0.0#0.0
+a man walks forwards at medium speed, swinging his left forearm whilst the right arm remains relatively motionless.#a/DET man/NOUN walk/VERB forwards/ADV at/ADP medium/ADJ speed/NOUN swinge/VERB his/DET left/ADJ forearm/NOUN whilst/SCONJ the/DET right/ADJ arm/NOUN remain/VERB relatively/ADV motionless/ADJ#0.0#0.0
+the man walks at a normal pace#the/DET man/NOUN walk/VERB at/ADP a/DET normal/ADJ pace/NOUN#0.0#0.0

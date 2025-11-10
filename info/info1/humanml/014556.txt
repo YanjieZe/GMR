@@ -1,0 +1,3 @@
+a person dances rooted in one spot by first spinning their hands around while dipping a knee to each side and then continuing to dip to each side while the hands go up and down and out and in.#a/DET person/NOUN dance/VERB root/VERB in/ADP one/NUM spot/NOUN by/ADP first/ADV spin/VERB their/DET hand/NOUN around/ADV while/SCONJ dip/VERB a/DET knee/NOUN to/ADP each/DET side/NOUN and/CCONJ then/ADV continue/VERB to/PART dip/VERB to/ADP each/DET side/NOUN while/SCONJ the/DET hand/NOUN go/VERB up/ADV and/CCONJ down/ADV and/CCONJ out/ADV and/CCONJ in/ADV#0.0#0.0
+the person was doing a comedy move.#the/DET person/NOUN was/AUX do/VERB a/DET comedy/NOUN move/NOUN#0.0#0.0
+person is doing a dance#person/NOUN is/AUX do/VERB a/DET dance/NOUN#0.0#0.0

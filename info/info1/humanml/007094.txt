@@ -1,0 +1,3 @@
+this person turns right and walks to the back then turns left full circle.#this/DET person/NOUN turn/VERB right/ADJ and/CCONJ walk/VERB to/ADP the/DET back/NOUN then/ADV turn/VERB left/VERB full/ADJ circle/NOUN#0.0#0.0
+person appears to walk in aj shape than touches their right leg midway.#person/NOUN appear/VERB to/PART walk/VERB in/ADP aj/DET shape/NOUN than/SCONJ touch/VERB their/DET right/ADJ leg/NOUN midway/NOUN#0.0#0.0
+person walks, turns around, and walks again and clasps hands together before turning around again.#person/NOUN walk/VERB turn/VERB around/ADV and/CCONJ walk/VERB again/ADV and/CCONJ clasp/NOUN hand/NOUN together/ADV before/ADP turn/VERB around/ADP again/ADV#0.0#0.0

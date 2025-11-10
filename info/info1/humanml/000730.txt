@@ -1,0 +1,3 @@
+a person moves ahead a few steps quickly.#a/DET person/NOUN move/VERB ahead/ADV a/DET few/ADJ step/NOUN quickly/ADV#0.0#0.0
+a person walking forward .#a/DET person/NOUN walk/VERB forward/ADV#0.0#0.0
+the person is walking fast.#the/DET person/NOUN is/AUX walk/VERB fast/ADV#0.0#0.0

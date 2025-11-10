@@ -1,0 +1,3 @@
+person is holding out hands to the side. then he holds hands in front of him and jabs each hand forward.#person/NOUN is/AUX hold/VERB out/ADP hand/NOUN to/ADP the/DET side/NOUN then/ADV he/PRON hold/VERB hand/NOUN in/ADP front/NOUN of/ADP him/PRON and/CCONJ jabs/PROPN each/DET hand/NOUN forward/ADV#0.0#0.0
+a person is doing karate#a/DET person/NOUN is/AUX do/VERB karate/NOUN#0.0#0.0
+someone practicing karate jabs#someone/PRON practice/VERB karate/PROPN jabs/PROPN#0.0#0.0

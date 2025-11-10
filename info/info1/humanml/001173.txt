@@ -1,0 +1,3 @@
+a person lifts both forearms until they are horizontal. they then shake their arms and hands vigorously by rotation at the wrists.#a/DET person/NOUN lift/VERB both/DET forearm/NOUN until/ADP they/PRON are/AUX horizontal/ADJ they/PRON then/ADV shake/VERB their/DET arm/NOUN and/CCONJ hand/NOUN vigorously/ADV by/ADP rotation/NOUN at/ADP the/DET wrist/NOUN#0.0#0.0
+a person shakes both hands.#a/DET person/NOUN shake/VERB both/DET hand/NOUN#0.0#0.0
+a person quickly alternates facing the palms of their hands up and down.#a/DET person/NOUN quickly/ADV alternate/NOUN face/VERB the/DET palm/NOUN of/ADP their/DET hand/NOUN up/ADV and/CCONJ down/ADV#0.0#0.0

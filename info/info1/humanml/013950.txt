@@ -1,0 +1,3 @@
+this person raise both hands to face then kneels down as if to tie shoe laces.#this/DET person/NOUN raise/VERB both/DET hand/NOUN to/PART face/VERB then/ADV kneel/VERB down/ADP as/SCONJ if/SCONJ to/PART tie/VERB shoe/NOUN lace/NOUN#0.0#0.0
+person rubbing his head, then bends down to tie his left shoe.#person/NOUN rub/VERB his/DET head/NOUN then/ADV bend/VERB down/ADP to/PART tie/VERB his/DET left/ADJ shoe/NOUN#0.0#0.0
+a person hollers with their hands around their mouths and then bends over to tie their shoes.#a/DET person/NOUN holler/VERB with/ADP their/DET hand/NOUN around/ADP their/DET mouth/NOUN and/CCONJ then/ADV bend/VERB over/ADP to/PART tie/VERB their/DET shoe/NOUN#0.0#0.0

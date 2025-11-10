@@ -1,0 +1,3 @@
+a person picks something up with their right hand, pours it out, and sets it back down.#a/DET person/NOUN pick/VERB something/PRON up/ADP with/ADP their/DET right/ADJ hand/NOUN pour/VERB it/PRON out/ADP and/CCONJ set/VERB it/PRON back/ADV down/ADV#0.0#0.0
+the man reaches to the ground for something places it on the table then reaches for another thing.#the/DET man/NOUN reach/VERB to/ADP the/DET ground/NOUN for/ADP something/PRON place/NOUN it/PRON on/ADP the/DET table/NOUN then/ADV reach/VERB for/ADP another/DET thing/NOUN#0.0#0.0
+a figure lifts a drink shaker and shakes it up then pours#a/DET figure/NOUN lift/VERB a/DET drink/NOUN shaker/NOUN and/CCONJ shake/VERB it/PRON up/ADP then/ADV pour/VERB#0.0#0.0

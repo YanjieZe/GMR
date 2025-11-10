@@ -1,0 +1,3 @@
+a person practicing jabs in a specific pattern.#a/DET person/NOUN practice/VERB jab/NOUN in/ADP a/DET specific/ADJ pattern/NOUN#0.0#0.0
+a person punches forward with alternating arms#a/DET person/NOUN punch/VERB forward/ADV with/ADP alternate/VERB arm/NOUN#0.0#0.0
+a person is boxing with someone.#a/DET person/NOUN is/AUX box/VERB with/ADP someone/PRON#0.0#0.0

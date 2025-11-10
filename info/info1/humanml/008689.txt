@@ -1,0 +1,3 @@
+a person takes two slow steps forward, pivots on their left foot 180deg, then takes two more slow steps forward.#a/DET person/NOUN take/VERB two/NUM slow/ADJ step/NOUN forward/ADV pivot/NOUN on/ADP their/DET left/ADJ foot/NOUN then/ADV take/VERB two/NUM more/ADJ slow/ADJ step/NOUN forward/ADV#0.0#0.0
+a person walks, turns around, and walks back#a/DET person/NOUN walk/VERB turn/VERB around/ADV and/CCONJ walk/VERB back/ADV#0.0#0.0
+a man walks forward, turns and then walks in the opposite direction.#a/DET man/NOUN walk/VERB forward/ADV turn/VERB and/CCONJ then/ADV walk/VERB in/ADP the/DET opposite/ADJ direction/NOUN#0.0#0.0

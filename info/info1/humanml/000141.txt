@@ -1,0 +1,3 @@
+a person walks forward while slightly favoring the left.#a/DET person/NOUN walk/VERB forward/ADV while/SCONJ slightly/ADV favor/VERB the/DET left/NOUN#0.0#0.0
+a person walks forward and stops#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ stop/NOUN#0.0#0.0
+a person walks forward while holding their arms still#a/DET person/NOUN walk/VERB forward/ADV while/SCONJ hold/VERB their/DET arm/NOUN still/ADV#0.0#0.0

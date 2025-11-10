@@ -1,0 +1,3 @@
+a person walks confidently in a counter clockwise circle.#a/DET person/NOUN walk/VERB confidently/ADV in/ADP a/DET counter/NOUN clockwise/NOUN circle/NOUN#0.0#0.0
+a person walks in a circle turning left.#a/DET person/NOUN walk/VERB in/ADP a/DET circle/NOUN turn/VERB left/VERB#0.0#0.0
+starting with the right foot the figure takes 15 full stept in a left gand circle and slightly overlaps before coming to a stop on a partial 16th step with the left foot.#start/VERB with/ADP the/DET right/ADJ foot/NOUN the/DET figure/NOUN take/VERB full/ADJ stept/NOUN in/ADP a/DET left/ADJ gand/NOUN circle/NOUN and/CCONJ slightly/ADV overlap/NOUN before/ADP come/VERB to/ADP a/DET stop/NOUN on/ADP a/DET partial/ADJ step/NOUN with/ADP the/DET left/ADJ foot/NOUN#0.0#0.0

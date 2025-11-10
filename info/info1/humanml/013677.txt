@@ -1,0 +1,3 @@
+a man walks forwards, then backwards quickly, and then walks forwards again.#a/DET man/NOUN walk/VERB forwards/ADV then/ADV backwards/ADV quickly/ADV and/CCONJ then/ADV walk/VERB forwards/ADJ again/ADV#0.0#8.0
+the person takes 4 steps forward 3 step back quickley. then walks forward 5 more steps.#the/DET person/NOUN take/VERB step/NOUN forward/ADV step/NOUN back/ADV quickley/PROPN then/ADV walk/VERB forward/ADV more/ADJ step/NOUN#0.0#0.0
+the person walks forward in a zigzag, steps back, and continues walking forward in a zigzag.#the/DET person/NOUN walk/VERB forward/ADV in/ADP a/DET zigzag/NOUN step/VERB back/ADV and/CCONJ continue/VERB walk/VERB forward/ADV in/ADP a/DET zigzag/NOUN#0.0#0.0

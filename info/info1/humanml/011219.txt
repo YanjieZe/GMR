@@ -1,0 +1,3 @@
+a person is bendind their knees moving up and down with arms strechted forward#a/DET person/NOUN is/AUX bendind/VERB their/DET knee/NOUN move/VERB up/ADV and/CCONJ down/ADP with/ADP arm/NOUN strechte/VERB forward/ADV#0.0#0.0
+a person does four squats#a/DET person/NOUN does/AUX four/NUM squat/NOUN#0.0#0.0
+a person lifts both arms out straight in front of themselves, then makes deep and rapid squatting and standing repetitions.#a/DET person/NOUN lift/VERB both/DET arm/NOUN out/ADV straight/ADV in/ADP front/NOUN of/ADP themselves/PRON then/ADV make/VERB deep/ADJ and/CCONJ rapid/ADJ squat/VERB and/CCONJ standing/NOUN repetition/NOUN#0.0#0.0

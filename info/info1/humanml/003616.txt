@@ -1,0 +1,3 @@
+a person is walking around suspiciously#a/DET person/NOUN is/AUX walk/VERB around/ADV suspiciously/ADV#0.0#0.0
+a person walks forward, turns, then walks back down a straight line#a/DET person/NOUN walk/VERB forward/ADV turn/VERB then/ADV walk/VERB back/ADV down/ADP a/DET straight/ADJ line/NOUN#0.0#0.0
+a person walks forward with his back slightly bent, turns around clockwise, walks back, then turns counterclockwise to face the starting direction.#a/DET person/NOUN walk/VERB forward/ADV with/ADP his/DET back/NOUN slightly/ADV bent/ADJ turn/VERB around/ADV clockwise/NOUN walk/VERB back/ADV then/ADV turn/VERB counterclockwise/NOUN to/PART face/VERB the/DET starting/NOUN direction/NOUN#0.0#0.0

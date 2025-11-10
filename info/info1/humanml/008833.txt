@@ -1,0 +1,3 @@
+the man dribbles a ball.#the/DET man/NOUN dribble/VERB a/DET ball/NOUN#0.0#0.0
+a person funs very fast.#a/DET person/NOUN fun/NOUN very/ADV fast/ADV#0.0#0.0
+a person fastly ran forward#a/DET person/NOUN fastly/ADV run/VERB forward/ADV#0.0#0.0

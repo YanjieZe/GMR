@@ -1,0 +1,3 @@
+walks forward, turns around, and walks back.#walk/VERB forward/ADV turn/VERB around/ADV and/CCONJ walk/VERB back/ADV#0.0#0.0
+perosn walks forward, turns right, walks back#perosn/PROPN walk/VERB forward/ADV turn/VERB right/ADJ walk/VERB back/ADV#0.0#0.0
+a person walks forward, spins around and walks back.#a/DET person/NOUN walk/VERB forward/ADV spin/VERB around/ADV and/CCONJ walk/VERB back/ADV#0.0#0.0

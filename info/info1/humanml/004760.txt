@@ -1,0 +1,3 @@
+person walks in half circle from left to right#person/NOUN walk/VERB in/ADP half/DET circle/NOUN from/ADP left/VERB to/ADP right/ADJ#0.0#0.0
+a person walks in a curved line.#a/DET person/NOUN walk/VERB in/ADP a/DET curved/ADJ line/NOUN#0.0#0.0
+a man walks forward and then turns slightly#a/DET man/NOUN walk/VERB forward/ADV and/CCONJ then/ADV turn/VERB slightly/ADV#0.0#0.0

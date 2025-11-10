@@ -1,0 +1,3 @@
+a person lowers their left raised hand, shuffles their feet and braces them apart, and then raises both forearms in front.#a/DET person/NOUN lower/VERB their/DET left/ADJ raise/VERB hand/NOUN shuffle/VERB their/DET foot/NOUN and/CCONJ brace/VERB them/PRON apart/ADV and/CCONJ then/ADV raise/VERB both/DET forearm/NOUN in/ADP front/NOUN#0.0#0.0
+a person bends their hands at the elbows, lowers them, then bends again#a/DET person/NOUN bend/VERB their/DET hand/NOUN at/ADP the/DET elbow/NOUN lower/VERB them/PRON then/ADV bend/VERB again/ADV#0.0#0.0
+a man does bicep curls with both arms.#a/DET man/NOUN does/AUX bicep/NOUN curl/NOUN with/ADP both/DET arm/NOUN#0.0#0.0

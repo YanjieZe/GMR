@@ -1,0 +1,3 @@
+a person walking up an elevated surface#a/DET person/NOUN walk/VERB up/ADP an/DET elevated/ADJ surface/NOUN#0.0#0.0
+a man walks slowly then turns around#a/DET man/NOUN walk/VERB slowly/ADV then/ADV turn/VERB around/ADV#0.0#10.0
+a person walks forward, up three steps and then down three steps.#a/DET person/NOUN walk/VERB forward/ADV up/ADV three/NUM step/NOUN and/CCONJ then/ADV down/ADV three/NUM step/NOUN#0.0#0.0

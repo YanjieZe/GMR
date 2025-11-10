@@ -1,0 +1,3 @@
+a person lowers arms from being stretched out to either side, and turns around clockwise.#a/DET person/NOUN lower/VERB arm/NOUN from/ADP being/AUX stretch/VERB out/ADP to/ADP either/DET side/NOUN and/CCONJ turn/VERB around/ADP clockwise/NOUN#0.0#3.5
+arms extend straight out o the side are brought down and the person turns a circle clockwise and does a shooting a basketball motion.#arm/NOUN extend/VERB straight/ADV out/ADV o/ADP the/DET side/NOUN are/AUX bring/VERB down/ADP and/CCONJ the/DET person/NOUN turn/VERB a/DET circle/NOUN clockwise/NOUN and/CCONJ does/AUX a/DET shoot/VERB a/DET basketball/NOUN motion/NOUN#0.0#0.0
+person is getting a basketball and throwing it.#person/NOUN is/AUX get/VERB a/DET basketball/NOUN and/CCONJ throw/VERB it/PRON#0.0#0.0

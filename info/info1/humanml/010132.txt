@@ -1,0 +1,3 @@
+a person bends over and bows deeply then rises.#a/DET person/NOUN bend/VERB over/ADP and/CCONJ bow/NOUN deeply/ADV then/ADV rise/VERB#0.0#0.0
+a person bent the body#a/DET person/NOUN bend/VERB the/DET body/NOUN#0.0#0.0
+the man bend over at 360 degree then went back standing straight#the/DET man/NOUN bend/VERB over/ADP at/ADP degree/NOUN then/ADV go/VERB back/ADV stand/VERB straight/ADV#0.0#0.0

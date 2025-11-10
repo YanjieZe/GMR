@@ -1,0 +1,3 @@
+a person sits down cross legged and then stands back up.#a/DET person/NOUN sit/VERB down/ADP cross/NOUN legged/ADJ and/CCONJ then/ADV stand/VERB back/ADV up/ADV#0.0#0.0
+a person slowly crosses his legs as he sits down on the ground and then slowly stands up swinging his right leg out and down.#a/DET person/NOUN slowly/ADV cross/VERB his/DET leg/NOUN as/SCONJ he/PRON sit/VERB down/ADP on/ADP the/DET ground/NOUN and/CCONJ then/ADV slowly/ADV stand/VERB up/ADP swinge/VERB his/DET right/ADJ leg/NOUN out/ADV and/CCONJ down/ADV#0.0#0.0
+a person sits down and stands back up.#a/DET person/NOUN sit/VERB down/ADP and/CCONJ stand/VERB back/ADV up/ADV#0.0#0.0

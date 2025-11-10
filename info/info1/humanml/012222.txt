@@ -1,0 +1,2 @@
+the man wrings his hands and twists his ankles.#the/DET man/NOUN wring/VERB his/DET hand/NOUN and/CCONJ twist/VERB his/DET ankle/NOUN#0.0#0.0
+figure is leaning back and forth rubbing hands together#figure/NOUN is/AUX lean/VERB back/ADV and/CCONJ forth/ADV rub/VERB hand/NOUN together/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+the person is doing a leg stretches.#the/DET person/NOUN is/AUX do/VERB a/DET leg/NOUN stretch/NOUN#0.0#0.0
+a person does multiple kicking motions with his right leg#a/DET person/NOUN does/AUX multiple/ADJ kick/VERB motion/NOUN with/ADP his/DET right/ADJ leg/NOUN#0.0#0.0
+this person while standing on his left leg moves his right leg to the front and back.#this/DET person/NOUN while/SCONJ stand/VERB on/ADP his/DET left/ADJ leg/NOUN move/VERB his/DET right/ADJ leg/NOUN to/ADP the/DET front/NOUN and/CCONJ back/NOUN#0.0#0.0

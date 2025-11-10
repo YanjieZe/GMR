@@ -1,0 +1,3 @@
+a person is walking across an area at a steady but somewhat slow pace; they take about 5 steps and have minimal arm movement.#a/DET person/NOUN is/AUX walk/VERB across/ADP an/DET area/NOUN at/ADP a/DET steady/ADJ but/CCONJ somewhat/ADV slow/ADJ pace/NOUN they/PRON take/VERB about/ADV step/NOUN and/CCONJ have/AUX minimal/ADJ arm/NOUN movement/NOUN#0.0#0.0
+a person walks forward slowly.#a/DET person/NOUN walk/VERB forward/ADV slowly/ADV#0.0#0.0
+the man walks forward 5 steps.#the/DET man/NOUN walk/VERB forward/ADV step/NOUN#0.0#0.0

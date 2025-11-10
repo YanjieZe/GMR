@@ -1,0 +1,3 @@
+a person does a barrel roll.#a/DET person/NOUN does/AUX a/DET barrel/NOUN roll/NOUN#0.0#0.0
+he rolls forward directly then stops#he/PRON roll/VERB forward/ADV directly/ADV then/ADV stop/VERB#0.0#0.0
+the person is rolling forward on floor.#the/DET person/NOUN is/AUX roll/VERB forward/ADV on/ADP floor/NOUN#0.0#0.0

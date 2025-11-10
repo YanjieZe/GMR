@@ -1,0 +1,3 @@
+a person stands straight with their right hand over their head then lowers back into a more prone position.#a/DET person/NOUN stand/VERB straight/ADV with/ADP their/DET right/ADJ hand/NOUN over/ADP their/DET head/NOUN then/ADV lower/VERB back/ADV into/ADP a/DET more/ADV prone/ADJ position/NOUN#0.0#0.0
+a person raising an object with their right arm.#a/DET person/NOUN raise/VERB an/DET object/NOUN with/ADP their/DET right/ADJ arm/NOUN#0.0#0.0
+a person raises their right arm to take a sip of something.#a/DET person/NOUN raise/VERB their/DET right/ADJ arm/NOUN to/PART take/VERB a/DET sip/NOUN of/ADP something/PRON#0.0#0.0

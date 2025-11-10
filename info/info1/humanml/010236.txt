@@ -1,0 +1,3 @@
+this person with knees bent moves his right arm forward as if to catch something.#this/DET person/NOUN with/ADP knees/PROPN bent/PROPN move/VERB his/DET right/ADJ arm/NOUN forward/ADV as/SCONJ if/SCONJ to/PART catch/VERB something/PRON#0.0#0.0
+raising hands then again.#raise/VERB hand/NOUN then/ADV again/ADV#0.0#0.0
+a person raised the right hand and showed some jesture#a/DET person/NOUN raise/VERB the/DET right/ADJ hand/NOUN and/CCONJ show/VERB some/DET jesture/NOUN#0.0#0.0

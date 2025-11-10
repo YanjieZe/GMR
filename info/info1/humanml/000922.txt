@@ -1,0 +1,3 @@
+peeson hops on 1 leg in a spiral pattern the switches legs and continues.#peeson/PROPN hop/VERB on/ADP leg/NOUN in/ADP a/DET spiral/ADJ pattern/NOUN the/DET switch/NOUN leg/NOUN and/CCONJ continue/VERB#0.0#0.0
+a person hops on one leg in a circle#a/DET person/NOUN hop/VERB on/ADP one/NUM leg/NOUN in/ADP a/DET circle/NOUN#0.0#0.0
+a person hops on his right foot in a oval pattern and before completing the shape hops on his left foot inside the oval shape.#a/DET person/NOUN hop/VERB on/ADP his/DET right/ADJ foot/NOUN in/ADP a/DET oval/ADJ pattern/NOUN and/CCONJ before/ADP complete/VERB the/DET shape/NOUN hop/VERB on/ADP his/DET left/ADJ foot/NOUN inside/ADP the/DET oval/ADJ shape/NOUN#0.0#0.0

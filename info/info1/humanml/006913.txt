@@ -1,0 +1,3 @@
+a person brings his and to his face to cry#a/DET person/NOUN bring/VERB his/PRON and/CCONJ to/ADP his/DET face/NOUN to/PART cry/VERB#0.0#0.0
+a person lifts their hands to their head, then holds their head in their hands while oscillating their head back and forth.#a/DET person/NOUN lift/VERB their/DET hand/NOUN to/ADP their/DET head/NOUN then/ADV hold/VERB their/DET head/NOUN in/ADP their/DET hand/NOUN while/SCONJ oscillate/VERB their/DET head/NOUN back/ADV and/CCONJ forth/ADV#0.0#0.0
+a person holds both hands up to his face and shakes.#a/DET person/NOUN hold/VERB both/DET hand/NOUN up/ADP to/ADP his/DET face/NOUN and/CCONJ shake/NOUN#0.0#0.0

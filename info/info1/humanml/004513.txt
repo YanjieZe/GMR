@@ -1,0 +1,3 @@
+a man moves fowards and staggers to the left side  and then moves fowards making a s shape.#a/DET man/NOUN move/VERB foward/NOUN and/CCONJ stagger/NOUN to/ADP the/DET left/ADJ side/NOUN and/CCONJ then/ADV move/VERB foward/NOUN make/VERB a/DET s/PROPN shape/NOUN#0.0#0.0
+person walks in a straight line, trips on something then moves back#person/NOUN walk/VERB in/ADP a/DET straight/ADJ line/NOUN trip/VERB on/ADP something/PRON then/ADV move/VERB back/ADV#0.0#0.0
+a person takes three steps before stumbling and taking a slight back step to thier left.#a/DET person/NOUN take/VERB three/NUM step/NOUN before/ADP stumble/VERB and/CCONJ take/VERB a/DET slight/ADJ back/ADJ step/NOUN to/ADP thier/VERB left/VERB#0.0#0.0

@@ -1,0 +1,3 @@
+person is crouching down like a tiger.#person/NOUN is/AUX crouch/VERB down/ADP like/SCONJ a/DET tiger/NOUN#0.0#0.0
+a person looks down and moves their hands around in front of their thighs.#a/DET person/NOUN look/VERB down/ADP and/CCONJ move/VERB their/DET hand/NOUN around/ADV in/ADP front/NOUN of/ADP their/DET thigh/NOUN#0.0#0.0
+person standing bends slightly forward and moves hands around in front of thighs#person/NOUN stand/VERB bend/NOUN slightly/ADV forward/ADV and/CCONJ move/VERB hand/NOUN around/ADV in/ADP front/NOUN of/ADP thigh/NOUN#0.0#0.0

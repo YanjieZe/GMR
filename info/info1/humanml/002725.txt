@@ -1,0 +1,3 @@
+man is putting his phone in his hip pocket.#man/NOUN is/AUX put/VERB his/DET phone/NOUN in/ADP his/DET hip/NOUN pocket/NOUN#0.0#0.0
+a person hold something in their hand and pits it in the pocket.#a/DET person/NOUN hold/VERB something/PRON in/ADP their/DET hand/NOUN and/CCONJ pit/VERB it/PRON in/ADP the/DET pocket/NOUN#0.0#0.0
+someone taking one step back, then one step forward.#someone/PRON take/VERB one/NUM step/NOUN back/ADV then/ADV one/NUM step/NOUN forward/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a man is holding hands to mouth as if to shout from side to side.#a/DET man/NOUN is/AUX hold/VERB hand/NOUN to/ADP mouth/NOUN as/SCONJ if/SCONJ to/PART shout/VERB from/ADP side/NOUN to/ADP side/NOUN#0.0#0.0
+the sim is standing still, raises both their arms to their mouth & swaying slightly.#the/DET sim/PROPN is/AUX stand/VERB still/ADV raise/VERB both/CCONJ their/DET arm/NOUN to/ADP their/DET mouth/NOUN sway/VERB slightly/ADV#0.0#0.0
+person has their hands around their mouth like they're shouting on the spot#person/NOUN has/AUX their/DET hand/NOUN around/ADP their/DET mouth/NOUN like/SCONJ they/PRON shout/VERB on/ADP the/DET spot/NOUN#0.0#0.0

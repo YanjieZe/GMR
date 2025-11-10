@@ -1,0 +1,3 @@
+somebody is giving hand gestures.#somebody/PRON is/AUX give/VERB hand/NOUN gesture/NOUN#0.0#0.0
+the person was a basketball coach.#the/DET person/NOUN was/AUX a/DET basketball/NOUN coach/NOUN#0.0#0.0
+a person waves their arms in a safe gesture, then points to their body then points forward.#a/DET person/NOUN wave/VERB their/DET arm/NOUN in/ADP a/DET safe/ADJ gesture/NOUN then/ADV point/VERB to/ADP their/DET body/NOUN then/ADV point/VERB forward/ADV#0.0#0.0

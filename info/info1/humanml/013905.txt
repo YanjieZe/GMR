@@ -1,0 +1,3 @@
+this person is bent forward and moving hands very quickly.#this/DET person/NOUN is/AUX bent/ADJ forward/ADV and/CCONJ move/VERB hand/NOUN very/ADV quickly/ADV#0.0#0.0
+the man is pretending to be mouse i think#the/DET man/NOUN is/AUX pretend/VERB to/PART be/AUX mouse/NOUN i/PRON think/VERB#0.0#0.0
+spinning hands in a circle while bending down.#spin/VERB hand/NOUN in/ADP a/DET circle/NOUN while/SCONJ bend/VERB down/ADP#0.0#0.0

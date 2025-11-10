@@ -1,0 +1,3 @@
+a person picks up something with their let hand then uses it to clean something#a/DET person/NOUN pick/VERB up/ADP something/PRON with/ADP their/DET let/VERB hand/NOUN then/ADV use/VERB it/PRON to/PART clean/VERB something/PRON#0.0#0.0
+the person is washing they’re right arm.#the/DET person/NOUN is/AUX wash/VERB they/PRON right/ADJ arm/NOUN#0.0#0.0
+a person grabbed something with right and and put it somewhere#a/DET person/NOUN grab/VERB something/PRON with/ADP right/NOUN and/CCONJ and/CCONJ put/VERB it/PRON somewhere/ADV#0.0#10.0

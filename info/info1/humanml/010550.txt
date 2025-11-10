@@ -1,0 +1,3 @@
+a person is waving their arms.#a/DET person/NOUN is/AUX wave/VERB their/DET arm/NOUN#0.0#0.0
+moving arms around near chest.#move/VERB arm/NOUN around/ADV near/SCONJ chest/NOUN#0.0#0.0
+the person looks like he’s tying a big bow.#the/DET person/NOUN look/VERB like/SCONJ he/PRON tie/VERB a/DET big/ADJ bow/NOUN#0.0#0.0

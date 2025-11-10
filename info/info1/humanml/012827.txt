@@ -1,0 +1,3 @@
+beginning with it's right leg, a stick figure takes wide steps walking from the bottom left to the top right.#begin/VERB with/ADP it/PRON right/ADJ leg/NOUN a/DET stick/NOUN figure/NOUN take/VERB wide/ADJ step/NOUN walk/VERB from/ADP the/DET bottom/NOUN left/VERB to/ADP the/DET top/NOUN right/ADV#0.0#0.0
+a person walks forward with their legs spread far apart.#a/DET person/NOUN walk/VERB forward/ADV with/ADP their/DET leg/NOUN spread/VERB far/ADV apart/ADV#0.0#0.0
+a person turns anticlockwise walks then turns slightly left#a/DET person/NOUN turn/VERB anticlockwise/NOUN walk/VERB then/ADV turn/VERB slightly/ADV left/VERB#0.0#10.0

@@ -1,0 +1,3 @@
+a standing person jogs slowly to the right, then to the left, then stops at the center.#a/DET stand/VERB person/NOUN jog/VERB slowly/ADV to/ADP the/DET right/NOUN then/ADV to/ADP the/DET left/NOUN then/ADV stop/VERB at/ADP the/DET center/NOUN#0.0#0.0
+a person jogging back-and-forth turning 180° every few steps.#a/DET person/NOUN jog/VERB backandforth/PROPN turn/VERB every/DET few/ADJ step/NOUN#0.0#0.0
+a person turns and runs to the right and then turns to run to the left.#a/DET person/NOUN turn/VERB and/CCONJ run/VERB to/ADP the/DET right/NOUN and/CCONJ then/ADV turn/VERB to/PART run/VERB to/ADP the/DET left/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks slightly to the side, crouches slightly and pushes before walking back.#a/DET person/NOUN walk/VERB slightly/ADV to/ADP the/DET side/NOUN crouch/NOUN slightly/ADV and/CCONJ push/NOUN before/ADP walk/VERB back/ADV#0.0#0.0
+a man steps towards the right, pushes an object with both arms and then steps in the opposite direction.#a/DET man/NOUN step/VERB towards/ADP the/DET right/NOUN push/VERB an/DET object/NOUN with/ADP both/DET arm/NOUN and/CCONJ then/ADV step/VERB in/ADP the/DET opposite/ADJ direction/NOUN#0.0#0.0
+a person steps left, pushes something forward then walks away.#a/DET person/NOUN step/VERB left/VERB push/VERB something/PRON forward/ADV then/ADV walk/VERB away/ADV#0.0#0.0

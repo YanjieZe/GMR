@@ -1,0 +1,3 @@
+a person standing in one position raises their right arm, then waves.#a/DET person/NOUN stand/VERB in/ADP one/NUM position/NOUN raise/VERB their/DET right/ADJ arm/NOUN then/ADV wave/NOUN#0.0#0.0
+a person lifts up their right arm and waves it high in the air four times then puts their arm down.#a/DET person/NOUN lift/VERB up/ADP their/DET right/ADJ arm/NOUN and/CCONJ wave/NOUN it/PRON high/ADJ in/ADP the/DET air/NOUN four/NUM time/NOUN then/ADV put/VERB their/DET arm/NOUN down/ADP#0.0#0.0
+a person makes a large waving motion with their right arm.#a/DET person/NOUN make/VERB a/DET large/ADJ waving/NOUN motion/NOUN with/ADP their/DET right/ADJ arm/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person is laughing and shaking their arms around#a/DET person/NOUN is/AUX laugh/VERB and/CCONJ shake/VERB their/DET arm/NOUN around/ADV#0.0#0.0
+the stickperson is at a certain angle#the/DET stickperson/NOUN is/AUX at/ADP a/DET certain/ADJ angle/NOUN#5.0#9.0
+the person is laughing swinging his arms around.#the/DET person/NOUN is/AUX laugh/VERB swinge/VERB his/DET arm/NOUN around/ADV#0.0#0.0

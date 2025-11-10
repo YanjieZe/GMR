@@ -1,0 +1,3 @@
+the person is sitting down.#the/DET person/NOUN is/AUX sit/VERB down/ADP#0.0#0.0
+a person drops down with its hand going up to its chest#a/DET person/NOUN drop/VERB down/ADP with/ADP its/DET hand/NOUN go/VERB up/ADP to/ADP its/DET chest/NOUN#0.0#0.0
+a person shakes their head and shoulders while squatting.#a/DET person/NOUN shake/VERB their/DET head/NOUN and/CCONJ shoulder/NOUN while/SCONJ squat/VERB#0.0#0.0

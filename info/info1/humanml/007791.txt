@@ -1,0 +1,3 @@
+a person is pushed by an unseen force, before they recover.#a/DET person/NOUN is/AUX push/VERB by/ADP an/DET unseen/ADJ force/NOUN before/ADP they/PRON recover/VERB#0.0#0.0
+a person slightly moved left#a/DET person/NOUN slightly/ADV move/VERB left/ADV#0.0#0.0
+a person gets bumped by something and stumbles to their right#a/DET person/NOUN get/VERB bump/VERB by/ADP something/PRON and/CCONJ stumble/NOUN to/ADP their/DET right/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person moves to the left side and then to the right side, then stops#a/DET person/NOUN move/VERB to/ADP the/DET left/ADJ side/NOUN and/CCONJ then/ADV to/ADP the/DET right/ADJ side/NOUN then/ADV stop/VERB#0.0#0.0
+a person sidesteps back and forth.#a/DET person/NOUN sidestep/VERB back/ADV and/CCONJ forth/ADV#0.0#0.0
+a man sidesteps from the right to the left multiple times.#a/DET man/NOUN sidestep/VERB from/ADP the/DET right/NOUN to/ADP the/DET left/ADJ multiple/ADJ time/NOUN#0.0#0.0

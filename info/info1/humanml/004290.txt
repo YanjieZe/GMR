@@ -1,0 +1,3 @@
+a man walks in a s-shape.#a/DET man/NOUN walk/VERB in/ADP a/DET sshape/NOUN#0.0#0.0
+a person takes two large steps, turns right, and then walks back and fourth in a wide "s" shape.#a/DET person/NOUN take/VERB two/NUM large/ADJ step/NOUN turn/VERB right/ADJ and/CCONJ then/ADV walk/VERB back/ADV and/CCONJ fourth/ADJ in/ADP a/DET wide/ADJ s/PART shape/NOUN#0.0#0.0
+a person walks in the shape of an s#a/DET person/NOUN walk/VERB in/ADP the/DET shape/NOUN of/ADP an/DET s/NOUN#0.0#0.0

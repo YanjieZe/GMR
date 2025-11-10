@@ -1,0 +1,3 @@
+a person spins while pivoting on their left leg.#a/DET person/NOUN spin/VERB while/SCONJ pivot/VERB on/ADP their/DET left/ADJ leg/NOUN#0.0#0.0
+a person shifting in different directions as in basketball when a person is trying to take the ball from you.#a/DET person/NOUN shift/VERB in/ADP different/ADJ direction/NOUN as/SCONJ in/ADP basketball/NOUN when/ADV a/DET person/NOUN is/AUX try/VERB to/PART take/VERB the/DET ball/NOUN from/ADP you/PRON#0.0#0.0
+a person pivots on their left foot 4 times in various directions.#a/DET person/NOUN pivot/VERB on/ADP their/DET left/ADJ foot/NOUN time/NOUN in/ADP various/ADJ direction/NOUN#0.0#0.0

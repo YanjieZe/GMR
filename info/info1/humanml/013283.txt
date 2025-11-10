@@ -1,0 +1,3 @@
+a person tred to stay on hands vertically#a/DET person/NOUN tre/VERB to/PART stay/VERB on/ADP hand/NOUN vertically/ADV#0.0#10.0
+the person does a handstand and falls back down.#the/DET person/NOUN does/AUX a/DET handstand/NOUN and/CCONJ fall/VERB back/ADV down/ADV#0.0#0.0
+a person seems to fall then does a handstand on both hands, takes a few steps back, then leans forward and places their right hand on the ground.#a/DET person/NOUN seem/VERB to/PART fall/VERB then/ADV does/AUX a/DET handstand/NOUN on/ADP both/DET hand/NOUN take/VERB a/DET few/ADJ step/NOUN back/ADV then/ADV lean/VERB forward/ADV and/CCONJ place/VERB their/DET right/ADJ hand/NOUN on/ADP the/DET ground/NOUN#0.0#0.0

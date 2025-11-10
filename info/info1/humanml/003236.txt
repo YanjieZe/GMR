@@ -1,0 +1,3 @@
+a man land leans forward, then takes a small step forward#a/DET man/NOUN land/NOUN lean/NOUN forward/ADV then/ADV take/VERB a/DET small/ADJ step/NOUN forward/ADV#0.0#0.0
+a person trips and stumbles forward.#a/DET person/NOUN trip/VERB and/CCONJ stumble/NOUN forward/ADV#0.0#0.0
+person bends forward as if having stumbled.#person/NOUN bend/VERB forward/ADV as/SCONJ if/SCONJ have/VERB stumble/VERB#0.0#0.0

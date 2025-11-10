@@ -1,0 +1,3 @@
+a person jumps one time and then walks forward.#a/DET person/NOUN jump/VERB one/NUM time/NOUN and/CCONJ then/ADV walk/VERB forward/ADV#0.0#0.0
+a person hops in the air and then walks foward.#a/DET person/NOUN hop/VERB in/ADP the/DET air/NOUN and/CCONJ then/ADV walk/VERB foward/ADJ#0.0#0.0
+a person jumps straight up, then walks a few steps forward.#a/DET person/NOUN jump/VERB straight/ADV up/ADV then/ADV walk/VERB a/DET few/ADJ step/NOUN forward/ADV#0.0#0.0

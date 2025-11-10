@@ -1,0 +1,3 @@
+a person looks down to the ground, steps back with the left foot, and then right, squats to sit down.#a/DET person/NOUN look/VERB down/ADP to/ADP the/DET ground/NOUN step/VERB back/ADV with/ADP the/DET left/ADJ foot/NOUN and/CCONJ then/ADV right/INTJ squat/VERB to/PART sit/VERB down/ADP#0.0#0.0
+a person takes a step back and assumes a sitting position, then stands back up.#a/DET person/NOUN take/VERB a/DET step/NOUN back/ADV and/CCONJ assume/VERB a/DET sit/VERB position/NOUN then/ADV stand/VERB back/ADV up/ADV#0.0#0.0
+a person stepping back, sitting down, then getting back up and walking forward#a/DET person/NOUN step/VERB back/ADV sit/VERB down/ADP then/ADV get/VERB back/ADV up/ADV and/CCONJ walk/VERB forward/ADV#0.0#0.0

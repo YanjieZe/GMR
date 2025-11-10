@@ -1,0 +1,3 @@
+person steps forward holding item with both hands leant forward#person/NOUN step/VERB forward/ADV hold/VERB item/NOUN with/ADP both/DET hand/NOUN leant/ADJ forward/ADV#0.0#0.0
+man leans forward then backwards and then he bends down#man/PROPN lean/VERB forward/ADV then/ADV backwards/ADV and/CCONJ then/ADV he/PRON bend/VERB down/ADP#0.0#10.0
+a person grabed somethng from the floor and carry it to other place#a/DET person/NOUN grab/VERB somethng/NOUN from/ADP the/DET floor/NOUN and/CCONJ carry/VERB it/PRON to/ADP other/ADJ place/NOUN#0.0#0.0

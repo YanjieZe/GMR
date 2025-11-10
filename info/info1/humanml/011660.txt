@@ -1,0 +1,3 @@
+a person walks straight forward down some steps with their left hand on something.#a/DET person/NOUN walk/VERB straight/ADV forward/ADV down/ADV some/DET step/NOUN with/ADP their/DET left/ADJ hand/NOUN on/ADP something/PRON#0.0#0.0
+a person is climbing down the stairs while gripping a railing with their left hand.#a/DET person/NOUN is/AUX climb/VERB down/ADP the/DET stair/NOUN while/SCONJ grip/VERB a/DET railing/NOUN with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0
+the person is walking downstairs holding onto a rail.#the/DET person/NOUN is/AUX walk/VERB downstairs/ADV hold/VERB onto/ADP a/DET rail/NOUN#0.0#0.0

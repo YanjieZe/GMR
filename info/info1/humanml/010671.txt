@@ -1,0 +1,3 @@
+a person lunges forward with one foot, reaching his arms out at the same time; this happens twice.#a/DET person/NOUN lunge/VERB forward/ADV with/ADP one/NUM foot/NOUN reach/VERB his/DET arm/NOUN out/ADV at/ADP the/DET same/ADJ time/NOUN this/DET happen/VERB twice/ADV#0.0#0.0
+the toon is standing at an angle, appearing to be swinging a baseball bat & tossing back the ball.#the/DET toon/NOUN is/AUX stand/VERB at/ADP an/DET angle/NOUN appear/VERB to/PART be/AUX swinge/VERB a/DET baseball/NOUN bat/NOUN toss/VERB back/ADP the/DET ball/NOUN#0.0#6.0
+a right-handed batter bunts a baseball.#a/DET righthanded/ADJ batter/NOUN bunt/VERB a/DET baseball/NOUN#0.0#0.0

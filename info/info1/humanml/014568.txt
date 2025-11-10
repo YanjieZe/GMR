@@ -1,0 +1,3 @@
+a person, standing with both arms resting at their sides and slightly bent at the elbow, moves around seeming to look for something.#a/DET person/NOUN stand/VERB with/ADP both/DET arm/NOUN rest/VERB at/ADP their/DET side/NOUN and/CCONJ slightly/ADV bent/ADJ at/ADP the/DET elbow/NOUN move/VERB around/ADP seem/VERB to/PART look/VERB for/ADP something/PRON#0.0#0.0
+person is turning slowly and cautiously#person/NOUN is/AUX turn/VERB slowly/ADV and/CCONJ cautiously/ADV#0.0#0.0
+the person is looking around posing and looking up.#the/DET person/NOUN is/AUX look/VERB around/ADV pose/VERB and/CCONJ look/VERB up/ADP#0.0#0.0

@@ -1,0 +1,3 @@
+well 8 rir it three years ago#well/INTJ rir/VERB it/PRON three/NUM year/NOUN ago/ADV#3.0#4.0
+the person is walking on something moving.#the/DET person/NOUN is/AUX walk/VERB on/ADP something/PRON move/VERB#0.0#0.0
+the person is walking forward and trying to balance theirself with their arms,#the/DET person/NOUN is/AUX walk/VERB forward/ADV and/CCONJ try/VERB to/PART balance/VERB theirself/PRON with/ADP their/DET arm/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+the person walks quickly across the grey board in a wide stance along trajectory of the blue line like he's trying to walk over something.#the/DET person/NOUN walk/VERB quickly/ADV across/ADP the/DET grey/PROPN board/PROPN in/ADP a/DET wide/ADJ stance/NOUN along/ADP trajectory/NUM of/ADP the/DET blue/ADJ line/NOUN like/SCONJ he/PRON try/VERB to/PART walk/VERB over/ADP something/PRON#0.0#0.0
+walking southeast at a relatively quick pace with slight rotation of the hips.#walk/VERB southeast/ADV at/ADP a/DET relatively/ADV quick/ADJ pace/NOUN with/ADP slight/ADJ rotation/NOUN of/ADP the/DET hip/NOUN#0.0#0.0
+the person is walking forward.#the/DET person/NOUN is/AUX walk/VERB forward/ADV#0.0#0.0

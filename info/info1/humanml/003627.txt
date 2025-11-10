@@ -1,0 +1,3 @@
+a person is lying down then stands up#a/DET person/NOUN is/AUX lie/VERB down/ADP then/ADV stand/VERB up/ADP#0.0#0.0
+a person gets up from laying, to stand#a/DET person/NOUN get/VERB up/ADV from/ADP lay/VERB to/PART stand/VERB#0.0#0.0
+a person getting up from the floor#a/DET person/NOUN get/VERB up/ADP from/ADP the/DET floor/NOUN#0.0#0.0

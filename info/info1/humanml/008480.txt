@@ -1,0 +1,3 @@
+kirsten kicked some thing and then push some thing.#kirsten/PROPN kick/VERB some/DET thing/NOUN and/CCONJ then/ADV push/VERB some/DET thing/NOUN#0.0#0.0
+person throws a kick and then does pushing motion#person/NOUN throw/VERB a/DET kick/NOUN and/CCONJ then/ADV does/AUX push/VERB motion/NOUN#0.0#0.0
+a person does a high kick with his right leg and then pushes out with both hands.#a/DET person/NOUN does/AUX a/DET high/ADJ kick/NOUN with/ADP his/DET right/ADJ leg/NOUN and/CCONJ then/ADV push/VERB out/ADP with/ADP both/DET hand/NOUN#0.0#0.0

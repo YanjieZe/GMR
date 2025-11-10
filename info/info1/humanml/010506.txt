@@ -1,0 +1,3 @@
+the person put his arms up and down to the side.#the/DET person/NOUN put/VERB his/DET arm/NOUN up/ADV and/CCONJ down/ADV to/ADP the/DET side/NOUN#0.0#0.0
+man standing with knees slightly bent and arms up to his side, then lowers hands to knees while knees still bent#man/NOUN stand/VERB with/ADP knee/NOUN slightly/ADV bent/ADJ and/CCONJ arm/NOUN up/ADV to/ADP his/DET side/NOUN then/ADV lower/VERB hand/NOUN to/ADP knee/NOUN while/SCONJ knee/NOUN still/ADV bent/ADJ#0.0#0.0
+putting arms on legs and staying still#put/VERB arm/NOUN on/ADP leg/NOUN and/CCONJ stay/VERB still/ADV#0.0#0.0

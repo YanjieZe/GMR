@@ -1,0 +1,3 @@
+a person is crouched and shaking.#a/DET person/NOUN is/AUX crouch/VERB and/CCONJ shake/VERB#0.0#0.0
+a person appears to be sitting down.#a/DET person/NOUN appear/VERB to/PART be/AUX sit/VERB down/ADP#0.0#0.0
+a person in a seated position, facing away from the camera, has both arms bend at the elbows with hands held up by the face.#a/DET person/NOUN in/ADP a/DET seated/ADJ position/NOUN face/VERB away/ADV from/ADP the/DET camera/NOUN has/AUX both/DET arm/NOUN bend/NOUN at/ADP the/DET elbow/NOUN with/ADP hand/NOUN hold/VERB up/ADP by/ADP the/DET face/NOUN#0.0#0.0

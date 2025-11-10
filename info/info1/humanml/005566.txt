@@ -1,0 +1,3 @@
+a person sits down and stands up.#a/DET person/NOUN sit/VERB down/ADP and/CCONJ stand/VERB up/ADP#0.0#0.0
+a person sits down and then stands back up.#a/DET person/NOUN sit/VERB down/ADV and/CCONJ then/ADV stand/VERB back/ADV up/ADV#0.0#0.0
+person sits in chair and then stands back up#person/NOUN sit/VERB in/ADP chair/NOUN and/CCONJ then/ADV stand/VERB back/ADV up/ADV#0.0#0.0

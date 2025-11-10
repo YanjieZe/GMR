@@ -1,0 +1,3 @@
+a person stands still and waves with their right hand.#a/DET person/NOUN stand/VERB still/ADV and/CCONJ wave/NOUN with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+the figure raises its left hand at face level and wiggles it sporadically around its face.#the/DET figure/NOUN raise/VERB its/DET left/ADJ hand/NOUN at/ADP face/NOUN level/NOUN and/CCONJ wiggle/VERB it/PRON sporadically/ADV around/ADP its/DET face/NOUN#0.0#0.0
+a person is moving their right hand back and forth in front of their face.#a/DET person/NOUN is/AUX move/VERB their/DET right/ADJ hand/NOUN back/ADV and/CCONJ forth/ADV in/ADP front/NOUN of/ADP their/DET face/NOUN#0.0#0.0

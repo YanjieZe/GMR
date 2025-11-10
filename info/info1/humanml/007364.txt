@@ -1,0 +1,3 @@
+grabs leg, kicks leg out, then twists leg inward and then outward.#grabs/PROPN leg/PROPN kick/NOUN leg/VERB out/ADP then/ADV twist/VERB leg/NOUN inward/ADV and/CCONJ then/ADV outward/ADV#0.0#0.0
+the person is stretching his right knee after exercising.#the/DET person/NOUN is/AUX stretch/VERB his/DET right/ADJ knee/NOUN after/ADP exercise/VERB#0.0#0.0
+a person is holding on to their right leg, and moving it around.#a/DET person/NOUN is/AUX hold/VERB on/ADP to/ADP their/DET right/ADJ leg/NOUN and/CCONJ move/VERB it/PRON around/ADV#0.0#0.0

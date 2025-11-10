@@ -1,0 +1,3 @@
+a person slowly takes four steps forward.#a/DET person/NOUN slowly/ADV take/VERB four/NUM step/NOUN forward/ADV#0.0#0.0
+a person walks forward four steps.#a/DET person/NOUN walk/VERB forward/ADV four/NUM step/NOUN#0.0#0.0
+person is walking down carefully.#person/NOUN is/AUX walk/VERB down/ADP carefully/ADV#0.0#0.0

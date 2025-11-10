@@ -1,0 +1,3 @@
+a person crosses and then uncrosses their arms.#a/DET person/NOUN cross/VERB and/CCONJ then/ADV uncross/VERB their/DET arm/NOUN#0.0#0.0
+arms are crossed in front of body and then lowered back down to the person's side.#arm/NOUN are/AUX cross/VERB in/ADP front/NOUN of/ADP body/NOUN and/CCONJ then/ADV lower/VERB back/ADV down/ADV to/ADP the/DET person/NOUN side/NOUN#0.0#0.0
+a person scratches their arm.#a/DET person/NOUN scratch/VERB their/DET arm/NOUN#0.0#0.0

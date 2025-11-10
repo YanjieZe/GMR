@@ -1,0 +1,3 @@
+person doing cross cable exercise#person/NOUN do/VERB cross/NOUN cable/NOUN exercise/NOUN#0.0#0.0
+man puts arms up and the touches his hands together twice before putting his arms down again,#man/NOUN put/VERB arm/NOUN up/ADV and/CCONJ the/DET touch/NOUN his/DET hand/NOUN together/ADV twice/ADV before/ADP put/VERB his/DET arm/NOUN down/ADV again/ADV#0.0#0.0
+the man claps his hands very big then raises his hands in the air.#the/DET man/NOUN clap/VERB his/DET hand/NOUN very/ADV big/ADJ then/ADV raise/VERB his/DET hand/NOUN in/ADP the/DET air/NOUN#0.0#0.0

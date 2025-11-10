@@ -1,0 +1,3 @@
+a person grabebd something with left hand and went backwards#a/DET person/NOUN grabebd/NOUN something/PRON with/ADP left/ADJ hand/NOUN and/CCONJ go/VERB backwards/ADV#0.0#0.0
+a man is standing with his right arm stretched out, as if to be pouring some thing with that hand. then the man takes two steps diagonally backwards and stops.#a/DET man/NOUN is/AUX stand/VERB with/ADP his/DET right/ADJ arm/NOUN stretch/VERB out/ADP as/SCONJ if/SCONJ to/PART be/AUX pour/VERB some/DET thing/NOUN with/ADP that/DET hand/NOUN then/ADV the/DET man/NOUN take/VERB two/NUM step/NOUN diagonally/ADV backwards/ADV and/CCONJ stop/NOUN#0.0#0.0
+the man is pouring and mixing#the/DET man/NOUN is/AUX pour/VERB and/CCONJ mix/VERB#0.0#0.0

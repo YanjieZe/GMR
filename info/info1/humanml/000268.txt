@@ -1,0 +1,3 @@
+someone slouched in a sitting position gets up and begins walking in a circle.#someone/PRON slouch/VERB in/ADP a/DET sit/VERB position/NOUN get/VERB up/ADP and/CCONJ begin/VERB walk/VERB in/ADP a/DET circle/NOUN#0.0#0.0
+a person is sitting on the ground, then stands up and walks in a circle.#a/DET person/NOUN is/AUX sit/VERB on/ADP the/DET ground/NOUN then/ADV stand/VERB up/ADP and/CCONJ walk/VERB in/ADP a/DET circle/NOUN#0.0#0.0
+sit on bottom, get up normally, walk in a nearly whole circle starting left and circling back to the starting point#sit/VERB on/ADP bottom/NOUN get/AUX up/ADP normally/ADV walk/VERB in/ADP a/DET nearly/ADV whole/ADJ circle/NOUN start/VERB left/VERB and/CCONJ circle/VERB back/ADV to/ADP the/DET starting/NOUN point/NOUN#0.0#0.0

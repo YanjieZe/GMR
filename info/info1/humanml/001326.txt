@@ -1,0 +1,3 @@
+a person is walking forward while limping on the left leg.#a/DET person/NOUN is/AUX walk/VERB forward/ADV while/SCONJ limp/VERB on/ADP the/DET left/ADJ leg/NOUN#0.0#0.0
+someone walks forward whith difficulty#someone/PRON walk/VERB forward/ADV whith/PROPN difficulty/NOUN#0.0#0.0
+a person takes 2 steps and then steps over something and continues walking.#a/DET person/NOUN take/VERB step/NOUN and/CCONJ then/ADV step/VERB over/ADP something/PRON and/CCONJ continue/VERB walk/VERB#0.0#0.0

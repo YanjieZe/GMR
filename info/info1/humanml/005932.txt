@@ -1,0 +1,3 @@
+a person stretches their hips, then arms, then bends forwards and steps forwards.#a/DET person/NOUN stretch/VERB their/DET hip/NOUN then/ADV arm/NOUN then/ADV bend/VERB forwards/ADJ and/CCONJ step/NOUN forwards/ADV#0.0#0.0
+the person is standing still doing body stretches.#the/DET person/NOUN is/AUX stand/VERB still/ADV do/VERB body/NOUN stretch/NOUN#0.0#0.0
+person stands and holds hips moves left to right  raises left and right arms and walks forward#person/NOUN stand/VERB and/CCONJ hold/VERB hips/PROPN move/NOUN left/VERB to/ADP right/ADJ raise/VERB left/VERB and/CCONJ right/ADJ arm/NOUN and/CCONJ walk/VERB forward/ADV#0.0#0.0

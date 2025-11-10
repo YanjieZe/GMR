@@ -1,0 +1,3 @@
+the man reaches with his right hand to the ground then into the air.#the/DET man/NOUN reach/VERB with/ADP his/DET right/ADJ hand/NOUN to/ADP the/DET ground/NOUN then/ADV into/ADP the/DET air/NOUN#0.0#0.0
+a person using right hand to reach for item at waist height, then above head height, and then on the floor.#a/DET person/NOUN use/VERB right/ADJ hand/NOUN to/PART reach/VERB for/ADP item/NOUN at/ADP waist/NOUN height/NOUN then/ADV above/ADP head/NOUN height/ADV and/CCONJ then/ADV on/ADP the/DET floor/NOUN#nan#0.0
+the person moves its right arm across the body toward the left and punches.#the/DET person/NOUN move/VERB its/DET right/ADJ arm/NOUN across/ADP the/DET body/NOUN toward/ADP the/DET left/NOUN and/CCONJ punch/NOUN#0.0#2.0

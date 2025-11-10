@@ -1,0 +1,3 @@
+a person walks in a twisting path to the right and then to the left.#a/DET person/NOUN walk/VERB in/ADP a/DET twisting/NOUN path/NOUN to/ADP the/DET right/NOUN and/CCONJ then/ADV to/ADP the/DET left/NOUN#0.0#0.0
+a man walks around, pacing in a circular counter-clockwise motion, then comes to a slight halt.#a/DET man/NOUN walk/VERB around/ADV pace/VERB in/ADP a/DET circular/ADJ counterclockwise/NOUN motion/NOUN then/ADV come/VERB to/ADP a/DET slight/ADJ halt/NOUN#nan#0.0
+a person walks in a unique path/direction.#a/DET person/NOUN walk/VERB in/ADP a/DET unique/ADJ path/NOUN direction/NOUN#0.0#0.0

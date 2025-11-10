@@ -1,0 +1,3 @@
+a person kicks their right foot in front of them in a dangling motion and then puts it back on the ground.#a/DET person/NOUN kick/VERB their/DET right/ADJ foot/NOUN in/ADP front/NOUN of/ADP them/PRON in/ADP a/DET dangling/ADJ motion/NOUN and/CCONJ then/ADV put/VERB it/PRON back/ADV on/ADP the/DET ground/NOUN#0.0#0.0
+a person steps forward and kicks an object.#a/DET person/NOUN step/VERB forward/ADV and/CCONJ kick/VERB an/DET object/NOUN#0.0#0.0
+a person steps forward and kicks their right foot sideways.#a/DET person/NOUN step/VERB forward/ADV and/CCONJ kick/VERB their/DET right/ADJ foot/NOUN sideways/ADV#0.0#0.0

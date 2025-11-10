@@ -1,0 +1,3 @@
+a person moves their hands up above their head, appearing to stretch their back.#a/DET person/NOUN move/VERB their/DET hand/NOUN up/ADP above/ADP their/DET head/NOUN appear/VERB to/PART stretch/VERB their/DET back/NOUN#0.0#0.0
+the person is doing arm warm-ups.#the/DET person/NOUN is/AUX do/VERB arm/NOUN warmup/NOUN#0.0#0.0
+a person doing lateral streches left to right.#a/DET person/NOUN do/VERB lateral/ADJ streche/NOUN left/VERB to/ADP right/ADJ#0.0#0.0

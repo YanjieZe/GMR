@@ -1,0 +1,3 @@
+a person taking 2 steps forward to lean on a table, checks under the table, and finally returns to original spot.#a/DET person/NOUN take/VERB step/NOUN forward/ADV to/PART lean/VERB on/ADP a/DET table/NOUN check/NOUN under/ADP the/DET table/NOUN and/CCONJ finally/ADV return/VERB to/ADP original/ADJ spot/NOUN#0.0#0.0
+a person bends over and walks back.#a/DET person/NOUN bend/VERB over/ADP and/CCONJ walk/VERB back/ADV#0.0#0.0
+a person takes a step forward, then bends over while trying to reach something underneath him#a/DET person/NOUN take/VERB a/DET step/NOUN forward/ADV then/ADV bend/VERB over/ADP while/SCONJ try/VERB to/PART reach/VERB something/PRON underneath/ADP him/PRON#0.0#0.0

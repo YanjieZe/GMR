@@ -1,0 +1,3 @@
+a person stretches with both arms out wide#a/DET person/NOUN stretch/VERB with/ADP both/DET arm/NOUN out/ADV wide/ADV#0.0#0.0
+someone stretches their arms above their head and lowers them down by their sides.#someone/PRON stretch/VERB their/DET arm/NOUN above/ADP their/DET head/NOUN and/CCONJ lower/VERB them/PRON down/ADP by/ADP their/DET side/NOUN#0.0#0.0
+the man stretches very big.#the/DET man/NOUN stretch/VERB very/ADV big/ADJ#0.0#0.0

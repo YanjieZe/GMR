@@ -1,0 +1,3 @@
+a person steps up onto something long, walks across it, then steps down on the other side#a/DET person/NOUN step/VERB up/ADP onto/ADP something/PRON long/ADJ walk/VERB across/ADP it/PRON then/ADV step/VERB down/ADP on/ADP the/DET other/ADJ side/NOUN#0.0#0.0
+person steps on platform and walks forward#person/NOUN step/VERB on/ADP platform/NOUN and/CCONJ walk/VERB forward/ADV#0.0#0.0
+a man steps up to elevated surface and then steps down#a/DET man/NOUN step/VERB up/ADP to/ADP elevated/ADJ surface/NOUN and/CCONJ then/ADV step/VERB down/ADV#0.0#0.0

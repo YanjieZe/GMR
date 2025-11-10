@@ -1,0 +1,2 @@
+a person limps forward while holding his side.#a/DET person/NOUN limp/VERB forward/ADV while/SCONJ hold/VERB his/DET side/NOUN#0.0#0.0
+the person is walking with a limp.#the/DET person/NOUN is/AUX walk/VERB with/ADP a/DET limp/NOUN#0.0#0.0

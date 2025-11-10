@@ -1,0 +1,3 @@
+a person walks forward and then turns to their right and walks back to the original space.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ then/ADV turn/VERB to/ADP their/DET right/NOUN and/CCONJ walk/VERB back/ADV to/ADP the/DET original/ADJ space/NOUN#0.0#0.0
+a person walks forward, spins, and walks back in the direction they came.#a/DET person/NOUN walk/VERB forward/ADV spin/NOUN and/CCONJ walk/VERB back/ADV in/ADP the/DET direction/NOUN they/PRON come/VERB#0.0#0.0
+the person walks forward then quickly turns right#the/DET person/NOUN walk/VERB forward/ADV then/ADV quickly/ADV turn/VERB right/ADJ#0.0#0.0

@@ -1,0 +1,3 @@
+a person throws a shotput.#a/DET person/NOUN throw/VERB a/DET shotput/NOUN#0.0#0.0
+person is practicing their shot put#person/NOUN is/AUX practice/VERB their/DET shot/NOUN put/NOUN#0.0#0.0
+a person picks up a shot put, spins, and throws it.#a/DET person/NOUN pick/VERB up/ADP a/DET shot/NOUN put/NOUN spin/NOUN and/CCONJ throw/VERB it/PRON#0.0#0.0

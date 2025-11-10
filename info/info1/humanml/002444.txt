@@ -1,0 +1,3 @@
+a person looks at their wrist.#a/DET person/NOUN look/VERB at/ADP their/DET wrist/NOUN#0.0#0.0
+a man is standing and lifts up his right hand as if checking his watch#a/DET man/NOUN is/AUX stand/VERB and/CCONJ lift/VERB up/ADP his/DET right/ADJ hand/NOUN as/SCONJ if/SCONJ check/VERB his/DET watch/NOUN#0.0#0.0
+a person looks at watch on right wrist.#a/DET person/NOUN look/VERB at/ADP watch/NOUN on/ADP right/ADJ wrist/NOUN#0.0#0.0

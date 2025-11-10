@@ -1,0 +1,3 @@
+a person who has their arms up and then puts there arms down and steps back and lunges forward#a/DET person/NOUN who/PRON has/AUX their/DET arm/NOUN up/ADV and/CCONJ then/ADV put/VERB there/PRON arm/NOUN down/ADV and/CCONJ step/VERB back/ADV and/CCONJ lunge/VERB forward/ADV#0.0#0.0
+a man steps backwards slowly and sprints forward quickly.#a/DET man/NOUN step/VERB backwards/ADV slowly/ADV and/CCONJ sprint/NOUN forward/ADV quickly/ADV#0.0#0.0
+a person gets ready and plays tennis.#a/DET person/NOUN get/VERB ready/ADJ and/CCONJ play/VERB tennis/NOUN#0.0#0.0

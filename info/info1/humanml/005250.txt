@@ -1,0 +1,3 @@
+a person pushes forward with one hand.#a/DET person/NOUN push/VERB forward/ADV with/ADP one/NUM hand/NOUN#0.0#0.0
+a person standing with both arms out moves something.#a/DET person/NOUN stand/VERB with/ADP both/DET arm/NOUN out/ADP move/NOUN something/PRON#0.0#0.0
+someone lowers both hands from above his head, then taps in front of him with his right hand.#someone/PRON lower/VERB both/DET hand/NOUN from/ADP above/ADP his/DET head/NOUN then/ADV tap/VERB in/ADP front/NOUN of/ADP him/PRON with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0

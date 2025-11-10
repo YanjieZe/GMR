@@ -1,0 +1,3 @@
+person is doing some 90's dances#person/NOUN is/AUX do/VERB some/DET dance/NOUN#0.0#0.0
+a man waves his hands from side to side then does a submersion move and passes his left hand from the top right to left lower.#a/DET man/NOUN wave/VERB his/DET hand/NOUN from/ADP side/NOUN to/PART side/VERB then/ADV does/AUX a/DET submersion/NOUN move/NOUN and/CCONJ pass/VERB his/DET left/ADJ hand/NOUN from/ADP the/DET top/ADJ right/NOUN to/ADP left/VERB lower/ADV#0.0#0.0
+a figure poses with his arms and sways his hips motioning downward then up in a dance performance.#a/DET figure/NOUN pose/VERB with/ADP his/DET arm/NOUN and/CCONJ sway/VERB his/DET hip/NOUN motion/VERB downward/ADV then/ADV up/ADV in/ADP a/DET dance/NOUN performance/NOUN#0.0#0.0

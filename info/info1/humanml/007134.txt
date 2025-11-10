@@ -1,0 +1,3 @@
+the figure is walking in a counter clockwise motion slowly.#the/DET figure/NOUN is/AUX walk/VERB in/ADP a/DET counter/NOUN clockwise/NOUN motion/NOUN slowly/ADV#0.0#0.0
+a person walking around making a circle.#a/DET person/NOUN walk/VERB around/ADP make/VERB a/DET circle/NOUN#0.0#0.0
+a person walks in a small circle to the left.#a/DET person/NOUN walk/VERB in/ADP a/DET small/ADJ circle/NOUN to/ADP the/DET left/NOUN#0.0#0.0

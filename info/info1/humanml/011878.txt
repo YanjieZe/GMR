@@ -1,0 +1,3 @@
+a person is walking forward, stops, then puts his right hand by his face and keeps it there#a/DET person/NOUN is/AUX walk/VERB forward/ADV stop/NOUN then/ADV put/VERB his/DET right/ADJ hand/NOUN by/ADP his/DET face/NOUN and/CCONJ keep/VERB it/PRON there/ADV#0.0#0.0
+walking and  then raising right hand#walk/VERB and/CCONJ then/ADV raise/VERB right/ADJ hand/NOUN#0.0#0.0
+a person is holding their right arm to their head as if in pain.#a/DET person/NOUN is/AUX hold/VERB their/DET right/ADJ arm/NOUN to/ADP their/DET head/NOUN as/SCONJ if/SCONJ in/ADP pain/NOUN#0.0#0.0

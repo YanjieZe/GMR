@@ -1,0 +1,3 @@
+the person doing like a prey.#the/DET person/NOUN do/VERB like/SCONJ a/DET prey/NOUN#0.0#0.0
+a person with their hands raised and clamp together.#a/DET person/NOUN with/ADP their/DET hand/NOUN raise/VERB and/CCONJ clamp/VERB together/ADV#0.0#0.0
+this person appears to play a flute.#this/DET person/NOUN appear/VERB to/PART play/VERB a/DET flute/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks backwards quickly, leading with the right foot.#a/DET person/NOUN walk/VERB backwards/ADV quickly/ADV lead/VERB with/ADP the/DET right/ADJ foot/NOUN#0.0#0.0
+a man with a red left arm and left leg and a blue right arm and right leg walks forwards, slightly wobbly and stumbling.#a/DET man/NOUN with/ADP a/DET red/ADJ left/ADJ arm/NOUN and/CCONJ left/VERB leg/NOUN and/CCONJ a/DET blue/ADJ right/ADJ arm/NOUN and/CCONJ right/ADJ leg/NOUN walk/VERB forwards/ADV slightly/ADV wobbly/ADJ and/CCONJ stumbling/ADJ#0.0#0.0
+a person walks backwards several steps.#a/DET person/NOUN walk/VERB backwards/ADP several/ADJ step/NOUN#0.0#0.0

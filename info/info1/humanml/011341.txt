@@ -1,0 +1,3 @@
+a person wiggles his arms around.#a/DET person/NOUN wiggle/VERB his/DET arm/NOUN around/ADV#0.0#0.0
+a person stands in place moving both arms in a wave like motion.#a/DET person/NOUN stand/VERB in/ADP place/NOUN move/VERB both/DET arm/NOUN in/ADP a/DET wave/NOUN like/SCONJ motion/NOUN#0.0#0.0
+a person swings their arms around.#a/DET person/NOUN swing/VERB their/DET arm/NOUN around/ADV#0.0#0.0

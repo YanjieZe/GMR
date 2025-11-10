@@ -1,0 +1,3 @@
+the person is drinking out of a bottle with his left hand.#the/DET person/NOUN is/AUX drink/VERB out/SCONJ of/ADP a/DET bottle/NOUN with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0
+moving arms towards chest then raising hand.#move/VERB arm/NOUN towards/ADP chest/NOUN then/ADV raise/VERB hand/NOUN#0.0#0.0
+a person puts bith hands together and looks at them, then raises left hand up above the head.#a/DET person/NOUN put/VERB bith/PROPN hand/NOUN together/ADV and/CCONJ look/VERB at/ADP them/PRON then/ADV raise/VERB left/VERB hand/NOUN up/ADP above/ADP the/DET head/NOUN#0.0#0.0

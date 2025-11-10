@@ -1,0 +1,3 @@
+a person steps forward and then starts to dance.#a/DET person/NOUN step/VERB forward/ADV and/CCONJ then/ADV start/VERB to/PART dance/VERB#0.0#0.0
+a man dances salsa in a circular motion.#a/DET man/NOUN dance/VERB salsa/PROPN in/ADP a/DET circular/ADJ motion/NOUN#0.0#0.0
+a person walks a random path and moves their hands erratically.#a/DET person/NOUN walk/VERB a/DET random/ADJ path/NOUN and/CCONJ move/VERB their/DET hand/NOUN erratically/ADV#0.0#0.0

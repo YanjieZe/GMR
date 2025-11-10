@@ -1,0 +1,3 @@
+a person who seems to be dancing#a/DET person/NOUN who/PRON seem/VERB to/PART be/AUX dance/VERB#0.0#0.0
+a figure takes a dancing shuffle step to the side before shuffling again with a turn integrated.  the figure than repeats the dance step moving forward in the same rythym.#a/DET figure/NOUN take/VERB a/DET dance/VERB shuffle/NOUN step/NOUN to/ADP the/DET side/NOUN before/ADP shuffle/VERB again/ADV with/ADP a/DET turn/NOUN integrate/VERB the/DET figure/NOUN than/SCONJ repeat/VERB the/DET dance/NOUN step/NOUN move/VERB forward/ADV in/ADP the/DET same/ADJ rythym/NOUN#0.0#0.0
+a man dancing to salsa music#a/DET man/NOUN dance/VERB to/ADP salsa/NOUN music/NOUN#0.0#0.0

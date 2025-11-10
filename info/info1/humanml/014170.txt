@@ -1,0 +1,3 @@
+a person leans forward and lightly hits something with their hand.#a/DET person/NOUN lean/VERB forward/ADV and/CCONJ lightly/ADV hit/VERB something/PRON with/ADP their/DET hand/NOUN#0.0#0.0
+person is hammering in a nail#person/NOUN is/AUX hammer/VERB in/ADP a/DET nail/NOUN#0.0#0.0
+the man hammers the nail in the plywood#the/DET man/NOUN hammer/VERB the/DET nail/NOUN in/ADP the/DET plywood/NOUN#0.0#0.0

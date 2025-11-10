@@ -1,0 +1,3 @@
+person walks five steps backwards#person/NOUN walk/VERB five/NUM step/NOUN backwards/ADV#0.0#0.0
+he walks downstairs then stops#he/PRON walk/VERB downstairs/ADV then/ADV stop/VERB#0.0#0.0
+person walking backwards in 5 steps#person/NOUN walk/VERB backwards/ADV in/ADP step/NOUN#0.0#0.0

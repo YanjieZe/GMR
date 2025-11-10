@@ -1,0 +1,3 @@
+person bends over backwards and walks with legs in front and hands behind and walks backwards then ends on his knees.#person/NOUN bend/VERB over/ADP backwards/ADV and/CCONJ walk/VERB with/ADP leg/NOUN in/ADP front/NOUN and/CCONJ hand/NOUN behind/ADV and/CCONJ walk/VERB backwards/ADV then/ADV end/VERB on/ADP his/DET knee/NOUN#0.0#0.0
+a person bends backwards and forms a table with their hands and feet.#a/DET person/NOUN bend/VERB backwards/ADV and/CCONJ form/VERB a/DET table/NOUN with/ADP their/DET hand/NOUN and/CCONJ foot/NOUN#0.0#0.0
+the person raises their arms then falls to their knees#the/DET person/NOUN raise/VERB their/DET arm/NOUN then/ADV fall/VERB to/ADP their/DET knee/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks forward, then strafes sideways.#a/DET person/NOUN walk/VERB forward/ADV then/ADV strafe/VERB sideways/ADV#0.0#0.0
+a stick person walking from side to side.#a/DET stick/NOUN person/NOUN walk/VERB from/ADP side/NOUN to/ADP side/NOUN#nan#nan
+walking by six sac right to left and a little turn back#walk/VERB by/ADP six/NUM sac/NOUN right/ADV to/ADP left/NOUN and/CCONJ a/DET little/ADJ turn/NOUN back/ADV#0.0#0.0

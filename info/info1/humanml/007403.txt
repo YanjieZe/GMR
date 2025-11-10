@@ -1,0 +1,3 @@
+a man is standing still, hen brings his right hand up to his face#a/DET man/NOUN is/AUX stand/VERB still/ADV hen/ADV bring/VERB his/DET right/ADJ hand/NOUN up/ADP to/ADP his/DET face/NOUN#0.0#0.0
+a team kicks with their hips going clockwise, forword they keep running#a/DET team/NOUN kick/VERB with/ADP their/DET hip/NOUN go/VERB clockwise/ADV forword/NOUN they/PRON keep/VERB run/VERB#0.0#0.0
+a man lifts a mug and sips from it.#a/DET man/NOUN lift/VERB a/DET mug/NOUN and/CCONJ sip/NOUN from/ADP it/PRON#0.0#0.0

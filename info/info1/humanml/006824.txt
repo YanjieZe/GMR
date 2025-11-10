@@ -1,0 +1,3 @@
+a person walks forward in a slow staggered pattern.#a/DET person/NOUN walk/VERB forward/ADV in/ADP a/DET slow/ADJ staggered/ADJ pattern/NOUN#0.0#0.0
+person moves forward drunkedly very slow eight steps#person/NOUN move/VERB forward/ADV drunkedly/ADV very/ADV slow/ADJ eight/NUM step/NOUN#0.0#0.0
+a person who is standing with his hands by his sides moves forward cautiously as he appears to be stepping around things.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP his/DET hand/NOUN by/ADP his/DET side/NOUN move/VERB forward/ADV cautiously/ADV as/SCONJ he/PRON appear/VERB to/PART be/AUX step/VERB around/ADP thing/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+lifting weights over their head#lift/VERB weight/NOUN over/ADP their/DET head/NOUN#0.0#0.0
+the person is lifting dumbbells over his head.#the/DET person/NOUN is/AUX lift/VERB dumbbell/NOUN over/ADP his/DET head/NOUN#0.0#0.0
+a person lifts both arms overhead as if lifting barbells.#a/DET person/NOUN lift/VERB both/CCONJ arm/NOUN overhead/ADV as/SCONJ if/SCONJ lift/VERB barbell/NOUN#0.0#0.0

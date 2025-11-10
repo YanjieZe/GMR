@@ -1,0 +1,3 @@
+someone walking fast and moving sideways#someone/PRON walk/VERB fast/ADV and/CCONJ move/VERB sideways/ADV#0.0#0.0
+a figure turns to their right, and then walks unsteadily several paces forward with arms partly extended.#a/DET figure/NOUN turn/VERB to/ADP their/DET right/NOUN and/CCONJ then/ADV walk/VERB unsteadily/ADV several/ADJ pace/NOUN forward/ADV with/ADP arm/NOUN partly/ADV extend/VERB#0.0#0.0
+a man starts walking hesistantly to the left and begins to turn around.#a/DET man/NOUN start/VERB walk/VERB hesistantly/ADV to/ADP the/DET left/NOUN and/CCONJ begin/VERB to/PART turn/VERB around/ADP#0.0#0.0

@@ -1,0 +1,3 @@
+man is limping on right leg#man/NOUN is/AUX limp/VERB on/ADP right/ADJ leg/NOUN#0.0#0.0
+an injured person drags leg while their path is traced behind them.#an/DET injure/VERB person/NOUN drag/VERB leg/NOUN while/SCONJ their/DET path/NOUN is/AUX trace/VERB behind/ADP them/PRON#0.0#0.0
+person is limping with his left leg.#person/NOUN is/AUX limp/VERB with/ADP his/DET left/ADJ leg/NOUN#0.0#0.0

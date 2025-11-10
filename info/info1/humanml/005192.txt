@@ -1,0 +1,3 @@
+the person stretching his arms up high.#the/DET person/NOUN stretch/VERB his/DET arm/NOUN up/ADV high/ADV#0.0#0.0
+a person stretches his hands over his head then brings his hands back down to his sides.#a/DET person/NOUN stretch/VERB his/DET hand/NOUN over/ADP his/DET head/NOUN then/ADV bring/VERB his/DET hand/NOUN back/ADV down/ADV to/ADP his/DET side/NOUN#0.0#0.0
+a person reaches their arms upwards#a/DET person/NOUN reach/VERB their/DET arm/NOUN upwards/ADV#0.0#0.0

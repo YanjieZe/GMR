@@ -1,0 +1,3 @@
+a person leans down as if to pick up something heavy and and tosses it to their right.#a/DET person/NOUN lean/VERB down/ADP as/SCONJ if/SCONJ to/PART pick/VERB up/ADP something/PRON heavy/ADJ and/CCONJ and/CCONJ toss/VERB it/PRON to/ADP their/DET right/NOUN#0.0#0.0
+a character reaches down to pick something up off of the floor and then sets it to the side.#a/DET character/NOUN reach/VERB down/ADP to/PART pick/VERB something/PRON up/ADP off/ADP of/ADP the/DET floor/NOUN and/CCONJ then/ADV set/VERB it/PRON to/ADP the/DET side/NOUN#2.0#8.0
+the person pick some thing up to toss.#the/DET person/NOUN pick/VERB some/DET thing/NOUN up/ADP to/PART toss/VERB#0.0#0.0

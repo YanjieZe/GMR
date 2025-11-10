@@ -1,0 +1,3 @@
+the person is walking normally towards me.#the/DET person/NOUN is/AUX walk/VERB normally/ADV towards/ADP me/PRON#0.0#0.0
+this person walks quickly forward.#this/DET person/NOUN walk/VERB quickly/ADV forward/ADV#0.0#0.0
+a person walks forward.#a/DET person/NOUN walk/VERB forward/ADV#0.0#0.0

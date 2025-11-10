@@ -1,0 +1,3 @@
+person stands still for 7 seconds then takes step to the left#person/NOUN stand/VERB still/ADV for/ADP second/NOUN then/ADV take/VERB step/NOUN to/ADP the/DET left/NOUN#0.0#0.0
+standing still and not moving#stand/VERB still/ADV and/CCONJ not/PART move/VERB#0.0#0.0
+a person is pushed from the left and recovers balance in one step.#a/DET person/NOUN is/AUX push/VERB from/ADP the/DET left/NOUN and/CCONJ recover/NOUN balance/VERB in/ADP one/NUM step/NOUN#0.0#0.0

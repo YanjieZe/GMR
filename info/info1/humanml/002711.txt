@@ -1,0 +1,3 @@
+this figure is happily strolling as if he won something#this/DET figure/NOUN is/AUX happily/ADV strolling/ADJ as/SCONJ if/SCONJ he/PRON win/VERB something/PRON#0.0#0.0
+person hops on legs from back right to front left#person/NOUN hop/VERB on/ADP leg/NOUN from/ADP back/ADV right/ADV to/ADP front/VERB left/ADV#0.0#0.0
+a person skips, stops and stands.#a/DET person/NOUN skip/VERB stop/VERB and/CCONJ stand/VERB#0.0#0.0

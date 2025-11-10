@@ -1,0 +1,3 @@
+a person claps his hands and walks.#a/DET person/NOUN clap/VERB his/DET hand/NOUN and/CCONJ walk/NOUN#0.0#0.0
+a person claps, walks diagonally in a southwestern direction, sits down on something and scratches his head.#a/DET person/NOUN clap/VERB walk/VERB diagonally/ADV in/ADP a/DET southwestern/ADJ direction/NOUN sit/VERB down/ADP on/ADP something/PRON and/CCONJ scratch/VERB his/DET head/NOUN#0.0#0.0
+this person claps his hands, walks forward to sit and scratches head with both hands.#this/DET person/NOUN clap/VERB his/DET hand/NOUN walk/VERB forward/ADV to/PART sit/VERB and/CCONJ scratch/VERB head/NOUN with/ADP both/DET hand/NOUN#0.0#0.0

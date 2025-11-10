@@ -1,0 +1,3 @@
+a person takes a step forward right their right leg, then brings the left foot next to the newly placed right foot.#a/DET person/NOUN take/VERB a/DET step/NOUN forward/ADV right/ADJ their/DET right/ADJ leg/NOUN then/ADV bring/VERB the/DET left/ADJ foot/NOUN next/ADV to/ADP the/DET newly/ADV place/VERB right/ADJ foot/NOUN#0.0#0.0
+a person made a diagonal step with the right foot first followed by the left foot.#a/DET person/NOUN make/VERB a/DET diagonal/ADJ step/NOUN with/ADP the/DET right/ADJ foot/NOUN first/ADV follow/VERB by/ADP the/DET left/ADJ foot/NOUN#0.0#0.0
+a man takes a large step forward.#a/DET man/NOUN take/VERB a/DET large/ADJ step/NOUN forward/ADV#0.0#0.0

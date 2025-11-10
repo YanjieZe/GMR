@@ -1,0 +1,3 @@
+a man does a kick to the side.#a/DET man/NOUN does/AUX a/DET kick/NOUN to/ADP the/DET side/NOUN#0.0#0.0
+a person takes a quick step to their left side and sharply kicks to the side with a knee snap in a marial arts move#a/DET person/NOUN take/VERB a/DET quick/ADJ step/NOUN to/ADP their/DET left/ADJ side/NOUN and/CCONJ sharply/ADV kick/VERB to/ADP the/DET side/NOUN with/ADP a/DET knee/NOUN snap/NOUN in/ADP a/DET marial/ADJ art/NOUN move/NOUN#0.0#0.0
+a person kicks with their left leg.#a/DET person/NOUN kick/VERB with/ADP their/DET left/ADJ leg/NOUN#0.0#0.0

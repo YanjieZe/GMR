@@ -1,0 +1,3 @@
+a person bends over and starts to move things around on the ground.#a/DET person/NOUN bend/VERB over/ADP and/CCONJ start/VERB to/PART move/VERB thing/NOUN around/ADP on/ADP the/DET ground/NOUN#0.0#0.0
+a person bends down and touches something on the ground with both hands.#a/DET person/NOUN bend/VERB down/ADP and/CCONJ touch/VERB something/PRON on/ADP the/DET ground/NOUN with/ADP both/DET hand/NOUN#0.0#0.0
+a person looks at then touches an object on the ground.#a/DET person/NOUN look/VERB at/ADP then/ADV touch/VERB an/DET object/NOUN on/ADP the/DET ground/NOUN#0.0#0.0

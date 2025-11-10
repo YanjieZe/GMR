@@ -1,0 +1,3 @@
+the person is dancing the waltz.#the/DET person/NOUN is/AUX dance/VERB the/DET waltz/NOUN#0.0#0.0
+the man dances the waltz.#the/DET man/NOUN dance/VERB the/DET waltz/NOUN#0.0#0.0
+person is practicing dancing with a partner#person/NOUN is/AUX practice/VERB dance/VERB with/ADP a/DET partner/NOUN#0.0#0.0

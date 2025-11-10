@@ -1,0 +1,3 @@
+a person holds their hands in front of their face and looks around#a/DET person/NOUN hold/VERB their/DET hand/NOUN in/ADP front/NOUN of/ADP their/DET face/NOUN and/CCONJ look/VERB around/ADV#0.0#0.0
+a person holds an object in their hands, brings it to eye level, and turns left and right.#a/DET person/NOUN hold/VERB an/DET object/NOUN in/ADP their/DET hand/NOUN bring/VERB it/PRON to/ADP eye/NOUN level/NOUN and/CCONJ turn/VERB left/ADJ and/CCONJ right/INTJ#0.0#0.0
+a person bring both hands to face height and looks left then right.#a/DET person/NOUN bring/VERB both/DET hand/NOUN to/PART face/VERB height/ADV and/CCONJ look/VERB left/VERB then/ADV right/ADV#0.0#0.0

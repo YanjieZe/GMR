@@ -1,0 +1,3 @@
+a person is standing with their left arm shakily raised.#a/DET person/NOUN is/AUX stand/VERB with/ADP their/DET left/ADJ arm/NOUN shakily/ADV raise/VERB#0.0#0.0
+a person stands with their hand trembling in front of their face, then rotates slightly to the left.#a/DET person/NOUN stand/VERB with/ADP their/DET hand/NOUN tremble/VERB in/ADP front/NOUN of/ADP their/DET face/NOUN then/ADV rotate/VERB slightly/ADV to/ADP the/DET left/NOUN#0.0#0.0
+person is scratching their face#person/NOUN is/AUX scratch/VERB their/DET face/NOUN#0.0#0.0

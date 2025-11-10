@@ -1,0 +1,3 @@
+the person is practing balancing on one leg.#the/DET person/NOUN is/AUX practe/VERB balance/VERB on/ADP one/NUM leg/NOUN#0.0#0.0
+a man picks up his right leg, holds it up in front of him, and then keeps it up in the air.#a/DET man/NOUN pick/VERB up/ADP his/DET right/ADJ leg/NOUN hold/VERB it/PRON up/ADP in/ADP front/NOUN of/ADP him/PRON and/CCONJ then/ADV keep/VERB it/PRON up/ADP in/ADP the/DET air/NOUN#0.0#0.0
+a person lifts up his right foot.#a/DET person/NOUN lift/VERB up/ADP his/DET right/ADJ foot/NOUN#0.0#0.0

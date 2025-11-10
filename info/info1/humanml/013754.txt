@@ -1,0 +1,3 @@
+a person claps their hands.#a/DET person/NOUN clap/VERB their/DET hand/NOUN#0.0#0.0
+a man claps his hands together serveral times, then lowers his hands back down to his sides.#a/DET man/NOUN clap/VERB his/DET hand/NOUN together/ADV serveral/ADJ time/NOUN then/ADV lower/VERB his/DET hand/NOUN back/ADV down/ADV to/ADP his/DET side/NOUN#0.0#0.0
+a person claps their hands a few times while standing still.#a/DET person/NOUN clap/VERB their/DET hand/NOUN a/DET few/ADJ time/NOUN while/SCONJ stand/VERB still/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person appears to hold up an object, as if the person was showing the object, and returns to the object.#a/DET person/NOUN appear/VERB to/PART hold/VERB up/ADP an/DET object/NOUN as/SCONJ if/SCONJ the/DET person/NOUN was/AUX show/VERB the/DET object/NOUN and/CCONJ return/NOUN to/ADP the/DET object/NOUN#0.0#0.0
+a person picks something up, looks at the underside then places it back down#a/DET person/NOUN pick/VERB something/PRON up/ADP look/VERB at/ADP the/DET underside/NOUN then/ADV place/VERB it/PRON back/ADV down/ADP#0.0#0.0
+a person grabbed something and put it somehwere#a/DET person/NOUN grab/VERB something/PRON and/CCONJ put/VERB it/PRON somehwere/ADV#0.0#0.0

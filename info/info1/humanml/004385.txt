@@ -1,0 +1,3 @@
+a person is wiping something in circular motion.#a/DET person/NOUN is/AUX wipe/VERB something/PRON in/ADP circular/ADJ motion/NOUN#0.0#0.0
+person does circular motion with right hand stomach height#person/NOUN does/AUX circular/ADJ motion/NOUN with/ADP right/ADJ hand/NOUN stomach/NOUN height/NOUN#0.0#0.0
+a person moves their right arm in a circular motion.#a/DET person/NOUN move/VERB their/DET right/ADJ arm/NOUN in/ADP a/DET circular/ADJ motion/NOUN#0.0#0.0

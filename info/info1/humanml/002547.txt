@@ -1,0 +1,3 @@
+a person squats slightly, bending at the knees.#a/DET person/NOUN squat/VERB slightly/ADV bend/VERB at/ADP the/DET knee/NOUN#0.0#0.0
+a person is looking at the ground like he's drop something, then does a slight squat#a/DET person/NOUN is/AUX look/VERB at/ADP the/DET ground/NOUN like/SCONJ he/PRON drop/VERB something/PRON then/ADV does/AUX a/DET slight/ADJ squat/NOUN#0.0#0.0
+a man looks behind him, walks backwards, then squats and returns to a standing position.#a/DET man/NOUN look/VERB behind/ADP him/PRON walk/VERB backwards/ADV then/ADV squat/NOUN and/CCONJ return/VERB to/ADP a/DET standing/ADJ position/NOUN#0.0#0.0

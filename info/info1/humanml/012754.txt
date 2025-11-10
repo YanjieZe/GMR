@@ -1,0 +1,3 @@
+the man is walking backwards straight#the/DET man/NOUN is/AUX walk/VERB backwards/ADV straight/ADV#0.0#0.0
+person moves backwards five steps#person/NOUN move/VERB backwards/ADV five/NUM step/NOUN#0.0#0.0
+a figure takes 4 steps forward, away from the camera.#a/DET figure/NOUN take/VERB step/NOUN forward/ADV away/ADV from/ADP the/DET camera/NOUN#0.0#0.0

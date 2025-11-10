@@ -1,0 +1,3 @@
+the person is walking in a forward motion while their right and left arms are swinging in alternating direction, one goes forward while the other goes backwards.#the/DET person/NOUN is/AUX walk/VERB in/ADP a/DET forward/ADJ motion/NOUN while/SCONJ their/DET right/ADJ and/CCONJ left/ADJ arm/NOUN are/AUX swinge/VERB in/ADP alternate/VERB direction/NOUN one/PRON go/VERB forward/ADV while/SCONJ the/DET other/ADJ go/VERB backwards/ADV#0.0#0.0
+a womanly figure walks forward, strutting#a/DET womanly/ADJ figure/NOUN walk/VERB forward/ADV strut/VERB#0.0#0.0
+walks forward and stands still#walk/VERB forward/ADV and/CCONJ stand/VERB still/ADV#0.0#0.0

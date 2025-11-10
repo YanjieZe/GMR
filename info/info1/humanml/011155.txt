@@ -1,0 +1,3 @@
+a person holding something, is swing their arms side to side.#a/DET person/NOUN hold/VERB something/PRON is/AUX swing/VERB their/DET arm/NOUN side/NOUN to/PART side/VERB#0.0#0.0
+a person uses a sweeping motion with both their hands#a/DET person/NOUN use/VERB a/DET sweeping/ADJ motion/NOUN with/ADP both/CCONJ their/DET hand/NOUN#0.0#0.0
+a person who is sweeping or mopping#a/DET person/NOUN who/PRON is/AUX sweep/VERB or/CCONJ mop/VERB#0.0#0.0

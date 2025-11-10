@@ -1,0 +1,3 @@
+a person stretches their arms side to side.#a/DET person/NOUN stretch/VERB their/DET arm/NOUN side/NOUN to/PART side/VERB#0.0#0.0
+a person is standing upwards and pushses both his arms out 4 times and then puts his hands together.#a/DET person/NOUN is/AUX stand/VERB upwards/ADV and/CCONJ pushse/VERB both/CCONJ his/DET arm/NOUN out/ADV time/NOUN and/CCONJ then/ADV put/VERB his/DET hand/NOUN together/ADV#0.0#0.0
+a person swinging both arms sideways#a/DET person/NOUN swinge/VERB both/DET arm/NOUN sideways/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a stick figure jumps side ways.#a/DET stick/NOUN figure/NOUN jump/VERB side/NOUN way/NOUN#0.0#0.0
+a person takes a jump sideways to their right.#a/DET person/NOUN take/VERB a/DET jump/NOUN sideways/ADV to/ADP their/DET right/NOUN#0.0#0.0
+a man jumps to his right.#a/DET man/NOUN jump/VERB to/ADP his/DET right/NOUN#0.0#0.0

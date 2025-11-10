@@ -1,0 +1,3 @@
+a person taking four hops on his left foot.#a/DET person/NOUN take/VERB four/NUM hop/NOUN on/ADP his/DET left/ADJ foot/NOUN#0.0#0.0
+a man hops forward on his left foot.#a/DET man/NOUN hop/VERB forward/ADV on/ADP his/DET left/ADJ foot/NOUN#0.0#0.0
+a person makes three left footed hops forward.#a/DET person/NOUN make/VERB three/NUM left/VERB footed/ADJ hop/NOUN forward/ADV#0.0#0.0

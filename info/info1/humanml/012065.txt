@@ -1,0 +1,3 @@
+shaking the hands some thing on the hands.#shake/VERB the/DET hand/NOUN some/DET thing/NOUN on/ADP the/DET hand/NOUN#0.0#0.0
+person waves hands and arms in side out in front of them then right arm in front and then arms moving front to back#person/NOUN wave/VERB hand/NOUN and/CCONJ arm/NOUN in/ADP side/NOUN out/ADV in/ADP front/NOUN of/ADP them/PRON then/ADV right/ADV arm/NOUN in/ADP front/NOUN and/CCONJ then/ADV arm/NOUN move/VERB front/ADV to/ADP back/ADV#0.0#0.0
+a person is doing the signals of a basketball referee.#a/DET person/NOUN is/AUX do/VERB the/DET signal/NOUN of/ADP a/DET basketball/NOUN referee/NOUN#0.0#0.0

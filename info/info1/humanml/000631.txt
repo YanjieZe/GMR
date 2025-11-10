@@ -1,0 +1,3 @@
+a person walks in a counter clockwise ellipse.#a/DET person/NOUN walk/VERB in/ADP a/DET counter/NOUN clockwise/NOUN ellipse/NOUN#0.0#0.0
+a person walks in a circle around to the left.#a/DET person/NOUN walk/VERB in/ADP a/DET circle/NOUN around/ADV to/ADP the/DET left/NOUN#0.0#0.0
+person is walkng around in circles.#person/NOUN is/AUX walkng/PROPN around/ADV in/ADP circle/NOUN#0.0#0.0

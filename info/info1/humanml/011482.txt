@@ -1,0 +1,3 @@
+the person is jumping rope facing forward.#the/DET person/NOUN is/AUX jump/VERB rope/NOUN face/VERB forward/ADV#0.0#0.0
+a person jumps over a rope than they spin, sometimes jumping over the rope as is spins two times between jumps#a/DET person/NOUN jump/VERB over/ADP a/DET rope/NOUN than/SCONJ they/PRON spin/VERB sometimes/ADV jump/VERB over/ADP the/DET rope/NOUN as/SCONJ is/AUX spin/VERB two/NUM time/NOUN between/ADP jumps/PROPN#0.0#0.0
+a man jumps rope alternating from slow to fast.#a/DET man/NOUN jump/VERB rope/PROPN alternate/VERB from/ADP slow/ADJ to/PART fast/VERB#0.0#0.0

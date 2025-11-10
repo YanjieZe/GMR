@@ -1,0 +1,3 @@
+person moves backwards and sits down.#person/NOUN move/VERB backwards/ADV and/CCONJ sit/VERB down/ADP#0.0#0.0
+a person sits down in a chair#a/DET person/NOUN sit/VERB down/ADP in/ADP a/DET chair/NOUN#0.0#0.0
+a figure takes a step back to sit down and places their hands on their knees.#a/DET figure/NOUN take/VERB a/DET step/NOUN back/ADV to/PART sit/VERB down/ADP and/CCONJ place/VERB their/DET hand/NOUN on/ADP their/DET knee/NOUN#0.0#0.0

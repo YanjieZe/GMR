@@ -1,0 +1,3 @@
+a person swings their arms and bounces on their feet as if jumping rope.#a/DET person/NOUN swing/VERB their/DET arm/NOUN and/CCONJ bounce/NOUN on/ADP their/DET foot/NOUN as/SCONJ if/SCONJ jump/VERB rope/NOUN#0.0#0.0
+the person is jumping rope backwards.#the/DET person/NOUN is/AUX jump/VERB rope/NOUN backwards/ADV#0.0#0.0
+he is doing rope jumping.#he/PRON is/AUX do/VERB rope/NOUN jump/VERB#0.0#0.0

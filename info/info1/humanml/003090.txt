@@ -1,0 +1,3 @@
+a person standing up uses their right hand to twist open an object that is in their right hand, then consumes it in their mouth.#a/DET person/NOUN stand/VERB up/ADP use/VERB their/DET right/ADJ hand/NOUN to/PART twist/VERB open/VERB an/DET object/NOUN that/DET is/AUX in/ADP their/DET right/ADJ hand/NOUN then/ADV consume/VERB it/PRON in/ADP their/DET mouth/NOUN#0.0#0.0
+a person opens a bottle and then drinks from it.#a/DET person/NOUN open/VERB a/DET bottle/NOUN and/CCONJ then/ADV drink/VERB from/ADP it/PRON#4.0#9.0
+a person unscrews bottle and drinks with right hand.#a/DET person/NOUN unscrew/VERB bottle/NOUN and/CCONJ drink/VERB with/ADP right/ADJ hand/NOUN#0.0#0.0

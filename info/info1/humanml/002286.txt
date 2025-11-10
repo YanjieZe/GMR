@@ -1,0 +1,3 @@
+a man walks from side to side in a clockwise circle.#a/DET man/NOUN walk/VERB from/ADP side/NOUN to/PART side/VERB in/ADP a/DET clockwise/ADJ circle/NOUN#0.0#0.0
+person is randomly hopping and walking#person/NOUN is/AUX randomly/ADV hop/VERB and/CCONJ walk/VERB#0.0#0.0
+a person skips around in a circle#a/DET person/NOUN skip/VERB around/ADV in/ADP a/DET circle/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+man is bending arms at elbows towards the front of the body.#man/NOUN is/AUX bend/VERB arm/NOUN at/ADP elbow/NOUN towards/ADP the/DET front/NOUN of/ADP the/DET body/NOUN#0.0#0.0
+a person strains while doing dumbell curls.#a/DET person/NOUN strain/VERB while/SCONJ do/VERB dumbell/ADJ curl/NOUN#0.0#0.0
+a standing person lifts dumbells upwards with both hands.#a/DET stand/VERB person/NOUN lift/NOUN dumbell/VERB upwards/ADJ with/ADP both/DET hand/NOUN#0.0#0.0

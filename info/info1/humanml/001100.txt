@@ -1,0 +1,3 @@
+a person hopping one step forward.#a/DET person/NOUN hop/VERB one/NUM step/NOUN forward/ADV#0.0#0.0
+the person is jumping forward.#the/DET person/NOUN is/AUX jump/VERB forward/ADV#0.0#0.0
+she takes a short hop forward, landing on both feet at once.#she/PRON take/VERB a/DET short/ADJ hop/NOUN forward/ADV land/VERB on/ADP both/DET foot/NOUN at/ADP once/ADV#0.0#0.0

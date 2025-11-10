@@ -1,0 +1,3 @@
+jumping up and down in place#jump/VERB up/ADP and/CCONJ down/ADV in/ADP place/NOUN#0.0#0.0
+a person does small jumps, then a big jump, waits a few seconds, then does small jumps, pauses and does a big jump.#a/DET person/NOUN does/AUX small/ADJ jump/NOUN then/ADV a/DET big/ADJ jump/NOUN wait/VERB a/DET few/ADJ second/NOUN then/ADV does/AUX small/ADJ jump/NOUN pause/VERB and/CCONJ does/AUX a/DET big/ADJ jump/NOUN#0.0#0.0
+a man jumps up and down multiple times.#a/DET man/NOUN jump/VERB up/ADV and/CCONJ down/ADP multiple/ADJ time/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person standing still shakes their body a bit.#a/DET person/NOUN stand/VERB still/ADV shake/VERB their/DET body/NOUN a/DET bit/NOUN#0.0#0.0
+a person stands and is nudged slightly from behind.#a/DET person/NOUN stand/VERB and/CCONJ is/AUX nudge/VERB slightly/ADV from/ADP behind/ADV#0.0#0.0
+a person does a small body shift while standing.#a/DET person/NOUN does/AUX a/DET small/ADJ body/NOUN shift/NOUN while/SCONJ stand/VERB#0.0#0.0

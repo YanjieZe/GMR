@@ -1,0 +1,3 @@
+a man turns slightly to his right, salutes with his right hand, returns to his starting position, then turns to his right and salutes again.#a/DET man/NOUN turn/VERB slightly/ADV to/ADP his/DET right/NOUN salute/VERB with/ADP his/DET right/ADJ hand/NOUN return/VERB to/ADP his/DET start/VERB position/NOUN then/ADV turn/VERB to/ADP his/DET right/NOUN and/CCONJ salute/VERB again/ADV#0.0#0.0
+a person raises their right hand three times, while slightly moving side to side.#a/DET person/NOUN raise/VERB their/DET right/ADJ hand/NOUN three/NUM time/NOUN while/SCONJ slightly/ADV move/VERB side/NOUN to/PART side/VERB#0.0#0.0
+person salutes three times with their right hand.#person/NOUN salute/VERB three/NUM time/NOUN with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0

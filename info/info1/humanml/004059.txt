@@ -1,0 +1,3 @@
+robot is performing different step of dance and moving left right.#robot/PROPN is/AUX perform/VERB different/ADJ step/NOUN of/ADP dance/NOUN and/CCONJ move/VERB left/ADV right/ADV#0.0#0.0
+a person dancing from right to left. looks like the foxtrot dance.#a/DET person/NOUN dance/VERB from/ADP right/NOUN to/ADP left/NOUN look/VERB like/SCONJ the/DET foxtrot/PROPN dance/NOUN#0.0#0.0
+a person dances the cha cha cha.#a/DET person/NOUN dance/VERB the/DET cha/PROPN cha/PROPN cha/PROPN#0.0#0.0

@@ -1,0 +1,3 @@
+a man hops on the spot a few times using both legs, with his arms loose to his side.#a/DET man/NOUN hop/VERB on/ADP the/DET spot/NOUN a/DET few/ADJ time/NOUN use/VERB both/DET leg/NOUN with/ADP his/DET arm/NOUN loose/ADJ to/ADP his/DET side/NOUN#0.0#0.0
+a man jumps up and down with his arms lowered.#a/DET man/NOUN jump/VERB up/ADV and/CCONJ down/ADP with/ADP his/DET arm/NOUN lower/VERB#0.0#0.0
+he jumps three high times#he/PRON jump/VERB three/NUM high/ADJ time/NOUN#0.0#0.0

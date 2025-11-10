@@ -1,0 +1,2 @@
+a man marches largely in a diaganol then turns around and stops.#a/DET man/NOUN march/VERB largely/ADV in/ADP a/DET diaganol/NOUN then/ADV turn/VERB around/ADV and/CCONJ stop/NOUN#0.0#0.0
+arms bent and right angles, knees brought up to hip height with each step, walking angerly.#arm/NOUN bent/ADJ and/CCONJ right/ADJ angle/NOUN knee/NOUN bring/VERB up/ADP to/PART hip/VERB height/NOUN with/ADP each/DET step/NOUN walk/VERB angerly/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+lifting a container and pouring out the contents#lift/VERB a/DET container/NOUN and/CCONJ pour/VERB out/ADP the/DET content/NOUN#0.0#0.0
+a man picks something up and moves it to the left hand side of the screen to the right hand side#a/DET man/NOUN pick/VERB something/PRON up/ADP and/CCONJ move/VERB it/PRON to/ADP the/DET left/ADJ hand/NOUN side/NOUN of/ADP the/DET screen/NOUN to/ADP the/DET right/ADJ hand/NOUN side/NOUN#0.0#9.0
+person reaches to their right side and grabs something then crosses body and sets or drops it on the left side.#person/NOUN reach/VERB to/ADP their/DET right/ADJ side/NOUN and/CCONJ grab/NOUN something/PRON then/ADV cross/VERB body/NOUN and/CCONJ set/NOUN or/CCONJ drop/VERB it/PRON on/ADP the/DET left/ADJ side/NOUN#0.0#0.0

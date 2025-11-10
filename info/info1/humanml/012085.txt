@@ -1,0 +1,3 @@
+a person wriggles like a snake.#a/DET person/NOUN wriggle/VERB like/SCONJ a/DET snake/NOUN#0.0#0.0
+a person bends their left arm at the waist, before sticking out their right arm straight forward and rotating clockwise#a/DET person/NOUN bend/VERB their/DET left/ADJ arm/NOUN at/ADP the/DET waist/NOUN before/ADP stick/VERB out/ADP their/DET right/ADJ arm/NOUN straight/ADV forward/ADV and/CCONJ rotate/VERB clockwise/NOUN#0.0#0.0
+a person uses right arm to pull sliding glass door#a/DET person/NOUN use/VERB right/ADJ arm/NOUN to/PART pull/VERB slide/VERB glass/NOUN door/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+person is practicing standing long jump#person/NOUN is/AUX practice/VERB stand/VERB long/ADJ jump/NOUN#0.0#0.0
+person takes warms up legs and arms before taking a big jump then raising arms to head#person/NOUN take/VERB warm/NOUN up/ADP leg/NOUN and/CCONJ arm/NOUN before/ADP take/VERB a/DET big/ADJ jump/NOUN then/ADV raise/VERB arm/NOUN to/PART head/VERB#0.0#0.0
+the person makes one big jump#the/DET person/NOUN make/VERB one/NUM big/ADJ jump/NOUN#0.0#0.0

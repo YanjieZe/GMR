@@ -1,0 +1,3 @@
+a person swing with the legs and dance#a/DET person/NOUN swe/VERB with/ADP the/DET leg/NOUN and/CCONJ dance/NOUN#0.0#6.0
+person is doing a ballet dance#person/NOUN is/AUX do/VERB a/DET ballet/NOUN dance/NOUN#0.0#0.0
+rhe man dances around waving his arms and kicking his legs.#rhe/PROPN man/PROPN dance/VERB around/ADP wave/VERB his/DET arm/NOUN and/CCONJ kick/VERB his/DET leg/NOUN#0.0#0.0

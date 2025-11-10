@@ -1,0 +1,3 @@
+a person slowly and stiffly walks in a circle while facing forward#a/DET person/NOUN slowly/ADV and/CCONJ stiffly/PROPN walk/VERB in/ADP a/DET circle/NOUN while/SCONJ face/VERB forward/ADV#0.0#0.0
+a person walks counterclockwise in a circle with very twitchy arms.#a/DET person/NOUN walk/VERB counterclockwise/NOUN in/ADP a/DET circle/NOUN with/ADP very/ADV twitchy/ADJ arm/NOUN#0.0#0.0
+dancing, shuffling feet in a circle and swinging arms#dance/VERB shuffle/VERB foot/NOUN in/ADP a/DET circle/NOUN and/CCONJ swinge/VERB arm/NOUN#0.0#0.0

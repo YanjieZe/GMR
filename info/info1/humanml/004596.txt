@@ -1,0 +1,3 @@
+a person walks forward a few steps, breaks into a running jump, lands and continues to walk.#a/DET person/NOUN walk/VERB forward/ADV a/DET few/ADJ step/NOUN break/VERB into/ADP a/DET running/ADJ jump/NOUN land/NOUN and/CCONJ continue/VERB to/PART walk/VERB#0.0#0.0
+a man walks 3 to 4 steps and jump a little high#a/DET man/NOUN walk/VERB to/PART step/NOUN and/CCONJ jump/VERB a/DET little/ADJ high/ADJ#0.0#0.0
+a person walks forward, then starts running, and ends with a running kick.#a/DET person/NOUN walk/VERB forward/ADV then/ADV start/VERB run/VERB and/CCONJ end/VERB with/ADP a/DET running/ADJ kick/NOUN#0.0#0.0

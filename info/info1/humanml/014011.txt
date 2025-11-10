@@ -1,0 +1,3 @@
+walking forward with hands covering face.#walk/VERB forward/ADV with/ADP hand/NOUN cover/VERB face/NOUN#0.0#0.0
+person takes a step forwards with right leg, then puts both hands up in front of face as if defending himself from something, then quickly kicks out with left leg.#person/NOUN take/VERB a/DET step/NOUN forwards/ADV with/ADP right/ADJ leg/NOUN then/ADV put/VERB both/DET hand/NOUN up/ADP in/ADP front/NOUN of/ADP face/NOUN as/SCONJ if/SCONJ defend/VERB himself/PRON from/ADP something/PRON then/ADV quickly/ADV kick/VERB out/ADP with/ADP left/ADJ leg/NOUN#0.0#0.0
+person is getting ready to kick box.#person/NOUN is/AUX get/VERB ready/ADJ to/PART kick/VERB box/NOUN#0.0#0.0

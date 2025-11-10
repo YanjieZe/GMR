@@ -1,0 +1,3 @@
+a person walks forwards and turns around on their right foot#a/DET person/NOUN walk/VERB forwards/ADV and/CCONJ turn/VERB around/ADP on/ADP their/DET right/ADJ foot/NOUN#0.0#0.0
+a man walks forward 2 steps, then turns, then walks 2 more steps.#a/DET man/NOUN walk/VERB forward/ADV step/NOUN then/ADV turn/VERB then/ADV walk/VERB more/ADJ step/NOUN#0.0#0.0
+a person walks forward, befor pivoting and walking back to where they started#a/DET person/NOUN walk/VERB forward/ADV befor/ADP pivoting/NOUN and/CCONJ walk/VERB back/ADV to/ADP where/ADV they/PRON start/VERB#0.0#0.0

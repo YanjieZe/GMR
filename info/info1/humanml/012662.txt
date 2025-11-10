@@ -1,0 +1,3 @@
+the person sits down and places their hands on their lap, then gets up and walks right#the/DET person/NOUN sit/VERB down/ADP and/CCONJ place/VERB their/DET hand/NOUN on/ADP their/DET lap/NOUN then/ADV get/VERB up/ADV and/CCONJ walk/VERB right/ADJ#0.0#0.0
+person gets up form sitting position#person/NOUN get/VERB up/ADP form/NOUN sitting/NOUN position/NOUN#0.0#0.0
+a person sitting down, stands up and walks#a/DET person/NOUN sit/VERB down/ADP stand/VERB up/ADV and/CCONJ walk/VERB#0.0#0.0

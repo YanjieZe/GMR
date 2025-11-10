@@ -1,0 +1,3 @@
+a man hops with both feet to the left#a/DET man/NOUN hop/VERB with/ADP both/DET foot/NOUN to/ADP the/DET left/NOUN#0.0#0.0
+a person slightly bends knees and jumps to the left.#a/DET person/NOUN slightly/ADV bend/VERB knee/NOUN and/CCONJ jump/VERB to/ADP the/DET left/NOUN#0.0#0.0
+both feet at the same to jump to the left.#both/DET foot/NOUN at/ADP the/DET same/ADJ to/PART jump/VERB to/ADP the/DET left/NOUN#0.0#0.0

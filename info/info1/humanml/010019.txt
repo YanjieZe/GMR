@@ -1,0 +1,3 @@
+a figure stumbles around uncontrollably while experiencing head ?#a/DET figure/NOUN stumble/NOUN around/ADP uncontrollably/ADV while/SCONJ experience/VERB head/NOUN#0.0#0.0
+a person stumbles to the left, then to the right, where they eventually fall.#a/DET person/NOUN stumble/VERB to/ADP the/DET left/NOUN then/ADV to/ADP the/DET right/NOUN where/ADV they/PRON eventually/ADV fall/VERB#0.0#0.0
+a person with an injured right leg stumbles around in a circle.#a/DET person/NOUN with/ADP an/DET injure/VERB right/ADJ leg/NOUN stumble/NOUN around/ADV in/ADP a/DET circle/NOUN#0.0#0.0

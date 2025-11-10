@@ -1,0 +1,3 @@
+a person on their stands up by using their left hand to push off of the ground.#a/DET person/NOUN on/ADP their/DET stand/NOUN up/ADP by/ADP use/VERB their/DET left/ADJ hand/NOUN to/PART push/VERB off/ADP of/ADP the/DET ground/NOUN#0.0#0.0
+a person goes from being on his knees, to standing up.#a/DET person/NOUN go/VERB from/ADP being/AUX on/ADP his/DET knee/NOUN to/ADP stand/VERB up/ADP#0.0#0.0
+a person kneeling on the ground places their left hand on the ground for balance, to stand up.#a/DET person/NOUN kneel/VERB on/ADP the/DET ground/NOUN place/VERB their/DET left/ADJ hand/NOUN on/ADP the/DET ground/NOUN for/ADP balance/NOUN to/PART stand/VERB up/ADP#0.0#0.0

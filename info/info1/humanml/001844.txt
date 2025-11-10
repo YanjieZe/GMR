@@ -1,0 +1,3 @@
+the person lifts their right hand to their face in a drinking motion#the/DET person/NOUN lift/VERB their/DET right/ADJ hand/NOUN to/ADP their/DET face/NOUN in/ADP a/DET drinking/NOUN motion/NOUN#0.0#0.0
+a person opens a bottle and drinks from it.#a/DET person/NOUN open/VERB a/DET bottle/NOUN and/CCONJ drink/NOUN from/ADP it/PRON#0.0#0.0
+a person claps his arms together then raises is left arm while standing.#a/DET person/NOUN clap/VERB his/DET arm/NOUN together/ADV then/ADV raise/VERB is/AUX left/VERB arm/NOUN while/SCONJ stand/VERB#0.0#0.0

@@ -1,0 +1,3 @@
+a figure walks a few steps forward before raising their arm and knocking, then turns around and walks away#a/DET figure/NOUN walk/VERB a/DET few/ADJ step/NOUN forward/ADV before/ADP raise/VERB their/DET arm/NOUN and/CCONJ knocking/NOUN then/ADV turn/VERB around/ADV and/CCONJ walk/VERB away/ADV#0.0#0.0
+person walks forward, knocks on a door, and walks away.#person/NOUN walk/VERB forward/ADV knock/VERB on/ADP a/DET door/NOUN and/CCONJ walk/VERB away/ADV#0.0#0.0
+a person walking up to a wall and tapping it with their fingers.#a/DET person/NOUN walk/VERB up/ADP to/ADP a/DET wall/NOUN and/CCONJ tap/VERB it/PRON with/ADP their/DET finger/NOUN#0.0#0.0

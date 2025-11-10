@@ -1,0 +1,3 @@
+he picks something up then throwed it#he/PRON pick/VERB something/PRON up/ADP then/ADV throw/VERB it/PRON#0.0#0.0
+a man winding up arm to throw a ball#a/DET man/NOUN wind/VERB up/ADP arm/NOUN to/PART throw/VERB a/DET ball/NOUN#0.0#0.0
+a person winds up and throws a baseball.#a/DET person/NOUN wind/VERB up/ADP and/CCONJ throw/VERB a/DET baseball/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person standing in place taking a drink#a/DET person/NOUN stand/VERB in/ADP place/NOUN take/VERB a/DET drink/NOUN#0.0#0.0
+a person drinks something with their right arm and then their left arm.#a/DET person/NOUN drink/VERB something/PRON with/ADP their/DET right/ADJ arm/NOUN and/CCONJ then/ADV their/DET left/ADJ arm/NOUN#0.0#0.0
+person appears to put hand to mouth as if they are drinking something.#person/NOUN appear/VERB to/PART put/VERB hand/NOUN to/ADP mouth/NOUN as/SCONJ if/SCONJ they/PRON are/AUX drink/VERB something/PRON#0.0#0.0

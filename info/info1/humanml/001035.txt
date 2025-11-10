@@ -1,0 +1,3 @@
+a person stands with his feet hip length apart and holds his hand up ,bends left and right ,bends forward and backwards and stands straight.#a/DET person/NOUN stand/VERB with/ADP his/DET foot/NOUN hip/NOUN length/NOUN apart/ADV and/CCONJ hold/VERB his/DET hand/NOUN up/ADP bend/VERB left/ADJ and/CCONJ right/INTJ bend/VERB forward/ADV and/CCONJ backwards/ADV and/CCONJ stand/VERB straight/ADV#0.0#0.0
+a person doing loosening up by moving and bending.#a/DET person/NOUN do/VERB loosen/VERB up/ADP by/ADP move/VERB and/CCONJ bend/VERB#0.0#0.0
+person is stratching around.#person/NOUN is/AUX stratche/VERB around/ADV#0.0#0.0

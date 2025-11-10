@@ -1,0 +1,3 @@
+a person stretches out his arms.#a/DET person/NOUN stretch/VERB out/ADP his/DET arm/NOUN#0.0#0.0
+a person stretches first their right arm across their body, then their left.#a/DET person/NOUN stretch/VERB first/ADV their/DET right/ADJ arm/NOUN across/ADP their/DET body/NOUN then/ADV their/DET left/NOUN#0.0#0.0
+a man pulls left arm to the right, then pulls right arm to the left.#a/DET man/NOUN pull/VERB left/VERB arm/NOUN to/ADP the/DET right/NOUN then/ADV pull/VERB right/ADJ arm/NOUN to/ADP the/DET left/NOUN#0.0#0.0

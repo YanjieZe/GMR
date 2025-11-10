@@ -1,0 +1,3 @@
+a person jumps in place.#a/DET person/NOUN jump/VERB in/ADP place/NOUN#0.0#0.0
+a man stands on the ground and springs up and down with his hands lowered.#a/DET man/NOUN stand/VERB on/ADP the/DET ground/NOUN and/CCONJ spring/NOUN up/ADP and/CCONJ down/ADP with/ADP his/DET hand/NOUN lower/VERB#0.0#0.0
+a person jumps up quickly.#a/DET person/NOUN jump/VERB up/ADP quickly/ADV#0.0#0.0

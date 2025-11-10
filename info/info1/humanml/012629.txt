@@ -1,0 +1,3 @@
+man walks cautiously with arms out then stops walking.#man/NOUN walk/VERB cautiously/ADV with/ADP arm/NOUN out/ADV then/ADV stop/VERB walk/VERB#0.0#0.0
+a figure lowers their outstretched arms then walks off to the right side/forward while using their hand to steady themselves on a wall#a/DET figure/NOUN lower/VERB their/DET outstretche/VERB arm/NOUN then/ADV walk/VERB off/ADP to/ADP the/DET right/ADJ side/NOUN forward/ADV while/SCONJ use/VERB their/DET hand/NOUN to/PART steady/VERB themselves/PRON on/ADP a/DET wall/NOUN#0.0#0.0
+the man drops his arms and balances with his arms to take several steps forward.#the/DET man/NOUN drop/VERB his/DET arm/NOUN and/CCONJ balance/NOUN with/ADP his/DET arm/NOUN to/PART take/VERB several/ADJ step/NOUN forward/ADV#0.0#0.0

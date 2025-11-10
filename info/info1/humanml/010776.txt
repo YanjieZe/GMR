@@ -1,0 +1,3 @@
+this person is dragging something heavy.#this/DET person/NOUN is/AUX drag/VERB something/PRON heavy/ADJ#0.0#0.0
+a person grips their left leg and staggers as if hurt.#a/DET person/NOUN grip/VERB their/DET left/ADJ leg/NOUN and/CCONJ stagger/NOUN as/SCONJ if/SCONJ hurt/NOUN#0.0#0.0
+a person grasps at their left leg and drags it with them as they move in a small, counter-clockwise circle.#a/DET person/NOUN grasp/VERB at/ADP their/DET left/ADJ leg/NOUN and/CCONJ drag/VERB it/PRON with/ADP them/PRON as/SCONJ they/PRON move/VERB in/ADP a/DET small/ADJ counterclockwise/ADJ circle/NOUN#0.0#0.0

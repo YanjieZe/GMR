@@ -1,0 +1,3 @@
+a person is stepping forward.#a/DET person/NOUN is/AUX step/VERB forward/ADV#0.0#0.0
+a person slowly takes a single step forward.#a/DET person/NOUN slowly/ADV take/VERB a/DET single/ADJ step/NOUN forward/ADV#0.0#0.0
+a person takes one step forward.#a/DET person/NOUN take/VERB one/NUM step/NOUN forward/ADV#0.0#0.0

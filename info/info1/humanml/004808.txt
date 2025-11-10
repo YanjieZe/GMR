@@ -1,0 +1,3 @@
+a person walks, speeds up, and jumps.#a/DET person/NOUN walk/VERB speed/VERB up/ADP and/CCONJ jump/VERB#0.0#0.0
+a person walking and jumping forward.#a/DET person/NOUN walk/VERB and/CCONJ jump/VERB forward/ADV#0.0#0.0
+a person walks forward, increases his pace, and then leaps in the air.#a/DET person/NOUN walk/VERB forward/ADV increase/VERB his/DET pace/NOUN and/CCONJ then/ADV leap/VERB in/ADP the/DET air/NOUN#0.0#0.0

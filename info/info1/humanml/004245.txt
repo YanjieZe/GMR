@@ -1,0 +1,3 @@
+a man stands with both arms outstretched.#a/DET man/NOUN stand/VERB with/ADP both/DET arm/NOUN outstretche/VERB#0.0#0.0
+a man stands on the ground with his both hands spread wide apart.#a/DET man/NOUN stand/VERB on/ADP the/DET ground/NOUN with/ADP his/DET both/DET hand/NOUN spread/VERB wide/ADV apart/ADV#0.0#0.0
+the person standing still with his arms out to the side#the/DET person/NOUN stand/VERB still/ADV with/ADP his/DET arm/NOUN out/SCONJ to/ADP the/DET side/NOUN#0.0#0.0

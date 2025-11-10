@@ -1,0 +1,3 @@
+a person slowly jumped forward#a/DET person/NOUN slowly/ADV jump/VERB forward/ADV#0.0#0.0
+a person stands with arms swaying, jumps forward, and stands still.#a/DET person/NOUN stand/VERB with/ADP arm/NOUN sway/VERB jump/VERB forward/ADV and/CCONJ stand/VERB still/ADV#0.0#0.0
+this person jumps forward from a standing position.#this/DET person/NOUN jump/VERB forward/ADV from/ADP a/DET standing/ADJ position/NOUN#0.0#0.0

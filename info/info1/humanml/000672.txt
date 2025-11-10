@@ -1,0 +1,3 @@
+person is standing in a slight squat position with hands resting on thighs.#person/NOUN is/AUX stand/VERB in/ADP a/DET slight/ADJ squat/NOUN position/NOUN with/ADP hand/NOUN rest/VERB on/ADP thigh/NOUN#0.0#0.0
+a person sits in a chair without moving.#a/DET person/NOUN sit/VERB in/ADP a/DET chair/NOUN without/ADP move/VERB#0.0#0.0
+a person bracing themself against something, possibly a wall.#a/DET person/NOUN brace/VERB themself/PRON against/ADP something/PRON possibly/ADV a/DET wall/NOUN#0.0#0.0

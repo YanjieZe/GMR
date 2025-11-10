@@ -1,0 +1,3 @@
+a person crouches, ties their shoe, and then stands up.#a/DET person/NOUN crouch/VERB tie/VERB their/DET shoe/NOUN and/CCONJ then/ADV stand/VERB up/ADP#0.0#0.0
+the sim appears to crouch down, ties their left shoe gets up and brings hands towards mouth as to yell.#the/DET sim/PROPN appear/VERB to/PART crouch/VERB down/ADP tie/VERB their/DET left/ADJ shoe/NOUN get/VERB up/ADV and/CCONJ bring/VERB hand/NOUN towards/ADP mouth/NOUN as/SCONJ to/PART yell/VERB#0.0#10.0
+a person kneels down to tie their left shoe, then stands up and calls out with both hands at their mouth.#a/DET person/NOUN kneel/VERB down/ADP to/PART tie/VERB their/DET left/ADJ shoe/NOUN then/ADV stand/VERB up/ADP and/CCONJ call/VERB out/ADP with/ADP both/DET hand/NOUN at/ADP their/DET mouth/NOUN#0.0#0.0

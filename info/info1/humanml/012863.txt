@@ -1,0 +1,3 @@
+the person was spinning around in place and jumped.#the/DET person/NOUN was/AUX spin/VERB around/ADV in/ADP place/NOUN and/CCONJ jump/VERB#0.0#0.0
+a person is spinning in circles with arms extended straight out.#a/DET person/NOUN is/AUX spin/VERB in/ADP circle/NOUN with/ADP arm/NOUN extend/VERB straight/ADV out/ADV#0.0#6.0
+the man is spinning around#the/DET man/NOUN is/AUX spin/VERB around/ADV#0.0#0.0

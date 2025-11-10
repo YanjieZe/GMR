@@ -1,0 +1,3 @@
+a person raised both hands and lift something#a/DET person/NOUN raise/VERB both/DET hand/NOUN and/CCONJ lift/VERB something/PRON#0.0#0.0
+a standing person lifts an object at shoulder height over head multiple times using both arms.#a/DET stand/VERB person/NOUN lift/VERB an/DET object/NOUN at/ADP shoulder/NOUN height/NOUN over/ADP head/NOUN multiple/ADJ time/NOUN use/VERB both/DET arm/NOUN#0.0#0.0
+a person lifts weight above head with both arms.#a/DET person/NOUN lift/VERB weight/NOUN above/ADP head/NOUN with/ADP both/DET arm/NOUN#0.0#0.0

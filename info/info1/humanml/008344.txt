@@ -1,0 +1,3 @@
+a person walks forward and then stops.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ then/ADV stop/VERB#0.0#0.0
+a person walks forward and then stops.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ then/ADV stop/VERB#0.0#0.0
+walking forward and then stopping.#walk/VERB forward/ADV and/CCONJ then/ADV stop/VERB#0.0#0.0

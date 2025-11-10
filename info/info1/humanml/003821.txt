@@ -1,0 +1,3 @@
+someone is moving forward and looking at their watch for something, and looking confused#someone/PRON is/AUX move/VERB forward/ADV and/CCONJ look/VERB at/ADP their/DET watch/NOUN for/ADP something/PRON and/CCONJ look/VERB confused/ADJ#0.0#0.0
+waiving and looking at back of hand to stop sun#waiving/NOUN and/CCONJ look/VERB at/ADP back/ADV of/ADP hand/NOUN to/PART stop/VERB sun/NOUN#0.0#0.0
+person is stumping on something.#person/NOUN is/AUX stump/VERB on/ADP something/PRON#0.0#0.0

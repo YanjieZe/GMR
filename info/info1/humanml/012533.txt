@@ -1,0 +1,3 @@
+a person nervously looks from side to side while holding their hands near their chest.#a/DET person/NOUN nervously/ADV look/VERB from/ADP side/NOUN to/PART side/NOUN while/SCONJ hold/VERB their/DET hand/NOUN near/SCONJ their/DET chest/NOUN#0.0#0.0
+person appears to be very cautious holding hands up as if they are scared.#person/NOUN appear/VERB to/PART be/AUX very/ADV cautious/ADJ hold/VERB hand/NOUN up/ADP as/SCONJ if/SCONJ they/PRON are/AUX scared/ADJ#0.0#0.0
+a person who seems to be paranoid or afraid#a/DET person/NOUN who/PRON seem/VERB to/PART be/AUX paranoid/ADJ or/CCONJ afraid/ADJ#0.0#0.0

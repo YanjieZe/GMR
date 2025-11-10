@@ -1,0 +1,3 @@
+he lifts dumbbell with left arm#he/PRON lift/VERB dumbbell/PROPN with/ADP left/ADJ arm/NOUN#0.0#0.0
+a person bends their arms at the elbow repeatedly#a/DET person/NOUN bend/VERB their/DET arm/NOUN at/ADP the/DET elbow/NOUN repeatedly/ADV#0.0#0.0
+a person lifting a dumbbell with their left hand#a/DET person/NOUN lift/VERB a/DET dumbbell/NOUN with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0

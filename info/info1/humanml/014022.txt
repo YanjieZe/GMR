@@ -1,0 +1,3 @@
+walking forward then placing hand over heart.#walk/VERB forward/ADV then/ADV place/VERB hand/NOUN over/ADP heart/NOUN#0.0#0.0
+a person brings their hand to their chest in a salute, before moving to the side and repeating the gesture.#a/DET person/NOUN bring/VERB their/DET hand/NOUN to/ADP their/DET chest/NOUN in/ADP a/DET salute/NOUN before/ADP move/VERB to/ADP the/DET side/NOUN and/CCONJ repeat/VERB the/DET gesture/NOUN#0.0#0.0
+a person grabbed the left hand with right hand#a/DET person/NOUN grab/VERB the/DET left/ADJ hand/NOUN with/ADP right/ADJ hand/NOUN#0.0#0.0

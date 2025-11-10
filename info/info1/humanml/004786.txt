@@ -1,0 +1,3 @@
+the person is jogging lightly#the/DET person/NOUN is/AUX jog/VERB lightly/ADV#0.0#0.0
+a man jogs forward in a straight line.#a/DET man/NOUN jog/VERB forward/ADV in/ADP a/DET straight/ADJ line/NOUN#0.0#0.0
+the man is running straight and starts going slightly to the right.#the/DET man/NOUN is/AUX run/VERB straight/ADV and/CCONJ start/VERB go/VERB slightly/ADV to/ADP the/DET right/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person runs around in a circle in a clockwise motion, completing two laps total#a/DET person/NOUN run/VERB around/ADV in/ADP a/DET circle/NOUN in/ADP a/DET clockwise/NOUN motion/NOUN complete/VERB two/NUM lap/NOUN total/NOUN#0.0#0.0
+the person is jogging in a circle.#the/DET person/NOUN is/AUX jog/VERB in/ADP a/DET circle/NOUN#0.0#0.0
+a person start ran and made a circle#a/DET person/NOUN start/NOUN run/VERB and/CCONJ make/VERB a/DET circle/NOUN#0.0#0.0

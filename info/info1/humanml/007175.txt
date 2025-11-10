@@ -1,0 +1,3 @@
+a man jumps high with elbows bent.#a/DET man/NOUN jump/VERB high/ADJ with/ADP elbow/NOUN bent/ADJ#0.0#0.0
+a person jumps up and down and then swings their arms back.#a/DET person/NOUN jump/VERB up/ADV and/CCONJ down/ADV and/CCONJ then/ADV swing/VERB their/DET arm/NOUN back/ADV#0.0#0.0
+a person jumps, raising their legs.#a/DET person/NOUN jump/VERB raise/VERB their/DET leg/NOUN#0.0#0.0

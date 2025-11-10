@@ -1,0 +1,3 @@
+the person is walking like a human monkey.#the/DET person/NOUN is/AUX walk/VERB like/SCONJ a/DET human/ADJ monkey/NOUN#0.0#0.0
+a person does a scary gesture with its arms and does a 180 circle.#a/DET person/NOUN does/AUX a/DET scary/ADJ gesture/NOUN with/ADP its/DET arm/NOUN and/CCONJ does/AUX a/DET circle/NOUN#0.0#0.0
+a person showing his muscular body to the crowd while moving clockwise#a/DET person/NOUN show/VERB his/DET muscular/ADJ body/NOUN to/ADP the/DET crowd/NOUN while/SCONJ move/VERB clockwise/ADV#0.0#9.0

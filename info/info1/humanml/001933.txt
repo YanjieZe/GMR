@@ -1,0 +1,3 @@
+a person throws something heavy over their head#a/DET person/NOUN throw/VERB something/PRON heavy/ADJ over/ADP their/DET head/NOUN#0.0#0.0
+a man moves forward with his arms raised and throws something before walking back.#a/DET man/NOUN move/VERB forward/ADV with/ADP his/DET arm/NOUN raise/VERB and/CCONJ throw/VERB something/PRON before/ADP walk/VERB back/ADV#0.0#0.0
+a person throws something large with both arms.#a/DET person/NOUN throw/VERB something/PRON large/ADJ with/ADP both/DET arm/NOUN#0.0#0.0

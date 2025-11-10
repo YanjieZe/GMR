@@ -1,0 +1,3 @@
+a person limping with an apparent right ankle injury.#a/DET person/NOUN limp/VERB with/ADP an/DET apparent/ADJ right/ADJ ankle/NOUN injury/NOUN#0.0#0.0
+a person limps slowly forward, then turns around and starts to run back.#a/DET person/NOUN limp/VERB slowly/ADV forward/ADV then/ADV turn/VERB around/ADP and/CCONJ start/VERB to/PART run/VERB back/ADV#0.0#0.0
+a person is stumbling forward his left foot is hurt and then the person turns around and runs like he is about to attack someone.#a/DET person/NOUN is/AUX stumble/VERB forward/ADV his/DET left/ADJ foot/NOUN is/AUX hurt/VERB and/CCONJ then/ADV the/DET person/NOUN turn/VERB around/ADV and/CCONJ run/VERB like/SCONJ he/PRON is/AUX about/ADJ to/PART attack/VERB someone/PRON#0.0#0.0

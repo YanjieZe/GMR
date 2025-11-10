@@ -1,0 +1,3 @@
+person extends left arm slightly then bounces on spot#person/NOUN extend/VERB left/ADJ arm/NOUN slightly/ADV then/ADV bounce/VERB on/ADP spot/NOUN#0.0#0.0
+a person hops up and down very quickly#a/DET person/NOUN hop/VERB up/ADV and/CCONJ down/ADV very/ADV quickly/ADV#0.0#0.0
+a person moving left forearm and then hops three times.#a/DET person/NOUN move/VERB left/VERB forearm/NOUN and/CCONJ then/ADV hop/VERB three/NUM time/NOUN#0.0#0.0

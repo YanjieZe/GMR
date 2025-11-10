@@ -1,0 +1,3 @@
+the person is playing the violin.#the/DET person/NOUN is/AUX play/VERB the/DET violin/NOUN#0.0#0.0
+the sim appears be playing an instrument.#the/DET sim/PROPN appear/VERB be/AUX play/VERB an/DET instrument/NOUN#0.0#0.0
+a person raises something in their left arm, and moves their right arm in a sawing motion#a/DET person/NOUN raise/VERB something/PRON in/ADP their/DET left/ADJ arm/NOUN and/CCONJ move/VERB their/DET right/ADJ arm/NOUN in/ADP a/DET sawing/NOUN motion/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+the man walked forward 3 steps.#the/DET man/NOUN walk/VERB forward/ADV step/NOUN#0.0#0.0
+a person is walking fast towards something#a/DET person/NOUN is/AUX walk/VERB fast/ADV towards/ADP something/PRON#0.0#0.0
+someone walks forwards, their arms swinging slightly.#someone/PRON walk/VERB forwards/ADV their/DET arm/NOUN swinge/VERB slightly/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person leans on an object to his left side and jumps off it.#a/DET person/NOUN lean/VERB on/ADP an/DET object/NOUN to/ADP his/DET left/ADJ side/NOUN and/CCONJ jump/VERB off/ADP it/PRON#0.0#0.0
+user picks up right leg and uses left leg to push forward#user/NOUN pick/VERB up/ADP right/ADJ leg/NOUN and/CCONJ use/VERB left/VERB leg/NOUN to/PART push/VERB forward/ADV#0.0#0.0
+leans on a object to the right side before losing footing and does a slight bounce to the left.#lean/NOUN on/ADP a/DET object/NOUN to/ADP the/DET right/ADJ side/NOUN before/ADP lose/VERB footing/NOUN and/CCONJ does/AUX a/DET slight/ADJ bounce/NOUN to/ADP the/DET left/NOUN#0.0#0.0

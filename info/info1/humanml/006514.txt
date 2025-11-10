@@ -1,0 +1,3 @@
+a person puts their hands on their knee, then gets up and walks towards the right.#a/DET person/NOUN put/VERB their/DET hand/NOUN on/ADP their/DET knee/NOUN then/ADV get/VERB up/ADV and/CCONJ walk/VERB towards/ADP the/DET right/NOUN#0.0#0.0
+person person is posing with his hands on his knees.#person/NOUN person/NOUN is/AUX pose/VERB with/ADP his/DET hand/NOUN on/ADP his/DET knee/NOUN#0.0#0.0
+a person puts his hands on his thighs.#a/DET person/NOUN put/VERB his/DET hand/NOUN on/ADP his/DET thigh/NOUN#0.0#0.0

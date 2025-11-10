@@ -1,0 +1,3 @@
+someone is stepping up a staircase and using the handrail#someone/PRON is/AUX step/VERB up/ADP a/DET staircase/NOUN and/CCONJ use/VERB the/DET handrail/NOUN#0.0#0.0
+a person walks up four stairs, placing their right hand on a railing of some sort.#a/DET person/NOUN walk/VERB up/ADV four/NUM stair/NOUN place/VERB their/DET right/ADJ hand/NOUN on/ADP a/DET railing/NOUN of/ADP some/DET sort/NOUN#0.0#0.0
+a person walks up as if he is going up a staircase, with his right arm raised as if he is holding on a railguard.#a/DET person/NOUN walk/VERB up/ADP as/SCONJ if/SCONJ he/PRON is/AUX go/VERB up/ADP a/DET staircase/NOUN with/ADP his/DET right/ADJ arm/NOUN raise/VERB as/SCONJ if/SCONJ he/PRON is/AUX hold/VERB on/ADP a/DET railguard/NOUN#0.0#0.0

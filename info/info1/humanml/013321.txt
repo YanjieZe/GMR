@@ -1,0 +1,3 @@
+the person walks around aimlessly#the/DET person/NOUN walk/VERB around/ADV aimlessly/ADV#0.0#0.0
+a man walks around while looking for something.#a/DET man/NOUN walk/VERB around/ADV while/SCONJ look/VERB for/ADP something/PRON#0.0#0.0
+a person walks clockwise half a circle.#a/DET person/NOUN walk/VERB clockwise/VERB half/DET a/DET circle/NOUN#0.0#0.0

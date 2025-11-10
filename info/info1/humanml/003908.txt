@@ -1,0 +1,3 @@
+a man throws something and then puts his hands up before throwing something else.#a/DET man/NOUN throw/VERB something/PRON and/CCONJ then/ADV put/VERB his/DET hand/NOUN up/ADP before/ADP throw/VERB something/PRON else/ADV#0.0#0.0
+person throws a football and then catches it, then starts but doesn't finish throwing it again#person/NOUN throw/VERB a/DET football/NOUN and/CCONJ then/ADV catch/VERB it/PRON then/ADV start/VERB but/CCONJ does/AUX finish/VERB throw/VERB it/PRON again/ADV#0.0#0.0
+a man throws then catches an object.#a/DET man/NOUN throw/VERB then/ADV catch/VERB an/DET object/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+person jumped straight  up vertically.#person/NOUN jump/VERB straight/ADV up/ADP vertically/ADV#0.0#0.0
+man bends down at the knees and jumps into the air with his arms straight up above his head; repeats this one time.#man/NOUN bend/VERB down/ADP at/ADP the/DET knee/NOUN and/CCONJ jump/VERB into/ADP the/DET air/NOUN with/ADP his/DET arm/NOUN straight/ADV up/ADV above/ADP his/DET head/NOUN repeat/VERB this/DET one/NUM time/NOUN#0.0#0.0
+a person goes into a deep squat and jumps up from this position and the action is performed twice.#a/DET person/NOUN go/VERB into/ADP a/DET deep/ADJ squat/NOUN and/CCONJ jump/VERB up/ADP from/ADP this/DET position/NOUN and/CCONJ the/DET action/NOUN is/AUX perform/VERB twice/ADV#0.0#0.0

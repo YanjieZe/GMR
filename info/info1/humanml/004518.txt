@@ -1,0 +1,3 @@
+a person walks forward and rubs an object in front of them with their right hand.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ rub/VERB an/DET object/NOUN in/ADP front/NOUN of/ADP them/PRON with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+a person walks up to a table and starts washing it.#a/DET person/NOUN walk/VERB up/ADP to/ADP a/DET table/NOUN and/CCONJ start/VERB wash/VERB it/PRON#0.0#0.0
+a person has his arms spread out, walks forward, and rubs something with his right hand.#a/DET person/NOUN has/AUX his/DET arm/NOUN spread/VERB out/ADV walk/VERB forward/ADV and/CCONJ rub/VERB something/PRON with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0

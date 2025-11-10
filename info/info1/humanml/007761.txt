@@ -1,0 +1,3 @@
+a person lifts dumbbells towards his body several times.#a/DET person/NOUN lift/VERB dumbbell/NOUN towards/ADP his/DET body/NOUN several/ADJ time/NOUN#0.0#0.0
+the person is lifting dumbbells in both of his hands.#the/DET person/NOUN is/AUX lift/VERB dumbbell/NOUN in/ADP both/DET of/ADP his/DET hand/NOUN#0.0#0.0
+a person uses both hands to lift dumbbells#a/DET person/NOUN use/VERB both/DET hand/NOUN to/PART lift/VERB dumbbell/NOUN#0.0#0.0

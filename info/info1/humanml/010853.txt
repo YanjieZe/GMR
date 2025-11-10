@@ -1,0 +1,3 @@
+a person dances to the right and then the left while stepping foot over foot.#a/DET person/NOUN dance/VERB to/ADP the/DET right/NOUN and/CCONJ then/ADV the/DET left/ADJ while/SCONJ step/VERB foot/NOUN over/ADP foot/NOUN#0.0#0.0
+the person is walking like he is in a hurry.#the/DET person/NOUN is/AUX walk/VERB like/SCONJ he/PRON is/AUX in/ADP a/DET hurry/NOUN#0.0#0.0
+a person strolls to the right, plants their right foot, and then strolls to the left.#a/DET person/NOUN stroll/VERB to/ADP the/DET right/NOUN plant/VERB their/DET right/ADJ foot/NOUN and/CCONJ then/ADV stroll/VERB to/ADP the/DET left/NOUN#2.0#5.0

@@ -1,0 +1,3 @@
+person is likely eating something#person/NOUN is/AUX likely/ADV eat/VERB something/PRON#0.0#0.0
+a person prays with both hands and does the sign of the cross.#a/DET person/NOUN pray/VERB with/ADP both/DET hand/NOUN and/CCONJ does/AUX the/DET sign/NOUN of/ADP the/DET cross/NOUN#0.0#0.0
+a person touches their face with their left hand, then both hands, and then left again.#a/DET person/NOUN touch/VERB their/DET face/NOUN with/ADP their/DET left/ADJ hand/NOUN then/ADV both/DET hand/NOUN and/CCONJ then/ADV left/VERB again/ADV#0.0#0.0

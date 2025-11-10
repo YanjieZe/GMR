@@ -1,0 +1,3 @@
+a person standing in one position, gently swinging both arms in back-and-forth motion#a/DET person/NOUN stand/VERB in/ADP one/NUM position/NOUN gently/ADV swinge/VERB both/DET arm/NOUN in/ADP backandforth/PROPN motion/NOUN#0.0#0.0
+a man stands still while slightly swinging his arms back and forth.#a/DET man/NOUN stand/VERB still/ADV while/SCONJ slightly/ADV swinge/VERB his/DET arm/NOUN back/ADV and/CCONJ forth/ADV#0.0#0.0
+gently swings his arms back and forth.#gently/ADV swing/VERB his/DET arm/NOUN back/ADV and/CCONJ forth/ADV#0.0#0.0

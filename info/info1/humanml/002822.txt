@@ -1,0 +1,3 @@
+a person walking trying to avoid things in his way on the floor.#a/DET person/NOUN walk/VERB try/VERB to/PART avoid/VERB thing/NOUN in/ADP his/DET way/NOUN on/ADP the/DET floor/NOUN#0.0#0.0
+a person take varying size steps to the left and right while walking forward.#a/DET person/NOUN take/VERB vary/VERB size/NOUN step/NOUN to/ADP the/DET left/NOUN and/CCONJ right/ADV while/SCONJ walk/VERB forward/ADV#0.0#0.0
+the person is walking around a little wobbly.#the/DET person/NOUN is/AUX walk/VERB around/ADP a/DET little/ADJ wobbly/ADJ#0.0#0.0

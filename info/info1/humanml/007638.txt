@@ -1,0 +1,3 @@
+a person runs forward and stops.#a/DET person/NOUN run/VERB forward/ADV and/CCONJ stop/NOUN#0.0#0.0
+a person walks forward quickly and then comes to a complete stop.#a/DET person/NOUN walk/VERB forward/ADV quickly/ADV and/CCONJ then/ADV come/VERB to/ADP a/DET complete/ADJ stop/NOUN#0.0#0.0
+a person takes a few quick steps forward with their arms swinging at their sides.#a/DET person/NOUN take/VERB a/DET few/ADJ quick/ADJ step/NOUN forward/ADV with/ADP their/DET arm/NOUN swinge/VERB at/ADP their/DET side/NOUN#0.0#0.0

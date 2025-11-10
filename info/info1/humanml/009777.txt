@@ -1,0 +1,3 @@
+a person lifts their right forearm upwards towards their mouth and then puts it down again.#a/DET person/NOUN lift/VERB their/DET right/ADJ forearm/NOUN upwards/ADV towards/ADP their/DET mouth/NOUN and/CCONJ then/ADV put/VERB it/PRON down/ADP again/ADV#0.0#0.0
+a person raises their right hand up and back down.#a/DET person/NOUN raise/VERB their/DET right/ADJ hand/NOUN up/ADP and/CCONJ back/VERB down/ADV#0.0#0.0
+man lifts his right hand to his mouth#man/NOUN lift/VERB his/DET right/ADJ hand/NOUN to/ADP his/DET mouth/NOUN#0.0#0.0

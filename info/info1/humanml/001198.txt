@@ -1,0 +1,3 @@
+a person is standing up and then turns around, then sits back down and rests arms on something.#a/DET person/NOUN is/AUX stand/VERB up/ADP and/CCONJ then/ADV turn/VERB around/ADV then/ADV sit/VERB back/ADV down/ADV and/CCONJ rest/VERB arm/NOUN on/ADP something/PRON#0.0#0.0
+a sitting person stands up takes a few steps, turns around to walk back and sit back down.#a/DET sit/VERB person/NOUN stand/VERB up/ADP take/VERB a/DET few/ADJ step/NOUN turn/VERB around/ADV to/PART walk/VERB back/ADV and/CCONJ sit/VERB back/ADV down/ADV#0.0#0.0
+a person is sitting, stands up, steps out, turns around, step back and sits down.#a/DET person/NOUN is/AUX sit/VERB stand/VERB up/ADV step/VERB out/ADP turn/VERB around/ADV step/VERB back/ADV and/CCONJ sit/VERB down/ADP#0.0#0.0

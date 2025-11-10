@@ -1,0 +1,3 @@
+the person is walking and turned right#the/DET person/NOUN is/AUX walk/VERB and/CCONJ turn/VERB right/ADV#0.0#0.0
+a person walking and then taking a right turn#a/DET person/NOUN walk/VERB and/CCONJ then/ADV take/VERB a/DET right/ADJ turn/NOUN#0.0#0.0
+a person walks forward and then beers toward the right.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ then/ADV beer/VERB toward/ADP the/DET right/NOUN#0.0#0.0

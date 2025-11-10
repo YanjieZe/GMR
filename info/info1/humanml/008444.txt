@@ -1,0 +1,3 @@
+a person shakes hands together, pulls up something in front and from each side of body, pulls something over and sets it down.#a/DET person/NOUN shake/VERB hand/NOUN together/ADV pull/VERB up/ADP something/PRON in/ADP front/NOUN and/CCONJ from/ADP each/DET side/NOUN of/ADP body/NOUN pull/VERB something/PRON over/ADP and/CCONJ set/VERB it/PRON down/ADP#0.0#0.0
+a person raised the hands,and made some jesture#a/DET person/NOUN raise/VERB the/DET hand/NOUN and/CCONJ make/VERB some/DET jesture/NOUN#0.0#0.0
+this person moves arms as if to celebrate.#this/DET person/NOUN move/VERB arm/NOUN as/SCONJ if/SCONJ to/PART celebrate/VERB#0.0#0.0

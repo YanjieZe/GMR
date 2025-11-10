@@ -1,0 +1,3 @@
+person is doing an upper body warm up.#person/NOUN is/AUX do/VERB an/DET upper/ADJ body/NOUN warm/VERB up/ADP#0.0#0.0
+a person waving one hand above their head#a/DET person/NOUN wave/VERB one/NUM hand/NOUN above/ADP their/DET head/NOUN#0.0#0.0
+a character leans on right foot while lifting right arm into the air to perform a stetching motion bounce.#a/DET character/NOUN lean/VERB on/ADP right/ADJ foot/NOUN while/SCONJ lift/VERB right/ADJ arm/NOUN into/ADP the/DET air/NOUN to/PART perform/VERB a/DET stetche/VERB motion/NOUN bounce/NOUN#0.0#0.0

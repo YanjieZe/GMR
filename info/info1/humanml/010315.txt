@@ -1,0 +1,3 @@
+the person is walking forward with the cake.#the/DET person/NOUN is/AUX walk/VERB forward/ADV with/ADP the/DET cake/NOUN#0.0#0.0
+the man is kicking with his right hand#the/DET man/NOUN is/AUX kick/VERB with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+a man kicks something with his right foot.#a/DET man/NOUN kick/VERB something/PRON with/ADP his/DET right/ADJ foot/NOUN#0.0#0.0

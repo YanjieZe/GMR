@@ -1,0 +1,3 @@
+waving hands in and out.#wave/VERB hand/NOUN in/ADP and/CCONJ out/ADV#0.0#0.0
+a person raises both arms and waves.#a/DET person/NOUN raise/VERB both/CCONJ arm/NOUN and/CCONJ wave/NOUN#0.0#0.0
+he waves both of his hands#he/PRON wave/VERB both/DET of/ADP his/DET hand/NOUN#0.0#0.0

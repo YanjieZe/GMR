@@ -1,0 +1,3 @@
+a person does a hand wave to the rhythm of music.#a/DET person/NOUN does/AUX a/DET hand/NOUN wave/NOUN to/ADP the/DET rhythm/NOUN of/ADP music/NOUN#0.0#0.0
+a man bounces on his feet while waving enthusiastically with his right arm.#a/DET man/NOUN bounce/VERB on/ADP his/DET foot/NOUN while/SCONJ wave/VERB enthusiastically/ADV with/ADP his/DET right/ADJ arm/NOUN#0.0#0.0
+a man waves while rocking back and forth.#a/DET man/NOUN wave/NOUN while/SCONJ rock/VERB back/ADV and/CCONJ forth/ADV#0.0#0.0

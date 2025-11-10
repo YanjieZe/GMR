@@ -1,0 +1,3 @@
+a person strums a guitar right handed.#a/DET person/NOUN strum/VERB a/DET guitar/NOUN right/NOUN hand/VERB#0.0#0.0
+a figure raises its left hand and strums with its right hand as if strumming a guitar.#a/DET figure/NOUN raise/VERB its/DET left/ADJ hand/NOUN and/CCONJ strum/VERB with/ADP its/DET right/ADJ hand/NOUN as/SCONJ if/SCONJ strum/VERB a/DET guitar/NOUN#0.0#0.0
+the person is playing the guitar with his right hand.#the/DET person/NOUN is/AUX play/VERB the/DET guitar/NOUN with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0

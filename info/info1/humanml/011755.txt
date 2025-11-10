@@ -1,0 +1,3 @@
+person turns to left, takes three steps forward, sits down, and then walks back to starting place.#person/NOUN turn/VERB to/ADP left/VERB take/VERB three/NUM step/NOUN forward/ADV sit/VERB down/ADV and/CCONJ then/ADV walk/VERB back/ADV to/ADP start/VERB place/NOUN#0.0#0.0
+the man is moving forward#the/DET man/NOUN is/AUX move/VERB forward/ADV#0.0#0.0
+a person sits and stands back up.#a/DET person/NOUN sit/VERB and/CCONJ stand/VERB back/ADV up/ADV#0.0#0.0

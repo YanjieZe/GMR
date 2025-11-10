@@ -1,0 +1,3 @@
+the person runs, jumps over something, and continues to run.#the/DET person/NOUN run/VERB jump/VERB over/ADP something/PRON and/CCONJ continue/VERB to/PART run/VERB#0.0#2.0
+someone running and jumps a hurdle.#someone/PRON run/VERB and/CCONJ jump/VERB a/DET hurdle/NOUN#0.0#0.0
+a person runs forward quickly and jumps over something.#a/DET person/NOUN run/VERB forward/ADV quickly/ADV and/CCONJ jump/VERB over/ADP something/PRON#0.0#0.0

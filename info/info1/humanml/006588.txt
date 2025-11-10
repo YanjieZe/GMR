@@ -1,0 +1,3 @@
+the person was kneeling and got up using his left hand.#the/DET person/NOUN was/AUX kneel/VERB and/CCONJ get/VERB up/ADP use/VERB his/DET left/ADJ hand/NOUN#0.0#0.0
+a figure is on its knees. it then bends its left knee in order to help lift itself up to a standing positon.#a/DET figure/NOUN is/AUX on/ADP its/DET knee/NOUN it/PRON then/ADV bend/VERB its/DET left/ADJ knee/NOUN in/ADP order/NOUN to/PART help/VERB lift/VERB itself/PRON up/ADP to/ADP a/DET stand/VERB positon/PROPN#0.0#0.0
+kneeling and then standing up.#kneeling/PROPN and/CCONJ then/ADV stand/VERB up/ADP#0.0#0.0

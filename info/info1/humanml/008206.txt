@@ -1,0 +1,3 @@
+a person bends down to touch their toes twice#a/DET person/NOUN bend/VERB down/ADP to/PART touch/VERB their/DET toe/NOUN twice/ADV#0.0#0.0
+a person is doing warm up stretches#a/DET person/NOUN is/AUX do/VERB warm/ADJ up/ADP stretch/NOUN#0.0#0.0
+a person has their hands raised in the air and stretches to their left, then backwards, then forwards towards their toes multiple times.#a/DET person/NOUN has/AUX their/DET hand/NOUN raise/VERB in/ADP the/DET air/NOUN and/CCONJ stretch/VERB to/ADP their/DET left/NOUN then/ADV backwards/ADV then/ADV forward/VERB towards/ADP their/DET toe/NOUN multiple/ADJ time/NOUN#0.0#0.0

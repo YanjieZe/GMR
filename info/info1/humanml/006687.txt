@@ -1,0 +1,3 @@
+a person raises their left hand above their head and motions downward. as if throwing an object toward the ground#a/DET person/NOUN raise/VERB their/DET left/ADJ hand/NOUN above/ADP their/DET head/NOUN and/CCONJ motion/NOUN downward/ADV as/SCONJ if/SCONJ throw/VERB an/DET object/NOUN toward/ADP the/DET ground/NOUN#0.0#0.0
+person is practicing tennis moves#person/NOUN is/AUX practice/VERB tennis/NOUN move/NOUN#0.0#0.0
+a figure gestures in frustration by extending then throwing down their right arm#a/DET figure/NOUN gesture/NOUN in/ADP frustration/NOUN by/ADP extend/VERB then/ADV throw/VERB down/ADP their/DET right/ADJ arm/NOUN#0.0#0.0

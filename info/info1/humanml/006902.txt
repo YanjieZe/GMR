@@ -1,0 +1,3 @@
+a person crosses his arms in front of his chest#a/DET person/NOUN cross/VERB his/DET arm/NOUN in/ADP front/NOUN of/ADP his/DET chest/NOUN#0.0#0.0
+a person folds their arms#a/DET person/NOUN fold/VERB their/DET arm/NOUN#0.0#0.0
+a figure hugs their arms.#a/DET figure/NOUN hug/VERB their/DET arm/NOUN#0.0#0.0

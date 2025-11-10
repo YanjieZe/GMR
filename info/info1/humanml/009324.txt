@@ -1,0 +1,3 @@
+the person is moving an item#the/DET person/NOUN is/AUX move/VERB an/DET item/NOUN#0.0#0.0
+the person reached over and pick something up and wrote on the chalkboard.#the/DET person/NOUN reach/VERB over/ADP and/CCONJ pick/VERB something/PRON up/ADP and/CCONJ write/VERB on/ADP the/DET chalkboard/NOUN#0.0#0.0
+a person takes something off of a table and places it on a shelf.#a/DET person/NOUN take/VERB something/PRON off/ADP of/ADP a/DET table/NOUN and/CCONJ place/VERB it/PRON on/ADP a/DET shelf/NOUN#0.0#0.0

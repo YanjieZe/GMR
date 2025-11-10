@@ -1,0 +1,3 @@
+subject walks in a full circle, then side steps to turn around and walk around something to avoid running into.#subject/ADJ walk/VERB in/ADP a/DET full/ADJ circle/NOUN then/ADV side/NOUN step/NOUN to/PART turn/VERB around/ADP and/CCONJ walk/VERB around/ADP something/PRON to/PART avoid/VERB run/VERB into/ADP#0.0#0.0
+the man is walking normally#the/DET man/NOUN is/AUX walk/VERB normally/ADV#0.0#0.0
+a figure walks quickly in an irregular pattern , arms slightly swaying at their sides.#a/DET figure/NOUN walk/VERB quickly/ADV in/ADP an/DET irregular/ADJ pattern/NOUN arm/NOUN slightly/ADV sway/VERB at/ADP their/DET side/NOUN#0.0#0.0

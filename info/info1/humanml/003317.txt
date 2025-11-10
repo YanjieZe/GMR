@@ -1,0 +1,3 @@
+he raises his hands and feet alternately and then prances around.#he/PRON raise/VERB his/DET hand/NOUN and/CCONJ foot/NOUN alternately/ADV and/CCONJ then/ADV prance/VERB around/ADV#0.0#0.0
+the man raises opposite foot and arm then dances in a circle.#the/DET man/NOUN raise/VERB opposite/ADJ foot/NOUN and/CCONJ arm/NOUN then/ADV dance/VERB in/ADP a/DET circle/NOUN#0.0#0.0
+a person is walking in place putting their arms up at the sides slightly.#a/DET person/NOUN is/AUX walk/VERB in/ADP place/NOUN put/VERB their/DET arm/NOUN up/ADP at/ADP the/DET side/NOUN slightly/ADV#0.0#0.0

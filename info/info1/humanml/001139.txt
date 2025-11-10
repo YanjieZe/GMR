@@ -1,0 +1,3 @@
+a person stands with their left foot in front of their right and wobbles to their right to maintain balance#a/DET person/NOUN stand/VERB with/ADP their/DET left/ADJ foot/NOUN in/ADP front/NOUN of/ADP their/DET right/NOUN and/CCONJ wobble/NOUN to/ADP their/DET right/NOUN to/PART maintain/VERB balance/NOUN#0.0#0.0
+figure has one foot in front of the other and is leaning back and forth. as if trying to maintain balance.#figure/NOUN has/AUX one/NUM foot/NOUN in/ADP front/NOUN of/ADP the/DET other/ADJ and/CCONJ is/AUX lean/VERB back/ADV and/CCONJ forth/ADV as/SCONJ if/SCONJ try/VERB to/PART maintain/VERB balance/NOUN#0.0#0.0
+a person is balancing on a tight rope#a/DET person/NOUN is/AUX balance/VERB on/ADP a/DET tight/ADJ rope/NOUN#0.0#0.0

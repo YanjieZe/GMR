@@ -1,0 +1,3 @@
+a person standing still and then walking a zig-zag#a/DET person/NOUN stand/VERB still/ADV and/CCONJ then/ADV walk/VERB a/DET zigzag/NOUN#0.0#0.0
+a man looks around and then walks in a circle#a/DET man/NOUN look/VERB around/ADV and/CCONJ then/ADV walk/VERB in/ADP a/DET circle/NOUN#0.0#0.0
+from a left leaning position, someone slowly paces around in a slow circle looking around while walking#from/ADP a/DET left/ADJ lean/VERB position/NOUN someone/PRON slowly/ADV pace/VERB around/ADV in/ADP a/DET slow/ADJ circle/NOUN look/VERB around/ADV while/SCONJ walk/VERB#0.0#10.0

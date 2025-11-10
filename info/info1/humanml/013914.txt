@@ -1,0 +1,3 @@
+the man is doing arm circles.#the/DET man/NOUN is/AUX do/VERB arm/NOUN circle/NOUN#0.0#0.0
+a person does circular motions with both arms.#a/DET person/NOUN does/AUX circular/ADJ motion/NOUN with/ADP both/DET arm/NOUN#0.0#0.0
+a person makes several arm circles with both arms in front of their body.#a/DET person/NOUN make/VERB several/ADJ arm/NOUN circle/NOUN with/ADP both/DET arm/NOUN in/ADP front/NOUN of/ADP their/DET body/NOUN#0.0#0.0

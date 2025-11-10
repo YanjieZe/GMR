@@ -1,0 +1,3 @@
+a person makes punching motions with their arms and makes quick steps with their feet.#a/DET person/NOUN make/VERB punching/NOUN motion/NOUN with/ADP their/DET arm/NOUN and/CCONJ make/VERB quick/ADJ step/NOUN with/ADP their/DET foot/NOUN#0.0#0.0
+a person boxes and punches with right arm.#a/DET person/NOUN box/NOUN and/CCONJ punch/NOUN with/ADP right/ADJ arm/NOUN#0.0#0.0
+robot fighting and throwing punches with his right hand and and trying to defend too.#robot/NOUN fight/VERB and/CCONJ throw/VERB punch/NOUN with/ADP his/DET right/ADJ hand/NOUN and/CCONJ and/CCONJ try/VERB to/PART defend/VERB too/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+the man is standing still#the/DET man/NOUN is/AUX stand/VERB still/ADV#0.0#0.0
+the person is standing still with his hands in front of him.#the/DET person/NOUN is/AUX stand/VERB still/ADV with/ADP his/DET hand/NOUN in/ADP front/NOUN of/ADP him/PRON#0.0#0.0
+the person stand up from the ground and raise both his hand up a little bit then put his hands back down.#the/DET person/NOUN stand/VERB up/ADP from/ADP the/DET ground/NOUN and/CCONJ raise/VERB both/CCONJ his/DET hand/NOUN up/ADP a/DET little/ADJ bit/NOUN then/ADV put/VERB his/DET hand/NOUN back/ADV down/ADV#0.0#0.0

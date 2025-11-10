@@ -1,0 +1,3 @@
+a man takes a step to the right to balance himself and then lifts both arms up at the same time aproximately 90 degrees.#a/DET man/NOUN take/VERB a/DET step/NOUN to/ADP the/DET right/NOUN to/PART balance/VERB himself/PRON and/CCONJ then/ADV lift/VERB both/DET arm/NOUN up/ADV at/ADP the/DET same/ADJ time/NOUN aproximately/ADV degree/NOUN#0.0#0.0
+the person pisitions his/her legs and lifts arms in a bicep curl motion#the/DET person/NOUN pisition/VERB his/DET her/DET leg/NOUN and/CCONJ lift/VERB arm/NOUN in/ADP a/DET bicep/NOUN curl/NOUN motion/NOUN#0.0#0.0
+the person lifts both arms to shoulder level#the/DET person/NOUN lift/VERB both/DET arm/NOUN to/ADP shoulder/NOUN level/NOUN#0.0#0.0

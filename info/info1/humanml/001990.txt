@@ -1,0 +1,3 @@
+a person crosses arms in front of body and then moves them back to his sides.#a/DET person/NOUN cross/VERB arm/NOUN in/ADP front/NOUN of/ADP body/NOUN and/CCONJ then/ADV move/VERB them/PRON back/ADV to/ADP his/DET side/NOUN#0.0#0.0
+the man crosses his arms then throws then behind him.#the/DET man/NOUN cross/VERB his/DET arm/NOUN then/ADV throw/VERB then/ADV behind/ADP him/PRON#0.0#0.0
+the person is standing straight up and crosses both arms together at the forearms for a few second then returns back with arms to the side.#the/DET person/NOUN is/AUX stand/VERB straight/ADV up/ADV and/CCONJ cross/VERB both/DET arm/NOUN together/ADV at/ADP the/DET forearm/NOUN for/ADP a/DET few/ADJ second/NOUN then/ADV return/VERB back/ADV with/ADP arm/NOUN to/ADP the/DET side/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a man walks forward and turns around.#a/DET man/NOUN walk/VERB forward/ADV and/CCONJ turn/VERB around/ADV#0.0#0.0
+a person takes two steps forward then turns to their left 180 degrees and takes two steps away.#a/DET person/NOUN take/VERB two/NUM step/NOUN forward/ADV then/ADV turn/VERB to/ADP their/DET left/VERB degree/NOUN and/CCONJ take/VERB two/NUM step/NOUN away/ADV#0.0#0.0
+person seems to walking on a catwalk. walks forward then turn around after a few steps.#person/NOUN seem/VERB to/PART walk/VERB on/ADP a/DET catwalk/NOUN walk/VERB forward/ADV then/ADV turn/VERB around/ADP after/ADP a/DET few/ADJ step/NOUN#0.0#0.0

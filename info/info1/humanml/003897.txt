@@ -1,0 +1,3 @@
+a person crouches down to crawl four steps forward and to his right, then turns around and crawls back to where he started before standing up.#a/DET person/NOUN crouch/VERB down/ADP to/ADP crawl/VERB four/NUM step/NOUN forward/ADV and/CCONJ to/ADP his/DET right/NOUN then/ADV turn/VERB around/ADP and/CCONJ crawl/VERB back/ADV to/ADP where/ADV he/PRON start/VERB before/ADP stand/VERB up/ADP#0.0#0.0
+a person crouches down and walks on all fours back and forth.#a/DET person/NOUN crouch/VERB down/ADP and/CCONJ walk/VERB on/ADP all/DET four/NOUN back/ADV and/CCONJ forth/ADV#0.0#0.0
+a person gets down and crawls on all fours.#a/DET person/NOUN get/VERB down/ADV and/CCONJ crawl/VERB on/ADP all/DET four/NOUN#0.0#0.0

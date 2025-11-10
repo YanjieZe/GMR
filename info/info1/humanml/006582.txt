@@ -1,0 +1,3 @@
+the subject to standing facing forward then moves right arm to head than moves hand back down#the/DET subject/NOUN to/ADP stand/VERB face/VERB forward/ADV then/ADV move/VERB right/ADJ arm/NOUN to/PART head/VERB than/SCONJ move/NOUN hand/VERB back/ADV down/ADV#0.0#0.0
+raising hand to face then lowering.#raise/VERB hand/NOUN to/PART face/VERB then/ADV lower/VERB#0.0#0.0
+a person raises their right hand to their face and then drops their arm back down.#a/DET person/NOUN raise/VERB their/DET right/ADJ hand/NOUN to/ADP their/DET face/NOUN and/CCONJ then/ADV drop/VERB their/DET arm/NOUN back/ADV down/ADV#0.0#0.0

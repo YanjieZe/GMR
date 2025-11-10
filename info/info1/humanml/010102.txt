@@ -1,0 +1,3 @@
+a person walks forward a few steps, then smoothly turns on their right foot to walk the other way.#a/DET person/NOUN walk/VERB forward/ADV a/DET few/ADJ step/NOUN then/ADV smoothly/ADV turn/VERB on/ADP their/DET right/ADJ foot/NOUN to/PART walk/VERB the/DET other/ADJ way/NOUN#0.0#0.0
+a person walks forward, spins around, and walks back.#a/DET person/NOUN walk/VERB forward/ADV spin/VERB around/ADV and/CCONJ walk/VERB back/ADV#0.0#0.0
+a person moves forward and spins on their heel turning around.#a/DET person/NOUN move/VERB forward/ADV and/CCONJ spin/VERB on/ADP their/DET heel/NOUN turn/VERB around/ADV#0.0#0.0

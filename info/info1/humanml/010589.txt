@@ -1,0 +1,3 @@
+a man vomiting bending down and then running and protecting using both hands and then vomiting again#a/DET man/NOUN vomit/VERB bend/VERB down/ADP and/CCONJ then/ADV run/VERB and/CCONJ protect/VERB use/VERB both/DET hand/NOUN and/CCONJ then/ADV vomit/VERB again/ADV#0.0#0.0
+the man is moving using his body#the/DET man/NOUN is/AUX move/VERB use/VERB his/DET body/NOUN#0.0#0.0
+band the legs  and shake the hand moving ear and there.#band/VERB the/DET leg/NOUN and/CCONJ shake/VERB the/DET hand/NOUN move/VERB ear/NOUN and/CCONJ there/ADV#0.0#0.0

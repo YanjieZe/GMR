@@ -1,0 +1,3 @@
+a person, walks, climbs up 3 steps, and reaches out their hand for something.#a/DET person/NOUN walk/VERB climb/VERB up/ADV step/NOUN and/CCONJ reach/VERB out/ADP their/DET hand/NOUN for/ADP something/PRON#0.0#0.0
+a person climbs up a ladder#a/DET person/NOUN climb/VERB up/ADP a/DET ladder/NOUN#0.0#0.0
+the person is climbing up to reach some thing.#the/DET person/NOUN is/AUX climb/VERB up/ADP to/PART reach/VERB some/DET thing/NOUN#0.0#0.0

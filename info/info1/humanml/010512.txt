@@ -1,0 +1,3 @@
+the person was pushed backwards but did not fall.#the/DET person/NOUN was/AUX push/VERB backwards/ADV but/CCONJ did/AUX not/PART fall/VERB#0.0#0.0
+a person steps forward, gets shoved to the left, and then walks to the right and stops#a/DET person/NOUN step/VERB forward/ADV get/VERB shove/VERB to/ADP the/DET left/NOUN and/CCONJ then/ADV walk/VERB to/ADP the/DET right/NOUN and/CCONJ stop/VERB#0.0#0.0
+a walking person is pushed by an unseen force, but they recover and continue on their way.#a/DET walk/VERB person/NOUN is/AUX push/VERB by/ADP an/DET unseen/ADJ force/NOUN but/CCONJ they/PRON recover/VERB and/CCONJ continue/VERB on/ADP their/DET way/NOUN#0.0#0.0

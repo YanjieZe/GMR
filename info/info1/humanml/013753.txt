@@ -1,0 +1,3 @@
+a person alternately uses his hands to illustrate a high-spirited drumming motion.#a/DET person/NOUN alternately/ADV use/VERB his/DET hand/NOUN to/PART illustrate/VERB a/DET highspirited/ADJ drumming/NOUN motion/NOUN#0.0#0.0
+a man paws at the air with both hands in vigorous vertical patting motions.#a/DET man/NOUN paw/VERB at/ADP the/DET air/NOUN with/ADP both/DET hand/NOUN in/ADP vigorous/ADJ vertical/ADJ patting/NOUN motion/NOUN#0.0#0.0
+man standing, raising and lowering both hands rapidly like bouncing to balls at the same time.#man/PROPN stand/VERB raise/VERB and/CCONJ lower/VERB both/DET hand/NOUN rapidly/ADV like/SCONJ bounce/VERB to/ADP ball/NOUN at/ADP the/DET same/ADJ time/NOUN#0.0#0.0

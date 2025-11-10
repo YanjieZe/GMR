@@ -1,0 +1,3 @@
+walking forwards and backwards in a line.#walk/VERB forwards/ADV and/CCONJ backwards/ADV in/ADP a/DET line/NOUN#0.0#0.0
+a person walks foward and turns around on left foot and walks back#a/DET person/NOUN walk/VERB foward/ADJ and/CCONJ turn/VERB around/ADP on/ADP left/ADJ foot/NOUN and/CCONJ walk/VERB back/ADV#0.0#0.0
+a person walks forwards, spins around and walks back#a/DET person/NOUN walk/VERB forwards/ADV spin/VERB around/ADV and/CCONJ walk/VERB back/ADV#0.0#0.0

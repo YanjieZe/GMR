@@ -1,0 +1,3 @@
+a person lifts both arms above their head, then moves them forward quickly.#a/DET person/NOUN lift/VERB both/DET arm/NOUN above/ADP their/DET head/NOUN then/ADV move/VERB them/PRON forward/ADV quickly/ADV#0.0#0.0
+someone has both hands over their head and moves them in a throwing motion#someone/PRON has/AUX both/DET hand/NOUN over/ADP their/DET head/NOUN and/CCONJ move/VERB them/PRON in/ADP a/DET throwing/NOUN motion/NOUN#0.0#0.0
+he throws both hands#he/PRON throw/VERB both/DET hand/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person takes a step forward, then has both arms covering his head#a/DET person/NOUN take/VERB a/DET step/NOUN forward/ADV then/ADV has/AUX both/DET arm/NOUN cover/VERB his/DET head/NOUN#0.0#0.0
+a person holds their head and stumbles#a/DET person/NOUN hold/VERB their/DET head/NOUN and/CCONJ stumble/NOUN#0.0#0.0
+the person has been hit in the head.#the/DET person/NOUN has/AUX been/AUX hit/VERB in/ADP the/DET head/NOUN#0.0#0.0

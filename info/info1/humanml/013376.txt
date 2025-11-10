@@ -1,0 +1,3 @@
+a person begins walking with their left foot, takes a couple of steps, turns towards the left and takes a couple more steps and stands still.#a/DET person/NOUN begin/VERB walk/VERB with/ADP their/DET left/ADJ foot/NOUN take/VERB a/DET couple/NOUN of/ADP step/NOUN turn/VERB towards/ADP the/DET left/NOUN and/CCONJ take/VERB a/DET couple/NOUN more/ADJ step/NOUN and/CCONJ stand/VERB still/ADV#0.0#0.0
+a person walks towards the left side..#a/DET person/NOUN walk/VERB towards/ADP the/DET left/ADJ side/NOUN#0.0#0.0
+person walks forward and to the left#person/NOUN walk/VERB forward/ADV and/CCONJ to/ADP the/DET left/NOUN#0.0#0.0

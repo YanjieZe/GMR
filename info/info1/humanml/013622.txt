@@ -1,0 +1,2 @@
+a person stands still and then takes a few steps backward#a/DET person/NOUN stand/VERB still/ADV and/CCONJ then/ADV take/VERB a/DET few/ADJ step/NOUN backward/ADV#0.0#0.0
+a person stands in place and then turns around and faces something to the left side, behind them#a/DET person/NOUN stand/VERB in/ADP place/NOUN and/CCONJ then/ADV turn/VERB around/ADV and/CCONJ face/VERB something/PRON to/ADP the/DET left/ADJ side/NOUN behind/ADP them/PRON#0.0#0.0

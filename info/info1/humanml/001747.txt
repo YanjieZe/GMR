@@ -1,0 +1,3 @@
+person standing steps back to the left then to the right#person/NOUN stand/VERB step/NOUN back/ADV to/ADP the/DET left/NOUN then/ADV to/ADP the/DET right/NOUN#0.0#0.0
+person walks backwards for a step then walk towards left and then to left and turns around#person/NOUN walk/VERB backwards/ADV for/ADP a/DET step/NOUN then/ADV walk/VERB towards/ADP left/VERB and/CCONJ then/ADV to/ADP left/NOUN and/CCONJ turn/VERB around/ADV#0.0#0.0
+person steps feet infront of each other to side#person/NOUN step/VERB foot/NOUN infront/ADV of/ADP each/DET other/ADJ to/PART side/VERB#0.0#0.0

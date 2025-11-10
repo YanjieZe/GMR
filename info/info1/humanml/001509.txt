@@ -1,0 +1,3 @@
+a man bends down to cross swing his arm then walks back to walk forward while swinging his arms.#a/DET man/NOUN bend/VERB down/ADP to/PART cross/VERB swing/VERB his/DET arm/NOUN then/ADV walk/VERB back/ADV to/PART walk/VERB forward/ADV while/SCONJ swinge/VERB his/DET arm/NOUN#0.0#0.0
+a person stretches their body, first swinging their arms low, then stepping backward and pinwheeling their arms.#a/DET person/NOUN stretch/VERB their/DET body/NOUN first/ADV swinge/VERB their/DET arm/NOUN low/ADJ then/ADV step/VERB backward/ADV and/CCONJ pinwheele/VERB their/DET arm/NOUN#0.0#0.0
+the stick figure is getting ready to get something done.#the/DET stick/NOUN figure/NOUN is/AUX get/VERB ready/ADJ to/PART get/AUX something/PRON do/VERB#0.0#0.0

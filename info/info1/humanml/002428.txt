@@ -1,0 +1,3 @@
+a person walks forward at an angle to kick a ball#a/DET person/NOUN walk/VERB forward/ADV at/ADP an/DET angle/NOUN to/PART kick/VERB a/DET ball/NOUN#0.0#0.0
+quickly jolts back with a kick then throws up the right arm in the air.#quickly/ADV jolt/VERB back/ADV with/ADP a/DET kick/NOUN then/ADV throw/VERB up/ADP the/DET right/ADJ arm/NOUN in/ADP the/DET air/NOUN#0.0#0.0
+person moves back two steps fastly then  kicks with right leg then raises right arm as if kicking a ball#person/NOUN move/VERB back/ADP two/NUM step/NOUN fastly/ADV then/ADV kick/NOUN with/ADP right/ADJ leg/NOUN then/ADV raise/VERB right/ADJ arm/NOUN as/SCONJ if/SCONJ kick/VERB a/DET ball/NOUN#0.0#0.0

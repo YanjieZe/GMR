@@ -1,0 +1,3 @@
+a person kneels down while holding onto a stool#a/DET person/NOUN kneel/VERB down/ADP while/SCONJ hold/VERB onto/ADP a/DET stool/NOUN#0.0#0.0
+a man kneels to the ground one leg at a time starting with the right leg#a/DET man/NOUN kneel/VERB to/ADP the/DET ground/NOUN one/NUM leg/NOUN at/ADP a/DET time/NOUN start/VERB with/ADP the/DET right/ADJ leg/NOUN#0.0#0.0
+a person uses their right arm to get support on something while kneeling down.#a/DET person/NOUN use/VERB their/DET right/ADJ arm/NOUN to/PART get/AUX support/NOUN on/ADP something/PRON while/SCONJ kneel/VERB down/ADP#0.0#0.0

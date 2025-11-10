@@ -1,0 +1,2 @@
+a person casually walks aimlessly.#a/DET person/NOUN casually/ADV walk/VERB aimlessly/ADV#0.0#0.0
+a person walks in a circle, swaying its arms with swagger#a/DET person/NOUN walk/VERB in/ADP a/DET circle/NOUN sway/VERB its/DET arm/NOUN with/ADP swagger/NOUN#0.0#0.0

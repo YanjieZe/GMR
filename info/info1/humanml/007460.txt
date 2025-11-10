@@ -1,0 +1,3 @@
+a person is standing and throws something fast with his right hand.#a/DET person/NOUN is/AUX stand/VERB and/CCONJ throw/VERB something/PRON fast/ADV with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+the person threw some thing with his left him.#the/DET person/NOUN throw/VERB some/DET thing/NOUN with/ADP his/DET left/VERB him/PRON#0.0#0.0
+a person lifts his left arm and appears to throw something. the person then lowers his left arm back to the original position#a/DET person/NOUN lift/VERB his/DET left/ADJ arm/NOUN and/CCONJ appear/VERB to/PART throw/VERB something/PRON the/DET person/NOUN then/ADV lower/VERB his/DET left/ADJ arm/NOUN back/ADV to/ADP the/DET original/ADJ position/NOUN#0.0#0.0

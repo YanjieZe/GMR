@@ -1,0 +1,3 @@
+a person raising their left hand to their face.#a/DET person/NOUN raise/VERB their/DET left/ADJ hand/NOUN to/ADP their/DET face/NOUN#0.0#0.0
+a person yawns with their left hand.#a/DET person/NOUN yawn/VERB with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0
+a person uses their right hand to touch their face.#a/DET person/NOUN use/VERB their/DET right/ADJ hand/NOUN to/PART touch/VERB their/DET face/NOUN#0.0#0.0

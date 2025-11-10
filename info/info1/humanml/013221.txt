@@ -1,0 +1,3 @@
+a person sways to swing their right foot followed by their left foot.#a/DET person/NOUN sway/VERB to/PART swing/VERB their/DET right/ADJ foot/NOUN follow/VERB by/ADP their/DET left/ADJ foot/NOUN#0.0#0.0
+a person kicks thier right leg back and foward, then kicks thier left leg back and foward, and stands back straight#a/DET person/NOUN kick/VERB thier/ADV right/ADJ leg/NOUN back/ADV and/CCONJ foward/PROPN then/ADV kick/VERB thier/ADV left/ADJ leg/NOUN back/ADV and/CCONJ foward/ADJ and/CCONJ stand/VERB back/ADV straight/ADV#0.0#0.0
+a person kicks something with his right leg, then his left leg, then stands.#a/DET person/NOUN kick/VERB something/PRON with/ADP his/DET right/ADJ leg/NOUN then/ADV his/DET left/ADJ leg/NOUN then/ADV stand/VERB#0.0#0.0

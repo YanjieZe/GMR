@@ -1,0 +1,3 @@
+the man stand opposite direction like a exericeses.#the/DET man/NOUN stand/VERB opposite/ADJ direction/NOUN like/SCONJ a/DET exericese/NOUN#0.0#0.0
+this person does a hand stand.#this/DET person/NOUN does/AUX a/DET hand/NOUN stand/NOUN#0.0#0.0
+a person does a hand stand.#a/DET person/NOUN does/AUX a/DET hand/NOUN stand/NOUN#0.0#0.0

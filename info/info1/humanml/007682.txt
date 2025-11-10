@@ -1,0 +1,3 @@
+a person waves their hands in circles#a/DET person/NOUN wave/VERB their/DET hand/NOUN in/ADP circle/NOUN#0.0#0.0
+a person with arms outstretched to the side brings them in front of them and rotates them each in a circle#a/DET person/NOUN with/ADP arm/NOUN outstretche/VERB to/ADP the/DET side/NOUN bring/VERB them/PRON in/ADP front/NOUN of/ADP them/PRON and/CCONJ rotate/VERB them/PRON each/DET in/ADP a/DET circle/NOUN#0.0#0.0
+the person puts his arms out straight, forms air circles with his hands and returns to standing.#the/DET person/NOUN put/VERB his/DET arm/NOUN out/ADV straight/ADV form/VERB air/NOUN circle/NOUN with/ADP his/DET hand/NOUN and/CCONJ return/NOUN to/ADP stand/VERB#0.0#0.0

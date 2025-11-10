@@ -1,0 +1,3 @@
+a person is walking erratically in a figure 8 pattern.#a/DET person/NOUN is/AUX walk/VERB erratically/ADV in/ADP a/DET figure/NOUN pattern/NOUN#0.0#0.0
+a person is carefully walking from left to right then back to the left with no sense of direction as if they were intoxicated#a/DET person/NOUN is/AUX carefully/ADV walk/VERB from/ADP left/NOUN to/ADP right/ADV then/ADV back/ADV to/ADP the/DET left/NOUN with/ADP no/DET sense/NOUN of/ADP direction/NOUN as/SCONJ if/SCONJ they/PRON were/AUX intoxicate/VERB#0.0#0.0
+a person walks unsteadily in a figure eight pattern.#a/DET person/NOUN walk/VERB unsteadily/ADV in/ADP a/DET figure/NOUN eight/NUM pattern/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+person is walkng down slowly.#person/NOUN is/AUX walkng/PROPN down/ADP slowly/ADV#0.0#0.0
+a person takes seven slow steps forward diagonally and to the left.#a/DET person/NOUN take/VERB seven/NUM slow/ADJ step/NOUN forward/ADV diagonally/ADV and/CCONJ to/ADP the/DET left/NOUN#0.0#0.0
+a figure walks in a swirl pattern#a/DET figure/NOUN walk/VERB in/ADP a/DET swirl/NOUN pattern/NOUN#0.0#0.0

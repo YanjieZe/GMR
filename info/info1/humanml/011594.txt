@@ -1,0 +1,3 @@
+a person walks forward while being assisted by hand rails.#a/DET person/NOUN walk/VERB forward/ADV while/SCONJ being/AUX assist/VERB by/ADP hand/NOUN rail/NOUN#0.0#0.0
+the man is walking with handrail table#the/DET man/NOUN is/AUX walk/VERB with/ADP handrail/NOUN table/NOUN#0.0#0.0
+the person is walking to the left holding onto the handrail.#the/DET person/NOUN is/AUX walk/VERB to/ADP the/DET left/ADJ hold/VERB onto/ADP the/DET handrail/NOUN#0.0#0.0

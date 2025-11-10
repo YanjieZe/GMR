@@ -1,0 +1,3 @@
+a person walks over to a chair sits and then gets back up#a/DET person/NOUN walk/VERB over/ADP to/ADP a/DET chair/NOUN sit/NOUN and/CCONJ then/ADV get/VERB back/ADV up/ADV#0.0#0.0
+a person walks in a curved line, sits down, then stands back up.#a/DET person/NOUN walk/VERB in/ADP a/DET curved/ADJ line/NOUN sit/VERB down/ADV then/ADV stand/VERB back/ADV up/ADV#0.0#0.0
+a person walking in curved trajectory and sitting on a chair#a/DET person/NOUN walk/VERB in/ADP curved/ADJ trajectory/NOUN and/CCONJ sit/VERB on/ADP a/DET chair/NOUN#0.0#0.0

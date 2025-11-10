@@ -1,0 +1,3 @@
+figure appears to be moving item from left to right#figure/NOUN appear/VERB to/PART be/AUX move/VERB item/NOUN from/ADP left/VERB to/ADP right/ADJ#0.0#0.0
+person picks up something on their left and sets it down on their right#person/NOUN pick/VERB up/ADP something/PRON on/ADP their/DET left/NOUN and/CCONJ set/VERB it/PRON down/ADP on/ADP their/DET right/NOUN#0.0#0.0
+a figure lifts something from waist height on the left then sets it down near their right side at the same height#a/DET figure/NOUN lift/VERB something/PRON from/ADP waist/NOUN height/NOUN on/ADP the/DET left/NOUN then/ADV set/VERB it/PRON down/ADP near/SCONJ their/DET right/ADJ side/NOUN at/ADP the/DET same/ADJ height/NOUN#0.0#0.0

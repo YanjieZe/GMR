@@ -1,0 +1,3 @@
+walking and then swinging arm back and forth.#walk/VERB and/CCONJ then/ADV swinge/VERB arm/NOUN back/ADV and/CCONJ forth/ADV#0.0#0.0
+a person steps forward and swats at the air repeatedly with their forward hand.#a/DET person/NOUN step/VERB forward/ADV and/CCONJ swat/NOUN at/ADP the/DET air/NOUN repeatedly/ADV with/ADP their/DET forward/ADJ hand/NOUN#0.0#0.0
+a person signals to another person to go away.#a/DET person/NOUN signal/VERB to/ADP another/DET person/NOUN to/PART go/VERB away/ADV#0.0#0.0

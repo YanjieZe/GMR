@@ -1,0 +1,3 @@
+a person walks up and over an object#a/DET person/NOUN walk/VERB up/ADV and/CCONJ over/ADP an/DET object/NOUN#0.0#0.0
+the figure picks his legs up and swings his arms as he starts walking down the street.#the/DET figure/NOUN pick/VERB his/DET leg/NOUN up/ADV and/CCONJ swing/VERB his/DET arm/NOUN as/SCONJ he/PRON start/VERB walk/VERB down/ADP the/DET street/NOUN#0.0#0.0
+a person walks forward slowly, lifting each foot behind them a bit as if wearing boots.#a/DET person/NOUN walk/VERB forward/ADV slowly/ADV lift/VERB each/DET foot/NOUN behind/ADP them/PRON a/DET bit/NOUN as/SCONJ if/SCONJ wear/VERB boot/NOUN#0.0#0.0

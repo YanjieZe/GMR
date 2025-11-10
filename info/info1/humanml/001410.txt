@@ -1,0 +1,3 @@
+a person holds his arms up at his side and then moves them back performing a breast stroke movement.#a/DET person/NOUN hold/VERB his/DET arm/NOUN up/ADV at/ADP his/DET side/NOUN and/CCONJ then/ADV move/VERB them/PRON back/ADV perform/VERB a/DET breast/NOUN stroke/NOUN movement/NOUN#0.0#0.0
+a man mimes doing the breast stroke.#a/DET man/NOUN mime/VERB do/VERB the/DET breast/NOUN stroke/NOUN#0.0#0.0
+a person raises their arms up and down from their side, then pushes their arms out from their chest in a circle.#a/DET person/NOUN raise/VERB their/DET arm/NOUN up/ADV and/CCONJ down/ADV from/ADP their/DET side/NOUN then/ADV push/VERB their/DET arm/NOUN out/ADP from/ADP their/DET chest/NOUN in/ADP a/DET circle/NOUN#0.0#0.0

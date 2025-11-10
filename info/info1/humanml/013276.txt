@@ -1,0 +1,3 @@
+punching the air while standing.#punch/VERB the/DET air/NOUN while/SCONJ stand/VERB#0.0#0.0
+man puts left arm in the air and steps backward with left foot. then puts right arm in the air and steps backward with right foot.#man/NOUN put/VERB left/ADJ arm/NOUN in/ADP the/DET air/NOUN and/CCONJ step/VERB backward/ADV with/ADP left/ADJ foot/NOUN then/ADV put/VERB right/ADJ arm/NOUN in/ADP the/DET air/NOUN and/CCONJ step/VERB backward/ADV with/ADP right/ADJ foot/NOUN#0.0#0.0
+a person punches with each hand.#a/DET person/NOUN punch/VERB with/ADP each/DET hand/NOUN#0.0#0.0

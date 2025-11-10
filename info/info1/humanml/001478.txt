@@ -1,0 +1,3 @@
+the person grabs something and shuts it with their right arm#the/DET person/NOUN grab/VERB something/PRON and/CCONJ shut/VERB it/PRON with/ADP their/DET right/ADJ arm/NOUN#0.0#0.0
+a man crouches while he bends his right arm.#a/DET man/NOUN crouch/NOUN while/SCONJ he/PRON bend/VERB his/DET right/ADJ arm/NOUN#0.0#0.5
+a person uses right arm to arm wrestle whilst standing.#a/DET person/NOUN use/VERB right/ADJ arm/NOUN to/PART arm/VERB wrestle/NOUN whilst/SCONJ stand/VERB#0.0#0.0

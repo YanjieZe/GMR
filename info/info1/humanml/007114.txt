@@ -1,0 +1,3 @@
+person takes on phone and talks to somebody, then ends call#person/NOUN take/VERB on/ADP phone/NOUN and/CCONJ talk/VERB to/ADP somebody/PRON then/ADV end/VERB call/VERB#0.0#0.0
+the man is sitting then takes his phone out and makes a call.#the/DET man/NOUN is/AUX sit/VERB then/ADV take/VERB his/DET phone/NOUN out/ADP and/CCONJ make/VERB a/DET call/NOUN#0.0#0.0
+a sitting person seems to take out his cell phone, talks and then puts it down.#a/DET sit/VERB person/NOUN seem/VERB to/PART take/VERB out/ADP his/DET cell/NOUN phone/NOUN talk/NOUN and/CCONJ then/ADV put/VERB it/PRON down/ADP#0.0#0.0

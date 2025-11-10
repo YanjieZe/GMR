@@ -1,0 +1,3 @@
+a person has his hands spread out.#a/DET person/NOUN has/AUX his/DET hand/NOUN spread/VERB out/ADP#0.0#0.0
+a person stands for several seconds with their hands on their hips, then stretches both arms straight out to the sides.#a/DET person/NOUN stand/VERB for/ADP several/ADJ second/NOUN with/ADP their/DET hand/NOUN on/ADP their/DET hip/NOUN then/ADV stretch/VERB both/DET arm/NOUN straight/ADV out/ADV to/ADP the/DET side/NOUN#0.0#0.0
+a person with their knees slightly bent places both of their hands on their thighs.#a/DET person/NOUN with/ADP their/DET knee/NOUN slightly/ADV bent/ADJ place/NOUN both/DET of/ADP their/DET hand/NOUN on/ADP their/DET thigh/NOUN#0.0#0.0

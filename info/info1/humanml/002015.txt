@@ -1,0 +1,3 @@
+a person waves their right hand.#a/DET person/NOUN wave/VERB their/DET right/ADJ hand/NOUN#0.0#0.0
+a person waves towards the camera with the left hand#a/DET person/NOUN wave/VERB towards/ADP the/DET camera/NOUN with/ADP the/DET left/ADJ hand/NOUN#0.0#0.0
+a person waves their right arm#a/DET person/NOUN wave/VERB their/DET right/ADJ arm/NOUN#0.0#0.0

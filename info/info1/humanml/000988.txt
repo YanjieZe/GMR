@@ -1,0 +1,3 @@
+the person is pointing towards someone.#the/DET person/NOUN is/AUX point/VERB towards/ADP someone/PRON#0.0#0.0
+someone is opening a door#someone/PRON is/AUX open/VERB a/DET door/NOUN#0.0#0.0
+a person lifts their right arm to extend it in front of them, points at something with the index finger, then returns their hand to their side.#a/DET person/NOUN lift/VERB their/DET right/ADJ arm/NOUN to/PART extend/VERB it/PRON in/ADP front/NOUN of/ADP them/PRON point/VERB at/ADP something/PRON with/ADP the/DET index/NOUN finger/NOUN then/ADV return/VERB their/DET hand/NOUN to/ADP their/DET side/NOUN#0.0#0.0

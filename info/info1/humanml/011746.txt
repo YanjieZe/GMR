@@ -1,0 +1,3 @@
+a person walks backwards, and then begins walking forward in a circular clockwise direction#a/DET person/NOUN walk/VERB backwards/ADV and/CCONJ then/ADV begin/VERB walk/VERB forward/ADV in/ADP a/DET circular/ADJ clockwise/NOUN direction/NOUN#0.0#0.0
+a person stepping forward and backwards in form of dancing.#a/DET person/NOUN step/VERB forward/ADV and/CCONJ backwards/ADV in/ADP form/NOUN of/ADP dancing/NOUN#0.0#0.0
+the person slowly stumbles backwards, then walks toward the left#the/DET person/NOUN slowly/ADV stumble/VERB backwards/ADV then/ADV walk/VERB toward/ADP the/DET left/NOUN#0.0#0.0

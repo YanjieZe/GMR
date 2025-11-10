@@ -1,0 +1,3 @@
+a person bends at the waist, outstretching both arms to reach to the right, then the left, then straight in front of them#a/DET person/NOUN bend/VERB at/ADP the/DET waist/NOUN outstretche/VERB both/DET arm/NOUN to/PART reach/VERB to/ADP the/DET right/NOUN then/ADV the/DET left/NOUN then/ADV straight/ADV in/ADP front/NOUN of/ADP them/PRON#0.0#0.0
+a person is leaning forward and reaching for something.#a/DET person/NOUN is/AUX lean/VERB forward/ADV and/CCONJ reach/VERB for/ADP something/PRON#0.0#0.0
+a man twists his body towards three different positions and strecths his arms and back.#a/DET man/NOUN twist/VERB his/DET body/NOUN towards/ADP three/NUM different/ADJ position/NOUN and/CCONJ strecth/VERB his/DET arm/NOUN and/CCONJ back/ADV#0.0#0.0

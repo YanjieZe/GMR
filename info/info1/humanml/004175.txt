@@ -1,0 +1,3 @@
+a person bows then walks forward.#a/DET person/NOUN bow/VERB then/ADV walk/VERB forward/ADV#0.0#0.0
+this person was bending forward while walking down a slope.#this/DET person/NOUN was/AUX bend/VERB forward/ADV while/SCONJ walk/VERB down/ADP a/DET slope/NOUN#0.0#0.0
+a person walks forward with back bent forward.#a/DET person/NOUN walk/VERB forward/ADV with/ADP back/ADJ bent/ADJ forward/ADV#0.0#0.0

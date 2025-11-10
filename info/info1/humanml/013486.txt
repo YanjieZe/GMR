@@ -1,0 +1,3 @@
+the person walk forward during our freestyle lunge towards someone.#the/DET person/NOUN walk/VERB forward/ADV during/ADP our/DET freestyle/ADJ lunge/NOUN towards/ADP someone/PRON#0.0#0.0
+a person is performing different martial arts movements.#a/DET person/NOUN is/AUX perform/VERB different/ADJ martial/ADJ art/NOUN movement/NOUN#0.0#0.0
+a person who seems to perform a karate kata exercise#a/DET person/NOUN who/PRON seem/VERB to/PART perform/VERB a/DET karate/NOUN kata/NOUN exercise/NOUN#0.0#0.0

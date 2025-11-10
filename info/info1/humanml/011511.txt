@@ -1,0 +1,3 @@
+the person is sitting and threw some thing.#the/DET person/NOUN is/AUX sit/VERB and/CCONJ throw/VERB some/DET thing/NOUN#0.0#0.0
+from a seated position a person throws their right hand up then to the side before sanding up.#from/ADP a/DET seated/ADJ position/NOUN a/DET person/NOUN throw/VERB their/DET right/ADJ hand/NOUN up/ADP then/ADV to/ADP the/DET side/NOUN before/ADP sand/VERB up/ADP#0.0#0.0
+person throws a couple balls while sitting up on floor#person/NOUN throw/VERB a/DET couple/NOUN ball/NOUN while/SCONJ sit/VERB up/ADP on/ADP floor/NOUN#0.0#0.0

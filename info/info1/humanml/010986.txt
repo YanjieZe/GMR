@@ -1,0 +1,3 @@
+persons tries to sit indian style but cannot#person/NOUN try/VERB to/PART sit/VERB indian/ADJ style/NOUN but/CCONJ can/VERB not/PART#0.0#0.0
+a person tries to curtsey and stands back up.#a/DET person/NOUN try/VERB to/PART curtsey/VERB and/CCONJ stand/VERB back/ADV up/ADV#0.0#0.0
+figure bends down crosses legs and stands back up#figure/NOUN bend/VERB down/ADV crosse/NOUN leg/NOUN and/CCONJ stand/VERB back/ADV up/ADV#0.0#0.0

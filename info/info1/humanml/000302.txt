@@ -1,0 +1,3 @@
+a person goes into a ducking position like they are shielding themselves from something#a/DET person/NOUN go/VERB into/ADP a/DET duck/VERB position/NOUN like/SCONJ they/PRON are/AUX shield/VERB themselves/PRON from/ADP something/PRON#0.0#0.0
+a person crouches down while covering their head#a/DET person/NOUN crouch/VERB down/ADP while/SCONJ cover/VERB their/DET head/NOUN#0.0#0.0
+person is ducking and putting their hands on their head like they're avoiding something dangerous#person/NOUN is/AUX duck/VERB and/CCONJ put/VERB their/DET hand/NOUN on/ADP their/DET head/NOUN like/SCONJ they/PRON avoid/VERB something/PRON dangerous/ADJ#0.0#0.0

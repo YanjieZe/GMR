@@ -1,0 +1,3 @@
+a person brings their right arm up and bends their elbow so it is across their stomach.#a/DET person/NOUN bring/VERB their/DET right/ADJ arm/NOUN up/ADP and/CCONJ bend/VERB their/DET elbow/NOUN so/SCONJ it/PRON is/AUX across/ADP their/DET stomach/NOUN#0.0#0.0
+the person checks their right wrist as if checking the time.#the/DET person/NOUN check/VERB their/DET right/ADJ wrist/NOUN as/SCONJ if/SCONJ check/VERB the/DET time/NOUN#0.0#0.0
+a person standing in one spot lifts their right wrist up to their face like they are checking the time on their watch.#a/DET person/NOUN stand/VERB in/ADP one/NUM spot/NOUN lift/VERB their/DET right/ADJ wrist/NOUN up/ADP to/ADP their/DET face/NOUN like/SCONJ they/PRON are/AUX check/VERB the/DET time/NOUN on/ADP their/DET watch/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+the person hit the golf ball in a golf drive.#the/DET person/NOUN hit/VERB the/DET golf/NOUN ball/NOUN in/ADP a/DET golf/NOUN drive/NOUN#0.0#0.0
+a man is swinging his arms to hit a golf ball.#a/DET man/NOUN is/AUX swinge/VERB his/DET arm/NOUN to/PART hit/VERB a/DET golf/NOUN ball/NOUN#0.0#0.0
+the golfer takes a swing with his driver#the/DET golfer/NOUN take/VERB a/DET swing/NOUN with/ADP his/DET driver/NOUN#0.0#0.0

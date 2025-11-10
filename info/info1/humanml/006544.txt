@@ -1,0 +1,3 @@
+the person has both arms up, but he is only using the left hand.#the/DET person/NOUN has/AUX both/DET arm/NOUN up/ADP but/CCONJ he/PRON is/AUX only/ADV use/VERB the/DET left/ADJ hand/NOUN#0.0#0.0
+sitting down and eating something with their hands#sit/VERB down/ADP and/CCONJ eat/VERB something/PRON with/ADP their/DET hand/NOUN#0.0#0.0
+he eats his right finger#he/PRON eat/VERB his/DET right/ADJ finger/NOUN#0.0#0.0

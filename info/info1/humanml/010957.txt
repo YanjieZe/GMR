@@ -1,0 +1,3 @@
+person is hopping up and down#person/NOUN is/AUX hop/VERB up/ADP and/CCONJ down/ADP#0.0#0.0
+a person bounces on their toes.#a/DET person/NOUN bounce/VERB on/ADP their/DET toe/NOUN#0.0#0.0
+figure appears to be hoping up and down lightly#figure/NOUN appear/VERB to/PART be/AUX hope/VERB up/ADP and/CCONJ down/ADV lightly/ADV#0.0#0.0

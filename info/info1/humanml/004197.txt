@@ -1,0 +1,3 @@
+a person standing straight starts walking backwards and turns.#a/DET person/NOUN stand/VERB straight/ADV start/NOUN walk/VERB backwards/ADV and/CCONJ turn/NOUN#0.0#0.0
+a person takes several steps backwards then turns around.#a/DET person/NOUN take/VERB several/ADJ step/NOUN backwards/ADV then/ADV turn/VERB around/ADV#0.0#0.0
+the person walks backwards hesitatively, then turns around#the/DET person/NOUN walk/VERB backwards/ADV hesitatively/ADV then/ADV turn/VERB around/ADV#0.0#0.0

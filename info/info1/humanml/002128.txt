@@ -1,0 +1,3 @@
+a person lunges forward with his left leg, while bending his right leg. the person then comes back up to a standing position.#a/DET person/NOUN lunge/VERB forward/ADV with/ADP his/DET left/ADJ leg/NOUN while/SCONJ bend/VERB his/DET right/ADJ leg/NOUN the/DET person/NOUN then/ADV come/VERB back/ADV up/ADV to/ADP a/DET standing/ADJ position/NOUN#0.0#0.0
+a man doing a lunge as an exercise.#a/DET man/NOUN do/VERB a/DET lunge/NOUN as/SCONJ an/DET exercise/NOUN#0.0#0.0
+a person steps forward, bending their right knee and raising their right arm#a/DET person/NOUN step/VERB forward/ADV bend/VERB their/DET right/ADJ knee/NOUN and/CCONJ raise/VERB their/DET right/ADJ arm/NOUN#0.0#0.0

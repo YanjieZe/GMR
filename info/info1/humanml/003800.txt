@@ -1,0 +1,3 @@
+a person does the cat walk#a/DET person/NOUN does/AUX the/DET cat/NOUN walk/VERB#0.0#0.0
+a person paces back and forth walking in straight lines, he turns back and forth multiple times.#a/DET person/NOUN pace/VERB back/ADV and/CCONJ forth/ADV walk/VERB in/ADP straight/ADJ line/NOUN he/PRON turn/VERB back/ADV and/CCONJ forth/ADV multiple/ADJ time/NOUN#0.0#10.0
+a person casually walks forward, rotates on the spot, walks back the way they came and turns again#a/DET person/NOUN casually/ADV walk/VERB forward/ADV rotate/NOUN on/ADP the/DET spot/NOUN walk/VERB back/ADV the/DET way/NOUN they/PRON come/VERB and/CCONJ turn/VERB again/ADV#0.0#0.0

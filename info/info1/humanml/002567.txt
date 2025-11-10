@@ -1,0 +1,3 @@
+person lift both arms halfway up to their head. person uses hands to comb and brush hair in a downward motion.#person/NOUN lift/VERB both/DET arm/NOUN halfway/ADV up/ADV to/ADP their/DET head/NOUN person/NOUN use/VERB hand/NOUN to/ADP comb/NOUN and/CCONJ brush/NOUN hair/NOUN in/ADP a/DET downward/ADJ motion/NOUN#0.0#0.0
+this figure seems to be cleaning a window#this/DET figure/NOUN seem/VERB to/PART be/AUX clean/VERB a/DET window/NOUN#0.0#0.0
+a person is grooming and combing their hair while looking in a mirror#a/DET person/NOUN is/AUX groom/VERB and/CCONJ comb/VERB their/DET hair/NOUN while/SCONJ look/VERB in/ADP a/DET mirror/NOUN#0.0#0.0

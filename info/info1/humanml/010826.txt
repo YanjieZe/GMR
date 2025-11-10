@@ -1,0 +1,3 @@
+a person walking horizontally then tripping on something, turning around and limping back#a/DET person/NOUN walk/VERB horizontally/ADV then/ADV trip/VERB on/ADP something/PRON turn/VERB around/ADP and/CCONJ limp/VERB back/ADV#0.0#0.0
+the man walks forward then jumps#the/DET man/NOUN walk/VERB forward/ADV then/ADV jump/VERB#0.0#0.0
+a person walks forward and trips, then turns around and drags their right leg in pain.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ trip/NOUN then/ADV turn/VERB around/ADV and/CCONJ drag/VERB their/DET right/ADJ leg/NOUN in/ADP pain/NOUN#0.0#0.0

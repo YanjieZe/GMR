@@ -1,0 +1,3 @@
+a person brings his arms which were in the air along his body. his knees appear to be bent.#a/DET person/NOUN bring/VERB his/DET arm/NOUN which/DET were/AUX in/ADP the/DET air/NOUN along/ADP his/DET body/NOUN his/DET knee/NOUN appear/VERB to/PART be/AUX bent/ADJ#0.0#0.0
+a person stands still and does nothing.#a/DET person/NOUN stand/VERB still/ADV and/CCONJ does/AUX nothing/PRON#0.0#0.0
+a person remained sitting down.#a/DET person/NOUN remain/VERB sit/VERB down/ADP#0.0#0.0

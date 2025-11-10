@@ -1,0 +1,3 @@
+the person is getting ready to golf.#the/DET person/NOUN is/AUX get/VERB ready/ADJ to/PART golf/NOUN#0.0#0.0
+a man leans slightly forward as he takes low golf swing.#a/DET man/NOUN lean/VERB slightly/ADV forward/ADV as/SCONJ he/PRON take/VERB low/ADJ golf/NOUN swing/NOUN#0.0#0.0
+a person puts their hands together and swings them#a/DET person/NOUN put/VERB their/DET hand/NOUN together/ADV and/CCONJ swing/VERB them/PRON#0.0#0.0

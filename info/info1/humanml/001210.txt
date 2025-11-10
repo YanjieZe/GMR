@@ -1,0 +1,3 @@
+from a standing position, the person quickly runs four steps forward before stopping#from/ADP a/DET standing/ADJ position/NOUN the/DET person/NOUN quickly/ADV run/VERB four/NUM step/NOUN forward/ADV before/ADP stop/VERB#0.0#0.0
+a man runs forward in a straight line in a quick pace.#a/DET man/NOUN run/VERB forward/ADV in/ADP a/DET straight/ADJ line/NOUN in/ADP a/DET quick/ADJ pace/NOUN#1.0#4.0
+a person runs straight forward#a/DET person/NOUN run/VERB straight/ADV forward/ADV#0.0#0.0

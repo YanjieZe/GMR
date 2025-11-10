@@ -1,0 +1,3 @@
+the person was push but did not fall.#the/DET person/NOUN was/AUX push/NOUN but/CCONJ did/AUX not/PART fall/VERB#0.0#0.0
+a person walks forward with hands to the side.#a/DET person/NOUN walk/VERB forward/ADV with/ADP hand/NOUN to/ADP the/DET side/NOUN#0.0#0.0
+a person walks forward, arms swinging slightly.#a/DET person/NOUN walk/VERB forward/ADV arm/NOUN swinge/VERB slightly/ADV#0.0#0.0

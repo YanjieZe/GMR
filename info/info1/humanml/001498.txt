@@ -1,0 +1,3 @@
+someone moves their arms upwards then downwards in a repeated motion.#someone/PRON move/VERB their/DET arm/NOUN upwards/ADV then/ADV downwards/ADV in/ADP a/DET repeat/VERB motion/NOUN#0.0#0.0
+a man exercises by lifting dumb bells in each hand.#a/DET man/NOUN exercise/VERB by/ADP lift/VERB dumb/ADJ bell/NOUN in/ADP each/DET hand/NOUN#0.0#0.0
+a person lifts weight with both hands.#a/DET person/NOUN lift/VERB weight/NOUN with/ADP both/DET hand/NOUN#0.0#0.0

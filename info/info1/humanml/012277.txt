@@ -1,0 +1,3 @@
+person walks to pick something up then walks back to wipe something with it.#person/NOUN walk/VERB to/PART pick/VERB something/PRON up/ADP then/ADV walk/VERB back/ADV to/ADP wipe/NOUN something/PRON with/ADP it/PRON#0.0#0.0
+a person walked in left direction and return#a/DET person/NOUN walk/VERB in/ADP left/ADJ direction/NOUN and/CCONJ return/NOUN#0.0#0.0
+a man walks to the left to pick something up, then returns to his place to mix something together.#a/DET man/NOUN walk/VERB to/ADP the/DET left/NOUN to/PART pick/VERB something/PRON up/ADP then/ADV return/VERB to/ADP his/DET place/NOUN to/PART mix/VERB something/PRON together/ADV#0.0#0.0

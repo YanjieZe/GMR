@@ -1,0 +1,3 @@
+a person standing still does nothing.#a/DET person/NOUN stand/VERB still/ADV does/AUX nothing/PRON#0.0#8.0
+a person with their arms straight out from their sides, lowers them and places their hands down onto their thighs and then puts their arms back out again.#a/DET person/NOUN with/ADP their/DET arm/NOUN straight/ADV out/ADV from/ADP their/DET side/NOUN lower/VERB them/PRON and/CCONJ place/VERB their/DET hand/NOUN down/ADP onto/ADP their/DET thigh/NOUN and/CCONJ then/ADV put/VERB their/DET arm/NOUN back/ADV out/ADV again/ADV#0.0#0.0
+a person lifts both arms up from the sides and then lowers both arms back down.#a/DET person/NOUN lift/VERB both/DET arm/NOUN up/ADV from/ADP the/DET side/NOUN and/CCONJ then/ADV lower/VERB both/DET arm/NOUN back/ADV down/ADV#0.0#0.0

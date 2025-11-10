@@ -1,0 +1,3 @@
+a person walks into the room, picks something up, then sets it back down and walks away.#a/DET person/NOUN walk/VERB into/ADP the/DET room/NOUN pick/VERB something/PRON up/ADP then/ADV set/VERB it/PRON back/ADV down/ADP and/CCONJ walk/VERB away/ADV#0.0#0.0
+a person quickly walks forward, bends over to move something, turns around, and quickly walks back#a/DET person/NOUN quickly/ADV walk/VERB forward/ADV bend/VERB over/ADP to/PART move/VERB something/PRON turn/VERB around/ADV and/CCONJ quickly/ADV walk/VERB back/ADV#0.0#0.0
+a person walks forward, lifts a small object, then walks away.#a/DET person/NOUN walk/VERB forward/ADV lift/VERB a/DET small/ADJ object/NOUN then/ADV walk/VERB away/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+this person is dancing just like michael jackson.#this/DET person/NOUN is/AUX dance/VERB just/ADV like/SCONJ michael/PROPN jackson/PROPN#0.0#0.0
+walking forward while dancing.#walk/VERB forward/ADV while/SCONJ dance/VERB#0.0#0.0
+a person kicks low with his right foot then steps outward with that foot, stretching his right arm up and out over his head, holding it there.#a/DET person/NOUN kick/VERB low/ADJ with/ADP his/DET right/ADJ foot/NOUN then/ADV step/VERB outward/ADV with/ADP that/DET foot/NOUN stretch/VERB his/DET right/ADJ arm/NOUN up/ADV and/CCONJ out/ADV over/ADP his/DET head/NOUN hold/VERB it/PRON there/ADV#6.0#8.0

@@ -1,0 +1,3 @@
+a person walks downs stairs, turns left, walks forward, then turns left and walks down stairs#a/DET person/NOUN walk/VERB down/NOUN stair/NOUN turn/VERB left/VERB walk/VERB forward/ADV then/ADV turn/VERB left/VERB and/CCONJ walk/VERB down/ADV stair/NOUN#0.0#0.0
+a person, climbs up something, then climbs back down, the turns to the left and takes a step forward.#a/DET person/NOUN climb/VERB up/ADP something/PRON then/ADV climb/VERB back/ADV down/ADV the/DET turn/NOUN to/ADP the/DET left/NOUN and/CCONJ take/VERB a/DET step/NOUN forward/ADV#0.0#0.0
+a person steps over an object, makes a leftward u-turn, then steps down.#a/DET person/NOUN step/VERB over/ADP an/DET object/NOUN make/VERB a/DET leftward/ADJ uturn/NOUN then/ADV step/VERB down/ADP#0.0#0.0

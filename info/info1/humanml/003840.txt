@@ -1,0 +1,3 @@
+a man walks forward and then turns around.#a/DET man/NOUN walk/VERB forward/ADV and/CCONJ then/ADV turn/VERB around/ADV#0.0#0.0
+a person walks forward, turns around and walks back in the opposite direction#a/DET person/NOUN walk/VERB forward/ADV turn/VERB around/ADV and/CCONJ walk/VERB back/ADV in/ADP the/DET opposite/ADJ direction/NOUN#0.0#0.0
+a person walks forward, about faces, then walks back the way they came.#a/DET person/NOUN walk/VERB forward/ADV about/ADP face/NOUN then/ADV walk/VERB back/ADV the/DET way/NOUN they/PRON come/VERB#0.0#0.0

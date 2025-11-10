@@ -1,0 +1,3 @@
+a man takes a big jump forward.#a/DET man/NOUN take/VERB a/DET big/ADJ jump/NOUN forward/ADV#0.0#0.0
+a figure takes a jump forward#a/DET figure/NOUN take/VERB a/DET jump/NOUN forward/ADV#0.0#0.0
+person is jumping forward once#person/NOUN is/AUX jump/VERB forward/ADV once/ADV#0.0#0.0

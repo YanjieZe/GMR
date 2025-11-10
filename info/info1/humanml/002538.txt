@@ -1,0 +1,3 @@
+a person mimics playing the guitar.#a/DET person/NOUN mimics/NOUN play/VERB the/DET guitar/NOUN#0.0#0.0
+person may be playing instrument.#person/NOUN may/VERB be/AUX play/VERB instrument/NOUN#0.0#0.0
+a person moves as if they are playing the guitar.#a/DET person/NOUN move/VERB as/SCONJ if/SCONJ they/PRON are/AUX play/VERB the/DET guitar/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks forward and down a hill.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ down/ADP a/DET hill/NOUN#0.0#0.0
+an individual skips steps as he descends.#an/DET individual/ADJ skip/VERB step/NOUN as/SCONJ he/PRON descend/VERB#0.0#0.0
+a person walks down stairs casually.#a/DET person/NOUN walk/VERB down/ADV stair/NOUN casually/ADV#0.0#0.0

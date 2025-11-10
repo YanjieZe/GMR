@@ -1,0 +1,3 @@
+a person shifts their weight from foot to foot and shakes their hands.#a/DET person/NOUN shift/VERB their/DET weight/NOUN from/ADP foot/NOUN to/ADP foot/NOUN and/CCONJ shake/VERB their/DET hand/NOUN#0.0#0.0
+a figure does the chacha goes ahead to do the mambo.#a/DET figure/NOUN does/AUX the/DET chacha/NOUN go/VERB ahead/ADV to/PART do/AUX the/DET mambo/NOUN#0.0#0.0
+a woman rubs her hands together as she lifts each heal separately multiple times.#a/DET woman/NOUN rub/VERB her/DET hand/NOUN together/ADV as/SCONJ she/PRON lift/VERB each/DET heal/VERB separately/ADV multiple/ADJ time/NOUN#0.0#0.0

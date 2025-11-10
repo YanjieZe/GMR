@@ -1,0 +1,3 @@
+someone standing and moving hands#someone/PRON stand/VERB and/CCONJ move/VERB hand/NOUN#0.0#0.0
+a person feels around for something in the dark.#a/DET person/NOUN feel/VERB around/ADV for/ADP something/PRON in/ADP the/DET dark/NOUN#0.0#0.0
+a man reaches for something above his head.#a/DET man/NOUN reach/VERB for/ADP something/PRON above/ADP his/DET head/NOUN#0.0#0.0

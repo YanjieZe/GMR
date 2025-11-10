@@ -1,0 +1,3 @@
+a person sits down on something, which deflates or breaks beneath him as he shakily sinks closer to the ground.#a/DET person/NOUN sit/VERB down/ADP on/ADP something/PRON which/DET deflate/VERB or/CCONJ break/NOUN beneath/ADP him/PRON as/SCONJ he/PRON shakily/ADV sink/VERB closer/ADV to/ADP the/DET ground/NOUN#0.0#0.0
+sitting down one time.#sit/VERB down/ADV one/NUM time/NOUN#0.0#0.0
+sit slowly on the floor.#sit/VERB slowly/ADV on/ADP the/DET floor/NOUN#0.0#0.0

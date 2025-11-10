@@ -1,0 +1,3 @@
+person bends at the right arm a couple times towards head#person/NOUN bend/VERB at/ADP the/DET right/ADJ arm/NOUN a/DET couple/NOUN time/NOUN towards/ADP head/NOUN#0.0#0.0
+a man repeatedly lifts an object with his right hand.#a/DET man/NOUN repeatedly/ADV lift/VERB an/DET object/NOUN with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+person is doing standing bicep curls#person/NOUN is/AUX do/VERB stand/VERB bicep/NOUN curl/NOUN#0.0#0.0

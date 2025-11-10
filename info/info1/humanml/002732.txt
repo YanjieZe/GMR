@@ -1,0 +1,3 @@
+the stick figure is pacinganxiously#the/DET stick/NOUN figure/NOUN is/AUX pacinganxiously/ADV#0.0#0.0
+a person moving things from one location to another with the right hand.#a/DET person/NOUN move/VERB thing/NOUN from/ADP one/NUM location/NOUN to/ADP another/DET with/ADP the/DET right/ADJ hand/NOUN#0.0#0.0
+a person walking back and forth unsure of what to do , and how to behave.#a/DET person/NOUN walk/VERB back/ADV and/CCONJ forth/ADV unsure/ADV of/ADP what/PRON to/PART do/AUX and/CCONJ how/ADV to/PART behave/VERB#0.0#0.0

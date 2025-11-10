@@ -1,0 +1,3 @@
+the person is doing quick jumps up and down.#the/DET person/NOUN is/AUX do/VERB quick/ADJ jump/NOUN up/ADV and/CCONJ down/ADV#0.0#0.0
+a person makes four shallow/low jumps up and down while standing in one place.#a/DET person/NOUN make/VERB four/NUM shallow/ADJ low/ADJ jump/NOUN up/ADV and/CCONJ down/ADV while/SCONJ stand/VERB in/ADP one/NUM place/NOUN#0.0#0.0
+a person jumping up and down.#a/DET person/NOUN jump/VERB up/ADP and/CCONJ down/ADV#0.0#0.0

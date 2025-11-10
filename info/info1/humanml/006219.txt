@@ -1,0 +1,3 @@
+the person was pushed from the front backwards.#the/DET person/NOUN was/AUX push/VERB from/ADP the/DET front/NOUN backwards/ADV#0.0#0.0
+a person that takes one step back.#a/DET person/NOUN that/DET take/VERB one/NUM step/NOUN back/ADV#0.0#0.0
+a person steps back away from something growing toward them on the floor.#a/DET person/NOUN step/VERB back/ADV away/ADV from/ADP something/PRON grow/VERB toward/ADP them/PRON on/ADP the/DET floor/NOUN#0.0#0.0

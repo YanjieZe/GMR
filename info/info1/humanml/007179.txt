@@ -1,0 +1,3 @@
+the person is doing stretch poses.#the/DET person/NOUN is/AUX do/VERB stretch/NOUN pose/NOUN#0.0#0.0
+a person bends down touching their hands to their feet.#a/DET person/NOUN bend/VERB down/ADP touch/VERB their/DET hand/NOUN to/ADP their/DET foot/NOUN#0.0#0.0
+a person bends over and touches his feet.#a/DET person/NOUN bend/VERB over/ADP and/CCONJ touch/VERB his/DET foot/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+person swings their right arm and then has an injury on the elbow.#person/NOUN swing/VERB their/DET right/ADJ arm/NOUN and/CCONJ then/ADV has/AUX an/DET injury/NOUN on/ADP the/DET elbow/NOUN#0.0#0.0
+a man swings his right arm around and then grabs his right elbow and brings it close to his body.#a/DET man/NOUN swing/VERB his/DET right/ADJ arm/NOUN around/ADV and/CCONJ then/ADV grab/VERB his/DET right/ADJ elbow/NOUN and/CCONJ bring/VERB it/PRON close/ADJ to/ADP his/DET body/NOUN#0.0#0.0
+the person is moving arm around.#the/DET person/NOUN is/AUX move/VERB arm/NOUN around/ADP#0.0#0.0

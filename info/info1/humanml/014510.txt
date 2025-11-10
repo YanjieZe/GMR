@@ -1,0 +1,3 @@
+person is doing squat exercise#person/NOUN is/AUX do/VERB squat/ADJ exercise/NOUN#0.0#0.0
+a person squats while holding their hands up level with their head/#a/DET person/NOUN squat/VERB while/SCONJ hold/VERB their/DET hand/NOUN up/ADP level/NOUN with/ADP their/DET#0.0#0.0
+the person is lifting dumbbells both hands.#the/DET person/NOUN is/AUX lift/VERB dumbbell/VERB both/DET hand/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+person is standing and puts arms out to side#person/NOUN is/AUX stand/VERB and/CCONJ put/VERB arm/NOUN out/ADV to/PART side/VERB#0.0#0.0
+the man drops his hands to his knees then raises them again.#the/DET man/NOUN drop/VERB his/DET hand/NOUN to/ADP his/DET knee/NOUN then/ADV raise/VERB them/PRON again/ADV#0.0#0.0
+a man is sitting on something at waist height, lowers his arms to his lap, then stretches them back out to his sides at shoulder-height.#a/DET man/NOUN is/AUX sit/VERB on/ADP something/PRON at/ADP waist/NOUN height/NOUN lower/VERB his/DET arm/NOUN to/ADP his/DET lap/NOUN then/ADV stretch/VERB them/PRON back/ADV out/ADP to/ADP his/DET side/NOUN at/ADP shoulderheight/NOUN#0.0#0.0

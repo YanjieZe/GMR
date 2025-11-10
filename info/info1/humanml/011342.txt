@@ -1,0 +1,3 @@
+person moves forward six steps then stops#person/NOUN move/VERB forward/ADV six/NUM step/NOUN then/ADV stop/VERB#0.0#0.0
+a person is walking forward as if trying not to step on something.#a/DET person/NOUN is/AUX walk/VERB forward/ADV as/SCONJ if/SCONJ try/VERB not/PART to/PART step/VERB on/ADP something/PRON#0.0#0.0
+a person walking forward a few steps then stopping.#a/DET person/NOUN walk/VERB forward/ADV a/DET few/ADJ step/NOUN then/ADV stop/VERB#0.0#0.0

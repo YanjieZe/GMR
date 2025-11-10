@@ -1,0 +1,3 @@
+robot started running from his right to left.#robot/PROPN start/VERB run/VERB from/ADP his/DET right/NOUN to/ADP left/NOUN#0.0#0.0
+person sprints forward left to right#person/NOUN sprint/NOUN forward/ADV left/VERB to/ADP right/ADJ#0.0#0.0
+a person quickly changing direction while running from right to left, as if they wanted to dodge something#a/DET person/NOUN quickly/ADV change/VERB direction/NOUN while/SCONJ run/VERB from/ADP right/NOUN to/ADP left/NOUN as/SCONJ if/SCONJ they/PRON want/VERB to/PART dodge/VERB something/PRON#0.0#0.0

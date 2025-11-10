@@ -1,0 +1,3 @@
+person is doing dance moves#person/NOUN is/AUX do/VERB dance/NOUN move/NOUN#0.0#0.0
+the person is loosening up his wrists and ankles.#the/DET person/NOUN is/AUX loosen/VERB up/ADP his/DET wrist/NOUN and/CCONJ ankle/NOUN#0.0#0.0
+a figure gestures near their mouth jauntily while sort of moving in place#a/DET figure/NOUN gesture/NOUN near/SCONJ their/DET mouth/NOUN jauntily/ADV while/SCONJ sort/ADV of/ADV move/VERB in/ADP place/NOUN#0.0#0.0

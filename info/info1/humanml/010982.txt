@@ -1,0 +1,3 @@
+a person puts something on the ground.#a/DET person/NOUN put/VERB something/PRON on/ADP the/DET ground/NOUN#0.0#0.0
+this person bends forward and reaches as if to pick up something with his right hand.#this/DET person/NOUN bend/VERB forward/ADV and/CCONJ reach/VERB as/SCONJ if/SCONJ to/PART pick/VERB up/ADP something/PRON with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+moving front and band taking some thing on the hand.#move/VERB front/ADV and/CCONJ band/NOUN take/VERB some/DET thing/NOUN on/ADP the/DET hand/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person leans left while holding his right hand infront of his face slowly gesturing and then waves with the same hand.#a/DET person/NOUN lean/VERB left/VERB while/SCONJ hold/VERB his/DET right/ADJ hand/NOUN infront/NOUN of/ADP his/DET face/NOUN slowly/ADV gesture/VERB and/CCONJ then/ADV wave/VERB with/ADP the/DET same/ADJ hand/NOUN#0.0#0.0
+a figure wipes their mouth, then shakes their hand as though waving#a/DET figure/NOUN wipe/VERB their/DET mouth/NOUN then/ADV shake/VERB their/DET hand/NOUN as/SCONJ though/SCONJ wave/VERB#0.0#0.0
+a person shakes their hand in front of their face.#a/DET person/NOUN shake/VERB their/DET hand/NOUN in/ADP front/NOUN of/ADP their/DET face/NOUN#0.0#0.0

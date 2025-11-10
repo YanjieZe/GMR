@@ -1,0 +1,3 @@
+a person is jumping in place then starts to jump forward.#a/DET person/NOUN is/AUX jump/VERB in/ADP place/NOUN then/ADV start/VERB to/PART jump/VERB forward/ADV#0.0#0.0
+the person is jumping as in jumping rope then stands still#the/DET person/NOUN is/AUX jump/VERB as/SCONJ in/ADP jump/VERB rope/NOUN then/ADV stand/VERB still/ADV#0.0#0.0
+a man jumps up and down repeatedly.#a/DET man/NOUN jump/VERB up/ADV and/CCONJ down/ADV repeatedly/ADV#0.0#0.0

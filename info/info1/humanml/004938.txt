@@ -1,0 +1,3 @@
+a person jumps with their arms extended to the side.#a/DET person/NOUN jump/VERB with/ADP their/DET arm/NOUN extend/VERB to/ADP the/DET side/NOUN#0.0#0.0
+a man jumps with both his arms raised.#a/DET man/NOUN jump/VERB with/ADP both/CCONJ his/DET arm/NOUN raise/VERB#0.0#0.0
+someone leaps into the air with arms spread wide, as though they mean to click their heels.#someone/PRON leap/VERB into/ADP the/DET air/NOUN with/ADP arm/NOUN spread/VERB wide/ADV as/SCONJ though/SCONJ they/PRON mean/VERB to/PART click/VERB their/DET heel/NOUN#0.0#0.0

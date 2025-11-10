@@ -1,0 +1,3 @@
+a person raises his right hand then propels it forward as if throwing something.#a/DET person/NOUN raise/VERB his/DET right/ADJ hand/NOUN then/ADV propel/VERB it/PRON forward/ADV as/SCONJ if/SCONJ throw/VERB something/PRON#0.0#0.0
+a person uses right arm to shut the door#a/DET person/NOUN use/VERB right/ADJ arm/NOUN to/PART shut/VERB the/DET door/NOUN#0.0#0.0
+a person standing still then putting their right hand up#a/DET person/NOUN stand/VERB still/ADV then/ADV put/VERB their/DET right/ADJ hand/NOUN up/ADP#0.0#0.0

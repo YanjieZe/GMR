@@ -1,0 +1,3 @@
+the person stands still in a slight squat and then turns to their left and walks.#the/DET person/NOUN stand/VERB still/ADV in/ADP a/DET slight/ADJ squat/NOUN and/CCONJ then/ADV turn/VERB to/ADP their/DET left/NOUN and/CCONJ walk/NOUN#0.0#0.0
+a person gets up and turns counter clockwise and walks away#a/DET person/NOUN get/VERB up/ADV and/CCONJ turn/VERB counter/ADJ clockwise/NOUN and/CCONJ walk/VERB away/ADV#0.0#0.0
+the man stands up and walks away#the/DET man/NOUN stand/VERB up/ADP and/CCONJ walk/VERB away/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks while touching something with is right hand.#a/DET person/NOUN walk/VERB while/SCONJ touch/VERB something/PRON with/ADP is/AUX right/ADJ hand/NOUN#0.0#0.0
+a person walks down the stairs while using their right hand for support on the hand rail.#a/DET person/NOUN walk/VERB down/ADP the/DET stair/NOUN while/SCONJ use/VERB their/DET right/ADJ hand/NOUN for/ADP support/NOUN on/ADP the/DET hand/NOUN rail/NOUN#0.0#0.0
+a person uses their right arm to hold the leash while walking the dog#a/DET person/NOUN use/VERB their/DET right/ADJ arm/NOUN to/PART hold/VERB the/DET leash/NOUN while/SCONJ walk/VERB the/DET dog/NOUN#0.0#0.0

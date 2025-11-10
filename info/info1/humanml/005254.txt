@@ -1,0 +1,3 @@
+standing in place with arms outstretched.#stand/VERB in/ADP place/NOUN with/ADP arm/NOUN outstretche/VERB#0.0#0.0
+person appears to stand with hands apart and at shoulder height.#person/NOUN appear/VERB to/PART stand/VERB with/ADP hand/NOUN apart/ADV and/CCONJ at/ADP shoulder/NOUN height/NOUN#0.0#0.0
+a man stands completely still.#a/DET man/NOUN stand/VERB completely/ADV still/ADV#0.0#0.0

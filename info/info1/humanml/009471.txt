@@ -1,0 +1,3 @@
+the man is dancing the salsa.#the/DET man/NOUN is/AUX dance/VERB the/DET salsa/NOUN#0.0#0.0
+a person moonwalks backward for 4 seconds.#a/DET person/NOUN moonwalk/VERB backward/ADV for/ADP second/NOUN#3.0#6.0
+a person is imitating michael jackson, kicking their right leg right and left, turning backwards, moonwalking, turning back around and striking the infamous mj pose.#a/DET person/NOUN is/AUX imitate/VERB michael/PROPN jackson/PROPN kick/VERB their/DET right/ADJ leg/NOUN right/INTJ and/CCONJ left/VERB turn/VERB backwards/ADV moonwalking/NOUN turn/VERB back/ADV around/ADV and/CCONJ strike/VERB the/DET infamous/ADJ mj/PROPN pose/NOUN#0.0#0.0

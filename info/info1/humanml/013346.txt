@@ -1,0 +1,3 @@
+the person bends over and lift arm in the sky#the/DET person/NOUN bend/VERB over/ADP and/CCONJ lift/VERB arm/NOUN in/ADP the/DET sky/NOUN#0.0#0.0
+the person is painting a wall.#the/DET person/NOUN is/AUX paint/VERB a/DET wall/NOUN#0.0#0.0
+person is picking things up and raising them straight up over head#person/NOUN is/AUX pick/VERB thing/NOUN up/ADP and/CCONJ raise/VERB them/PRON straight/ADV up/ADV over/ADP head/NOUN#0.0#0.0

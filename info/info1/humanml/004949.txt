@@ -1,0 +1,3 @@
+the figure jumps twice while facing forward.#the/DET figure/NOUN jump/VERB twice/ADV while/SCONJ face/VERB forward/ADV#0.0#0.0
+a person is standing and performs a hop on both legs maintaining the same overall start position. the person hops a second time with the momentum from the first hop. the arms stay at the person's side.#a/DET person/NOUN is/AUX stand/VERB and/CCONJ perform/VERB a/DET hop/NOUN on/ADP both/DET leg/NOUN maintain/VERB the/DET same/ADJ overall/ADJ start/NOUN position/NOUN the/DET person/NOUN hop/VERB a/DET second/ADJ time/NOUN with/ADP the/DET momentum/NOUN from/ADP the/DET first/ADJ hop/NOUN the/DET arm/NOUN stay/VERB at/ADP the/DET person/NOUN side/NOUN#0.0#0.0
+a person jumps up and down.#a/DET person/NOUN jump/VERB up/ADV and/CCONJ down/ADV#0.0#0.0

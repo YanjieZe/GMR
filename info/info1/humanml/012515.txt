@@ -1,0 +1,3 @@
+a person crosses their arms then drops them.#a/DET person/NOUN cross/VERB their/DET arm/NOUN then/ADV drop/VERB them/PRON#0.0#0.0
+a person crosses his arms.#a/DET person/NOUN cross/VERB his/DET arm/NOUN#0.0#0.0
+a person brings their arms up as if to hug their torso.#a/DET person/NOUN bring/VERB their/DET arm/NOUN up/ADP as/SCONJ if/SCONJ to/PART hug/VERB their/DET torso/NOUN#0.0#0.0

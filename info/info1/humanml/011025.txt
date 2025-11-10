@@ -1,0 +1,3 @@
+a person walks forward, reaches down slightly with the right arm and then steps backwards.#a/DET person/NOUN walk/VERB forward/ADV reach/VERB down/ADV slightly/ADV with/ADP the/DET right/ADJ arm/NOUN and/CCONJ then/ADV step/VERB backwards/ADV#0.0#0.0
+a person walks forward to open something then steps back.#a/DET person/NOUN walk/VERB forward/ADV to/PART open/VERB something/PRON then/ADV step/VERB back/ADV#0.0#0.0
+person takes two steps forward, makes an opening door action with right hand, then steps backwards.#person/NOUN take/VERB two/NUM step/NOUN forward/ADV make/VERB an/DET open/VERB door/NOUN action/NOUN with/ADP right/ADJ hand/NOUN then/ADV step/VERB backwards/ADV#0.0#0.0

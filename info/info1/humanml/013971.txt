@@ -1,0 +1,3 @@
+figure walks upstairs using hand rail.#figure/NOUN walk/VERB upstairs/NOUN use/VERB hand/NOUN rail/NOUN#0.0#0.0
+this person walks up a couple of steps.#this/DET person/NOUN walk/VERB up/ADP a/DET couple/NOUN of/ADP step/NOUN#0.0#0.0
+a person walks up something while holding something with their right hand to help get up.#a/DET person/NOUN walk/VERB up/ADP something/PRON while/SCONJ hold/VERB something/PRON with/ADP their/DET right/ADJ hand/NOUN to/PART help/VERB get/AUX up/ADP#0.0#0.0

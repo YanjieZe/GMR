@@ -1,0 +1,3 @@
+a man takes a big step towards his right.#a/DET man/NOUN take/VERB a/DET big/ADJ step/NOUN towards/ADP his/DET right/NOUN#0.0#0.0
+a person carefully steps from top right to bottom left.#a/DET person/NOUN carefully/ADV step/VERB from/ADP top/ADJ right/NOUN to/ADP bottom/NOUN left/ADV#0.0#0.0
+the person is taking side steps to the right.#the/DET person/NOUN is/AUX take/VERB side/NOUN step/NOUN to/ADP the/DET right/NOUN#0.0#0.0

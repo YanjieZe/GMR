@@ -1,0 +1,3 @@
+a person runs to the right then runs to the left then back to the middle.#a/DET person/NOUN run/VERB to/ADP the/DET right/NOUN then/ADV run/VERB to/ADP the/DET left/NOUN then/ADV back/ADV to/ADP the/DET middle/NOUN#0.0#0.0
+a person jogs left then to the right and back to the center finishing facing forward.#a/DET person/NOUN jog/VERB left/VERB then/ADV to/ADP the/DET right/NOUN and/CCONJ back/ADV to/ADP the/DET center/NOUN finish/VERB face/VERB forward/ADV#0.0#0.0
+a person runs to their right and turns around to run to their left.#a/DET person/NOUN run/VERB to/ADP their/DET right/NOUN and/CCONJ turn/VERB around/ADP to/PART run/VERB to/ADP their/DET left/NOUN#0.0#0.0

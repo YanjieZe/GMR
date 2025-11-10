@@ -1,0 +1,3 @@
+a person walks to their left then their right then back to their original position.#a/DET person/NOUN walk/VERB to/ADP their/DET left/NOUN then/ADV their/DET right/NOUN then/ADV back/ADV to/ADP their/DET original/ADJ position/NOUN#0.0#0.0
+a person strafes back and forth from right to left.#a/DET person/NOUN strafe/VERB back/ADV and/CCONJ forth/ADV from/ADP right/NOUN to/ADP left/NOUN#0.0#0.0
+a person walks sideways .#a/DET person/NOUN walk/VERB sideways/ADV#0.0#0.0

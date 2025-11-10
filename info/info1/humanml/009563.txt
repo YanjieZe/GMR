@@ -1,0 +1,2 @@
+the person is pacing back-and-forth in a triangle.#the/DET person/NOUN is/AUX pace/VERB backandforth/ADJ in/ADP a/DET triangle/NOUN#0.0#0.0
+a person walks forward with a mission.#a/DET person/NOUN walk/VERB forward/ADV with/ADP a/DET mission/NOUN#3.0#7.0

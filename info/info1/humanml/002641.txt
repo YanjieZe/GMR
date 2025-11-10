@@ -1,0 +1,3 @@
+person walking on uneven ground.#person/NOUN walk/VERB on/ADP uneven/ADJ ground/NOUN#0.0#0.0
+a pa walks down a set of stairs, turns around then walks back up#a/DET pa/PROPN walk/VERB down/ADV a/DET set/NOUN of/ADP stair/NOUN turn/VERB around/ADV then/ADV walk/VERB back/ADV up/ADP#0.0#0.0
+a person is walking in a square on uneven ground.#a/DET person/NOUN is/AUX walk/VERB in/ADP a/DET square/NOUN on/ADP uneven/ADJ ground/NOUN#0.0#0.0

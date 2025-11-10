@@ -1,0 +1,3 @@
+the man does a short step#the/DET man/NOUN does/AUX a/DET short/ADJ step/NOUN#0.0#0.0
+a person who is standing with his arms down by his sides takes a step forward and to his left by leading with his left leg.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP his/DET arm/NOUN down/ADV by/ADP his/DET side/NOUN take/VERB a/DET step/NOUN forward/ADV and/CCONJ to/ADP his/DET left/NOUN by/ADP lead/VERB with/ADP his/DET left/ADJ leg/NOUN#0.0#0.0
+a person sidesteps to their left.#a/DET person/NOUN sidestep/VERB to/ADP their/DET left/NOUN#0.0#0.0

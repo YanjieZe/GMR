@@ -1,0 +1,2 @@
+someone is walking and turn left#someone/PRON is/AUX walk/VERB and/CCONJ turn/VERB left/ADV#0.0#0.0
+walking forward in a diagonal line.#walk/VERB forward/ADV in/ADP a/DET diagonal/ADJ line/NOUN#0.0#0.0

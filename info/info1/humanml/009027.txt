@@ -1,0 +1,3 @@
+a person walking forward with their right hand up suddenly walk to their right and brings both hands up, then they recover and puts their left hand down.#a/DET person/NOUN walk/VERB forward/ADV with/ADP their/DET right/ADJ hand/NOUN up/ADP suddenly/ADV walk/VERB to/ADP their/DET right/NOUN and/CCONJ bring/VERB both/DET hand/NOUN up/ADP then/ADV they/PRON recover/VERB and/CCONJ put/VERB their/DET left/ADJ hand/NOUN down/ADP#0.0#0.0
+a person stumbles forward, leaning on somebody.#a/DET person/NOUN stumble/VERB forward/ADV lean/VERB on/ADP somebody/PRON#0.0#0.0
+the person is being pulled in a direction by someone.#the/DET person/NOUN is/AUX being/AUX pull/VERB in/ADP a/DET direction/NOUN by/ADP someone/PRON#0.0#0.0

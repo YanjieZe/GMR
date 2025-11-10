@@ -1,0 +1,3 @@
+a person standing still uses their right arm to curl an object two times.#a/DET person/NOUN stand/VERB still/ADV use/VERB their/DET right/ADJ arm/NOUN to/PART curl/VERB an/DET object/NOUN two/NUM time/NOUN#0.0#0.0
+a person while standing, lifts his right hand as if to wave.#a/DET person/NOUN while/SCONJ stand/VERB lift/VERB his/DET right/ADJ hand/NOUN as/SCONJ if/SCONJ to/PART wave/VERB#0.0#0.0
+a standing person has their right arm extended, and bends their arm up to their right shoulder twice.#a/DET stand/VERB person/NOUN has/AUX their/DET right/ADJ arm/NOUN extend/VERB and/CCONJ bend/VERB their/DET arm/NOUN up/ADP to/ADP their/DET right/ADJ shoulder/NOUN twice/ADV#0.0#0.0

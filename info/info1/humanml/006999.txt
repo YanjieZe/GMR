@@ -1,0 +1,3 @@
+a person steps forward slightly, the raises both their hands and places them together.#a/DET person/NOUN step/VERB forward/ADV slightly/ADV the/DET raise/VERB both/CCONJ their/DET hand/NOUN and/CCONJ place/VERB them/PRON together/ADV#0.0#7.0
+person brings hands together to chest height then pauses then turns around#person/NOUN bring/VERB hand/NOUN together/ADV to/PART chest/NOUN height/NOUN then/ADV pause/VERB then/ADV turn/VERB around/ADV#0.0#0.0
+a person steps forward, clasps hands, turns around and clasps hands again.#a/DET person/NOUN step/VERB forward/ADV clasps/NOUN hand/NOUN turn/VERB around/ADV and/CCONJ clasp/NOUN hand/NOUN again/ADV#0.0#0.0

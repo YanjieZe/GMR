@@ -1,0 +1,3 @@
+a person jumps up once, then jumps higher the second time.#a/DET person/NOUN jump/VERB up/ADP once/ADV then/ADV jump/VERB higher/ADJ the/DET second/ADJ time/NOUN#0.0#0.0
+person jumps up into the air and then jumps again raising both arms in the air.#person/NOUN jump/VERB up/ADP into/ADP the/DET air/NOUN and/CCONJ then/ADV jump/VERB again/ADV raise/VERB both/DET arm/NOUN in/ADP the/DET air/NOUN#0.0#0.0
+a person jumps and lands with a few smaller hops#a/DET person/NOUN jump/VERB and/CCONJ land/VERB with/ADP a/DET few/ADJ smaller/ADJ hop/NOUN#0.0#0.0

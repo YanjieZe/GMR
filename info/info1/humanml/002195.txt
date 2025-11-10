@@ -1,0 +1,3 @@
+a person backs up before moving their arms out and pushing something.#a/DET person/NOUN back/VERB up/ADP before/ADP move/VERB their/DET arm/NOUN out/ADP and/CCONJ push/VERB something/PRON#0.0#0.0
+a person walks backwards and then crawls forwards#a/DET person/NOUN walk/VERB backwards/ADV and/CCONJ then/ADV crawl/VERB forwards/ADV#0.0#0.0
+a man walks backward, makes a sluggish fowards  move while bending his knees  and then pushes his arms foward.#a/DET man/NOUN walk/VERB backward/ADV make/VERB a/DET sluggish/ADJ foward/NOUN move/NOUN while/SCONJ bend/VERB his/DET knee/NOUN and/CCONJ then/ADV push/VERB his/DET arm/NOUN foward/ADJ#0.0#0.0

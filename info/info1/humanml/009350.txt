@@ -1,0 +1,3 @@
+a person is leaning around in multiple directions.#a/DET person/NOUN is/AUX lean/VERB around/ADV in/ADP multiple/ADJ direction/NOUN#0.0#0.0
+a person is dodging things#a/DET person/NOUN is/AUX dodge/VERB thing/NOUN#0.0#0.0
+a person shifts their body left then right, then back and forward before turning to the left with their hand over their head.#a/DET person/NOUN shift/VERB their/DET body/NOUN left/VERB then/ADV right/INTJ then/ADV back/ADV and/CCONJ forward/ADV before/ADP turn/VERB to/ADP the/DET left/NOUN with/ADP their/DET hand/NOUN over/ADP their/DET head/NOUN#0.0#0.0

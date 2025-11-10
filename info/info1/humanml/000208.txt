@@ -1,0 +1,3 @@
+person walks forward several paces, stops and then does a little jump.#person/NOUN walk/VERB forward/ADV several/ADJ pace/NOUN stop/VERB and/CCONJ then/ADV does/AUX a/DET little/ADJ jump/NOUN#0.0#0.0
+a person walks down some stairs#a/DET person/NOUN walk/VERB down/ADP some/DET stair/NOUN#0.0#0.0
+someone walks forward and then jumps up.#someone/PRON walk/VERB forward/ADV and/CCONJ then/ADV jump/VERB up/ADP#0.0#0.0

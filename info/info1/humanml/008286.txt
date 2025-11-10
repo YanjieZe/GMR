@@ -1,0 +1,3 @@
+person walks using short choppy steps#person/NOUN walk/VERB use/VERB short/ADJ choppy/ADJ step/NOUN#0.0#0.0
+a figure shuffles really quickly in a straight line#a/DET figure/NOUN shuffle/NOUN really/ADV quickly/ADV in/ADP a/DET straight/ADJ line/NOUN#0.0#0.0
+the person walks forward taking very small steps, stops, turns left and walks forward again with small steps#the/DET person/NOUN walk/VERB forward/ADV take/VERB very/ADV small/ADJ step/NOUN stop/NOUN turn/VERB left/VERB and/CCONJ walk/VERB forward/ADV again/ADV with/ADP small/ADJ step/NOUN#0.0#0.0

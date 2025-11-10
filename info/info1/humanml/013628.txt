@@ -1,0 +1,3 @@
+a person standing up rocking from side to side and clapping,raising both their hands up above their head clapping#a/DET person/NOUN stand/VERB up/ADP rock/VERB from/ADP side/NOUN to/ADP side/NOUN and/CCONJ clap/VERB raise/VERB both/DET their/DET hand/NOUN up/ADP above/ADP their/DET head/NOUN clap/VERB#0.0#0.0
+a figure starts swaying from left to right clapping their hand and then proceeds to start waving their hands.#a/DET figure/NOUN start/VERB sway/VERB from/ADP left/ADJ to/ADP right/ADV clap/VERB their/DET hand/NOUN and/CCONJ then/ADV proceed/VERB to/PART start/VERB wave/VERB their/DET hand/NOUN#0.0#0.0
+a man claps for his favorite performer named god.#a/DET man/NOUN clap/VERB for/ADP his/DET favorite/ADJ performer/NOUN name/VERB god/PROPN#0.0#0.0

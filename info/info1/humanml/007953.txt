@@ -1,0 +1,3 @@
+a person walking carefully and making his steps carefully and sneaking in.#a/DET person/NOUN walk/VERB carefully/ADV and/CCONJ make/VERB his/DET step/NOUN carefully/ADV and/CCONJ sneak/VERB in/ADP#0.0#0.0
+walking forward while crouching then back.#walk/VERB forward/ADV while/SCONJ crouch/VERB then/ADV back/ADV#0.0#0.0
+a figure moves, crouched, in a figure eight shape, almost as though they are ice skating.#a/DET figure/NOUN move/NOUN crouch/VERB in/ADP a/DET figure/NOUN eight/NUM shape/NOUN almost/ADV as/SCONJ though/SCONJ they/PRON are/AUX ice/NOUN skating/NOUN#0.0#0.0

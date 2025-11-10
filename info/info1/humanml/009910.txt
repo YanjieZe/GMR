@@ -1,0 +1,3 @@
+the person stand and touch the head.#the/DET person/NOUN stand/VERB and/CCONJ touch/VERB the/DET head/NOUN#0.0#0.0
+a person puts his right hand by his head, looks around, then puts his hand back down again#a/DET person/NOUN put/VERB his/DET right/ADJ hand/NOUN by/ADP his/DET head/NOUN look/VERB around/ADV then/ADV put/VERB his/DET hand/NOUN back/ADV down/ADV again/ADV#0.0#0.0
+a person raises right hand to face looks around and puts hand down back to side.#a/DET person/NOUN raise/VERB right/ADJ hand/NOUN to/PART face/VERB look/VERB around/ADV and/CCONJ put/VERB hand/NOUN down/ADP back/ADV to/ADP side/NOUN#0.0#0.0

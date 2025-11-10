@@ -1,0 +1,3 @@
+a person unscrews a bottle cap with right hand then begins to drink from bottle with left hand and then stops drinking.#a/DET person/NOUN unscrew/VERB a/DET bottle/NOUN cap/NOUN with/ADP right/ADJ hand/NOUN then/ADV begin/VERB to/PART drink/VERB from/ADP bottle/NOUN with/ADP left/ADJ hand/NOUN and/CCONJ then/ADV stop/VERB drink/VERB#0.0#0.0
+a person raised the left hand#a/DET person/NOUN raise/VERB the/DET left/ADJ hand/NOUN#0.0#0.0
+this person slowly raises his right arm then his left.#this/DET person/NOUN slowly/ADV raise/VERB his/DET right/ADJ arm/NOUN then/ADV his/DET left/NOUN#0.0#0.0

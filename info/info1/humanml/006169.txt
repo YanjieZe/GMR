@@ -1,0 +1,3 @@
+a person crouching down and jumping forward.#a/DET person/NOUN crouch/VERB down/ADP and/CCONJ jump/VERB forward/ADV#0.0#0.0
+a person hops forward with both feet#a/DET person/NOUN hop/VERB forward/ADV with/ADP both/DET foot/NOUN#0.0#0.0
+someone prepares to take a long jump#someone/PRON prepare/VERB to/PART take/VERB a/DET long/ADJ jump/NOUN#0.0#0.0

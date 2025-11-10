@@ -1,0 +1,3 @@
+a person kicks their right leg up twice while hopping between feet, then punches their right arm#a/DET person/NOUN kick/VERB their/DET right/ADJ leg/NOUN up/ADP twice/ADV while/SCONJ hop/VERB between/ADP foot/NOUN then/ADV punch/VERB their/DET right/ADJ arm/NOUN#0.0#0.0
+someone hold heads in hands and bend to the left, trying to dodge something#someone/PRON hold/VERB head/NOUN in/ADP hand/NOUN and/CCONJ bend/VERB to/ADP the/DET left/NOUN try/VERB to/PART dodge/VERB something/PRON#0.0#0.0
+the figure is punching and kicking#the/DET figure/NOUN is/AUX punch/VERB and/CCONJ kick/VERB#0.0#0.0

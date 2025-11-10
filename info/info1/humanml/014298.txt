@@ -1,0 +1,3 @@
+a person looks back and carefully takes a seat on some edge.#a/DET person/NOUN look/VERB back/ADV and/CCONJ carefully/ADV take/VERB a/DET seat/NOUN on/ADP some/DET edge/NOUN#0.0#0.0
+a person who is standing with his hands by his sides looks to his right, steps back, sits down, stands up and steps forward.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP his/DET hand/NOUN by/ADP his/DET side/NOUN look/VERB to/ADP his/DET right/NOUN step/VERB back/ADV sit/VERB down/ADV stand/VERB up/ADP and/CCONJ step/VERB forward/ADV#0.0#0.0
+a person sits down and then gets back up#a/DET person/NOUN sit/VERB down/ADV and/CCONJ then/ADV get/VERB back/ADV up/ADV#0.0#0.0

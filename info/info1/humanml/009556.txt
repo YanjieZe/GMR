@@ -1,0 +1,3 @@
+person walks backwards quickly, then stops.#person/NOUN walk/VERB backwards/ADV quickly/ADV then/ADV stop/VERB#0.0#0.0
+a person stands and then walks backwards.#a/DET person/NOUN stand/VERB and/CCONJ then/ADV walk/VERB backwards/ADV#0.0#0.0
+a person walks backwards a few steps#a/DET person/NOUN walk/VERB backwards/ADV a/DET few/ADJ step/NOUN#0.0#0.0

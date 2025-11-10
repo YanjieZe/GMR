@@ -1,0 +1,3 @@
+a person jumps forward and lands on both feet.#a/DET person/NOUN jump/VERB forward/ADV and/CCONJ land/VERB on/ADP both/DET foot/NOUN#0.0#0.0
+a person takes a big jump forward.#a/DET person/NOUN take/VERB a/DET big/ADJ jump/NOUN forward/ADV#0.0#0.0
+a person jumping forward with great effort.#a/DET person/NOUN jump/VERB forward/ADV with/ADP great/ADJ effort/NOUN#0.0#0.0

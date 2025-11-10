@@ -1,0 +1,3 @@
+a person uses their right hand to swat at the air and then lifts their left hand to their face.#a/DET person/NOUN use/VERB their/DET right/ADJ hand/NOUN to/ADP swat/PROPN at/ADP the/DET air/NOUN and/CCONJ then/ADV lift/VERB their/DET left/ADJ hand/NOUN to/ADP their/DET face/NOUN#0.0#0.0
+body raises right arm in smacking or hitting motion two times, then proceeds to lift left arm to face#body/NOUN raise/VERB right/ADJ arm/NOUN in/ADP smack/VERB or/CCONJ hit/VERB motion/NOUN two/NUM time/NOUN then/ADV proceed/VERB to/PART lift/VERB left/ADJ arm/NOUN to/ADP face/NOUN#0.0#0.0
+the person is moving back and forth.#the/DET person/NOUN is/AUX move/VERB back/ADV and/CCONJ forth/ADV#0.0#0.0

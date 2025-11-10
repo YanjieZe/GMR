@@ -1,0 +1,3 @@
+a man spins in a clockwise circle three times with his hands in front of him.#a/DET man/NOUN spin/VERB in/ADP a/DET clockwise/ADJ circle/NOUN three/NUM time/NOUN with/ADP his/DET hand/NOUN in/ADP front/NOUN of/ADP him/PRON#0.0#0.0
+a person turns counter clockwise in a circle.#a/DET person/NOUN turn/VERB counter/NOUN clockwise/NOUN in/ADP a/DET circle/NOUN#0.0#0.0
+the person spins in place clockwise 4 times.#the/DET person/NOUN spin/VERB in/ADP place/NOUN clockwise/NOUN time/NOUN#0.0#0.0

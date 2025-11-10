@@ -1,0 +1,3 @@
+subject walks to the center, side steps and walks backwards briefly.#subject/ADJ walk/VERB to/ADP the/DET center/NOUN side/NOUN step/NOUN and/CCONJ walk/VERB backwards/ADV briefly/ADV#0.0#0.0
+he starts to walk forward#he/PRON start/VERB to/PART walk/VERB forward/ADV#0.0#0.0
+a person walks happily in around#a/DET person/NOUN walk/VERB happily/ADV in/ADP around/ADV#0.0#0.0

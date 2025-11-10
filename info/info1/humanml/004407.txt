@@ -1,0 +1,3 @@
+a person steps to the side then does a half split.#a/DET person/NOUN step/VERB to/ADP the/DET side/NOUN then/ADV does/AUX a/DET half/ADJ split/NOUN#0.0#0.0
+a person spreads their legs by sliding their feet, then stands back up.#a/DET person/NOUN spread/VERB their/DET leg/NOUN by/ADP slide/VERB their/DET foot/NOUN then/ADV stand/VERB back/ADV up/ADV#0.0#0.0
+a person spreading their legs to loosen up.#a/DET person/NOUN spread/VERB their/DET leg/NOUN to/PART loosen/VERB up/ADP#0.0#0.0

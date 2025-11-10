@@ -1,0 +1,3 @@
+a man rubs his head.#a/DET man/NOUN rub/VERB his/DET head/NOUN#0.0#0.0
+he puts his hand to his head, scratches it, and lets it down.#he/PRON put/VERB his/DET hand/NOUN to/ADP his/DET head/NOUN scratch/VERB it/PRON and/CCONJ let/VERB it/PRON down/ADP#0.0#0.0
+a person puts their right arm above their head as if scratching their head.#a/DET person/NOUN put/VERB their/DET right/ADJ arm/NOUN above/ADP their/DET head/NOUN as/SCONJ if/SCONJ scratch/VERB their/DET head/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+he is straining to do squats while holding a dumbell in each hand.#he/PRON is/AUX strain/VERB to/PART do/AUX squat/NOUN while/SCONJ hold/VERB a/DET dumbell/NOUN in/ADP each/DET hand/NOUN#0.0#0.0
+a person makes a squatting motion two times.#a/DET person/NOUN make/VERB a/DET squat/VERB motion/NOUN two/NUM time/NOUN#0.0#0.0
+a person squats up and down, while their arms is in a w shape.#a/DET person/NOUN squat/VERB up/ADV and/CCONJ down/ADV while/SCONJ their/DET arm/NOUN is/AUX in/ADP a/DET w/NOUN shape/NOUN#0.0#0.0

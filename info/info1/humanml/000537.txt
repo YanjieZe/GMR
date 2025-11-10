@@ -1,0 +1,3 @@
+person steps forward slowly five steps#person/NOUN step/VERB forward/ADV slowly/ADV five/NUM step/NOUN#0.0#0.0
+a man walks forward and then stops.#a/DET man/NOUN walk/VERB forward/ADV and/CCONJ then/ADV stop/VERB#0.0#0.0
+a person walks forward a few steps and stands still#a/DET person/NOUN walk/VERB forward/ADV a/DET few/ADJ step/NOUN and/CCONJ stand/VERB still/ADV#0.0#0.0

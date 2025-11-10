@@ -1,0 +1,3 @@
+a person walks and touches something with his left hand.#a/DET person/NOUN walk/VERB and/CCONJ touch/VERB something/PRON with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0
+a person walks forward holding onto left rail with left hand.#a/DET person/NOUN walk/VERB forward/ADV hold/VERB onto/ADP left/ADJ rail/NOUN with/ADP left/ADJ hand/NOUN#0.0#0.0
+a man walks foward with a limping motion, he does this whilst supporting himself with his left arm agains a platform.#a/DET man/NOUN walk/VERB foward/ADJ with/ADP a/DET limping/NOUN motion/NOUN he/PRON does/AUX this/DET whilst/SCONJ support/VERB himself/PRON with/ADP his/DET left/ADJ arm/NOUN again/VERB a/DET platform/NOUN#0.0#0.0

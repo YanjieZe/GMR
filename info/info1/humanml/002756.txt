@@ -1,0 +1,3 @@
+a person doing jumping jacks , with a short pause in between.#a/DET person/NOUN do/VERB jump/VERB jack/NOUN with/ADP a/DET short/ADJ pause/NOUN in/ADP between/ADP#0.0#0.0
+a person raises his arms from the side over his head while jumping to spread his legs to the side.#a/DET person/NOUN raise/VERB his/DET arm/NOUN from/ADP the/DET side/NOUN over/ADP his/DET head/NOUN while/SCONJ jump/VERB to/PART spread/VERB his/DET leg/NOUN to/ADP the/DET side/NOUN#0.0#0.0
+a man jumps up whilst his arms swing from downwards to upwards#a/DET man/NOUN jump/VERB up/ADP whilst/SCONJ his/DET arm/NOUN swing/VERB from/ADP downwards/ADV to/ADP upwards/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a man is shadowboxing while standing still.#a/DET man/NOUN is/AUX shadowbox/VERB while/SCONJ stand/VERB still/ADV#0.0#0.0
+a person throwing a punch with left hand.#a/DET person/NOUN throw/VERB a/DET punch/NOUN with/ADP left/ADJ hand/NOUN#0.0#0.0
+person takes one step and uses the right arm to do an uppercut boxing punch#person/NOUN take/VERB one/NUM step/NOUN and/CCONJ use/VERB the/DET right/ADJ arm/NOUN to/PART do/AUX an/DET uppercut/ADJ boxing/NOUN punch/NOUN#0.0#0.0

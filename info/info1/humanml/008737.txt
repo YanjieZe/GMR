@@ -1,0 +1,3 @@
+figure uses hands to play imaginary violin beauitfully#figure/NOUN use/VERB hand/NOUN to/PART play/VERB imaginary/ADJ violin/NOUN beauitfully/ADV#0.0#0.0
+a person plays the violin on his left shoulder#a/DET person/NOUN play/VERB the/DET violin/NOUN on/ADP his/DET left/ADJ shoulder/NOUN#0.0#0.0
+a person appears to play a violin on their left shoulder.#a/DET person/NOUN appear/VERB to/PART play/VERB a/DET violin/NOUN on/ADP their/DET left/ADJ shoulder/NOUN#0.0#0.0

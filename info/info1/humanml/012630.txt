@@ -1,0 +1,3 @@
+a person sliding to the left with right foot, positioning right foot together with left foot, and then raising both right and left hands in the air in the stance of a ballerina.#a/DET person/NOUN slide/VERB to/ADP the/DET left/NOUN with/ADP right/ADJ foot/NOUN position/VERB right/ADJ foot/NOUN together/ADV with/ADP left/ADJ foot/NOUN and/CCONJ then/ADV raise/VERB both/CCONJ right/NOUN and/CCONJ left/VERB hand/NOUN in/ADP the/DET air/NOUN in/ADP the/DET stance/NOUN of/ADP a/DET ballerina/NOUN#0.0#0.0
+a person is swinging arms side to side#a/DET person/NOUN is/AUX swinge/VERB arm/NOUN side/NOUN to/PART side/VERB#0.0#0.0
+person extends arms forward and sweeps them outward#person/NOUN extend/VERB arm/NOUN forward/ADV and/CCONJ sweep/VERB them/PRON outward/ADV#0.0#0.0

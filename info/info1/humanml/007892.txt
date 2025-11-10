@@ -1,0 +1,3 @@
+the person walked towards the right and sat down.#the/DET person/NOUN walk/VERB towards/ADP the/DET right/NOUN and/CCONJ sit/VERB down/ADP#0.0#0.0
+a man walks briskly in a clockwise semi-circle, sits down on the ground, stands up, and resumes walking in a clockwise circle.#a/DET man/NOUN walk/VERB briskly/ADV in/ADP a/DET clockwise/NOUN semicircle/NOUN sit/VERB down/ADP on/ADP the/DET ground/NOUN stand/VERB up/ADV and/CCONJ resume/VERB walk/VERB in/ADP a/DET clockwise/ADJ circle/NOUN#0.0#0.0
+a person walks in a clockwise circle, sits down, then continues walking in clockwise circle.#a/DET person/NOUN walk/VERB in/ADP a/DET clockwise/NOUN circle/NOUN sit/VERB down/ADV then/ADV continue/VERB walk/VERB in/ADP clockwise/ADJ circle/NOUN#0.0#0.0

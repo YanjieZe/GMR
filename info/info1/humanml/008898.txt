@@ -1,0 +1,3 @@
+a person lifts their right arm up over their head and gives a single wave.#a/DET person/NOUN lift/VERB their/DET right/ADJ arm/NOUN up/ADP over/ADP their/DET head/NOUN and/CCONJ give/VERB a/DET single/ADJ wave/NOUN#0.0#0.0
+the stick figure raised it's red left hand and waved from right to left#the/DET stick/NOUN figure/NOUN raise/VERB it/PRON red/ADJ left/ADJ hand/NOUN and/CCONJ wave/VERB from/ADP right/NOUN to/ADP left/ADV#0.0#0.0
+a man raises his right arm to wave his hand.#a/DET man/NOUN raise/VERB his/DET right/ADJ arm/NOUN to/PART wave/VERB his/DET hand/NOUN#0.0#0.0

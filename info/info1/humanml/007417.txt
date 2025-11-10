@@ -1,0 +1,3 @@
+a person is playing a horn as they turn from left to right.#a/DET person/NOUN is/AUX play/VERB a/DET horn/NOUN as/SCONJ they/PRON turn/VERB from/ADP left/NOUN to/ADP right/NOUN#0.0#0.0
+a person holds their hands close to their mouth and chest area#a/DET person/NOUN hold/VERB their/DET hand/NOUN close/ADJ to/ADP their/DET mouth/NOUN and/CCONJ chest/NOUN area/NOUN#0.0#0.0
+a person seems to cower or gnaw at something.#a/DET person/NOUN seem/VERB to/PART cower/NOUN or/CCONJ gnaw/NOUN at/ADP something/PRON#0.0#0.0

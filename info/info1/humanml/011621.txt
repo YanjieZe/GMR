@@ -1,0 +1,3 @@
+someone grabs hands, leans in, then gets up and stops#someone/PRON grab/VERB hand/NOUN lean/NOUN in/ADV then/ADV get/VERB up/ADV and/CCONJ stop/NOUN#0.0#0.0
+a person puts their hands together in front of their face, the turns to the left and bows, turns to the right and bows.#a/DET person/NOUN put/VERB their/DET hand/NOUN together/ADV in/ADP front/NOUN of/ADP their/DET face/NOUN the/DET turn/NOUN to/ADP the/DET left/NOUN and/CCONJ bow/NOUN turn/VERB to/ADP the/DET right/NOUN and/CCONJ bow/NOUN#0.0#0.0
+someone standing acting like a robot#someone/PRON stand/VERB act/VERB like/SCONJ a/DET robot/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person stands up from a kneeling position, using their right arm to help themselves up.#a/DET person/NOUN stand/VERB up/ADP from/ADP a/DET kneeling/NOUN position/NOUN use/VERB their/DET right/ADJ arm/NOUN to/PART help/VERB themselves/PRON up/ADP#0.0#0.0
+band and stay stand on the floor.#band/VERB and/CCONJ stay/VERB stand/NOUN on/ADP the/DET floor/NOUN#0.0#0.0
+this person gets up to stand from being on his knees.#this/DET person/NOUN get/VERB up/ADV to/PART stand/VERB from/ADP being/AUX on/ADP his/DET knee/NOUN#0.0#0.0

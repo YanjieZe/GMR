@@ -1,0 +1,3 @@
+person ran got down on his knees turn around and ran back the other way.#person/NOUN run/VERB get/VERB down/ADP on/ADP his/DET knee/NOUN turn/VERB around/ADP and/CCONJ run/VERB back/ADV the/DET other/ADJ way/NOUN#0.0#0.0
+a person jogs in a clockwise motion and falls to their knees, he then gets back up onto his feet and walks to the right in a crooked line.#a/DET person/NOUN jog/VERB in/ADP a/DET clockwise/ADJ motion/NOUN and/CCONJ fall/VERB to/ADP their/DET knee/NOUN he/PRON then/ADV get/VERB back/ADV up/ADV onto/ADP his/DET foot/NOUN and/CCONJ walk/VERB to/ADP the/DET right/NOUN in/ADP a/DET crooked/ADJ line/NOUN#0.0#0.0
+he done a fall done accident#he/PRON do/VERB a/DET fall/NOUN do/VERB accident/NOUN#0.0#0.0

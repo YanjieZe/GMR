@@ -1,0 +1,3 @@
+a person is clapping sitting on something#a/DET person/NOUN is/AUX clap/VERB sit/VERB on/ADP something/PRON#0.0#8.0
+the person is sitting down applauding.#the/DET person/NOUN is/AUX sit/VERB down/ADP applaud/VERB#0.0#0.0
+the person claps while sitting down.#the/DET person/NOUN clap/VERB while/SCONJ sit/VERB down/ADP#0.0#0.0

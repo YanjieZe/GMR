@@ -1,0 +1,3 @@
+person grabs somethings with two hands and then holds it with right hand#person/NOUN grabs/PROPN something/NOUN with/ADP two/NUM hand/NOUN and/CCONJ then/ADV hold/VERB it/PRON with/ADP right/ADJ hand/NOUN#0.0#0.0
+a person has right arm up to push something away#a/DET person/NOUN has/AUX right/ADJ arm/NOUN up/ADP to/PART push/VERB something/PRON away/ADV#0.0#0.0
+person is trying to move or open something with the right arms, then both arms, and then just with the right arm#person/NOUN is/AUX try/VERB to/PART move/VERB or/CCONJ open/VERB something/PRON with/ADP the/DET right/ADJ arm/NOUN then/ADV both/DET arm/NOUN and/CCONJ then/ADV just/ADV with/ADP the/DET right/ADJ arm/NOUN#0.0#0.0

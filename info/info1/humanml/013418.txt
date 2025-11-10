@@ -1,0 +1,3 @@
+the man is dancing using arms and legs#the/DET man/NOUN is/AUX dance/VERB use/VERB arm/NOUN and/CCONJ leg/NOUN#0.0#0.0
+a person dances in a ballet style, twirling and raising their arms above their head.#a/DET person/NOUN dance/VERB in/ADP a/DET ballet/NOUN style/NOUN twirl/VERB and/CCONJ raise/VERB their/DET arm/NOUN above/ADP their/DET head/NOUN#0.0#0.0
+while dancing, a person twirls around before continuing to dance.#while/SCONJ dancing/NOUN a/DET person/NOUN twirl/VERB around/ADP before/ADP continue/VERB to/PART dance/VERB#0.0#0.0

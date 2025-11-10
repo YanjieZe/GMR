@@ -1,0 +1,3 @@
+a person walking in a diagonal line.#a/DET person/NOUN walk/VERB in/ADP a/DET diagonal/ADJ line/NOUN#0.0#0.0
+he pushes recovery on left arm#he/PRON push/VERB recovery/NOUN on/ADP left/ADJ arm/NOUN#0.0#0.0
+a person who is standing with his arms by his sides takes one step forward, starts walking towards his right, then takes two steps to his left and stops.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP his/DET arm/NOUN by/ADP his/DET side/NOUN take/VERB one/NUM step/NOUN forward/ADV start/VERB walk/VERB towards/ADP his/DET right/NOUN then/ADV take/VERB two/NUM step/NOUN to/ADP his/DET left/NOUN and/CCONJ stop/NOUN#0.0#0.0

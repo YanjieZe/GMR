@@ -1,0 +1,3 @@
+a person moves in a square while leaping#a/DET person/NOUN move/VERB in/ADP a/DET square/NOUN while/SCONJ leap/VERB#0.0#0.0
+the man leaps 4 times in a clockwise square.#the/DET man/NOUN leap/VERB time/NOUN in/ADP a/DET clockwise/ADJ square/NOUN#0.0#0.0
+a man leaps around to make a square shape.#a/DET man/NOUN leap/VERB around/ADV to/PART make/VERB a/DET square/ADJ shape/NOUN#0.0#0.0

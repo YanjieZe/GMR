@@ -1,0 +1,3 @@
+a man is walking forward, spins around anticlockwise on his left foot the walks back to where he started from#a/DET man/NOUN is/AUX walk/VERB forward/ADV spin/VERB around/ADP anticlockwise/NOUN on/ADP his/DET left/ADJ foot/NOUN the/DET walk/NOUN back/ADV to/ADP where/ADV he/PRON start/VERB from/ADP#0.0#0.0
+the person walks forward, turns counterclockwise and walks back to starting position.#the/DET person/NOUN walk/VERB forward/ADV turn/VERB counterclockwise/NOUN and/CCONJ walk/VERB back/ADV to/ADP start/VERB position/NOUN#nan#0.0
+a figure spins in a half circle after taking a few steps forward.#a/DET figure/NOUN spin/VERB in/ADP a/DET half/ADJ circle/NOUN after/ADP take/VERB a/DET few/ADJ step/NOUN forward/ADV#0.0#0.0

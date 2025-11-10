@@ -1,0 +1,3 @@
+a person bends forward and ties their left shoe.#a/DET person/NOUN bend/VERB forward/ADV and/CCONJ tie/VERB their/DET left/ADJ shoe/NOUN#0.0#0.0
+a person with their hands on their head, removes them, and then bends down to tie their shoe and then puts their left hand on their head.#a/DET person/NOUN with/ADP their/DET hand/NOUN on/ADP their/DET head/NOUN remove/VERB them/PRON and/CCONJ then/ADV bend/VERB down/ADP to/PART tie/VERB their/DET shoe/NOUN and/CCONJ then/ADV put/VERB their/DET left/ADJ hand/NOUN on/ADP their/DET head/NOUN#0.0#0.0
+a person with hands by their head bends down to tie their left shoe.#a/DET person/NOUN with/ADP hand/NOUN by/ADP their/DET head/NOUN bend/VERB down/ADP to/PART tie/VERB their/DET left/ADJ shoe/NOUN#0.0#0.0

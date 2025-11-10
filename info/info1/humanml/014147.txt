@@ -1,0 +1,3 @@
+a person turns around, running diagonally, then walks back.#a/DET person/NOUN turn/VERB around/ADV run/VERB diagonally/ADV then/ADV walk/VERB back/ADV#0.0#0.0
+a person turns around and begins running forward and then turn back around#a/DET person/NOUN turn/VERB around/ADP and/CCONJ begin/VERB run/VERB forward/ADV and/CCONJ then/ADV turn/VERB back/ADV around/ADV#0.0#0.0
+a man runs in a diginal line turns around and starts walking back.#a/DET man/NOUN run/VERB in/ADP a/DET diginal/ADJ line/NOUN turn/VERB around/ADP and/CCONJ start/VERB walk/VERB back/ADV#0.0#0.0

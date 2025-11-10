@@ -1,0 +1,3 @@
+figure appears to be waving it's hands for a warning possibly#figure/NOUN appear/VERB to/PART be/AUX wave/VERB it/PRON hand/NOUN for/ADP a/DET warning/NOUN possibly/ADV#0.0#0.0
+a person brings both arms up and starts waving them simultaneously#a/DET person/NOUN bring/VERB both/DET arm/NOUN up/ADP and/CCONJ start/VERB wave/VERB them/PRON simultaneously/ADV#0.0#0.0
+a person raises both hands to chin level then waves both hands in opposing directions back and forth.#a/DET person/NOUN raise/VERB both/DET hand/NOUN to/PART chin/VERB level/NOUN then/ADV wave/VERB both/DET hand/NOUN in/ADP oppose/VERB direction/NOUN back/ADV and/CCONJ forth/ADV#0.0#0.0

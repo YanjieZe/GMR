@@ -1,0 +1,3 @@
+a person walking in an anti-clockwise circular pattern#a/DET person/NOUN walk/VERB in/ADP an/DET anticlockwise/NOUN circular/ADJ pattern/NOUN#0.0#0.0
+a person walks casually in a couterclockwise circle.#a/DET person/NOUN walk/VERB casually/ADV in/ADP a/DET couterclockwise/NOUN circle/NOUN#0.0#0.0
+a person who is walking in a counterclockwise direction takes eleven steps before stopping.#a/DET person/NOUN who/PRON is/AUX walk/VERB in/ADP a/DET counterclockwise/ADJ direction/NOUN take/VERB eleven/NUM step/NOUN before/ADP stop/VERB#0.0#0.0

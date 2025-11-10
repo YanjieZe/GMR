@@ -1,0 +1,3 @@
+a person jumps and spins backwards.#a/DET person/NOUN jump/VERB and/CCONJ spin/VERB backwards/ADV#0.0#0.0
+a person raises his arms twice and gets momentum to jump and turn towards the back,#a/DET person/NOUN raise/VERB his/DET arm/NOUN twice/ADV and/CCONJ get/VERB momentum/NOUN to/PART jump/VERB and/CCONJ turn/VERB towards/ADP the/DET back/NOUN#0.0#0.0
+person jumps and lands in a 180#person/NOUN jump/VERB and/CCONJ land/NOUN in/ADP a/DET#0.0#0.0

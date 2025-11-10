@@ -1,0 +1,3 @@
+a person with arms down and relaxed makes a forward upward motion with right arm.#a/DET person/NOUN with/ADP arm/NOUN down/ADV and/CCONJ relaxed/ADJ make/VERB a/DET forward/ADV upward/ADJ motion/NOUN with/ADP right/ADJ arm/NOUN#0.0#0.0
+a man is lifting his right arm.#a/DET man/NOUN is/AUX lift/VERB his/DET right/ADJ arm/NOUN#0.0#0.0
+a person sticks their right hand up#a/DET person/NOUN stick/VERB their/DET right/ADJ hand/NOUN up/ADP#0.0#0.0

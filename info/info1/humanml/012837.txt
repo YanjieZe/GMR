@@ -1,0 +1,3 @@
+a person raised his hand, and leaned it near to face#a/DET person/NOUN raise/VERB his/DET hand/NOUN and/CCONJ lean/VERB it/PRON near/ADJ to/PART face/VERB#0.0#0.0
+the person calmly holds an object close to its face.#the/DET person/NOUN calmly/ADV hold/VERB an/DET object/NOUN close/ADJ to/ADP its/DET face/NOUN#0.0#0.0
+a person has their right hand up to their face, and moves their body around a bit.#a/DET person/NOUN has/AUX their/DET right/ADJ hand/NOUN up/ADP to/ADP their/DET face/NOUN and/CCONJ move/VERB their/DET body/NOUN around/ADP a/DET bit/NOUN#0.0#0.0

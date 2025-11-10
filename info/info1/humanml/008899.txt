@@ -1,0 +1,3 @@
+mans has hands over head before flexing his muscles#mans/PROPN has/AUX hand/NOUN over/ADP head/NOUN before/ADP flex/VERB his/DET muscle/NOUN#0.0#0.0
+a man standing with arms at head and flexing muscles.#a/DET man/NOUN stand/VERB with/ADP arm/NOUN at/ADP head/NOUN and/CCONJ flex/VERB muscle/NOUN#0.0#0.0
+a person flexes their biceps.#a/DET person/NOUN flex/VERB their/DET bicep/NOUN#0.0#0.0

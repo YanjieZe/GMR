@@ -1,0 +1,3 @@
+a person strides swiftly in a straight line#a/DET person/NOUN stride/VERB swiftly/ADV in/ADP a/DET straight/ADJ line/NOUN#0.0#0.0
+a person walks forward at a medium speed.#a/DET person/NOUN walk/VERB forward/ADV at/ADP a/DET medium/ADJ speed/NOUN#0.0#0.0
+a person walks swiftly in a straight line swinging their arms back and forth as they move forward.#a/DET person/NOUN walk/VERB swiftly/ADV in/ADP a/DET straight/ADJ line/NOUN swinge/VERB their/DET arm/NOUN back/ADV and/CCONJ forth/ADV as/SCONJ they/PRON move/VERB forward/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+the person is trying to unscrew a bottle cap.#the/DET person/NOUN is/AUX try/VERB to/PART unscrew/VERB a/DET bottle/NOUN cap/NOUN#0.0#0.0
+a man is holding a bottle with his right hand, unscrews the cap with his left hand, drink, then puts the cap back on#a/DET man/NOUN is/AUX hold/VERB a/DET bottle/NOUN with/ADP his/DET right/ADJ hand/NOUN unscrew/VERB the/DET cap/NOUN with/ADP his/DET left/ADJ hand/NOUN drink/NOUN then/ADV put/VERB the/DET cap/NOUN back/ADV on/ADP#0.0#0.0
+a person unscrews a cap, takes a drink from it, then recaps the container#a/DET person/NOUN unscrew/VERB a/DET cap/NOUN take/VERB a/DET drink/NOUN from/ADP it/PRON then/ADV recap/VERB the/DET container/NOUN#0.0#0.0

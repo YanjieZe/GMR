@@ -1,0 +1,3 @@
+a figure crouches and slightly trembles#a/DET figure/NOUN crouch/NOUN and/CCONJ slightly/ADV tremble/NOUN#0.0#0.0
+moving hands around near face.#move/VERB hand/NOUN around/ADV near/SCONJ face/NOUN#0.0#0.0
+a person squatting but has both hands up as if eating.#a/DET person/NOUN squat/VERB but/CCONJ has/AUX both/DET hand/NOUN up/ADP as/SCONJ if/SCONJ eating/NOUN#0.0#0.0

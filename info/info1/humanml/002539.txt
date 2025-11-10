@@ -1,0 +1,3 @@
+the figure is performing a bicep curl with its right arm.#the/DET figure/NOUN is/AUX perform/VERB a/DET bicep/NOUN curl/NOUN with/ADP its/DET right/ADJ arm/NOUN#0.0#0.0
+a person standing still and lifting dumbbell with his left hand.#a/DET person/NOUN stand/VERB still/ADV and/CCONJ lift/VERB dumbbell/NOUN with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0
+a person stands in place raising his arm at the elbow up and down two times.#a/DET person/NOUN stand/VERB in/ADP place/NOUN raise/VERB his/DET arm/NOUN at/ADP the/DET elbow/NOUN up/ADP and/CCONJ down/ADP two/NUM time/NOUN#0.0#0.0

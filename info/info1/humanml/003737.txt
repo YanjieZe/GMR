@@ -1,0 +1,3 @@
+the person walked forward reach for something and then walked backwards.#the/DET person/NOUN walk/VERB forward/ADV reach/VERB for/ADP something/PRON and/CCONJ then/ADV walk/VERB backwards/ADV#0.0#0.0
+a person picks up something with their left hand, and places it to their right.#a/DET person/NOUN pick/VERB up/ADP something/PRON with/ADP their/DET left/ADJ hand/NOUN and/CCONJ place/VERB it/PRON to/ADP their/DET right/NOUN#0.0#0.0
+a man walks to front, organizing items, and walking backwards.#a/DET man/NOUN walk/VERB to/PART front/VERB organize/VERB item/NOUN and/CCONJ walk/VERB backwards/ADV#0.0#0.0

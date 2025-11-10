@@ -1,0 +1,3 @@
+a person swinging each arm above their head, while stepping each leg out to a beat.#a/DET person/NOUN swinge/VERB each/DET arm/NOUN above/ADP their/DET head/NOUN while/SCONJ step/VERB each/DET leg/NOUN out/ADP to/ADP a/DET beat/NOUN#0.0#0.0
+a man shifts his weight back and forth while swirling both hands above his head in a dance.#a/DET man/NOUN shift/VERB his/DET weight/NOUN back/ADV and/CCONJ forth/ADV while/SCONJ swirl/VERB both/DET hand/NOUN above/ADP his/DET head/NOUN in/ADP a/DET dance/NOUN#0.0#0.0
+a person dances by themself using both arms and legs.#a/DET person/NOUN dance/VERB by/ADP themself/PRON use/VERB both/DET arm/NOUN and/CCONJ leg/NOUN#0.0#0.0

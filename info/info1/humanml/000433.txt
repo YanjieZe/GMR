@@ -1,0 +1,3 @@
+this person is standing straight and kicks his leg out once and then stands normal.#this/DET person/NOUN is/AUX stand/VERB straight/ADV and/CCONJ kick/VERB his/DET leg/NOUN out/ADP once/ADV and/CCONJ then/ADV stand/VERB normal/ADJ#0.0#0.0
+person does a low kick#person/NOUN does/AUX a/DET low/ADJ kick/NOUN#0.0#0.0
+a person scuffs their right foot one time.#a/DET person/NOUN scuff/VERB their/DET right/ADJ foot/NOUN one/NUM time/NOUN#0.0#0.0

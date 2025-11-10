@@ -1,0 +1,3 @@
+a person crouches around and puts their hands to their ear to hear something.#a/DET person/NOUN crouch/VERB around/ADV and/CCONJ put/VERB their/DET hand/NOUN to/ADP their/DET ear/NOUN to/PART hear/VERB something/PRON#0.0#0.0
+a person is walking from side to side slightly squatting and makes a motion of looking over for something with his had.#a/DET person/NOUN is/AUX walk/VERB from/ADP side/NOUN to/PART side/VERB slightly/ADV squat/VERB and/CCONJ make/VERB a/DET motion/NOUN of/ADP look/VERB over/ADP for/ADP something/PRON with/ADP his/DET have/VERB#0.0#0.0
+a person who seems to be sneaking around and trying to listen to something#a/DET person/NOUN who/PRON seem/VERB to/PART be/AUX sneak/VERB around/ADV and/CCONJ try/VERB to/PART listen/VERB to/ADP something/PRON#0.0#0.0

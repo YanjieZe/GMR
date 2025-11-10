@@ -1,0 +1,3 @@
+a person jogs to one side, turns around and jogs to the other, turns around and jogs back to their original position.#a/DET person/NOUN jog/VERB to/ADP one/NUM side/NOUN turn/VERB around/ADV and/CCONJ jog/VERB to/ADP the/DET other/ADJ turn/VERB around/ADV and/CCONJ jog/VERB back/ADV to/ADP their/DET original/ADJ position/NOUN#0.0#0.0
+a person running from left and right#a/DET person/NOUN run/VERB from/ADP left/ADJ and/CCONJ right/ADJ#0.0#0.0
+the toon jogs back and forth in a rough figure eight motion.#the/DET toon/NOUN jog/VERB back/ADV and/CCONJ forth/ADV in/ADP a/DET rough/ADJ figure/NOUN eight/NUM motion/NOUN#0.0#8.0

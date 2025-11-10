@@ -1,0 +1,3 @@
+a person scratches their left shoulder with right hand#a/DET person/NOUN scratch/VERB their/DET left/ADJ shoulder/NOUN with/ADP right/ADJ hand/NOUN#0.0#0.0
+a person raises their right wrist up to look at it, as if checking the time on a wristwatch#a/DET person/NOUN raise/VERB their/DET right/ADJ wrist/NOUN up/ADP to/PART look/VERB at/ADP it/PRON as/SCONJ if/SCONJ check/VERB the/DET time/NOUN on/ADP a/DET wristwatch/NOUN#0.0#0.0
+person may have scratched a shoulder.#person/NOUN may/VERB have/AUX scratch/VERB a/DET shoulder/NOUN#0.0#0.0

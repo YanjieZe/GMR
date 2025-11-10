@@ -1,0 +1,3 @@
+a person shuffles to the right and then back to the left.#a/DET person/NOUN shuffle/VERB to/ADP the/DET right/NOUN and/CCONJ then/ADV back/ADV to/ADP the/DET left/NOUN#0.0#0.0
+moving side to side.#move/VERB side/NOUN to/ADP side/VERB#0.0#0.0
+a person sidesteps from side to side.#a/DET person/NOUN sidestep/VERB from/ADP side/NOUN to/ADP side/NOUN#0.0#0.0

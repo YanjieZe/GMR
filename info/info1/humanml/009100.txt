@@ -1,0 +1,3 @@
+the person is drying off the right arm.#the/DET person/NOUN is/AUX dry/VERB off/ADP the/DET right/ADJ arm/NOUN#0.0#0.0
+bending down and moving arms.#bend/VERB down/ADV and/CCONJ move/VERB arm/NOUN#0.0#0.0
+a figure sets up a spitball for a pitch.#a/DET figure/NOUN set/VERB up/ADP a/DET spitball/NOUN for/ADP a/DET pitch/NOUN#0.0#0.0

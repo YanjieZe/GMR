@@ -1,0 +1,3 @@
+a person crouching forward then leaps over something.#a/DET person/NOUN crouch/VERB forward/ADV then/ADV leap/VERB over/ADP something/PRON#0.0#0.0
+the person is taking giant steps.#the/DET person/NOUN is/AUX take/VERB giant/ADJ step/NOUN#0.0#0.0
+a person walks backward then crouches, takes a few big steps, and jumps#a/DET person/NOUN walk/VERB backward/ADJ then/ADV crouch/NOUN take/VERB a/DET few/ADJ big/ADJ step/NOUN and/CCONJ jump/VERB#0.0#0.0

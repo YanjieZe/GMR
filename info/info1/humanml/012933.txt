@@ -1,0 +1,3 @@
+a person walks forward from one side to the other.#a/DET person/NOUN walk/VERB forward/ADV from/ADP one/NUM side/NOUN to/ADP the/DET other/ADJ#0.0#0.0
+this person is walking forward.#this/DET person/NOUN is/AUX walk/VERB forward/ADV#0.0#0.0
+the person was standing still then walk slowly forward.#the/DET person/NOUN was/AUX stand/VERB still/ADV then/ADV walk/VERB slowly/ADV forward/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person is throwing with both hands#a/DET person/NOUN is/AUX throw/VERB with/ADP both/DET hand/NOUN#0.0#0.0
+somebody celebrating in a calm manner#somebody/PRON celebrate/VERB in/ADP a/DET calm/ADJ manner/NOUN#0.0#0.0
+person puts arms above head jumps up and puts arms bent at elbow at stomach level#person/NOUN put/VERB arm/NOUN above/ADP head/NOUN jump/VERB up/ADP and/CCONJ put/VERB arm/NOUN bent/ADJ at/ADP elbow/NOUN at/ADP stomach/NOUN level/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a man walks towards the camera, turns around, and walks back.#a/DET man/NOUN walk/VERB towards/ADP the/DET camera/NOUN turn/VERB around/ADV and/CCONJ walk/VERB back/ADV#0.0#0.0
+a person walks in a forward motion swinging arms slightly as they walk. then the person turns around and walks back to towards the starting point.#a/DET person/NOUN walk/VERB in/ADP a/DET forward/ADJ motion/NOUN swinge/VERB arm/NOUN slightly/ADV as/SCONJ they/PRON walk/VERB then/ADV the/DET person/NOUN turn/VERB around/ADP and/CCONJ walk/VERB back/ADV to/ADP towards/ADP the/DET starting/NOUN point/NOUN#0.0#0.0
+a person walks forward then turns and walks back.#a/DET person/NOUN walk/VERB forward/ADV then/ADV turn/VERB and/CCONJ walk/VERB back/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+the person was facing forward and put his hands together.#the/DET person/NOUN was/AUX face/VERB forward/ADV and/CCONJ put/VERB his/DET hand/NOUN together/ADV#0.0#0.0
+a person stayed straight at the same place#a/DET person/NOUN stay/VERB straight/ADV at/ADP the/DET same/ADJ place/NOUN#0.0#0.0
+a person holds their hands close together in front of them and appears to set something down.#a/DET person/NOUN hold/VERB their/DET hand/NOUN close/ADJ together/ADV in/ADP front/NOUN of/ADP them/PRON and/CCONJ appear/VERB to/PART set/VERB something/PRON down/ADP#0.0#0.0

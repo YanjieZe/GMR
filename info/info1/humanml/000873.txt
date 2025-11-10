@@ -1,0 +1,3 @@
+a man stays in place while hopping up and down, keeping his upper body still and bending only at the knee and ankle.#a/DET man/NOUN stay/VERB in/ADP place/NOUN while/SCONJ hop/VERB up/ADV and/CCONJ down/ADV keep/VERB his/DET upper/ADJ body/NOUN still/ADV and/CCONJ bend/VERB only/ADV at/ADP the/DET knee/NOUN and/CCONJ ankle/NOUN#0.0#0.0
+a person jumps 5 times.#a/DET person/NOUN jump/VERB time/NOUN#0.0#0.0
+a man jumps up and down in place.#a/DET man/NOUN jump/VERB up/ADV and/CCONJ down/ADV in/ADP place/NOUN#0.0#0.0

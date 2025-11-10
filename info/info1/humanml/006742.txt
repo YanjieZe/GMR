@@ -1,0 +1,3 @@
+a person appears to be warming up by stretching and moving around.#a/DET person/NOUN appear/VERB to/PART be/AUX warm/VERB up/ADP by/ADP stretch/VERB and/CCONJ move/VERB around/ADV#0.0#0.0
+a person jumped from the knee and start to ran forward#a/DET person/NOUN jump/VERB from/ADP the/DET knee/NOUN and/CCONJ start/VERB to/PART run/VERB forward/ADV#0.0#0.0
+a person jumps once then lunges side to side, 2 times for each side, and finally jogs around in a clockwise circle.#a/DET person/NOUN jump/VERB once/ADV then/ADV lunge/VERB side/NOUN to/PART side/VERB time/NOUN for/ADP each/DET side/NOUN and/CCONJ finally/ADV jog/VERB around/ADV in/ADP a/DET clockwise/ADJ circle/NOUN#0.0#0.0

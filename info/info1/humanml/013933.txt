@@ -1,0 +1,3 @@
+a person is walking and then injures their leg#a/DET person/NOUN is/AUX walk/VERB and/CCONJ then/ADV injure/VERB their/DET leg/NOUN#0.0#0.0
+a man walks forwards, hurts his leg, and then walks back the way he came.#a/DET man/NOUN walk/VERB forwards/ADV hurt/VERB his/DET leg/NOUN and/CCONJ then/ADV walk/VERB back/ADV the/DET way/NOUN he/PRON come/VERB#0.0#0.0
+person walks forward and takes a few steps and hurts his right knee. walks to the end and turns around.#person/NOUN walk/VERB forward/ADV and/CCONJ take/VERB a/DET few/ADJ step/NOUN and/CCONJ hurt/VERB his/DET right/ADJ knee/NOUN walk/VERB to/ADP the/DET end/NOUN and/CCONJ turn/VERB around/ADV#0.0#0.0

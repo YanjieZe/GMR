@@ -1,0 +1,3 @@
+a person is writing on a chalkboard.#a/DET person/NOUN is/AUX write/VERB on/ADP a/DET chalkboard/NOUN#0.0#0.0
+the man is writing on a chalkboard#the/DET man/NOUN is/AUX write/VERB on/ADP a/DET chalkboard/NOUN#0.0#0.0
+raises right hand makes 3 small clockwise circles lowers right hand raises right hand waves then lowers right hand#raise/VERB right/ADJ hand/NOUN make/VERB small/ADJ clockwise/NOUN circle/NOUN lower/VERB right/ADJ hand/NOUN raise/VERB right/ADJ hand/NOUN wave/NOUN then/ADV lower/VERB right/ADJ hand/NOUN#0.0#0.0

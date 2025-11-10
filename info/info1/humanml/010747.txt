@@ -1,0 +1,3 @@
+a person walks in a large circle.#a/DET person/NOUN walk/VERB in/ADP a/DET large/ADJ circle/NOUN#0.0#0.0
+a person walks in a slow clockwise circle, stopping in a standing position.#a/DET person/NOUN walk/VERB in/ADP a/DET slow/ADJ clockwise/NOUN circle/NOUN stop/VERB in/ADP a/DET standing/ADJ position/NOUN#0.0#0.0
+a person walks in a clockwise circle.#a/DET person/NOUN walk/VERB in/ADP a/DET clockwise/ADJ circle/NOUN#0.0#0.0

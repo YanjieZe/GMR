@@ -1,0 +1,3 @@
+the person is doing a punch karate kick.#the/DET person/NOUN is/AUX do/VERB a/DET punch/NOUN karate/NOUN kick/NOUN#0.0#0.0
+a person hit with right hand and walked backwards#a/DET person/NOUN hit/VERB with/ADP right/ADJ hand/NOUN and/CCONJ walk/VERB backwards/ADV#0.0#0.0
+a person punches once, walks to the back and then comes back to the front of the screen.#a/DET person/NOUN punch/VERB once/ADV walk/VERB to/ADP the/DET back/NOUN and/CCONJ then/ADV come/VERB back/ADV to/ADP the/DET front/NOUN of/ADP the/DET screen/NOUN#0.0#0.0

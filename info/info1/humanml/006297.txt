@@ -1,0 +1,3 @@
+a man sits down on the ground.#a/DET man/NOUN sit/VERB down/ADP on/ADP the/DET ground/NOUN#0.0#0.0
+a person takes a step forward and then squats as if to sit down.#a/DET person/NOUN take/VERB a/DET step/NOUN forward/ADV and/CCONJ then/ADV squat/VERB as/SCONJ if/SCONJ to/PART sit/VERB down/ADP#0.0#0.0
+person found a comfortable place to rest#person/NOUN find/VERB a/DET comfortable/ADJ place/NOUN to/PART rest/VERB#0.0#0.0

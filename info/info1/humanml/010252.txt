@@ -1,0 +1,3 @@
+the person squats down and then leaps forward.#the/DET person/NOUN squat/VERB down/ADP and/CCONJ then/ADV leap/VERB forward/ADV#0.0#0.0
+a person widely jumped forward#a/DET person/NOUN widely/ADV jump/VERB forward/ADV#0.0#0.0
+a man is standing up, then bends down to take a big jump forward, leaps forward, and then stands back up straight.#a/DET man/NOUN is/AUX stand/VERB up/ADP then/ADV bend/VERB down/ADP to/PART take/VERB a/DET big/ADJ jump/NOUN forward/ADV leaps/ADV forward/ADV and/CCONJ then/ADV stand/VERB back/ADV up/ADV straight/ADV#0.0#0.0

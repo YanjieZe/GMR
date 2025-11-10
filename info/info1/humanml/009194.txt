@@ -1,0 +1,3 @@
+moving hands towards face.#move/VERB hand/NOUN towards/ADP face/NOUN#0.0#0.0
+a person vigorously drinks a large amount of something without stopping.#a/DET person/NOUN vigorously/ADV drink/VERB a/DET large/ADJ amount/NOUN of/ADP something/PRON without/ADP stop/VERB#0.0#0.0
+the person is feeling his head like he is dizzy.#the/DET person/NOUN is/AUX feel/VERB his/DET head/NOUN like/SCONJ he/PRON is/AUX dizzy/ADJ#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks back and forth, and every so often ducks down to the side suddenly.#a/DET person/NOUN walk/VERB back/ADV and/CCONJ forth/ADV and/CCONJ every/DET so/ADV often/ADV duck/VERB down/ADP to/ADP the/DET side/NOUN suddenly/ADV#0.0#0.0
+a person is seen to be ducking out the way#a/DET person/NOUN is/AUX see/VERB to/PART be/AUX duck/VERB out/ADP the/DET way/NOUN#0.0#0.0
+a person takes a few steps, appears to be hit by something, takes a few more steps and then appears to be hit again.#a/DET person/NOUN take/VERB a/DET few/ADJ step/NOUN appear/VERB to/PART be/AUX hit/VERB by/ADP something/PRON take/VERB a/DET few/ADJ more/ADJ step/NOUN and/CCONJ then/ADV appear/VERB to/PART be/AUX hit/VERB again/ADV#0.0#0.0

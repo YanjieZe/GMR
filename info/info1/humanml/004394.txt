@@ -1,0 +1,3 @@
+a person doing a meditation.#a/DET person/NOUN do/VERB a/DET meditation/NOUN#0.0#0.0
+a person moves from kneeling with their hands on their ground to having their feet and hands on the ground#a/DET person/NOUN move/VERB from/ADP kneel/VERB with/ADP their/DET hand/NOUN on/ADP their/DET ground/NOUN to/ADP have/VERB their/DET foot/NOUN and/CCONJ hand/NOUN on/ADP the/DET ground/NOUN#0.0#0.0
+the person is crawling.#the/DET person/NOUN is/AUX crawl/VERB#0.0#8.0

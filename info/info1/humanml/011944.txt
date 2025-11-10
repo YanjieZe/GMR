@@ -1,0 +1,3 @@
+a person swings their arms together toward their right, then up toward their left.#a/DET person/NOUN swing/VERB their/DET arm/NOUN together/ADV toward/ADP their/DET right/NOUN then/ADV up/ADP toward/ADP their/DET left/NOUN#0.0#0.0
+while in a standing position, a person holding a golf club swings his arms back, bends his knees slightly, then swings his arms forward.#while/SCONJ in/ADP a/DET standing/ADJ position/NOUN a/DET person/NOUN hold/VERB a/DET golf/NOUN club/NOUN swing/VERB his/DET arm/NOUN back/ADV bend/VERB his/DET knee/NOUN slightly/ADV then/ADV swing/VERB his/DET arm/NOUN forward/ADV#0.0#0.0
+a person swings a bat#a/DET person/NOUN swing/VERB a/DET bat/NOUN#0.0#0.0

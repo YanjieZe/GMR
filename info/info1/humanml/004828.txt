@@ -1,0 +1,3 @@
+person person is walking forward diagonally to the left.#person/NOUN person/NOUN is/AUX walk/VERB forward/ADV diagonally/ADV to/ADP the/DET left/NOUN#0.0#0.0
+someone walks forward with intention.#someone/PRON walk/VERB forward/ADV with/ADP intention/NOUN#0.0#0.0
+a person is walking forward at medium speed.#a/DET person/NOUN is/AUX walk/VERB forward/ADV at/ADP medium/ADJ speed/NOUN#0.0#0.0

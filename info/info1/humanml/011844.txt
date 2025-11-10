@@ -1,0 +1,3 @@
+the person is jumping on their left leg.#the/DET person/NOUN is/AUX jump/VERB on/ADP their/DET left/ADJ leg/NOUN#0.0#0.0
+person has arms to stomach level extended the hops on left leg four times#person/NOUN has/AUX arm/NOUN to/PART stomach/NOUN level/NOUN extend/VERB the/DET hop/NOUN on/ADP left/ADJ leg/NOUN four/NUM time/NOUN#0.0#0.0
+a person balances and then jumps on their left foot with both arms extended.#a/DET person/NOUN balance/VERB and/CCONJ then/ADV jump/VERB on/ADP their/DET left/ADJ foot/NOUN with/ADP both/DET arm/NOUN extend/VERB#0.0#0.0

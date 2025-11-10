@@ -1,0 +1,3 @@
+person is warming up upper body#person/NOUN is/AUX warm/VERB up/ADP upper/ADJ body/NOUN#0.0#0.0
+a person stretches their arms, moving the shoulders, elbows then wrists.#a/DET person/NOUN stretch/VERB their/DET arm/NOUN move/VERB the/DET shoulder/NOUN elbow/NOUN then/ADV wrist/NOUN#0.0#0.0
+a person warming up their arms for something#a/DET person/NOUN warm/VERB up/ADP their/DET arm/NOUN for/ADP something/PRON#0.0#0.0

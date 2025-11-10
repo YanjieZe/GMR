@@ -1,0 +1,3 @@
+a person is pantomiming there is a wall in front of him by pretending to touch it high and low.#a/DET person/NOUN is/AUX pantomime/VERB there/PRON is/AUX a/DET wall/NOUN in/ADP front/NOUN of/ADP him/PRON by/ADP pretend/VERB to/PART touch/VERB it/PRON high/ADJ and/CCONJ low/ADJ#0.0#0.0
+a man mimes a window infront of him.#a/DET man/NOUN mime/VERB a/DET window/NOUN infront/NOUN of/ADP him/PRON#0.0#0.0
+person shuffles around while holding hands up as if running them over an invisible wall.#person/NOUN shuffle/VERB around/ADV while/SCONJ hold/VERB hand/NOUN up/ADP as/SCONJ if/SCONJ run/VERB them/PRON over/ADP an/DET invisible/ADJ wall/NOUN#0.0#0.0

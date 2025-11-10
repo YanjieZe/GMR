@@ -1,0 +1,3 @@
+he walks in clockwise then stops#he/PRON walk/VERB in/ADP clockwise/NOUN then/ADV stop/VERB#0.0#0.0
+figure appears to be walking in a clockwise circle#figure/NOUN appear/VERB to/PART be/AUX walk/VERB in/ADP a/DET clockwise/NOUN circle/NOUN#0.0#0.0
+person is walking in a circle#person/NOUN is/AUX walk/VERB in/ADP a/DET circle/NOUN#0.0#0.0

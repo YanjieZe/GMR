@@ -1,0 +1,3 @@
+a man staggers backwards from a standing posture, swinging his arms, before ending in a standing posture.#a/DET man/NOUN stagger/VERB backwards/ADV from/ADP a/DET stand/VERB posture/NOUN swinge/VERB his/DET arm/NOUN before/ADP end/VERB in/ADP a/DET standing/NOUN posture/NOUN#0.0#0.0
+a person takes a sudden step back.#a/DET person/NOUN take/VERB a/DET sudden/ADJ step/NOUN back/ADV#0.0#0.0
+he pushes recovery then stops#he/PRON push/VERB recovery/NOUN then/ADV stop/VERB#0.0#0.0

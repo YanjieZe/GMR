@@ -1,0 +1,3 @@
+flailing his arms around and hopping like a chicken.#flail/VERB his/DET arm/NOUN around/ADV and/CCONJ hop/VERB like/SCONJ a/DET chicken/NOUN#0.0#0.0
+a man leans forward and waves both if his arms behind him while jumping.#a/DET man/NOUN lean/VERB forward/ADV and/CCONJ wave/VERB both/DET if/SCONJ his/DET arm/NOUN behind/ADP him/PRON while/SCONJ jump/VERB#0.0#0.0
+a person hops with both feet in a half circle while both arms are positioned backwards.#a/DET person/NOUN hop/VERB with/ADP both/DET foot/NOUN in/ADP a/DET half/ADJ circle/NOUN while/SCONJ both/DET arm/NOUN are/AUX position/VERB backwards/ADV#0.0#0.0

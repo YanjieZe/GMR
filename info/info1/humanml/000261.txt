@@ -1,0 +1,3 @@
+a man leans to his left, straightens and walks forward.#a/DET man/NOUN lean/VERB to/ADP his/DET left/NOUN straighten/NOUN and/CCONJ walk/VERB forward/ADV#0.0#0.0
+a person walks forward slowly.#a/DET person/NOUN walk/VERB forward/ADV slowly/ADV#0.0#0.0
+person walks forwards casually with arms slightly swinging.#person/NOUN walk/VERB forwards/ADV casually/ADV with/ADP arm/NOUN slightly/ADV swinge/VERB#0.0#0.0

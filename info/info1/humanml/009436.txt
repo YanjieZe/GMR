@@ -1,0 +1,3 @@
+crouching and then running diagonally.#crouch/VERB and/CCONJ then/ADV run/VERB diagonally/ADV#0.0#0.0
+a person kneeled to the ground starts sprinting in a diagonal line#a/DET person/NOUN kneeled/ADJ to/ADP the/DET ground/NOUN start/VERB sprint/VERB in/ADP a/DET diagonal/ADJ line/NOUN#0.0#0.0
+a person starts running from a crouched position.#a/DET person/NOUN start/VERB run/VERB from/ADP a/DET crouched/ADJ position/NOUN#0.0#0.0

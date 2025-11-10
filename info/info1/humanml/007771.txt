@@ -1,0 +1,3 @@
+a person takes a quick step back.#a/DET person/NOUN take/VERB a/DET quick/ADJ step/NOUN back/ADV#0.0#0.0
+a man takes 1 step backward.#a/DET man/NOUN take/VERB step/NOUN backward/ADV#0.0#0.0
+person standing still moves back one step#person/NOUN stand/VERB still/ADV move/VERB back/ADV one/NUM step/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+person crouches down and walks in a circle to start at the same spot starting from.#person/NOUN crouch/VERB down/ADP and/CCONJ walk/VERB in/ADP a/DET circle/NOUN to/PART start/VERB at/ADP the/DET same/ADJ spot/NOUN start/VERB from/ADP#0.0#0.0
+a person is crouched and walks around roughly in a counterclockwise motion.#a/DET person/NOUN is/AUX crouch/VERB and/CCONJ walk/VERB around/ADV roughly/ADV in/ADP a/DET counterclockwise/ADJ motion/NOUN#0.0#0.0
+a person, hunched over, moves in a clockwise circle#a/DET person/NOUN hunch/VERB over/ADP move/NOUN in/ADP a/DET clockwise/NOUN circle/NOUN#0.0#0.0

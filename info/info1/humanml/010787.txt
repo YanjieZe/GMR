@@ -1,0 +1,3 @@
+the person moves their arms to their left and then moves them to their right.#the/DET person/NOUN move/VERB their/DET arm/NOUN to/ADP their/DET left/NOUN and/CCONJ then/ADV move/VERB them/PRON to/ADP their/DET right/NOUN#0.0#0.0
+a person moves an object from left to right.#a/DET person/NOUN move/VERB an/DET object/NOUN from/ADP left/VERB to/ADP right/NOUN#0.0#0.0
+a man picks up something from knee-high at his left and moves it to his right.#a/DET man/NOUN pick/VERB up/ADP something/PRON from/ADP kneehigh/PROPN at/ADP his/DET left/NOUN and/CCONJ move/VERB it/PRON to/ADP his/DET right/NOUN#0.0#0.0

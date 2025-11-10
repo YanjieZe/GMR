@@ -1,0 +1,3 @@
+a person going down the staircase#a/DET person/NOUN go/VERB down/ADP the/DET staircase/NOUN#0.0#0.0
+a person jogs forward, jumps up with both feet, then raises both arms to the side.#a/DET person/NOUN jog/VERB forward/ADV jump/VERB up/ADP with/ADP both/DET foot/NOUN then/ADV raise/VERB both/DET arm/NOUN to/ADP the/DET side/NOUN#0.0#0.0
+a person walks downstairs holding left handrail.#a/DET person/NOUN walk/VERB downstairs/ADV hold/VERB left/VERB handrail/PROPN#0.0#0.0

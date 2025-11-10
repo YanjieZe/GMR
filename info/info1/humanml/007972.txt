@@ -1,0 +1,3 @@
+a man walks forward opens the door then walks backwards to where he started#a/DET man/NOUN walk/VERB forward/ADV open/VERB the/DET door/NOUN then/ADV walk/VERB backwards/ADV to/ADP where/ADV he/PRON start/VERB#0.0#0.0
+the man is mixing the bowl#the/DET man/NOUN is/AUX mix/VERB the/DET bowl/NOUN#0.0#0.0
+the person is cleaning eat bowl with a sponge.#the/DET person/NOUN is/AUX clean/VERB eat/VERB bowl/NOUN with/ADP a/DET sponge/NOUN#0.0#0.0

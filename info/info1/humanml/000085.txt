@@ -1,0 +1,3 @@
+using their left hand, the person holds the neck of an air guitar, and with their right hand, they make strumming motions.#use/VERB their/DET left/ADJ hand/NOUN the/DET person/NOUN hold/VERB the/DET neck/NOUN of/ADP an/DET air/NOUN guitar/NOUN and/CCONJ with/ADP their/DET right/ADJ hand/NOUN they/PRON make/VERB strumming/NOUN motion/NOUN#0.0#0.0
+a person briefly strums a guitar.#a/DET person/NOUN briefly/ADV strum/VERB a/DET guitar/NOUN#0.0#0.0
+a man strums an instrument with his right hand.#a/DET man/NOUN strum/VERB an/DET instrument/NOUN with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person balancing on his left foot while doing two kicks with his right leg.#a/DET person/NOUN balance/VERB on/ADP his/DET left/ADJ foot/NOUN while/SCONJ do/VERB two/NUM kick/NOUN with/ADP his/DET right/ADJ leg/NOUN#0.0#0.0
+a man lifts his right leg and kicks it out repeatedly.#a/DET man/NOUN lift/VERB his/DET right/ADJ leg/NOUN and/CCONJ kick/VERB it/PRON out/ADP repeatedly/ADV#0.0#0.0
+a person is balancing on one leg while the other leg is bent upwards#a/DET person/NOUN is/AUX balance/VERB on/ADP one/NUM leg/NOUN while/SCONJ the/DET other/ADJ leg/NOUN is/AUX bent/ADJ upwards/ADJ#0.0#0.0

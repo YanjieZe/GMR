@@ -1,0 +1,3 @@
+a man leans down and wipes something with his right hand.#a/DET man/NOUN lean/VERB down/ADP and/CCONJ wipe/NOUN something/PRON with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+the person is wiping off the table.#the/DET person/NOUN is/AUX wipe/VERB off/ADP the/DET table/NOUN#0.0#0.0
+this person moves his right hand as if to clean a counter top.#this/DET person/NOUN move/VERB his/DET right/ADJ hand/NOUN as/SCONJ if/SCONJ to/PART clean/VERB a/DET counter/NOUN top/NOUN#0.0#0.0

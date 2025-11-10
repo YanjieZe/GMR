@@ -1,0 +1,3 @@
+stretching out and sticking arms out one at a time#stretch/VERB out/ADP and/CCONJ stick/VERB arm/NOUN out/ADV one/NUM at/ADP a/DET time/NOUN#0.0#0.0
+a person throws an overhead right punch followed by an overhead left punch.#a/DET person/NOUN throw/VERB an/DET overhead/ADJ right/ADJ punch/NOUN follow/VERB by/ADP an/DET overhead/ADJ left/VERB punch/NOUN#0.0#0.0
+a person punches with both their arms.#a/DET person/NOUN punch/VERB with/ADP both/CCONJ their/DET arm/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+person is practicing karate kicks#person/NOUN is/AUX practice/VERB karate/NOUN kick/NOUN#0.0#0.0
+a man kicks the air several times with his left leg whilst moving around the room.#a/DET man/NOUN kick/VERB the/DET air/NOUN several/ADJ time/NOUN with/ADP his/DET left/ADJ leg/NOUN whilst/SCONJ move/VERB around/ADP the/DET room/NOUN#0.0#0.0
+person uses left leg to throw multiple kicks.#person/NOUN use/VERB left/VERB leg/NOUN to/PART throw/VERB multiple/ADJ kick/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person places their hands on their chest, elbows back and high, twitching their elbows back and appearing to laugh.#a/DET person/NOUN place/VERB their/DET hand/NOUN on/ADP their/DET chest/NOUN elbow/VERB back/ADV and/CCONJ high/ADJ twitch/VERB their/DET elbow/NOUN back/ADV and/CCONJ appear/VERB to/ADP laugh/VERB#0.0#0.0
+a figure makes chicken wing arms#a/DET figure/NOUN make/VERB chicken/NOUN wing/NOUN arm/NOUN#0.0#0.0
+person is doing the chicken motion#person/NOUN is/AUX do/VERB the/DET chicken/NOUN motion/NOUN#0.0#0.0

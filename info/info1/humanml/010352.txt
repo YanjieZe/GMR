@@ -1,0 +1,3 @@
+a person stretches calves and tip toes.#a/DET person/NOUN stretch/VERB calf/NOUN and/CCONJ tip/NOUN toe/NOUN#0.0#0.0
+person stands still then bends knees and lifts feet up and down on ground#person/NOUN stand/VERB still/ADV then/ADV bend/VERB knee/NOUN and/CCONJ lift/VERB foot/NOUN up/ADV and/CCONJ down/ADV on/ADP ground/NOUN#0.0#0.0
+a person is standing straight, and stands on their tippy toes a couple times before returning to the regular standing position.#a/DET person/NOUN is/AUX stand/VERB straight/ADV and/CCONJ stand/VERB on/ADP their/DET tippy/ADJ toe/NOUN a/DET couple/NOUN time/NOUN before/ADP return/VERB to/ADP the/DET regular/ADJ standing/NOUN position/NOUN#0.0#0.0

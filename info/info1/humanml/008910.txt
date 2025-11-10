@@ -1,0 +1,3 @@
+a person kneels on both knees then stands into an upright position.#a/DET person/NOUN kneel/VERB on/ADP both/DET knee/NOUN then/ADV stand/VERB into/ADP an/DET upright/ADJ position/NOUN#0.0#0.0
+the man is sitting down and standing up#the/DET man/NOUN is/AUX sit/VERB down/ADP and/CCONJ stand/VERB up/ADP#0.0#0.0
+he kneels, moving his left foot back first then has right; not using his hands to help himself, he stands up#he/PRON kneel/VERB move/VERB his/DET left/ADJ foot/NOUN back/ADV first/ADV then/ADV has/AUX right/ADJ not/PART use/VERB his/DET hand/NOUN to/PART help/VERB himself/PRON he/PRON stand/VERB up/ADP#0.0#0.0

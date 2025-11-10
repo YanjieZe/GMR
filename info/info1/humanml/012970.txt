@@ -1,0 +1,3 @@
+the person is walking holding onto the table.#the/DET person/NOUN is/AUX walk/VERB hold/VERB onto/ADP the/DET table/NOUN#0.0#0.0
+the figure walks forward using their left hand to guide them as its supported by a surface before they lift both their hands.#the/DET figure/NOUN walk/VERB forward/ADV use/VERB their/DET left/ADJ hand/NOUN to/PART guide/VERB them/PRON as/SCONJ its/DET support/VERB by/ADP a/DET surface/NOUN before/ADP they/PRON lift/VERB both/CCONJ their/DET hand/NOUN#0.0#0.0
+slowly walking forward as if balancing then holds arms out#slowly/ADV walk/VERB forward/ADV as/SCONJ if/SCONJ balance/VERB then/ADV hold/VERB arm/NOUN out/ADP#0.0#0.0

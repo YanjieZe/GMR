@@ -1,0 +1,3 @@
+a person swings a golf club.#a/DET person/NOUN swing/VERB a/DET golf/NOUN club/NOUN#0.0#0.0
+a person hits a golf ball.#a/DET person/NOUN hit/VERB a/DET golf/NOUN ball/NOUN#0.0#0.0
+a man makes the motion of a golfer, pretending to hit a ball with a golf club.#a/DET man/NOUN make/VERB the/DET motion/NOUN of/ADP a/DET golfer/NOUN pretend/VERB to/PART hit/VERB a/DET ball/NOUN with/ADP a/DET golf/NOUN club/NOUN#0.0#0.0

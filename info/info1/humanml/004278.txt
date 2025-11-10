@@ -1,0 +1,3 @@
+a man takes a few steps forward while swinging his arms, then stops.#a/DET man/NOUN take/VERB a/DET few/ADJ step/NOUN forward/ADV while/SCONJ swinge/VERB his/DET arm/NOUN then/ADV stop/VERB#0.0#0.0
+a person walks down a slope while swinging his arms back and forth.#a/DET person/NOUN walk/VERB down/ADP a/DET slope/NOUN while/SCONJ swinge/VERB his/DET arm/NOUN back/ADV and/CCONJ forth/ADV#nan#nan
+an idle figure purposely takes two aggressive steps forward#an/DET idle/ADJ figure/NOUN purposely/ADV take/VERB two/NUM aggressive/ADJ step/NOUN forward/ADV#0.0#0.0

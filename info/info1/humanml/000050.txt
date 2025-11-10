@@ -1,0 +1,3 @@
+a person is jogging forward and looking at the ground#a/DET person/NOUN is/AUX jog/VERB forward/ADV and/CCONJ look/VERB at/ADP the/DET ground/NOUN#0.0#0.0
+a person runs forward then stops and bends down then gets back up and run forward again.#a/DET person/NOUN run/VERB forward/ADV then/ADV stop/VERB and/CCONJ bend/VERB down/ADP then/ADV get/VERB back/ADV up/ADV and/CCONJ run/VERB forward/ADV again/ADV#0.0#0.0
+a man walks forward two steps then bends over to catch his breath and starts running.#a/DET man/NOUN walk/VERB forward/ADV two/NUM step/NOUN then/ADV bend/VERB over/ADP to/PART catch/VERB his/DET breath/NOUN and/CCONJ start/VERB run/VERB#0.0#0.0

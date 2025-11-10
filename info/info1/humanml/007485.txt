@@ -1,0 +1,3 @@
+standing in a squat, the person moves his arm in a large circle before letting them rest at his sides.#stand/VERB in/ADP a/DET squat/NOUN the/DET person/NOUN move/VERB his/DET arm/NOUN in/ADP a/DET large/ADJ circle/NOUN before/ADP let/VERB them/PRON rest/VERB at/ADP his/DET side/NOUN#0.0#0.0
+a person drops their arms to their knees.#a/DET person/NOUN drop/VERB their/DET arm/NOUN to/ADP their/DET knee/NOUN#0.0#0.0
+a person leans with their hands on their knees.#a/DET person/NOUN lean/VERB with/ADP their/DET hand/NOUN on/ADP their/DET knee/NOUN#0.0#0.0

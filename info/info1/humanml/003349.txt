@@ -1,0 +1,3 @@
+a person appears to be throwing a shot put with their arm starting near the shoulder position.#a/DET person/NOUN appear/VERB to/PART be/AUX throw/VERB a/DET shot/NOUN put/VERB with/ADP their/DET arm/NOUN start/VERB near/SCONJ the/DET shoulder/NOUN position/NOUN#0.0#0.0
+turns to the right and throws his right arm up and over his head#turn/VERB to/ADP the/DET right/NOUN and/CCONJ throw/VERB his/DET right/ADJ arm/NOUN up/ADV and/CCONJ over/ADP his/DET head/NOUN#0.0#2.0
+a person throws an object from their right hand.#a/DET person/NOUN throw/VERB an/DET object/NOUN from/ADP their/DET right/ADJ hand/NOUN#0.0#0.0

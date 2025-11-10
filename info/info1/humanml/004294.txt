@@ -1,0 +1,2 @@
+a person runs straight forward.#a/DET person/NOUN run/VERB straight/ADV forward/ADV#0.0#0.0
+a man is running straight ahead.#a/DET man/NOUN is/AUX run/VERB straight/ADV ahead/ADV#0.0#0.0

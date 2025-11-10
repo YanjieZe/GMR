@@ -1,0 +1,3 @@
+a person standing still, then took one step forward.#a/DET person/NOUN stand/VERB still/ADV then/ADV take/VERB one/NUM step/NOUN forward/ADV#0.0#0.0
+a person takes a step forward.#a/DET person/NOUN take/VERB a/DET step/NOUN forward/ADV#0.0#0.0
+a person quickly steps forward.#a/DET person/NOUN quickly/ADV step/VERB forward/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person raising their hands and throwing them forward.#a/DET person/NOUN raise/VERB their/DET hand/NOUN and/CCONJ throw/VERB them/PRON forward/ADV#0.0#0.0
+a person raises both arms above their head, then throws something.#a/DET person/NOUN raise/VERB both/DET arm/NOUN above/ADP their/DET head/NOUN then/ADV throw/VERB something/PRON#0.0#0.0
+a person lifts both hands above their head, in an arcing motion, as if they were throwing a ball back onto the court. they then repeat this once more.#a/DET person/NOUN lift/VERB both/DET hand/NOUN above/ADP their/DET head/NOUN in/ADP an/DET arc/VERB motion/NOUN as/SCONJ if/SCONJ they/PRON were/AUX throw/VERB a/DET ball/NOUN back/ADV onto/ADP the/DET court/NOUN they/PRON then/ADV repeat/VERB this/DET once/ADV more/ADV#0.0#0.0

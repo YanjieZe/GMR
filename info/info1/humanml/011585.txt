@@ -1,0 +1,3 @@
+person loses balance then regains it#person/NOUN lose/VERB balance/NOUN then/ADV regain/VERB it/PRON#0.0#0.0
+a man takes a cross step to his right and then steps with his right foot to stand up straight again.#a/DET man/NOUN take/VERB a/DET cross/NOUN step/NOUN to/ADP his/DET right/NOUN and/CCONJ then/ADV step/VERB with/ADP his/DET right/ADJ foot/NOUN to/PART stand/VERB up/ADP straight/ADV again/ADV#0.0#0.0
+a man trips to the left, crossing his left leg over his right leg.#a/DET man/NOUN trip/VERB to/ADP the/DET left/NOUN cross/VERB his/DET left/ADJ leg/NOUN over/ADP his/DET right/ADJ leg/NOUN#0.0#0.0

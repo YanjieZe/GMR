@@ -1,0 +1,3 @@
+a person holds their arms out to the sides, and then moves them back and forth.#a/DET person/NOUN hold/VERB their/DET arm/NOUN out/SCONJ to/ADP the/DET side/NOUN and/CCONJ then/ADV move/VERB them/PRON back/ADV and/CCONJ forth/ADV#0.0#0.0
+a person moving his both arms#a/DET person/NOUN move/VERB his/DET both/DET arm/NOUN#0.0#3.0
+a person is pulsing their arms up and down slowly.#a/DET person/NOUN is/AUX pulse/VERB their/DET arm/NOUN up/ADP and/CCONJ down/ADV slowly/ADV#0.0#0.0

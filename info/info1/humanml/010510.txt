@@ -1,0 +1,3 @@
+a person stands in one place while their arms and upper body move around#a/DET person/NOUN stand/VERB in/ADP one/NUM place/NOUN while/SCONJ their/DET arm/NOUN and/CCONJ upper/ADJ body/NOUN move/VERB around/ADV#0.0#0.0
+person stands and moves arms in a sway motion  off balance before raising arms up and sways again#person/NOUN stand/VERB and/CCONJ move/VERB arm/NOUN in/ADP a/DET sway/NOUN motion/NOUN off/ADP balance/NOUN before/ADP raise/VERB arm/NOUN up/ADP and/CCONJ sway/NOUN again/ADV#0.0#0.0
+a man waves his arms then shields his eyes.#a/DET man/NOUN wave/VERB his/DET arm/NOUN then/ADV shield/VERB his/DET eye/NOUN#0.0#0.0

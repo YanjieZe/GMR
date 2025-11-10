@@ -1,0 +1,3 @@
+a man gets down on all fours and crawls forward.#a/DET man/NOUN get/VERB down/ADP on/ADP all/DET four/NOUN and/CCONJ crawl/VERB forward/ADV#0.0#0.0
+a person gets down on all fours and crawls forward.#a/DET person/NOUN get/VERB down/ADV on/ADP all/DET four/NOUN and/CCONJ crawl/VERB forward/ADV#0.0#0.0
+figure kneels down on right knee then left then begins to crawl forward#figure/NOUN kneel/VERB down/ADP on/ADP right/ADJ knee/NOUN then/ADV left/VERB then/ADV begin/VERB to/PART crawl/VERB forward/ADV#0.0#0.0

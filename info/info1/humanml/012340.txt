@@ -1,0 +1,3 @@
+a person walks forward, takes large step with right leg then slowly walks back to the left.#a/DET person/NOUN walk/VERB forward/ADV take/VERB large/ADJ step/NOUN with/ADP right/ADJ leg/NOUN then/ADV slowly/ADV walk/VERB back/ADV to/ADP the/DET left/NOUN#0.0#5.0
+the person pushes off their leg to move forward#the/DET person/NOUN push/VERB off/ADP their/DET leg/NOUN to/PART move/VERB forward/ADV#0.0#0.0
+figure walks forward then zags to left before walking right.#figure/NOUN walk/VERB forward/ADV then/ADV zag/VERB to/PART left/VERB before/ADV walk/VERB right/ADV#0.0#0.0

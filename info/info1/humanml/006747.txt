@@ -1,0 +1,3 @@
+a person swings their right hand forwards, followed by their left.#a/DET person/NOUN swing/VERB their/DET right/ADJ hand/NOUN forwards/ADV follow/VERB by/ADP their/DET left/NOUN#0.0#0.0
+the person was flexing something with his left arm and then flexing with his right.#the/DET person/NOUN was/AUX flex/VERB something/PRON with/ADP his/DET left/ADJ arm/NOUN and/CCONJ then/ADV flex/VERB with/ADP his/DET right/NOUN#0.0#0.0
+a person bounces their body from left to right#a/DET person/NOUN bounce/VERB their/DET body/NOUN from/ADP left/VERB to/ADP right/ADJ#0.0#0.0

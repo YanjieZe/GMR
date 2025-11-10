@@ -1,0 +1,3 @@
+a person steps forward and ducks twice to the right and then once to left.#a/DET person/NOUN step/VERB forward/ADV and/CCONJ duck/VERB twice/ADV to/ADP the/DET right/NOUN and/CCONJ then/ADV once/ADV to/ADP left/VERB#0.0#0.0
+a person in the avoids getting hit while playing dodgeball#a/DET person/NOUN in/ADP the/DET avoid/NOUN get/VERB hit/VERB while/SCONJ play/VERB dodgeball/ADV#0.0#0.0
+a person dodges punches while being attacked.#a/DET person/NOUN dodge/VERB punch/NOUN while/SCONJ being/AUX attack/VERB#0.0#0.0

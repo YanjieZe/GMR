@@ -1,0 +1,3 @@
+a person raised theleft hand and start stretch#a/DET person/NOUN raise/VERB theleft/DET hand/NOUN and/CCONJ start/VERB stretch/NOUN#0.0#0.0
+person is doing a body warm up with raising his left arm over his head.#person/NOUN is/AUX do/VERB a/DET body/NOUN warm/VERB up/ADP with/ADP raise/VERB his/DET left/ADJ arm/NOUN over/ADP his/DET head/NOUN#0.0#0.0
+a figure raises their left arm high in the air and arches their back slightly. their right arm is bend slightly at their hip.#a/DET figure/NOUN raise/VERB their/DET left/ADJ arm/NOUN high/ADV in/ADP the/DET air/NOUN and/CCONJ arch/VERB their/DET back/ADV slightly/ADV their/DET right/ADJ arm/NOUN is/AUX bend/VERB slightly/ADV at/ADP their/DET hip/NOUN#0.0#0.0

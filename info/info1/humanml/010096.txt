@@ -1,0 +1,3 @@
+the man squats and moves his right arm on a clockwise circle and reaches up with his left.#the/DET man/NOUN squat/VERB and/CCONJ move/VERB his/DET right/ADJ arm/NOUN on/ADP a/DET clockwise/ADJ circle/NOUN and/CCONJ reach/VERB up/ADP with/ADP his/DET left/NOUN#0.0#0.0
+person is turning a steering wheel.#person/NOUN is/AUX turn/VERB a/DET steering/NOUN wheel/NOUN#0.0#0.0
+a person is in a deep-seated position and is moving both hands and a wide circular direction.#a/DET person/NOUN is/AUX in/ADP a/DET deepseated/ADJ position/NOUN and/CCONJ is/AUX move/VERB both/DET hand/NOUN and/CCONJ a/DET wide/ADJ circular/ADJ direction/NOUN#0.0#0.0

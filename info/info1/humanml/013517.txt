@@ -1,0 +1,3 @@
+a man confidently strides across the room with a lumbering gait#a/DET man/NOUN confidently/ADV stride/VERB across/ADP the/DET room/NOUN with/ADP a/DET lumbering/NOUN gait/NOUN#0.0#0.0
+a person is walking with large steps while swinging his arms.#a/DET person/NOUN is/AUX walk/VERB with/ADP large/ADJ step/NOUN while/SCONJ swinge/VERB his/DET arm/NOUN#0.0#0.0
+a person takes big steps forwards and swings his arms#a/DET person/NOUN take/VERB big/ADJ step/NOUN forwards/ADV and/CCONJ swing/VERB his/DET arm/NOUN#0.0#0.0

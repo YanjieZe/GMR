@@ -1,0 +1,3 @@
+this person moves both arms from sides to the front then to the sides again.#this/DET person/NOUN move/VERB both/DET arm/NOUN from/ADP side/NOUN to/ADP the/DET front/NOUN then/ADV to/ADP the/DET side/NOUN again/ADV#0.0#0.0
+a person places their hands in their lap and then raises their arms above their sides.#a/DET person/NOUN place/VERB their/DET hand/NOUN in/ADP their/DET lap/NOUN and/CCONJ then/ADV raise/VERB their/DET arm/NOUN above/ADP their/DET side/NOUN#0.0#0.0
+a person is standing, the brings both arms up parallel to shoulder level and perpendicular to the body#a/DET person/NOUN is/AUX stand/VERB the/DET bring/NOUN both/DET arm/NOUN up/ADP parallel/NOUN to/PART shoulder/NOUN level/NOUN and/CCONJ perpendicular/ADJ to/ADP the/DET body/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+someone is holding something in their left hand and using their right hand to flip or scroll.#someone/PRON is/AUX hold/VERB something/PRON in/ADP their/DET left/ADJ hand/NOUN and/CCONJ use/VERB their/DET right/ADJ hand/NOUN to/PART flip/VERB or/CCONJ scroll/VERB#0.0#0.0
+a person is touching something in their left hand.#a/DET person/NOUN is/AUX touch/VERB something/PRON in/ADP their/DET left/ADJ hand/NOUN#0.0#0.0
+the man hols something in his left hand and taps at it with his right hand while standing still.#the/DET man/NOUN hol/VERB something/PRON in/ADP his/DET left/ADJ hand/NOUN and/CCONJ tap/NOUN at/ADP it/PRON with/ADP his/DET right/ADJ hand/NOUN while/SCONJ stand/VERB still/ADV#0.0#0.0

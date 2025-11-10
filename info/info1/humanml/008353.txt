@@ -1,0 +1,3 @@
+the man runs forwards nicely#the/DET man/NOUN run/VERB forwards/ADP nicely/ADV#0.0#0.0
+a person quickly jogs forwards.#a/DET person/NOUN quickly/ADV jog/VERB forwards/ADV#0.0#0.0
+a person sprints forward quickly.#a/DET person/NOUN sprint/VERB forward/ADV quickly/ADV#0.0#0.0

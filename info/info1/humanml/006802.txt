@@ -1,0 +1,3 @@
+walking backwards then back.#walk/VERB backwards/ADV then/ADV back/ADV#0.0#0.0
+a man sbrings his arms down to his sides, turns and steps to his right, then backsteps several times, turns clockwise, and resumes backstepping.#a/DET man/NOUN sbring/VERB his/DET arm/NOUN down/ADP to/ADP his/DET side/NOUN turn/NOUN and/CCONJ step/VERB to/ADP his/DET right/NOUN then/ADV backstep/VERB several/ADJ time/NOUN turn/VERB clockwise/NOUN and/CCONJ resume/VERB backstepping/NOUN#0.0#0.0
+walks backwards, turns around, walk backards#walk/VERB backwards/ADV turn/VERB around/ADV walk/NOUN backard/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a man holds his arms in front of him and slowly walks forward, turns and then walks back the opposite direction.#a/DET man/NOUN hold/VERB his/DET arm/NOUN in/ADP front/NOUN of/ADP him/PRON and/CCONJ slowly/ADV walk/VERB forward/ADV turn/VERB and/CCONJ then/ADV walk/VERB back/ADV the/DET opposite/ADJ direction/NOUN#0.0#0.0
+a person is mummy walking forward then turned around and walked backward#a/DET person/NOUN is/AUX mummy/ADJ walk/VERB forward/ADV then/ADV turn/VERB around/ADP and/CCONJ walk/VERB backward/ADV#0.0#10.0
+the person is walking like a mummy from the dead#the/DET person/NOUN is/AUX walk/VERB like/SCONJ a/DET mummy/NOUN from/ADP the/DET dead/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person stands up from a kneeling position using their right arm as support as they stand.#a/DET person/NOUN stand/VERB up/ADP from/ADP a/DET kneel/VERB position/NOUN use/VERB their/DET right/ADJ arm/NOUN as/SCONJ support/NOUN as/SCONJ they/PRON stand/VERB#0.0#0.0
+a person kneeling down stands up and steps backward.#a/DET person/NOUN kneel/VERB down/ADP stand/VERB up/ADV and/CCONJ step/VERB backward/ADV#0.0#0.0
+a person kneeling on the floor gets up then takes a step backward.#a/DET person/NOUN kneel/VERB on/ADP the/DET floor/NOUN get/VERB up/ADP then/ADV take/VERB a/DET step/NOUN backward/ADV#0.0#0.0

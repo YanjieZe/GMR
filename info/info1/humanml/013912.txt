@@ -1,0 +1,3 @@
+the person is boxing with someone.#the/DET person/NOUN is/AUX box/VERB with/ADP someone/PRON#0.0#0.0
+the person practices their jab and cross hook boxing#the/DET person/NOUN practice/VERB their/DET jab/PROPN and/CCONJ cross/NOUN hook/NOUN boxing/NOUN#0.0#0.0
+a person shadow boxes to his right side, throwing a variety of punches and practicing footwork.#a/DET person/NOUN shadow/NOUN box/NOUN to/ADP his/DET right/ADJ side/NOUN throw/VERB a/DET variety/NOUN of/ADP punch/NOUN and/CCONJ practice/VERB footwork/NOUN#0.0#0.0

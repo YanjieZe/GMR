@@ -1,0 +1,3 @@
+a man swings a golf club and hits the ball#a/DET man/NOUN swing/VERB a/DET golf/NOUN club/NOUN and/CCONJ hit/VERB the/DET ball/NOUN#0.0#0.0
+a person swings a golf club hard.#a/DET person/NOUN swing/VERB a/DET golf/NOUN club/NOUN hard/ADV#0.0#0.0
+a man swings a gulf club.#a/DET man/NOUN swing/VERB a/DET gulf/PROPN club/NOUN#0.0#0.0

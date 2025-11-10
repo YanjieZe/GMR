@@ -1,0 +1,3 @@
+the person is moon dancing backwards.#the/DET person/NOUN is/AUX moon/NOUN dance/VERB backwards/ADV#0.0#0.0
+a person sliding/ slipping backwards.#a/DET person/NOUN slip/VERB backwards/ADV#0.0#0.0
+a man slides backwards slowly.#a/DET man/NOUN slide/VERB backwards/ADV slowly/ADV#0.0#0.0

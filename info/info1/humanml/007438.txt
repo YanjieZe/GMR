@@ -1,0 +1,3 @@
+the person is looking through the camera at someone.#the/DET person/NOUN is/AUX look/VERB through/ADP the/DET camera/NOUN at/ADP someone/PRON#0.0#0.0
+a person raises his right arm to head height, talks, then lowers his arm.#a/DET person/NOUN raise/VERB his/DET right/ADJ arm/NOUN to/PART head/VERB height/NOUN talk/NOUN then/ADV lower/VERB his/DET arm/NOUN#0.0#0.0
+a person bites into some food#a/DET person/NOUN bite/VERB into/ADP some/DET food/NOUN#0.0#0.0

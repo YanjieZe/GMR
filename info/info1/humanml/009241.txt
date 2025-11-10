@@ -1,0 +1,3 @@
+person pulled some thing and then kick something.#person/NOUN pull/VERB some/DET thing/NOUN and/CCONJ then/ADV kick/VERB something/PRON#0.0#0.0
+a person kicks with their right leg while swinging their left arm in front of their body.#a/DET person/NOUN kick/VERB with/ADP their/DET right/ADJ leg/NOUN while/SCONJ swinge/VERB their/DET left/ADJ arm/NOUN in/ADP front/NOUN of/ADP their/DET body/NOUN#0.0#0.0
+a person kicked somethinf with right leg#a/DET person/NOUN kick/VERB somethinf/ADJ with/ADP right/ADJ leg/NOUN#0.0#0.0

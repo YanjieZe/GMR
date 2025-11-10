@@ -1,0 +1,3 @@
+a person hops forward with both legs and after a few hops they hop on top of something then back down right after.#a/DET person/NOUN hop/VERB forward/ADV with/ADP both/DET leg/NOUN and/CCONJ after/ADP a/DET few/ADJ hop/NOUN they/PRON hop/VERB on/ADP top/NOUN of/ADP something/PRON then/ADV back/ADV down/ADV right/ADV after/ADV#0.0#0.0
+the figure turns and proceeds to bunny hop across the grey space.#the/DET figure/NOUN turn/VERB and/CCONJ proceed/VERB to/ADP bunny/PROPN hop/PROPN across/ADP the/DET grey/NOUN space/NOUN#0.0#0.0
+a person jumps forward then hops upon multiple obstacles.#a/DET person/NOUN jump/VERB forward/ADV then/ADV hop/VERB upon/SCONJ multiple/ADJ obstacle/NOUN#0.0#0.0

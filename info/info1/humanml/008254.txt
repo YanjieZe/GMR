@@ -1,0 +1,3 @@
+a person is running in place.#a/DET person/NOUN is/AUX run/VERB in/ADP place/NOUN#0.0#0.0
+a person jogs in place, stopping with right arm raised.#a/DET person/NOUN jog/VERB in/ADP place/NOUN stop/VERB with/ADP right/ADJ arm/NOUN raise/VERB#0.0#0.0
+a person jogs in place.#a/DET person/NOUN jog/VERB in/ADP place/NOUN#0.0#0.0

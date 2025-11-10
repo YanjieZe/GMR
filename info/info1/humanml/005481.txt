@@ -1,0 +1,3 @@
+a figure walks confidently forward then raises their hand as if to access a door nob#a/DET figure/NOUN walk/VERB confidently/ADV forward/ADV then/ADV raise/VERB their/DET hand/NOUN as/SCONJ if/SCONJ to/PART access/VERB a/DET door/NOUN nob/NOUN#0.0#0.0
+a person walks forward confidently.#a/DET person/NOUN walk/VERB forward/ADV confidently/ADV#0.0#0.0
+a person who is walking moves forward taking six confident strides.#a/DET person/NOUN who/PRON is/AUX walk/VERB move/NOUN forward/ADV take/VERB six/NUM confident/ADJ stride/NOUN#0.0#0.0

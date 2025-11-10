@@ -1,0 +1,3 @@
+a person is walking in a figure 8 pattern.#a/DET person/NOUN is/AUX walk/VERB in/ADP a/DET figure/NOUN pattern/NOUN#0.0#0.0
+a man walks around in a circle and then starts another circle.#a/DET man/NOUN walk/VERB around/ADV in/ADP a/DET circle/NOUN and/CCONJ then/ADV start/VERB another/DET circle/NOUN#0.0#0.0
+a person walks to their right in a circle, then walks in a half circle to their left.#a/DET person/NOUN walk/VERB to/ADP their/DET right/NOUN in/ADP a/DET circle/NOUN then/ADV walk/VERB in/ADP a/DET half/ADJ circle/NOUN to/ADP their/DET left/NOUN#0.0#0.0

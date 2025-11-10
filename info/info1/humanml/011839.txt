@@ -1,0 +1,3 @@
+a person is jogging and then stops suddenly#a/DET person/NOUN is/AUX jog/VERB and/CCONJ then/ADV stop/VERB suddenly/ADV#0.0#0.0
+a person jogs straight forward.#a/DET person/NOUN jog/VERB straight/ADV forward/ADV#0.0#0.0
+a person runs forward at a medium speed.#a/DET person/NOUN run/VERB forward/ADV at/ADP a/DET medium/ADJ speed/NOUN#0.0#0.0

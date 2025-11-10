@@ -1,0 +1,3 @@
+a person waves their right hand.#a/DET person/NOUN wave/VERB their/DET right/ADJ hand/NOUN#0.0#0.0
+person uses their right arm to wave#person/NOUN use/VERB their/DET right/ADJ arm/NOUN to/PART wave/VERB#0.0#0.0
+person waving their right hand.#person/NOUN wave/VERB their/DET right/ADJ hand/NOUN#0.0#0.0

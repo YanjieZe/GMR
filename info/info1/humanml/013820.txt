@@ -1,0 +1,3 @@
+a person grabbed the body and face with left hand#a/DET person/NOUN grab/VERB the/DET body/NOUN and/CCONJ face/NOUN with/ADP left/ADJ hand/NOUN#0.0#0.0
+a person sluggishly takes steps, while holding their hand to their stomach, and then their mouth.#a/DET person/NOUN sluggishly/ADV take/VERB step/NOUN while/SCONJ hold/VERB their/DET hand/NOUN to/ADP their/DET stomach/NOUN and/CCONJ then/ADV their/DET mouth/NOUN#0.0#0.0
+a person raises their left hand, then sets it back down, while wobbling side to side.#a/DET person/NOUN raise/VERB their/DET left/ADJ hand/NOUN then/ADV set/VERB it/PRON back/ADV down/ADP while/SCONJ wobble/VERB side/NOUN to/ADP side/VERB#0.0#0.0

@@ -1,0 +1,3 @@
+a man stands with his right arm high above his head, elbow bent and seems to be consistently patting or rubbing his head.#a/DET man/NOUN stand/VERB with/ADP his/DET right/ADJ arm/NOUN high/ADV above/ADP his/DET head/NOUN elbow/PROPN bent/PROPN and/CCONJ seem/VERB to/PART be/AUX consistently/ADV pat/VERB or/CCONJ rub/VERB his/DET head/NOUN#0.0#0.0
+person is holding something over his head.#person/NOUN is/AUX hold/VERB something/PRON over/ADP his/DET head/NOUN#0.0#0.0
+the man is looking in the sky#the/DET man/NOUN is/AUX look/VERB in/ADP the/DET sky/NOUN#0.0#0.0

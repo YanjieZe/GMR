@@ -1,0 +1,3 @@
+a person appears to be putting things together.#a/DET person/NOUN appear/VERB to/PART be/AUX put/VERB thing/NOUN together/ADV#0.0#0.0
+a man picks up several object with right hand.#a/DET man/NOUN pick/VERB up/ADP several/ADJ object/NOUN with/ADP right/ADJ hand/NOUN#0.0#0.0
+a person pouring something with his right hand then mixing then doing the same thing with his left hand.#a/DET person/NOUN pour/VERB something/PRON with/ADP his/DET right/ADJ hand/NOUN then/ADV mix/VERB then/ADV do/VERB the/DET same/ADJ thing/NOUN with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0

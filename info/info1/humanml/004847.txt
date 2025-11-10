@@ -1,0 +1,3 @@
+a man walks forward 4 steps and stops.#a/DET man/NOUN walk/VERB forward/ADV step/NOUN and/CCONJ stop/NOUN#0.0#0.0
+a man walks forward starting with his right leg and stops after five steps.#a/DET man/NOUN walk/VERB forward/ADV start/VERB with/ADP his/DET right/ADJ leg/NOUN and/CCONJ stop/VERB after/ADP five/NUM step/NOUN#0.0#0.0
+a man walks forward in a curved line.#a/DET man/NOUN walk/VERB forward/ADV in/ADP a/DET curved/ADJ line/NOUN#0.0#0.0

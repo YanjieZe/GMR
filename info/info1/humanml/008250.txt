@@ -1,0 +1,3 @@
+someone seems to want to fight or seek a fight#someone/PRON seem/VERB to/PART want/VERB to/PART fight/VERB or/CCONJ seek/VERB a/DET fight/NOUN#0.0#0.0
+the person is boxing with someone.#the/DET person/NOUN is/AUX box/VERB with/ADP someone/PRON#0.0#0.0
+a man lunges forward and moves hands in front and around him.#a/DET man/NOUN lunge/VERB forward/ADV and/CCONJ move/VERB hand/NOUN in/ADP front/NOUN and/CCONJ around/ADP him/PRON#0.0#0.0

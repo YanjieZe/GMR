@@ -1,0 +1,3 @@
+a person is head banging#a/DET person/NOUN is/AUX head/NOUN bang/VERB#0.0#0.0
+a person bends forward and puts their hands near their knees, then they wobble their head around rapidly.#a/DET person/NOUN bend/VERB forward/ADV and/CCONJ put/VERB their/DET hand/NOUN near/SCONJ their/DET knee/NOUN then/ADV they/PRON wobble/VERB their/DET head/NOUN around/ADV rapidly/ADV#0.0#0.0
+a person bends over with their hands on their knees, rocking their head and swaying side to side#a/DET person/NOUN bend/VERB over/ADP with/ADP their/DET hand/NOUN on/ADP their/DET knee/NOUN rock/VERB their/DET head/NOUN and/CCONJ sway/VERB side/NOUN to/PART side/VERB#0.0#0.0

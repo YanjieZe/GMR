@@ -1,0 +1,3 @@
+a person sitting there shaking#a/DET person/NOUN sit/VERB there/ADV shake/VERB#0.0#0.0
+a person squats while twitching their arms and feet, finally rotating their body side to side.#a/DET person/NOUN squat/VERB while/SCONJ twitch/VERB their/DET arm/NOUN and/CCONJ foot/NOUN finally/ADV rotate/VERB their/DET body/NOUN side/NOUN to/PART side/VERB#0.0#0.0
+a person moves hands and swigs on chair.#a/DET person/NOUN move/VERB hand/NOUN and/CCONJ swig/NOUN on/ADP chair/NOUN#0.0#0.0

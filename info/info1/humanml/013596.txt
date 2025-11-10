@@ -1,0 +1,3 @@
+a person puts his right hand to his head.#a/DET person/NOUN put/VERB his/DET right/ADJ hand/NOUN to/ADP his/DET head/NOUN#0.0#0.0
+a person sidesteps to their left and places their right hand on their head.#a/DET person/NOUN sidestep/VERB to/ADP their/DET left/NOUN and/CCONJ place/VERB their/DET right/ADJ hand/NOUN on/ADP their/DET head/NOUN#0.0#0.0
+a person covers his eyes as he looks up at the sun.#a/DET person/NOUN cover/VERB his/DET eye/NOUN as/SCONJ he/PRON look/VERB up/ADP at/ADP the/DET sun/NOUN#0.0#0.0

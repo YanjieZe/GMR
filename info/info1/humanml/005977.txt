@@ -1,0 +1,3 @@
+a person sits down and gets up.#a/DET person/NOUN sit/VERB down/ADV and/CCONJ get/VERB up/ADV#0.0#0.0
+a person walks forward, turns around and squats. then stands up and walks back the direction it came from.#a/DET person/NOUN walk/VERB forward/ADV turn/VERB around/ADV and/CCONJ squat/NOUN then/ADV stand/VERB up/ADP and/CCONJ walk/VERB back/ADV the/DET direction/NOUN it/PRON come/VERB from/ADP#0.0#0.0
+a person walks forward, turns around then sits down in a chair.#a/DET person/NOUN walk/VERB forward/ADV turn/VERB around/ADV then/ADV sit/VERB down/ADP in/ADP a/DET chair/NOUN#0.0#5.0

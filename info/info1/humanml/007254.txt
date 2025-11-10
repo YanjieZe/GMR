@@ -1,0 +1,3 @@
+a person raises his hands overhead, steps up onto a beam, walks on the beam and then steps down off the beam.#a/DET person/NOUN raise/VERB his/DET hand/NOUN overhead/ADV step/VERB up/ADP onto/ADP a/DET beam/NOUN walk/VERB on/ADP the/DET beam/NOUN and/CCONJ then/ADV step/VERB down/ADP off/ADP the/DET beam/NOUN#0.0#0.0
+this person walks forward while raises his arms straight up.#this/DET person/NOUN walk/VERB forward/ADV while/SCONJ raise/VERB his/DET arm/NOUN straight/ADV up/ADV#0.0#0.0
+a person walking with both hands up#a/DET person/NOUN walk/VERB with/ADP both/DET hand/NOUN up/ADP#0.0#0.0

@@ -1,0 +1,3 @@
+a person stretches by holding their hands out and moving their upper body about.#a/DET person/NOUN stretch/VERB by/ADP hold/VERB their/DET hand/NOUN out/ADP and/CCONJ move/VERB their/DET upper/ADJ body/NOUN about/ADP#0.0#0.0
+a person twists his body, stretches side to side and bends backwards.#a/DET person/NOUN twist/VERB his/DET body/NOUN stretch/VERB side/NOUN to/PART side/NOUN and/CCONJ bend/VERB backwards/ADV#0.0#0.0
+moving arms side to side above head and then whole body.#move/VERB arm/NOUN side/NOUN to/PART side/VERB above/ADP head/NOUN and/CCONJ then/ADV whole/ADJ body/NOUN#0.0#0.0

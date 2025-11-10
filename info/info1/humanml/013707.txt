@@ -1,0 +1,3 @@
+a perosn throwed something with right hand#a/DET perosn/NOUN throw/VERB something/PRON with/ADP right/ADJ hand/NOUN#0.0#0.0
+a person pushes something forward and then pulls it back.#a/DET person/NOUN push/VERB something/PRON forward/ADV and/CCONJ then/ADV pull/VERB it/PRON back/ADV#0.0#0.0
+the person is throwing a fishing line .#the/DET person/NOUN is/AUX throw/VERB a/DET fishing/NOUN line/NOUN#0.0#0.0

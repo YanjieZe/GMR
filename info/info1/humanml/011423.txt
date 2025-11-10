@@ -1,0 +1,3 @@
+walking forward in a slow motion.#walk/VERB forward/ADV in/ADP a/DET slow/ADJ motion/NOUN#0.0#0.0
+a person gingerly walks forward at a slight left angle.#a/DET person/NOUN gingerly/ADV walk/VERB forward/ADV at/ADP a/DET slight/ADJ left/ADJ angle/NOUN#0.0#0.0
+the person is walking and stepped over something.#the/DET person/NOUN is/AUX walk/VERB and/CCONJ step/VERB over/ADP something/PRON#0.0#0.0

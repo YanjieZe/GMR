@@ -1,0 +1,3 @@
+a man walks forward then takes a rather large stuff with his right leg, then continues walking forward.#a/DET man/NOUN walk/VERB forward/ADV then/ADV take/VERB a/DET rather/ADV large/ADJ stuff/NOUN with/ADP his/DET right/ADJ leg/NOUN then/ADV continue/VERB walk/VERB forward/ADV#0.0#0.0
+person moves forward five steps and nearly trips up on right leg#person/NOUN move/VERB forward/ADV five/NUM step/NOUN and/CCONJ nearly/ADV trip/VERB up/ADP on/ADP right/ADJ leg/NOUN#0.0#0.0
+robot start walking forward and then took a big step to step over something,#robot/PROPN start/VERB walk/VERB forward/ADV and/CCONJ then/ADV take/VERB a/DET big/ADJ step/NOUN to/PART step/VERB over/ADP something/PRON#0.0#0.0

@@ -1,0 +1,3 @@
+the person dodged from being hit.#the/DET person/NOUN dodge/VERB from/ADP being/AUX hit/VERB#0.0#0.0
+a person stumbles to their right and then turns around and backs away.#a/DET person/NOUN stumble/VERB to/ADP their/DET right/NOUN and/CCONJ then/ADV turn/VERB around/ADP and/CCONJ back/VERB away/ADV#0.0#0.0
+a person walks drunkenly, dodges an object, then turns around.#a/DET person/NOUN walk/VERB drunkenly/ADV dodge/VERB an/DET object/NOUN then/ADV turn/VERB around/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person walking in a crouched over position#a/DET person/NOUN walk/VERB in/ADP a/DET crouched/ADJ over/ADP position/NOUN#0.0#0.0
+a person takes slow, steady steps forward with their arms loose at their side#a/DET person/NOUN take/VERB slow/ADJ steady/ADJ step/NOUN forward/ADV with/ADP their/DET arm/NOUN loose/ADJ at/ADP their/DET side/NOUN#0.0#0.0
+a person starts walking with their right foot first and takes eleven steps forward.#a/DET person/NOUN start/VERB walk/VERB with/ADP their/DET right/ADJ foot/NOUN first/ADV and/CCONJ take/VERB eleven/NUM step/NOUN forward/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+person is walking in a circle#person/NOUN is/AUX walk/VERB in/ADP a/DET circle/NOUN#0.0#0.0
+a man stands straight up with his arms down to his sides and walks in a counter clockwise circle.#a/DET man/NOUN stand/VERB straight/ADV up/ADV with/ADP his/DET arm/NOUN down/ADP to/ADP his/DET side/NOUN and/CCONJ walk/VERB in/ADP a/DET counter/NOUN clockwise/NOUN circle/NOUN#0.0#0.0
+someone slowly walks in a circle.#someone/PRON slowly/ADV walk/VERB in/ADP a/DET circle/NOUN#0.0#0.0

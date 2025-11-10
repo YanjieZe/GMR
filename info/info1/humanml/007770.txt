@@ -1,0 +1,3 @@
+a individual is standing still then crosses both their let and right arms together before resting their arms at their sides again.#a/DET individual/NOUN is/AUX stand/VERB still/ADV then/ADV cross/VERB both/CCONJ their/DET let/VERB and/CCONJ right/ADJ arm/NOUN together/ADV before/ADP rest/VERB their/DET arm/NOUN at/ADP their/DET side/NOUN again/ADV#0.0#2.0
+a person folds his arms in front of him.#a/DET person/NOUN fold/VERB his/DET arm/NOUN in/ADP front/NOUN of/ADP him/PRON#0.0#0.0
+a person stands in the ground, crosses his arms to his chest, then drops his arms back to his sides.#a/DET person/NOUN stand/VERB in/ADP the/DET ground/NOUN cross/VERB his/DET arm/NOUN to/ADP his/DET chest/NOUN then/ADV drop/VERB his/DET arm/NOUN back/ADV to/ADP his/DET side/NOUN#0.0#0.0

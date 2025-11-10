@@ -1,0 +1,3 @@
+a person walks in a curve to their right and stops at about 90deg from start position.#a/DET person/NOUN walk/VERB in/ADP a/DET curve/NOUN to/ADP their/DET right/NOUN and/CCONJ stop/VERB at/ADP about/ADP from/ADP start/NOUN position/NOUN#0.0#0.0
+a person drifts to their right while walking.#a/DET person/NOUN drift/VERB to/ADP their/DET right/NOUN while/SCONJ walk/VERB#0.0#0.0
+a man turns slightly to his right and takes a few steps forward.#a/DET man/NOUN turn/VERB slightly/ADV to/ADP his/DET right/NOUN and/CCONJ take/VERB a/DET few/ADJ step/NOUN forward/ADV#0.0#0.0

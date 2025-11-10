@@ -1,0 +1,3 @@
+a person attempts to walk, then stops, bends down to hold their leg, then shakes/kicks a possible cramp out.#a/DET person/NOUN attempt/VERB to/PART walk/VERB then/ADV stop/VERB bend/VERB down/ADP to/PART hold/VERB their/DET leg/NOUN then/ADV shake/VERB kick/NOUN a/DET possible/ADJ cramp/NOUN out/ADV#0.0#0.0
+a person from what it seems checking or supporting their knee and checking if their knee is alright.#a/DET person/NOUN from/ADP what/PRON it/PRON seem/VERB check/VERB or/CCONJ support/VERB their/DET knee/NOUN and/CCONJ check/VERB if/SCONJ their/DET knee/NOUN is/AUX alright/VERB#0.0#0.0
+a person bends down to take off a boot.#a/DET person/NOUN bend/VERB down/ADP to/PART take/VERB off/ADP a/DET boot/NOUN#0.0#0.0

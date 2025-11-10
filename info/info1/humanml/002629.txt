@@ -1,0 +1,3 @@
+a man organizing, using both left and right hands.#a/DET man/NOUN organize/VERB use/VERB both/CCONJ left/ADJ and/CCONJ right/ADJ hand/NOUN#0.0#0.0
+person walks forward and touches his hands then repeats process#person/NOUN walk/VERB forward/ADV and/CCONJ touch/VERB his/DET hand/NOUN then/ADV repeat/VERB process/NOUN#1.0#3.0
+a man steps forward and puts something together with his hands.#a/DET man/NOUN step/VERB forward/ADV and/CCONJ put/VERB something/PRON together/ADV with/ADP his/DET hand/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person leans forward on something.#a/DET person/NOUN lean/VERB forward/ADV on/ADP something/PRON#0.0#0.0
+the person walks forward and leans on something.#the/DET person/NOUN walk/VERB forward/ADV and/CCONJ lean/VERB on/ADP something/PRON#0.0#0.0
+person walked down then i think tried carrying something.#person/NOUN walk/VERB down/ADV then/ADV i/PRON think/VERB try/VERB carry/VERB something/PRON#0.0#0.0

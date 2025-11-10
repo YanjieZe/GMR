@@ -1,0 +1,3 @@
+a figure hops in place#a/DET figure/NOUN hop/VERB in/ADP place/NOUN#0.0#0.0
+person bends at the knees then jumps into the air, before landing again.#person/NOUN bend/VERB at/ADP the/DET knee/NOUN then/ADV jump/VERB into/ADP the/DET air/NOUN before/ADP land/VERB again/ADV#0.0#0.0
+a person jumps in place from a standing position.#a/DET person/NOUN jump/VERB in/ADP place/NOUN from/ADP a/DET stand/VERB position/NOUN#0.0#0.0

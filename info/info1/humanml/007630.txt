@@ -1,0 +1,3 @@
+person is holding his head because he feels dizzy.#person/NOUN is/AUX hold/VERB his/DET head/NOUN because/SCONJ he/PRON feel/VERB dizzy/ADJ#0.0#0.0
+a person has their right hand by their face and is gesturing that their head is dizzy.#a/DET person/NOUN has/AUX their/DET right/ADJ hand/NOUN by/ADP their/DET face/NOUN and/CCONJ is/AUX gesture/VERB that/SCONJ their/DET head/NOUN is/AUX dizzy/ADJ#0.0#0.0
+a person is waving their hand.#a/DET person/NOUN is/AUX wave/VERB their/DET hand/NOUN#0.0#0.0

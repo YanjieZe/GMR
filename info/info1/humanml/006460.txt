@@ -1,0 +1,3 @@
+a person who is sitting, stands up and throws two objects.#a/DET person/NOUN who/PRON is/AUX sit/VERB stand/VERB up/ADV and/CCONJ throw/VERB two/NUM object/NOUN#0.0#0.0
+the man got up from a sitting position#the/DET man/NOUN get/VERB up/ADP from/ADP a/DET sit/VERB position/NOUN#0.0#0.0
+a person stands up from a cross legged sitting position and throws something overhand with their right arm, then they throw something underhand with their right arm.#a/DET person/NOUN stand/VERB up/ADP from/ADP a/DET cross/NOUN legged/ADJ sit/VERB position/NOUN and/CCONJ throw/VERB something/PRON overhand/NOUN with/ADP their/DET right/ADJ arm/NOUN then/ADV they/PRON throw/VERB something/PRON underhand/ADJ with/ADP their/DET right/ADJ arm/NOUN#0.0#0.0

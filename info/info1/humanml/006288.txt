@@ -1,0 +1,3 @@
+person is sitting doing something with hands, perhaps sewing#person/NOUN is/AUX sit/VERB do/VERB something/PRON with/ADP hand/NOUN perhaps/ADV sew/VERB#0.0#0.0
+the figure appears as if it could be eating something#the/DET figure/NOUN appear/VERB as/SCONJ if/SCONJ it/PRON could/VERB be/AUX eat/VERB something/PRON#0.0#0.0
+a person in a seated position moves their right hand up and down while keeping their left hand in place.#a/DET person/NOUN in/ADP a/DET seated/ADJ position/NOUN move/VERB their/DET right/ADJ hand/NOUN up/ADP and/CCONJ down/ADV while/SCONJ keep/VERB their/DET left/ADJ hand/NOUN in/ADP place/NOUN#0.0#0.0

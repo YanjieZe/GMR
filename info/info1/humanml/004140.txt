@@ -1,0 +1,3 @@
+a man steps to the side and then walks around while turning.#a/DET man/NOUN step/VERB to/ADP the/DET side/NOUN and/CCONJ then/ADV walk/VERB around/ADV while/SCONJ turn/VERB#0.0#0.0
+a person moving with dragging their right leg#a/DET person/NOUN move/VERB with/ADP drag/VERB their/DET right/ADJ leg/NOUN#0.0#0.0
+the man staggers around as if drunk.#the/DET man/NOUN stagger/VERB around/ADV as/SCONJ if/SCONJ drunk/ADJ#0.0#0.0

@@ -1,0 +1,3 @@
+a man walks in a clockwise circle, but only makes it half way#a/DET man/NOUN walk/VERB in/ADP a/DET clockwise/ADJ circle/NOUN but/CCONJ only/ADV make/VERB it/PRON half/ADJ way/ADV#0.0#0.0
+a person walks forward then turns the right continues to walks, then turns right again and continues to walk.#a/DET person/NOUN walk/VERB forward/ADV then/ADV turn/VERB the/DET right/NOUN continue/VERB to/ADP walk/NOUN then/ADV turn/VERB right/ADV again/ADV and/CCONJ continue/VERB to/PART walk/VERB#0.0#0.0
+a person fastly walked forward by making the circle#a/DET person/NOUN fastly/ADV walk/VERB forward/ADV by/ADP make/VERB the/DET circle/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a man takes 1 step forward then sits down, then stands back up.#a/DET man/NOUN take/VERB step/NOUN forward/ADV then/ADV sit/VERB down/ADV then/ADV stand/VERB back/ADV up/ADV#0.0#0.0
+the person backed up and sat on a barstool.#the/DET person/NOUN back/VERB up/ADP and/CCONJ sit/VERB on/ADP a/DET barstool/NOUN#0.0#0.0
+a man sits down in a chair facing the left side, then gets up and its down facing in a different direction.#a/DET man/NOUN sit/VERB down/ADP in/ADP a/DET chair/NOUN face/VERB the/DET left/ADJ side/NOUN then/ADV get/VERB up/ADV and/CCONJ its/DET down/ADV face/VERB in/ADP a/DET different/ADJ direction/NOUN#0.0#0.0

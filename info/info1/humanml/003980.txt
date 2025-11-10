@@ -1,0 +1,3 @@
+a person who's stepping backwards#a/DET person/NOUN who/PRON step/VERB backwards/ADV#0.0#0.0
+a man walks backward one step, using his left foot.#a/DET man/NOUN walk/VERB backward/ADJ one/NUM step/NOUN use/VERB his/DET left/ADJ foot/NOUN#0.0#0.0
+a person takes two steps backwards.#a/DET person/NOUN take/VERB two/NUM step/NOUN backwards/ADV#0.0#0.0

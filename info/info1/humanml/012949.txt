@@ -1,0 +1,3 @@
+a person is using objects/furniture to help them walk in a straight line#a/DET person/NOUN is/AUX use/VERB object/NOUN furniture/NOUN to/PART help/VERB them/PRON walk/VERB in/ADP a/DET straight/ADJ line/NOUN#0.0#0.0
+a person is walking while holding a handrail at each side#a/DET person/NOUN is/AUX walk/VERB while/SCONJ hold/VERB a/DET handrail/NOUN at/ADP each/DET side/NOUN#0.0#0.0
+a person is walking cautiously.#a/DET person/NOUN is/AUX walk/VERB cautiously/ADV#0.0#0.0

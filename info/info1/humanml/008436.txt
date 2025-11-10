@@ -1,0 +1,3 @@
+a man calmly pusts his hands down and gives a short bow.#a/DET man/NOUN calmly/ADV pust/VERB his/DET hand/NOUN down/ADP and/CCONJ give/VERB a/DET short/ADJ bow/NOUN#0.0#0.0
+a person places hands in front of him while bowing twice.#a/DET person/NOUN place/VERB hand/NOUN in/ADP front/NOUN of/ADP him/PRON while/SCONJ bow/VERB twice/ADV#nan#0.0
+a person bows two times, takes a step to the left, then bows again.#a/DET person/NOUN bow/VERB two/NUM time/NOUN take/VERB a/DET step/NOUN to/ADP the/DET left/NOUN then/ADV bow/VERB again/ADV#0.0#0.0

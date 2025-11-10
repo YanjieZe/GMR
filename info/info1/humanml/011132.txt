@@ -1,0 +1,3 @@
+the figure is sitting there is no movement, the legs aren't too food apart but they are a little the arms are resting beside the body as opposed to on top of the thighs.#the/DET figure/NOUN is/AUX sit/VERB there/PRON is/AUX no/DET movement/NOUN the/DET leg/NOUN are/AUX too/ADV food/NOUN apart/ADV but/CCONJ they/PRON are/AUX a/DET little/ADJ the/DET arm/NOUN are/AUX rest/VERB beside/ADP the/DET body/NOUN as/SCONJ oppose/VERB to/ADP on/ADP top/NOUN of/ADP the/DET thigh/NOUN#0.0#0.0
+man stands still without motion.#man/PROPN stand/VERB still/ADV without/ADP motion/NOUN#0.0#0.0
+a person stands with knees bent.#a/DET person/NOUN stand/VERB with/ADP knee/NOUN bent/ADJ#0.0#0.0

@@ -1,0 +1,3 @@
+a person does trunk twists#a/DET person/NOUN does/AUX trunk/NOUN twist/NOUN#0.0#0.0
+the person twists his body back and forth.#the/DET person/NOUN twist/VERB his/DET body/NOUN back/ADV and/CCONJ forth/ADV#0.0#0.0
+a person is standing and leaning to the right, turns and twists at waist.#a/DET person/NOUN is/AUX stand/VERB and/CCONJ lean/VERB to/ADP the/DET right/NOUN turn/VERB and/CCONJ twist/NOUN at/ADP waist/NOUN#0.0#2.0

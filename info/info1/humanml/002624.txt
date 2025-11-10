@@ -1,0 +1,3 @@
+a person standing on one leg.#a/DET person/NOUN stand/VERB on/ADP one/NUM leg/NOUN#0.0#0.0
+person is balancing and doing something.#person/NOUN is/AUX balance/VERB and/CCONJ do/VERB something/PRON#0.0#0.0
+a person balances on their right leg while holding up their left leg.#a/DET person/NOUN balance/VERB on/ADP their/DET right/ADJ leg/NOUN while/SCONJ hold/VERB up/ADP their/DET left/ADJ leg/NOUN#0.0#0.0

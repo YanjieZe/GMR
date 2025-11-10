@@ -1,0 +1,3 @@
+a person takes a step forward.#a/DET person/NOUN take/VERB a/DET step/NOUN forward/ADV#0.0#0.0
+a person stands still for about 4 seconds then steps forward and stands with feet splayed.#a/DET person/NOUN stand/VERB still/ADV for/ADP about/ADV second/NOUN then/ADV step/VERB forward/ADV and/CCONJ stand/VERB with/ADP foot/NOUN splayed/ADJ#0.0#0.0
+a man stands still, then takes a sudden small step forward, then continues standing still.#a/DET man/NOUN stand/VERB still/ADV then/ADV take/VERB a/DET sudden/ADJ small/ADJ step/NOUN forward/ADV then/ADV continue/VERB stand/VERB still/ADV#0.0#0.0

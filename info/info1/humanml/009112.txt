@@ -1,0 +1,3 @@
+the person is holding the camera to focus on a subject#the/DET person/NOUN is/AUX hold/VERB the/DET camera/NOUN to/PART focus/VERB on/ADP a/DET subject/NOUN#0.0#0.0
+the man reaches both hands to his face before dropping them back to his sides.#the/DET man/NOUN reach/VERB both/DET hand/NOUN to/ADP his/DET face/NOUN before/ADP drop/VERB them/PRON back/ADV to/ADP his/DET side/NOUN#0.0#0.0
+a person puts both hands to his face.#a/DET person/NOUN put/VERB both/DET hand/NOUN to/ADP his/DET face/NOUN#0.0#0.0

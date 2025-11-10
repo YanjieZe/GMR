@@ -1,0 +1,3 @@
+person is walking forward, stumbles back, continues forward#person/NOUN is/AUX walk/VERB forward/ADV stumble/NOUN back/ADV continue/VERB forward/ADV#0.0#0.0
+the person walks forward a few steps, stops, pushes back a few steps and then walks forward.#the/DET person/NOUN walk/VERB forward/ADV a/DET few/ADJ step/NOUN stop/NOUN push/VERB back/ADP a/DET few/ADJ step/NOUN and/CCONJ then/ADV walk/VERB forward/ADV#0.0#0.0
+a person takes three steps forward, then takes two steps back, then five steps forward.#a/DET person/NOUN take/VERB three/NUM step/NOUN forward/ADV then/ADV take/VERB two/NUM step/NOUN back/ADV then/ADV five/NUM step/NOUN forward/ADV#0.0#0.0

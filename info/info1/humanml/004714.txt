@@ -1,0 +1,3 @@
+person is psinning themselves around,#person/NOUN is/AUX psinne/VERB themselves/PRON around/ADP#0.0#0.0
+keeping the lower body stationary, a person swings his upper body back and forth before spinning the whole body in a complete circle.#keep/VERB the/DET lower/ADJ body/NOUN stationary/NOUN a/DET person/NOUN swing/VERB his/DET upper/ADJ body/NOUN back/ADV and/CCONJ forth/ADV before/ADP spin/VERB the/DET whole/ADJ body/NOUN in/ADP a/DET complete/ADJ circle/NOUN#0.0#0.0
+a person twisting side to side and spins clockwise to the left#a/DET person/NOUN twist/VERB side/NOUN to/ADP side/NOUN and/CCONJ spin/VERB clockwise/VERB to/ADP the/DET left/NOUN#0.0#0.0

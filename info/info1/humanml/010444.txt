@@ -1,0 +1,3 @@
+i man runs forward and does a summersalt and lands perfectly.#i/PRON man/NOUN run/VERB forward/ADV and/CCONJ does/AUX a/DET summersalt/NOUN and/CCONJ land/NOUN perfectly/ADV#0.0#0.0
+a person moves in a forward motion from their feet onto their hands, and then brings their feet over their body to land back on their feet,#a/DET person/NOUN move/VERB in/ADP a/DET forward/ADJ motion/NOUN from/ADP their/DET foot/NOUN onto/ADP their/DET hand/NOUN and/CCONJ then/ADV bring/VERB their/DET foot/NOUN over/ADP their/DET body/NOUN to/PART land/VERB back/ADV on/ADP their/DET foot/NOUN#0.0#0.0
+a man does a perfect cartwheel.#a/DET man/NOUN does/AUX a/DET perfect/ADJ cartwheel/NOUN#0.0#0.0

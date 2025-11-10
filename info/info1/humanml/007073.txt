@@ -1,0 +1,3 @@
+a person appears to be doing jump rope.#a/DET person/NOUN appear/VERB to/PART be/AUX do/VERB jump/NOUN rope/NOUN#0.0#0.0
+a person grabbed soemthing and start jumo on it#a/DET person/NOUN grab/VERB soemthe/VERB and/CCONJ start/VERB jumo/PROPN on/ADP it/PRON#0.0#0.0
+person jumps rope, stops, then starts again.#person/NOUN jump/VERB rope/PROPN stop/VERB then/ADV start/VERB again/ADV#0.0#0.0

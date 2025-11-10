@@ -1,0 +1,3 @@
+a person walks forwards diagonally with a swaying motion.#a/DET person/NOUN walk/VERB forwards/ADV diagonally/ADV with/ADP a/DET swaying/NOUN motion/NOUN#0.0#0.0
+a figure is walking forward slightly to the right.#a/DET figure/NOUN is/AUX walk/VERB forward/ADV slightly/ADV to/ADP the/DET right/NOUN#0.0#0.0
+a person simply walking forward.#a/DET person/NOUN simply/ADV walk/VERB forward/ADV#0.0#0.0

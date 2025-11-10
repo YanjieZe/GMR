@@ -1,0 +1,3 @@
+moving hands to knees.#move/VERB hand/NOUN to/ADP knee/NOUN#0.0#0.0
+with legs shoulder width apart, person brings arms to their thighs before out stretching back outward to their side.#with/ADP leg/NOUN shoulder/NOUN width/NOUN apart/ADV person/NOUN bring/VERB arm/NOUN to/ADP their/DET thigh/NOUN before/ADV out/ADV stretch/VERB back/ADV outward/ADV to/ADP their/DET side/NOUN#0.0#0.0
+the person had his hands out to the side and put his hands down on his lap.#the/DET person/NOUN had/AUX his/DET hand/NOUN out/ADP to/ADP the/DET side/NOUN and/CCONJ put/VERB his/DET hand/NOUN down/ADP on/ADP his/DET lap/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a human figure is seen swimming#a/DET human/ADJ figure/NOUN is/AUX see/VERB swim/VERB#0.0#0.0
+a person is swimming by stretching out both his hands and legs.#a/DET person/NOUN is/AUX swim/VERB by/ADP stretch/VERB out/ADP both/CCONJ his/DET hand/NOUN and/CCONJ leg/NOUN#0.0#0.0
+a person is swimming breaststroke very good#a/DET person/NOUN is/AUX swim/VERB breaststroke/NOUN very/ADV good/ADJ#0.0#0.0

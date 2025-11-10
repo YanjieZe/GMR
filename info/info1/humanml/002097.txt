@@ -1,0 +1,3 @@
+the figure shambles from side to side, only ever moving in quarter circle motions.#the/DET figure/NOUN shamble/VERB from/ADP side/NOUN to/ADP side/NOUN only/ADV ever/ADV move/VERB in/ADP quarter/NOUN circle/NOUN motion/NOUN#0.0#0.0
+man turns upper torso and head back to look behind him#man/NOUN turn/VERB upper/ADJ torso/NOUN and/CCONJ head/VERB back/ADV to/PART look/VERB behind/ADP him/PRON#0.0#0.0
+a person doing a dance routine including stepping forward and looking backwards.#a/DET person/NOUN do/VERB a/DET dance/NOUN routine/NOUN include/VERB step/VERB forward/ADV and/CCONJ look/VERB backwards/ADV#0.0#0.0

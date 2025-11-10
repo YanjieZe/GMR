@@ -1,0 +1,3 @@
+a person scratches their head#a/DET person/NOUN scratch/VERB their/DET head/NOUN#0.0#0.0
+he waves his hand then stops#he/PRON wave/VERB his/DET hand/NOUN then/ADV stop/VERB#0.0#0.0
+person puts right hand on top of their head. appears to be confused#person/NOUN put/VERB right/ADJ hand/NOUN on/ADP top/NOUN of/ADP their/DET head/NOUN appear/VERB to/PART be/AUX confuse/VERB#0.0#0.0

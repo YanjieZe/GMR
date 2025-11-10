@@ -1,0 +1,3 @@
+a person jogs back and forth#a/DET person/NOUN jog/VERB back/ADV and/CCONJ forth/ADV#0.0#0.0
+a person jogs back and forth#a/DET person/NOUN jog/VERB back/ADV and/CCONJ forth/ADV#0.0#0.0
+a man jogs to the right and then to the left repeatedly with elbows bent.#a/DET man/NOUN jog/VERB to/ADP the/DET right/NOUN and/CCONJ then/ADV to/ADP the/DET left/NOUN repeatedly/ADV with/ADP elbow/NOUN bent/ADJ#0.0#0.0

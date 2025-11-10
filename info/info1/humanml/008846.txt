@@ -1,0 +1,3 @@
+taking a couple of steps back#take/VERB a/DET couple/NOUN of/ADP step/NOUN back/ADV#0.0#0.0
+a person is walking backwards.#a/DET person/NOUN is/AUX walk/VERB backwards/ADV#0.0#0.0
+a person who is standing with his arms by his sides takes four steps backwards.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP his/DET arm/NOUN by/ADP his/DET side/NOUN take/VERB four/NUM step/NOUN backwards/ADV#0.0#0.0

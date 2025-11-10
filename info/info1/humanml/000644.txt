@@ -1,0 +1,3 @@
+a person swings arms over head forward, then steps forward with outstreatched arms.#a/DET person/NOUN swing/VERB arm/NOUN over/ADP head/NOUN forward/ADV then/ADV step/VERB forward/ADV with/ADP outstreatched/ADJ arm/NOUN#0.0#0.0
+a person throws something, falls forward, steps backward, catches something and throws it again.#a/DET person/NOUN throw/VERB something/PRON fall/VERB forward/ADV step/VERB backward/ADV catch/VERB something/PRON and/CCONJ throw/VERB it/PRON again/ADV#0.0#0.0
+a person stumbles, catches something, then moves their arms#a/DET person/NOUN stumble/VERB catch/NOUN something/PRON then/ADV move/VERB their/DET arm/NOUN#0.0#0.0

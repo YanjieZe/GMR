@@ -1,0 +1,3 @@
+a person jumps in place while moving their arms back and forth#a/DET person/NOUN jump/VERB in/ADP place/NOUN while/SCONJ move/VERB their/DET arm/NOUN back/ADV and/CCONJ forth/ADV#0.0#0.0
+person prepares and kick jumps back and forth#person/NOUN prepare/VERB and/CCONJ kick/VERB jump/VERB back/ADV and/CCONJ forth/ADV#0.0#0.0
+a person loosens up before bringing each leg forward and backward in a jumping motion, then touches opposite elbows to opposite knees.#a/DET person/NOUN loosen/VERB up/ADP before/ADP bring/VERB each/DET leg/NOUN forward/ADV and/CCONJ backward/ADV in/ADP a/DET jumping/NOUN motion/NOUN then/ADV touch/VERB opposite/ADJ elbow/NOUN to/ADP opposite/ADJ knee/NOUN#0.0#0.0

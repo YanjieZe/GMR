@@ -1,0 +1,3 @@
+the man carefully sits down on the ground and then stands back up#the/DET man/NOUN carefully/ADV sit/VERB down/ADP on/ADP the/DET ground/NOUN and/CCONJ then/ADV stand/VERB back/ADV up/ADV#0.0#7.0
+person sits slowly on the floor but then stands up again#person/NOUN sit/VERB slowly/ADV on/ADP the/DET floor/NOUN but/CCONJ then/ADV stand/VERB up/ADP again/ADV#0.0#0.0
+a person sits and gets back up.#a/DET person/NOUN sit/VERB and/CCONJ get/VERB back/ADV up/ADV#0.0#0.0

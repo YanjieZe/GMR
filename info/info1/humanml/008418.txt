@@ -1,0 +1,3 @@
+a man steps backward, sits down in a chair and then stands back up again.#a/DET man/NOUN step/VERB backward/ADV sit/VERB down/ADV in/ADP a/DET chair/NOUN and/CCONJ then/ADV stand/VERB back/ADV up/ADV again/ADV#0.0#0.0
+a person sits down then stands back up again.#a/DET person/NOUN sit/VERB down/ADV then/ADV stand/VERB back/ADV up/ADV again/ADV#0.0#0.0
+the person turned around and sat in a chair.#the/DET person/NOUN turn/VERB around/ADP and/CCONJ sit/VERB in/ADP a/DET chair/NOUN#0.0#0.0

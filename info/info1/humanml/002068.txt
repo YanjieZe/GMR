@@ -1,0 +1,3 @@
+a person stretch its arms#a/DET person/NOUN stretch/VERB its/DET arm/NOUN#0.0#0.0
+a person laces fingers, turns them outward and stretches arms forward, and then raises them overhead while still clasped.the person then lets their arms fall to their sides.#a/DET person/NOUN lace/VERB finger/NOUN turn/VERB them/PRON outward/ADV and/CCONJ stretch/VERB arm/NOUN forward/ADV and/CCONJ then/ADV raise/VERB them/PRON overhead/ADV while/SCONJ still/ADV person/NOUN then/ADV let/VERB their/DET arm/NOUN fall/VERB to/ADP their/DET side/NOUN#0.0#0.0
+a person is stretching by raising their arms above their head and back down.#a/DET person/NOUN is/AUX stretch/VERB by/ADP raise/VERB their/DET arm/NOUN above/ADP their/DET head/NOUN and/CCONJ back/VERB down/ADV#0.0#0.0

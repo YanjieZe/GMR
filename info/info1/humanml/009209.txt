@@ -1,0 +1,3 @@
+a man wobbles while walking forward.#a/DET man/NOUN wobble/VERB while/SCONJ walk/VERB forward/ADV#0.0#0.0
+a man walks forward, starting with his right foot he places one in front of the other.#a/DET man/NOUN walk/VERB forward/ADV start/VERB with/ADP his/DET right/ADJ foot/NOUN he/PRON place/VERB one/NUM in/ADP front/NOUN of/ADP the/DET other/ADJ#0.0#0.0
+person carefully walks with right left first in a straight direction#person/NOUN carefully/ADV walk/VERB with/ADP right/ADJ left/VERB first/ADV in/ADP a/DET straight/ADJ direction/NOUN#0.0#0.0

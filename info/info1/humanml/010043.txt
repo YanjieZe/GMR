@@ -1,0 +1,3 @@
+the person is doing the cha-cha.#the/DET person/NOUN is/AUX do/VERB the/DET chacha/NOUN#0.0#0.0
+person appears to be dancing with another person while his right hand is on the person's back and their right hand is extended appears to be holding their parnter's extended hand#person/NOUN appear/VERB to/PART be/AUX dance/VERB with/ADP another/DET person/NOUN while/SCONJ his/DET right/ADJ hand/NOUN is/AUX on/ADP the/DET person/NOUN back/NOUN and/CCONJ their/DET right/ADJ hand/NOUN is/AUX extended/ADJ appear/VERB to/PART be/AUX hold/VERB their/DET parnter/NOUN extended/ADJ hand/NOUN#0.0#0.0
+the man dances the cha cha.#the/DET man/NOUN dance/VERB the/DET cha/PROPN cha/NOUN#0.0#0.0

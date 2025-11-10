@@ -1,0 +1,3 @@
+the person is walking around.#the/DET person/NOUN is/AUX walk/VERB around/ADV#0.0#0.0
+a person walks forwards, then gets pushed to the left, they recover and walk to their right.#a/DET person/NOUN walk/VERB forwards/ADV then/ADV get/VERB push/VERB to/ADP the/DET left/NOUN they/PRON recover/VERB and/CCONJ walk/VERB to/ADP their/DET right/NOUN#0.0#0.0
+a person walks down halfway and then makes a sharp diagonal to the right and then a sharp diagonal to the left in a zigzag pattern.#a/DET person/NOUN walk/VERB down/ADV halfway/ADV and/CCONJ then/ADV make/VERB a/DET sharp/ADJ diagonal/ADJ to/ADP the/DET right/NOUN and/CCONJ then/ADV a/DET sharp/ADJ diagonal/ADJ to/ADP the/DET left/NOUN in/ADP a/DET zigzag/NOUN pattern/NOUN#0.0#0.0

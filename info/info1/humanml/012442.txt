@@ -1,0 +1,3 @@
+this person is moving front to back and lifting arms to catch something.#this/DET person/NOUN is/AUX move/VERB front/ADV to/ADP back/NOUN and/CCONJ lift/VERB arm/NOUN to/PART catch/VERB something/PRON#0.0#0.0
+the person is playing volleyball.#the/DET person/NOUN is/AUX play/VERB volleyball/NOUN#0.0#0.0
+walking backwards then bending down.#walk/VERB backwards/ADV then/ADV bend/VERB down/ADP#0.0#0.0

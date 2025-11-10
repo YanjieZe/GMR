@@ -1,0 +1,3 @@
+someone is looking at the time#someone/PRON is/AUX look/VERB at/ADP the/DET time/NOUN#0.0#0.0
+a person bends their right arm at the elbow and then lowers it again.#a/DET person/NOUN bend/VERB their/DET right/ADJ arm/NOUN at/ADP the/DET elbow/NOUN and/CCONJ then/ADV lower/VERB it/PRON again/ADV#0.0#0.0
+a person checks his watch.#a/DET person/NOUN check/VERB his/DET watch/NOUN#0.0#0.0

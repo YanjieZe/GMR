@@ -1,0 +1,3 @@
+a person standing and dancing#a/DET person/NOUN stand/VERB and/CCONJ dancing/NOUN#0.0#0.0
+a person sways from side to side, shaking their hands and legs, as if they were dancing or happy#a/DET person/NOUN sway/VERB from/ADP side/NOUN to/ADP side/NOUN shake/VERB their/DET hand/NOUN and/CCONJ leg/NOUN as/SCONJ if/SCONJ they/PRON were/AUX dance/VERB or/CCONJ happy/ADJ#0.0#0.0
+a person shakes their legs and arms#a/DET person/NOUN shake/VERB their/DET leg/NOUN and/CCONJ arm/NOUN#0.0#0.0

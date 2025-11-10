@@ -1,0 +1,3 @@
+the person is bent down pulling at something, pulls it up to his right side, wiggles right arm a bit then places it back down.#the/DET person/NOUN is/AUX bent/ADJ down/ADP pull/VERB at/ADP something/PRON pull/VERB it/PRON up/ADP to/ADP his/DET right/ADJ side/NOUN wiggle/VERB right/ADJ arm/NOUN a/DET bit/NOUN then/ADV place/VERB it/PRON back/ADV down/ADV#0.0#0.0
+a person pulls to start a lawn mower/chain saw.#a/DET person/NOUN pull/VERB to/PART start/VERB a/DET lawn/NOUN mower/NOUN chain/NOUN see/VERB#0.0#0.0
+baseball  player getting ready to pitch#baseball/NOUN player/NOUN get/VERB ready/ADJ to/PART pitch/VERB#0.0#0.0

@@ -1,0 +1,3 @@
+a man walks forward with arms swaying at his side.#a/DET man/NOUN walk/VERB forward/ADV with/ADP arm/NOUN sway/VERB at/ADP his/DET side/NOUN#0.0#0.0
+person casually swings arms slightly while walking forward.#person/NOUN casually/ADV swing/VERB arm/NOUN slightly/ADV while/SCONJ walk/VERB forward/ADV#0.0#0.0
+the person is walking forward diagonally.#the/DET person/NOUN is/AUX walk/VERB forward/ADV diagonally/ADV#0.0#0.0

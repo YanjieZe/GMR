@@ -1,0 +1,3 @@
+a person ballet dances in a triangle.#a/DET person/NOUN ballet/NOUN dance/NOUN in/ADP a/DET triangle/NOUN#0.0#0.0
+a person is dancing as he taps his feet and moves his arms up and down and around.#a/DET person/NOUN is/AUX dance/VERB as/SCONJ he/PRON tap/VERB his/DET foot/NOUN and/CCONJ move/VERB his/DET arm/NOUN up/ADP and/CCONJ down/ADV and/CCONJ around/ADV#0.0#0.0
+the ballet dancer practices their routine#the/DET ballet/NOUN dancer/NOUN practice/VERB their/DET routine/NOUN#0.0#0.0

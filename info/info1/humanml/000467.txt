@@ -1,0 +1,3 @@
+a person is standing and performing arm bicep curls by lifting their hands towards their shoulder in a squeezing manner.#a/DET person/NOUN is/AUX stand/VERB and/CCONJ perform/VERB arm/NOUN bicep/NOUN curl/NOUN by/ADP lift/VERB their/DET hand/NOUN towards/ADP their/DET shoulder/NOUN in/ADP a/DET squeezing/NOUN manner/NOUN#0.0#0.0
+a person is doing bicep curls with both arms.#a/DET person/NOUN is/AUX do/VERB bicep/NOUN curl/NOUN with/ADP both/DET arm/NOUN#0.0#0.0
+person looks like they're lifting weights#person/NOUN look/VERB like/SCONJ they/PRON lift/VERB weight/NOUN#0.0#0.0

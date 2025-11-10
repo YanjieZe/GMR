@@ -1,0 +1,3 @@
+person walks forwards casually then stops#person/NOUN walk/VERB forward/NOUN casually/ADV then/ADV stop/VERB#0.0#0.0
+a person walks forward while keeping their shoulders still#a/DET person/NOUN walk/VERB forward/ADV while/SCONJ keep/VERB their/DET shoulder/NOUN still/ADV#0.0#0.0
+a person steps forward rather fastly#a/DET person/NOUN step/VERB forward/ADV rather/ADV fastly/ADV#0.0#0.0

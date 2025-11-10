@@ -1,0 +1,3 @@
+a person uses arms to lift an object or weightlift.#a/DET person/NOUN use/VERB arm/NOUN to/PART lift/VERB an/DET object/NOUN or/CCONJ weightlift/VERB#0.0#0.0
+a person lifts something above their head multiple times.#a/DET person/NOUN lift/VERB something/PRON above/ADP their/DET head/NOUN multiple/ADJ time/NOUN#0.0#0.0
+a person is standing still while lifting both arms as if to exercise.#a/DET person/NOUN is/AUX stand/VERB still/ADV while/SCONJ lift/VERB both/DET arm/NOUN as/SCONJ if/SCONJ to/PART exercise/VERB#0.0#0.0

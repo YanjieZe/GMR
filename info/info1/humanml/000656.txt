@@ -1,0 +1,3 @@
+a man holds his right arm out before lowering it.#a/DET man/NOUN hold/VERB his/DET right/ADJ arm/NOUN out/ADP before/ADP lower/VERB it/PRON#0.0#0.0
+a person lowers his left arm, then his right arm, and then stretches both arms out from his sides.#a/DET person/NOUN lower/VERB his/DET left/ADJ arm/NOUN then/ADV his/DET right/ADJ arm/NOUN and/CCONJ then/ADV stretch/VERB both/DET arm/NOUN out/ADV from/ADP his/DET side/NOUN#0.0#0.0
+the man touches his left leg then his right leg and raises his hands again.#the/DET man/NOUN touch/VERB his/DET left/ADJ leg/NOUN then/ADV his/DET right/ADJ leg/NOUN and/CCONJ raise/VERB his/DET hand/NOUN again/ADV#0.0#0.0

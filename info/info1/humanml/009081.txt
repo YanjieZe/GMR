@@ -1,0 +1,3 @@
+person raises arms slightly at the sides.#person/NOUN raise/VERB arm/NOUN slightly/ADV at/ADP the/DET side/NOUN#0.0#0.0
+a person raises both of his arms.#a/DET person/NOUN raise/VERB both/DET of/ADP his/DET arm/NOUN#0.0#0.0
+the sim is standing still, before extending their arms away from the resting position at their waste.#the/DET sim/PROPN is/AUX stand/VERB still/ADV before/ADP extend/VERB their/DET arm/NOUN away/ADV from/ADP the/DET rest/VERB position/NOUN at/ADP their/DET waste/NOUN#0.0#10.0

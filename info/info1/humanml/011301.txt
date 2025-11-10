@@ -1,0 +1,3 @@
+a person steps each leg backwards.#a/DET person/NOUN step/VERB each/DET leg/NOUN backwards/ADV#0.0#0.0
+a person is walking backwards#a/DET person/NOUN is/AUX walk/VERB backwards/ADV#0.0#0.0
+a man walks backwards swiftly.#a/DET man/NOUN walk/VERB backwards/ADV swiftly/ADV#0.0#0.0

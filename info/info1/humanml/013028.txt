@@ -1,0 +1,3 @@
+a figure walks forward confidently#a/DET figure/NOUN walk/VERB forward/ADV confidently/ADV#0.0#0.0
+a person walks forward with their arms swinging gently forward and backwards.#a/DET person/NOUN walk/VERB forward/ADV with/ADP their/DET arm/NOUN swinge/VERB gently/ADV forward/ADV and/CCONJ backwards/ADV#0.0#0.0
+a man walks on a treadmill.#a/DET man/NOUN walk/VERB on/ADP a/DET treadmill/NOUN#0.0#0.0

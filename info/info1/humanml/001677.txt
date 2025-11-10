@@ -1,0 +1,3 @@
+a person brings up their right hand from their side to touch their nose, drops their arm back down, and takes two steps backwards.#a/DET person/NOUN bring/VERB up/ADP their/DET right/ADJ hand/NOUN from/ADP their/DET side/NOUN to/PART touch/VERB their/DET nose/NOUN drop/VERB their/DET arm/NOUN back/ADV down/ADV and/CCONJ take/VERB two/NUM step/NOUN backwards/ADV#0.0#0.0
+holds hand up to head, then walks backward. appears to be distraught, or worried and concerned#hold/VERB hand/VERB up/ADP to/PART head/VERB then/ADV walk/VERB backward/ADJ appear/VERB to/PART be/AUX distraught/ADJ or/CCONJ worry/VERB and/CCONJ concerned/ADJ#0.0#9.0
+he picks his nose with his hand#he/PRON pick/VERB his/DET nose/NOUN with/ADP his/DET hand/NOUN#0.0#0.0

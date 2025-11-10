@@ -1,0 +1,3 @@
+a person is standing facing forward and sways a little while moving their hands as if they were talking.#a/DET person/NOUN is/AUX stand/VERB face/VERB forward/ADV and/CCONJ sway/VERB a/DET little/ADJ while/SCONJ move/VERB their/DET hand/NOUN as/SCONJ if/SCONJ they/PRON were/AUX talk/VERB#0.0#0.0
+no idea i am sorry#no/DET idea/NOUN i/PRON am/AUX sorry/ADJ#0.0#0.0
+person flexing arms and moving them inwards twords chest.#person/NOUN flex/VERB arm/NOUN and/CCONJ move/VERB them/PRON inward/NOUN tword/NOUN chest/NOUN#0.0#0.0

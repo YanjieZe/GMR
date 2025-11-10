@@ -1,0 +1,3 @@
+person does a quick jump and then stumbles to the left.#person/NOUN does/AUX a/DET quick/ADJ jump/NOUN and/CCONJ then/ADV stumble/VERB to/ADP the/DET left/NOUN#0.0#0.0
+a person jumps up and down, then shuffles to the left.#a/DET person/NOUN jump/VERB up/ADV and/CCONJ down/ADV then/ADV shuffle/VERB to/ADP the/DET left/NOUN#0.0#0.0
+person jumps up and then stumbles to the left#person/NOUN jump/VERB up/ADP and/CCONJ then/ADV stumble/VERB to/ADP the/DET left/NOUN#0.0#0.0

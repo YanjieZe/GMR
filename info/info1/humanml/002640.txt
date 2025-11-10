@@ -1,0 +1,3 @@
+man walks slowly forward with arms raised above his head.#man/NOUN walk/VERB slowly/ADV forward/ADV with/ADP arm/NOUN raise/VERB above/ADP his/DET head/NOUN#0.0#0.0
+a man is walking slowly in a straight line with both arms reached above his head straight up as if he is walking on a balance beam.#a/DET man/NOUN is/AUX walk/VERB slowly/ADV in/ADP a/DET straight/ADJ line/NOUN with/ADP both/DET arm/NOUN reach/VERB above/ADP his/DET head/NOUN straight/ADV up/ADV as/SCONJ if/SCONJ he/PRON is/AUX walk/VERB on/ADP a/DET balance/NOUN beam/NOUN#0.0#0.0
+a person steps forward with their hands raised overhead#a/DET person/NOUN step/VERB forward/ADV with/ADP their/DET hand/NOUN raise/VERB overhead/ADV#0.0#0.0

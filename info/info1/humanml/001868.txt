@@ -1,0 +1,3 @@
+the person throws a long pass with the football#the/DET person/NOUN throw/VERB a/DET long/ADJ pass/NOUN with/ADP the/DET football/NOUN#0.0#0.0
+a person is throwing something with their right arm over hand and then underhand.#a/DET person/NOUN is/AUX throw/VERB something/PRON with/ADP their/DET right/ADJ arm/NOUN over/ADP hand/NOUN and/CCONJ then/ADV underhand/ADJ#0.0#0.0
+a man throws something this is right arm and then throws something again.#a/DET man/NOUN throw/VERB something/PRON this/DET is/AUX right/ADJ arm/NOUN and/CCONJ then/ADV throw/VERB something/PRON again/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person raises their right arm and begins walking down the middle of a platform. as the person reaches the end  of the platform they veer to their left.#a/DET person/NOUN raise/VERB their/DET right/ADJ arm/NOUN and/CCONJ begin/VERB walk/VERB down/ADP the/DET middle/NOUN of/ADP a/DET platform/NOUN as/SCONJ the/DET person/NOUN reach/VERB the/DET end/NOUN of/ADP the/DET platform/NOUN they/PRON veer/VERB to/ADP their/DET left/NOUN#0.0#0.0
+a person walks 4 steps forward#a/DET person/NOUN walk/VERB step/NOUN forward/ADV#0.0#0.0
+person walks forward with right hand touching the rail.#person/NOUN walk/VERB forward/ADV with/ADP right/ADJ hand/NOUN touch/VERB the/DET rail/NOUN#0.0#0.0

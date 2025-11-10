@@ -1,0 +1,3 @@
+the person ran forward to kick a soccer ball.#the/DET person/NOUN run/VERB forward/ADV to/PART kick/VERB a/DET soccer/NOUN ball/NOUN#0.0#0.0
+the soccer player kicks the ball#the/DET soccer/NOUN player/NOUN kick/VERB the/DET ball/NOUN#0.0#0.0
+person kicks a ball far#person/NOUN kick/VERB a/DET ball/NOUN far/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+the person runs forward in a straight line.#the/DET person/NOUN run/VERB forward/ADV in/ADP a/DET straight/ADJ line/NOUN#0.0#0.0
+a man walks forward, kicking his legs behind him.#a/DET man/NOUN walk/VERB forward/ADV kick/VERB his/DET leg/NOUN behind/ADP him/PRON#0.0#0.0
+a person moves one step forward slowly and then 5 quicker and longer steps forward.#a/DET person/NOUN move/VERB one/NUM step/NOUN forward/ADV slowly/ADV and/CCONJ then/ADV quicker/ADV and/CCONJ longer/ADJ step/NOUN forward/ADV#0.0#0.0

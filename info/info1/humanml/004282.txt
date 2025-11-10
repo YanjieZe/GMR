@@ -1,0 +1,3 @@
+a person starts walking in z shape ,goes to extreme left and walks slightly right and stands in the center.#a/DET person/NOUN start/VERB walk/VERB in/ADP z/NOUN shape/NOUN go/VERB to/ADP extreme/ADJ left/NOUN and/CCONJ walk/VERB slightly/ADV right/ADJ and/CCONJ stand/VERB in/ADP the/DET center/NOUN#0.0#0.0
+a person walks forward then quickly stumbles to the right and then back left.#a/DET person/NOUN walk/VERB forward/ADV then/ADV quickly/ADV stumble/VERB to/ADP the/DET right/NOUN and/CCONJ then/ADV back/ADV left/ADV#0.0#0.0
+someone is walking then running left as if something happened.#someone/PRON is/AUX walk/VERB then/ADV run/VERB left/VERB as/SCONJ if/SCONJ something/PRON happen/VERB#0.0#0.0

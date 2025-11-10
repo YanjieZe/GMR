@@ -1,0 +1,3 @@
+a person waves bye bye.#a/DET person/NOUN wave/NOUN bye/INTJ bye/INTJ#0.0#0.0
+a person waves with the right hand.#a/DET person/NOUN wave/VERB with/ADP the/DET right/ADJ hand/NOUN#0.0#0.0
+a person waves with their right hand.#a/DET person/NOUN wave/VERB with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0

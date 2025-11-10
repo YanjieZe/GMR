@@ -1,0 +1,3 @@
+a woman jumps vertically performing burpees at the gym.#a/DET woman/NOUN jump/VERB vertically/ADV perform/VERB burpee/NOUN at/ADP the/DET gym/NOUN#0.0#0.0
+a man squats low and jumps up with his hands on his knees.#a/DET man/NOUN squat/VERB low/ADJ and/CCONJ jump/VERB up/ADP with/ADP his/DET hand/NOUN on/ADP his/DET knee/NOUN#0.0#0.0
+a person squats and jumps and then repeats it.#a/DET person/NOUN squat/VERB and/CCONJ jumps/PROPN and/CCONJ then/ADV repeat/VERB it/PRON#0.0#0.0

@@ -1,0 +1,3 @@
+a person is marching on the spot which then turns into a run.#a/DET person/NOUN is/AUX march/VERB on/ADP the/DET spot/NOUN which/DET then/ADV turn/VERB into/ADP a/DET run/NOUN#0.0#0.0
+a person walks on the spot, runs on the spot, then does knee ups.#a/DET person/NOUN walk/VERB on/ADP the/DET spot/NOUN run/VERB on/ADP the/DET spot/NOUN then/ADV does/AUX knee/VERB up/NOUN#0.0#0.0
+a person who is standing with his arms by his sides marches in place, jogs in place and then rapidly jogs in place.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP his/DET arm/NOUN by/ADP his/DET side/NOUN marche/NOUN in/ADP place/NOUN jog/VERB in/ADP place/NOUN and/CCONJ then/ADV rapidly/ADV jog/VERB in/ADP place/NOUN#0.0#0.0

@@ -1,0 +1,2 @@
+a person runs fast in a curved line#a/DET person/NOUN run/VERB fast/ADV in/ADP a/DET curved/ADJ line/NOUN#0.0#0.0
+a person runs quickly forward, curving towards their left.#a/DET person/NOUN run/VERB quickly/ADV forward/ADV curve/VERB towards/ADP their/DET left/NOUN#0.0#0.0

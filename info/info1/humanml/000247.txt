@@ -1,0 +1,2 @@
+a man runs to the right, turns around and runs straight. then he turns around again#a/DET man/NOUN run/VERB to/ADP the/DET right/NOUN turn/VERB around/ADV and/CCONJ run/VERB straight/ADV then/ADV he/PRON turn/VERB around/ADP again/ADV#nan#0.0
+a man walks to the right then runs to the left.#a/DET man/NOUN walk/VERB to/ADP the/DET right/NOUN then/ADV run/VERB to/ADP the/DET left/NOUN#0.0#10.0

@@ -1,0 +1,3 @@
+a person, walking forward, and after doing slow move with left leg, and walk back#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ after/ADP do/VERB slow/ADJ move/NOUN with/ADP left/ADJ leg/NOUN and/CCONJ walk/VERB back/ADV#0.0#0.0
+a person walks forward swings foot right and walks back to where they started.#a/DET person/NOUN walk/VERB forward/ADV swing/NOUN foot/NOUN right/ADV and/CCONJ walk/VERB back/ADV to/ADP where/ADV they/PRON start/VERB#0.0#0.0
+a person walks forward two paces then turns around 180 degrees then walks back to where they started#a/DET person/NOUN walk/VERB forward/ADV two/NUM pace/NOUN then/ADV turn/VERB around/ADV degree/NOUN then/ADV walk/VERB back/ADV to/ADP where/ADV they/PRON start/VERB#0.0#5.0

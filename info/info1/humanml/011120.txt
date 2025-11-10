@@ -1,0 +1,3 @@
+the person is doing arm and squat exercises.#the/DET person/NOUN is/AUX do/VERB arm/NOUN and/CCONJ squat/ADJ exercise/NOUN#0.0#0.0
+a person lifts their arms above their head, squats, and then puts their arms down.#a/DET person/NOUN lift/VERB their/DET arm/NOUN above/ADP their/DET head/NOUN squat/NOUN and/CCONJ then/ADV put/VERB their/DET arm/NOUN down/ADV#0.0#0.0
+the person raises both arms before performing a squat#the/DET person/NOUN raise/VERB both/DET arm/NOUN before/ADP perform/VERB a/DET squat/NOUN#0.0#0.0

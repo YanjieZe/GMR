@@ -1,0 +1,3 @@
+the person is putting a golf ball#the/DET person/NOUN is/AUX put/VERB a/DET golf/NOUN ball/NOUN#0.0#0.0
+a person gets into position to putt a golf ball.#a/DET person/NOUN get/VERB into/ADP position/NOUN to/PART putt/VERB a/DET golf/NOUN ball/NOUN#0.0#0.0
+person is doing a golf put#person/NOUN is/AUX do/VERB a/DET golf/NOUN put/VERB#0.0#0.0

@@ -1,0 +1,3 @@
+person is tying a bow with his hands.#person/NOUN is/AUX tie/VERB a/DET bow/NOUN with/ADP his/DET hand/NOUN#0.0#0.0
+a person moves his wrist and ankle joints as if to warm up for some activity.#a/DET person/NOUN move/VERB his/DET wrist/NOUN and/CCONJ ankle/NOUN joint/NOUN as/SCONJ if/SCONJ to/PART warm/VERB up/ADP for/ADP some/DET activity/NOUN#0.0#0.0
+a person warms up moving their wrists.#a/DET person/NOUN warm/VERB up/ADP move/VERB their/DET wrist/NOUN#0.0#0.0

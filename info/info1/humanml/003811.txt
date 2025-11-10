@@ -1,0 +1,3 @@
+a person takes a jump rope and starts jumping rope.#a/DET person/NOUN take/VERB a/DET jump/NOUN rope/NOUN and/CCONJ start/VERB jumping/PROPN rope/NOUN#0.0#0.0
+a person begins to jump rope but loses it when he crosses the rope in front of himself, and begins again.#a/DET person/NOUN begin/VERB to/PART jump/VERB rope/NOUN but/CCONJ lose/VERB it/PRON when/ADV he/PRON cross/VERB the/DET rope/NOUN in/ADP front/NOUN of/ADP himself/PRON and/CCONJ begin/VERB again/ADV#0.0#0.0
+a man jumps up and down multiple times, stops, steps back and then resumes jumping.#a/DET man/NOUN jump/VERB up/ADV and/CCONJ down/ADP multiple/ADJ time/NOUN stop/NOUN step/VERB back/ADV and/CCONJ then/ADV resume/VERB jump/VERB#0.0#0.0

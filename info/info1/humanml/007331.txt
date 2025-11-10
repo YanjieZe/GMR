@@ -1,0 +1,3 @@
+a person takes a step to the side with their right foot, and then retracts their foot as if nervous.#a/DET person/NOUN take/VERB a/DET step/NOUN to/ADP the/DET side/NOUN with/ADP their/DET right/ADJ foot/NOUN and/CCONJ then/ADV retract/VERB their/DET foot/NOUN as/SCONJ if/SCONJ nervous/ADJ#0.0#0.0
+a person slightly moved forward and return#a/DET person/NOUN slightly/ADV move/VERB forward/ADV and/CCONJ return/VERB#0.0#0.0
+a person steps forward, then steps back, pauses, and then steps forward again.#a/DET person/NOUN step/VERB forward/ADV then/ADV step/VERB back/ADV pause/NOUN and/CCONJ then/ADV step/VERB forward/ADV again/ADV#0.0#0.0

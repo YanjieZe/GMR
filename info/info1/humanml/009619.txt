@@ -1,0 +1,3 @@
+this person is shaking his hand with his right hand.#this/DET person/NOUN is/AUX shake/VERB his/DET hand/NOUN with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+user picks up right hand and tips hand to the side#user/NOUN pick/VERB up/ADP right/ADJ hand/NOUN and/CCONJ tip/NOUN hand/NOUN to/ADP the/DET side/NOUN#0.0#0.0
+a person picks up a bottle with his right hand, shakes it, then pours it centrally#a/DET person/NOUN pick/VERB up/ADP a/DET bottle/NOUN with/ADP his/DET right/ADJ hand/NOUN shake/VERB it/PRON then/ADV pour/VERB it/PRON centrally/ADV#0.0#0.0

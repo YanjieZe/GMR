@@ -1,0 +1,3 @@
+a person clawing around like a cat.#a/DET person/NOUN claw/VERB around/ADP like/SCONJ a/DET cat/NOUN#0.0#0.0
+the person is climbing and acting like a human panther.#the/DET person/NOUN is/AUX climb/VERB and/CCONJ act/VERB like/SCONJ a/DET human/ADJ panther/NOUN#0.0#0.0
+a person does an animal impression#a/DET person/NOUN does/AUX an/DET animal/NOUN impression/NOUN#0.0#0.0

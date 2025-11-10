@@ -1,0 +1,3 @@
+a person standing on a pedestal , saluting ahead.#a/DET person/NOUN stand/VERB on/ADP a/DET pedestal/ADJ salute/VERB ahead/ADV#0.0#0.0
+a person steps forward and salutes then steps backwards.#a/DET person/NOUN step/VERB forward/ADV and/CCONJ salute/VERB then/ADV step/VERB backwards/ADV#0.0#0.0
+a person salutes while walking forward a bit.#a/DET person/NOUN salute/VERB while/SCONJ walk/VERB forward/ADV a/DET bit/NOUN#0.0#0.0

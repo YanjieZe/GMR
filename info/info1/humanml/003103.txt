@@ -1,0 +1,3 @@
+a man is doing jumping jacks.#a/DET man/NOUN is/AUX do/VERB jump/VERB jack/NOUN#0.0#0.0
+person does jumping jacks with high jumps in air.#person/NOUN does/AUX jump/VERB jack/NOUN with/ADP high/ADJ jump/NOUN in/ADP air/NOUN#0.0#0.0
+a person is raising their arms over their head as they jump, just like doing jumping jacks.#a/DET person/NOUN is/AUX raise/VERB their/DET arm/NOUN over/ADP their/DET head/NOUN as/SCONJ they/PRON jump/VERB just/ADV like/SCONJ do/VERB jump/VERB jack/NOUN#0.0#0.0

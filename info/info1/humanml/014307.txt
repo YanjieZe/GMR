@@ -1,0 +1,2 @@
+person jogs forwards while turning slightly to the right.#person/NOUN jog/VERB forwards/ADV while/SCONJ turn/VERB slightly/ADV to/ADP the/DET right/NOUN#0.0#0.0
+a person runs towards the right side.#a/DET person/NOUN run/VERB towards/ADP the/DET right/ADJ side/NOUN#0.0#0.0

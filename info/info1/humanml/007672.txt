@@ -1,0 +1,3 @@
+the person has both hands raised to his chest as if he is holding onto something.#the/DET person/NOUN has/AUX both/DET hand/NOUN raise/VERB to/ADP his/DET chest/NOUN as/SCONJ if/SCONJ he/PRON is/AUX hold/VERB onto/ADP something/PRON#0.0#0.0
+a person is blocking their face with their hands.#a/DET person/NOUN is/AUX block/VERB their/DET face/NOUN with/ADP their/DET hand/NOUN#0.0#0.0
+a person has his arms raised with elbows bent and doesn't move.#a/DET person/NOUN has/AUX his/DET arm/NOUN raise/VERB with/ADP elbow/NOUN bent/ADJ and/CCONJ does/AUX move/VERB#0.0#0.0

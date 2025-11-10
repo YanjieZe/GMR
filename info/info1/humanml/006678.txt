@@ -1,0 +1,3 @@
+the peraon is getting down to play leapfrog.#the/DET peraon/NOUN is/AUX get/VERB down/ADP to/PART play/VERB leapfrog/NOUN#0.0#0.0
+a person gets down and crawls#a/DET person/NOUN get/VERB down/ADV and/CCONJ crawl/NOUN#0.0#0.0
+a man steps forward, turns around and gets down on all fours, crawls, gets up, turns around and walks back.#a/DET man/NOUN step/VERB forward/ADV turn/VERB around/ADV and/CCONJ get/VERB down/ADV on/ADP all/DET four/NOUN crawl/NOUN get/VERB up/ADV turn/VERB around/ADV and/CCONJ walk/VERB back/ADV#0.0#0.0

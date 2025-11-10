@@ -1,0 +1,3 @@
+a man grans his left elbow.#a/DET man/NOUN gran/VERB his/DET left/ADJ elbow/NOUN#0.0#0.0
+a man standing will folds his arms.#a/DET man/NOUN stand/VERB will/VERB folds/VERB his/DET arm/NOUN#0.0#0.0
+a person is standing, crosses both arms in front and scratches left elbow#a/DET person/NOUN is/AUX stand/VERB cross/VERB both/DET arm/NOUN in/ADP front/NOUN and/CCONJ scratch/VERB left/VERB elbow/ADJ#0.0#0.0

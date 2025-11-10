@@ -1,0 +1,3 @@
+a person bend on the knee and and was looking at something#a/DET person/NOUN bend/VERB on/ADP the/DET knee/NOUN and/CCONJ and/CCONJ was/AUX look/VERB at/ADP something/PRON#0.0#0.0
+the man is looking around#the/DET man/NOUN is/AUX look/VERB around/ADV#0.0#0.0
+a person starts in a crouched position then twists to their left and right slowly while simultaniously standing up.#a/DET person/NOUN start/VERB in/ADP a/DET crouched/ADJ position/NOUN then/ADV twist/VERB to/ADP their/DET left/NOUN and/CCONJ right/ADV slowly/ADV while/SCONJ simultaniously/ADV stand/VERB up/ADP#0.0#0.0

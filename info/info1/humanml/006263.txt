@@ -1,0 +1,3 @@
+walking backwards and then sitting.#walk/VERB backwards/ADV and/CCONJ then/ADV sit/VERB#0.0#0.0
+the person sat down in the chair.#the/DET person/NOUN sit/VERB down/ADP in/ADP the/DET chair/NOUN#0.0#0.0
+stick figure rotates counter clockwise walks backwards and then sits down#stick/PROPN figure/NOUN rotate/NOUN counter/ADV clockwise/NOUN walk/VERB backwards/ADV and/CCONJ then/ADV sit/VERB down/ADP#1.0#8.0

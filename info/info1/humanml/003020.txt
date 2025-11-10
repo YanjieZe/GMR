@@ -1,0 +1,3 @@
+a man slowly sways from side to side, sightly bending his knees.#a/DET man/NOUN slowly/ADV sway/VERB from/ADP side/NOUN to/ADP side/NOUN sightly/ADV bend/VERB his/DET knee/NOUN#0.0#0.0
+a person stands still while rocking back and forth#a/DET person/NOUN stand/VERB still/ADV while/SCONJ rock/VERB back/ADV and/CCONJ forth/ADV#0.0#0.0
+a person standing in the same spot while rocking sideways.#a/DET person/NOUN stand/VERB in/ADP the/DET same/ADJ spot/NOUN while/SCONJ rock/VERB sideways/ADV#0.0#0.0

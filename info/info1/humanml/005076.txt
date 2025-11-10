@@ -1,0 +1,3 @@
+a person walks on to something, leans forwards and walks off the object.#a/DET person/NOUN walk/VERB on/ADP to/ADP something/PRON lean/NOUN forwards/ADV and/CCONJ walk/VERB off/ADP the/DET object/NOUN#0.0#0.0
+a person cautiously walks forward while looking off to his left.#a/DET person/NOUN cautiously/ADV walk/VERB forward/ADV while/SCONJ look/VERB off/ADP to/ADP his/DET left/NOUN#0.0#0.0
+a man very slowly walks forward with arms loosely at his side.#a/DET man/NOUN very/ADV slowly/ADV walk/VERB forward/ADV with/ADP arm/NOUN loosely/ADV at/ADP his/DET side/NOUN#0.0#0.0

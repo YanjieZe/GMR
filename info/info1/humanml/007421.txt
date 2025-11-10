@@ -1,0 +1,3 @@
+the person is moving both his hands around#the/DET person/NOUN is/AUX move/VERB both/DET his/DET hand/NOUN around/ADV#0.0#0.0
+a person opens their arms wide and closes them tight in front of them.#a/DET person/NOUN open/VERB their/DET arm/NOUN wide/ADJ and/CCONJ close/VERB them/PRON tight/ADV in/ADP front/NOUN of/ADP them/PRON#0.0#0.0
+the person is doing a pectoral warm up.#the/DET person/NOUN is/AUX do/VERB a/DET pectoral/ADJ warm/VERB up/ADP#0.0#0.0

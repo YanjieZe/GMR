@@ -1,0 +1,3 @@
+someone moves their shoulders and waist clockwise#someone/PRON move/VERB their/DET shoulder/NOUN and/CCONJ waist/NOUN clockwise/NOUN#0.0#0.0
+the man stands and loosly swirls his hips.#the/DET man/NOUN stand/VERB and/CCONJ loosly/ADV swirls/VERB his/DET hip/NOUN#0.0#0.0
+a person is moving his body and hips around.#a/DET person/NOUN is/AUX move/VERB his/DET body/NOUN and/CCONJ hip/NOUN around/ADV#0.0#0.0

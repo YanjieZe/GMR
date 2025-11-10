@@ -1,0 +1,3 @@
+a person holds their head in their hands and bent slightly forwards, sways from left to right.#a/DET person/NOUN hold/VERB their/DET head/NOUN in/ADP their/DET hand/NOUN and/CCONJ bend/VERB slightly/ADV forwards/ADV sway/NOUN from/ADP left/VERB to/ADP right/NOUN#0.0#0.0
+a person puts both hands to his face and makes a funny sound.#a/DET person/NOUN put/VERB both/DET hand/NOUN to/ADP his/DET face/NOUN and/CCONJ make/VERB a/DET funny/ADJ sound/NOUN#0.0#0.0
+hold head with hands and slouch down as if crying while rocking back and forth#hold/VERB head/NOUN with/ADP hand/NOUN and/CCONJ slouch/VERB down/ADP as/SCONJ if/SCONJ cry/VERB while/SCONJ rock/VERB back/ADV and/CCONJ forth/ADV#0.0#0.0

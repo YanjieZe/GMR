@@ -1,0 +1,3 @@
+person went on gground to lie down.#person/NOUN go/VERB on/ADP gground/NOUN to/PART lie/VERB down/ADV#0.0#0.0
+a person is standing then lays him/herself on the ground.#a/DET person/NOUN is/AUX stand/VERB then/ADV lay/VERB him/PRON herself/PRON on/ADP the/DET ground/NOUN#0.0#10.0
+sitting to lay down and die#sit/VERB to/PART lay/VERB down/ADP and/CCONJ die/VERB#0.0#0.0

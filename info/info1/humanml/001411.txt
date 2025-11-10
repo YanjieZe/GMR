@@ -1,0 +1,3 @@
+a person cleaning the window#a/DET person/NOUN clean/VERB the/DET window/NOUN#0.0#0.0
+a man is in motion#a/DET man/NOUN is/AUX in/ADP motion/NOUN#0.0#0.0
+person is talking to someone using gesturing#person/NOUN is/AUX talk/VERB to/ADP someone/PRON use/VERB gesture/VERB#0.0#0.0

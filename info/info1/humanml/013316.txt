@@ -1,0 +1,3 @@
+move the both the hand and after hold the legs.#move/VERB the/DET both/CCONJ the/DET hand/NOUN and/CCONJ after/ADP hold/VERB the/DET leg/NOUN#0.0#0.0
+a person starts in a squat with arms outstretched, then lowers their hands to their thighs and stands still.#a/DET person/NOUN start/VERB in/ADP a/DET squat/NOUN with/ADP arm/NOUN outstretche/VERB then/ADV lower/VERB their/DET hand/NOUN to/ADP their/DET thigh/NOUN and/CCONJ stand/VERB still/ADV#0.0#0.0
+a person quickly drops his hands to rest on his upper thighs.#a/DET person/NOUN quickly/ADV drop/VERB his/DET hand/NOUN to/PART rest/VERB on/ADP his/DET upper/ADJ thigh/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+the person is lifting the dumbbell with his right arm.#the/DET person/NOUN is/AUX lift/VERB the/DET dumbbell/NOUN with/ADP his/DET right/ADJ arm/NOUN#0.0#0.0
+a person is waving with their right hand.#a/DET person/NOUN is/AUX wave/VERB with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+waving hand near face.#wave/VERB hand/NOUN near/SCONJ face/NOUN#0.0#0.0

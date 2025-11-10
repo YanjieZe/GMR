@@ -1,0 +1,3 @@
+the man appears to hold both hands as if something were in them and rocks them back and forth.#the/DET man/NOUN appear/VERB to/PART hold/VERB both/DET hand/NOUN as/SCONJ if/SCONJ something/PRON were/AUX in/ADP them/PRON and/CCONJ rock/VERB them/PRON back/ADV and/CCONJ forth/ADV#0.0#0.0
+a person holds something valuable or fragile, while rocking it back and forth.#a/DET person/NOUN hold/VERB something/PRON valuable/ADJ or/CCONJ fragile/ADJ while/SCONJ rock/VERB it/PRON back/ADV and/CCONJ forth/ADV#0.0#0.0
+person was holding a baby.#person/NOUN was/AUX hold/VERB a/DET baby/NOUN#0.0#0.0

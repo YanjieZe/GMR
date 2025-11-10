@@ -1,0 +1,3 @@
+figure side steps to the right.#figure/NOUN side/NOUN step/NOUN to/ADP the/DET right/NOUN#0.0#0.0
+a person steps forward once#a/DET person/NOUN step/VERB forward/ADV once/ADV#0.0#0.0
+someone stand then move to the right#someone/PRON stand/VERB then/ADV move/VERB to/ADP the/DET right/NOUN#0.0#0.0

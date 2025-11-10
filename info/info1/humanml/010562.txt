@@ -1,0 +1,3 @@
+a person curls his left arm up toward his shoulder twice.#a/DET person/NOUN curl/VERB his/DET left/ADJ arm/NOUN up/ADP toward/ADP his/DET shoulder/NOUN twice/ADV#0.0#0.0
+person is raises left arm  and then raises ir again straight up#person/NOUN is/AUX raise/VERB left/VERB arm/NOUN and/CCONJ then/ADV raise/VERB ir/PROPN again/ADV straight/ADV up/ADV#0.0#0.0
+person holds left arm up and makes curling motions.#person/NOUN hold/VERB left/ADJ arm/NOUN up/ADP and/CCONJ make/VERB curling/NOUN motion/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+the person is waving and hands up.#the/DET person/NOUN is/AUX wave/VERB and/CCONJ hand/NOUN up/ADP#0.0#0.0
+steps to the side and does hops while swinging hands in little circles.#step/NOUN to/ADP the/DET side/NOUN and/CCONJ does/AUX hop/NOUN while/SCONJ swinge/VERB hand/NOUN in/ADP little/ADJ circle/NOUN#0.0#0.0
+a person jump ropes.#a/DET person/NOUN jump/NOUN rope/NOUN#0.0#0.0

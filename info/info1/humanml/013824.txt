@@ -1,0 +1,3 @@
+the person did a deep bow#the/DET person/NOUN did/AUX a/DET deep/ADJ bow/NOUN#0.0#0.0
+someone leans forward appears to be bowing#someone/PRON lean/VERB forward/ADV appear/VERB to/PART be/AUX bow/VERB#0.0#0.0
+a person leans forward from the waist.#a/DET person/NOUN lean/VERB forward/ADV from/ADP the/DET waist/NOUN#0.0#0.5

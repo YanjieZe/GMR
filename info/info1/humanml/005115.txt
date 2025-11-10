@@ -1,0 +1,3 @@
+a figure does jumping jacks#a/DET figure/NOUN does/AUX jump/VERB jack/NOUN#0.0#0.0
+the man is doing star jumps#the/DET man/NOUN is/AUX do/VERB star/NOUN jumps/PROPN#0.0#0.0
+a couch instructs students to perform jumping jacks during gym class.#a/DET couch/NOUN instruct/VERB student/NOUN to/PART perform/VERB jump/VERB jack/NOUN during/ADP gym/PROPN class/NOUN#0.0#0.0

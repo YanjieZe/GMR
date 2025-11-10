@@ -1,0 +1,3 @@
+a person stands up from being on their stomach.#a/DET person/NOUN stand/VERB up/ADP from/ADP being/AUX on/ADP their/DET stomach/NOUN#0.0#0.0
+a person is face down on the ground, pushes himself up with both arms to come into a standing position and then takes a step forward.#a/DET person/NOUN is/AUX face/NOUN down/ADP on/ADP the/DET ground/NOUN push/VERB himself/PRON up/ADP with/ADP both/DET arm/NOUN to/PART come/VERB into/ADP a/DET stand/VERB position/NOUN and/CCONJ then/ADV take/VERB a/DET step/NOUN forward/ADV#0.0#0.0
+a person getting from up from a belly to ground position#a/DET person/NOUN get/VERB from/ADP up/ADP from/ADP a/DET belly/NOUN to/PART ground/NOUN position/NOUN#0.0#0.0

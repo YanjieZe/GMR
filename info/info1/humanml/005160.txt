@@ -1,0 +1,3 @@
+a person stands still and gives basketball signals.#a/DET person/NOUN stand/VERB still/ADV and/CCONJ give/VERB basketball/NOUN signal/NOUN#0.0#0.0
+a person makes a rolling motion with his hands, then proceeds to pat something down with both hands.#a/DET person/NOUN make/VERB a/DET rolling/ADJ motion/NOUN with/ADP his/DET hand/NOUN then/ADV proceed/VERB to/ADP pat/VERB something/PRON down/ADP with/ADP both/DET hand/NOUN#0.0#0.0
+a person rolls arms around one another, stops then pats downward alternately with his hands.#a/DET person/NOUN roll/VERB arm/NOUN around/ADV one/NUM another/DET stop/NOUN then/ADV pat/VERB downward/ADV alternately/ADV with/ADP his/DET hand/NOUN#0.0#0.0

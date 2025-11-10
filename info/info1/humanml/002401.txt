@@ -1,0 +1,3 @@
+a person turns to the right and picks up an object with their right hand, lifts it towards their head, then puts it back down.#a/DET person/NOUN turn/VERB to/ADP the/DET right/NOUN and/CCONJ pick/VERB up/ADP an/DET object/NOUN with/ADP their/DET right/ADJ hand/NOUN lift/VERB it/PRON towards/ADP their/DET head/NOUN then/ADV put/VERB it/PRON back/ADV down/ADP#0.0#0.0
+a man picks up, holds to his ear, then hangs up a phone with his right hand.#a/DET man/NOUN pick/VERB up/ADP hold/VERB to/ADP his/DET ear/NOUN then/ADV hang/VERB up/ADP a/DET phone/NOUN with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+a person picks up an object and holds it.#a/DET person/NOUN pick/VERB up/ADP an/DET object/NOUN and/CCONJ hold/VERB it/PRON#0.0#0.0

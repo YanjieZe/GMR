@@ -1,0 +1,3 @@
+a person looking forward and then to the right and back again#a/DET person/NOUN look/VERB forward/ADV and/CCONJ then/ADV to/ADP the/DET right/NOUN and/CCONJ back/ADV again/ADV#0.0#0.0
+a person looks around in front of them and to their left.#a/DET person/NOUN look/VERB around/ADP in/ADP front/NOUN of/ADP them/PRON and/CCONJ to/ADP their/DET left/NOUN#0.0#0.0
+a person turns and looks to their right, then looks forwards and bows.#a/DET person/NOUN turn/VERB and/CCONJ look/VERB to/ADP their/DET right/NOUN then/ADV look/VERB forwards/ADJ and/CCONJ bow/NOUN#0.0#0.0

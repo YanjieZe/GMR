@@ -1,0 +1,3 @@
+a person does a jumping jack in place.#a/DET person/NOUN does/AUX a/DET jumping/ADJ jack/NOUN in/ADP place/NOUN#0.0#0.0
+a person doing jumping jacks.#a/DET person/NOUN do/VERB jump/VERB jack/NOUN#0.0#0.0
+a man stands on the ground and starts doing star jumps with his hands going up and back to the middle.#a/DET man/NOUN stand/VERB on/ADP the/DET ground/NOUN and/CCONJ start/NOUN do/VERB star/NOUN jump/VERB with/ADP his/DET hand/NOUN go/VERB up/ADV and/CCONJ back/ADV to/ADP the/DET middle/NOUN#0.0#0.0

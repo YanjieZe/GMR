@@ -1,0 +1,3 @@
+a person holds their arms up and turns from right to left while waving their arms#a/DET person/NOUN hold/VERB their/DET arm/NOUN up/ADP and/CCONJ turn/VERB from/ADP right/NOUN to/ADP left/ADJ while/SCONJ wave/VERB their/DET arm/NOUN#0.0#0.0
+standing sideways while loosely moving the body side to side, trying to balance.#stand/VERB sideways/ADV while/SCONJ loosely/ADV move/VERB the/DET body/NOUN side/NOUN to/PART side/VERB try/VERB to/PART balance/VERB#0.0#0.0
+person is spinning around.#person/NOUN is/AUX spin/VERB around/ADV#0.0#0.0

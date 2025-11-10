@@ -1,0 +1,3 @@
+a person puts right arm to head#a/DET person/NOUN put/VERB right/ADJ arm/NOUN to/PART head/VERB#0.0#0.0
+a person puts their right hand behind their head and bows from the torso and up#a/DET person/NOUN put/VERB their/DET right/ADJ hand/NOUN behind/ADP their/DET head/NOUN and/CCONJ bow/NOUN from/ADP the/DET torso/NOUN and/CCONJ up/ADP#0.0#0.0
+a man bows with his right hand on his head.#a/DET man/NOUN bow/VERB with/ADP his/DET right/ADJ hand/NOUN on/ADP his/DET head/NOUN#0.0#0.0

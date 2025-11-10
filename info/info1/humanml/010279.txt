@@ -1,0 +1,3 @@
+a man jumps once then walks horizontally to the side then walks back to the original position.#a/DET man/NOUN jump/VERB once/ADV then/ADV walk/VERB horizontally/ADV to/ADP the/DET side/NOUN then/ADV walk/VERB back/ADV to/ADP the/DET original/ADJ position/NOUN#0.0#0.0
+a person who jumped up and then is pushed#a/DET person/NOUN who/PRON jump/VERB up/ADP and/CCONJ then/ADV is/AUX push/VERB#0.0#0.0
+a person is standing still, gets pushed to the left, and then proceeds to walk back to his original position,#a/DET person/NOUN is/AUX stand/VERB still/ADV get/VERB push/VERB to/ADP the/DET left/NOUN and/CCONJ then/ADV proceed/VERB to/PART walk/VERB back/ADV to/ADP his/DET original/ADJ position/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person standing with both feet spread apart, lifts both arms straight out away from their sides.#a/DET person/NOUN stand/VERB with/ADP both/DET foot/NOUN spread/VERB apart/ADV lift/VERB both/DET arm/NOUN straight/ADV out/ADV away/ADV from/ADP their/DET side/NOUN#0.0#0.0
+person puts their arms out into a t-pose#person/NOUN put/VERB their/DET arm/NOUN out/ADP into/ADP a/DET tpose/NOUN#0.0#0.0
+a person lifts both arms up and puts them out to the side.#a/DET person/NOUN lift/VERB both/DET arm/NOUN up/ADV and/CCONJ put/VERB them/PRON out/ADP to/ADP the/DET side/NOUN#0.0#0.0

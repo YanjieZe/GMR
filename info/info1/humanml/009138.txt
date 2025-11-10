@@ -1,0 +1,3 @@
+the person hopped on his left foot then he hopped on his#the/DET person/NOUN hop/VERB on/ADP his/DET left/ADJ foot/NOUN then/ADV he/PRON hop/VERB on/ADP his/DET#0.0#0.0
+a person jumps stands on their left leg and jumps.#a/DET person/NOUN jump/VERB stand/VERB on/ADP their/DET left/ADJ leg/NOUN and/CCONJ jump/NOUN#0.0#0.0
+someone jumping on one leg first on the right leg then next on the left leg.#someone/PRON jump/VERB on/ADP one/NUM leg/NOUN first/ADV on/ADP the/DET right/ADJ leg/NOUN then/ADV next/ADV on/ADP the/DET left/ADJ leg/NOUN#0.0#0.0

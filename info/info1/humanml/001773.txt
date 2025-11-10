@@ -1,0 +1,3 @@
+walking straight forward towards a goal#walk/VERB straight/ADV forward/ADV towards/ADP a/DET goal/NOUN#0.0#0.0
+walks curvy then to the right#walk/VERB curvy/ADJ then/ADV to/ADP the/DET right/NOUN#0.0#0.0
+the stick figure man walks foward calmly.#the/DET stick/PROPN figure/NOUN man/NOUN walk/VERB foward/ADV calmly/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks backwards with right leg first#a/DET person/NOUN walk/VERB backwards/ADV with/ADP right/ADJ leg/NOUN first/ADV#0.0#0.0
+a person walks backwards on their toes#a/DET person/NOUN walk/VERB backwards/ADV on/ADP their/DET toe/NOUN#0.0#0.0
+the man takes 13 steps backwards.#the/DET man/NOUN take/VERB step/NOUN backwards/ADV#0.0#0.0

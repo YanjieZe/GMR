@@ -1,0 +1,3 @@
+the person is twist dancing and walking.#the/DET person/NOUN is/AUX twist/NOUN dance/VERB and/CCONJ walk/VERB#0.0#0.0
+a man jumps up and down while twisting his body back and forth, then quickly steps forwards and backwards.#a/DET man/NOUN jump/VERB up/ADV and/CCONJ down/ADV while/SCONJ twist/VERB his/DET body/NOUN back/ADV and/CCONJ forth/ADV then/ADV quickly/ADV step/VERB forwards/ADV and/CCONJ backwards/ADV#0.0#0.0
+a person does a twist dance then walks forward.#a/DET person/NOUN does/AUX a/DET twist/NOUN dance/NOUN then/ADV walk/VERB forward/ADV#0.0#0.0

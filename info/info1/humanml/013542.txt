@@ -1,0 +1,3 @@
+a person moves an object from their left to their right side.#a/DET person/NOUN move/VERB an/DET object/NOUN from/ADP their/DET left/NOUN to/ADP their/DET right/ADJ side/NOUN#0.0#0.0
+moving hands from side to side.#move/VERB hand/NOUN from/ADP side/NOUN to/ADP side/NOUN#0.0#0.0
+the person moves the box from the left to the right side#the/DET person/NOUN move/VERB the/DET box/NOUN from/ADP the/DET left/NOUN to/ADP the/DET right/ADJ side/NOUN#0.0#0.0

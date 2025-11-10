@@ -1,0 +1,3 @@
+a person takes a step forward, wipes their hand back and forth, then raises it higher.#a/DET person/NOUN take/VERB a/DET step/NOUN forward/ADV wipe/VERB their/DET hand/NOUN back/ADV and/CCONJ forth/ADV then/ADV raise/VERB it/PRON higher/ADJ#0.0#0.0
+a person steps forward, swatting something flying near him away, then steps back.#a/DET person/NOUN step/VERB forward/ADV swat/VERB something/PRON fly/VERB near/SCONJ him/PRON away/ADV then/ADV step/VERB back/ADV#0.0#0.0
+robot walk forward and then moved right hand in the horizontally and vertically and moved backwards.#robot/PROPN walk/VERB forward/ADV and/CCONJ then/ADV move/VERB right/ADJ hand/NOUN in/ADP the/DET horizontally/ADV and/CCONJ vertically/ADV and/CCONJ move/VERB backwards/ADV#0.0#0.0

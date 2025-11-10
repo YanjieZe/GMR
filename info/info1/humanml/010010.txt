@@ -1,0 +1,3 @@
+a person walks in a straight line, turns around, and walks back towards their starting postion.#a/DET person/NOUN walk/VERB in/ADP a/DET straight/ADJ line/NOUN turn/VERB around/ADV and/CCONJ walk/VERB back/ADV towards/ADP their/DET starting/NOUN postion/NOUN#0.0#0.0
+the person is walking straight in a diagonal line#the/DET person/NOUN is/AUX walk/VERB straight/ADV in/ADP a/DET diagonal/ADJ line/NOUN#0.0#0.0
+a person walks in a straight line and then back#a/DET person/NOUN walk/VERB in/ADP a/DET straight/ADJ line/NOUN and/CCONJ then/ADV back/ADV#0.0#0.0

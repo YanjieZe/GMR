@@ -1,0 +1,3 @@
+someone seems to call someone out loud#someone/PRON seem/VERB to/PART call/VERB someone/PRON out/ADP loud/ADV#0.0#0.0
+a man steps forward and shields his face with both of his hands.#a/DET man/NOUN step/VERB forward/ADV and/CCONJ shield/VERB his/DET face/NOUN with/ADP both/DET of/ADP his/DET hand/NOUN#0.0#0.0
+a person steps forward, looks around with their hands above their eyes, then steps back.#a/DET person/NOUN step/VERB forward/ADV look/VERB around/ADP with/ADP their/DET hand/NOUN above/ADP their/DET eye/NOUN then/ADV step/VERB back/ADV#0.0#0.0

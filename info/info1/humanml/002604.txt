@@ -1,0 +1,3 @@
+a person is playing tennis#a/DET person/NOUN is/AUX play/VERB tennis/NOUN#0.0#0.0
+a person walks forward and then turns around and makes a motion as if they are throwing a frisbee#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ then/ADV turn/VERB around/ADV and/CCONJ make/VERB a/DET motion/NOUN as/SCONJ if/SCONJ they/PRON are/AUX throw/VERB a/DET frisbee/NOUN#0.0#0.0
+a person walks around with arms spread out.#a/DET person/NOUN walk/VERB around/ADV with/ADP arm/NOUN spread/VERB out/ADP#0.0#0.0

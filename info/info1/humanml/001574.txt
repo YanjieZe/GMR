@@ -1,0 +1,3 @@
+a person is dancing the cha cha.#a/DET person/NOUN is/AUX dance/VERB the/DET cha/NOUN cha/NOUN#0.0#0.0
+the man dances happily in a circle.#the/DET man/NOUN dance/VERB happily/ADV in/ADP a/DET circle/NOUN#0.0#0.0
+a person dances while stepping around and wiggling their arms#a/DET person/NOUN dance/VERB while/SCONJ step/VERB around/ADV and/CCONJ wiggle/VERB their/DET arm/NOUN#0.0#0.0

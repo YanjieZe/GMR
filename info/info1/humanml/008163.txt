@@ -1,0 +1,3 @@
+a person takes a few steps forward, turns around and walks back.#a/DET person/NOUN take/VERB a/DET few/ADJ step/NOUN forward/ADV turn/VERB around/ADV and/CCONJ walk/VERB back/ADV#0.0#0.0
+a person takes 2 steps forward then turns back around.#a/DET person/NOUN take/VERB step/NOUN forward/ADV then/ADV turn/VERB back/ADV around/ADV#0.0#0.0
+a man keeps his arms stationary as his sides as he walks forward, turns clockwise, and walks back.#a/DET man/NOUN keep/VERB his/DET arm/NOUN stationary/ADJ as/SCONJ his/DET side/NOUN as/SCONJ he/PRON walk/VERB forward/ADV turn/VERB clockwise/NOUN and/CCONJ walk/VERB back/ADV#0.0#0.0

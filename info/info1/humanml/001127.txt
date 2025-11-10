@@ -1,0 +1,3 @@
+person is kicking and dribbling a soccer ball#person/NOUN is/AUX kick/VERB and/CCONJ dribble/VERB a/DET soccer/NOUN ball/NOUN#0.0#0.0
+he walks around and kicks a ball as one do while playing soccer.#he/PRON walk/VERB around/ADV and/CCONJ kick/VERB a/DET ball/NOUN as/SCONJ one/NUM do/AUX while/SCONJ play/VERB soccer/NOUN#0.0#0.0
+a man runs forward and kicks a ball before stepping back and kicking again.#a/DET man/NOUN run/VERB forward/ADV and/CCONJ kick/VERB a/DET ball/NOUN before/ADP step/VERB back/ADV and/CCONJ kick/VERB again/ADV#0.0#0.0

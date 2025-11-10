@@ -1,0 +1,3 @@
+a person walks slowly forward.#a/DET person/NOUN walk/VERB slowly/ADV forward/ADV#0.0#0.0
+the person is walking forward very stiff.#the/DET person/NOUN is/AUX walk/VERB forward/ADV very/ADV stiff/ADJ#0.0#0.0
+a person is walking forward without bending their legs.#a/DET person/NOUN is/AUX walk/VERB forward/ADV without/ADP bend/VERB their/DET leg/NOUN#0.0#0.0

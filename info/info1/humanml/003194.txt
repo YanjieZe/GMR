@@ -1,0 +1,3 @@
+a person walks downward in a semicircle to the right hand side and stands still.#a/DET person/NOUN walk/VERB downward/ADV in/ADP a/DET semicircle/NOUN to/ADP the/DET right/ADJ hand/NOUN side/NOUN and/CCONJ stand/VERB still/ADV#0.0#0.0
+a person quickly walks to the left.#a/DET person/NOUN quickly/ADV walk/VERB to/ADP the/DET left/NOUN#0.0#0.0
+a person walks forward in a counter-clockwise trajectory a quarter turn.#a/DET person/NOUN walk/VERB forward/ADV in/ADP a/DET counterclockwise/NOUN trajectory/NUM a/DET quarter/NOUN turn/NOUN#0.0#0.0

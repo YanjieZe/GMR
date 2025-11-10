@@ -1,0 +1,3 @@
+a person quickly sprints in a figure-eight pattern, stopping briefly at each side to carefully turn.#a/DET person/NOUN quickly/ADV sprint/VERB in/ADP a/DET figureeight/NOUN pattern/NOUN stop/VERB briefly/ADV at/ADP each/DET side/NOUN to/PART carefully/ADV turn/VERB#0.0#0.0
+someone is frunning back and forth in a circle and doing jogs#someone/PRON is/AUX frunne/VERB back/ADV and/CCONJ forth/ADV in/ADP a/DET circle/NOUN and/CCONJ do/VERB jog/NOUN#0.0#0.0
+a person performing short and quick runs around.#a/DET person/NOUN perform/VERB short/ADJ and/CCONJ quick/ADJ run/NOUN around/ADV#0.0#0.0

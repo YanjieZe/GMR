@@ -1,0 +1,3 @@
+a person stayed on the place#a/DET person/NOUN stay/VERB on/ADP the/DET place/NOUN#0.0#0.0
+a person  is standing there.#a/DET person/NOUN is/AUX stand/VERB there/ADV#0.0#0.0
+he is standing still but suddenly move right a little.#he/PRON is/AUX stand/VERB still/ADV but/CCONJ suddenly/ADV move/VERB right/INTJ a/DET little/ADJ#0.0#0.0

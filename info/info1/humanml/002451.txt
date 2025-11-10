@@ -1,0 +1,2 @@
+a person steps backward while shaking entire body.#a/DET person/NOUN step/VERB backward/ADV while/SCONJ shake/VERB entire/ADJ body/NOUN#0.0#0.0
+a person making a stance with right foot back for stablility.#a/DET person/NOUN make/VERB a/DET stance/NOUN with/ADP right/ADJ foot/NOUN back/ADV for/ADP stablility/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person starts to walk forward with feet wider then normal apart and then jumps.#a/DET person/NOUN start/VERB to/PART walk/VERB forward/ADV with/ADP foot/NOUN wider/ADJ then/ADV normal/ADJ apart/ADV and/CCONJ then/ADV jump/VERB#0.0#0.0
+the man walks forward then uses his legs to jump up in the air.#the/DET man/NOUN walk/VERB forward/ADV then/ADV use/VERB his/DET leg/NOUN to/PART jump/VERB up/ADP in/ADP the/DET air/NOUN#0.0#0.0
+a person slowly wlaked forward and jumped#a/DET person/NOUN slowly/ADV wlake/VERB forward/ADV and/CCONJ jump/VERB#0.0#0.0

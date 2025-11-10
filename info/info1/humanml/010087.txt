@@ -1,0 +1,3 @@
+a person strafes from side to side.#a/DET person/NOUN strafe/VERB from/ADP side/NOUN to/ADP side/NOUN#0.0#0.0
+a person uses his right leg to slide to the right and then uses his left leg to slide to the left.#a/DET person/NOUN use/VERB his/DET right/ADJ leg/NOUN to/PART slide/VERB to/ADP the/DET right/NOUN and/CCONJ then/ADV use/VERB his/DET left/ADJ leg/NOUN to/PART slide/VERB to/ADP the/DET left/NOUN#0.0#0.0
+a person step crosses to the right and then back to the left.#a/DET person/NOUN step/NOUN crosse/NOUN to/ADP the/DET right/NOUN and/CCONJ then/ADV back/ADV to/ADP the/DET left/NOUN#0.0#0.0

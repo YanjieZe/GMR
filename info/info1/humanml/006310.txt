@@ -1,0 +1,3 @@
+the person was looking at the damage to his left leg.#the/DET person/NOUN was/AUX look/VERB at/ADP the/DET damage/NOUN to/ADP his/DET left/ADJ leg/NOUN#0.0#0.0
+a man leans down and rubs both his hands on his left knee then takes 2 steps forwards and turns 180 degrees.#a/DET man/NOUN lean/VERB down/ADP and/CCONJ rub/VERB both/CCONJ his/DET hand/NOUN on/ADP his/DET left/ADJ knee/NOUN then/ADV take/VERB step/NOUN forwards/ADV and/CCONJ turn/VERB degree/NOUN#0.0#0.0
+a person hurt his left knee and is trying to walk it off.#a/DET person/NOUN hurt/VERB his/DET left/ADJ knee/NOUN and/CCONJ is/AUX try/VERB to/PART walk/VERB it/PRON off/ADP#0.0#0.0

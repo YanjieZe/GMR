@@ -1,0 +1,3 @@
+person tosses an object up and to the left, then walks backwards to the left. then, person walks forward and tosses object to the right.#person/NOUN toss/VERB an/DET object/NOUN up/ADV and/CCONJ to/ADP the/DET left/NOUN then/ADV walk/VERB backwards/ADV to/ADP the/DET left/NOUN then/ADV person/NOUN walk/VERB forward/ADV and/CCONJ toss/NOUN object/VERB to/ADP the/DET right/NOUN#0.0#0.0
+person is throwing a ball in various ways#person/NOUN is/AUX throw/VERB a/DET ball/NOUN in/ADP various/ADJ way/NOUN#0.0#0.0
+a man jumps and throws an object.#a/DET man/NOUN jump/VERB and/CCONJ throw/VERB an/DET object/NOUN#0.0#3.0

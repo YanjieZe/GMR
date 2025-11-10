@@ -1,0 +1,3 @@
+a person runs in place#a/DET person/NOUN run/VERB in/ADP place/NOUN#0.0#0.0
+a person jogs in place.#a/DET person/NOUN jog/VERB in/ADP place/NOUN#0.0#0.0
+the perwson jogs in place.#the/DET perwson/NOUN jog/VERB in/ADP place/NOUN#0.0#0.0

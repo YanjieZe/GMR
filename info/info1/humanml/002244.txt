@@ -1,0 +1,3 @@
+a person does a clockwise pirouette on their left leg.#a/DET person/NOUN does/AUX a/DET clockwise/ADJ pirouette/NOUN on/ADP their/DET left/ADJ leg/NOUN#0.0#0.0
+a person spins on one foot#a/DET person/NOUN spin/VERB on/ADP one/NUM foot/NOUN#0.0#0.0
+a man spins in place.#a/DET man/NOUN spin/VERB in/ADP place/NOUN#0.0#0.0

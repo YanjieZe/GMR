@@ -1,0 +1,3 @@
+a person is walking down a path moving slight going towards the left side.#a/DET person/NOUN is/AUX walk/VERB down/ADP a/DET path/NOUN move/VERB slight/ADJ go/VERB towards/ADP the/DET left/ADJ side/NOUN#0.0#0.0
+a person walks forward, balancing themself on their toes.#a/DET person/NOUN walk/VERB forward/ADV balance/VERB themself/PRON on/ADP their/DET toe/NOUN#0.0#0.0
+someone seems to be coming down the stairs#someone/PRON seem/VERB to/PART be/AUX come/VERB down/ADP the/DET stair/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person is cleaning a window#a/DET person/NOUN is/AUX clean/VERB a/DET window/NOUN#0.0#0.0
+a person moves their right hand in a clockwise, circular cleaning motion at face and torso height.#a/DET person/NOUN move/VERB their/DET right/ADJ hand/NOUN in/ADP a/DET clockwise/NOUN circular/ADJ cleaning/NOUN motion/NOUN at/ADP face/NOUN and/CCONJ torso/VERB height/ADV#0.0#0.0
+a person wipes an object with their right hand using a circular motion.#a/DET person/NOUN wipe/VERB an/DET object/NOUN with/ADP their/DET right/ADJ hand/NOUN use/VERB a/DET circular/ADJ motion/NOUN#0.0#0.0

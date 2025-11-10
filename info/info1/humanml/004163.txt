@@ -1,0 +1,3 @@
+he is stretching his arm then moving it#he/PRON is/AUX stretch/VERB his/DET arm/NOUN then/ADV move/VERB it/PRON#0.0#0.0
+a person has both arms spread out and starts walking in a circle.#a/DET person/NOUN has/AUX both/DET arm/NOUN spread/VERB out/ADP and/CCONJ start/VERB walk/VERB in/ADP a/DET circle/NOUN#0.0#0.0
+arms outstretched, a person moves hands toward their armpits; walks in a circle keeping knees apart and then repeats the arm motion.#arm/NOUN outstretche/VERB a/DET person/NOUN move/VERB hand/NOUN toward/ADP their/DET armpit/NOUN walk/VERB in/ADP a/DET circle/NOUN keep/VERB knee/NOUN apart/ADV and/CCONJ then/ADV repeat/VERB the/DET arm/NOUN motion/NOUN#0.0#0.0

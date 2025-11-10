@@ -1,0 +1,3 @@
+a man steps forward diagonally one step at a time.#a/DET man/NOUN step/VERB forward/ADV diagonally/ADV one/NUM step/NOUN at/ADP a/DET time/NOUN#0.0#0.0
+the person takes one giant step forward.#the/DET person/NOUN take/VERB one/NUM giant/ADJ step/NOUN forward/ADV#0.0#0.0
+person takes a long step out to thier front right side.#person/NOUN take/VERB a/DET long/ADJ step/NOUN out/SCONJ to/ADP thier/VERB front/ADJ right/ADJ side/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+character is moving back and forth using their right arm to swing about as if to play ping pong or table tennis.#character/NOUN is/AUX move/VERB back/ADV and/CCONJ forth/ADV use/VERB their/DET right/ADJ arm/NOUN to/PART swing/VERB about/ADP as/SCONJ if/SCONJ to/PART play/VERB ping/NOUN pong/NOUN or/CCONJ table/NOUN tennis/NOUN#0.0#10.0
+the person moves around and swats something with their right hand.#the/DET person/NOUN move/VERB around/ADP and/CCONJ swat/VERB something/PRON with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+the person was walking forward and then backward slightly.#the/DET person/NOUN was/AUX walk/VERB forward/ADV and/CCONJ then/ADV backward/ADV slightly/ADV#0.0#0.0

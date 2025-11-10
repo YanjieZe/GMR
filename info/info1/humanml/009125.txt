@@ -1,0 +1,3 @@
+a person claps, walks forward and then sits down.#a/DET person/NOUN clap/VERB walk/VERB forward/ADV and/CCONJ then/ADV sit/VERB down/ADP#0.0#0.0
+a person claps their hands once, then takes 3 steps foward, then sits on something to their right#a/DET person/NOUN clap/VERB their/DET hand/NOUN once/ADV then/ADV take/VERB step/NOUN foward/ADJ then/ADV sit/VERB on/ADP something/PRON to/ADP their/DET right/NOUN#0.0#0.0
+a person walks diagonally to his right and sits down.#a/DET person/NOUN walk/VERB diagonally/ADV to/ADP his/DET right/NOUN and/CCONJ sit/VERB down/ADP#0.0#0.0

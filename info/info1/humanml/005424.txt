@@ -1,0 +1,3 @@
+running from side to side.#run/VERB from/ADP side/NOUN to/ADP side/NOUN#0.0#0.0
+the person is jogging back-and-forth to the left and right.#the/DET person/NOUN is/AUX jog/VERB backandforth/PROPN to/ADP the/DET left/NOUN and/CCONJ right/INTJ#0.0#0.0
+person turns jogs quickly to the left then to the right#person/NOUN turn/VERB jogs/PROPN quickly/ADV to/ADP the/DET left/NOUN then/ADV to/ADP the/DET right/NOUN#0.0#0.0

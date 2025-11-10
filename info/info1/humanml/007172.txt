@@ -1,0 +1,3 @@
+a person holding their hands up and walking straight#a/DET person/NOUN hold/VERB their/DET hand/NOUN up/ADP and/CCONJ walk/VERB straight/ADV#0.0#0.0
+a person walking forward straight with both hands in the air and then placing them back to sides.#a/DET person/NOUN walk/VERB forward/ADV straight/ADV with/ADP both/DET hand/NOUN in/ADP the/DET air/NOUN and/CCONJ then/ADV place/VERB them/PRON back/ADV to/ADP side/NOUN#0.0#0.0
+a person walks forward, raises their arms above their head almost touching, then stops and drops arms#a/DET person/NOUN walk/VERB forward/ADV raise/VERB their/DET arm/NOUN above/ADP their/DET head/NOUN almost/ADV touching/ADJ then/ADV stop/VERB and/CCONJ drop/VERB arm/NOUN#0.0#0.0

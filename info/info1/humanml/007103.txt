@@ -1,0 +1,3 @@
+a person holds on to things on both sides while carefully walking.#a/DET person/NOUN hold/VERB on/ADP to/ADP thing/NOUN on/ADP both/DET side/NOUN while/SCONJ carefully/ADV walk/VERB#0.0#0.0
+a man uses a handrail to support himself during physical therapy.#a/DET man/NOUN use/VERB a/DET handrail/NOUN to/PART support/VERB himself/PRON during/ADP physical/ADJ therapy/NOUN#0.0#0.0
+a figure lowers its raised arms then walks slowly using walls alongside it for support#a/DET figure/NOUN lower/VERB its/DET raise/VERB arm/NOUN then/ADV walk/VERB slowly/ADV use/VERB wall/NOUN alongside/ADP it/PRON for/ADP support/NOUN#0.0#0.0

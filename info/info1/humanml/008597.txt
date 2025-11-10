@@ -1,0 +1,3 @@
+a person is washing a window#a/DET person/NOUN is/AUX wash/VERB a/DET window/NOUN#0.0#0.0
+a person moves their arm in broad strokes up and down, and then back and forth.#a/DET person/NOUN move/VERB their/DET arm/NOUN in/ADP broad/ADJ stroke/NOUN up/ADP and/CCONJ down/ADV and/CCONJ then/ADV back/ADV and/CCONJ forth/ADV#0.0#0.0
+a person is waving their right arm up and down and then side to side.#a/DET person/NOUN is/AUX wave/VERB their/DET right/ADJ arm/NOUN up/ADV and/CCONJ down/ADV and/CCONJ then/ADV side/VERB to/PART side/VERB#0.0#0.0

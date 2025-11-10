@@ -1,0 +1,3 @@
+a person squats and turns from side to side.#a/DET person/NOUN squat/VERB and/CCONJ turn/VERB from/ADP side/NOUN to/ADP side/NOUN#0.0#0.0
+a person starts in a squatting position with his left hand to his heart and his right hand touching his head, and pivots on his feet from right to left four times.#a/DET person/NOUN start/VERB in/ADP a/DET squat/VERB position/NOUN with/ADP his/DET left/ADJ hand/NOUN to/ADP his/DET heart/NOUN and/CCONJ his/DET right/ADJ hand/NOUN touch/VERB his/DET head/NOUN and/CCONJ pivot/NOUN on/ADP his/DET foot/NOUN from/ADP right/NOUN to/ADP left/VERB four/NUM time/NOUN#0.0#0.0
+someone is rocking on a swing#someone/PRON is/AUX rock/VERB on/ADP a/DET swing/NOUN#0.0#0.0

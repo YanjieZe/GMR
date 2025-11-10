@@ -1,0 +1,3 @@
+a person releases their left arm while keeping their right arm extended#a/DET person/NOUN release/VERB their/DET left/ADJ arm/NOUN while/SCONJ keep/VERB their/DET right/ADJ arm/NOUN extend/VERB#0.0#0.0
+the person is squatting with one arm down to his side.#the/DET person/NOUN is/AUX squat/VERB with/ADP one/NUM arm/NOUN down/ADP to/ADP his/DET side/NOUN#0.0#0.0
+a person raises their right arm.#a/DET person/NOUN raise/VERB their/DET right/ADJ arm/NOUN#0.0#0.0

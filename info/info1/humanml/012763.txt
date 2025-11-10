@@ -1,0 +1,3 @@
+a figure does a box step#a/DET figure/NOUN does/AUX a/DET box/NOUN step/NOUN#0.0#0.0
+a man is performing the waltz dance.#a/DET man/NOUN is/AUX perform/VERB the/DET waltz/NOUN dance/NOUN#0.0#0.0
+person is stepping in square and other motions#person/NOUN is/AUX step/VERB in/ADP square/ADJ and/CCONJ other/ADJ motion/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person is swinging a tennis racket.#a/DET person/NOUN is/AUX swinge/VERB a/DET tennis/NOUN racket/NOUN#0.0#0.0
+a person takes a wide swing with their left hand.#a/DET person/NOUN take/VERB a/DET wide/ADJ swing/NOUN with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0
+a person uses their left arm to smack someone across the face#a/DET person/NOUN use/VERB their/DET left/ADJ arm/NOUN to/PART smack/VERB someone/PRON across/ADP the/DET face/NOUN#0.0#0.0

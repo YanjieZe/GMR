@@ -1,0 +1,3 @@
+person raises both arms then right arm to shoulder above head#person/NOUN raise/VERB both/DET arm/NOUN then/ADV right/ADV arm/NOUN to/PART shoulder/VERB above/ADP head/NOUN#0.0#0.0
+person raises both hands just above shoulders, relaxes both arms back down to side then raises right arm forward and up.#person/NOUN raise/VERB both/DET hand/NOUN just/ADV above/ADP shoulder/NOUN relax/VERB both/DET arm/NOUN back/ADV down/ADV to/PART side/NOUN then/ADV raise/VERB right/ADJ arm/NOUN forward/ADV and/CCONJ up/ADV#0.0#0.0
+both hands are raised above head then brought down and then right hand is raised again.#both/DET hand/NOUN are/AUX raise/VERB above/ADP head/NOUN then/ADV bring/VERB down/ADP and/CCONJ then/ADV right/ADJ hand/NOUN is/AUX raise/VERB again/ADV#0.0#0.0

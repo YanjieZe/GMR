@@ -1,0 +1,3 @@
+walking forward while limping.#walk/VERB forward/ADV while/SCONJ limp/VERB#0.0#0.0
+the person is walking leaning to the right.#the/DET person/NOUN is/AUX walk/VERB lean/VERB to/ADP the/DET right/NOUN#0.0#0.0
+a person walks forward while leaning slightly right, then turns around and does the same thing back.#a/DET person/NOUN walk/VERB forward/ADV while/SCONJ lean/VERB slightly/ADV right/ADJ then/ADV turn/VERB around/ADV and/CCONJ does/AUX the/DET same/ADJ thing/NOUN back/ADV#0.0#0.0

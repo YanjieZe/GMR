@@ -1,0 +1,3 @@
+a man walks foward ,makes a u turn to the right side ,walks and then stops.#a/DET man/NOUN walk/VERB foward/ADJ make/VERB a/DET u/NOUN turn/NOUN to/ADP the/DET right/ADJ side/NOUN walk/VERB and/CCONJ then/ADV stop/VERB#0.0#0.0
+person walks forward then turn around to the right and walks back#person/NOUN walk/VERB forward/ADV then/ADV turn/VERB around/ADP to/ADP the/DET right/NOUN and/CCONJ walk/VERB back/ADV#0.0#0.0
+the figure walks forward a couple steps, turns right 180 degrees and then walks back to the originally starting point.#the/DET figure/NOUN walk/VERB forward/ADV a/DET couple/NOUN step/NOUN turn/VERB right/ADJ degree/NOUN and/CCONJ then/ADV walk/VERB back/ADV to/ADP the/DET originally/ADV starting/NOUN point/NOUN#0.0#0.0

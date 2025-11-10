@@ -1,0 +1,3 @@
+a person takes a few steps forward, then stops#a/DET person/NOUN take/VERB a/DET few/ADJ step/NOUN forward/ADV then/ADV stop/VERB#0.0#0.0
+he does a push recovery stand back#he/PRON does/AUX a/DET push/NOUN recovery/NOUN stand/NOUN back/ADV#0.0#0.0
+a person who is standing with his arms by his sides takes three quick steps forward.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP his/DET arm/NOUN by/ADP his/DET side/NOUN take/VERB three/NUM quick/ADJ step/NOUN forward/ADV#0.0#0.0

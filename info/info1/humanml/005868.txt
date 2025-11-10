@@ -1,0 +1,3 @@
+a person walks forward slowly trying to keep their balance.#a/DET person/NOUN walk/VERB forward/ADV slowly/ADV try/VERB to/PART keep/VERB their/DET balance/NOUN#0.0#0.0
+the man walks forward slowly in a non straight line, swinging his arms.#the/DET man/NOUN walk/VERB forward/ADV slowly/ADV in/ADP a/DET non/ADJ straight/ADJ line/NOUN swinge/VERB his/DET arm/NOUN#0.0#8.0
+a person standing with his arms to his sides takes five steps slowly forward and stops.#a/DET person/NOUN stand/VERB with/ADP his/DET arm/NOUN to/ADP his/DET side/NOUN take/VERB five/NUM step/NOUN slowly/ADV forward/ADV and/CCONJ stop/VERB#0.0#0.0

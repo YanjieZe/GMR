@@ -1,0 +1,3 @@
+a man is standing and holds his left hand out to receive or offer something.#a/DET man/NOUN is/AUX stand/VERB and/CCONJ hold/VERB his/DET left/ADJ hand/NOUN out/ADP to/PART receive/VERB or/CCONJ offer/VERB something/PRON#0.0#0.0
+a person raises lafy hand, turns it then puts it down.#a/DET person/NOUN raise/VERB lafy/PROPN hand/NOUN turn/VERB it/PRON then/ADV put/VERB it/PRON down/ADP#0.0#0.0
+a man stands and only slightly moves his left hand.#a/DET man/NOUN stand/VERB and/CCONJ only/ADV slightly/ADV move/VERB his/DET left/ADJ hand/NOUN#0.0#0.0

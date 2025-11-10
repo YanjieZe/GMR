@@ -1,0 +1,3 @@
+the person is jogging around.#the/DET person/NOUN is/AUX jog/VERB around/ADP#0.0#0.0
+a person jogs towards the right in a arc pattern, turns and then jogs back.#a/DET person/NOUN jog/VERB towards/ADP the/DET right/NOUN in/ADP a/DET arc/NOUN pattern/NOUN turn/VERB and/CCONJ then/ADV jog/VERB back/ADV#0.0#0.0
+a person runs in a large clockwise half circle and then returns to the starting point.#a/DET person/NOUN run/VERB in/ADP a/DET large/ADJ clockwise/NOUN half/NOUN circle/NOUN and/CCONJ then/ADV return/VERB to/ADP the/DET starting/NOUN point/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+some thing on the hand and like play.#some/DET thing/NOUN on/ADP the/DET hand/NOUN and/CCONJ like/SCONJ play/NOUN#0.0#0.0
+a man pushes away with his right hand, then pulls something in with both hands.#a/DET man/NOUN push/VERB away/ADP with/ADP his/DET right/ADJ hand/NOUN then/ADV pull/VERB something/PRON in/ADP with/ADP both/DET hand/NOUN#0.0#0.0
+a person raised the hands and showed jesture#a/DET person/NOUN raise/VERB the/DET hand/NOUN and/CCONJ show/VERB jesture/NOUN#0.0#0.0

@@ -1,0 +1,2 @@
+a person is walking back and fourth.#a/DET person/NOUN is/AUX walk/VERB back/ADV and/CCONJ fourth/ADV#0.0#0.0
+a person pacing back and forth, then stops in the middle.#a/DET person/NOUN pace/VERB back/ADV and/CCONJ forth/ADV then/ADV stop/VERB in/ADP the/DET middle/NOUN#0.0#0.0

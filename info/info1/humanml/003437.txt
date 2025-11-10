@@ -1,0 +1,3 @@
+a person quickly runs foward.#a/DET person/NOUN quickly/ADV run/VERB foward/ADV#0.0#0.0
+man running and stopping after#man/NOUN run/VERB and/CCONJ stop/VERB after/ADV#0.0#0.0
+person walks quickly forward for 2 strides then stops.#person/NOUN walk/VERB quickly/ADV forward/ADV for/ADP stride/NOUN then/ADV stop/VERB#0.0#0.0

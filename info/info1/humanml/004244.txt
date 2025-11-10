@@ -1,0 +1,3 @@
+a person waives his hands in the air then covers his mouth and looks down. he looks like he is laughing#a/DET person/NOUN waive/VERB his/DET hand/NOUN in/ADP the/DET air/NOUN then/ADV cover/VERB his/DET mouth/NOUN and/CCONJ look/VERB down/ADP he/PRON look/VERB like/SCONJ he/PRON is/AUX laugh/VERB#0.0#5.0
+person is swaying hands around.#person/NOUN is/AUX sway/VERB hand/NOUN around/ADV#0.0#0.0
+figure moves statically while moving arms up and down.#figure/NOUN move/NOUN statically/ADV while/SCONJ move/VERB arm/NOUN up/ADV and/CCONJ down/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a man walks straight down#a/DET man/NOUN walk/VERB straight/ADV down/ADV#0.0#0.0
+a person walks forward then stops#a/DET person/NOUN walk/VERB forward/ADV then/ADV stop/VERB#0.0#0.0
+the man paused briefly, and then began walking forward starting with his left leg.#the/DET man/NOUN pause/VERB briefly/ADV and/CCONJ then/ADV begin/VERB walk/VERB forward/ADV start/VERB with/ADP his/DET left/ADJ leg/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a man slowly limps forward while dragging his right leg with both of his hands on his knee.#a/DET man/NOUN slowly/ADV limp/VERB forward/ADV while/SCONJ drag/VERB his/DET right/ADJ leg/NOUN with/ADP both/DET of/ADP his/DET hand/NOUN on/ADP his/DET knee/NOUN#0.0#0.0
+a person walks straight while holding its right leg.#a/DET person/NOUN walk/VERB straight/ADV while/SCONJ hold/VERB its/DET right/ADJ leg/NOUN#0.0#0.0
+bending halfway and dragging the right leg while walking slowly.#bend/VERB halfway/ADV and/CCONJ drag/VERB the/DET right/ADJ leg/NOUN while/SCONJ walk/VERB slowly/ADV#0.0#0.0

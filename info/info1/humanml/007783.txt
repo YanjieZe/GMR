@@ -1,0 +1,3 @@
+bending down then outstretching arms.#bend/VERB down/ADP then/ADV outstretche/VERB arm/NOUN#0.0#0.0
+a person picks something up, waives it in the air and puts it back.#a/DET person/NOUN pick/VERB something/PRON up/ADP waive/VERB it/PRON in/ADP the/DET air/NOUN and/CCONJ put/VERB it/PRON back/ADV#0.0#0.0
+he starts washing his head#he/PRON start/VERB wash/VERB his/DET head/NOUN#0.0#0.0

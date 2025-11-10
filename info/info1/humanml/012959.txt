@@ -1,0 +1,3 @@
+a man walks forward slowly and clumsily#a/DET man/NOUN walk/VERB forward/ADV slowly/ADV and/CCONJ clumsily/ADV#0.0#0.0
+a person makes wide steps to the left and right.#a/DET person/NOUN make/VERB wide/ADJ step/NOUN to/ADP the/DET left/NOUN and/CCONJ right/INTJ#0.0#0.0
+person is stepping on stones walking forward.#person/NOUN is/AUX step/VERB on/ADP stone/NOUN walk/VERB forward/ADV#0.0#0.0

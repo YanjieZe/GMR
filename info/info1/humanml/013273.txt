@@ -1,0 +1,3 @@
+person balances on left foot, winds up their arm like a throw, then simply walks forward on two feet.#person/NOUN balance/VERB on/ADP left/ADJ foot/NOUN wind/VERB up/ADP their/DET arm/NOUN like/SCONJ a/DET throw/NOUN then/ADV simply/ADV walk/VERB forward/ADV on/ADP two/NUM foot/NOUN#0.0#0.0
+a person catches a ball, winds up and throws the ball then stops standing sideways.#a/DET person/NOUN catch/VERB a/DET ball/NOUN wind/VERB up/ADP and/CCONJ throw/VERB the/DET ball/NOUN then/ADV stop/VERB stand/VERB sideways/ADV#0.0#0.0
+a person picks up a ball and then throws it.#a/DET person/NOUN pick/VERB up/ADP a/DET ball/NOUN and/CCONJ then/ADV throw/VERB it/PRON#0.0#0.0

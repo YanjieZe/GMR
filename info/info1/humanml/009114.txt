@@ -1,0 +1,3 @@
+someone holds their right arm, turns to the left and walks away.#someone/PRON hold/VERB their/DET right/ADJ arm/NOUN turn/VERB to/ADP the/DET left/NOUN and/CCONJ walk/VERB away/ADV#0.0#0.0
+the person was walking as he held his injured arm#the/DET person/NOUN was/AUX walk/VERB as/SCONJ he/PRON hold/VERB his/DET injured/ADJ arm/NOUN#0.0#0.0
+someone is wlking around hold their right arm with their left hand.#someone/PRON is/AUX wlke/VERB around/ADP hold/VERB their/DET right/ADJ arm/NOUN with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0

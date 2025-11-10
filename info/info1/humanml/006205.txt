@@ -1,0 +1,3 @@
+the person is looking at an accident.#the/DET person/NOUN is/AUX look/VERB at/ADP an/DET accident/NOUN#0.0#0.0
+a person stayed on the place while sttreching the back#a/DET person/NOUN stay/VERB on/ADP the/DET place/NOUN while/SCONJ sttreche/VERB the/DET back/NOUN#0.0#0.0
+he accidentalyy hurts his back#he/PRON accidentalyy/PROPN hurt/VERB his/DET back/NOUN#0.0#0.0

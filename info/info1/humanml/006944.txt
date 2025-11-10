@@ -1,0 +1,3 @@
+a person moves their right hand; left, right, up and down.#a/DET person/NOUN move/VERB their/DET right/ADJ hand/NOUN left/ADJ right/INTJ up/ADV and/CCONJ down/ADV#0.0#0.0
+the person who does arms straight out and then it’s doing something with their right hand in front of their face.#the/DET person/NOUN who/PRON does/AUX arm/NOUN straight/ADV out/ADV and/CCONJ then/ADV it/PRON do/VERB something/PRON with/ADP their/DET right/ADJ hand/NOUN in/ADP front/NOUN of/ADP their/DET face/NOUN#0.0#0.0
+a man raises their right hand and gestures around.#a/DET man/NOUN raise/VERB their/DET right/ADJ hand/NOUN and/CCONJ gesture/VERB around/ADV#0.0#0.0

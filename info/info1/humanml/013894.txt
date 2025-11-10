@@ -1,0 +1,3 @@
+he stood still while clapping his hands.#he/PRON stand/VERB still/ADV while/SCONJ clap/VERB his/DET hand/NOUN#0.0#0.0
+this person stands in one place and claps.#this/DET person/NOUN stand/VERB in/ADP one/NUM place/NOUN and/CCONJ clap/NOUN#0.0#0.0
+image raises both arms and claps both left and right hands together.#image/NOUN raise/VERB both/CCONJ arm/NOUN and/CCONJ clap/NOUN both/DET left/ADJ and/CCONJ right/ADJ hand/NOUN together/ADV#nan#0.0

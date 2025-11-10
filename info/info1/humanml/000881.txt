@@ -1,0 +1,3 @@
+person dribbles an air basketball and walks forward#person/NOUN dribble/VERB an/DET air/NOUN basketball/NOUN and/CCONJ walk/VERB forward/ADV#0.0#0.0
+someone is dribbling a basketball while walking down the screen#someone/PRON is/AUX dribble/VERB a/DET basketball/NOUN while/SCONJ walk/VERB down/ADP the/DET screen/NOUN#0.0#0.0
+person is walking down.#person/NOUN is/AUX walk/VERB down/ADP#0.0#0.0

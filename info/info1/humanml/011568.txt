@@ -1,0 +1,3 @@
+a person bends to their left with their right arm above their head.#a/DET person/NOUN bend/VERB to/ADP their/DET left/NOUN with/ADP their/DET right/ADJ arm/NOUN above/ADP their/DET head/NOUN#0.0#0.0
+the person is doing a warm-up body stretch.#the/DET person/NOUN is/AUX do/VERB a/DET warmup/PROPN body/NOUN stretch/NOUN#0.0#0.0
+a person waves one arm above his head slowly#a/DET person/NOUN wave/VERB one/NUM arm/NOUN above/ADP his/DET head/NOUN slowly/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a man holds his left arm in the air and moves his right arm up and down before putting them both down.#a/DET man/NOUN hold/VERB his/DET left/ADJ arm/NOUN in/ADP the/DET air/NOUN and/CCONJ move/VERB his/DET right/ADJ arm/NOUN up/ADV and/CCONJ down/ADV before/ADP put/VERB them/PRON both/DET down/ADP#0.0#0.0
+a person is playing the guitar.#a/DET person/NOUN is/AUX play/VERB the/DET guitar/NOUN#0.0#0.0
+someone is playing a guitar#someone/PRON is/AUX play/VERB a/DET guitar/NOUN#0.0#0.0

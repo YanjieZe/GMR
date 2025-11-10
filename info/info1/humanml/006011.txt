@@ -1,0 +1,3 @@
+the person standing still looking around.#the/DET person/NOUN stand/VERB still/ADV look/VERB around/ADV#0.0#0.0
+a man turns his head right and then left.#a/DET man/NOUN turn/VERB his/DET head/NOUN right/ADV and/CCONJ then/ADV left/VERB#0.0#0.0
+a person is standing still and looking around#a/DET person/NOUN is/AUX stand/VERB still/ADV and/CCONJ look/VERB around/ADV#0.0#0.0

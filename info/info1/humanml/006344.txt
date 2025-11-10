@@ -1,0 +1,3 @@
+person walks then turns left#person/NOUN walk/VERB then/ADV turn/VERB left/VERB#0.0#0.0
+a person is walking on a left curve.#a/DET person/NOUN is/AUX walk/VERB on/ADP a/DET left/ADJ curve/NOUN#0.0#0.0
+a person walks in a narc to their left.#a/DET person/NOUN walk/VERB in/ADP a/DET narc/NOUN to/ADP their/DET left/NOUN#0.0#0.0

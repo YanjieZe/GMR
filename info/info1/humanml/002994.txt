@@ -1,0 +1,3 @@
+person leans down and spins clockwise fast twice stumbles then returns to original stance#person/NOUN lean/VERB down/ADP and/CCONJ spin/NOUN clockwise/VERB fast/ADV twice/ADJ stumble/NOUN then/ADV return/VERB to/ADP original/ADJ stance/NOUN#0.0#0.0
+a person moving in a clockwise circle#a/DET person/NOUN move/VERB in/ADP a/DET clockwise/NOUN circle/NOUN#0.0#0.0
+person standing spins in place lifting left leg#person/NOUN stand/VERB spin/NOUN in/ADP place/NOUN lift/VERB left/VERB leg/NOUN#0.0#0.0

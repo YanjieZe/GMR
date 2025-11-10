@@ -1,0 +1,3 @@
+a person is standing with slightly bent knees, then raises right arm to the side and holds for 8 seconds#a/DET person/NOUN is/AUX stand/VERB with/ADP slightly/ADV bent/ADJ knee/NOUN then/ADV raise/VERB right/ADJ arm/NOUN to/ADP the/DET side/NOUN and/CCONJ hold/VERB for/ADP second/NOUN#0.0#0.0
+a man seated lifts both hands in a "t-pose" then lowers them and then stretches out his right arm.#a/DET man/NOUN seat/VERB lift/NOUN both/DET hand/NOUN in/ADP a/DET tpose/NOUN then/ADV lower/VERB them/PRON and/CCONJ then/ADV stretch/VERB out/ADP his/DET right/ADJ arm/NOUN#0.0#0.0
+a person raises their right arm out straight.#a/DET person/NOUN raise/VERB their/DET right/ADJ arm/NOUN out/ADP straight/ADV#0.0#0.0

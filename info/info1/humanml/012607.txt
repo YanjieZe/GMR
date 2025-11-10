@@ -1,0 +1,3 @@
+a person bounces right hand in front of body, then throws something with both arms.#a/DET person/NOUN bounce/VERB right/ADJ hand/NOUN in/ADP front/NOUN of/ADP body/NOUN then/ADV throw/VERB something/PRON with/ADP both/DET arm/NOUN#0.0#0.0
+a person takes two steps backwards and pats something like a ball in his hands.#a/DET person/NOUN take/VERB two/NUM step/NOUN backwards/ADV and/CCONJ pat/VERB something/PRON like/SCONJ a/DET ball/NOUN in/ADP his/DET hand/NOUN#0.0#2.0
+person appears to bounce something tosses it in the air then hits it with left hand.#person/NOUN appear/VERB to/PART bounce/VERB something/PRON toss/NOUN it/PRON in/ADP the/DET air/NOUN then/ADV hit/VERB it/PRON with/ADP left/ADJ hand/NOUN#0.0#0.0

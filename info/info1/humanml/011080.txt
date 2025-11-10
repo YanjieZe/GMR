@@ -1,0 +1,3 @@
+a person with arms up wipes somethings.#a/DET person/NOUN with/ADP arm/NOUN up/ADP wipe/NOUN something/NOUN#0.0#0.0
+the person was wiping off something.#the/DET person/NOUN was/AUX wipe/VERB off/ADP something/PRON#0.0#0.0
+the man moves his hands and moves forward#the/DET man/NOUN move/VERB his/DET hand/NOUN and/CCONJ move/NOUN forward/ADV#0.0#0.0

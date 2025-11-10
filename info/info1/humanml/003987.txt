@@ -1,0 +1,3 @@
+a person moves side to side while stretching their thigh muscle#a/DET person/NOUN move/VERB side/NOUN to/PART side/VERB while/SCONJ stretch/VERB their/DET thigh/NOUN muscle/NOUN#0.0#0.0
+a person shift from side to side with arms lifted in a odd circular form.#a/DET person/NOUN shift/NOUN from/ADP side/NOUN to/PART side/VERB with/ADP arm/NOUN lift/VERB in/ADP a/DET odd/ADJ circular/ADJ form/NOUN#0.0#0.0
+a person rocking back and forth from left foot to right foot bending their leg at the knee#a/DET person/NOUN rock/VERB back/ADV and/CCONJ forth/ADV from/ADP left/ADJ foot/NOUN to/ADP right/ADJ foot/NOUN bend/VERB their/DET leg/NOUN at/ADP the/DET knee/NOUN#0.0#0.0

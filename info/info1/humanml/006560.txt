@@ -1,0 +1,3 @@
+a person runs quickly in a figure eight to the left.#a/DET person/NOUN run/VERB quickly/ADV in/ADP a/DET figure/NOUN eight/NUM to/ADP the/DET left/NOUN#0.0#0.0
+a person raises both arms slightly, and moves quickly.#a/DET person/NOUN raise/VERB both/DET arm/NOUN slightly/ADV and/CCONJ move/NOUN quickly/ADV#0.0#0.0
+a person runs around the room.#a/DET person/NOUN run/VERB around/ADP the/DET room/NOUN#0.0#0.0

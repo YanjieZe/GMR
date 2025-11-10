@@ -1,0 +1,2 @@
+a  person doing a limping walk, taking proper step with the right foot and limping with the left#a/DET person/NOUN do/VERB a/DET limping/NOUN walk/NOUN take/VERB proper/ADJ step/NOUN with/ADP the/DET right/ADJ foot/NOUN and/CCONJ limping/NOUN with/ADP the/DET left/NOUN#0.0#0.0
+somebody is drawing a line in the sand#somebody/PRON is/AUX draw/VERB a/DET line/NOUN in/ADP the/DET sand/NOUN#0.0#0.0

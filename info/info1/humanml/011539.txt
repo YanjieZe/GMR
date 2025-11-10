@@ -1,0 +1,3 @@
+rotating arm forewards, then backwards#rotate/VERB arm/NOUN foreward/NOUN then/ADV backwards/ADV#0.0#0.0
+the person is doing the left arm windmills#the/DET person/NOUN is/AUX do/VERB the/DET left/ADJ arm/NOUN windmill/NOUN#0.0#0.0
+a person quickly winds their left arm forward, then quickly backwards, then places both hands on the hips.#a/DET person/NOUN quickly/ADV wind/VERB their/DET left/ADJ arm/NOUN forward/ADV then/ADV quickly/ADV backwards/ADV then/ADV place/VERB both/DET hand/NOUN on/ADP the/DET hip/NOUN#0.0#0.0

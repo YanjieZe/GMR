@@ -1,0 +1,3 @@
+a person raises his right hand above his head.#a/DET person/NOUN raise/VERB his/DET right/ADJ hand/NOUN above/ADP his/DET head/NOUN#0.0#0.0
+a person moves their right elbow up and down.#a/DET person/NOUN move/VERB their/DET right/ADJ elbow/NOUN up/ADP and/CCONJ down/ADV#0.0#0.0
+he does drink cup right hand#he/PRON does/AUX drink/VERB cup/NOUN right/ADJ hand/NOUN#0.0#0.0

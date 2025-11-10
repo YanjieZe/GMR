@@ -1,0 +1,3 @@
+the man moves to the side#the/DET man/NOUN move/VERB to/ADP the/DET side/NOUN#0.0#0.0
+someone stumbles back toward the left, then walks right again and faces forward.#someone/PRON stumble/VERB back/ADV toward/ADP the/DET left/NOUN then/ADV walk/VERB right/ADV again/ADV and/CCONJ face/VERB forward/ADV#0.0#0.0
+a person standing upright suddenly staggers a step to the right as if pushed, then steadies themself.#a/DET person/NOUN stand/VERB upright/ADV suddenly/ADV stagger/NOUN a/DET step/NOUN to/ADP the/DET right/NOUN as/SCONJ if/SCONJ push/VERB then/ADV steady/VERB themself/PRON#0.0#0.0

@@ -1,0 +1,3 @@
+a person checking for the time on his watch.#a/DET person/NOUN check/VERB for/ADP the/DET time/NOUN on/ADP his/DET watch/NOUN#0.0#0.0
+a standing person moves their left arm horizontally in front of their chest and then drops the arm back to their side.#a/DET stand/VERB person/NOUN move/VERB their/DET left/ADJ arm/NOUN horizontally/ADV in/ADP front/NOUN of/ADP their/DET chest/NOUN and/CCONJ then/ADV drop/VERB the/DET arm/NOUN back/ADV to/ADP their/DET side/NOUN#0.0#0.0
+a person is standing, raising one arm to chest level, looking at the wrist, then placing the arm back down.#a/DET person/NOUN is/AUX stand/VERB raise/VERB one/NUM arm/NOUN to/ADP chest/NOUN level/NOUN look/VERB at/ADP the/DET wrist/NOUN then/ADV place/VERB the/DET arm/NOUN back/ADV down/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks slowly while looking side to side.#a/DET person/NOUN walk/VERB slowly/ADV while/SCONJ look/VERB side/NOUN to/ADP side/VERB#0.0#0.0
+he does a traffic walk#he/PRON does/AUX a/DET traffic/NOUN walk/NOUN#0.0#0.0
+a person walks then turns around.#a/DET person/NOUN walk/VERB then/ADV turn/VERB around/ADV#0.0#0.0

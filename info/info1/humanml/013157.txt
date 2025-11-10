@@ -1,0 +1,3 @@
+a person walks slowly towards the right while slowly raising a hand and then walking backwards.#a/DET person/NOUN walk/VERB slowly/ADV towards/ADP the/DET right/ADJ while/SCONJ slowly/ADV raise/VERB a/DET hand/NOUN and/CCONJ then/ADV walk/VERB backwards/ADV#0.0#0.0
+a person slowly walk forward, stops, and makes a gesture with their right hand implying "never mind"#a/DET person/NOUN slowly/ADV walk/VERB forward/ADV stop/VERB and/CCONJ make/VERB a/DET gesture/NOUN with/ADP their/DET right/ADJ hand/NOUN imply/VERB never/ADV mind/VERB#0.0#0.0
+person walks forward and raises right hand.#person/NOUN walk/VERB forward/ADV and/CCONJ raise/VERB right/ADJ hand/NOUN#0.0#0.0

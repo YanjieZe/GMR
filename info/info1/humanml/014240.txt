@@ -1,0 +1,3 @@
+the person is filing their fingernails.#the/DET person/NOUN is/AUX file/VERB their/DET fingernail/NOUN#0.0#0.0
+a person puts his hands together.#a/DET person/NOUN put/VERB his/DET hand/NOUN together/ADV#0.0#0.0
+a person holds his arms bent with his hands near his sternum and fidgets with his hands, then puts his left foot forward, bends down and kneels his right leg on the ground.#a/DET person/NOUN hold/VERB his/DET arm/NOUN bent/NOUN with/ADP his/DET hand/NOUN near/SCONJ his/DET sternum/NOUN and/CCONJ fidget/NOUN with/ADP his/DET hand/NOUN then/ADV put/VERB his/DET left/ADJ foot/NOUN forward/ADV bend/VERB down/ADP and/CCONJ kneel/VERB his/DET right/ADJ leg/NOUN on/ADP the/DET ground/NOUN#0.0#0.0

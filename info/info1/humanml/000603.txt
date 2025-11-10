@@ -1,0 +1,3 @@
+a person flaps his arms like a bird.#a/DET person/NOUN flap/VERB his/DET arm/NOUN like/SCONJ a/DET bird/NOUN#0.0#0.0
+a person emulates a chicken flapping its wings.#a/DET person/NOUN emulate/VERB a/DET chicken/NOUN flap/VERB its/DET wing/NOUN#0.0#0.0
+a person walks from side to side then backwards and forewards while flapping both arms like a chicken.#a/DET person/NOUN walk/VERB from/ADP side/NOUN to/PART side/VERB then/ADV backwards/ADV and/CCONJ foreward/NOUN while/SCONJ flap/VERB both/DET arm/NOUN like/SCONJ a/DET chicken/NOUN#0.0#0.0

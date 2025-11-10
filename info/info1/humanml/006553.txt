@@ -1,0 +1,3 @@
+aman runs at a right angle curve, doubles back, and then walks forward.#aman/NOUN run/VERB at/ADP a/DET right/ADJ angle/NOUN curve/NOUN double/VERB back/ADV and/CCONJ then/ADV walk/VERB forward/ADV#0.0#0.0
+the person jogs in a half a circle#the/DET person/NOUN jog/VERB in/ADP a/DET half/DET a/DET circle/NOUN#0.0#0.0
+the man runs half a circle turns and runs back then take a few steps.#the/DET man/NOUN run/VERB half/DET a/DET circle/NOUN turn/VERB and/CCONJ run/VERB back/ADV then/ADV take/VERB a/DET few/ADJ step/NOUN#0.0#0.0

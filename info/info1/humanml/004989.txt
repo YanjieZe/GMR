@@ -1,0 +1,2 @@
+walks in a wide counterclockwise bend then cuts a sharp right before completing a circle.#walk/VERB in/ADP a/DET wide/ADJ counterclockwise/NOUN bend/NOUN then/ADV cut/VERB a/DET sharp/ADJ right/NOUN before/ADP complete/VERB a/DET circle/NOUN#0.0#0.0
+the person was walking around and he took 11 steps.#the/DET person/NOUN was/AUX walk/VERB around/ADV and/CCONJ he/PRON take/VERB step/NOUN#0.0#0.0

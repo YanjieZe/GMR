@@ -1,0 +1,2 @@
+someone walks forward and places their left hand on a surface, leaning for support.#someone/PRON walk/VERB forward/ADV and/CCONJ place/VERB their/DET left/ADJ hand/NOUN on/ADP a/DET surface/NOUN lean/VERB for/ADP support/NOUN#0.0#0.0
+a person walks to his left and uses a table to support himself with his left hand.#a/DET person/NOUN walk/VERB to/ADP his/DET left/NOUN and/CCONJ use/VERB a/DET table/NOUN to/PART support/VERB himself/PRON with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0

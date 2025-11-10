@@ -1,0 +1,3 @@
+the man is doing starjumps#the/DET man/NOUN is/AUX do/VERB starjump/NOUN#0.0#0.0
+a man is doing jumping jacks before stopping and running in place.#a/DET man/NOUN is/AUX do/VERB jump/VERB jack/NOUN before/ADP stop/VERB and/CCONJ run/VERB in/ADP place/NOUN#0.0#0.0
+a person does three jumping jacks, then runs in place four times.#a/DET person/NOUN does/AUX three/NUM jump/VERB jack/NOUN then/ADV run/VERB in/ADP place/NOUN four/NUM time/NOUN#0.0#10.0

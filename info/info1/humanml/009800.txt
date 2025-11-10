@@ -1,0 +1,3 @@
+the person is walking up steps.#the/DET person/NOUN is/AUX walk/VERB up/ADP step/NOUN#0.0#0.0
+a person begins taking steps moving upwards, similar to walking up steps.#a/DET person/NOUN begin/VERB take/VERB step/NOUN move/VERB upwards/ADV similar/ADJ to/ADP walk/VERB up/ADP step/NOUN#0.0#6.0
+a person walks up four somewhat-steep steps.#a/DET person/NOUN walk/VERB up/ADV four/NUM somewhatsteep/ADJ step/NOUN#0.0#0.0

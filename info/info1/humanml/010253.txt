@@ -1,0 +1,3 @@
+a person does a short sprint and stops and then starts sprinting again#a/DET person/NOUN does/AUX a/DET short/ADJ sprint/NOUN and/CCONJ stop/NOUN and/CCONJ then/ADV start/VERB sprint/VERB again/ADV#0.0#0.0
+a man quickly runs forward, stops briefly then runs again.#a/DET man/NOUN quickly/ADV run/VERB forward/ADV stop/VERB briefly/ADV then/ADV run/VERB again/ADV#0.0#0.0
+a person pauses while running.#a/DET person/NOUN pause/VERB while/SCONJ run/VERB#0.0#0.0

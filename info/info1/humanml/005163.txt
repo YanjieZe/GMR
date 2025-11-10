@@ -1,0 +1,3 @@
+a person is strolling around#a/DET person/NOUN is/AUX stroll/VERB around/ADV#0.0#0.0
+man walk in opposite direction and turns around.#man/NOUN walk/VERB in/ADP opposite/ADJ direction/NOUN and/CCONJ turn/VERB around/ADV#0.0#0.0
+a person walks away diagonally to his right and then turns around.#a/DET person/NOUN walk/VERB away/ADV diagonally/ADV to/ADP his/DET right/NOUN and/CCONJ then/ADV turn/VERB around/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks forward as their right hand guides them#a/DET person/NOUN walk/VERB forward/ADV as/SCONJ their/DET right/ADJ hand/NOUN guide/VERB them/PRON#0.0#0.0
+a person does a dribbling motion with their right hand while walking forward on a diagonal#a/DET person/NOUN does/AUX a/DET dribbling/ADJ motion/NOUN with/ADP their/DET right/ADJ hand/NOUN while/SCONJ walk/VERB forward/ADV on/ADP a/DET diagonal/ADJ#0.0#0.0
+a person walks forward while making a dribbling motion with their right arm.#a/DET person/NOUN walk/VERB forward/ADV while/SCONJ make/VERB a/DET dribbling/ADJ motion/NOUN with/ADP their/DET right/ADJ arm/NOUN#0.0#0.0

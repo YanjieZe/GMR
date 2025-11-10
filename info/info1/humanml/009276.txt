@@ -1,0 +1,3 @@
+the person bend over and pick some thing up.#the/DET person/NOUN bend/VERB over/ADP and/CCONJ pick/VERB some/DET thing/NOUN up/ADP#0.0#0.0
+a peraon bends over, using the right leg to bear weight while kicking back his left leg, and picks something up with his right hand.#a/DET peraon/ADJ bend/NOUN over/ADP use/VERB the/DET right/ADJ leg/NOUN to/PART bear/VERB weight/NOUN while/SCONJ kick/VERB back/ADV his/DET left/ADJ leg/NOUN and/CCONJ pick/VERB something/PRON up/ADP with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+a person picks up something with their right hand.#a/DET person/NOUN pick/VERB up/ADP something/PRON with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0

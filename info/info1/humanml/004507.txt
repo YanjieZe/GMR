@@ -1,0 +1,3 @@
+the man is washing a dog, holding him with his left hand.#the/DET man/NOUN is/AUX wash/VERB a/DET dog/NOUN hold/VERB him/PRON with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0
+person is rubbing something while holding it.#person/NOUN is/AUX rub/VERB something/PRON while/SCONJ hold/VERB it/PRON#0.0#0.0
+a person is bent down wiping something with their right arm and holding it with their left arm.#a/DET person/NOUN is/AUX bent/ADJ down/ADP wipe/VERB something/PRON with/ADP their/DET right/ADJ arm/NOUN and/CCONJ hold/VERB it/PRON with/ADP their/DET left/ADJ arm/NOUN#0.0#0.0

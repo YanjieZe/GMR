@@ -1,0 +1,3 @@
+a person takes side steps to the right, then to the left, then back to the starting position.#a/DET person/NOUN take/VERB side/ADJ step/NOUN to/ADP the/DET right/NOUN then/ADV to/ADP the/DET left/NOUN then/ADV back/ADV to/ADP the/DET starting/NOUN position/NOUN#0.0#0.0
+a person takes large steps to his right and left.#a/DET person/NOUN take/VERB large/ADJ step/NOUN to/ADP his/DET right/NOUN and/CCONJ left/VERB#0.0#0.0
+a person sidesteps to the left across the room, then to the right and then walks normally back to center of room.#a/DET person/NOUN sidestep/VERB to/ADP the/DET left/NOUN across/ADP the/DET room/NOUN then/ADV to/ADP the/DET right/NOUN and/CCONJ then/ADV walk/VERB normally/ADV back/ADV to/ADP center/NOUN of/ADP room/NOUN#0.0#0.0

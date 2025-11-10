@@ -1,0 +1,3 @@
+the person is walking towards the right.#the/DET person/NOUN is/AUX walk/VERB towards/ADP the/DET right/NOUN#0.0#0.0
+a person marches forward, about faces, and then marches back the way they came.#a/DET person/NOUN march/VERB forward/ADV about/ADP face/NOUN and/CCONJ then/ADV march/VERB back/ADP the/DET way/NOUN they/PRON come/VERB#0.0#0.0
+the person walk to two steps forward and turn around then walk two steps forward again. walk in a u shape.#the/DET person/NOUN walk/VERB to/ADP two/NUM step/NOUN forward/ADV and/CCONJ turn/VERB around/ADP then/ADV walk/VERB two/NUM step/NOUN forward/ADV again/ADV walk/VERB in/ADP a/DET u/PROPN shape/NOUN#0.0#0.0

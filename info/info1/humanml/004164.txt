@@ -1,0 +1,3 @@
+a person stretches their arms to both sides and then walks forward.#a/DET person/NOUN stretch/VERB their/DET arm/NOUN to/ADP both/DET side/NOUN and/CCONJ then/ADV walk/VERB forward/ADV#0.0#0.0
+a person casually takes 3 steps forwards and then goes into a sumo squat .#a/DET person/NOUN casually/ADV take/VERB step/NOUN forwards/ADV and/CCONJ then/ADV go/VERB into/ADP a/DET sumo/NOUN squat/NOUN#0.0#0.0
+a person walks forward and sits on something.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ sit/VERB on/ADP something/PRON#0.0#0.0

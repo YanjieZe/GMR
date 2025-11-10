@@ -1,0 +1,3 @@
+the person is standing with his hands on his side.#the/DET person/NOUN is/AUX stand/VERB with/ADP his/DET hand/NOUN on/ADP his/DET side/NOUN#0.0#0.0
+the man is moving his arms slowly#the/DET man/NOUN is/AUX move/VERB his/DET arm/NOUN slowly/ADV#0.0#0.0
+a person moves arms slightly in place.#a/DET person/NOUN move/VERB arm/NOUN slightly/ADV in/ADP place/NOUN#0.0#0.0

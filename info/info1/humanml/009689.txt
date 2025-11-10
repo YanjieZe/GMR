@@ -1,0 +1,3 @@
+a person walks forwards, sits.#a/DET person/NOUN walk/VERB forwards/ADV sit/NOUN#0.0#0.0
+a person drops his arms, claps his hands together, then walks four steps to his right and sits down.#a/DET person/NOUN drop/VERB his/DET arm/NOUN clap/VERB his/DET hand/NOUN together/ADV then/ADV walk/VERB four/NUM step/NOUN to/ADP his/DET right/NOUN and/CCONJ sit/VERB down/ADP#0.0#0.0
+the person stretched his arms out to the side then brought them together and clapped his hands.#the/DET person/NOUN stretch/VERB his/DET arm/NOUN out/SCONJ to/ADP the/DET side/NOUN then/ADV bring/VERB them/PRON together/ADV and/CCONJ clap/VERB his/DET hand/NOUN#0.0#0.0

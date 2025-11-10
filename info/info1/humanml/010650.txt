@@ -1,0 +1,3 @@
+a person sitting down, with their arms slightly elevated.#a/DET person/NOUN sit/VERB down/ADP with/ADP their/DET arm/NOUN slightly/ADV elevate/VERB#0.0#0.0
+a person is crouched very low to the ground, and he has his elbows bent as he moves them up and down slightly as though working a steering wheel.#a/DET person/NOUN is/AUX crouch/VERB very/ADV low/ADV to/ADP the/DET ground/NOUN and/CCONJ he/PRON has/AUX his/DET elbow/NOUN bent/ADJ as/SCONJ he/PRON move/VERB them/PRON up/ADP and/CCONJ down/ADV slightly/ADV as/SCONJ though/SCONJ work/VERB a/DET steering/NOUN wheel/NOUN#0.0#0.0
+person is driving down the road and seems to take a left turn.#person/NOUN is/AUX drive/VERB down/ADP the/DET road/NOUN and/CCONJ seem/VERB to/PART take/VERB a/DET left/ADJ turn/NOUN#0.0#0.0

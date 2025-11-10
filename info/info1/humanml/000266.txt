@@ -1,0 +1,3 @@
+a person walks quickly and intentionally in a zig-zag pattern forward.#a/DET person/NOUN walk/VERB quickly/ADV and/CCONJ intentionally/ADV in/ADP a/DET zigzag/PROPN pattern/NOUN forward/ADV#0.0#0.0
+someones walks forward in a side to side pattern.#someone/NOUN walk/VERB forward/ADV in/ADP a/DET side/NOUN to/PART side/NOUN pattern/NOUN#0.0#0.0
+walking from left to right to left then back to right#walk/VERB from/ADP left/VERB to/ADP right/NOUN to/PART left/VERB then/ADV back/ADV to/ADP right/ADJ#0.0#0.0

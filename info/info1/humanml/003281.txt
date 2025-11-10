@@ -1,0 +1,3 @@
+a person explaining or asking something and then raising hand near face curiously.#a/DET person/NOUN explain/VERB or/CCONJ ask/VERB something/PRON and/CCONJ then/ADV raise/VERB hand/NOUN near/SCONJ face/NOUN curiously/ADV#0.0#0.0
+the person is drinking.#the/DET person/NOUN is/AUX drink/VERB#0.0#0.0
+he does a gesture directally#he/PRON does/AUX a/DET gesture/NOUN directally/ADV#0.0#0.0

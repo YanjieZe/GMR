@@ -1,0 +1,3 @@
+a person steps back and uses arms to lower themselves into a seat, then stands back up and takes a step forward#a/DET person/NOUN step/VERB back/ADV and/CCONJ use/VERB arm/NOUN to/PART lower/VERB themselves/PRON into/ADP a/DET seat/NOUN then/ADV stand/VERB back/ADV up/ADV and/CCONJ take/VERB a/DET step/NOUN forward/ADV#0.0#0.0
+a person shuffles backwards and then sits down.#a/DET person/NOUN shuffle/VERB backwards/ADV and/CCONJ then/ADV sit/VERB down/ADP#0.0#0.0
+a person walks backwards to the right and sits down the gets back up.#a/DET person/NOUN walk/VERB backwards/ADV to/ADP the/DET right/NOUN and/CCONJ sit/VERB down/ADP the/DET get/NOUN back/ADV up/ADV#0.0#0.0

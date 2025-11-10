@@ -1,0 +1,3 @@
+a man runs across a room to the opposite end.#a/DET man/NOUN run/VERB across/ADP a/DET room/NOUN to/ADP the/DET opposite/ADJ end/NOUN#0.0#0.0
+a man runs forward with his arms curved at his side.#a/DET man/NOUN run/VERB forward/ADV with/ADP his/DET arm/NOUN curve/VERB at/ADP his/DET side/NOUN#0.0#0.0
+the sim runs briefly before slowing down into a crouch.#the/DET sim/PROPN run/VERB briefly/ADV before/ADP slow/VERB down/ADP into/ADP a/DET crouch/NOUN#0.0#0.0

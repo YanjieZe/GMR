@@ -1,0 +1,3 @@
+a man energetically hops and shuffles his legs as he keeps his arms bent defensively in front of him, turning to his right and moving forward and back.#a/DET man/NOUN energetically/ADV hop/VERB and/CCONJ shuffle/VERB his/DET leg/NOUN as/SCONJ he/PRON keep/VERB his/DET arm/NOUN bent/ADJ defensively/ADV in/ADP front/NOUN of/ADP him/PRON turn/VERB to/ADP his/DET right/NOUN and/CCONJ move/VERB forward/ADV and/CCONJ back/ADV#0.0#0.0
+a figure stands in a boxing stance, hopping around#a/DET figure/NOUN stand/VERB in/ADP a/DET boxing/NOUN stance/NOUN hop/VERB around/ADV#0.0#0.0
+person is in a boxing stance#person/NOUN is/AUX in/ADP a/DET boxing/NOUN stance/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person hops to the right two times then hops to the left.#a/DET person/NOUN hop/VERB to/ADP the/DET right/ADJ two/NUM time/NOUN then/ADV hop/VERB to/ADP the/DET left/NOUN#0.0#0.0
+a person who first performed a 90 degree clockwise jumping spin the a 180 degree spin and then a 360 spin#a/DET person/NOUN who/PRON first/ADV perform/VERB a/DET degree/NOUN clockwise/NOUN jumping/NOUN spin/NOUN the/DET a/DET degree/NOUN spin/NOUN and/CCONJ then/ADV a/DET spin/NOUN#0.0#0.0
+the person is jumping in a circle while turning their body.#the/DET person/NOUN is/AUX jump/VERB in/ADP a/DET circle/NOUN while/SCONJ turn/VERB their/DET body/NOUN#0.0#0.0

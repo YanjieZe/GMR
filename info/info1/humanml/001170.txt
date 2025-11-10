@@ -1,0 +1,3 @@
+a person is lifting a dumbbell with their right arm.#a/DET person/NOUN is/AUX lift/VERB a/DET dumbbell/NOUN with/ADP their/DET right/ADJ arm/NOUN#0.0#0.0
+person lifting imaginary dumbbell with their right hand.#person/NOUN lift/VERB imaginary/ADJ dumbbell/PROPN with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+a person lifts their right arm up then down.#a/DET person/NOUN lift/VERB their/DET right/ADJ arm/NOUN up/ADP then/ADV down/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+the person was walking forward normally.#the/DET person/NOUN was/AUX walk/VERB forward/ADV normally/ADV#0.0#0.0
+person appears to walk forward steadily.#person/NOUN appear/VERB to/PART walk/VERB forward/ADV steadily/ADV#0.0#0.0
+a person is walking in a stationary position, most likely on a treadmill.#a/DET person/NOUN is/AUX walk/VERB in/ADP a/DET stationary/ADJ position/NOUN most/ADV likely/ADV on/ADP a/DET treadmill/NOUN#0.0#0.0

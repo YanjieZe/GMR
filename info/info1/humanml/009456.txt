@@ -1,0 +1,3 @@
+a person hitting of a high surface#a/DET person/NOUN hit/VERB of/ADP a/DET high/ADJ surface/NOUN#0.0#0.0
+a person reaches above his head and alternatively bangs on something with both hands.#a/DET person/NOUN reach/VERB above/ADP his/DET head/NOUN and/CCONJ alternatively/ADV bang/VERB on/ADP something/PRON with/ADP both/DET hand/NOUN#0.0#0.0
+a person reaches for something with both hands and bangs on it.#a/DET person/NOUN reach/VERB for/ADP something/PRON with/ADP both/DET hand/NOUN and/CCONJ bang/NOUN on/ADP it/PRON#0.0#0.0

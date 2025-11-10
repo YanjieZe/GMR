@@ -1,0 +1,3 @@
+a person side-steps to the right, then to the left, then back to center.#a/DET person/NOUN sidestep/VERB to/ADP the/DET right/NOUN then/ADV to/ADP the/DET left/NOUN then/ADV back/ADV to/ADP center/NOUN#0.0#0.0
+a man takes side steps to the right, then side steps to the left, and finally side steps to the right, to return to the center.#a/DET man/NOUN take/VERB side/ADJ step/NOUN to/ADP the/DET right/NOUN then/ADV side/NOUN step/NOUN to/ADP the/DET left/NOUN and/CCONJ finally/ADV side/VERB step/NOUN to/ADP the/DET right/NOUN to/PART return/VERB to/ADP the/DET center/NOUN#0.0#0.0
+a person slowly moved in right and left direction#a/DET person/NOUN slowly/ADV move/VERB in/ADV right/NOUN and/CCONJ left/ADJ direction/NOUN#0.0#0.0

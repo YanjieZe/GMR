@@ -1,0 +1,3 @@
+a person stirs something with their left hand#a/DET person/NOUN stir/VERB something/PRON with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0
+figure waves hand in front of themselves.#figure/NOUN wave/NOUN hand/VERB in/ADP front/NOUN of/ADP themselves/PRON#0.0#0.0
+a person berings their left arm forward and swipes right to left#a/DET person/NOUN bering/VERB their/DET left/ADJ arm/NOUN forward/ADV and/CCONJ swipe/VERB right/ADJ to/ADP left/ADV#0.0#0.0

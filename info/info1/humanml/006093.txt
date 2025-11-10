@@ -1,0 +1,3 @@
+a person walks forward several steps and then stops and stands.#a/DET person/NOUN walk/VERB forward/ADV several/ADJ step/NOUN and/CCONJ then/ADV stop/VERB and/CCONJ stand/VERB#0.0#0.0
+a person walks forward 4 steps and stops.#a/DET person/NOUN walk/VERB forward/ADV step/NOUN and/CCONJ stop/NOUN#0.0#0.0
+a person takes a few steps forward.#a/DET person/NOUN take/VERB a/DET few/ADJ step/NOUN forward/ADV#0.0#0.0

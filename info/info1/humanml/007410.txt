@@ -1,0 +1,3 @@
+a man brings his arms up to neck level and punches the air in front of him with his right hand as his hips rotate, before returning to a standing position.#a/DET man/NOUN bring/VERB his/DET arm/NOUN up/ADP to/ADP neck/NOUN level/NOUN and/CCONJ punch/VERB the/DET air/NOUN in/ADP front/NOUN of/ADP him/PRON with/ADP his/DET right/ADJ hand/NOUN as/SCONJ his/DET hip/NOUN rotate/VERB before/ADP return/VERB to/ADP a/DET standing/ADJ position/NOUN#0.0#0.0
+the person is punching the wall.#the/DET person/NOUN is/AUX punch/VERB the/DET wall/NOUN#0.0#0.0
+a person punches alternating left and right.#a/DET person/NOUN punch/VERB alternate/VERB left/VERB and/CCONJ right/INTJ#0.0#0.0

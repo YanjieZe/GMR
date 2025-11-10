@@ -1,0 +1,3 @@
+a man jumps then stumbles and then jumps again.#a/DET man/NOUN jump/VERB then/ADV stumble/NOUN and/CCONJ then/ADV jump/VERB again/ADV#0.0#0.0
+a person takes big jumps in place.#a/DET person/NOUN take/VERB big/ADJ jump/NOUN in/ADP place/NOUN#0.0#0.0
+the man jumps couple of times#the/DET man/NOUN jump/VERB couple/NOUN of/ADP time/NOUN#0.0#0.0

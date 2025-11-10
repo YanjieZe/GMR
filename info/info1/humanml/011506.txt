@@ -1,0 +1,3 @@
+the person took a large step to step over some thing.#the/DET person/NOUN take/VERB a/DET large/ADJ step/NOUN to/PART step/VERB over/ADP some/DET thing/NOUN#0.0#0.0
+a person steps down with his right leg.#a/DET person/NOUN step/VERB down/ADP with/ADP his/DET right/ADJ leg/NOUN#0.0#0.0
+a person is stood still and then they use their right leg to make a large step#a/DET person/NOUN is/AUX stand/VERB still/ADV and/CCONJ then/ADV they/PRON use/VERB their/DET right/ADJ leg/NOUN to/PART make/VERB a/DET large/ADJ step/NOUN#0.0#0.0

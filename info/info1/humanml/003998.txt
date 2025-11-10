@@ -1,0 +1,3 @@
+robot started dancing from left to right and his arms are in the air and tapping left foot to ground.#robot/PROPN start/VERB dance/VERB from/ADP left/VERB to/ADP right/NOUN and/CCONJ his/DET arm/NOUN are/AUX in/ADP the/DET air/NOUN and/CCONJ tap/VERB left/ADJ foot/NOUN to/ADP ground/NOUN#0.0#0.0
+the person is dancing around.#the/DET person/NOUN is/AUX dance/VERB around/ADV#0.0#0.0
+a person dances a waltz in a clockwise half circle while repeatedly kicking left foot back and forth along the way.#a/DET person/NOUN dance/VERB a/DET waltz/NOUN in/ADP a/DET clockwise/ADJ half/NOUN circle/NOUN while/SCONJ repeatedly/ADV kick/VERB left/VERB foot/NOUN back/ADV and/CCONJ forth/ADV along/ADP the/DET way/NOUN#0.0#0.0

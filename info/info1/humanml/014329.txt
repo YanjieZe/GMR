@@ -1,0 +1,3 @@
+person steps out with large step to there left with left leg#person/NOUN step/VERB out/ADP with/ADP large/ADJ step/NOUN to/ADP there/ADV left/VERB with/ADP left/ADJ leg/NOUN#0.0#0.0
+a figure safely steps to the left avoiding something.#a/DET figure/NOUN safely/ADV step/VERB to/ADP the/DET left/ADJ avoid/VERB something/PRON#0.0#4.0
+a person takes a big step sideways to the left#a/DET person/NOUN take/VERB a/DET big/ADJ step/NOUN sideways/ADV to/ADP the/DET left/NOUN#0.0#0.0

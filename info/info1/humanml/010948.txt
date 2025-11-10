@@ -1,0 +1,3 @@
+a person steps forward, raises their hand to their face and makes small gestures, then repeats the motion.#a/DET person/NOUN step/VERB forward/ADV raise/VERB their/DET hand/NOUN to/ADP their/DET face/NOUN and/CCONJ make/VERB small/ADJ gesture/NOUN then/ADV repeat/VERB the/DET motion/NOUN#0.0#0.0
+figure appears to be itching its face#figure/NOUN appear/VERB to/PART be/AUX itch/VERB its/DET face/NOUN#0.0#0.0
+person is touching their face#person/NOUN is/AUX touch/VERB their/DET face/NOUN#0.0#0.0

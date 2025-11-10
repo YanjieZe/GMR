@@ -1,0 +1,3 @@
+a person turns to his left and kicks something with his right foot.#a/DET person/NOUN turn/VERB to/ADP his/DET left/NOUN and/CCONJ kick/VERB something/PRON with/ADP his/DET right/ADJ foot/NOUN#0.0#0.0
+a person turns to the left and steps forward, then kicks with their right foot.#a/DET person/NOUN turn/VERB to/ADP the/DET left/NOUN and/CCONJ step/NOUN forward/ADV then/ADV kick/VERB with/ADP their/DET right/ADJ foot/NOUN#0.0#0.0
+the right leg kicks out across the body.#the/DET right/ADJ leg/NOUN kick/VERB out/ADP across/ADP the/DET body/NOUN#0.0#0.0

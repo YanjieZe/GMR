@@ -1,0 +1,3 @@
+a person who's arms are straight out, puts them down.#a/DET person/NOUN who/PRON arm/NOUN are/AUX straight/ADV out/ADV put/VERB them/PRON down/ADP#0.0#0.0
+a person has hands outstretched and moves them to their thighs and stands there.#a/DET person/NOUN has/AUX hand/NOUN outstretche/VERB and/CCONJ move/VERB them/PRON to/ADP their/DET thigh/NOUN and/CCONJ stand/VERB there/ADV#0.0#0.0
+a person pull down the hands#a/DET person/NOUN pull/VERB down/ADP the/DET hand/NOUN#0.0#0.0

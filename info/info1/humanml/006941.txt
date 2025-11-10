@@ -1,0 +1,3 @@
+he puts his hand to his head#he/PRON put/VERB his/DET hand/NOUN to/ADP his/DET head/NOUN#0.0#0.0
+standing still then tying shoe.#stand/VERB still/ADV then/ADV tie/VERB shoe/NOUN#0.0#0.0
+both hands go to the face as the shoulders move side to side, takes a step side to side, and kneels on the ground with the hands to the left foot.#both/DET hand/NOUN go/VERB to/ADP the/DET face/NOUN as/SCONJ the/DET shoulder/NOUN move/VERB side/NOUN to/PART side/VERB take/VERB a/DET step/NOUN side/NOUN to/PART side/VERB and/CCONJ kneel/VERB on/ADP the/DET ground/NOUN with/ADP the/DET hand/NOUN to/ADP the/DET left/ADJ foot/NOUN#0.0#0.0

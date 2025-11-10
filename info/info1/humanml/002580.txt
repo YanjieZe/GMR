@@ -1,0 +1,3 @@
+a person claps their hands#a/DET person/NOUN clap/VERB their/DET hand/NOUN#0.0#0.0
+this person stands while slowly clapping his hands.#this/DET person/NOUN stand/VERB while/SCONJ slowly/ADV clap/VERB his/DET hand/NOUN#0.0#0.0
+a man claps both his hands.#a/DET man/NOUN clap/VERB both/CCONJ his/DET hand/NOUN#0.0#0.0

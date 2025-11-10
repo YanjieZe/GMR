@@ -1,0 +1,3 @@
+a person jogs from the left to the right.#a/DET person/NOUN jog/VERB from/ADP the/DET left/NOUN to/ADP the/DET right/NOUN#0.0#0.0
+a person walks to the left and then runs right to left, they then walk to the centre slightly slower.#a/DET person/NOUN walk/VERB to/ADP the/DET left/NOUN and/CCONJ then/ADV run/VERB right/ADV to/ADP left/ADV they/PRON then/ADV walk/VERB to/ADP the/DET centre/NOUN slightly/ADV slower/ADV#0.0#0.0
+a person who is running from right to left#a/DET person/NOUN who/PRON is/AUX run/VERB from/ADP right/NOUN to/ADP left/ADV#0.0#0.0

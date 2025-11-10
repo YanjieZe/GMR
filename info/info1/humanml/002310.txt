@@ -1,0 +1,3 @@
+a person walks forward with intent#a/DET person/NOUN walk/VERB forward/ADV with/ADP intent/NOUN#0.0#0.0
+person moves forward seven steps leading with right foot from centre back  to front right of box#person/NOUN move/VERB forward/ADV seven/NUM step/NOUN lead/VERB with/ADP right/ADJ foot/NOUN from/ADP centre/NOUN back/ADV to/PART front/NOUN right/NOUN of/ADP box/NOUN#0.0#0.0
+a person walking forward sideways#a/DET person/NOUN walk/VERB forward/ADV sideways/ADV#0.0#0.0

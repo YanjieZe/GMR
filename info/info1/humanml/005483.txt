@@ -1,0 +1,3 @@
+a person mixes something with their left hand.#a/DET person/NOUN mix/VERB something/PRON with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0
+a person stirs something with their left hand.#a/DET person/NOUN stir/VERB something/PRON with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0
+a person moves their left hand in a horizontal counter clockwise circle in front of them.#a/DET person/NOUN move/VERB their/DET left/ADJ hand/NOUN in/ADP a/DET horizontal/ADJ counter/NOUN clockwise/NOUN circle/NOUN in/ADP front/NOUN of/ADP them/PRON#0.0#0.0

@@ -1,0 +1,3 @@
+a person takes a step backwards and sits down#a/DET person/NOUN take/VERB a/DET step/NOUN backwards/ADV and/CCONJ sit/VERB down/ADP#0.0#0.0
+a person takes a step back, sits down, then gets up takes a step and stops#a/DET person/NOUN take/VERB a/DET step/NOUN back/ADV sit/VERB down/ADV then/ADV get/VERB up/ADP take/VERB a/DET step/NOUN and/CCONJ stop/NOUN#0.0#0.0
+person take a step back then sits down then getting back up and stepping forward.#person/NOUN take/VERB a/DET step/NOUN back/ADV then/ADV sit/VERB down/ADV then/ADV get/VERB back/ADV up/ADV and/CCONJ step/VERB forward/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person is standing, before moving into a crawling position, crawling forward & then turning around crawling backward before standing back up.#a/DET person/NOUN is/AUX stand/VERB before/ADP move/VERB into/ADP a/DET crawling/NOUN position/NOUN crawl/VERB forward/ADV then/ADV turn/VERB around/ADP crawl/VERB backward/ADV before/ADP stand/VERB back/ADV up/ADV#0.0#9.0
+a person goes down to the ground and crawls back and forth.#a/DET person/NOUN go/VERB down/ADP to/ADP the/DET ground/NOUN and/CCONJ crawl/VERB back/ADV and/CCONJ forth/ADV#0.0#0.0
+user slowly bends to ground an crawls on the floor in a circle#user/NOUN slowly/ADV bend/VERB to/PART ground/VERB an/DET crawl/NOUN on/ADP the/DET floor/NOUN in/ADP a/DET circle/NOUN#0.0#0.0

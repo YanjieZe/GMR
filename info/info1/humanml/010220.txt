@@ -1,0 +1,3 @@
+walking forward with arm outstretched.#walk/VERB forward/ADV with/ADP arm/NOUN outstretche/VERB#0.0#0.0
+standing up bent over turning the page#stand/VERB up/ADP bent/ADJ over/ADP turn/VERB the/DET page/NOUN#0.0#0.0
+the man is pretending to open something#the/DET man/NOUN is/AUX pretend/VERB to/PART open/VERB something/PRON#0.0#0.0

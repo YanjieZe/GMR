@@ -1,0 +1,3 @@
+person is doing abdominal exercise holding medicine ball#person/NOUN is/AUX do/VERB abdominal/ADJ exercise/NOUN hold/VERB medicine/NOUN ball/NOUN#0.0#0.0
+the person is laying on their back doing sit ups.#the/DET person/NOUN is/AUX lay/VERB on/ADP their/DET back/NOUN do/VERB sit/NOUN up/NOUN#0.0#0.0
+a person laying down puts their arms on their head and does two sit-ups.#a/DET person/NOUN lay/VERB down/ADP put/VERB their/DET arm/NOUN on/ADP their/DET head/NOUN and/CCONJ does/AUX two/NUM situp/NOUN#0.0#0.0

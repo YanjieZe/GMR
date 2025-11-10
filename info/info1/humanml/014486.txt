@@ -1,0 +1,3 @@
+the man does a crazy break dancing routine#the/DET man/NOUN does/AUX a/DET crazy/ADJ break/NOUN dancing/NOUN routine/NOUN#0.0#0.0
+man breakdances around moving up and left.#man/NOUN breakdance/VERB around/ADP move/VERB up/ADP and/CCONJ left/VERB#2.0#6.0
+a person is break dancing.#a/DET person/NOUN is/AUX break/NOUN dancing/NOUN#0.0#0.0

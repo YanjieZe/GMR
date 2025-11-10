@@ -1,0 +1,3 @@
+the person took a giant leap forward.#the/DET person/NOUN take/VERB a/DET giant/ADJ leap/NOUN forward/ADV#0.0#0.0
+the man turn and jump and walk to the other side  and jum 3 times.#the/DET man/NOUN turn/VERB and/CCONJ jump/VERB and/CCONJ walk/VERB to/ADP the/DET other/ADJ side/NOUN and/CCONJ jum/PROPN time/NOUN#0.0#0.0
+a person turns to their right and leaps back and forth.#a/DET person/NOUN turn/VERB to/ADP their/DET right/NOUN and/CCONJ leaps/ADV back/ADV and/CCONJ forth/ADV#0.0#0.0

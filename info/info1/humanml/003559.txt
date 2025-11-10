@@ -1,0 +1,3 @@
+walking wobbly as if drunk or dizzy.#walk/VERB wobbly/ADJ as/SCONJ if/SCONJ drunk/ADJ or/CCONJ dizzy/ADJ#0.0#0.0
+person walks forward then right arm and shoulder stumble to the right hand side two times#person/NOUN walk/VERB forward/ADV then/ADV right/ADJ arm/NOUN and/CCONJ shoulder/NOUN stumble/NOUN to/ADP the/DET right/ADJ hand/NOUN side/NOUN two/NUM time/NOUN#0.0#0.0
+a man stumbles walking from side to side.#a/DET man/NOUN stumble/VERB walk/VERB from/ADP side/NOUN to/ADP side/NOUN#0.0#0.0

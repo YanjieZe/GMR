@@ -1,0 +1,3 @@
+the person is sitting and put his right finger up.#the/DET person/NOUN is/AUX sit/VERB and/CCONJ put/VERB his/DET right/ADJ finger/NOUN up/ADP#0.0#0.0
+a person sitting down, raises their right hand up and down very slightly.#a/DET person/NOUN sit/VERB down/ADP raise/VERB their/DET right/ADJ hand/NOUN up/ADP and/CCONJ down/ADP very/ADV slightly/ADV#0.0#0.0
+a person is sitting and raises his right hand to eat.#a/DET person/NOUN is/AUX sit/VERB and/CCONJ raise/VERB his/DET right/ADJ hand/NOUN to/PART eat/VERB#0.0#0.0

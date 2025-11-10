@@ -1,0 +1,3 @@
+a person raised hiw right hand and pull it down, and keep doing it#a/DET person/NOUN raise/VERB hiw/PROPN right/ADJ hand/NOUN and/CCONJ pull/VERB it/PRON down/ADP and/CCONJ keep/VERB do/VERB it/PRON#0.0#0.0
+the person is doing a left arm over their head.#the/DET person/NOUN is/AUX do/VERB a/DET left/ADJ arm/NOUN over/ADP their/DET head/NOUN#0.0#0.0
+somebody smelling their under-arm and doing some more light exercise#somebody/PRON smell/VERB their/DET underarm/NOUN and/CCONJ do/VERB some/DET more/ADJ light/ADJ exercise/NOUN#0.0#0.0

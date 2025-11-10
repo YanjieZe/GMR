@@ -1,0 +1,3 @@
+person puts arm from side down, then grabs something#person/NOUN put/VERB arm/NOUN from/ADP side/NOUN down/ADV then/ADV grab/VERB something/PRON#0.0#0.0
+dropping arms from t pose#drop/VERB arm/NOUN from/ADP t/NOUN pose/NOUN#0.0#1.0
+swaying body side to side.#sway/VERB body/NOUN side/NOUN to/PART side/VERB#0.0#0.0

@@ -1,0 +1,3 @@
+a person appears to be drunk continues to drink from a cup.#a/DET person/NOUN appear/VERB to/PART be/AUX drunk/ADJ continue/VERB to/PART drink/VERB from/ADP a/DET cup/NOUN#0.0#0.0
+person is coughing or choking#person/NOUN is/AUX cough/VERB or/CCONJ choke/VERB#0.0#0.0
+the person sneezes into their right hand#the/DET person/NOUN sneeze/VERB into/ADP their/DET right/ADJ hand/NOUN#0.0#0.0

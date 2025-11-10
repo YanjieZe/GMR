@@ -1,0 +1,3 @@
+a person starts to run while starting from a standstill position across a floor and then stops.#a/DET person/NOUN start/VERB to/PART run/VERB while/SCONJ start/VERB from/ADP a/DET standstill/ADJ position/NOUN across/ADP a/DET floor/NOUN and/CCONJ then/ADV stop/VERB#1.0#2.0
+a person sprints to the front left.#a/DET person/NOUN sprint/VERB to/ADP the/DET front/NOUN left/VERB#0.0#0.0
+the man is sprinting happily#the/DET man/NOUN is/AUX sprint/VERB happily/ADV#0.0#0.0

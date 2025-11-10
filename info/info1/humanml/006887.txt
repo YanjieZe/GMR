@@ -1,0 +1,3 @@
+the person is using a dumbbell with his right hand.#the/DET person/NOUN is/AUX use/VERB a/DET dumbbell/NOUN with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+a figure raises and lowers their right forearm, bending at the elbow, as lifting a dumbell.#a/DET figure/NOUN raise/VERB and/CCONJ lower/VERB their/DET right/ADJ forearm/NOUN bend/VERB at/ADP the/DET elbow/NOUN as/SCONJ lift/VERB a/DET dumbell/NOUN#0.0#0.0
+the person wakes its red arm up and down 2 times.#the/DET person/NOUN wake/VERB its/DET red/ADJ arm/NOUN up/ADV and/CCONJ down/ADV time/NOUN#0.0#0.0

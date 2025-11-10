@@ -1,0 +1,3 @@
+a person does a jumping-jack.#a/DET person/NOUN does/AUX a/DET jumpingjack/NOUN#0.0#0.0
+a person did one jumping jack.#a/DET person/NOUN did/AUX one/NUM jump/VERB jack/NOUN#0.0#0.0
+a figure performs a jumping jack, jumping from the starting position with feet at shoulder width to feet wide apart and arms extending from waist height to above the head.#a/DET figure/NOUN perform/VERB a/DET jumping/ADJ jack/NOUN jump/VERB from/ADP the/DET start/VERB position/NOUN with/ADP foot/NOUN at/ADP shoulder/NOUN width/NOUN to/ADP foot/NOUN wide/ADJ apart/ADV and/CCONJ arm/NOUN extend/VERB from/ADP waist/NOUN height/ADV to/ADP above/ADP the/DET head/NOUN#0.0#0.0

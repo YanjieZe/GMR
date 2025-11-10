@@ -1,0 +1,3 @@
+a man walks foward,picks something with his right hand,puts it on the left side and then walks back.#a/DET man/NOUN walk/VERB foward/ADJ pick/VERB something/PRON with/ADP his/DET right/ADJ hand/NOUN put/VERB it/PRON on/ADP the/DET left/ADJ side/NOUN and/CCONJ then/ADV walk/VERB back/ADV#0.0#0.0
+the person is placing a cup with a bowl#the/DET person/NOUN is/AUX place/VERB a/DET cup/NOUN with/ADP a/DET bowl/NOUN#0.0#0.0
+walks forward, the right arm goes forward then across the body and back.#walk/VERB forward/ADV the/DET right/ADJ arm/NOUN go/VERB forward/ADV then/ADV across/ADP the/DET body/NOUN and/CCONJ back/NOUN#0.0#0.0

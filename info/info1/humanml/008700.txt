@@ -1,0 +1,3 @@
+a person sat on something#a/DET person/NOUN sit/VERB on/ADP something/PRON#0.0#0.0
+the man gets into a driver seat.#the/DET man/NOUN get/VERB into/ADP a/DET driver/NOUN seat/NOUN#0.0#0.0
+the person is sitting down.#the/DET person/NOUN is/AUX sit/VERB down/ADP#0.0#0.0

@@ -1,0 +1,3 @@
+a person looks to be petting a dog with right hand.#a/DET person/NOUN look/VERB to/PART be/AUX pet/VERB a/DET dog/NOUN with/ADP right/ADJ hand/NOUN#0.0#10.0
+a person wiping a surface with something#a/DET person/NOUN wipe/VERB a/DET surface/NOUN with/ADP something/PRON#0.0#0.0
+moving hand back and forth near waist.#move/VERB hand/NOUN back/ADV and/CCONJ forth/ADV near/SCONJ waist/NOUN#0.0#0.0

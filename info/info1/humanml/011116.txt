@@ -1,0 +1,3 @@
+a person walks forward and to the right, then stops.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ to/ADP the/DET right/NOUN then/ADV stop/VERB#0.0#0.0
+this person walks as if he has a bad leg.#this/DET person/NOUN walk/VERB as/SCONJ if/SCONJ he/PRON has/AUX a/DET bad/ADJ leg/NOUN#0.0#0.0
+a person walk ahead, takes left turn and stops at the next left turn.#a/DET person/NOUN walk/VERB ahead/ADV take/VERB left/ADJ turn/NOUN and/CCONJ stop/VERB at/ADP the/DET next/ADJ left/ADJ turn/NOUN#0.0#0.0

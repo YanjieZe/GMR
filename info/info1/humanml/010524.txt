@@ -1,0 +1,3 @@
+a man is standing still, jogs on the spot, then stands still again#a/DET man/NOUN is/AUX stand/VERB still/ADV jog/VERB on/ADP the/DET spot/NOUN then/ADV stand/VERB still/ADV again/ADV#0.0#0.0
+this person is jogging in place.#this/DET person/NOUN is/AUX jog/VERB in/ADP place/NOUN#0.0#0.0
+a person jogs on the spot.#a/DET person/NOUN jog/VERB on/ADP the/DET spot/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person steps forward, then side to side then forward then side to side and forward once again.#a/DET person/NOUN step/VERB forward/ADV then/ADV side/VERB to/PART side/VERB then/ADV forward/ADV then/ADV side/NOUN to/PART side/VERB and/CCONJ forward/ADV once/ADV again/ADV#0.0#0.0
+a person walks forward avoiding gaps.#a/DET person/NOUN walk/VERB forward/ADV avoid/VERB gap/NOUN#0.0#0.0
+a person takes some steps forward.#a/DET person/NOUN take/VERB some/DET step/NOUN forward/ADV#0.0#0.0

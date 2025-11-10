@@ -1,0 +1,3 @@
+someone us pumping their right hand in the air.#someone/PRON us/PRON pump/VERB their/DET right/ADJ hand/NOUN in/ADP the/DET air/NOUN#0.0#0.0
+a person raises their right arm in a celebratory gesture#a/DET person/NOUN raise/VERB their/DET right/ADJ arm/NOUN in/ADP a/DET celebratory/ADJ gesture/NOUN#0.0#0.0
+the person raises their right arm above their head excitedly#the/DET person/NOUN raise/VERB their/DET right/ADJ arm/NOUN above/ADP their/DET head/NOUN excitedly/ADV#0.0#0.0

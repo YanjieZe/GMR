@@ -1,0 +1,3 @@
+a person walks forward at a normal pace#a/DET person/NOUN walk/VERB forward/ADV at/ADP a/DET normal/ADJ pace/NOUN#0.0#0.0
+a person walks forward down a slight incline.#a/DET person/NOUN walk/VERB forward/ADV down/ADP a/DET slight/ADJ incline/NOUN#0.0#0.0
+a person walks forward before coming to a stop#a/DET person/NOUN walk/VERB forward/ADV before/ADP come/VERB to/ADP a/DET stop/NOUN#0.0#0.0

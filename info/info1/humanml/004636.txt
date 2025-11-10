@@ -1,0 +1,3 @@
+a man walks forward and to the left before stopping.#a/DET man/NOUN walk/VERB forward/ADV and/CCONJ to/ADP the/DET left/NOUN before/ADP stop/VERB#0.0#0.0
+he steps with an inside-out move with his left foot and walks forward with an arc to his left.#he/PRON step/VERB with/ADP an/DET insideout/ADJ move/NOUN with/ADP his/DET left/ADJ foot/NOUN and/CCONJ walk/VERB forward/ADV with/ADP an/DET arc/NOUN to/ADP his/DET left/NOUN#0.0#0.0
+a person walking then takes a turn to their left#a/DET person/NOUN walk/VERB then/ADV take/VERB a/DET turn/NOUN to/ADP their/DET left/NOUN#0.0#0.0

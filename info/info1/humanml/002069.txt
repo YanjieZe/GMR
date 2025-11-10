@@ -1,0 +1,3 @@
+a person stretching out by lunging to their right#a/DET person/NOUN stretch/VERB out/ADP by/ADP lunge/VERB to/ADP their/DET right/NOUN#0.0#0.0
+a man lunges back and forth.#a/DET man/NOUN lunge/VERB back/ADV and/CCONJ forth/ADV#0.0#0.0
+person stands feet side on shoulder length apart then rocks back and fourth using knees bent#person/NOUN stand/VERB foot/NOUN side/VERB on/ADP shoulder/NOUN length/NOUN apart/ADV then/ADV rock/VERB back/ADV and/CCONJ fourth/ADV use/VERB knee/NOUN bent/ADJ#0.0#0.0

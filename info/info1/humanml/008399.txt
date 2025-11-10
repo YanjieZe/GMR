@@ -1,0 +1,3 @@
+shaking legs side to side.#shake/VERB leg/NOUN side/VERB to/PART side/VERB#0.0#0.0
+man shakes left leg first and then right leg.#man/PROPN shake/VERB left/VERB leg/NOUN first/ADV and/CCONJ then/ADV right/INTJ leg/NOUN#0.0#0.0
+a man lifts and bends his left leg, then his right leg.#a/DET man/NOUN lift/VERB and/CCONJ bend/VERB his/DET left/ADJ leg/NOUN then/ADV his/DET right/ADJ leg/NOUN#0.0#0.0

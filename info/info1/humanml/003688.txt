@@ -1,0 +1,3 @@
+uses arms to help sit down legs kick up a bit then gets up to walk away#use/VERB arm/NOUN to/PART help/VERB sit/VERB down/ADP leg/NOUN kick/VERB up/ADP a/DET bit/NOUN then/ADV get/VERB up/ADV to/PART walk/VERB away/ADV#0.0#0.0
+a person walks and then sits on something.#a/DET person/NOUN walk/VERB and/CCONJ then/ADV sit/VERB on/ADP something/PRON#0.0#0.0
+walks forward and sits down the right side and gets back up to walk.#walk/VERB forward/ADV and/CCONJ sit/VERB down/ADP the/DET right/ADJ side/NOUN and/CCONJ get/VERB back/ADV up/ADV to/PART walk/VERB#0.0#0.0

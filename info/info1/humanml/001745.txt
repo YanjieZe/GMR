@@ -1,0 +1,3 @@
+person took two steps forward and one step back and then another step forward.#person/NOUN take/VERB two/NUM step/NOUN forward/ADV and/CCONJ one/NUM step/NOUN back/ADV and/CCONJ then/ADV another/DET step/NOUN forward/ADV#0.0#0.0
+a person walks forward, hits something, then keeps walking#a/DET person/NOUN walk/VERB forward/ADV hit/VERB something/PRON then/ADV keep/VERB walk/VERB#0.0#0.0
+a person walks forward, then takes a step back, and then walks forward.#a/DET person/NOUN walk/VERB forward/ADV then/ADV take/VERB a/DET step/NOUN back/ADV and/CCONJ then/ADV walk/VERB forward/ADV#0.0#0.0

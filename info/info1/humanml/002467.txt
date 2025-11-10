@@ -1,0 +1,3 @@
+a person slowly walks forward, then squats and jumps in place.#a/DET person/NOUN slowly/ADV walk/VERB forward/ADV then/ADV squat/NOUN and/CCONJ jump/VERB in/ADP place/NOUN#0.0#0.0
+a person wobbles from side to side then squats and jumps.#a/DET person/NOUN wobble/VERB from/ADP side/NOUN to/PART side/VERB then/ADV squat/NOUN and/CCONJ jump/VERB#0.0#0.0
+a person walks forward and then jumps on the spot once.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ then/ADV jump/VERB on/ADP the/DET spot/NOUN once/ADV#0.0#0.0

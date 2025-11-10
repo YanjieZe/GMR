@@ -1,0 +1,3 @@
+a person was sitting on the knee, and grabbed something with left hand and lean to face#a/DET person/NOUN was/AUX sit/VERB on/ADP the/DET knee/NOUN and/CCONJ grab/VERB something/PRON with/ADP left/ADJ hand/NOUN and/CCONJ lean/ADJ to/ADP face/NOUN#0.0#0.0
+this person is sitting legs extended out front then stands and is shaking.#this/DET person/NOUN is/AUX sit/VERB leg/NOUN extend/VERB out/ADP front/NOUN then/ADV stand/VERB and/CCONJ is/AUX shake/VERB#0.0#0.0
+the sim is sitting down appearing to make a phone call with their left arm before standing up & pacing.#the/DET sim/PROPN is/AUX sit/VERB down/ADP appear/VERB to/PART make/VERB a/DET phone/NOUN call/NOUN with/ADP their/DET left/ADJ arm/NOUN before/ADP stand/VERB up/ADP pace/VERB#0.0#0.0

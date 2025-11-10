@@ -1,0 +1,3 @@
+a man hoists his right arm into the air#a/DET man/NOUN hoist/VERB his/DET right/ADJ arm/NOUN into/ADP the/DET air/NOUN#0.0#0.0
+person uses right hand to throw an item#person/NOUN use/VERB right/ADJ hand/NOUN to/PART throw/VERB an/DET item/NOUN#0.0#0.0
+a person is playing tennis#a/DET person/NOUN is/AUX play/VERB tennis/NOUN#0.0#0.0

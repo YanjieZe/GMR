@@ -1,0 +1,3 @@
+standing up a person leading to their left looking down at their left arm#stand/VERB up/ADP a/DET person/NOUN lead/VERB to/ADP their/DET left/NOUN look/VERB down/ADP at/ADP their/DET left/ADJ arm/NOUN#0.0#0.0
+a man checks his watch.#a/DET man/NOUN check/VERB his/DET watch/NOUN#0.0#0.0
+a person lifts their left hand up slightly gesturing towards looking at a watch on their wrist.#a/DET person/NOUN lift/VERB their/DET left/ADJ hand/NOUN up/ADP slightly/ADV gesture/VERB towards/ADP look/VERB at/ADP a/DET watch/NOUN on/ADP their/DET wrist/NOUN#0.0#0.0

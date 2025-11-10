@@ -1,0 +1,3 @@
+the person is holding onto to handrails.#the/DET person/NOUN is/AUX hold/VERB onto/ADP to/ADP handrail/NOUN#0.0#0.0
+man walking slowly forward with his hands out to his sides as he walks using an object on either side for balance.#man/NOUN walk/VERB slowly/ADV forward/ADV with/ADP his/DET hand/NOUN out/ADP to/ADP his/DET side/NOUN as/SCONJ he/PRON walk/VERB use/VERB an/DET object/NOUN on/ADP either/DET side/NOUN for/ADP balance/NOUN#0.0#0.0
+a person balances themselves steadily walking over a rope bridge.#a/DET person/NOUN balance/VERB themselves/PRON steadily/ADV walk/VERB over/ADP a/DET rope/NOUN bridge/NOUN#0.0#0.0

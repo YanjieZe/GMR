@@ -1,0 +1,3 @@
+the person is walking forward.#the/DET person/NOUN is/AUX walk/VERB forward/ADV#0.0#0.0
+a person walk downwards at a very slight diagonal to the right hand of center.#a/DET person/NOUN walk/VERB downwards/ADV at/ADP a/DET very/ADV slight/ADJ diagonal/ADJ to/ADP the/DET right/ADJ hand/NOUN of/ADP center/NOUN#0.0#0.0
+a person walks forward while swinging their arms#a/DET person/NOUN walk/VERB forward/ADV while/SCONJ swinge/VERB their/DET arm/NOUN#0.0#0.0

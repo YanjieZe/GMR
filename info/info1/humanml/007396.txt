@@ -1,0 +1,3 @@
+a person walks in a large s pattern.#a/DET person/NOUN walk/VERB in/ADP a/DET large/ADJ s/PART pattern/NOUN#0.0#0.0
+a man steps with the left foot and  walks fowards in a meandering pattern.#a/DET man/NOUN step/VERB with/ADP the/DET left/ADJ foot/NOUN and/CCONJ walk/VERB foward/NOUN in/ADP a/DET meandering/NOUN pattern/NOUN#0.0#0.0
+the person stepped over some thing and is walking back and forth.#the/DET person/NOUN step/VERB over/ADP some/DET thing/NOUN and/CCONJ is/AUX walk/VERB back/ADV and/CCONJ forth/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person calling out loud#a/DET person/NOUN call/VERB out/ADP loud/ADV#0.0#4.0
+a person raised the hands and lean them near to face#a/DET person/NOUN raise/VERB the/DET hand/NOUN and/CCONJ lean/VERB them/PRON near/ADV to/PART face/VERB#0.0#0.0
+the person is waving their hands in disbelief.#the/DET person/NOUN is/AUX wave/VERB their/DET hand/NOUN in/ADP disbelief/NOUN#0.0#0.0

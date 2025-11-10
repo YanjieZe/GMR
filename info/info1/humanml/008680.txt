@@ -1,0 +1,3 @@
+the person is walking back-and-forth to the left to the right#the/DET person/NOUN is/AUX walk/VERB backandforth/ADJ to/ADP the/DET left/NOUN to/ADP the/DET right/NOUN#0.0#0.0
+a person moved in rigth and after left direction#a/DET person/NOUN move/VERB in/ADP rigth/NOUN and/CCONJ after/ADP left/ADJ direction/NOUN#0.0#0.0
+a person sidesteps widely and deliberately#a/DET person/NOUN sidestep/VERB widely/ADV and/CCONJ deliberately/ADV#0.0#0.0

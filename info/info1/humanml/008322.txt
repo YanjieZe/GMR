@@ -1,0 +1,2 @@
+someone runs erratically back and forth.#someone/PRON run/VERB erratically/ADV back/ADV and/CCONJ forth/ADV#0.0#0.0
+a person jogs in place and then turns and jogs back and forth.#a/DET person/NOUN jog/VERB in/ADP place/NOUN and/CCONJ then/ADV turn/VERB and/CCONJ jog/VERB back/ADV and/CCONJ forth/ADV#0.0#0.0

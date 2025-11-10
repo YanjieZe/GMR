@@ -1,0 +1,3 @@
+the person is squatting and raises its arms out sideways.#the/DET person/NOUN is/AUX squat/VERB and/CCONJ raise/VERB its/DET arm/NOUN out/ADV sideways/ADV#0.0#0.0
+a person squatting and with his arms to the side puts his arms down, then back up again#a/DET person/NOUN squat/VERB and/CCONJ with/ADP his/DET arm/NOUN to/ADP the/DET side/NOUN put/VERB his/DET arm/NOUN down/ADV then/ADV back/ADV up/ADP again/ADV#0.0#0.0
+a person slightly squatting puts its hands on its knees.#a/DET person/NOUN slightly/ADV squat/VERB put/VERB its/DET hand/NOUN on/ADP its/DET knee/NOUN#0.0#0.0

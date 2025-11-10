@@ -1,0 +1,3 @@
+a man walks to the side then moves to the left.#a/DET man/NOUN walk/VERB to/ADP the/DET side/NOUN then/ADV move/VERB to/ADP the/DET left/NOUN#0.0#0.0
+a person dodges things while moving side to side#a/DET person/NOUN dodge/VERB thing/NOUN while/SCONJ move/VERB side/NOUN to/PART side/VERB#0.0#0.0
+a person forward twice and then goes backwards and trips.#a/DET person/NOUN forward/ADV twice/ADV and/CCONJ then/ADV go/VERB backwards/ADV and/CCONJ trip/NOUN#0.0#0.0

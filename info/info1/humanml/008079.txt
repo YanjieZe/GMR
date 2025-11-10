@@ -1,0 +1,3 @@
+a person bends down with their hands on their knees into a crouching position, then straightens back up, bracing their hands on their thighs.#a/DET person/NOUN bend/VERB down/ADP with/ADP their/DET hand/NOUN on/ADP their/DET knee/NOUN into/ADP a/DET crouch/VERB position/NOUN then/ADV straighten/VERB back/ADV up/ADV brace/VERB their/DET hand/NOUN on/ADP their/DET thigh/NOUN#0.0#0.0
+a person sit down on the knee, and strech it#a/DET person/NOUN sit/VERB down/ADP on/ADP the/DET knee/NOUN and/CCONJ strech/VERB it/PRON#0.0#0.0
+a person squats, pauses then starts to stand back up.#a/DET person/NOUN squat/VERB pause/VERB then/ADV start/VERB to/PART stand/VERB back/ADP up/ADV#0.0#10.0

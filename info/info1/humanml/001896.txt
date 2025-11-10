@@ -1,0 +1,3 @@
+someone stomps their feet five times and then starts to walk balkwards.#someone/PRON stomp/VERB their/DET foot/NOUN five/NUM time/NOUN and/CCONJ then/ADV start/VERB to/PART walk/VERB balkward/NOUN#0.0#0.0
+a person walks down a ramp backwards, staring at their feet.#a/DET person/NOUN walk/VERB down/ADP a/DET ramp/NOUN backwards/ADV stare/VERB at/ADP their/DET foot/NOUN#0.0#0.0
+a person is walking in one place and then makes a few steps backwards.#a/DET person/NOUN is/AUX walk/VERB in/ADP one/NUM place/NOUN and/CCONJ then/ADV make/VERB a/DET few/ADJ step/NOUN backwards/ADV#0.0#0.0

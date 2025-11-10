@@ -1,0 +1,3 @@
+a person swats downward at something with their right arm, then step-kicks at something twice with their right leg while making a clockwise turn.#a/DET person/NOUN swat/VERB downward/ADV at/ADP something/PRON with/ADP their/DET right/ADJ arm/NOUN then/ADV stepkick/VERB at/ADP something/PRON twice/ADV with/ADP their/DET right/ADJ leg/NOUN while/SCONJ make/VERB a/DET clockwise/ADJ turn/NOUN#0.0#0.0
+raising hand and kicking while walking.#raise/VERB hand/NOUN and/CCONJ kick/VERB while/SCONJ walk/VERB#0.0#0.0
+an angry person throws and kicks objects around.#an/DET angry/ADJ person/NOUN throw/VERB and/CCONJ kick/NOUN object/VERB around/ADV#0.0#0.0

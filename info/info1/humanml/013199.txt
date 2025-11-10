@@ -1,0 +1,3 @@
+the person holds their hands near their head as if drinking something.#the/DET person/NOUN hold/VERB their/DET hand/NOUN near/SCONJ their/DET head/NOUN as/SCONJ if/SCONJ drink/VERB something/PRON#0.0#0.0
+the person who’s drinking out of a bottle with the right hand.#the/DET person/NOUN who/PRON drink/VERB out/SCONJ of/ADP a/DET bottle/NOUN with/ADP the/DET right/ADJ hand/NOUN#0.0#0.0
+a person unscrews a bottle then raises it to his mouth and drinks.#a/DET person/NOUN unscrew/VERB a/DET bottle/NOUN then/ADV raise/VERB it/PRON to/ADP his/DET mouth/NOUN and/CCONJ drink/NOUN#0.0#0.0

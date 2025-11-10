@@ -1,0 +1,3 @@
+a figure leans forward as though impersonating an airplane/scanner#a/DET figure/NOUN lean/VERB forward/ADV as/SCONJ though/SCONJ impersonate/VERB an/DET airplane/NOUN scanner/NOUN#0.0#0.0
+person bending down and making odd circular movements#person/NOUN bend/VERB down/ADP and/CCONJ make/VERB odd/ADJ circular/ADJ movement/NOUN#0.0#0.0
+a person is bent over forward and moves their body left to right like a snake several times.#a/DET person/NOUN is/AUX bent/ADJ over/ADP forward/ADV and/CCONJ move/VERB their/DET body/NOUN left/VERB to/ADP right/NOUN like/SCONJ a/DET snake/NOUN several/ADJ time/NOUN#0.0#0.0

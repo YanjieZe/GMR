@@ -1,0 +1,3 @@
+a person takes the lid off a box and places it to their right.#a/DET person/NOUN take/VERB the/DET lid/NOUN off/ADP a/DET box/NOUN and/CCONJ place/VERB it/PRON to/ADP their/DET right/NOUN#0.0#0.0
+a person lifts and item then puts it down#a/DET person/NOUN lift/NOUN and/CCONJ item/NOUN then/ADV put/VERB it/PRON down/ADP#0.0#0.0
+a person motions pretending to pick up an object on the left and the place it on the right.#a/DET person/NOUN motion/NOUN pretend/VERB to/PART pick/VERB up/ADP an/DET object/NOUN on/ADP the/DET left/NOUN and/CCONJ the/DET place/NOUN it/PRON on/ADP the/DET right/NOUN#0.0#0.0

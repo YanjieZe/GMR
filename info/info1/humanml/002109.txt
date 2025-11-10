@@ -1,0 +1,3 @@
+a person swings their left arm them spreads both arms.#a/DET person/NOUN swing/VERB their/DET left/ADJ arm/NOUN them/PRON spread/VERB both/DET arm/NOUN#0.0#0.0
+a person is standing pushes something with right arm then pur both arms out.#a/DET person/NOUN is/AUX stand/VERB push/NOUN something/PRON with/ADP right/ADJ arm/NOUN then/ADV pur/VERB both/DET arm/NOUN out/ADP#0.0#0.0
+a man slowly swats at something eye level with his left hand and then brings both arms out to his side in a t position.#a/DET man/NOUN slowly/ADV swat/VERB at/ADP something/PRON eye/NOUN level/NOUN with/ADP his/DET left/ADJ hand/NOUN and/CCONJ then/ADV bring/VERB both/DET arm/NOUN out/SCONJ to/ADP his/DET side/NOUN in/ADP a/DET t/NOUN position/NOUN#0.0#0.0

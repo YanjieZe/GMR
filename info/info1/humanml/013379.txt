@@ -1,0 +1,3 @@
+a man runs quickly forward.#a/DET man/NOUN run/VERB quickly/ADV forward/ADV#0.0#0.0
+the individual springs in a cross hatch manner covering four to five steps.#the/DET individual/ADJ spring/NOUN in/ADP a/DET cross/ADJ hatch/NOUN manner/NOUN cover/VERB four/NUM to/PART five/NUM step/NOUN#0.0#1.0
+a person runs forward, hesitates for a moment and then continues forward.#a/DET person/NOUN run/VERB forward/ADV hesitate/NOUN for/ADP a/DET moment/NOUN and/CCONJ then/ADV continue/VERB forward/ADV#0.0#0.0

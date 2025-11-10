@@ -1,0 +1,3 @@
+a person on the ground crawls forward.#a/DET person/NOUN on/ADP the/DET ground/NOUN crawl/VERB forward/ADV#0.0#0.0
+a man is crawling and moving it's whole body in a zigzag motion.#a/DET man/NOUN is/AUX crawl/VERB and/CCONJ move/VERB it/PRON whole/ADJ body/NOUN in/ADP a/DET zigzag/NOUN motion/NOUN#0.0#0.0
+a person is laying down and then army crawls forward cautiously.#a/DET person/NOUN is/AUX lay/VERB down/ADP and/CCONJ then/ADV army/NOUN crawl/VERB forward/ADV cautiously/ADV#0.0#0.0

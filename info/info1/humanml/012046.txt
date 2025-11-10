@@ -1,0 +1,3 @@
+a person walks on a beam, loses his balance and fall off to his right.#a/DET person/NOUN walk/VERB on/ADP a/DET beam/NOUN lose/VERB his/DET balance/NOUN and/CCONJ fall/VERB off/ADP to/ADP his/DET right/NOUN#0.0#0.0
+moving front and little  band  at left side.#move/VERB front/ADJ and/CCONJ little/ADJ band/NOUN at/ADP left/ADJ side/NOUN#0.0#0.0
+a person walks forward one foot in front of the other until he loses his balance and tilts far to the left then stumbles to his left.#a/DET person/NOUN walk/VERB forward/ADV one/NUM foot/NOUN in/ADP front/NOUN of/ADP the/DET other/ADJ until/ADP he/PRON lose/VERB his/DET balance/NOUN and/CCONJ tilt/VERB far/ADV to/ADP the/DET left/NOUN then/ADV stumble/VERB to/ADP his/DET left/NOUN#0.0#0.0

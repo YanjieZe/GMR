@@ -1,0 +1,3 @@
+a person slowly stand up#a/DET person/NOUN slowly/ADV stand/VERB up/ADP#0.0#0.0
+a person on all fours stands up#a/DET person/NOUN on/ADP all/DET four/NOUN stand/VERB up/ADP#0.0#0.0
+a figure begins in crawling position then stands up#a/DET figure/NOUN begin/VERB in/ADP crawl/VERB position/NOUN then/ADV stand/VERB up/ADP#0.0#0.0

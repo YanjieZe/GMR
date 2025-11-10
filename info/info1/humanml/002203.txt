@@ -1,0 +1,3 @@
+a person running back and forth.#a/DET person/NOUN run/VERB back/ADV and/CCONJ forth/ADV#0.0#0.0
+a man runs to the right and then to the left before running back to the center.#a/DET man/NOUN run/VERB to/ADP the/DET right/NOUN and/CCONJ then/ADV to/ADP the/DET left/NOUN before/ADP run/VERB back/ADV to/ADP the/DET center/NOUN#0.0#0.0
+a person jogging to their right and then left#a/DET person/NOUN jog/VERB to/ADP their/DET right/NOUN and/CCONJ then/ADV left/VERB#0.0#0.0

@@ -1,0 +1,3 @@
+a person stretches their right arm then their left.#a/DET person/NOUN stretch/VERB their/DET right/ADJ arm/NOUN then/ADV their/DET left/NOUN#0.0#0.0
+a person raised the rigth ahnd and starts to warm up it#a/DET person/NOUN raise/VERB the/DET rigth/NOUN ahnd/NOUN and/CCONJ start/VERB to/PART warm/VERB up/ADP it/PRON#0.0#0.0
+a person begins in a t-pose, before reaching their right hand upwards and left down, they then swap to left arm up and right down#a/DET person/NOUN begin/VERB in/ADP a/DET tpose/NOUN before/ADP reach/VERB their/DET right/ADJ hand/NOUN upwards/ADV and/CCONJ left/VERB down/ADP they/PRON then/ADV swap/VERB to/ADP left/ADJ arm/VERB up/ADP and/CCONJ right/VERB down/ADV#0.0#0.0

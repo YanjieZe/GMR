@@ -1,0 +1,3 @@
+the person is doing an exercise warm up.#the/DET person/NOUN is/AUX do/VERB an/DET exercise/NOUN warm/VERB up/ADP#0.0#0.0
+a person stretches their right shoulder an then their left.#a/DET person/NOUN stretch/VERB their/DET right/ADJ shoulder/NOUN an/DET then/ADV their/DET left/NOUN#0.0#0.0
+a person lifts his right and left hand.#a/DET person/NOUN lift/VERB his/DET right/NOUN and/CCONJ left/VERB hand/NOUN#0.0#0.0

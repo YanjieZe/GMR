@@ -1,0 +1,3 @@
+a person walks forward and in the middle of walking takes a greater step and continues#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ in/ADP the/DET middle/NOUN of/ADP walking/NOUN take/VERB a/DET greater/ADJ step/NOUN and/CCONJ continue/VERB#0.0#0.0
+a person walks diagonally from the left to right.#a/DET person/NOUN walk/VERB diagonally/ADV from/ADP the/DET left/NOUN to/ADP right/ADJ#0.0#0.0
+a man walks forward shifting to the left.#a/DET man/NOUN walk/VERB forward/ADV shift/VERB to/ADP the/DET left/NOUN#0.0#0.0

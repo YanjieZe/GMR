@@ -1,0 +1,3 @@
+person swings arms up and down at the joints while bouncing around, as if dancing.#person/NOUN swing/VERB arm/NOUN up/ADV and/CCONJ down/ADV at/ADP the/DET joint/NOUN while/SCONJ bounce/VERB around/ADV as/SCONJ if/SCONJ dancing/NOUN#0.0#0.0
+person looks like they're doing a boxing move without throwing any punches#person/NOUN look/VERB like/SCONJ they/PRON do/VERB a/DET boxing/NOUN move/NOUN without/ADP throw/VERB any/DET punch/NOUN#0.0#0.0
+a figure seems to be loosely in boxing stance#a/DET figure/NOUN seem/VERB to/PART be/AUX loosely/ADV in/ADP box/VERB stance/NOUN#0.0#0.0

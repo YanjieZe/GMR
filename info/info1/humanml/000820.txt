@@ -1,0 +1,3 @@
+using his left hand he smacks his right arm bicep.#use/VERB his/DET left/ADJ hand/NOUN he/PRON smack/VERB his/DET right/ADJ arm/NOUN bicep/NOUN#0.0#0.0
+the person is punching the air.#the/DET person/NOUN is/AUX punch/VERB the/DET air/NOUN#0.0#0.0
+a person lashes out with their left hand, punching.#a/DET person/NOUN lash/VERB out/ADP with/ADP their/DET left/ADJ hand/NOUN punching/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person is stretching his leg in the air.#a/DET person/NOUN is/AUX stretch/VERB his/DET leg/NOUN in/ADP the/DET air/NOUN#0.0#0.0
+a figure balances on one leg while holding right leg with right hand before hopping on left leg#a/DET figure/NOUN balance/VERB on/ADP one/NUM leg/NOUN while/SCONJ hold/VERB right/ADJ leg/NOUN with/ADP right/ADJ hand/NOUN before/ADP hop/VERB on/ADP left/ADJ leg/NOUN#0.0#0.0
+a person is using their right arm to lift their left leg into the air.#a/DET person/NOUN is/AUX use/VERB their/DET right/ADJ arm/NOUN to/PART lift/VERB their/DET left/ADJ leg/NOUN into/ADP the/DET air/NOUN#0.0#0.0

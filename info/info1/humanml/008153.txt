@@ -1,0 +1,3 @@
+person raises arms above head and walks forward.#person/NOUN raise/VERB arm/NOUN above/ADP head/NOUN and/CCONJ walk/VERB forward/ADV#0.0#0.0
+a person walks heel to toe with their hands high above their head.#a/DET person/NOUN walk/VERB heel/NOUN to/ADP toe/NOUN with/ADP their/DET hand/NOUN high/ADJ above/ADP their/DET head/NOUN#0.0#0.0
+a person walking on a straight line lifting both his hands up in a carry overhead position#a/DET person/NOUN walk/VERB on/ADP a/DET straight/ADJ line/NOUN lift/VERB both/CCONJ his/DET hand/NOUN up/ADP in/ADP a/DET carry/ADJ overhead/ADJ position/NOUN#0.0#0.0

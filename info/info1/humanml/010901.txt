@@ -1,0 +1,3 @@
+a person walks forward then twirls around to stand with back to viewer.#a/DET person/NOUN walk/VERB forward/ADV then/ADV twirl/VERB around/ADP to/PART stand/VERB with/ADP back/ADV to/ADP viewer/NOUN#0.0#0.0
+a person turns around while walking.#a/DET person/NOUN turn/VERB around/ADP while/SCONJ walk/VERB#0.0#0.0
+a man steps forward a few steps, then turns around, swinging his right leg as he does, and starts to walk back.#a/DET man/NOUN step/VERB forward/ADV a/DET few/ADJ step/NOUN then/ADV turn/VERB around/ADV swinge/VERB his/DET right/ADJ leg/NOUN as/SCONJ he/PRON does/AUX and/CCONJ start/VERB to/PART walk/VERB back/ADV#0.0#0.0

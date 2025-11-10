@@ -1,0 +1,3 @@
+a person walks forward, while holding arms stiff, with a bend at the elbow. with every step, they alternate swinging the opposite arm forward.#a/DET person/NOUN walk/VERB forward/ADV while/SCONJ hold/VERB arm/NOUN stiff/ADJ with/ADP a/DET bend/NOUN at/ADP the/DET elbow/NOUN with/ADP every/DET step/NOUN they/PRON alternate/ADV swinge/VERB the/DET opposite/ADJ arm/NOUN forward/ADV#0.0#0.0
+a man walks forward this his arms slightly stretched out.#a/DET man/NOUN walk/VERB forward/ADV this/DET his/DET arm/NOUN slightly/ADV stretch/VERB out/ADP#0.0#0.0
+the man takes 6 hulking steps forward.#the/DET man/NOUN take/VERB hulking/NOUN step/NOUN forward/ADV#0.0#0.0

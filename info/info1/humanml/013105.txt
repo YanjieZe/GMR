@@ -1,0 +1,3 @@
+a person walks forward slowly after getting pushed slightly.#a/DET person/NOUN walk/VERB forward/ADV slowly/ADV after/ADP get/VERB push/VERB slightly/ADV#0.0#0.0
+a peson walks forawrd and sways slightly#a/DET peson/NOUN walk/VERB forawrd/ADV and/CCONJ sway/VERB slightly/ADV#0.0#0.0
+user walks forward and swivles slightly trying to stay in a line#user/NOUN walk/VERB forward/ADV and/CCONJ swivle/VERB slightly/ADV try/VERB to/PART stay/VERB in/ADP a/DET line/NOUN#0.0#0.0

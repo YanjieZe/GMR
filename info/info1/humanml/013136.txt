@@ -1,0 +1,3 @@
+a person walking and then taking a right turn#a/DET person/NOUN walk/VERB and/CCONJ then/ADV take/VERB a/DET right/ADJ turn/NOUN#0.0#0.0
+a person walking in a line#a/DET person/NOUN walk/VERB in/ADP a/DET line/NOUN#0.0#0.0
+a person takes five steps forward in a casual manner.#a/DET person/NOUN take/VERB five/NUM step/NOUN forward/ADV in/ADP a/DET casual/ADJ manner/NOUN#0.0#0.0

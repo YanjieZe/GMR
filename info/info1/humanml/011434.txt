@@ -1,0 +1,2 @@
+a person walks in a path curving to their left.#a/DET person/NOUN walk/VERB in/ADP a/DET path/NOUN curve/VERB to/ADP their/DET left/NOUN#0.0#0.0
+a person walks forwards and turns left.#a/DET person/NOUN walk/VERB forwards/ADV and/CCONJ turn/VERB left/VERB#0.0#0.0

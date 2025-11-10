@@ -1,0 +1,3 @@
+a person is walking and stumbles.#a/DET person/NOUN is/AUX walk/VERB and/CCONJ stumble/NOUN#0.0#0.0
+a person walking forward, that struggled to maintain a balance.#a/DET person/NOUN walk/VERB forward/ADV that/DET struggle/VERB to/PART maintain/VERB a/DET balance/NOUN#0.0#0.0
+a person is walking and then loses their balance. they stumble.#a/DET person/NOUN is/AUX walk/VERB and/CCONJ then/ADV lose/VERB their/DET balance/NOUN they/PRON stumble/VERB#0.0#0.0

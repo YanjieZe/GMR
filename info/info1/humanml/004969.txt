@@ -1,0 +1,3 @@
+someone kicking the leg out#someone/PRON kick/VERB the/DET leg/NOUN out/ADP#0.0#0.0
+a person does a high kick with their right leg#a/DET person/NOUN does/AUX a/DET high/ADJ kick/NOUN with/ADP their/DET right/ADJ leg/NOUN#0.0#0.0
+person kicks right leg out to side on  and lifts both arms slightly in a fighting posture#person/NOUN kick/VERB right/ADV leg/NOUN out/ADP to/PART side/VERB on/ADP and/CCONJ lift/NOUN both/DET arm/NOUN slightly/ADV in/ADP a/DET fighting/NOUN posture/NOUN#0.0#0.0

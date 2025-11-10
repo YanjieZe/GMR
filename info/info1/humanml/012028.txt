@@ -1,0 +1,3 @@
+the person is steeping over two objects#the/DET person/NOUN is/AUX steep/VERB over/ADP two/NUM object/NOUN#0.0#0.0
+a person walks over something and then jumps over it.#a/DET person/NOUN walk/VERB over/ADP something/PRON and/CCONJ then/ADV jump/VERB over/ADP it/PRON#0.0#0.0
+a person stepped over something forward#a/DET person/NOUN step/VERB over/ADP something/PRON forward/ADV#0.0#0.0

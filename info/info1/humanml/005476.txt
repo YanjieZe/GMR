@@ -1,0 +1,3 @@
+a person makes multiple small jumps.#a/DET person/NOUN make/VERB multiple/ADJ small/ADJ jump/NOUN#0.0#0.0
+a person jumps up and down#a/DET person/NOUN jump/VERB up/ADV and/CCONJ down/ADV#0.0#0.0
+person jumping up and down#person/NOUN jump/VERB up/ADP and/CCONJ down/ADP#0.0#0.0

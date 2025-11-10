@@ -1,0 +1,3 @@
+some performs two jumping jacks from a standing position.#some/DET perform/VERB two/NUM jump/VERB jack/NOUN from/ADP a/DET standing/ADJ position/NOUN#0.0#0.0
+the person does 2 jumping jacks in place.#the/DET person/NOUN does/AUX jump/VERB jack/NOUN in/ADP place/NOUN#0.0#0.0
+moving the hands and legs like a exercises.#move/VERB the/DET hand/NOUN and/CCONJ leg/NOUN like/SCONJ a/DET exercise/NOUN#0.0#0.0

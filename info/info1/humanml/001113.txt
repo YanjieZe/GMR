@@ -1,0 +1,3 @@
+this person is cleaning a table.#this/DET person/NOUN is/AUX clean/VERB a/DET table/NOUN#0.0#8.0
+he is leaning on something and cleaning it with a towel.#he/PRON is/AUX lean/VERB on/ADP something/PRON and/CCONJ clean/VERB it/PRON with/ADP a/DET towel/NOUN#0.0#0.0
+a person wipes off a counter before returning to a neutral pose.#a/DET person/NOUN wipe/VERB off/ADP a/DET counter/NOUN before/ADP return/VERB to/ADP a/DET neutral/ADJ pose/NOUN#0.0#0.0

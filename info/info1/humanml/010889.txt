@@ -1,0 +1,3 @@
+a figure hops forward several times#a/DET figure/NOUN hop/VERB forward/ADV several/ADJ time/NOUN#0.0#0.0
+figure appears to be jumping forward#figure/NOUN appear/VERB to/PART be/AUX jump/VERB forward/ADV#0.0#0.0
+a person jumps three times forward.#a/DET person/NOUN jump/VERB three/NUM time/NOUN forward/ADV#0.0#0.0

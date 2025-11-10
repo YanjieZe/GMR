@@ -1,0 +1,3 @@
+a person hollers around with their hands at their mouth.#a/DET person/NOUN holler/VERB around/ADP with/ADP their/DET hand/NOUN at/ADP their/DET mouth/NOUN#0.0#0.0
+a person holds both hands up to his face and then twists#a/DET person/NOUN hold/VERB both/DET hand/NOUN up/ADP to/ADP his/DET face/NOUN and/CCONJ then/ADV twist/VERB#0.0#0.0
+the person is walking around with binoculars looking at stuff.#the/DET person/NOUN is/AUX walk/VERB around/ADP with/ADP binocular/NOUN look/VERB at/ADP stuff/NOUN#0.0#0.0

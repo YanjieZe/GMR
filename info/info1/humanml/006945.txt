@@ -1,0 +1,3 @@
+a standing person takes a small hop forward.#a/DET stand/VERB person/NOUN take/VERB a/DET small/ADJ hop/NOUN forward/ADV#0.0#0.0
+person stand still and jumps forward#person/NOUN stand/VERB still/ADV and/CCONJ jump/VERB forward/ADV#0.0#0.0
+a person clenches their fists then hops forward#a/DET person/NOUN clench/VERB their/DET fist/NOUN then/ADV hop/VERB forward/ADV#0.0#0.0

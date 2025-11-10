@@ -1,0 +1,3 @@
+a person crosses arms briskly across the front of thier body, then raises one hand and moves both hands back and forth.#a/DET person/NOUN cross/VERB arm/NOUN briskly/ADV across/ADP the/DET front/NOUN of/ADP thier/ADJ body/NOUN then/ADV raise/VERB one/NUM hand/NOUN and/CCONJ move/VERB both/DET hand/NOUN back/ADV and/CCONJ forth/ADV#0.0#0.0
+the man is moving both arms#the/DET man/NOUN is/AUX move/VERB both/DET arm/NOUN#0.0#0.0
+a standing person makes occasional meaningless gestures with their hands.#a/DET stand/VERB person/NOUN make/VERB occasional/ADJ meaningless/ADJ gesture/NOUN with/ADP their/DET hand/NOUN#0.0#0.0

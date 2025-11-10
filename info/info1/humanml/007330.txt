@@ -1,0 +1,3 @@
+a person made some something with both hands#a/DET person/NOUN make/VERB some/DET something/PRON with/ADP both/DET hand/NOUN#0.0#0.0
+the person is acting like a prairie dog.#the/DET person/NOUN is/AUX act/VERB like/SCONJ a/DET prairie/NOUN dog/NOUN#0.0#0.0
+this person appears to dig as if looking for something.#this/DET person/NOUN appear/VERB to/PART dig/VERB as/SCONJ if/SCONJ look/VERB for/ADP something/PRON#0.0#0.0

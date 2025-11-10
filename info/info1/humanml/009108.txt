@@ -1,0 +1,3 @@
+crossing arms on chest.#cross/VERB arm/NOUN on/ADP chest/NOUN#0.0#0.0
+stick figure crosses arms before uncrossing them#stick/PROPN figure/NOUN cross/VERB arm/NOUN before/ADP uncross/VERB them/PRON#0.0#3.0
+a person crosses then uncrosses his arms.#a/DET person/NOUN cross/VERB then/ADV uncross/VERB his/DET arm/NOUN#0.0#0.0

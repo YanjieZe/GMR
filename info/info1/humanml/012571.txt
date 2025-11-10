@@ -1,0 +1,3 @@
+a person hops up and down.#a/DET person/NOUN hop/VERB up/ADV and/CCONJ down/ADV#0.0#0.0
+a person takes small hops in place.#a/DET person/NOUN take/VERB small/ADJ hop/NOUN in/ADP place/NOUN#0.0#0.0
+a man jumps repeatedly with arms loosely on his sides.#a/DET man/NOUN jump/VERB repeatedly/ADV with/ADP arm/NOUN loosely/ADV on/ADP his/DET side/NOUN#0.0#0.0

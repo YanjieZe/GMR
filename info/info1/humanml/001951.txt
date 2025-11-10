@@ -1,0 +1,3 @@
+a persons claps with their hands#a/DET person/NOUN clap/NOUN with/ADP their/DET hand/NOUN#0.0#0.0
+a person claps their hands#a/DET person/NOUN clap/VERB their/DET hand/NOUN#0.0#0.0
+a person claps twelve times with their hands held chest-height.#a/DET person/NOUN clap/VERB twelve/NUM time/NOUN with/ADP their/DET hand/NOUN hold/VERB chestheight/NOUN#0.0#0.0

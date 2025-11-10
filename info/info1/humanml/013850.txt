@@ -1,0 +1,3 @@
+person makes uppercut boxing motion#person/NOUN make/VERB uppercut/NOUN boxing/NOUN motion/NOUN#0.0#0.0
+the person is boxing giving an upper right#the/DET person/NOUN is/AUX box/VERB give/VERB an/DET upper/ADJ right/NOUN#0.0#0.0
+a person throws their right arm in an uppercut gesture, though moving much more slowly; their left hand remains up near their face.#a/DET person/NOUN throw/VERB their/DET right/ADJ arm/NOUN in/ADP an/DET uppercut/NOUN gesture/NOUN though/SCONJ move/VERB much/ADV more/ADV slowly/ADV their/DET left/ADJ hand/NOUN remain/VERB up/ADP near/SCONJ their/DET face/NOUN#0.0#0.0

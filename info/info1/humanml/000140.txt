@@ -1,0 +1,3 @@
+a person raises both hands into fists, turns sideways and punches out with their left hand, then lowers both hands.#a/DET person/NOUN raise/VERB both/DET hand/NOUN into/ADP fist/NOUN turn/VERB sideway/NOUN and/CCONJ punch/VERB out/ADP with/ADP their/DET left/ADJ hand/NOUN then/ADV lower/VERB both/DET hand/NOUN#0.0#0.0
+a person raises both arms and punch's with its right arm.#a/DET person/NOUN raise/VERB both/DET arm/NOUN and/CCONJ punch/PROPN with/ADP its/DET right/ADJ arm/NOUN#0.0#0.0
+someone deals a punch with their right hand.#someone/PRON deal/VERB a/DET punch/NOUN with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0

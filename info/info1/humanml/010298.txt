@@ -1,0 +1,2 @@
+this person side wide to the left while looking around carefuly.#this/DET person/NOUN side/NOUN wide/ADJ to/ADP the/DET left/ADJ while/SCONJ look/VERB around/ADP carefuly/ADV#0.0#0.0
+a person is leaning and checking their surroundings.#a/DET person/NOUN is/AUX lean/VERB and/CCONJ check/VERB their/DET surrounding/NOUN#0.0#5.0

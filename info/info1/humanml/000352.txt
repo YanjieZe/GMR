@@ -1,0 +1,3 @@
+person looks like theyre holding a microphone and talking into it#person/NOUN look/VERB like/SCONJ they/PRON be/VERB hold/VERB a/DET microphone/NOUN and/CCONJ talk/VERB into/ADP it/PRON#0.0#0.0
+a person steps forward and puts their hand up near their face.#a/DET person/NOUN step/VERB forward/ADV and/CCONJ put/VERB their/DET hand/NOUN up/ADP near/SCONJ their/DET face/NOUN#0.0#0.0
+a man walks forward and puts his head into his right hand.#a/DET man/NOUN walk/VERB forward/ADV and/CCONJ put/VERB his/DET head/NOUN into/ADP his/DET right/ADJ hand/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+someone is running forward and jumping over something#someone/PRON is/AUX run/VERB forward/ADV and/CCONJ jump/VERB over/ADP something/PRON#0.0#0.0
+person is  running then jumping over something.#person/NOUN is/AUX run/VERB then/ADV jump/VERB over/ADP something/PRON#0.0#0.0
+a person runs, then puts their hand on something and swings their legs in the air#a/DET person/NOUN run/VERB then/ADV put/VERB their/DET hand/NOUN on/ADP something/PRON and/CCONJ swing/VERB their/DET leg/NOUN in/ADP the/DET air/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+bouncing in a clockwise circle, moving the elbow up and down towards the chest, sliding at the end with arms open.#bounce/VERB in/ADP a/DET clockwise/ADJ circle/NOUN move/VERB the/DET elbow/NOUN up/ADP and/CCONJ down/ADV towards/ADP the/DET chest/NOUN slide/VERB at/ADP the/DET end/NOUN with/ADP arm/NOUN open/ADJ#0.0#0.0
+person snaps and side steps to the front of the screen, then turns back and goes the opposite ways#person/NOUN snap/NOUN and/CCONJ side/ADJ step/NOUN to/ADP the/DET front/NOUN of/ADP the/DET screen/NOUN then/ADV turn/VERB back/ADV and/CCONJ go/VERB the/DET opposite/ADJ way/NOUN#0.0#0.0
+person is walking around and i think dancing.#person/NOUN is/AUX walk/VERB around/ADV and/CCONJ i/PRON think/VERB dance/VERB#0.0#0.0

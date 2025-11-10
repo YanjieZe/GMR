@@ -1,0 +1,3 @@
+a man lowers his arms and turns his neck in a counterclockwise way#a/DET man/NOUN lower/VERB his/DET arm/NOUN and/CCONJ turn/VERB his/DET neck/NOUN in/ADP a/DET counterclockwise/ADJ way/NOUN#0.0#0.0
+a person turns their head side to side, then in circles.#a/DET person/NOUN turn/VERB their/DET head/NOUN side/NOUN to/PART side/VERB then/ADV in/ADP circle/NOUN#0.0#0.0
+i personally had his arms straight out then put them down by his side.#i/PRON personally/ADV had/AUX his/DET arm/NOUN straight/ADV out/ADV then/ADV put/VERB them/PRON down/ADP by/ADP his/DET side/NOUN#0.0#0.0

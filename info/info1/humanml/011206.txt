@@ -1,0 +1,2 @@
+your son was playing football and stopped.#your/DET son/NOUN was/AUX play/VERB football/NOUN and/CCONJ stop/VERB#0.0#0.0
+a person who is standing with his hands by his sides dashes forward and to his left, leading with his left foot.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP his/DET hand/NOUN by/ADP his/DET side/NOUN dash/VERB forward/ADV and/CCONJ to/ADP his/DET left/NOUN lead/VERB with/ADP his/DET left/ADJ foot/NOUN#0.0#0.0

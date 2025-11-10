@@ -1,0 +1,3 @@
+the person is doing the moonwalk.#the/DET person/NOUN is/AUX do/VERB the/DET moonwalk/NOUN#0.0#0.0
+person moves in a small circle then goes backwards with right hand lifting something above his head#person/NOUN move/VERB in/ADP a/DET small/ADJ circle/NOUN then/ADV go/VERB backwards/ADV with/ADP right/ADJ hand/NOUN lift/VERB something/PRON above/ADP his/DET head/NOUN#0.0#0.0
+a person walks slowly forward, then moves slowly backward.#a/DET person/NOUN walk/VERB slowly/ADV forward/ADV then/ADV move/VERB slowly/ADV backward/ADV#0.0#0.0

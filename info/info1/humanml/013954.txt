@@ -1,0 +1,3 @@
+a person brushes something off of their pants.#a/DET person/NOUN brush/VERB something/PRON off/ADP of/ADP their/DET pant/NOUN#0.0#0.0
+a person rubs his right hand near his hip#a/DET person/NOUN rub/VERB his/DET right/ADJ hand/NOUN near/SCONJ his/DET hip/NOUN#0.0#0.0
+a person brushes the front of his pelvis several times.#a/DET person/NOUN brush/VERB the/DET front/NOUN of/ADP his/DET pelvi/NOUN several/ADJ time/NOUN#0.0#0.0

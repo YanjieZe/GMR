@@ -1,0 +1,3 @@
+a perosn jumps up 12 times and then stands with feet and arms stretched apart#a/DET perosn/NOUN jump/VERB up/ADV time/NOUN and/CCONJ then/ADV stand/VERB with/ADP foot/NOUN and/CCONJ arm/NOUN stretch/VERB apart/ADV#0.0#0.0
+person facing forward gently jumps up and down.#person/NOUN face/VERB forward/ADV gently/ADV jump/VERB up/ADV and/CCONJ down/ADV#0.0#8.0
+a person energetically bounces up and down to loosen their muscles.#a/DET person/NOUN energetically/ADV bounce/VERB up/ADP and/CCONJ down/ADV to/PART loosen/VERB their/DET muscle/NOUN#0.0#0.0

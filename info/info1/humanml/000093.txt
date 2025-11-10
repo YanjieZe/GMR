@@ -1,0 +1,2 @@
+a man turns and walks in an arc to the left.#a/DET man/NOUN turn/VERB and/CCONJ walk/VERB in/ADP an/DET arc/NOUN to/ADP the/DET left/NOUN#0.0#5.0
+a person walks in an arc to their left#a/DET person/NOUN walk/VERB in/ADP an/DET arc/NOUN to/ADP their/DET left/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks in reverse to avoid a crack in the sidewalk.#a/DET person/NOUN walk/VERB in/ADP reverse/NOUN to/PART avoid/VERB a/DET crack/NOUN in/ADP the/DET sidewalk/NOUN#0.0#0.0
+a person takes a big step backward.#a/DET person/NOUN take/VERB a/DET big/ADJ step/NOUN backward/ADV#0.0#0.0
+person suddenly steps backwards as if scared#person/NOUN suddenly/ADV step/VERB backwards/ADV as/SCONJ if/SCONJ scare/VERB#0.0#0.0

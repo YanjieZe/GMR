@@ -1,0 +1,3 @@
+from a standing position the person reaches up with their right arm and touches their head with their right hand, before lowering their hand back down beside their body#from/ADP a/DET standing/ADJ position/NOUN the/DET person/NOUN reach/VERB up/ADP with/ADP their/DET right/ADJ arm/NOUN and/CCONJ touch/VERB their/DET head/NOUN with/ADP their/DET right/ADJ hand/NOUN before/ADP lower/VERB their/DET hand/NOUN back/ADV down/ADP beside/ADP their/DET body/NOUN#0.0#0.0
+a person lifts up there right arm towards there head#a/DET person/NOUN lift/VERB up/ADV there/ADV right/ADJ arm/NOUN towards/ADP there/PRON head/NOUN#0.0#0.0
+a person raises their right hand over their head.#a/DET person/NOUN raise/VERB their/DET right/ADJ hand/NOUN over/ADP their/DET head/NOUN#0.0#0.0

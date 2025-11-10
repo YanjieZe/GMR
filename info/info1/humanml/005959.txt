@@ -1,0 +1,3 @@
+the person moves the tray from the right side to the left side#the/DET person/NOUN move/VERB the/DET tray/NOUN from/ADP the/DET right/ADJ side/NOUN to/ADP the/DET left/ADJ side/NOUN#0.0#0.0
+person standind gestruring moving an object from left to right side#person/NOUN standind/PROPN gestrure/VERB move/VERB an/DET object/NOUN from/ADP left/VERB to/ADP right/ADJ side/NOUN#0.0#0.0
+taking some thing one side of the floor putting on that other side.#take/VERB some/DET thing/NOUN one/NUM side/NOUN of/ADP the/DET floor/NOUN put/VERB on/ADP that/DET other/ADJ side/NOUN#0.0#0.0

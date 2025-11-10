@@ -1,0 +1,3 @@
+a person throws something with their right hand while standing still#a/DET person/NOUN throw/VERB something/PRON with/ADP their/DET right/ADJ hand/NOUN while/SCONJ stand/VERB still/ADV#0.0#0.0
+throwing something with arm.#throw/VERB something/PRON with/ADP arm/NOUN#0.0#0.0
+a person throwing a baseball with right arm.#a/DET person/NOUN throw/VERB a/DET baseball/NOUN with/ADP right/ADJ arm/NOUN#0.0#3.0

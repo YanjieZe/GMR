@@ -1,0 +1,3 @@
+a person picks something up, tilts it, and then places it back.#a/DET person/NOUN pick/VERB something/PRON up/ADP tilt/VERB it/PRON and/CCONJ then/ADV place/VERB it/PRON back/ADV#0.0#0.0
+pretend to hold something and moves it#pretend/VERB to/PART hold/VERB something/PRON and/CCONJ move/VERB it/PRON#0.0#0.0
+a person carries something with both arms.#a/DET person/NOUN carry/VERB something/PRON with/ADP both/DET arm/NOUN#0.0#0.0

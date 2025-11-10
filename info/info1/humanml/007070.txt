@@ -1,0 +1,3 @@
+walking forward then bending down.#walk/VERB forward/ADV then/ADV bend/VERB down/ADP#0.0#0.0
+a person raise their right hand then bends down, then gets back.#a/DET person/NOUN raise/VERB their/DET right/ADJ hand/NOUN then/ADV bend/VERB down/ADP then/ADV get/VERB back/ADV#0.0#0.0
+a person bends down to cough and then resumes posture.#a/DET person/NOUN bend/VERB down/ADP to/ADP cough/NOUN and/CCONJ then/ADV resume/VERB posture/NOUN#0.0#0.0

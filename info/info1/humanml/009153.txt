@@ -1,0 +1,3 @@
+a man jumps and spins anti-clockwise twice.#a/DET man/NOUN jump/VERB and/CCONJ spin/NOUN anticlockwise/VERB twice/ADV#0.0#0.0
+a man jumps two times, each time making a complete turn counter clockwise, and uses his left foot to steady his last jump.#a/DET man/NOUN jump/VERB two/NUM time/NOUN each/DET time/NOUN make/VERB a/DET complete/ADJ turn/NOUN counter/ADV clockwise/NOUN and/CCONJ use/VERB his/DET left/ADJ foot/NOUN to/ADP steady/VERB his/DET last/ADJ jump/NOUN#0.0#0.0
+a person jumps up with a spin.#a/DET person/NOUN jump/VERB up/ADP with/ADP a/DET spin/NOUN#0.0#0.0

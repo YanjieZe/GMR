@@ -1,0 +1,3 @@
+a person kicks with their right foot two times.#a/DET person/NOUN kick/VERB with/ADP their/DET right/ADJ foot/NOUN two/NUM time/NOUN#0.0#0.0
+he seems to be practicing kicking a soccer ball with his right foot.#he/PRON seem/VERB to/PART be/AUX practice/VERB kick/VERB a/DET soccer/NOUN ball/NOUN with/ADP his/DET right/ADJ foot/NOUN#0.0#0.0
+a person kicks something twice with his right leg#a/DET person/NOUN kick/VERB something/PRON twice/ADV with/ADP his/DET right/ADJ leg/NOUN#0.0#0.0

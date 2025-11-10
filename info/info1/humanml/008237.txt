@@ -1,0 +1,3 @@
+a man alternates reaching right and left at hip level.#a/DET man/NOUN alternate/NOUN reach/VERB right/NOUN and/CCONJ left/VERB at/ADP hip/NOUN level/NOUN#0.0#0.0
+a person walks forward and then leans back from left to right twice and places hands on their hips.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ then/ADV lean/VERB back/ADV from/ADP left/VERB to/ADP right/ADV twice/ADV and/CCONJ place/VERB hand/NOUN on/ADP their/DET hip/NOUN#0.0#0.0
+a person steps forward, picks up and pours two containers into a new container.#a/DET person/NOUN step/VERB forward/ADV pick/VERB up/ADP and/CCONJ pour/VERB two/NUM container/NOUN into/ADP a/DET new/ADJ container/NOUN#0.0#0.0

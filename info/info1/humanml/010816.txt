@@ -1,0 +1,3 @@
+person is walking while kicking out legs#person/NOUN is/AUX walk/VERB while/SCONJ kick/VERB out/ADP leg/NOUN#0.0#0.0
+person walks straight while kicking their feet.#person/NOUN walk/VERB straight/ADV while/SCONJ kick/VERB their/DET foot/NOUN#0.0#0.0
+the person is walking forward with crazy legs.#the/DET person/NOUN is/AUX walk/VERB forward/ADV with/ADP crazy/ADJ leg/NOUN#0.0#0.0

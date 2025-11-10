@@ -1,0 +1,3 @@
+person was walking down the path around things.#person/NOUN was/AUX walk/VERB down/ADP the/DET path/NOUN around/ADP thing/NOUN#0.0#0.0
+a person walks around an object in their path.#a/DET person/NOUN walk/VERB around/ADP an/DET object/NOUN in/ADP their/DET path/NOUN#0.0#0.0
+the person is careful while walking around the obstacles#the/DET person/NOUN is/AUX careful/ADJ while/SCONJ walk/VERB around/ADP the/DET obstacle/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+he moves to the side#he/PRON move/VERB to/ADP the/DET side/NOUN#0.0#0.0
+a person stands there, then steps to the right one time.#a/DET person/NOUN stand/VERB there/ADV then/ADV step/VERB to/ADP the/DET right/ADJ one/NUM time/NOUN#0.0#0.0
+a person takes a step to his right.#a/DET person/NOUN take/VERB a/DET step/NOUN to/ADP his/DET right/NOUN#0.0#0.0

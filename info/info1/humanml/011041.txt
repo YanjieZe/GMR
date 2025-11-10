@@ -1,0 +1,3 @@
+a person sidesteps to the right, then left and back right, as if they were working out.#a/DET person/NOUN sidestep/VERB to/ADP the/DET right/NOUN then/ADV left/VERB and/CCONJ back/ADV right/ADV as/SCONJ if/SCONJ they/PRON were/AUX work/VERB out/ADP#0.0#0.0
+a person shuffles their feet to the right and left twice, then returns to the start position.#a/DET person/NOUN shuffle/VERB their/DET foot/NOUN to/ADP the/DET right/NOUN and/CCONJ left/VERB twice/ADV then/ADV return/VERB to/ADP the/DET start/NOUN position/NOUN#0.0#0.0
+a person moved in left and right direction#a/DET person/NOUN move/VERB in/ADP left/ADJ and/CCONJ right/ADJ direction/NOUN#0.0#0.0

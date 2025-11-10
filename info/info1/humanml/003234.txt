@@ -1,0 +1,3 @@
+a person standing up and manipulating objects in front of them#a/DET person/NOUN stand/VERB up/ADP and/CCONJ manipulate/VERB object/NOUN in/ADP front/NOUN of/ADP them/PRON#0.0#0.0
+he pretends to eat something#he/PRON pretend/VERB to/PART eat/VERB something/PRON#0.0#0.0
+a person is moving both hands and forearms at chest height while standing, then they lift their right hand toward their face.#a/DET person/NOUN is/AUX move/VERB both/DET hand/NOUN and/CCONJ forearm/NOUN at/ADP chest/NOUN height/NOUN while/SCONJ stand/VERB then/ADV they/PRON lift/VERB their/DET right/ADJ hand/NOUN toward/ADP their/DET face/NOUN#0.0#0.0

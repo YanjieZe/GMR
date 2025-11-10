@@ -1,0 +1,3 @@
+a person lightly kicks an object on the ground#a/DET person/NOUN lightly/ADV kick/VERB an/DET object/NOUN on/ADP the/DET ground/NOUN#0.0#0.0
+a figure walks forward and gives a sligh kick with thr left foot before stepping backward to the starting position.#a/DET figure/NOUN walk/VERB forward/ADV and/CCONJ give/VERB a/DET sligh/ADJ kick/NOUN with/ADP thr/PROPN left/VERB foot/NOUN before/ADP step/VERB backward/ADV to/ADP the/DET starting/NOUN position/NOUN#0.0#0.0
+the man is doing low kick#the/DET man/NOUN is/AUX do/VERB low/ADJ kick/NOUN#0.0#0.0

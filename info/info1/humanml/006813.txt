@@ -1,0 +1,2 @@
+a person walks forward and to the side#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ to/ADP the/DET side/NOUN#0.0#0.0
+a person walks in a wide arc to the left#a/DET person/NOUN walk/VERB in/ADP a/DET wide/ADJ arc/NOUN to/ADP the/DET left/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+the person left on his foot up walked her step went up a little bit higher and then stopped.#the/DET person/NOUN left/VERB on/ADP his/DET foot/NOUN up/ADP walk/VERB her/DET step/NOUN go/VERB up/ADP a/DET little/ADJ bit/NOUN higher/ADV and/CCONJ then/ADV stop/VERB#0.0#0.0
+a man/woman taking cautious wide steps.#a/DET man/NOUN woman/NOUN take/VERB cautious/ADJ wide/ADJ step/NOUN#0.0#0.0
+a person takes a big step forward then turns to the right and tales two bigs steps, then turns to the back and takes one step#a/DET person/NOUN take/VERB a/DET big/ADJ step/NOUN forward/ADV then/ADV turn/VERB to/ADP the/DET right/NOUN and/CCONJ tale/VERB two/NUM bigs/PROPN step/NOUN then/ADV turn/VERB to/ADP the/DET back/NOUN and/CCONJ take/VERB one/NUM step/NOUN#0.0#0.0

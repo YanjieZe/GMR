@@ -1,0 +1,3 @@
+this person is standing with legs crossed then steps forward with right foot.#this/DET person/NOUN is/AUX stand/VERB with/ADP leg/NOUN cross/VERB then/ADV step/VERB forward/ADV with/ADP right/ADJ foot/NOUN#0.0#0.0
+the man stands cross-legged staggers then crosses his legs again.#the/DET man/NOUN stand/VERB crosslegged/ADJ stagger/NOUN then/ADV cross/VERB his/DET leg/NOUN again/ADV#0.0#0.0
+standing with their legs crossed, eventually the person walks forward and puts the other foot over the foot and turning.#stand/VERB with/ADP their/DET leg/NOUN cross/VERB eventually/ADV the/DET person/NOUN walk/VERB forward/ADV and/CCONJ put/VERB the/DET other/ADJ foot/NOUN over/ADP the/DET foot/NOUN and/CCONJ turning/NOUN#0.0#0.0

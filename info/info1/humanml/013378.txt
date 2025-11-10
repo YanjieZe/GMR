@@ -1,0 +1,3 @@
+a man runs in almost a zig zag looking pattern#a/DET man/NOUN run/VERB in/ADP almost/ADV a/DET zig/NOUN zag/X looking/ADJ pattern/NOUN#0.0#0.0
+person runs forward and to their left.#person/NOUN run/VERB forward/ADV and/CCONJ to/ADP their/DET left/NOUN#0.0#0.0
+a person who is running takes one step forward and three steps to his left and then stops.#a/DET person/NOUN who/PRON is/AUX run/VERB take/VERB one/NUM step/NOUN forward/ADV and/CCONJ three/NUM step/NOUN to/ADP his/DET left/NOUN and/CCONJ then/ADV stop/VERB#0.0#0.0

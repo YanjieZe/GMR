@@ -1,0 +1,3 @@
+a person seems to be doing aerobics or some sort of dancing in-place.#a/DET person/NOUN seem/VERB to/PART be/AUX do/VERB aerobics/NOUN or/CCONJ some/DET sort/NOUN of/ADP dance/VERB inplace/NOUN#0.0#0.0
+a person jogs while making a small counterclockwise circle.#a/DET person/NOUN jog/VERB while/SCONJ make/VERB a/DET small/ADJ counterclockwise/NOUN circle/NOUN#0.0#0.0
+a man runs on the spot in a small circular motion, whilst facing forwards throughout.#a/DET man/NOUN run/VERB on/ADP the/DET spot/NOUN in/ADP a/DET small/ADJ circular/ADJ motion/NOUN whilst/SCONJ face/VERB forwards/ADV throughout/ADV#0.0#0.0

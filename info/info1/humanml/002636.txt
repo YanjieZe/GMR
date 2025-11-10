@@ -1,0 +1,3 @@
+person is walking forward than getting something.#person/NOUN is/AUX walk/VERB forward/ADV than/SCONJ get/VERB something/PRON#0.0#0.0
+a man puts his hands together and bends forward and then extends his right hand outward.#a/DET man/NOUN put/VERB his/DET hand/NOUN together/ADV and/CCONJ bend/VERB forward/ADV and/CCONJ then/ADV extend/VERB his/DET right/ADJ hand/NOUN outward/ADV#0.0#0.0
+a person steps backwards then steps forward and puts right hand out as if nervously greeting someone#a/DET person/NOUN step/VERB backwards/ADV then/ADV step/VERB forward/ADV and/CCONJ put/VERB right/ADJ hand/NOUN out/ADP as/SCONJ if/SCONJ nervously/ADV greet/VERB someone/PRON#0.0#0.0

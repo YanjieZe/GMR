@@ -1,0 +1,3 @@
+the person is walking slowly like a monster.#the/DET person/NOUN is/AUX walk/VERB slowly/ADV like/SCONJ a/DET monster/NOUN#0.0#0.0
+the man moves forward slowly#the/DET man/NOUN move/VERB forward/ADV slowly/ADV#0.0#0.0
+a person is slowly walking forward with big steps, stops then turns around anticlockwise and starts to walk back#a/DET person/NOUN is/AUX slowly/ADV walk/VERB forward/ADV with/ADP big/ADJ step/NOUN stop/NOUN then/ADV turn/VERB around/ADP anticlockwise/NOUN and/CCONJ start/VERB to/PART walk/VERB back/ADV#0.0#0.0

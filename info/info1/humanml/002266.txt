@@ -1,0 +1,3 @@
+a person walks forward with swagger.#a/DET person/NOUN walk/VERB forward/ADV with/ADP swagger/NOUN#0.0#0.0
+a person walks straight forward.#a/DET person/NOUN walk/VERB straight/ADV forward/ADV#0.0#0.0
+person saunters forward while moving hips slightly.#person/NOUN saunter/VERB forward/ADV while/SCONJ move/VERB hip/NOUN slightly/ADV#0.0#0.0

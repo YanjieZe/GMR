@@ -1,0 +1,3 @@
+a man jumps three times, going higher each time.#a/DET man/NOUN jump/VERB three/NUM time/NOUN go/VERB higher/ADJ each/DET time/NOUN#0.0#0.0
+a man jumps three times gradually increasing intensity, reaching greater height after each jump.#a/DET man/NOUN jump/VERB three/NUM time/NOUN gradually/ADV increase/VERB intensity/NOUN reach/VERB greater/ADJ height/NOUN after/ADP each/DET jump/NOUN#0.0#0.0
+a man jumps in three different heights bending his arms and legs more and more with each jump.#a/DET man/NOUN jump/VERB in/ADP three/NUM different/ADJ height/NOUN bend/VERB his/DET arm/NOUN and/CCONJ leg/NOUN more/ADV and/CCONJ more/ADV with/ADP each/DET jump/NOUN#0.0#0.0

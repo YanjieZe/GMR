@@ -1,0 +1,3 @@
+a person waves their hand in a counterclockwise direction. then pushes an item away and grabs something to move closer to them.#a/DET person/NOUN wave/VERB their/DET hand/NOUN in/ADP a/DET counterclockwise/ADJ direction/NOUN then/ADV push/VERB an/DET item/NOUN away/ADV and/CCONJ grab/VERB something/PRON to/PART move/VERB closer/ADV to/ADP them/PRON#0.0#0.0
+the person is washing the window with her right arm.#the/DET person/NOUN is/AUX wash/VERB the/DET window/NOUN with/ADP her/DET right/ADJ arm/NOUN#0.0#0.0
+a person is making circular movements with their right hand, then forward and back.#a/DET person/NOUN is/AUX make/VERB circular/ADJ movement/NOUN with/ADP their/DET right/ADJ hand/NOUN then/ADV forward/ADV and/CCONJ back/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a man is crab walking backwards and then rolls to the left.#a/DET man/NOUN is/AUX crab/NOUN walk/VERB backwards/ADV and/CCONJ then/ADV roll/VERB to/ADP the/DET left/NOUN#0.0#0.0
+backwards all four walk and dodge#backwards/ADV all/DET four/NUM walk/NOUN and/CCONJ dodge/NOUN#0.0#0.0
+the man crab walks backwards and then rolls around a few times.#the/DET man/NOUN crab/NOUN walk/VERB backwards/ADV and/CCONJ then/ADV roll/VERB around/ADP a/DET few/ADJ time/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person picks up a small object to their right, and then walks forwards.#a/DET person/NOUN pick/VERB up/ADP a/DET small/ADJ object/NOUN to/ADP their/DET right/NOUN and/CCONJ then/ADV walk/VERB forwards/ADV#0.0#0.0
+the person was walking forward.#the/DET person/NOUN was/AUX walk/VERB forward/ADV#0.0#0.0
+person reaches with their right arm down to pick something up, then proceeds to walk forward holding the object.#person/NOUN reach/VERB with/ADP their/DET right/ADJ arm/NOUN down/ADP to/PART pick/VERB something/PRON up/ADP then/ADV proceed/VERB to/PART walk/VERB forward/ADV hold/VERB the/DET object/NOUN#0.0#0.0

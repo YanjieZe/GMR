@@ -1,0 +1,3 @@
+a person is playing basketball.#a/DET person/NOUN is/AUX play/VERB basketball/NOUN#0.0#0.0
+a person reaches up to catch and jumps around.#a/DET person/NOUN reach/VERB up/ADP to/PART catch/VERB and/CCONJ jump/VERB around/ADV#0.0#0.0
+a person hops around looks like they are  guarding someone in basketball#a/DET person/NOUN hop/VERB around/ADP look/NOUN like/SCONJ they/PRON are/AUX guard/VERB someone/PRON in/ADP basketball/NOUN#0.0#0.0

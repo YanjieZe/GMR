@@ -1,0 +1,3 @@
+a person turns a steering wheel to the left.#a/DET person/NOUN turn/VERB a/DET steering/NOUN wheel/NOUN to/ADP the/DET left/NOUN#0.0#0.0
+both arms are being used to turn the wheel; left arm is moving up and to the right, while the right arm is moving down and to the left.#both/DET arm/NOUN are/AUX being/AUX use/VERB to/PART turn/VERB the/DET wheel/NOUN left/ADJ arm/NOUN is/AUX move/VERB up/ADV and/CCONJ to/ADP the/DET right/NOUN while/SCONJ the/DET right/ADJ arm/NOUN is/AUX move/VERB down/ADV and/CCONJ to/ADP the/DET left/NOUN#0.0#0.0
+person sitting and raises right hand#person/NOUN sit/VERB and/CCONJ raise/VERB right/ADJ hand/NOUN#0.0#0.0

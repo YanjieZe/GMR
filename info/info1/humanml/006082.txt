@@ -1,0 +1,3 @@
+a person brings food to their mouth, eats it, while resting their body weight on their left leg#a/DET person/NOUN bring/VERB food/NOUN to/ADP their/DET mouth/NOUN eat/VERB it/PRON while/SCONJ rest/VERB their/DET body/NOUN weight/NOUN on/ADP their/DET left/ADJ leg/NOUN#0.0#0.0
+a person drinks from their cup and sets it back down.#a/DET person/NOUN drink/VERB from/ADP their/DET cup/NOUN and/CCONJ set/VERB it/PRON back/ADV down/ADV#0.0#0.0
+a person raises an object to their mouth two times.#a/DET person/NOUN raise/VERB an/DET object/NOUN to/ADP their/DET mouth/NOUN two/NUM time/NOUN#0.0#0.0

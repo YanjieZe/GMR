@@ -1,0 +1,3 @@
+a person uses both hands to bang on objects.#a/DET person/NOUN use/VERB both/DET hand/NOUN to/PART bang/VERB on/ADP object/NOUN#0.0#0.0
+a person slowly moves feet from side to side then moves hands up and down at a faster pace.#a/DET person/NOUN slowly/ADV move/VERB foot/NOUN from/ADP side/NOUN to/PART side/VERB then/ADV move/VERB hand/NOUN up/ADV and/CCONJ down/ADV at/ADP a/DET faster/ADJ pace/NOUN#0.0#0.0
+this person is swaying back and forth while brushing their hands out in front.#this/DET person/NOUN is/AUX sway/VERB back/ADV and/CCONJ forth/ADV while/SCONJ brush/VERB their/DET hand/NOUN out/ADP in/ADP front/NOUN#0.0#0.0

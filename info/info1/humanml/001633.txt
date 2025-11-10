@@ -1,0 +1,3 @@
+the person is standing around.#the/DET person/NOUN is/AUX stand/VERB around/ADV#0.0#0.0
+slowly walks forward like zombie like losing balance.#slowly/ADV walk/VERB forward/ADV like/SCONJ zombie/PROPN like/SCONJ lose/VERB balance/NOUN#0.0#0.0
+the person steps forward and keeps both arms lifted at the sides while slightly bending forward.#the/DET person/NOUN step/VERB forward/ADV and/CCONJ keep/VERB both/DET arm/NOUN lift/VERB at/ADP the/DET side/NOUN while/SCONJ slightly/ADV bend/VERB forward/ADV#0.0#0.0

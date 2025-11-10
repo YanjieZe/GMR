@@ -1,0 +1,3 @@
+a person jumps straight up and down, twice in a row.#a/DET person/NOUN jump/VERB straight/ADV up/ADV and/CCONJ down/ADV twice/ADV in/ADP a/DET row/NOUN#0.0#0.0
+the person is jumping up and down.#the/DET person/NOUN is/AUX jump/VERB up/ADP and/CCONJ down/ADV#0.0#0.0
+jumping up and down with help are the arms going up and down as well.#jump/VERB up/ADP and/CCONJ down/ADP with/ADP help/NOUN are/AUX the/DET arm/NOUN go/VERB up/ADV and/CCONJ down/ADV as/ADV well/ADV#0.0#0.0

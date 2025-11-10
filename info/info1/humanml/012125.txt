@@ -1,0 +1,3 @@
+a man jumping and opens his hands like a hug .#a/DET man/NOUN jump/VERB and/CCONJ open/VERB his/DET hand/NOUN like/SCONJ a/DET hug/NOUN#0.0#0.0
+a person is gently hopping#a/DET person/NOUN is/AUX gently/ADV hop/VERB#0.0#0.0
+a person is hopping little hops.#a/DET person/NOUN is/AUX hop/VERB little/ADJ hop/NOUN#0.0#0.0

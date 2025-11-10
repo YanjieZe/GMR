@@ -1,0 +1,3 @@
+a figure checks the time on their watch#a/DET figure/NOUN check/VERB the/DET time/NOUN on/ADP their/DET watch/NOUN#0.0#0.0
+a person looks at their left wrist and then puts their hand back down.#a/DET person/NOUN look/VERB at/ADP their/DET left/ADJ wrist/NOUN and/CCONJ then/ADV put/VERB their/DET hand/NOUN back/ADV down/ADV#0.0#0.0
+a person raised the left hand#a/DET person/NOUN raise/VERB the/DET left/ADJ hand/NOUN#0.0#0.0

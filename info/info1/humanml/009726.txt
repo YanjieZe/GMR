@@ -1,0 +1,3 @@
+a person does a throwing motion with his right arm#a/DET person/NOUN does/AUX a/DET throwing/NOUN motion/NOUN with/ADP his/DET right/ADJ arm/NOUN#0.0#0.0
+a person hits something with their right arm then catches something with both arms#a/DET person/NOUN hit/VERB something/PRON with/ADP their/DET right/ADJ arm/NOUN then/ADV catch/VERB something/PRON with/ADP both/DET arm/NOUN#0.0#0.0
+a person raises their right arm and pulls it back in wind up motion to throw a ball, the ball is then caught.#a/DET person/NOUN raise/VERB their/DET right/ADJ arm/NOUN and/CCONJ pull/VERB it/PRON back/ADV in/ADP wind/NOUN up/ADP motion/NOUN to/PART throw/VERB a/DET ball/NOUN the/DET ball/NOUN is/AUX then/ADV catch/VERB#0.0#0.0

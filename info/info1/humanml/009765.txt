@@ -1,0 +1,3 @@
+standing completely still and not moving.#stand/VERB completely/ADV still/ADV and/CCONJ not/PART move/VERB#0.0#0.0
+the person is standing still.#the/DET person/NOUN is/AUX stand/VERB still/ADV#0.0#0.0
+a person stands still and does not move.#a/DET person/NOUN stand/VERB still/ADV and/CCONJ does/AUX not/PART move/VERB#0.0#0.0

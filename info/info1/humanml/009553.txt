@@ -1,0 +1,3 @@
+a person comes towards the camera seemingly flipping a coin in their left hand.#a/DET person/NOUN come/VERB towards/ADP the/DET camera/NOUN seemingly/ADV flip/VERB a/DET coin/NOUN in/ADP their/DET left/ADJ hand/NOUN#0.0#0.0
+a man walks forward while swinging his left arm.#a/DET man/NOUN walk/VERB forward/ADV while/SCONJ swinge/VERB his/DET left/ADJ arm/NOUN#0.0#0.0
+a person walks forward swinging their left arm up and down.#a/DET person/NOUN walk/VERB forward/ADV swinge/VERB their/DET left/ADJ arm/NOUN up/ADV and/CCONJ down/ADV#0.0#0.0

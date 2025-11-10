@@ -1,0 +1,3 @@
+walk forward and backwards dancing#walk/VERB forward/ADV and/CCONJ backwards/ADV dancing/NOUN#0.0#0.0
+person dances energetically on screen and throws right arm in the sky repeatedly.#person/NOUN dance/VERB energetically/ADV on/ADP screen/NOUN and/CCONJ throw/VERB right/ADJ arm/NOUN in/ADP the/DET sky/NOUN repeatedly/ADV#0.0#0.0
+a person walks around, throwing their right arm up rhythmically with each step.#a/DET person/NOUN walk/VERB around/ADV throw/VERB their/DET right/ADJ arm/NOUN up/ADP rhythmically/ADV with/ADP each/DET step/NOUN#0.0#0.0

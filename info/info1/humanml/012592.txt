@@ -1,0 +1,3 @@
+a man picks something up off the ground.#a/DET man/NOUN pick/VERB something/PRON up/ADP off/ADP the/DET ground/NOUN#0.0#0.0
+a person picking something of the ground#a/DET person/NOUN pick/VERB something/PRON of/ADP the/DET ground/NOUN#0.0#0.0
+the toon bends down to pick something up.#the/DET toon/NOUN bend/VERB down/ADP to/PART pick/VERB something/PRON up/ADP#0.0#4.0

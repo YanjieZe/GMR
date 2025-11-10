@@ -1,0 +1,3 @@
+an individual is standing still in onenplace wirh borh hands on it’s hips.#an/DET individual/NOUN is/AUX stand/VERB still/ADV in/ADP onenplace/NOUN wirh/NOUN borh/VERB hand/NOUN on/ADP it/PRON hip/NOUN#0.0#0.0
+a person holds their arms forward, bent at the elbow, and stands still#a/DET person/NOUN hold/VERB their/DET arm/NOUN forward/ADV bent/ADJ at/ADP the/DET elbow/NOUN and/CCONJ stand/VERB still/ADV#0.0#0.0
+persons holding something down with both hands#person/NOUN hold/VERB something/PRON down/ADP with/ADP both/DET hand/NOUN#0.0#0.0

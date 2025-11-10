@@ -1,0 +1,3 @@
+the person is talking from a punch.#the/DET person/NOUN is/AUX talk/VERB from/ADP a/DET punch/NOUN#0.0#0.0
+a person has his arms up in a defensive position, and then swats something with his left hand.#a/DET person/NOUN has/AUX his/DET arm/NOUN up/ADP in/ADP a/DET defensive/ADJ position/NOUN and/CCONJ then/ADV swat/VERB something/PRON with/ADP his/DET left/ADJ hand/NOUN#0.0#5.0
+someone stands in place then lunges backwards and does a defensive motion with the right hand and arm.#someone/PRON stand/VERB in/ADP place/NOUN then/ADV lunge/VERB backwards/ADV and/CCONJ does/AUX a/DET defensive/ADJ motion/NOUN with/ADP the/DET right/ADJ hand/NOUN and/CCONJ arm/NOUN#0.0#0.0

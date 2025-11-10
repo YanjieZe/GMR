@@ -1,0 +1,3 @@
+a man is dancing in place while spinning around.#a/DET man/NOUN is/AUX dance/VERB in/ADP place/NOUN while/SCONJ spin/VERB around/ADV#0.0#0.0
+a person is dancing by bending back, putting their arms out in front of them, and then jumping and turning to repeat the dance.#a/DET person/NOUN is/AUX dance/VERB by/ADP bend/VERB back/ADV put/VERB their/DET arm/NOUN out/ADP in/ADP front/NOUN of/ADP them/PRON and/CCONJ then/ADV jump/VERB and/CCONJ turn/VERB to/PART repeat/VERB the/DET dance/NOUN#0.0#0.0
+a person is dancing happily#a/DET person/NOUN is/AUX dance/VERB happily/ADV#0.0#0.0

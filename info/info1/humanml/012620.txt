@@ -1,0 +1,3 @@
+a person is running continually in place.#a/DET person/NOUN is/AUX run/VERB continually/ADV in/ADP place/NOUN#0.0#0.0
+a person runs in place quickly.#a/DET person/NOUN run/VERB in/ADP place/NOUN quickly/ADV#0.0#0.0
+a person is running on a treadmill.#a/DET person/NOUN is/AUX run/VERB on/ADP a/DET treadmill/NOUN#0.0#0.0

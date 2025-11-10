@@ -1,0 +1,3 @@
+person places left  hand on face and holds for a few seconds and then repeats motion using the right hand.#person/NOUN place/NOUN left/VERB hand/NOUN on/ADP face/NOUN and/CCONJ hold/VERB for/ADP a/DET few/ADJ second/NOUN and/CCONJ then/ADV repeat/VERB motion/NOUN use/VERB the/DET right/ADJ hand/NOUN#0.0#0.0
+a person holds their left hand in front of their face, then switches to the right hand.#a/DET person/NOUN hold/VERB their/DET left/ADJ hand/NOUN in/ADP front/NOUN of/ADP their/DET face/NOUN then/ADV switch/VERB to/ADP the/DET right/ADJ hand/NOUN#0.0#0.0
+he pretends to touch his head#he/PRON pretend/VERB to/PART touch/VERB his/DET head/NOUN#0.0#0.0

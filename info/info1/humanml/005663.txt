@@ -1,0 +1,3 @@
+a person gestures to another person to come in their direction and then waves.#a/DET person/NOUN gesture/VERB to/ADP another/DET person/NOUN to/PART come/VERB in/ADP their/DET direction/NOUN and/CCONJ then/ADV wave/NOUN#0.0#0.0
+a person moves back and forth with their right arm and then seems to wave goodbye#a/DET person/NOUN move/VERB back/ADV and/CCONJ forth/ADV with/ADP their/DET right/ADJ arm/NOUN and/CCONJ then/ADV seem/VERB to/PART wave/VERB goodbye/NOUN#0.0#0.0
+a person seems to be shaking something; perhaps a can of spray paint.#a/DET person/NOUN seem/VERB to/PART be/AUX shake/VERB something/PRON perhaps/ADV a/DET can/NOUN of/ADP spray/NOUN paint/NOUN#0.0#0.0

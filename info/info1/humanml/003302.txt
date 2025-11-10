@@ -1,0 +1,3 @@
+person stands upright and moves left arms in a angry position while shaking his other arm#person/NOUN stand/VERB upright/ADJ and/CCONJ move/VERB left/VERB arm/NOUN in/ADP a/DET angry/ADJ position/NOUN while/SCONJ shake/VERB his/DET other/ADJ arm/NOUN#0.0#0.0
+person is knocking then waving hi and or knocking on something.#person/NOUN is/AUX knock/VERB then/ADV wave/VERB hi/INTJ and/CCONJ or/CCONJ knock/VERB on/ADP something/PRON#0.0#0.0
+said person is giving a direct motion#say/VERB person/NOUN is/AUX give/VERB a/DET direct/ADJ motion/NOUN#0.0#0.0

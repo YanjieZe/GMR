@@ -1,0 +1,3 @@
+a person has both hands on his legs.#a/DET person/NOUN has/AUX both/DET hand/NOUN on/ADP his/DET leg/NOUN#0.0#0.0
+a person sits on a stool,#a/DET person/NOUN sit/VERB on/ADP a/DET stool/NOUN#0.0#0.0
+person stays still while their knees are slightly bent. look to be relatively still#person/NOUN stay/VERB still/ADV while/SCONJ their/DET knee/NOUN are/AUX slightly/ADV bent/ADJ look/VERB to/PART be/AUX relatively/ADV still/ADV#0.0#0.0

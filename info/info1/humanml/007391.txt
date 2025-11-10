@@ -1,0 +1,3 @@
+the person walks forward  and to their left as if following a railing or banister.#the/DET person/NOUN walk/VERB forward/ADV and/CCONJ to/ADP their/DET left/NOUN as/SCONJ if/SCONJ follow/VERB a/DET railing/NOUN or/CCONJ banister/NOUN#0.0#0.0
+a person walks forward while leaning to their left.#a/DET person/NOUN walk/VERB forward/ADV while/SCONJ lean/VERB to/ADP their/DET left/NOUN#0.0#0.0
+a man walks in a diagonal to his left, appearing to hold a cane or a walking stick of some kind.#a/DET man/NOUN walk/VERB in/ADP a/DET diagonal/ADJ to/ADP his/DET left/NOUN appear/VERB to/PART hold/VERB a/DET cane/NOUN or/CCONJ a/DET walk/VERB stick/NOUN of/ADP some/DET kind/NOUN#0.0#0.0

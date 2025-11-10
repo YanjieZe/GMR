@@ -1,0 +1,3 @@
+a person squats twice, extending their arms forward each time.#a/DET person/NOUN squat/VERB twice/ADV extend/VERB their/DET arm/NOUN forward/ADV each/DET time/NOUN#0.0#0.0
+a person does 2 squats#a/DET person/NOUN does/AUX squat/NOUN#0.0#0.0
+a person does two free squats#a/DET person/NOUN does/AUX two/NUM free/ADJ squat/NOUN#0.0#10.0

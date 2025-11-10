@@ -1,0 +1,3 @@
+a person throws object with both hands.#a/DET person/NOUN throw/VERB object/NOUN with/ADP both/DET hand/NOUN#0.0#0.0
+a stick figure raises its arms and jumps.#a/DET stick/NOUN figure/NOUN raise/VERB its/DET arm/NOUN and/CCONJ jump/NOUN#0.0#0.0
+he throws his both of his hands#he/PRON throw/VERB his/DET both/DET of/ADP his/DET hand/NOUN#0.0#0.0

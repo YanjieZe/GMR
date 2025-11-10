@@ -1,0 +1,3 @@
+a person thinking in a crouched over position#a/DET person/NOUN think/VERB in/ADP a/DET crouched/ADJ over/ADP position/NOUN#0.0#0.0
+this person is crouched with knees bent and arms bent.#this/DET person/NOUN is/AUX crouch/VERB with/ADP knee/NOUN bent/ADJ and/CCONJ arm/NOUN bent/ADJ#0.0#0.0
+the person is seen to rest their arms on the knee#the/DET person/NOUN is/AUX see/VERB to/PART rest/VERB their/DET arm/NOUN on/ADP the/DET knee/NOUN#0.0#0.0

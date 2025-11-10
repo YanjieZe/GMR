@@ -1,0 +1,3 @@
+person moves right foot around in circles while standing.#person/NOUN move/VERB right/ADJ foot/NOUN around/ADV in/ADP circle/NOUN while/SCONJ stand/VERB#0.0#0.0
+a man stands twisting his right ankle and various directions.#a/DET man/NOUN stand/VERB twist/VERB his/DET right/ADJ ankle/NOUN and/CCONJ various/ADJ direction/NOUN#0.0#0.0
+person is balancing on their right leg while there left leg is extended and their ankle is moving clockwise and counterclockwise. they#person/NOUN is/AUX balance/VERB on/ADP their/DET right/ADJ leg/NOUN while/SCONJ there/ADV left/VERB leg/NOUN is/AUX extended/ADJ and/CCONJ their/DET ankle/NOUN is/AUX move/VERB clockwise/NOUN and/CCONJ counterclockwise/NOUN they/PRON#0.0#0.0

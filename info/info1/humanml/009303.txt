@@ -1,0 +1,3 @@
+a person starts walking forward and then begins to run.#a/DET person/NOUN start/VERB walk/VERB forward/ADV and/CCONJ then/ADV begin/VERB to/PART run/VERB#0.0#0.0
+walking forward in a diagonal line.#walk/VERB forward/ADV in/ADP a/DET diagonal/ADJ line/NOUN#0.0#0.0
+the person is walking forward.#the/DET person/NOUN is/AUX walk/VERB forward/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+walking in a diagonal line then sitting.#walk/VERB in/ADP a/DET diagonal/ADJ line/NOUN then/ADV sit/VERB#0.0#0.0
+a person takes a few steps to their left and sits down on something.#a/DET person/NOUN take/VERB a/DET few/ADJ step/NOUN to/ADP their/DET left/NOUN and/CCONJ sit/VERB down/ADP on/ADP something/PRON#0.0#0.0
+a figure places its arms by its side, walks in a line, and sits#a/DET figure/NOUN place/VERB its/DET arm/NOUN by/ADP its/DET side/NOUN walk/VERB in/ADP a/DET line/NOUN and/CCONJ sit/VERB#0.0#0.0

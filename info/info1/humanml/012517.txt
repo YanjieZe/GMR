@@ -1,0 +1,3 @@
+a person walks forward, stops, then walked backward and walked forward again.#a/DET person/NOUN walk/VERB forward/ADV stop/NOUN then/ADV walk/VERB backward/ADV and/CCONJ walk/VERB forward/ADV again/ADV#0.0#0.0
+a person walks forward, then staggers backwards a few steps as if they'd bumped into something.#a/DET person/NOUN walk/VERB forward/ADV then/ADV stagger/VERB backwards/ADV a/DET few/ADJ step/NOUN as/SCONJ if/SCONJ they/PRON bump/VERB into/ADP something/PRON#0.0#0.0
+a person walks forward, stops abruptly, and then walks directly backwards.#a/DET person/NOUN walk/VERB forward/ADV stop/VERB abruptly/ADV and/CCONJ then/ADV walk/VERB directly/ADV backwards/ADV#nan#0.0

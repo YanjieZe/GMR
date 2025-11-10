@@ -1,0 +1,3 @@
+the person is preforming a swimming stroke know as the butterfly stroke.  the arms swing from behind the head and reenter the water propelling the person forward.#the/DET person/NOUN is/AUX preform/VERB a/DET swimming/NOUN stroke/NOUN know/VERB as/SCONJ the/DET butterfly/NOUN stroke/NOUN the/DET arm/NOUN swing/VERB from/ADP behind/ADP the/DET head/NOUN and/CCONJ reenter/VERB the/DET water/NOUN propel/VERB the/DET person/NOUN forward/ADV#0.0#0.0
+a man diving into water, swimming.#a/DET man/NOUN dive/VERB into/ADP water/NOUN swimming/NOUN#0.0#0.0
+a man swimming using both hands together while kicking his feet in unison.#a/DET man/NOUN swim/VERB use/VERB both/DET hand/NOUN together/ADV while/SCONJ kick/VERB his/DET foot/NOUN in/ADP unison/PROPN#0.0#0.0

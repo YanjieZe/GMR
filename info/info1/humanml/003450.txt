@@ -1,0 +1,3 @@
+the person is working on something.#the/DET person/NOUN is/AUX work/VERB on/ADP something/PRON#0.0#0.0
+a person is combing their hair#a/DET person/NOUN is/AUX comb/VERB their/DET hair/NOUN#0.0#0.0
+a figure raises both arms above head, moving hands back and forth over head.#a/DET figure/NOUN raise/VERB both/DET arm/NOUN above/ADP head/NOUN move/VERB hand/NOUN back/ADV and/CCONJ forth/ADV over/ADP head/NOUN#0.0#0.0

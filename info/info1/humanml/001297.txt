@@ -1,0 +1,3 @@
+the person grabs something above then, then shimmies to the right, then searches for something#the/DET person/NOUN grab/VERB something/PRON above/ADP then/ADV then/ADV shimmy/VERB to/ADP the/DET right/NOUN then/ADV search/VERB for/ADP something/PRON#0.0#0.0
+with his hands out in front of him, he steps forward and feels around the walls trying to find something.#with/ADP his/DET hand/NOUN out/ADP in/ADP front/NOUN of/ADP him/PRON he/PRON step/VERB forward/ADV and/CCONJ feel/VERB around/ADP the/DET wall/NOUN try/VERB to/PART find/VERB something/PRON#0.0#0.0
+a man uses his hands in what looks like to be feeling a wall.#a/DET man/NOUN use/VERB his/DET hand/NOUN in/ADP what/PRON look/VERB like/SCONJ to/PART be/AUX feel/VERB a/DET wall/NOUN#0.0#0.0

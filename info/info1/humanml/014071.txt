@@ -1,0 +1,3 @@
+the person is bouncing to do boxing.#the/DET person/NOUN is/AUX bounce/VERB to/PART do/AUX boxing/NOUN#0.0#0.0
+a person was jumping forward and backward#a/DET person/NOUN was/AUX jump/VERB forward/ADV and/CCONJ backward/ADJ#0.0#0.0
+person is in fighting stance with its arms hanging waiting for something to happen.#person/NOUN is/AUX in/ADP fight/VERB stance/NOUN with/ADP its/DET arm/NOUN hang/VERB wait/VERB for/ADP something/PRON to/PART happen/VERB#0.0#0.0

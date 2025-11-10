@@ -1,0 +1,3 @@
+the person is hammering a nail.#the/DET person/NOUN is/AUX hammer/VERB a/DET nail/NOUN#0.0#0.0
+moving arm around near chest then backing up.#move/VERB arm/NOUN around/ADP near/SCONJ chest/NOUN then/ADV back/VERB up/ADP#0.0#0.0
+the person starts scratching their right leg and then take steps back#the/DET person/NOUN start/VERB scratch/VERB their/DET right/ADJ leg/NOUN and/CCONJ then/ADV take/VERB step/NOUN back/ADV#0.0#0.0

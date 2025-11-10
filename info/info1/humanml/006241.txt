@@ -1,0 +1,3 @@
+the person is jogging with dumbbells.#the/DET person/NOUN is/AUX jog/VERB with/ADP dumbbell/NOUN#0.0#0.0
+the man lifts the dumbbell with right hand#the/DET man/NOUN lift/VERB the/DET dumbbell/NOUN with/ADP right/ADJ hand/NOUN#0.0#0.0
+a person dances around in a little jig#a/DET person/NOUN dance/VERB around/ADP in/ADP a/DET little/ADJ jig/NOUN#0.0#0.0

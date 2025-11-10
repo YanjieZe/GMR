@@ -1,0 +1,3 @@
+someone who is running on a treadmil.#someone/PRON who/PRON is/AUX run/VERB on/ADP a/DET treadmil/NOUN#0.0#0.0
+a person is jogging at a decent/steady pace, with arms at full swing.#a/DET person/NOUN is/AUX jog/VERB at/ADP a/DET decent/ADJ steady/ADJ pace/NOUN with/ADP arm/NOUN at/ADP full/ADJ swing/NOUN#0.0#0.0
+a man runs in place.#a/DET man/NOUN run/VERB in/ADP place/NOUN#0.0#0.0

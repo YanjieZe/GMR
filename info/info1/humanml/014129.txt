@@ -1,0 +1,3 @@
+a figures hands are near its face, preparing to pitch, then the figure slowly performs the motion of pitching#a/DET figure/NOUN hand/NOUN are/AUX near/SCONJ its/DET face/NOUN prepare/VERB to/PART pitch/VERB then/ADV the/DET figure/NOUN slowly/ADV perform/VERB the/DET motion/NOUN of/ADP pitching/NOUN#0.0#0.0
+he does a trial upperxut#he/PRON does/AUX a/DET trial/NOUN upperxut/NOUN#0.0#0.0
+the person is clasping his hands together getting ready to pitch the ball.#the/DET person/NOUN is/AUX clasp/VERB his/DET hand/NOUN together/ADV get/VERB ready/ADJ to/PART pitch/VERB the/DET ball/NOUN#0.0#0.0

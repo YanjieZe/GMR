@@ -1,0 +1,3 @@
+a person raises their hands and claps.#a/DET person/NOUN raise/VERB their/DET hand/NOUN and/CCONJ clap/NOUN#0.0#0.0
+a person is clapping their hands.#a/DET person/NOUN is/AUX clap/VERB their/DET hand/NOUN#0.0#0.0
+person is engaged in clapping#person/NOUN is/AUX engage/VERB in/ADP clap/VERB#0.0#0.0

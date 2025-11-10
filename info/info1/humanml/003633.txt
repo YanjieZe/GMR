@@ -1,0 +1,3 @@
+a person walks backwards swinging his or her arms.#a/DET person/NOUN walk/VERB backwards/ADV swinge/VERB his/DET or/CCONJ her/DET arm/NOUN#0.0#0.0
+person is walking ahead.#person/NOUN is/AUX walk/VERB ahead/ADV#0.0#0.0
+a person walks straight forward with their hands at their sides.#a/DET person/NOUN walk/VERB straight/ADV forward/ADV with/ADP their/DET hand/NOUN at/ADP their/DET side/NOUN#0.0#3.0

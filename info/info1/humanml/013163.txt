@@ -1,0 +1,3 @@
+a man walks forwards, curving to the left.#a/DET man/NOUN walk/VERB forwards/ADV curve/VERB to/ADP the/DET left/NOUN#0.0#0.0
+a person walks a path that bends to the left.#a/DET person/NOUN walk/VERB a/DET path/NOUN that/DET bend/VERB to/ADP the/DET left/NOUN#0.0#0.0
+a person who is standing with his arms by his sides takes four steps forward and to the left before stopping, then slightly turns his body to the left.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP his/DET arm/NOUN by/ADP his/DET side/NOUN take/VERB four/NUM step/NOUN forward/ADV and/CCONJ to/ADP the/DET left/NOUN before/ADP stop/VERB then/ADV slightly/ADV turn/VERB his/DET body/NOUN to/ADP the/DET left/NOUN#0.0#0.0

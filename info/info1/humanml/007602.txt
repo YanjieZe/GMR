@@ -1,0 +1,3 @@
+a person puts his hands to his face to shout louder#a/DET person/NOUN put/VERB his/DET hand/NOUN to/ADP his/DET face/NOUN to/PART shout/VERB louder/ADV#0.0#0.0
+a person raises both hands to mouth level while the are out in front of their face and keeping the hands in this position for four seconds until the arms are lowered.#a/DET person/NOUN raise/VERB both/DET hand/NOUN to/ADP mouth/NOUN level/NOUN while/SCONJ the/DET are/AUX out/ADV in/ADP front/NOUN of/ADP their/DET face/NOUN and/CCONJ keep/VERB the/DET hand/NOUN in/ADP this/DET position/NOUN for/ADP four/NUM second/NOUN until/ADP the/DET arm/NOUN are/AUX lower/VERB#0.0#0.0
+person is looking through his binoculars.#person/NOUN is/AUX look/VERB through/ADP his/DET binocular/NOUN#0.0#0.0

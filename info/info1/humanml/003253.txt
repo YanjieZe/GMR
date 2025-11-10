@@ -1,0 +1,3 @@
+a person starts sitting on the ground with his legs crossed in front of him and uses his arm to keep him stable while using his right leg to bring himself up to a standing position.#a/DET person/NOUN start/VERB sit/VERB on/ADP the/DET ground/NOUN with/ADP his/DET leg/NOUN cross/VERB in/ADP front/NOUN of/ADP him/PRON and/CCONJ use/VERB his/DET arm/NOUN to/PART keep/VERB him/PRON stable/ADJ while/SCONJ use/VERB his/DET right/ADJ leg/NOUN to/PART bring/VERB himself/PRON up/ADP to/ADP a/DET standing/ADJ position/NOUN#0.0#0.0
+a person getting up from sitting indian style.#a/DET person/NOUN get/VERB up/ADP from/ADP sit/VERB indian/ADJ style/NOUN#0.0#0.0
+a man sitting crossed legged stands up.#a/DET man/NOUN sit/VERB cross/VERB legged/ADJ stand/VERB up/ADP#0.0#0.0

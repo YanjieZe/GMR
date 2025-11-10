@@ -1,0 +1,3 @@
+the person was swinging his arms wildly and then stops.#the/DET person/NOUN was/AUX swinge/VERB his/DET arm/NOUN wildly/ADV and/CCONJ then/ADV stop/VERB#0.0#0.0
+i person lifts both arms in the air and shakes them vigorously before putting them back down.#i/PRON person/NOUN lift/VERB both/DET arm/NOUN in/ADP the/DET air/NOUN and/CCONJ shake/VERB them/PRON vigorously/ADV before/ADP put/VERB them/PRON back/ADV down/ADV#0.0#0.0
+a person lifts their arms above their head, waves them side to side, and then puts them back down.#a/DET person/NOUN lift/VERB their/DET arm/NOUN above/ADP their/DET head/NOUN wave/VERB them/PRON side/VERB to/PART side/VERB and/CCONJ then/ADV put/VERB them/PRON back/ADV down/ADP#0.0#0.0

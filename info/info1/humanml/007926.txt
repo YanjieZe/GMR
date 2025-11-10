@@ -1,0 +1,3 @@
+a person lowers his arms up and down while in a squatting position#a/DET person/NOUN lower/VERB his/DET arm/NOUN up/ADP and/CCONJ down/ADV while/SCONJ in/ADP a/DET squat/VERB position/NOUN#0.0#0.0
+the person squatting putting his arms down#the/DET person/NOUN squat/VERB put/VERB his/DET arm/NOUN down/ADV#0.0#0.0
+lifting arms outward from body#lift/VERB arm/NOUN outward/ADV from/ADP body/NOUN#0.0#0.0

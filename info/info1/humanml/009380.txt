@@ -1,0 +1,3 @@
+perseon starts standing then sqauts toward ground and jumps high, repeated twice.#perseon/PROPN start/VERB stand/VERB then/ADV sqaut/VERB toward/ADP ground/NOUN and/CCONJ jump/VERB high/ADJ repeat/VERB twice/ADV#0.0#0.0
+a person is squatting down, jumping into the air, and landing on the ground and breaking it.#a/DET person/NOUN is/AUX squat/VERB down/ADP jump/VERB into/ADP the/DET air/NOUN and/CCONJ landing/NOUN on/ADP the/DET ground/NOUN and/CCONJ break/VERB it/PRON#0.0#0.0
+a person squats and jumps two times.#a/DET person/NOUN squat/VERB and/CCONJ jump/VERB two/NUM time/NOUN#0.0#0.0

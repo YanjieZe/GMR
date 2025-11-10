@@ -1,0 +1,3 @@
+sit on the floor and like driving.#sit/VERB on/ADP the/DET floor/NOUN and/CCONJ like/SCONJ drive/VERB#0.0#0.0
+the man is seated driving a car.#the/DET man/NOUN is/AUX seat/VERB drive/VERB a/DET car/NOUN#0.0#0.0
+person is in chair or seat using steering wheel#person/NOUN is/AUX in/ADP chair/NOUN or/CCONJ seat/NOUN use/VERB steering/NOUN wheel/NOUN#0.0#0.0

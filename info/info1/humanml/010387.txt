@@ -1,0 +1,3 @@
+a person checks the watch on their left arm.#a/DET person/NOUN check/VERB the/DET watch/NOUN on/ADP their/DET left/ADJ arm/NOUN#0.0#0.0
+a man putting his right hand over his left and swaying his shoulders from side to side.#a/DET man/NOUN put/VERB his/DET right/ADJ hand/NOUN over/ADP his/DET left/NOUN and/CCONJ sway/VERB his/DET shoulder/NOUN from/ADP side/NOUN to/ADP side/NOUN#0.0#0.0
+a person raises both their hands to its chest.#a/DET person/NOUN raise/VERB both/CCONJ their/DET hand/NOUN to/ADP its/DET chest/NOUN#0.0#0.0

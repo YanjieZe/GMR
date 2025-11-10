@@ -1,0 +1,3 @@
+user is bouncing with feet on ground and pushes hands out slightly#user/NOUN is/AUX bounce/VERB with/ADP foot/NOUN on/ADP ground/NOUN and/CCONJ push/VERB hand/NOUN out/ADV slightly/ADV#0.0#0.0
+he does the misk slowly#he/PRON does/AUX the/DET misk/NOUN slowly/ADV#0.0#0.0
+a person dances casually using their arms and legs to move to the beat.#a/DET person/NOUN dance/VERB casually/ADV use/VERB their/DET arm/NOUN and/CCONJ leg/NOUN to/PART move/VERB to/ADP the/DET beat/NOUN#0.0#0.0

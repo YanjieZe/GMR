@@ -1,0 +1,3 @@
+a man stretches arms overhead then lowers them extended to both sides back to resting#a/DET man/NOUN stretch/VERB arm/NOUN overhead/ADV then/ADV lower/VERB them/PRON extend/VERB to/ADP both/DET side/NOUN back/ADV to/ADP rest/VERB#0.0#0.0
+the person is doing an arm stretch.#the/DET person/NOUN is/AUX do/VERB an/DET arm/NOUN stretch/NOUN#0.0#0.0
+the person is stretching its arms outward.#the/DET person/NOUN is/AUX stretch/VERB its/DET arm/NOUN outward/ADV#0.0#0.0

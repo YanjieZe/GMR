@@ -1,0 +1,3 @@
+a person raises their left arm forward to be parallel with the ground.#a/DET person/NOUN raise/VERB their/DET left/ADJ arm/NOUN forward/ADV to/PART be/AUX parallel/ADJ with/ADP the/DET ground/NOUN#0.0#0.0
+a man moves his left arm in front of him.#a/DET man/NOUN move/VERB his/DET left/ADJ arm/NOUN in/ADP front/NOUN of/ADP him/PRON#0.0#0.0
+a person raising their left arm away from their body#a/DET person/NOUN raise/VERB their/DET left/ADJ arm/NOUN away/ADV from/ADP their/DET body/NOUN#0.0#0.0

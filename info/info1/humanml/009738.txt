@@ -1,0 +1,3 @@
+the person is walking towards the left.#the/DET person/NOUN is/AUX walk/VERB towards/ADP the/DET left/NOUN#0.0#0.0
+stick figure walks in a line before rotating counter clockwise and walking back#stick/PROPN figure/NOUN walk/VERB in/ADP a/DET line/NOUN before/ADP rotate/VERB counter/NOUN clockwise/NOUN and/CCONJ walk/VERB back/ADV#1.0#10.0
+a person is walking and then turns around and walks back#a/DET person/NOUN is/AUX walk/VERB and/CCONJ then/ADV turn/VERB around/ADV and/CCONJ walk/VERB back/ADV#0.0#0.0

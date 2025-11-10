@@ -1,0 +1,3 @@
+a person holding their left knee up in their air.#a/DET person/NOUN hold/VERB their/DET left/ADJ knee/NOUN up/ADP in/ADP their/DET air/NOUN#0.0#0.0
+a man bends and moves his right leg while holding it.#a/DET man/NOUN bend/VERB and/CCONJ move/VERB his/DET right/ADJ leg/NOUN while/SCONJ hold/VERB it/PRON#0.0#0.0
+the man stretches and kicks his left leg.#the/DET man/NOUN stretch/VERB and/CCONJ kick/VERB his/DET left/ADJ leg/NOUN#0.0#0.0

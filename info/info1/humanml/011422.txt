@@ -1,0 +1,3 @@
+a person jumps forward once.#a/DET person/NOUN jump/VERB forward/ADV once/ADV#0.0#0.0
+a person standing on the ground then jumping forward .#a/DET person/NOUN stand/VERB on/ADP the/DET ground/NOUN then/ADV jump/VERB forward/ADV#0.0#0.0
+a person prepares to jump forward by swinging arms back and then jumps forward.#a/DET person/NOUN prepare/VERB to/PART jump/VERB forward/ADV by/ADP swinge/VERB arm/NOUN back/ADV and/CCONJ then/ADV jump/VERB forward/ADV#0.0#0.0

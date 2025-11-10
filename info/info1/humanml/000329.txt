@@ -1,0 +1,3 @@
+someone stumbles to their right putting their right foot over their left foot.#someone/PRON stumble/VERB to/ADP their/DET right/ADJ put/VERB their/DET right/ADJ foot/NOUN over/ADP their/DET left/ADJ foot/NOUN#0.0#0.0
+a person stumbles to the right in a forced motion.#a/DET person/NOUN stumble/VERB to/ADP the/DET right/NOUN in/ADP a/DET force/VERB motion/NOUN#0.0#0.0
+a person a appears to be pushed to their right, loses balance, and then stands steadily again.#a/DET person/NOUN a/DET appear/VERB to/PART be/AUX push/VERB to/ADP their/DET right/NOUN lose/VERB balance/NOUN and/CCONJ then/ADV stand/VERB steadily/ADV again/ADV#0.0#0.0

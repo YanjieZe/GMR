@@ -1,0 +1,3 @@
+a person stumbles around while occasionally pumping his hand in front of his face#a/DET person/NOUN stumble/VERB around/ADP while/SCONJ occasionally/ADV pump/VERB his/DET hand/NOUN in/ADP front/NOUN of/ADP his/DET face/NOUN#0.0#0.0
+this person steps forward and waves several times with his right hand.#this/DET person/NOUN step/VERB forward/ADV and/CCONJ wave/NOUN several/ADJ time/NOUN with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+a person is walking and waving hello.#a/DET person/NOUN is/AUX walk/VERB and/CCONJ wave/VERB hello/INTJ#0.0#0.0

@@ -1,0 +1,3 @@
+a person is boxing, jabbing mostly with his right hand.#a/DET person/NOUN is/AUX box/VERB jab/VERB mostly/ADV with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+a person bouncing around while throwing jabs and upper cuts.#a/DET person/NOUN bounce/VERB around/ADP while/SCONJ throw/VERB jab/NOUN and/CCONJ upper/ADJ cut/NOUN#0.0#0.0
+a person is slightly jumping while alternating left and right jabs.#a/DET person/NOUN is/AUX slightly/ADV jump/VERB while/SCONJ alternate/VERB left/ADJ and/CCONJ right/ADJ jab/NOUN#0.0#0.0

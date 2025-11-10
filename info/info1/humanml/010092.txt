@@ -1,0 +1,3 @@
+a person is extending both their arms forward.#a/DET person/NOUN is/AUX extend/VERB both/DET their/DET arm/NOUN forward/ADV#0.0#0.0
+the sim has both arms extended fully, before bring their arms down in front of them appearing to grab a steering wheel.#the/DET sim/PROPN has/AUX both/DET arm/NOUN extend/VERB fully/ADV before/ADP bring/VERB their/DET arm/NOUN down/ADP in/ADP front/NOUN of/ADP them/PRON appear/VERB to/PART grab/VERB a/DET steering/NOUN wheel/NOUN#0.0#9.0
+a person puts both arms in front.#a/DET person/NOUN put/VERB both/DET arm/NOUN in/ADP front/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+the person is jumping in place.#the/DET person/NOUN is/AUX jump/VERB in/ADP place/NOUN#0.0#0.0
+a person making a jumping straight up with their elbows bent up.#a/DET person/NOUN make/VERB a/DET jumping/NOUN straight/ADV up/ADV with/ADP their/DET elbow/NOUN bend/VERB up/ADP#0.0#0.0
+person jumps up twice with there shoulder locked and arms up and down#person/NOUN jump/VERB up/ADP twice/ADV with/ADP there/ADV shoulder/NOUN lock/VERB and/CCONJ arm/NOUN up/ADV and/CCONJ down/ADP#0.0#0.0

@@ -1,0 +1,3 @@
+the person rubs his arm, sits up, and then walks away.#the/DET person/NOUN rub/VERB his/DET arm/NOUN sit/VERB up/ADP and/CCONJ then/ADV walk/VERB away/ADV#1.0#6.0
+this person moves his arms as if taking a shower.#this/DET person/NOUN move/VERB his/DET arm/NOUN as/SCONJ if/SCONJ take/VERB a/DET shower/NOUN#0.0#0.0
+a person makes a waving motion, stands up, and walks forward with their arms stretched out.#a/DET person/NOUN make/VERB a/DET waving/ADJ motion/NOUN stand/VERB up/ADP and/CCONJ walk/VERB forward/ADV with/ADP their/DET arm/NOUN stretch/VERB out/ADP#0.0#0.0

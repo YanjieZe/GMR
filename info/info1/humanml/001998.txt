@@ -1,0 +1,3 @@
+the man drops one arm then raises it again.#the/DET man/NOUN drop/VERB one/NUM arm/NOUN then/ADV raise/VERB it/PRON again/ADV#0.0#0.0
+a person squats with arms out while lowering the left arm, holding it there, and then raising it back up to starting position.#a/DET person/NOUN squat/VERB with/ADP arm/NOUN out/ADV while/SCONJ lower/VERB the/DET left/ADJ arm/NOUN hold/VERB it/PRON there/ADV and/CCONJ then/ADV raise/VERB it/PRON back/ADV up/ADP to/ADP start/VERB position/NOUN#0.0#0.0
+he is squatting a little and he lowers one arm then raises it again.#he/PRON is/AUX squat/VERB a/DET little/ADJ and/CCONJ he/PRON lower/VERB one/NUM arm/NOUN then/ADV raise/VERB it/PRON again/ADV#0.0#0.0

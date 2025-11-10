@@ -1,0 +1,3 @@
+man kneeling paying respects to a fallen soldier.#man/NOUN kneel/VERB pay/VERB respect/NOUN to/ADP a/DET fall/VERB soldier/NOUN#0.0#0.0
+the person kneeled before his superior.#the/DET person/NOUN kneel/VERB before/ADP his/DET superior/NOUN#0.0#0.0
+kneeling on the ground with head lookin down#kneel/VERB on/ADP the/DET ground/NOUN with/ADP head/NOUN lookin/PROPN down/ADP#0.0#0.0

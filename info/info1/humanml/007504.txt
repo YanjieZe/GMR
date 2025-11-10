@@ -1,0 +1,3 @@
+person takes one step backward#person/NOUN take/VERB one/NUM step/NOUN backward/ADV#0.0#0.0
+a standing person suddenly steps back and slightly to their right.#a/DET stand/VERB person/NOUN suddenly/ADV step/VERB back/ADV and/CCONJ slightly/ADV to/ADP their/DET right/NOUN#0.0#0.0
+the person was pushed from the left but did not fall down.#the/DET person/NOUN was/AUX push/VERB from/ADP the/DET left/NOUN but/CCONJ did/AUX not/PART fall/VERB down/ADP#0.0#0.0

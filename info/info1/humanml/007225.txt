@@ -1,0 +1,2 @@
+a figure marches to their own drum#a/DET figure/NOUN march/VERB to/ADP their/DET own/ADJ drum/NOUN#0.0#0.0
+the man takes 2 steps swinging his arms.#the/DET man/NOUN take/VERB step/NOUN swinge/VERB his/DET arm/NOUN#0.0#0.0

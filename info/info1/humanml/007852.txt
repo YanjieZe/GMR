@@ -1,0 +1,3 @@
+a person walks forward and to the side#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ to/ADP the/DET side/NOUN#0.0#0.0
+a person casually walks in a wide arc to their right then stops and stands still#a/DET person/NOUN casually/ADV walk/VERB in/ADP a/DET wide/ADJ arc/NOUN to/ADP their/DET right/NOUN then/ADV stop/VERB and/CCONJ stand/VERB still/ADV#0.0#0.0
+walking in a diagonal line.#walk/VERB in/ADP a/DET diagonal/ADJ line/NOUN#0.0#0.0

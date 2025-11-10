@@ -1,0 +1,3 @@
+he does some recovery stops#he/PRON does/AUX some/DET recovery/NOUN stop/NOUN#0.0#0.0
+a man takes two steps backwards.#a/DET man/NOUN take/VERB two/NUM step/NOUN backwards/ADV#0.0#0.0
+figure in the forward moves backwards in the forward.#figure/NOUN in/ADP the/DET forward/ADJ move/NOUN backwards/ADV in/ADP the/DET forward/NOUN#0.0#0.0

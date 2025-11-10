@@ -1,0 +1,3 @@
+a person bends over and first pulls on something with their right hand, then pulls it out and sets it down.#a/DET person/NOUN bend/VERB over/ADV and/CCONJ first/ADJ pull/NOUN on/ADP something/PRON with/ADP their/DET right/ADJ hand/NOUN then/ADV pull/VERB it/PRON out/ADP and/CCONJ set/VERB it/PRON down/ADP#0.0#0.0
+a person shakes or mixes something up#a/DET person/NOUN shake/VERB or/CCONJ mix/VERB something/PRON up/ADP#0.0#0.0
+a person is using a hand saw#a/DET person/NOUN is/AUX use/VERB a/DET hand/NOUN saw/NOUN#0.0#0.0

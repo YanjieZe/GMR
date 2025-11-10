@@ -1,0 +1,3 @@
+a person unzipping pants flyer#a/DET person/NOUN unzip/VERB pant/NOUN flyer/NOUN#0.0#0.0
+a person unzippers his pants with his left hand.#a/DET person/NOUN unzipper/VERB his/DET pant/NOUN with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0
+a person was standing at the place, while doing something with hands#a/DET person/NOUN was/AUX stand/VERB at/ADP the/DET place/NOUN while/SCONJ do/VERB something/PRON with/ADP hand/NOUN#0.0#0.0

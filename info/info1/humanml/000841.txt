@@ -1,0 +1,3 @@
+a person balancing on their right leg pivots their left leg around the knee joint in each direction#a/DET person/NOUN balance/VERB on/ADP their/DET right/ADJ leg/NOUN pivot/NOUN their/DET left/ADJ leg/NOUN around/ADP the/DET knee/NOUN joint/NOUN in/ADP each/DET direction/NOUN#0.0#0.0
+a person stands on their right leg while kicking around with their left leg.#a/DET person/NOUN stand/VERB on/ADP their/DET right/ADJ leg/NOUN while/SCONJ kick/VERB around/ADP with/ADP their/DET left/ADJ leg/NOUN#0.0#0.0
+person is likely kicking soccer balls.#person/NOUN is/AUX likely/ADV kick/VERB soccer/NOUN ball/NOUN#0.0#0.0

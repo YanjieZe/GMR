@@ -1,0 +1,3 @@
+a person who is standing with his hands by his sides takes six steps forward, than angles to his right as he continues walking.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP his/DET hand/NOUN by/ADP his/DET side/NOUN take/VERB six/NUM step/NOUN forward/ADV than/SCONJ angle/NOUN to/ADP his/DET right/NOUN as/SCONJ he/PRON continue/VERB walk/VERB#0.0#0.0
+a person is casually walking straight and then pivots to their left.#a/DET person/NOUN is/AUX casually/ADV walk/VERB straight/ADV and/CCONJ then/ADV pivot/NOUN to/ADP their/DET left/NOUN#0.0#8.0
+a person walking then turns right#a/DET person/NOUN walk/VERB then/ADV turn/VERB right/ADJ#0.0#0.0

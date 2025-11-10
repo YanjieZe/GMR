@@ -1,0 +1,3 @@
+someone is planning violin with their right hand#someone/PRON is/AUX plan/VERB violin/NOUN with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+person is playing a violin or something.#person/NOUN is/AUX play/VERB a/DET violin/NOUN or/CCONJ something/PRON#0.0#0.0
+right arm move across upper torso to left arm as if playing a violin.#right/ADJ arm/NOUN move/VERB across/ADP upper/ADJ torso/NOUN to/ADP left/ADJ arm/NOUN as/SCONJ if/SCONJ play/VERB a/DET violin/NOUN#0.0#0.0

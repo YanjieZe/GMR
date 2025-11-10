@@ -1,0 +1,3 @@
+a person swings their arm backwards while stepping back#a/DET person/NOUN swing/VERB their/DET arm/NOUN backwards/ADV while/SCONJ step/VERB back/ADV#0.0#0.0
+a person steps back with his right foot.#a/DET person/NOUN step/VERB back/ADV with/ADP his/DET right/ADJ foot/NOUN#0.0#0.0
+person backed up and moved his left arm.#person/NOUN back/VERB up/ADP and/CCONJ move/VERB his/DET left/ADJ arm/NOUN#0.0#0.0

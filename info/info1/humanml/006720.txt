@@ -1,0 +1,3 @@
+moving hands up and down in sync.#move/VERB hand/NOUN up/ADV and/CCONJ down/ADV in/ADP sync/NOUN#0.0#0.0
+a person is reaching up on their tiptoes.#a/DET person/NOUN is/AUX reach/VERB up/ADP on/ADP their/DET tiptoe/NOUN#0.0#0.0
+lean forward tiptoe reach for#lean/PROPN forward/ADJ tiptoe/PROPN reach/NOUN for/ADP#0.0#0.0

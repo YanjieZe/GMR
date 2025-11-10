@@ -1,0 +1,3 @@
+the person hurt his right leg.#the/DET person/NOUN hurt/VERB his/DET right/ADJ leg/NOUN#0.0#0.0
+the person steps forward. their left leg gets injured and they stumble and limp with the leg. they move from side to side.#the/DET person/NOUN step/VERB forward/ADV their/DET left/ADJ leg/NOUN get/VERB injure/VERB and/CCONJ they/PRON stumble/VERB and/CCONJ limp/VERB with/ADP the/DET leg/NOUN they/PRON move/VERB from/ADP side/NOUN to/ADP side/NOUN#0.0#0.0
+a person is walking forward and gets kicked in the right leg and stumbles back#a/DET person/NOUN is/AUX walk/VERB forward/ADV and/CCONJ get/VERB kick/VERB in/ADP the/DET right/ADJ leg/NOUN and/CCONJ stumble/NOUN back/ADV#0.0#0.0

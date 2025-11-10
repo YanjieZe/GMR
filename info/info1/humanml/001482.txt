@@ -1,0 +1,3 @@
+a person warming up his hands and legs, while standing on the place#a/DET person/NOUN warm/VERB up/ADP his/DET hand/NOUN and/CCONJ leg/NOUN while/SCONJ stand/VERB on/ADP the/DET place/NOUN#0.0#0.0
+the person was moving their arms with the range of motion.#the/DET person/NOUN was/AUX move/VERB their/DET arm/NOUN with/ADP the/DET range/NOUN of/ADP motion/NOUN#0.0#0.0
+person rotaes arms left to right swinging then  then bends over slightly then kicks right leg forward then backwards#person/NOUN rotae/VERB arm/NOUN left/VERB to/ADP right/ADJ swinging/NOUN then/ADV then/ADV bend/VERB over/ADV slightly/ADV then/ADV kick/VERB right/ADV leg/NOUN forward/ADV then/ADV backwards/ADV#0.0#0.0

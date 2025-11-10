@@ -1,0 +1,3 @@
+the person was posing as a subject.#the/DET person/NOUN was/AUX pose/VERB as/SCONJ a/DET subject/NOUN#0.0#0.0
+the man is clapping using both hands#the/DET man/NOUN is/AUX clap/VERB use/VERB both/DET hand/NOUN#0.0#0.0
+a person is standing, claps and then stops.#a/DET person/NOUN is/AUX stand/VERB clap/NOUN and/CCONJ then/ADV stop/VERB#0.0#0.0

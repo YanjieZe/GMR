@@ -1,0 +1,3 @@
+a person who is walking backwards#a/DET person/NOUN who/PRON is/AUX walk/VERB backwards/ADV#0.0#0.0
+person is slowly backing up#person/NOUN is/AUX slowly/ADV back/VERB up/ADP#0.0#0.0
+a man walks backwards slowly.#a/DET man/NOUN walk/VERB backwards/ADV slowly/ADV#0.0#0.0

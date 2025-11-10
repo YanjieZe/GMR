@@ -1,0 +1,3 @@
+a person is sitting with his legs spread apart.#a/DET person/NOUN is/AUX sit/VERB with/ADP his/DET leg/NOUN spread/VERB apart/ADV#0.0#0.0
+this person puts his hands to his sides.#this/DET person/NOUN put/VERB his/DET hand/NOUN to/ADP his/DET side/NOUN#0.0#0.0
+a person squats with knees bent outward and both arms raised out to the sides. they then lower both arms, resting them on their knees.#a/DET person/NOUN squat/VERB with/ADP knee/NOUN bent/ADJ outward/ADV and/CCONJ both/DET arm/NOUN raise/VERB out/ADP to/ADP the/DET side/NOUN they/PRON then/ADV lower/VERB both/DET arm/NOUN rest/VERB them/PRON on/ADP their/DET knee/NOUN#0.0#0.0

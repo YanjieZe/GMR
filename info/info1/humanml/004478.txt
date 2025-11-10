@@ -1,0 +1,3 @@
+a character takes two steps up to a beam, extends their arms to a "t" position while walking on said beam until reaching the destination.#a/DET character/NOUN take/VERB two/NUM step/NOUN up/ADP to/ADP a/DET beam/NOUN extend/VERB their/DET arm/NOUN to/ADP a/DET t/NOUN position/NOUN while/SCONJ walk/VERB on/ADP say/VERB beam/NOUN until/ADP reach/VERB the/DET destination/NOUN#0.0#0.0
+a person appears to be walking the high beam in gymnastics#a/DET person/NOUN appear/VERB to/PART be/AUX walk/VERB the/DET high/ADJ beam/NOUN in/ADP gymnastic/NOUN#0.0#0.0
+a man walking a very straight line with his arms outstretched at his sides.#a/DET man/NOUN walk/VERB a/DET very/ADV straight/ADJ line/NOUN with/ADP his/DET arm/NOUN outstretche/VERB at/ADP his/DET side/NOUN#0.0#0.0

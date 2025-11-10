@@ -1,0 +1,3 @@
+someone takes a small hop and then a few steps forward#someone/PRON take/VERB a/DET small/ADJ hop/NOUN and/CCONJ then/ADV a/DET few/ADJ step/NOUN forward/ADV#0.0#0.0
+a person jumps then brings their hands toward each other at chest height, lowers their arms, then walks forward.#a/DET person/NOUN jump/VERB then/ADV bring/VERB their/DET hand/NOUN toward/ADP each/DET other/ADJ at/ADP chest/NOUN height/NOUN lower/VERB their/DET arm/NOUN then/ADV walk/VERB forward/ADV#0.0#0.0
+the toon has both arms up, jumps in place before walking the short plane.#the/DET toon/NOUN has/AUX both/DET arm/NOUN up/ADP jump/VERB in/ADP place/NOUN before/ADP walk/VERB the/DET short/ADJ plane/NOUN#0.0#6.0

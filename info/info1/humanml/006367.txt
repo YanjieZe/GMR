@@ -1,0 +1,3 @@
+the person is raking the grass.#the/DET person/NOUN is/AUX rake/VERB the/DET grass/NOUN#0.0#0.0
+a person holds an object with both hands and acts as if they are raking something in.#a/DET person/NOUN hold/VERB an/DET object/NOUN with/ADP both/DET hand/NOUN and/CCONJ act/VERB as/SCONJ if/SCONJ they/PRON are/AUX rake/VERB something/PRON in/ADP#0.0#0.0
+person leans over to the left and clasps something with both hands while making a brushing motion#person/NOUN lean/VERB over/ADP to/ADP the/DET left/NOUN and/CCONJ clasp/NOUN something/PRON with/ADP both/DET hand/NOUN while/SCONJ make/VERB a/DET brushing/NOUN motion/NOUN#0.0#0.0

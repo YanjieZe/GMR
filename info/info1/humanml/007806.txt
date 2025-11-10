@@ -1,0 +1,3 @@
+a person walking slowly across something.#a/DET person/NOUN walk/VERB slowly/ADV across/ADP something/PRON#0.0#0.0
+walking slowly with arms outstretched.#walk/VERB slowly/ADV with/ADP arm/NOUN outstretche/VERB#0.0#0.0
+someone holds with their gift hands a railing to be able to walk#someone/PRON hold/VERB with/ADP their/DET gift/NOUN hand/NOUN a/DET railing/NOUN to/PART be/AUX able/ADJ to/PART walk/VERB#0.0#0.0

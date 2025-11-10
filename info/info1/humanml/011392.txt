@@ -1,0 +1,3 @@
+the person steps over something then turns around.#the/DET person/NOUN step/VERB over/ADP something/PRON then/ADV turn/VERB around/ADV#0.0#0.0
+the figure appears to step over something with a slightly awkward walk before turning so that we are seeing their back.#the/DET figure/NOUN appear/VERB to/PART step/VERB over/ADP something/PRON with/ADP a/DET slightly/ADV awkward/ADJ walk/NOUN before/ADP turn/VERB so/SCONJ that/SCONJ we/PRON are/AUX see/VERB their/DET back/NOUN#0.0#0.0
+a person slowly walked forward#a/DET person/NOUN slowly/ADV walk/VERB forward/ADV#0.0#0.0

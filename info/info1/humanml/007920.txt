@@ -1,0 +1,3 @@
+a person lifts their right arm, then gets pushed from behind.#a/DET person/NOUN lift/VERB their/DET right/ADJ arm/NOUN then/ADV get/VERB push/VERB from/ADP behind/ADV#0.0#0.0
+raises their right arm briefly then takes a step forward#raise/VERB their/DET right/ADJ arm/NOUN briefly/ADV then/ADV take/VERB a/DET step/NOUN forward/ADV#0.0#0.0
+a person lifts his right arm.#a/DET person/NOUN lift/VERB his/DET right/ADJ arm/NOUN#0.0#0.0

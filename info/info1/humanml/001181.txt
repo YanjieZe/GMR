@@ -1,0 +1,3 @@
+a person stretches their arms to the side and waves them back and forth in front of them.#a/DET person/NOUN stretch/VERB their/DET arm/NOUN to/ADP the/DET side/NOUN and/CCONJ wave/VERB them/PRON back/ADV and/CCONJ forth/ADV in/ADP front/NOUN of/ADP them/PRON#0.0#0.0
+person is waving back and forth.#person/NOUN is/AUX wave/VERB back/ADV and/CCONJ forth/ADV#0.0#0.0
+the person lifts and moves around both arms.#the/DET person/NOUN lift/VERB and/CCONJ move/NOUN around/ADP both/DET arm/NOUN#0.0#0.0

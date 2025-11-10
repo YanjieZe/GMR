@@ -1,0 +1,3 @@
+the person jogs up the stairs#the/DET person/NOUN jog/VERB up/ADP the/DET stair/NOUN#0.0#0.0
+a person is jogging for a short distance.#a/DET person/NOUN is/AUX jog/VERB for/ADP a/DET short/ADJ distance/NOUN#0.0#0.0
+a person jogs in place#a/DET person/NOUN jog/VERB in/ADP place/NOUN#0.0#0.0

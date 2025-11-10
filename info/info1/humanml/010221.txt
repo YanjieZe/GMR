@@ -1,0 +1,3 @@
+a person dodge something with head#a/DET person/NOUN dodge/NOUN something/PRON with/ADP head/NOUN#0.0#0.0
+the person with their arms up dodges what appears to be a punch.#the/DET person/NOUN with/ADP their/DET arm/NOUN up/ADP dodge/NOUN what/PRON appear/VERB to/PART be/AUX a/DET punch/NOUN#0.0#0.0
+the person is in a stance and moves its red leg forward like its fighting.#the/DET person/NOUN is/AUX in/ADP a/DET stance/NOUN and/CCONJ move/VERB its/DET red/ADJ leg/NOUN forward/ADV like/SCONJ its/DET fighting/NOUN#0.0#0.0

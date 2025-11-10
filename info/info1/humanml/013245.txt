@@ -1,0 +1,3 @@
+a person who is standing with his hands by his sides bends his knees and takes a short hop forward.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP his/DET hand/NOUN by/ADP his/DET side/NOUN bend/VERB his/DET knee/NOUN and/CCONJ take/VERB a/DET short/ADJ hop/NOUN forward/ADV#0.0#0.0
+jumping forward one time quickly.#jump/VERB forward/ADV one/NUM time/NOUN quickly/ADV#0.0#0.0
+a person stands and then jumps forward.#a/DET person/NOUN stand/VERB and/CCONJ then/ADV jump/VERB forward/ADV#0.0#0.0

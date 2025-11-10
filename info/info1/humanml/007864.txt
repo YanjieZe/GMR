@@ -1,0 +1,3 @@
+a person runs across the area#a/DET person/NOUN run/VERB across/ADP the/DET area/NOUN#0.0#0.0
+a person runs in a straight line.#a/DET person/NOUN run/VERB in/ADP a/DET straight/ADJ line/NOUN#0.0#0.0
+a person run forward along the diagonal#a/DET person/NOUN run/VERB forward/ADV along/ADP the/DET diagonal/ADJ#0.0#0.0

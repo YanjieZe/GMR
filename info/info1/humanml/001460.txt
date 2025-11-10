@@ -1,0 +1,3 @@
+while standing up, the persons left arm is down at it's side. the right arm is at chest hight and  is moving in and out like it is gesturing something.#while/SCONJ stand/VERB up/ADP the/DET person/NOUN left/VERB arm/NOUN is/AUX down/ADV at/ADP it/PRON side/NOUN the/DET right/ADJ arm/NOUN is/AUX at/ADP chest/NOUN hight/NOUN and/CCONJ is/AUX move/VERB in/ADP and/CCONJ out/ADV like/INTJ it/PRON is/AUX gesture/VERB something/PRON#0.0#0.0
+a person standing moving left arm around.#a/DET person/NOUN stand/VERB move/VERB left/ADJ arm/NOUN around/ADP#0.0#0.0
+the person is touching his chest with his right arm.#the/DET person/NOUN is/AUX touch/VERB his/DET chest/NOUN with/ADP his/DET right/ADJ arm/NOUN#0.0#0.0

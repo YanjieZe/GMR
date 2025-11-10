@@ -1,0 +1,3 @@
+a person standing bows once.#a/DET person/NOUN stand/VERB bow/NOUN once/ADV#0.0#0.0
+a person bends over and straightens back up.#a/DET person/NOUN bend/VERB over/ADP and/CCONJ straighten/NOUN back/ADV up/ADV#0.0#0.0
+person takes a bow for audience#person/NOUN take/VERB a/DET bow/NOUN for/ADP audience/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person dances while moving their hips.#a/DET person/NOUN dance/VERB while/SCONJ move/VERB their/DET hip/NOUN#0.0#0.0
+a man's hips sway from left to right in a clockwise motion.#a/DET man/NOUN hip/NOUN sway/VERB from/ADP left/VERB to/ADP right/ADV in/ADP a/DET clockwise/ADJ motion/NOUN#0.0#0.0
+a person holds their arms out, waves their head around, then waves their hips.#a/DET person/NOUN hold/VERB their/DET arm/NOUN out/ADP wave/VERB their/DET head/NOUN around/ADV then/ADV wave/VERB their/DET hip/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person sits down, crossing their legs as the do so, and stands back up.#a/DET person/NOUN sit/VERB down/ADV cross/VERB their/DET leg/NOUN as/SCONJ the/DET do/AUX so/ADV and/CCONJ stand/VERB back/ADV up/ADV#0.0#0.0
+person starts with arms raised before bending down legs crossed to sit and then stands up#person/NOUN start/VERB with/ADP arm/NOUN raise/VERB before/ADP bend/VERB down/ADP leg/NOUN cross/VERB to/PART sit/VERB and/CCONJ then/ADV stand/VERB up/ADP#0.0#0.0
+person sat down with their legs crossed.#person/NOUN sit/VERB down/ADP with/ADP their/DET leg/NOUN cross/VERB#0.0#0.0

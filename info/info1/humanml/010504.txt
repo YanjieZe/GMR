@@ -1,0 +1,3 @@
+a person runs forward taking very wide steps.#a/DET person/NOUN run/VERB forward/ADV take/VERB very/ADV wide/ADJ step/NOUN#0.0#0.0
+a standing person runs forward in a slow side to side motion#a/DET stand/VERB person/NOUN run/VERB forward/ADV in/ADP a/DET slow/ADJ side/NOUN to/PART side/VERB motion/NOUN#0.0#0.0
+person is running in forward motion#person/NOUN is/AUX run/VERB in/ADV forward/ADV motion/NOUN#0.0#0.0

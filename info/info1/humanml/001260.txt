@@ -1,0 +1,3 @@
+a person walks forwards down 4 steps then does a little jump in the air#a/DET person/NOUN walk/VERB forwards/ADV down/ADV step/NOUN then/ADV does/AUX a/DET little/ADJ jump/NOUN in/ADP the/DET air/NOUN#0.0#0.0
+walks forward with a bounce in step and stomps on mat.#walk/VERB forward/ADV with/ADP a/DET bounce/NOUN in/ADP step/NOUN and/CCONJ stomp/NOUN on/ADP mat/NOUN#0.0#0.0
+a figure lowers their arms then walks down a short set of stairs and raises their arms at the bottom.#a/DET figure/NOUN lower/VERB their/DET arm/NOUN then/ADV walk/VERB down/ADP a/DET short/ADJ set/NOUN of/ADP stair/NOUN and/CCONJ raise/VERB their/DET arm/NOUN at/ADP the/DET bottom/NOUN#0.0#0.0

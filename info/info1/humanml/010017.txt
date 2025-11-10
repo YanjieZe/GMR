@@ -1,0 +1,2 @@
+a person walks in a u-shape going left then right.#a/DET person/NOUN walk/VERB in/ADP a/DET ushape/NOUN go/VERB left/VERB then/ADV right/ADV#0.0#7.0
+a person slowly walked in right direction and after made a circle#a/DET person/NOUN slowly/ADV walk/VERB in/ADP right/ADJ direction/NOUN and/CCONJ after/ADP make/VERB a/DET circle/NOUN#0.0#0.0

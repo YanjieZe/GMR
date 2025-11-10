@@ -1,0 +1,3 @@
+walking in a random pattern.#walk/VERB in/ADP a/DET random/ADJ pattern/NOUN#0.0#0.0
+a person walks forward then does a backwards z-shape movement to its right side. then back to the left.#a/DET person/NOUN walk/VERB forward/ADV then/ADV does/AUX a/DET backwards/ADJ zshape/NOUN movement/NOUN to/ADP its/DET right/ADJ side/NOUN then/ADV back/ADV to/ADP the/DET left/NOUN#0.0#6.0
+a person walks forward and is pushed violently from left side and recovers balance.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ is/AUX push/VERB violently/ADV from/ADP left/ADJ side/NOUN and/CCONJ recover/NOUN balance/VERB#0.0#0.0

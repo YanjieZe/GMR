@@ -1,0 +1,3 @@
+a man rowing from left to right in a canooe#a/DET man/NOUN row/VERB from/ADP left/VERB to/ADP right/ADV in/ADP a/DET canooe/NOUN#1.0#10.0
+a figure unclasps their hands then smells their right armpit then perhaps paddles a boat?#a/DET figure/NOUN unclasp/VERB their/DET hand/NOUN then/ADV smell/VERB their/DET right/ADJ armpit/NOUN then/ADV perhaps/ADV paddle/VERB a/DET boat/NOUN#0.0#0.0
+a person with right hand is looking and then is doing a coneing/paddling movement.#a/DET person/NOUN with/ADP right/ADJ hand/NOUN is/AUX look/VERB and/CCONJ then/ADV is/AUX do/VERB a/DET coneing/NOUN paddle/VERB movement/NOUN#0.0#0.0

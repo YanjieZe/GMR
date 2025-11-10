@@ -1,0 +1,3 @@
+a person is doing the cha cha dance.#a/DET person/NOUN is/AUX do/VERB the/DET cha/NOUN cha/CCONJ dance/VERB#0.0#0.0
+a person is dancing...stepping back, then side to side, stepping forward, side to side , then back again.#a/DET person/NOUN is/AUX dance/VERB step/VERB back/ADV then/ADV side/VERB to/PART side/VERB step/VERB forward/ADV side/NOUN to/PART side/VERB then/ADV back/ADV again/ADV#0.0#0.0
+a person performs the waltz.#a/DET person/NOUN perform/VERB the/DET waltz/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+person rotates arm to centre and moves up and down to put an item of clothing on#person/NOUN rotate/VERB arm/NOUN to/ADP centre/NOUN and/CCONJ move/VERB up/ADV and/CCONJ down/ADV to/PART put/VERB an/DET item/NOUN of/ADP clothing/NOUN on/ADP#0.0#0.0
+a man puts his arms together and then picks something up,#a/DET man/NOUN put/VERB his/DET arm/NOUN together/ADV and/CCONJ then/ADV pick/VERB something/PRON up/ADP#0.0#0.0
+a human tie the waste and flares the dress#a/DET human/ADJ tie/NOUN the/DET waste/NOUN and/CCONJ flare/VERB the/DET dress/NOUN#0.0#0.0

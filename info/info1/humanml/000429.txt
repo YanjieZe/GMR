@@ -1,0 +1,3 @@
+a person walks forward, and repeatedly reaches down then shakes something#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ repeatedly/ADV reach/VERB down/ADP then/ADV shake/VERB something/PRON#0.0#0.0
+a person walks foward to a certain spot, appears to be pouring or sprinkling somethiing on what might be food and putting a top onto something#a/DET person/NOUN walk/VERB foward/ADJ to/ADP a/DET certain/ADJ spot/NOUN appear/VERB to/PART be/AUX pour/VERB or/CCONJ sprinkle/VERB somethie/VERB on/ADP what/PRON may/VERB be/AUX food/NOUN and/CCONJ put/VERB a/DET top/NOUN onto/ADP something/PRON#0.0#0.0
+a person putting on a cup cover on a drink#a/DET person/NOUN put/VERB on/ADP a/DET cup/NOUN cover/NOUN on/ADP a/DET drink/NOUN#0.0#0.0

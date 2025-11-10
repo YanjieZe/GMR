@@ -1,0 +1,3 @@
+a person appears to be seated turning a large wheel back and forth.#a/DET person/NOUN appear/VERB to/PART be/AUX seat/VERB turn/VERB a/DET large/ADJ wheel/NOUN back/ADV and/CCONJ forth/ADV#0.0#0.0
+a person is sitting behind turning the steering wheel in a vehicl#a/DET person/NOUN is/AUX sit/VERB behind/ADP turn/VERB the/DET steering/NOUN wheel/NOUN in/ADP a/DET vehicl/NOUN#0.0#0.0
+a person is sitting/squatting and moving their arms while bent up and down#a/DET person/NOUN is/AUX sit/VERB squat/VERB and/CCONJ move/VERB their/DET arm/NOUN while/SCONJ bend/VERB up/ADP and/CCONJ down/ADV#0.0#0.0

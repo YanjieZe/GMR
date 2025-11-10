@@ -1,0 +1,3 @@
+a person walks forward and turns around.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ turn/VERB around/ADV#0.0#0.0
+a person walks forward and swings right and keeps walking.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ swing/NOUN right/ADV and/CCONJ keep/VERB walk/VERB#0.0#0.0
+the man walks in a clockwise semicircle.#the/DET man/NOUN walk/VERB in/ADP a/DET clockwise/NOUN semicircle/NOUN#0.0#0.0

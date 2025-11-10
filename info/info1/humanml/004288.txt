@@ -1,0 +1,2 @@
+a person jogs back and forth diagonally before stepping to return to their original position.#a/DET person/NOUN jog/VERB back/ADV and/CCONJ forth/ADV diagonally/ADV before/ADP step/VERB to/PART return/VERB to/ADP their/DET original/ADJ position/NOUN#0.0#9.0
+person is  walking to left then right jogging.#person/NOUN is/AUX walk/VERB to/PART left/NOUN then/ADV right/ADJ jogging/NOUN#0.0#0.0

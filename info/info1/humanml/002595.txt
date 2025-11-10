@@ -1,0 +1,3 @@
+a person raises their hands in front of their face then shifts from side to side.#a/DET person/NOUN raise/VERB their/DET hand/NOUN in/ADP front/NOUN of/ADP their/DET face/NOUN then/ADV shift/VERB from/ADP side/NOUN to/ADP side/NOUN#0.0#0.0
+a person uses his hands to shield his face.#a/DET person/NOUN use/VERB his/DET hand/NOUN to/PART shield/VERB his/DET face/NOUN#0.0#0.0
+a person is holding a ball looking for who to pass it to.#a/DET person/NOUN is/AUX hold/VERB a/DET ball/NOUN look/VERB for/ADP who/PRON to/PART pass/VERB it/PRON to/ADP#0.0#0.0

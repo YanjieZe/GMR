@@ -1,0 +1,3 @@
+the person was sliding from right to left.#the/DET person/NOUN was/AUX slide/VERB from/ADP right/NOUN to/ADP left/NOUN#0.0#0.0
+person steps to the right 3 times and then steps to the left 4 times#person/NOUN step/VERB to/ADP the/DET right/ADJ time/NOUN and/CCONJ then/ADV step/VERB to/ADP the/DET left/ADJ time/NOUN#0.0#0.0
+this person steps sideways to the right then steps left.#this/DET person/NOUN step/VERB sideways/ADV to/ADP the/DET right/NOUN then/ADV step/VERB left/VERB#0.0#0.0

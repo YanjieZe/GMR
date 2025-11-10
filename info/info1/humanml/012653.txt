@@ -1,0 +1,3 @@
+a person steps back to his left, takes four steps forward, hops once and continues walking.#a/DET person/NOUN step/VERB back/ADV to/ADP his/DET left/NOUN take/VERB four/NUM step/NOUN forward/ADV hop/VERB once/ADV and/CCONJ continue/VERB walk/VERB#0.0#0.0
+a person walks forward briskly, jumps, and continues to walk forward once they land#a/DET person/NOUN walk/VERB forward/ADV briskly/ADV jumps/PROPN and/CCONJ continue/VERB to/PART walk/VERB forward/ADV once/SCONJ they/PRON land/VERB#0.0#0.0
+the man walks then hops then walks to the right.#the/DET man/NOUN walk/VERB then/ADV hop/VERB then/ADV walk/VERB to/ADP the/DET right/NOUN#0.0#0.0

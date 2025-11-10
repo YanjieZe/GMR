@@ -1,0 +1,3 @@
+a person scratches head with right hand.#a/DET person/NOUN scratch/VERB head/NOUN with/ADP right/ADJ hand/NOUN#0.0#0.0
+a person scratches his head with his right arm#a/DET person/NOUN scratch/VERB his/DET head/NOUN with/ADP his/DET right/ADJ arm/NOUN#0.0#0.0
+a person scratches their head.#a/DET person/NOUN scratch/VERB their/DET head/NOUN#0.0#0.0

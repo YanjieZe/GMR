@@ -1,0 +1,3 @@
+a person jumps while spreading legs apart and swinging arms out and above the head, then back down again.#a/DET person/NOUN jump/VERB while/SCONJ spread/VERB leg/NOUN apart/ADV and/CCONJ swinge/VERB arm/NOUN out/ADV and/CCONJ above/ADP the/DET head/NOUN then/ADV back/ADV down/ADP again/ADV#0.0#0.0
+someone does two jumping jacks#someone/PRON does/AUX two/NUM jump/VERB jack/NOUN#0.0#0.0
+a person does jumping jacks on the spot.#a/DET person/NOUN does/AUX jump/VERB jack/NOUN on/ADP the/DET spot/NOUN#0.0#0.0

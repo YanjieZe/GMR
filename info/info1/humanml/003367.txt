@@ -1,0 +1,3 @@
+a person walks side to side.#a/DET person/NOUN walk/VERB side/NOUN to/PART side/VERB#0.0#0.0
+a person walks to their right, then walks past their original position to the left, then return to their starting position.#a/DET person/NOUN walk/VERB to/ADP their/DET right/NOUN then/ADV walk/VERB past/ADP their/DET original/ADJ position/NOUN to/ADP the/DET left/NOUN then/ADV return/VERB to/ADP their/DET start/VERB position/NOUN#0.0#0.0
+the person paces back and forth at a medium pace#the/DET person/NOUN pace/VERB back/ADV and/CCONJ forth/ADV at/ADP a/DET medium/ADJ pace/NOUN#0.0#0.0

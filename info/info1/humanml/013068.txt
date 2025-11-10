@@ -1,0 +1,3 @@
+the person is walking but struggling with the knee#the/DET person/NOUN is/AUX walk/VERB but/CCONJ struggle/VERB with/ADP the/DET knee/NOUN#0.0#0.0
+a person walks with a limp, their left leg injured.#a/DET person/NOUN walk/VERB with/ADP a/DET limp/NOUN their/DET left/ADJ leg/NOUN injure/VERB#0.0#0.0
+a person limps forward, and then turns around and limps back.#a/DET person/NOUN limp/VERB forward/ADV and/CCONJ then/ADV turn/VERB around/ADP and/CCONJ limp/VERB back/ADV#0.0#0.0

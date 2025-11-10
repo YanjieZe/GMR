@@ -1,0 +1,3 @@
+a person dancing to a fast pace music.#a/DET person/NOUN dance/VERB to/ADP a/DET fast/ADJ pace/NOUN music/NOUN#0.0#0.0
+a person walks forward, then dances backwards and then begins a spin in a clockwise direction with arms raising#a/DET person/NOUN walk/VERB forward/ADV then/ADV dance/VERB backwards/ADV and/CCONJ then/ADV begin/VERB a/DET spin/NOUN in/ADP a/DET clockwise/ADJ direction/NOUN with/ADP arm/NOUN raise/VERB#0.0#0.0
+a person steps forward and starts passionately salsa dancing.#a/DET person/NOUN step/VERB forward/ADV and/CCONJ start/VERB passionately/ADV salsa/VERB dancing/NOUN#0.0#0.0

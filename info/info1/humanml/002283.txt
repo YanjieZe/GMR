@@ -1,0 +1,3 @@
+a person kneels down and looks up.#a/DET person/NOUN kneel/VERB down/ADP and/CCONJ look/VERB up/ADP#0.0#0.0
+a person lifts both arms, then uses left arm to get down on both knees.#a/DET person/NOUN lift/VERB both/DET arm/NOUN then/ADV use/VERB left/VERB arm/NOUN to/PART get/AUX down/ADP on/ADP both/DET knee/NOUN#0.0#0.0
+a person standing then put both arms out and gets on knees.#a/DET person/NOUN stand/VERB then/ADV put/VERB both/DET arm/NOUN out/ADP and/CCONJ get/VERB on/ADP knee/NOUN#0.0#0.0

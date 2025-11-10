@@ -1,0 +1,3 @@
+the person is posing like a zombie.#the/DET person/NOUN is/AUX pose/VERB like/SCONJ a/DET zombie/NOUN#0.0#0.0
+a person is leaning left and right with their arms out by their side, their body is in a trance-like motion.#a/DET person/NOUN is/AUX lean/VERB left/VERB and/CCONJ right/ADV with/ADP their/DET arm/NOUN out/ADP by/ADP their/DET side/NOUN their/DET body/NOUN is/AUX in/ADP a/DET trancelike/NOUN motion/NOUN#0.0#0.0
+a person loosely hangs their arms in front and shifts their weight back and forth#a/DET person/NOUN loosely/ADV hang/VERB their/DET arm/NOUN in/ADP front/NOUN and/CCONJ shift/VERB their/DET weight/NOUN back/ADV and/CCONJ forth/ADV#0.0#0.0

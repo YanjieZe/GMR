@@ -1,0 +1,3 @@
+someone is cleaning removing and putting objects#someone/PRON is/AUX clean/VERB remove/VERB and/CCONJ put/VERB object/NOUN#0.0#0.0
+a person reaching over to move something#a/DET person/NOUN reach/VERB over/ADP to/PART move/VERB something/PRON#0.0#0.0
+this person is swaying back and forth as if to clean something.#this/DET person/NOUN is/AUX sway/VERB back/ADV and/CCONJ forth/ADV as/SCONJ if/SCONJ to/PART clean/VERB something/PRON#0.0#0.0

@@ -1,0 +1,3 @@
+band on the floor and get down the head.#band/NOUN on/ADP the/DET floor/NOUN and/CCONJ get/AUX down/ADP the/DET head/NOUN#0.0#0.0
+someone crouches on their left knee with their right hand on the ground and their left arm lifted behind them.#someone/PRON crouch/VERB on/ADP their/DET left/ADJ knee/NOUN with/ADP their/DET right/ADJ hand/NOUN on/ADP the/DET ground/NOUN and/CCONJ their/DET left/ADJ arm/NOUN lift/VERB behind/ADP them/PRON#0.0#0.0
+a person is crouching down with their right arm in front and left arm back behind them for support.#a/DET person/NOUN is/AUX crouch/VERB down/ADP with/ADP their/DET right/ADJ arm/NOUN in/ADP front/NOUN and/CCONJ left/ADJ arm/NOUN back/ADV behind/ADP them/PRON for/ADP support/NOUN#0.0#0.0

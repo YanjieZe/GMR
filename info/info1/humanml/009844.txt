@@ -1,0 +1,3 @@
+putting the left hand on the hip and the right hand moving forward and backward.#put/VERB the/DET left/ADJ hand/NOUN on/ADP the/DET hip/NOUN and/CCONJ the/DET right/ADJ hand/NOUN move/VERB forward/ADV and/CCONJ backward/ADV#0.0#0.0
+a person lift left arm twice and then rotates clockwise and raises right arm up once.#a/DET person/NOUN lift/NOUN left/ADJ arm/NOUN twice/ADV and/CCONJ then/ADV rotate/VERB clockwise/NOUN and/CCONJ raise/VERB right/ADJ arm/NOUN up/ADP once/ADV#0.0#0.0
+someone reaches up then down with their right arm, then removes an item from their hand.#someone/PRON reach/VERB up/ADP then/ADV down/ADV with/ADP their/DET right/ADJ arm/NOUN then/ADV remove/VERB an/DET item/NOUN from/ADP their/DET hand/NOUN#0.0#0.0

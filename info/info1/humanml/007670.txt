@@ -1,0 +1,3 @@
+a person walks forward while holding on to somethimg with their left hand.#a/DET person/NOUN walk/VERB forward/ADV while/SCONJ hold/VERB on/ADP to/ADP somethimg/VERB with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0
+a person walks forward placing their left hand on something as they pass by#a/DET person/NOUN walk/VERB forward/ADV place/VERB their/DET left/ADJ hand/NOUN on/ADP something/PRON as/SCONJ they/PRON pass/VERB by/ADV#0.0#0.0
+a person is walking and touching something with his left arm.#a/DET person/NOUN is/AUX walk/VERB and/CCONJ touch/VERB something/PRON with/ADP his/DET left/ADJ arm/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+this person coughs in his right hand two times.#this/DET person/NOUN cough/VERB in/ADP his/DET right/ADJ hand/NOUN two/NUM time/NOUN#0.0#0.0
+a person holds their hand in front of their face and leans forward like they have a bad cough.#a/DET person/NOUN hold/VERB their/DET hand/NOUN in/ADP front/NOUN of/ADP their/DET face/NOUN and/CCONJ lean/VERB forward/ADV like/INTJ they/PRON have/AUX a/DET bad/ADJ cough/NOUN#0.0#0.0
+the man leans forwards while raising his right hand to his face.#the/DET man/NOUN lean/VERB forwards/ADV while/SCONJ raise/VERB his/DET right/ADJ hand/NOUN to/ADP his/DET face/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+shake the both the hands.#shake/VERB the/DET both/CCONJ the/DET hand/NOUN#0.0#0.0
+a man is holding an object then throws it with both hands.#a/DET man/NOUN is/AUX hold/VERB an/DET object/NOUN then/ADV throw/VERB it/PRON with/ADP both/DET hand/NOUN#0.0#0.0
+a person drops his arms.#a/DET person/NOUN drop/VERB his/DET arm/NOUN#0.0#0.0

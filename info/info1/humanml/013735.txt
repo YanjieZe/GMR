@@ -1,0 +1,3 @@
+a person giving a round of applause#a/DET person/NOUN give/VERB a/DET round/NOUN of/ADP applause/NOUN#0.0#0.0
+person is clapping their hands.#person/NOUN is/AUX clap/VERB their/DET hand/NOUN#0.0#0.0
+he claps around a lot#he/PRON clap/VERB around/ADP a/DET lot/NOUN#0.0#0.0

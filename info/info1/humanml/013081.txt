@@ -1,0 +1,3 @@
+a person throwing a right punch#a/DET person/NOUN throw/VERB a/DET right/ADJ punch/NOUN#0.0#0.0
+a man punches forward once.#a/DET man/NOUN punch/VERB forward/ADV once/ADV#0.0#0.0
+the man standing forward a step forward while raising his hands and throws a right jab.#the/DET man/NOUN stand/VERB forward/ADV a/DET step/NOUN forward/ADV while/SCONJ raise/VERB his/DET hand/NOUN and/CCONJ throw/VERB a/DET right/ADJ jab/NOUN#0.0#0.0

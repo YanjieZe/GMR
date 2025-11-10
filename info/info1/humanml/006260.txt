@@ -1,0 +1,3 @@
+a person holds his left arm over his head and stretches it toward the sky.#a/DET person/NOUN hold/VERB his/DET left/ADJ arm/NOUN over/ADP his/DET head/NOUN and/CCONJ stretch/VERB it/PRON toward/ADP the/DET sky/NOUN#0.0#0.0
+figure puts arm in the upward motion.#figure/NOUN put/VERB arm/NOUN in/ADP the/DET upward/ADJ motion/NOUN#0.0#0.0
+a person with his left arm raised above his head moves his arm to the right two times.#a/DET person/NOUN with/ADP his/DET left/ADJ arm/NOUN raise/VERB above/ADP his/DET head/NOUN move/VERB his/DET arm/NOUN to/ADP the/DET right/ADJ two/NUM time/NOUN#0.0#0.0

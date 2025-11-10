@@ -1,0 +1,3 @@
+a man stands and raises his hands and moves them in circular motions,walks foward and turns anticlockwise in a c sha#a/DET man/NOUN stand/VERB and/CCONJ raise/VERB his/DET hand/NOUN and/CCONJ move/VERB them/PRON in/ADP circular/ADJ motion/NOUN walk/VERB foward/ADJ and/CCONJ turn/VERB anticlockwise/NOUN in/ADP a/DET c/NOUN sha/NOUN#0.0#0.0
+this person moves both arms out to his sides in a large circular motion then walks forward.#this/DET person/NOUN move/VERB both/DET arm/NOUN out/ADV to/ADP his/DET side/NOUN in/ADP a/DET large/ADJ circular/ADJ motion/NOUN then/ADV walk/VERB forward/ADV#0.0#0.0
+spinning arms in a circular pattern then walking forward.#spin/VERB arm/NOUN in/ADP a/DET circular/ADJ pattern/NOUN then/ADV walk/VERB forward/ADV#0.0#0.0

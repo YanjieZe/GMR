@@ -1,0 +1,3 @@
+a person steps forward with his right foot, then returns his right foot to its original position.#a/DET person/NOUN step/VERB forward/ADV with/ADP his/DET right/ADJ foot/NOUN then/ADV return/VERB his/DET right/ADJ foot/NOUN to/ADP its/DET original/ADJ position/NOUN#0.0#0.0
+a person moves their right foot forward then back.#a/DET person/NOUN move/VERB their/DET right/ADJ foot/NOUN forward/ADV then/ADV back/ADV#0.0#0.0
+a person standing still for a few seconds stumbles foreward with right foot, then steps back in place and stands.#a/DET person/NOUN stand/VERB still/ADV for/ADP a/DET few/ADJ second/NOUN stumble/NOUN foreward/VERB with/ADP right/ADJ foot/NOUN then/ADV step/VERB back/ADV in/ADP place/NOUN and/CCONJ stand/NOUN#0.0#0.0

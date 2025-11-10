@@ -1,0 +1,3 @@
+the man stands with his arms outstretched and bends his elbow slightly in and out.#the/DET man/NOUN stand/VERB with/ADP his/DET arm/NOUN outstretche/VERB and/CCONJ bend/VERB his/DET elbow/NOUN slightly/ADV in/ADP and/CCONJ out/ADV#0.0#0.0
+the person is waving both its arms inward and out.#the/DET person/NOUN is/AUX wave/VERB both/CCONJ its/DET arm/NOUN inward/ADV and/CCONJ out/ADV#0.0#0.0
+a man waives both arms in front of him inward then outward#a/DET man/NOUN waive/VERB both/DET arm/NOUN in/ADP front/NOUN of/ADP him/PRON inward/ADV then/ADV outward/ADV#0.0#0.0

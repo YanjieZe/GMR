@@ -1,0 +1,3 @@
+a person is cheering and dancing#a/DET person/NOUN is/AUX cheer/VERB and/CCONJ dancing/NOUN#0.0#0.0
+a person dancing and clapping his hands over his head#a/DET person/NOUN dance/VERB and/CCONJ clap/VERB his/DET hand/NOUN over/ADP his/DET head/NOUN#0.0#0.0
+a person is swinging from side to side while clapping their hands.#a/DET person/NOUN is/AUX swinge/VERB from/ADP side/NOUN to/PART side/NOUN while/SCONJ clap/VERB their/DET hand/NOUN#0.0#0.0

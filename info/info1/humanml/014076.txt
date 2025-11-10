@@ -1,0 +1,3 @@
+the person is walking forward very fast.#the/DET person/NOUN is/AUX walk/VERB forward/ADV very/ADV fast/ADV#0.0#0.0
+person quickly moves straight forward before coming to a stop#person/NOUN quickly/ADV move/VERB straight/ADV forward/ADV before/ADP come/VERB to/ADP a/DET stop/NOUN#0.0#0.0
+person is walking speedily forward#person/NOUN is/AUX walk/VERB speedily/ADV forward/ADV#0.0#0.0

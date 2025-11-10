@@ -1,0 +1,3 @@
+a person is pulling counter clockwise.#a/DET person/NOUN is/AUX pull/VERB counter/NOUN clockwise/NOUN#0.0#0.0
+a person rows a boat while standing#a/DET person/NOUN row/VERB a/DET boat/NOUN while/SCONJ stand/VERB#0.0#0.0
+a person moves arms in a firward circular motion twice, then moves right arm in forward circular motion twice, then moves both arms in forward circular motion again#a/DET person/NOUN move/VERB arm/NOUN in/ADP a/DET firward/NOUN circular/ADJ motion/NOUN twice/ADV then/ADV move/VERB right/ADJ arm/NOUN in/ADP forward/ADV circular/ADJ motion/NOUN twice/ADV then/ADV move/VERB both/DET arm/NOUN in/ADP forward/ADV circular/ADJ motion/NOUN again/ADV#0.0#0.0

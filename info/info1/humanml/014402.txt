@@ -1,0 +1,3 @@
+a person waves his hands above his head as if trying to get your attention, then drops his arms, shakes them loose and starts clapping.#a/DET person/NOUN wave/VERB his/DET hand/NOUN above/ADP his/DET head/NOUN as/SCONJ if/SCONJ try/VERB to/PART get/AUX your/DET attention/NOUN then/ADV drop/VERB his/DET arm/NOUN shake/VERB them/PRON loose/ADJ and/CCONJ start/VERB clap/VERB#0.0#0.0
+a person is waving both arms.#a/DET person/NOUN is/AUX wave/VERB both/DET arm/NOUN#0.0#0.0
+both arms are waving big back and forth above the head and then hands clapping in front of the chest.#both/DET arm/NOUN are/AUX wave/VERB big/ADJ back/ADV and/CCONJ forth/ADV above/ADP the/DET head/NOUN and/CCONJ then/ADV hand/VERB clap/VERB in/ADP front/NOUN of/ADP the/DET chest/NOUN#0.0#0.0

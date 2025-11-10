@@ -1,0 +1,3 @@
+someone moves their waist from right to left#someone/PRON move/VERB their/DET waist/NOUN from/ADP right/NOUN to/ADP left/ADV#0.0#0.0
+a person has their hands near their chest and sways their upper body horizontally.#a/DET person/NOUN has/AUX their/DET hand/NOUN near/SCONJ their/DET chest/NOUN and/CCONJ sway/VERB their/DET upper/ADJ body/NOUN horizontally/ADV#0.0#0.0
+a person holds their arms out in front of them and bobs their body from left to right while keeping their feet planted.#a/DET person/NOUN hold/VERB their/DET arm/NOUN out/ADP in/ADP front/NOUN of/ADP them/PRON and/CCONJ bobs/VERB their/DET body/NOUN from/ADP left/VERB to/ADP right/ADJ while/SCONJ keep/VERB their/DET foot/NOUN plant/VERB#0.0#0.0

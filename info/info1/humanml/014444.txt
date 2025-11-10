@@ -1,0 +1,3 @@
+figure appears to be walking back and forth#figure/NOUN appear/VERB to/PART be/AUX walk/VERB back/ADV and/CCONJ forth/ADV#0.0#0.0
+a person has a bouncy walk forward, turns around and walks back.#a/DET person/NOUN has/AUX a/DET bouncy/NOUN walk/NOUN forward/ADV turn/VERB around/ADV and/CCONJ walk/VERB back/ADV#0.0#0.0
+person walks forward as though walking on a runway, turns and walks back#person/NOUN walk/VERB forward/ADV as/SCONJ though/SCONJ walk/VERB on/ADP a/DET runway/NOUN turn/VERB and/CCONJ walk/VERB back/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+someone is holding both arms out, fully extended, while walking forward in a straight line#someone/PRON is/AUX hold/VERB both/DET arm/NOUN out/ADV fully/ADV extend/VERB while/SCONJ walk/VERB forward/ADV in/ADP a/DET straight/ADJ line/NOUN#0.0#0.0
+a person walks while holding both of his arms out#a/DET person/NOUN walk/VERB while/SCONJ hold/VERB both/DET of/ADP his/DET arm/NOUN out/ADP#0.0#0.0
+a person walks with both arms spread out.#a/DET person/NOUN walk/VERB with/ADP both/DET arm/NOUN spread/VERB out/ADP#0.0#0.0

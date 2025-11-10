@@ -1,0 +1,3 @@
+a person is kneeling to tie the laces on the left shoe.#a/DET person/NOUN is/AUX kneel/VERB to/PART tie/VERB the/DET lace/NOUN on/ADP the/DET left/ADJ shoe/NOUN#0.0#0.0
+kneeling down and tying shoe.#kneel/VERB down/ADP and/CCONJ tie/VERB shoe/NOUN#0.0#0.0
+a person kneels down to tie their shoes and gets back up.#a/DET person/NOUN kneel/VERB down/ADP to/PART tie/VERB their/DET shoe/NOUN and/CCONJ get/VERB back/ADV up/ADV#0.0#0.0

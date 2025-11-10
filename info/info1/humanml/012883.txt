@@ -1,0 +1,3 @@
+person is working on their boxing form#person/NOUN is/AUX work/VERB on/ADP their/DET boxing/NOUN form/NOUN#0.0#0.0
+the man is moving his arms and legs#the/DET man/NOUN is/AUX move/VERB his/DET arm/NOUN and/CCONJ leg/NOUN#0.0#0.0
+the person is doing karate moves.#the/DET person/NOUN is/AUX do/VERB karate/NOUN move/NOUN#0.0#0.0

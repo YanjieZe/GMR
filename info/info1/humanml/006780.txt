@@ -1,0 +1,3 @@
+a person crossing their legs and bending down#a/DET person/NOUN cross/VERB their/DET leg/NOUN and/CCONJ bend/VERB down/ADP#0.0#0.0
+walk quickly to arrive at a different location.#walk/VERB quickly/ADV to/PART arrive/VERB at/ADP a/DET different/ADJ location/NOUN#0.0#0.0
+a person squats and puts their right foot in front of their right arm, and then stands up#a/DET person/NOUN squat/VERB and/CCONJ put/VERB their/DET right/ADJ foot/NOUN in/ADP front/NOUN of/ADP their/DET right/ADJ arm/NOUN and/CCONJ then/ADV stand/VERB up/ADP#0.0#0.0

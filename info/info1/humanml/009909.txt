@@ -1,0 +1,3 @@
+moving forward slowly while bending down.#move/VERB forward/ADV slowly/ADV while/SCONJ bend/VERB down/ADP#0.0#0.0
+this person walks around as if to sneak up on something.#this/DET person/NOUN walk/VERB around/ADV as/SCONJ if/SCONJ to/PART sneak/VERB up/ADP on/ADP something/PRON#0.0#0.0
+the person looks to be crouch and stealthily walking by moving and looking all the way left then repeating the same action to the right.#the/DET person/NOUN look/VERB to/PART be/AUX crouch/ADJ and/CCONJ stealthily/ADV walk/VERB by/ADP move/VERB and/CCONJ look/VERB all/DET the/DET way/NOUN left/VERB then/ADV repeat/VERB the/DET same/ADJ action/NOUN to/ADP the/DET right/NOUN#0.0#0.0

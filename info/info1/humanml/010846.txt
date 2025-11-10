@@ -1,0 +1,3 @@
+he turns to his right#he/PRON turn/VERB to/ADP his/DET right/NOUN#0.0#0.0
+person moves forward four steps clockwise direction#person/NOUN move/VERB forward/ADV four/NUM step/NOUN clockwise/NOUN direction/NOUN#0.0#0.0
+the person is walking forward and turning right.#the/DET person/NOUN is/AUX walk/VERB forward/ADV and/CCONJ turn/VERB right/ADV#0.0#0.0

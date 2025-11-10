@@ -1,0 +1,3 @@
+a man holds his hands up to his head.#a/DET man/NOUN hold/VERB his/DET hand/NOUN up/ADP to/ADP his/DET head/NOUN#0.0#0.0
+a person holding their head#a/DET person/NOUN hold/VERB their/DET head/NOUN#0.0#0.0
+a figure takes a step the side with their arms down before bringing their left and right arms up, bent, as if cradling their face#a/DET figure/NOUN take/VERB a/DET step/NOUN the/DET side/NOUN with/ADP their/DET arm/NOUN down/ADP before/ADP bring/VERB their/DET left/ADJ and/CCONJ right/ADJ arm/NOUN up/ADV bent/ADJ as/SCONJ if/SCONJ cradle/VERB their/DET face/NOUN#0.0#0.0

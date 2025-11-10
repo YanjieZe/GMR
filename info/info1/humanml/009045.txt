@@ -1,0 +1,3 @@
+person is running forward at medium pace#person/NOUN is/AUX run/VERB forward/ADV at/ADP medium/ADJ pace/NOUN#0.0#0.0
+the person is running forward.#the/DET person/NOUN is/AUX run/VERB forward/ADV#0.0#0.0
+a man jogs forward with arms bent and moving loosely at his sides.#a/DET man/NOUN jog/VERB forward/ADV with/ADP arm/NOUN bent/ADJ and/CCONJ move/VERB loosely/ADV at/ADP his/DET side/NOUN#0.0#0.0

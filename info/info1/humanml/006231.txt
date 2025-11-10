@@ -1,0 +1,3 @@
+a person begins walking forward, trips, then turns around, continues walking, and trips again.#a/DET person/NOUN begin/VERB walk/VERB forward/ADV trip/NOUN then/ADV turn/VERB around/ADV continue/VERB walk/VERB and/CCONJ trip/NOUN again/ADV#0.0#0.0
+the person walked forward and tripped.#the/DET person/NOUN walk/VERB forward/ADV and/CCONJ trip/VERB#0.0#0.0
+a person trips then turns around, walks forwards and trips again.#a/DET person/NOUN trip/VERB then/ADV turn/VERB around/ADV walk/VERB forwards/ADJ and/CCONJ trip/NOUN again/ADV#0.0#0.0

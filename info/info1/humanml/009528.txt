@@ -1,0 +1,3 @@
+a person slowly leans back to the right with raised arms and bent elbows#a/DET person/NOUN slowly/ADV lean/VERB back/ADV to/ADP the/DET right/NOUN with/ADP raise/VERB arm/NOUN and/CCONJ bent/ADJ elbow/NOUN#0.0#1.0
+the person is boxing upwards.#the/DET person/NOUN is/AUX box/VERB upwards/ADV#0.0#0.0
+moving hands up near face.#move/VERB hand/NOUN up/ADP near/SCONJ face/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks and turns left.#a/DET person/NOUN walk/VERB and/CCONJ turn/VERB left/VERB#0.0#0.0
+person walks with arms to side forward the starts to curve to their left in shape of 1/4 circle.#person/NOUN walk/VERB with/ADP arm/NOUN to/PART side/VERB forward/ADV the/DET start/NOUN to/PART curve/VERB to/ADP their/DET left/NOUN in/ADP shape/NOUN of/ADP circle/NOUN#0.0#0.0
+person walks forward and to the left for 4 steps#person/NOUN walk/VERB forward/ADV and/CCONJ to/ADP the/DET left/NOUN for/ADP step/NOUN#0.0#0.0

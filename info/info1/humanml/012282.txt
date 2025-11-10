@@ -1,0 +1,3 @@
+a man lowers his arms, then moves something in front of his face.#a/DET man/NOUN lower/VERB his/DET arm/NOUN then/ADV move/VERB something/PRON in/ADP front/NOUN of/ADP his/DET face/NOUN#0.0#0.0
+a man puts his arms in front and then waves them back and forth twice#a/DET man/NOUN put/VERB his/DET arm/NOUN in/ADP front/NOUN and/CCONJ then/ADV wave/VERB them/PRON back/ADV and/CCONJ forth/ADV twice/ADV#0.0#0.0
+person makes incomplete pass sign#person/NOUN make/VERB incomplete/ADJ pass/NOUN sign/NOUN#0.0#0.0

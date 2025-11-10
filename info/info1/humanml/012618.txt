@@ -1,0 +1,3 @@
+a person hops back, then takes a step sideways to their left, crossing one foot behind the other.#a/DET person/NOUN hop/VERB back/ADV then/ADV take/VERB a/DET step/NOUN sideways/ADV to/ADP their/DET left/NOUN cross/VERB one/NUM foot/NOUN behind/ADP the/DET other/ADJ#0.0#0.0
+a figure hops tensely in place then staggers or quickly sidesteps to the left#a/DET figure/NOUN hop/VERB tensely/ADV in/ADP place/NOUN then/ADV stagger/NOUN or/CCONJ quickly/ADV sidestep/VERB to/ADP the/DET left/NOUN#0.0#0.0
+person hops in the air, then quickly walks to the left, crossing his legs as he does so.#person/NOUN hop/VERB in/ADP the/DET air/NOUN then/ADV quickly/ADV walk/VERB to/ADP the/DET left/NOUN cross/VERB his/DET leg/NOUN as/SCONJ he/PRON does/AUX so/ADV#0.0#0.0

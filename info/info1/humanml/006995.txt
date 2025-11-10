@@ -1,0 +1,3 @@
+a person runs on the spot.#a/DET person/NOUN run/VERB on/ADP the/DET spot/NOUN#0.0#0.0
+a person jogs in place#a/DET person/NOUN jog/VERB in/ADP place/NOUN#0.0#0.0
+a person lightly joggin in place.#a/DET person/NOUN lightly/ADV joggin/VERB in/ADP place/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+the sim appears to be using box hands in the boxing formation.#the/DET sim/PROPN appear/VERB to/PART be/AUX use/VERB box/NOUN hand/NOUN in/ADP the/DET boxing/NOUN formation/NOUN#0.0#2.0
+a person moves his hands from right to left hitting something.#a/DET person/NOUN move/VERB his/DET hand/NOUN from/ADP right/NOUN to/ADP left/VERB hit/VERB something/PRON#0.0#0.0
+person was boxing with his right arm to the left.#person/NOUN was/AUX box/VERB with/ADP his/DET right/ADJ arm/NOUN to/ADP the/DET left/NOUN#0.0#0.0

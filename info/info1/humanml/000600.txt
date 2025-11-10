@@ -1,0 +1,3 @@
+a man backs up, leading with his left foot.#a/DET man/NOUN back/VERB up/ADP lead/VERB with/ADP his/DET left/ADJ foot/NOUN#0.0#0.0
+person walks backwards in a straight line#person/NOUN walk/VERB backwards/ADV in/ADP a/DET straight/ADJ line/NOUN#0.0#0.0
+a person walks straight backward.#a/DET person/NOUN walk/VERB straight/ADV backward/ADV#0.0#0.0

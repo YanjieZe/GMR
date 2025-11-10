@@ -1,0 +1,3 @@
+a person aimlessly paces with their hands on their head#a/DET person/NOUN aimlessly/ADV pace/VERB with/ADP their/DET hand/NOUN on/ADP their/DET head/NOUN#0.0#0.0
+person walks around a space with their hands over their head#person/NOUN walk/VERB around/ADP a/DET space/NOUN with/ADP their/DET hand/NOUN over/ADP their/DET head/NOUN#0.0#0.0
+the sim walks across the plane, appearing to be holding up an object atop their head.#the/DET sim/PROPN walk/VERB across/ADP the/DET plane/NOUN appear/VERB to/PART be/AUX hold/VERB up/ADP an/DET object/NOUN atop/ADP their/DET head/NOUN#0.0#7.0

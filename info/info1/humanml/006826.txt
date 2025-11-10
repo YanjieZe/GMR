@@ -1,0 +1,3 @@
+a man sits down cross legged then stands up again.#a/DET man/NOUN sit/VERB down/ADP cross/NOUN legged/PROPN then/ADV stand/VERB up/ADP again/ADV#0.0#0.0
+kneeling down then sitting and standing.#kneel/VERB down/ADP then/ADV sit/VERB and/CCONJ stand/VERB#0.0#0.0
+a person sit on the florr and crosed the leg#a/DET person/NOUN sit/VERB on/ADP the/DET florr/PROPN and/CCONJ crose/VERB the/DET leg/NOUN#0.0#0.0

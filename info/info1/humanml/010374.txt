@@ -1,0 +1,3 @@
+person looks as though he starts to fall but does not#person/NOUN look/VERB as/SCONJ though/SCONJ he/PRON start/VERB to/PART fall/VERB but/CCONJ does/AUX not/PART#0.0#0.0
+person is performing the back stroke#person/NOUN is/AUX perform/VERB the/DET back/ADJ stroke/NOUN#0.0#0.0
+swimming on his back slowly.#swim/VERB on/ADP his/DET back/NOUN slowly/ADV#0.0#0.0

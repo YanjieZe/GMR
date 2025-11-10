@@ -1,0 +1,3 @@
+a person crosses their arms.#a/DET person/NOUN cross/VERB their/DET arm/NOUN#0.0#0.0
+a person crosses their arms#a/DET person/NOUN cross/VERB their/DET arm/NOUN#0.0#0.0
+a person crosses their arms then uncrosses them#a/DET person/NOUN cross/VERB their/DET arm/NOUN then/ADV uncross/VERB them/PRON#0.0#0.0

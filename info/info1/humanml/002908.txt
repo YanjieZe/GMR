@@ -1,0 +1,3 @@
+a kneeling person stands up and kneels back on one knee.#a/DET kneel/VERB person/NOUN stand/VERB up/ADP and/CCONJ kneel/VERB back/ADV on/ADP one/NUM knee/NOUN#0.0#0.0
+the man is on his knees and stands then goes back down on one knee.#the/DET man/NOUN is/AUX on/ADP his/DET knee/NOUN and/CCONJ stand/VERB then/ADV go/VERB back/ADV down/ADV on/ADP one/NUM knee/NOUN#0.0#0.0
+a person gets on their knees then stands#a/DET person/NOUN get/VERB on/ADP their/DET knee/NOUN then/ADV stand/VERB#0.0#0.0

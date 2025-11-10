@@ -1,0 +1,2 @@
+a person casually walks forward and to the side, before stopping.#a/DET person/NOUN casually/ADV walk/VERB forward/ADV and/CCONJ to/ADP the/DET side/NOUN before/ADP stop/VERB#0.0#0.0
+a person begins walking forward and then curves to his right and continues walking, then stops.#a/DET person/NOUN begin/VERB walk/VERB forward/ADV and/CCONJ then/ADV curve/VERB to/ADP his/DET right/NOUN and/CCONJ continue/VERB walk/VERB then/ADV stop/VERB#0.0#0.0

@@ -1,0 +1,3 @@
+the man uses both hands to lift the dumbbells#the/DET man/NOUN use/VERB both/DET hand/NOUN to/PART lift/VERB the/DET dumbbell/NOUN#0.0#0.0
+a person lifts both arms no higher than their head at the same time#a/DET person/NOUN lift/VERB both/DET arm/NOUN no/ADV higher/ADJ than/SCONJ their/DET head/NOUN at/ADP the/DET same/ADJ time/NOUN#0.0#0.0
+a person lifts weights with both hands.#a/DET person/NOUN lift/VERB weight/NOUN with/ADP both/DET hand/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+the person says they are out.#the/DET person/NOUN say/VERB they/PRON are/AUX out/ADV#0.0#0.0
+a person stretched the ahnds and cross them#a/DET person/NOUN stretch/VERB the/DET ahnds/PROPN and/CCONJ cross/VERB them/PRON#0.0#0.0
+a man crosses his arms together then puts his arms back at his sides#a/DET man/NOUN cross/VERB his/DET arm/NOUN together/ADV then/ADV put/VERB his/DET arm/NOUN back/ADV at/ADP his/DET side/NOUN#0.0#0.0

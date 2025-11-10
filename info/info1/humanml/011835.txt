@@ -1,0 +1,2 @@
+a man walks backwards then forwards several steps then turns 180 degrees.#a/DET man/NOUN walk/VERB backwards/ADV then/ADV forwards/ADP several/ADJ step/NOUN then/ADV turn/VERB degree/NOUN#0.0#0.0
+a person is walking around and something touches their arm.#a/DET person/NOUN is/AUX walk/VERB around/ADP and/CCONJ something/PRON touch/VERB their/DET arm/NOUN#0.0#0.0

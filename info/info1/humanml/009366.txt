@@ -1,0 +1,3 @@
+a figure seems to be either stretching above their head or cheering / accepting praise from a crowd#a/DET figure/NOUN seem/VERB to/PART be/AUX either/CCONJ stretch/VERB above/ADP their/DET head/NOUN or/CCONJ cheer/VERB accept/VERB praise/NOUN from/ADP a/DET crowd/NOUN#0.0#0.0
+the man stretches and throws his elbows back.#the/DET man/NOUN stretch/VERB and/CCONJ throw/VERB his/DET elbow/NOUN back/ADV#0.0#0.0
+a person stretches out his shoulders by reaching his arms up and back#a/DET person/NOUN stretch/VERB out/ADP his/DET shoulder/NOUN by/ADP reach/VERB his/DET arm/NOUN up/ADV and/CCONJ back/ADV#0.0#0.0

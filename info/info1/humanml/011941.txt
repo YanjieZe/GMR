@@ -1,0 +1,3 @@
+the person walk to the left and sat down.#the/DET person/NOUN walk/VERB to/ADP the/DET left/NOUN and/CCONJ sit/VERB down/ADP#0.0#0.0
+a person steps left, sits down, and returns to their original position.#a/DET person/NOUN step/VERB left/VERB sit/VERB down/ADV and/CCONJ return/NOUN to/ADP their/DET original/ADJ position/NOUN#0.0#0.0
+a man steps to sit down and stands back up to return to his original position.#a/DET man/NOUN step/VERB to/PART sit/VERB down/ADP and/CCONJ stand/VERB back/ADV up/ADV to/PART return/VERB to/ADP his/DET original/ADJ position/NOUN#0.0#0.0

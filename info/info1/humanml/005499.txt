@@ -1,0 +1,3 @@
+the figure is hunched forward and walking slowly as if sneaking#the/DET figure/NOUN is/AUX hunch/VERB forward/ADV and/CCONJ walk/VERB slowly/ADV as/SCONJ if/SCONJ sneak/VERB#0.0#0.0
+a person walks around slowly, looking at the ground.#a/DET person/NOUN walk/VERB around/ADV slowly/ADV look/VERB at/ADP the/DET ground/NOUN#0.0#0.0
+a person sneaks forward whilst maintaining a bent over posture#a/DET person/NOUN sneak/VERB forward/ADV whilst/SCONJ maintain/VERB a/DET bent/NOUN over/ADP posture/NOUN#0.0#0.0

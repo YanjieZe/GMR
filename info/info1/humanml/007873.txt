@@ -1,0 +1,3 @@
+he does a wipe back circle#he/PRON does/AUX a/DET wipe/NOUN back/ADV circle/NOUN#0.0#0.0
+a person stands with bent knees and raises both arms out at their arms.#a/DET person/NOUN stand/VERB with/ADP bent/ADJ knee/NOUN and/CCONJ raise/VERB both/DET arm/NOUN out/ADV at/ADP their/DET arm/NOUN#0.0#0.0
+a person is sitting and raises both arms up to their side#a/DET person/NOUN is/AUX sit/VERB and/CCONJ raise/VERB both/DET arm/NOUN up/ADV to/ADP their/DET side/NOUN#0.0#0.0

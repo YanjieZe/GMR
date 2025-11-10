@@ -1,0 +1,3 @@
+a stick figure walks quickly from the left side to the right side.#a/DET stick/NOUN figure/NOUN walk/VERB quickly/ADV from/ADP the/DET left/ADJ side/NOUN to/ADP the/DET right/ADJ side/NOUN#0.0#0.0
+a man walks forward 4 paces and slightly to his left, then stops.#a/DET man/NOUN walk/VERB forward/ADV pace/NOUN and/CCONJ slightly/ADV to/ADP his/DET left/NOUN then/ADV stop/VERB#0.0#0.0
+a person walks forward diagonally to the left, leading with the right foot.#a/DET person/NOUN walk/VERB forward/ADV diagonally/ADV to/ADP the/DET left/NOUN lead/VERB with/ADP the/DET right/ADJ foot/NOUN#0.0#0.0

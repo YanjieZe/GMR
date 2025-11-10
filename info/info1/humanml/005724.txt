@@ -1,0 +1,3 @@
+a person limps forwards, holding their left leg.#a/DET person/NOUN limp/VERB forwards/ADV hold/VERB their/DET left/ADJ leg/NOUN#0.0#0.0
+a person is walking with a wounded leg#a/DET person/NOUN is/AUX walk/VERB with/ADP a/DET wound/VERB leg/NOUN#0.0#0.0
+a man is walking forward whilst carrying a heavy object.#a/DET man/NOUN is/AUX walk/VERB forward/ADV whilst/SCONJ carry/VERB a/DET heavy/ADJ object/NOUN#0.0#0.0

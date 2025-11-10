@@ -1,0 +1,3 @@
+a person picking something from his left side and transferring to his right side#a/DET person/NOUN pick/VERB something/PRON from/ADP his/DET left/ADJ side/NOUN and/CCONJ transfer/VERB to/ADP his/DET right/ADJ side/NOUN#0.0#0.0
+person picks someting up with both hands then holds it to the right then puts it down.#person/NOUN pick/VERB somete/VERB up/ADP with/ADP both/DET hand/NOUN then/ADV hold/VERB it/PRON to/ADP the/DET right/NOUN then/ADV put/VERB it/PRON down/ADP#0.0#0.0
+a person moves object from left to right and turns it on its side.#a/DET person/NOUN move/VERB object/NOUN from/ADP left/VERB to/ADP right/NOUN and/CCONJ turn/VERB it/PRON on/ADP its/DET side/NOUN#0.0#0.0

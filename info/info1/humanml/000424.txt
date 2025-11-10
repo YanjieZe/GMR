@@ -1,0 +1,2 @@
+a person turns around and limps slowly in a straight line then turns around again.#a/DET person/NOUN turn/VERB around/ADP and/CCONJ limp/NOUN slowly/ADV in/ADP a/DET straight/ADJ line/NOUN then/ADV turn/VERB around/ADP again/ADV#0.0#0.0
+this person turns 60 degrees and then takes five dragging steps backwards then turns forwards.#this/DET person/NOUN turn/VERB degree/NOUN and/CCONJ then/ADV take/VERB five/NUM drag/VERB step/NOUN backwards/ADV then/ADV turn/VERB forwards/ADV#0.0#0.0

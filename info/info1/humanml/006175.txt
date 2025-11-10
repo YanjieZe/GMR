@@ -1,0 +1,3 @@
+a person with arms up moving to the left.#a/DET person/NOUN with/ADP arm/NOUN up/ADV move/VERB to/ADP the/DET left/NOUN#0.0#0.0
+a man's arms are bent at the elbows, out in front of him then go above his head, then outstretched a his sides..#a/DET man/NOUN arm/NOUN are/AUX bent/ADJ at/ADP the/DET elbow/NOUN out/ADV in/ADP front/NOUN of/ADP him/PRON then/ADV go/VERB above/ADP his/DET head/NOUN then/ADV outstretche/VERB a/DET his/DET side/NOUN#0.0#0.0
+a man raises his both arms trying to search something and then spreads them wide apart.#a/DET man/NOUN raise/VERB his/DET both/DET arm/NOUN try/VERB to/PART search/VERB something/PRON and/CCONJ then/ADV spread/VERB them/PRON wide/ADV apart/ADV#0.0#0.0

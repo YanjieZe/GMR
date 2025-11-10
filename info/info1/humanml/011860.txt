@@ -1,0 +1,3 @@
+a person lifts their arms, rotates their shoulders up and back, then tilts their head from side to side.#a/DET person/NOUN lift/VERB their/DET arm/NOUN rotate/VERB their/DET shoulder/NOUN up/ADP and/CCONJ back/ADV then/ADV tilt/VERB their/DET head/NOUN from/ADP side/NOUN to/ADP side/NOUN#0.0#0.0
+a person first stretches his shoulders by moving their arms, and then stretches their neck.#a/DET person/NOUN first/ADV stretch/VERB his/DET shoulder/NOUN by/ADP move/VERB their/DET arm/NOUN and/CCONJ then/ADV stretch/VERB their/DET neck/NOUN#0.0#0.0
+person is stretching by moving around their shoulders and arms#person/NOUN is/AUX stretch/VERB by/ADP move/VERB around/ADP their/DET shoulder/NOUN and/CCONJ arm/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+someone moving hand forward while standing#someone/PRON move/VERB hand/NOUN forward/ADV while/SCONJ stand/VERB#0.0#0.0
+person takes right arm and stretches it in front of body#person/NOUN take/VERB right/ADJ arm/NOUN and/CCONJ stretch/VERB it/PRON in/ADP front/NOUN of/ADP body/NOUN#0.0#0.0
+a man outstretches his right arm and the puts it back down.#a/DET man/NOUN outstretche/VERB his/DET right/ADJ arm/NOUN and/CCONJ the/DET put/NOUN it/PRON back/ADV down/ADV#0.0#0.0

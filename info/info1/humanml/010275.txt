@@ -1,0 +1,3 @@
+a person walks up and then turns around and walk\s back.#a/DET person/NOUN walk/VERB up/ADV and/CCONJ then/ADV turn/VERB around/ADV and/CCONJ back/ADV#0.0#0.0
+a person walks left, spins around and begins walking.#a/DET person/NOUN walk/VERB left/VERB spin/VERB around/ADV and/CCONJ begin/VERB walk/VERB#0.0#0.0
+the person walked straight in front of them and then turned to the left#the/DET person/NOUN walk/VERB straight/ADV in/ADP front/NOUN of/ADP them/PRON and/CCONJ then/ADV turn/VERB to/ADP the/DET left/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+someone is hitting his drums.#someone/PRON is/AUX hit/VERB his/DET drum/NOUN#0.0#0.0
+a man has his hands in front of his body oh, they are close together, and they move up and down as of playing the drums.#a/DET man/NOUN has/AUX his/DET hand/NOUN in/ADP front/NOUN of/ADP his/DET body/NOUN oh/INTJ they/PRON are/AUX close/ADJ together/ADV and/CCONJ they/PRON move/VERB up/ADV and/CCONJ down/ADP as/ADV of/ADP play/VERB the/DET drum/NOUN#0.0#0.0
+a man plays the drums.#a/DET man/NOUN play/VERB the/DET drum/NOUN#0.0#0.0

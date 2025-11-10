@@ -1,0 +1,3 @@
+a person jumps up into the air, turns his body three quarters of the way around and lands on his feet.#a/DET person/NOUN jump/VERB up/ADP into/ADP the/DET air/NOUN turn/VERB his/DET body/NOUN three/NUM quarter/NOUN of/ADP the/DET way/NOUN around/ADV and/CCONJ land/VERB on/ADP his/DET foot/NOUN#0.0#0.0
+a man jumps and spins to the left.#a/DET man/NOUN jump/VERB and/CCONJ spin/VERB to/ADP the/DET left/NOUN#0.0#0.0
+a person jumps and spins in the air.#a/DET person/NOUN jump/VERB and/CCONJ spin/VERB in/ADP the/DET air/NOUN#0.0#0.0

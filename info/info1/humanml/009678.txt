@@ -1,0 +1,3 @@
+a figure takes a big step forward and downward.#a/DET figure/NOUN take/VERB a/DET big/ADJ step/NOUN forward/ADV and/CCONJ downward/ADV#0.0#0.0
+a person gets pushed forwards slightly.#a/DET person/NOUN get/VERB push/VERB forwards/ADV slightly/ADV#0.0#0.0
+a person stumbles and trips#a/DET person/NOUN stumble/VERB and/CCONJ trip/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person kneels over and stays on his knees.#a/DET person/NOUN kneel/VERB over/ADP and/CCONJ stay/VERB on/ADP his/DET knee/NOUN#0.0#0.0
+a person goes from standing to kneeling using their right hand for support.#a/DET person/NOUN go/VERB from/ADP stand/VERB to/ADP kneel/VERB use/VERB their/DET right/ADJ hand/NOUN for/ADP support/NOUN#0.0#0.0
+a person kneels down on the ground.#a/DET person/NOUN kneel/VERB down/ADP on/ADP the/DET ground/NOUN#0.0#0.0

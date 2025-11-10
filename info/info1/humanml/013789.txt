@@ -1,0 +1,3 @@
+person is doing hand circles with arms out#person/NOUN is/AUX do/VERB hand/NOUN circle/NOUN with/ADP arm/NOUN out/ADV#0.0#0.0
+person bends arms towards chest, extends it back out, bends it towards head, extends it back out, and then rotates the wrists in outward motion#person/NOUN bend/VERB arm/NOUN towards/ADP chest/NOUN extend/VERB it/PRON back/ADV out/ADV bend/VERB it/PRON towards/ADP head/NOUN extend/VERB it/PRON back/ADV out/ADV and/CCONJ then/ADV rotate/VERB the/DET wrist/NOUN in/ADP outward/ADJ motion/NOUN#0.0#0.0
+the person is doing arm exercises in and out down..#the/DET person/NOUN is/AUX do/VERB arm/NOUN exercise/NOUN in/ADP and/CCONJ out/ADV down/ADV#0.0#0.0

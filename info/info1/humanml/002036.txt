@@ -1,0 +1,3 @@
+a person walks normally and comes to a stop.#a/DET person/NOUN walk/VERB normally/ADV and/CCONJ come/VERB to/ADP a/DET stop/NOUN#0.0#0.0
+the figure starts looking straight at the viewer, it then turns right and walks in that direction.#the/DET figure/NOUN start/VERB look/VERB straight/ADV at/ADP the/DET viewer/NOUN it/PRON then/ADV turn/VERB right/ADJ and/CCONJ walk/VERB in/ADP that/DET direction/NOUN#0.0#0.0
+a person walks to the left.#a/DET person/NOUN walk/VERB to/ADP the/DET left/NOUN#0.0#0.0

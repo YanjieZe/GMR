@@ -1,0 +1,3 @@
+a man takes a step forward, turns around right side and walks back#a/DET man/NOUN take/VERB a/DET step/NOUN forward/ADV turn/VERB around/ADP right/ADJ side/NOUN and/CCONJ walk/VERB back/ADV#0.0#0.0
+a person takes two steps forward and turns aroudn 180 degrees and returns to his starting postion.#a/DET person/NOUN take/VERB two/NUM step/NOUN forward/ADV and/CCONJ turn/VERB aroudn/PROPN degree/NOUN and/CCONJ return/NOUN to/ADP his/DET starting/NOUN postion/NOUN#0.0#0.0
+the man walks forward turns and walks back.#the/DET man/NOUN walk/VERB forward/ADV turn/VERB and/CCONJ walk/VERB back/ADV#0.0#0.0

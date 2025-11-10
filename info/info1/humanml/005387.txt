@@ -1,0 +1,3 @@
+a person bent down walks sneakily towards the left.#a/DET person/NOUN bend/VERB down/ADP walk/VERB sneakily/ADV towards/ADP the/DET left/NOUN#0.0#0.0
+a man is tip toeing forward in a sneaky way#a/DET man/NOUN is/AUX tip/NOUN toe/VERB forward/ADV in/ADP a/DET sneaky/ADJ way/NOUN#0.0#0.0
+a person crouch walks forward diagonally to their left#a/DET person/NOUN crouch/NOUN walk/VERB forward/ADV diagonally/ADV to/ADP their/DET left/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks forward but sways to the right and left as if maintaning their balance.#a/DET person/NOUN walk/VERB forward/ADV but/CCONJ sway/VERB to/ADP the/DET right/NOUN and/CCONJ left/VERB as/SCONJ if/SCONJ maintane/VERB their/DET balance/NOUN#0.0#0.0
+person failing to walk a straight line.#person/NOUN fail/VERB to/PART walk/VERB a/DET straight/ADJ line/NOUN#1.0#3.0
+this person stumbles while moving forward.#this/DET person/NOUN stumble/VERB while/SCONJ move/VERB forward/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+man jumps quickly to the left side#man/NOUN jump/VERB quickly/ADV to/ADP the/DET left/ADJ side/NOUN#0.0#0.0
+the person that is avoiding being pushed.#the/DET person/NOUN that/DET is/AUX avoid/VERB being/AUX push/VERB#0.0#0.0
+a man stands on the ground and then takes a long  step to the left.#a/DET man/NOUN stand/VERB on/ADP the/DET ground/NOUN and/CCONJ then/ADV take/VERB a/DET long/ADJ step/NOUN to/ADP the/DET left/NOUN#0.0#0.0

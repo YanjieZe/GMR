@@ -1,0 +1,3 @@
+stick figure stands still before walking forward in a diagonal direction#stick/PROPN figure/NOUN stand/VERB still/ADV before/ADP walk/VERB forward/ADV in/ADP a/DET diagonal/ADJ direction/NOUN#0.0#5.0
+a man walks in a diagonal line, towards the left side of his body#a/DET man/NOUN walk/VERB in/ADP a/DET diagonal/ADJ line/NOUN towards/ADP the/DET left/ADJ side/NOUN of/ADP his/DET body/NOUN#0.0#0.0
+a person walks forward fast.#a/DET person/NOUN walk/VERB forward/ADV fast/ADV#0.0#0.0

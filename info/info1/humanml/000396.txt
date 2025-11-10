@@ -1,0 +1,3 @@
+a man runs back and forth, then upon running back decides to stop almost midway.#a/DET man/NOUN run/VERB back/ADV and/CCONJ forth/ADV then/ADV upon/SCONJ run/VERB back/ADV decide/VERB to/PART stop/VERB almost/ADV midway/ADV#0.0#0.0
+person starts in the middle then jogs to their right then to their left then back to the middle and stops#person/NOUN start/VERB in/ADP the/DET middle/NOUN then/ADV jog/VERB to/ADP their/DET right/NOUN then/ADV to/ADP their/DET left/NOUN then/ADV back/ADV to/ADP the/DET middle/NOUN and/CCONJ stop/NOUN#0.0#0.0
+a person runs back and forth.#a/DET person/NOUN run/VERB back/ADV and/CCONJ forth/ADV#0.0#0.0

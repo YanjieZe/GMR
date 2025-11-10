@@ -1,0 +1,3 @@
+a person sliding backwards to sit down then gets up and slides back to original spot.#a/DET person/NOUN slide/VERB backwards/ADV to/PART sit/VERB down/ADP then/ADV get/VERB up/ADV and/CCONJ slide/VERB back/ADV to/ADP original/ADJ spot/NOUN#0.0#0.0
+person takes a step left, sits down and stands back up#person/NOUN take/VERB a/DET step/NOUN left/VERB sit/VERB down/ADV and/CCONJ stand/VERB back/ADV up/ADV#0.0#0.0
+takes a step to the left, to sit down then gets back up and takes a step to the right.#take/VERB a/DET step/NOUN to/ADP the/DET left/NOUN to/PART sit/VERB down/ADP then/ADV get/VERB back/ADV up/ADV and/CCONJ take/VERB a/DET step/NOUN to/ADP the/DET right/NOUN#0.0#0.0

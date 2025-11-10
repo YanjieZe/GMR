@@ -1,0 +1,3 @@
+the person happily walks forward and then turns around#the/DET person/NOUN happily/ADV walk/VERB forward/ADV and/CCONJ then/ADV turn/VERB around/ADV#0.0#0.0
+someone is marching down the screen and then turning back#someone/PRON is/AUX march/VERB down/ADP the/DET screen/NOUN and/CCONJ then/ADV turn/VERB back/ADV#0.0#0.0
+a person swings their arms while walking forward.#a/DET person/NOUN swing/VERB their/DET arm/NOUN while/SCONJ walk/VERB forward/ADV#0.0#0.0

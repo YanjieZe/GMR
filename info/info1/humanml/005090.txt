@@ -1,0 +1,3 @@
+a person grabbed and sratching something with right hand#a/DET person/NOUN grab/VERB and/CCONJ sratche/VERB something/PRON with/ADP right/ADJ hand/NOUN#0.0#0.0
+a person leans over a bit while flipping something with their right hand.#a/DET person/NOUN lean/VERB over/ADP a/DET bit/NOUN while/SCONJ flip/VERB something/PRON with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+person appears to wipe something with right hand.#person/NOUN appear/VERB to/PART wipe/VERB something/PRON with/ADP right/ADJ hand/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+person is walking a little tipsy a bit.#person/NOUN is/AUX walk/VERB a/DET little/ADJ tipsy/ADJ a/DET bit/NOUN#0.0#0.0
+a person starts walking goes slightly toward right and stands in the center.#a/DET person/NOUN start/VERB walking/NOUN go/VERB slightly/ADV toward/ADP right/NOUN and/CCONJ stand/VERB in/ADP the/DET center/NOUN#0.0#0.0
+robot started to move in zig zag motion.#robot/PROPN start/VERB to/PART move/VERB in/ADP zig/PROPN zag/X motion/NOUN#0.0#0.0

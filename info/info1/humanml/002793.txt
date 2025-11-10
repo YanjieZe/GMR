@@ -1,0 +1,3 @@
+person holds hands in front of body level with head and kicks with left foot repeatedly.#person/NOUN hold/VERB hand/NOUN in/ADP front/NOUN of/ADP body/NOUN level/NOUN with/ADP head/NOUN and/CCONJ kick/NOUN with/ADP left/ADJ foot/NOUN repeatedly/ADV#0.0#0.0
+a man is stepping back and then kicking forward#a/DET man/NOUN is/AUX step/VERB back/ADV and/CCONJ then/ADV kick/VERB forward/ADV#0.0#9.0
+a person has their arms up to their shoulders and kicking with their left leg.#a/DET person/NOUN has/AUX their/DET arm/NOUN up/ADP to/ADP their/DET shoulder/NOUN and/CCONJ kick/VERB with/ADP their/DET left/ADJ leg/NOUN#0.0#0.0

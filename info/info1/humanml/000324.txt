@@ -1,0 +1,3 @@
+a person bounce sup and down on the balls of their feet.#a/DET person/NOUN bounce/NOUN sup/NOUN and/CCONJ down/ADV on/ADP the/DET ball/NOUN of/ADP their/DET foot/NOUN#0.0#0.0
+person is jumping up and down slightly on the spot#person/NOUN is/AUX jump/VERB up/ADP and/CCONJ down/ADV slightly/ADV on/ADP the/DET spot/NOUN#0.0#0.0
+a man gently hops but never leaves the ground.#a/DET man/NOUN gently/ADV hop/VERB but/CCONJ never/ADV leave/VERB the/DET ground/NOUN#0.0#0.0

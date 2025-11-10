@@ -1,0 +1,3 @@
+a person steps forward, turns around and walks back.#a/DET person/NOUN step/VERB forward/ADV turn/VERB around/ADV and/CCONJ walk/VERB back/ADV#0.0#0.0
+a person walks forward, turns on one leg , and walks back#a/DET person/NOUN walk/VERB forward/ADV turn/VERB on/ADP one/NUM leg/NOUN and/CCONJ walk/VERB back/ADV#0.0#0.0
+a person is standing still, moves forwards, spins around, then walks back into the direction he came from#a/DET person/NOUN is/AUX stand/VERB still/ADV move/NOUN forward/NOUN spin/VERB around/ADV then/ADV walk/VERB back/ADV into/ADP the/DET direction/NOUN he/PRON come/VERB from/ADP#0.0#0.0

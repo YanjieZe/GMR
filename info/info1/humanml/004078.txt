@@ -1,0 +1,3 @@
+a man steps and and the walks in a circle before sitting down and then gets back up.#a/DET man/NOUN step/VERB and/CCONJ and/CCONJ the/DET walk/NOUN in/ADP a/DET circle/NOUN before/ADP sit/VERB down/ADP and/CCONJ then/ADV get/VERB back/ADV up/ADV#0.0#0.0
+the man walks up and down 2 steps then around them to sit on the stairs.#the/DET man/NOUN walk/VERB up/ADV and/CCONJ down/ADV step/NOUN then/ADV around/ADP them/PRON to/PART sit/VERB on/ADP the/DET stair/NOUN#0.0#0.0
+person climbs up steps, walks back down, goes around a chair, sits down, and stands back up#person/NOUN climb/VERB up/ADP step/NOUN walk/VERB back/ADV down/ADV go/VERB around/ADP a/DET chair/NOUN sit/VERB down/ADV and/CCONJ stand/VERB back/ADV up/ADV#0.0#0.0

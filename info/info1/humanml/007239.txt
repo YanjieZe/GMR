@@ -1,0 +1,3 @@
+man does ae circle with right arm, then does four arm circles with both arms.#man/NOUN does/AUX ae/PROPN circle/NOUN with/ADP right/ADJ arm/NOUN then/ADV does/AUX four/NUM arm/NOUN circle/NOUN with/ADP both/DET arm/NOUN#0.0#0.0
+the person wind mill arm exercises.#the/DET person/NOUN wind/NOUN mill/NOUN arm/NOUN exercise/NOUN#0.0#0.0
+a stadning person swings their aerm out in front then both their arms swinging#a/DET stadne/VERB person/NOUN swing/VERB their/DET aerm/NOUN out/ADP in/ADP front/NOUN then/ADV both/CCONJ their/DET arm/NOUN swinge/VERB#0.0#0.0

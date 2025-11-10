@@ -1,0 +1,3 @@
+a person lifts up their left wrist, looks at the top of their wrist, and puts their arm back to their side.#a/DET person/NOUN lift/VERB up/ADP their/DET left/ADJ wrist/NOUN look/VERB at/ADP the/DET top/NOUN of/ADP their/DET wrist/NOUN and/CCONJ put/VERB their/DET arm/NOUN back/ADV to/ADP their/DET side/NOUN#0.0#0.0
+a person looks at his wristwatch.#a/DET person/NOUN look/VERB at/ADP his/DET wristwatch/NOUN#0.0#0.0
+a man looks at his watch.#a/DET man/NOUN look/VERB at/ADP his/DET watch/NOUN#0.0#0.0

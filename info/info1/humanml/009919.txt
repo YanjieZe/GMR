@@ -1,0 +1,3 @@
+a person is raising their arms in the air with their legs bent as if lifting weights.#a/DET person/NOUN is/AUX raise/VERB their/DET arm/NOUN in/ADP the/DET air/NOUN with/ADP their/DET leg/NOUN bent/ADJ as/SCONJ if/SCONJ lift/VERB weight/NOUN#0.0#0.0
+a person squatting raises both their arms above their head.#a/DET person/NOUN squat/VERB raise/VERB both/CCONJ their/DET arm/NOUN above/ADP their/DET head/NOUN#0.0#0.0
+a character lifts their arms and bends their knees to raise a dumbbell.#a/DET character/NOUN lift/VERB their/DET arm/NOUN and/CCONJ bend/VERB their/DET knee/NOUN to/PART raise/VERB a/DET dumbbell/NOUN#0.0#0.0

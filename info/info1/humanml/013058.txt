@@ -1,0 +1,3 @@
+person appears to jog forward.#person/NOUN appear/VERB to/ADP jog/VERB forward/ADV#0.0#0.0
+a person jogs/runs in place, or possibly on a treadmill?#a/DET person/NOUN jog/VERB run/NOUN in/ADP place/NOUN or/CCONJ possibly/ADV on/ADP a/DET treadmill/NOUN#0.0#0.0
+a person is jogging in place.#a/DET person/NOUN is/AUX jog/VERB in/ADP place/NOUN#0.0#0.0

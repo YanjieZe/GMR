@@ -1,0 +1,3 @@
+an animated and authoritarian figure uses its left hand to wave away and direct a crowd#an/DET animated/ADJ and/CCONJ authoritarian/ADJ figure/NOUN use/VERB its/DET left/ADJ hand/NOUN to/PART wave/VERB away/ADV and/CCONJ direct/VERB a/DET crowd/NOUN#0.0#0.0
+a person waves with their left hand then raises it above their head and continues to wave.#a/DET person/NOUN wave/VERB with/ADP their/DET left/ADJ hand/NOUN then/ADV raise/VERB it/PRON above/ADP their/DET head/NOUN and/CCONJ continue/VERB to/PART wave/VERB#0.0#0.0
+the person is waving and standing.#the/DET person/NOUN is/AUX wave/VERB and/CCONJ stand/VERB#0.0#0.0

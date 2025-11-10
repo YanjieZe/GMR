@@ -1,0 +1,3 @@
+man raises his right arm to the level of his chest, then sweeps his extended arm from right to left.#man/NOUN raise/VERB his/DET right/ADJ arm/NOUN to/ADP the/DET level/NOUN of/ADP his/DET chest/NOUN then/ADV sweep/VERB his/DET extended/ADJ arm/NOUN from/ADP right/NOUN to/ADP left/NOUN#1.0#2.0
+the man lifts his right arm in front of him and then moves it to the left.#the/DET man/NOUN lift/VERB his/DET right/ADJ arm/NOUN in/ADP front/NOUN of/ADP him/PRON and/CCONJ then/ADV move/VERB it/PRON to/ADP the/DET left/NOUN#0.0#0.0
+the person picked up some thing and put it on his left side.#the/DET person/NOUN pick/VERB up/ADP some/DET thing/NOUN and/CCONJ put/VERB it/PRON on/ADP his/DET left/ADJ side/NOUN#0.0#0.0

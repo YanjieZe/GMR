@@ -1,0 +1,3 @@
+a person stretches both arms to their side and hold it for a few seconds before releasing#a/DET person/NOUN stretch/VERB both/DET arm/NOUN to/ADP their/DET side/NOUN and/CCONJ hold/VERB it/PRON for/ADP a/DET few/ADJ second/NOUN before/ADP release/VERB#0.0#0.0
+person puts arms at side and then raises them briefly. movement is repeated.#person/NOUN put/VERB arm/NOUN at/ADP side/NOUN and/CCONJ then/ADV raise/VERB them/PRON briefly/ADV movement/NOUN is/AUX repeat/VERB#0.0#0.0
+a person raises his arms straight out from his sides several times.#a/DET person/NOUN raise/VERB his/DET arm/NOUN straight/ADV out/ADV from/ADP his/DET side/NOUN several/ADJ time/NOUN#0.0#0.0

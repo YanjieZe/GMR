@@ -1,0 +1,3 @@
+a person raising each hand above his head.#a/DET person/NOUN raise/VERB each/DET hand/NOUN above/ADP his/DET head/NOUN#0.0#0.0
+a person raises one arm at a time.#a/DET person/NOUN raise/VERB one/NUM arm/NOUN at/ADP a/DET time/NOUN#0.0#0.0
+a person holds up there right arm with their left arm down, and then puts the right arm down and holds their left arm up.#a/DET person/NOUN hold/VERB up/ADV there/ADV right/ADJ arm/NOUN with/ADP their/DET left/ADJ arm/NOUN down/ADP and/CCONJ then/ADV put/VERB the/DET right/ADJ arm/NOUN down/ADP and/CCONJ hold/VERB their/DET left/ADJ arm/NOUN up/ADP#0.0#0.0

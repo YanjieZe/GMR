@@ -1,0 +1,2 @@
+person walks forward and to the left#person/NOUN walk/VERB forward/ADV and/CCONJ to/ADP the/DET left/NOUN#0.0#0.0
+someone pasting around, walking in circles.#someone/PRON paste/VERB around/ADV walk/VERB in/ADP circle/NOUN#0.0#0.0

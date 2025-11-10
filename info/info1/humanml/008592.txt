@@ -1,0 +1,3 @@
+a person squats down, then stands back up and holds their arms out.#a/DET person/NOUN squat/VERB down/ADP then/ADV stand/VERB back/ADV up/ADV and/CCONJ hold/VERB their/DET arm/NOUN out/ADP#0.0#0.0
+a person squats, gets back up the makes a t-shape with its body.#a/DET person/NOUN squat/VERB get/VERB back/ADV up/ADP the/DET make/VERB a/DET tshape/NOUN with/ADP its/DET body/NOUN#0.0#7.0
+a person crouches down, then stands up and outstretches their arms.#a/DET person/NOUN crouch/VERB down/ADP then/ADV stand/VERB up/ADP and/CCONJ outstretche/VERB their/DET arm/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person standing still holds something with both arms extended in front and then pulled in close to his chest before pushing back out.#a/DET person/NOUN stand/VERB still/ADV hold/VERB something/PRON with/ADP both/DET arm/NOUN extend/VERB in/ADP front/NOUN and/CCONJ then/ADV pull/VERB in/ADV close/ADV to/ADP his/DET chest/NOUN before/ADP push/VERB back/ADP out/ADV#0.0#0.0
+a person is using a vacuume.#a/DET person/NOUN is/AUX use/VERB a/DET vacuume/NOUN#0.0#0.0
+this person appears to be mopping a floor.#this/DET person/NOUN appear/VERB to/PART be/AUX mop/VERB a/DET floor/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person moves both arms around stretching.#a/DET person/NOUN move/VERB both/DET arm/NOUN around/ADP stretch/VERB#0.0#0.0
+a person does many different arm stretches#a/DET person/NOUN does/AUX many/ADJ different/ADJ arm/NOUN stretch/NOUN#0.0#0.0
+a figure uses a bow and arrow#a/DET figure/NOUN use/VERB a/DET bow/NOUN and/CCONJ arrow/NOUN#0.0#0.0

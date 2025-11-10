@@ -1,0 +1,3 @@
+a person bends down and lifts up something.#a/DET person/NOUN bend/VERB down/ADV and/CCONJ lift/VERB up/ADP something/PRON#0.0#0.0
+a man bends his knees to pick up an object on the right side with both hands.#a/DET man/NOUN bend/VERB his/DET knee/NOUN to/PART pick/VERB up/ADP an/DET object/NOUN on/ADP the/DET right/ADJ side/NOUN with/ADP both/DET hand/NOUN#0.0#0.0
+someone bends over to the left and lifts a large object with both hands.#someone/PRON bend/VERB over/ADP to/ADP the/DET left/NOUN and/CCONJ lift/VERB a/DET large/ADJ object/NOUN with/ADP both/DET hand/NOUN#0.0#0.0

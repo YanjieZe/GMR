@@ -1,0 +1,3 @@
+a person jumps up and down twice while raising its arms.#a/DET person/NOUN jump/VERB up/ADV and/CCONJ down/ADV twice/ADV while/SCONJ raise/VERB its/DET arm/NOUN#0.0#0.0
+a person jumps up and down two times.#a/DET person/NOUN jump/VERB up/ADV and/CCONJ down/ADV two/NUM time/NOUN#0.0#0.0
+person has their arms up and jumps on the spot#person/NOUN has/AUX their/DET arm/NOUN up/ADP and/CCONJ jump/VERB on/ADP the/DET spot/NOUN#0.0#0.0

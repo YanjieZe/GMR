@@ -1,0 +1,3 @@
+a person dances awkwardly without skill.#a/DET person/NOUN dance/VERB awkwardly/ADV without/ADP skill/NOUN#0.0#0.0
+person is standing and both arms start to spasm back and forth and the person begins to stumble around back and forth.#person/NOUN is/AUX stand/VERB and/CCONJ both/CCONJ arm/NOUN start/VERB to/PART spasm/VERB back/ADV and/CCONJ forth/ADV and/CCONJ the/DET person/NOUN begin/VERB to/PART stumble/VERB around/ADP back/ADV and/CCONJ forth/ADV#0.0#0.0
+a person standing to the side moving arms then turns left.#a/DET person/NOUN stand/VERB to/ADP the/DET side/NOUN move/VERB arm/NOUN then/ADV turn/VERB left/VERB#0.0#0.0

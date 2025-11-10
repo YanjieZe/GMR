@@ -1,0 +1,3 @@
+a person makes a casting motion over their right shoulder and then reels in.#a/DET person/NOUN make/VERB a/DET casting/NOUN motion/NOUN over/ADP their/DET right/ADJ shoulder/NOUN and/CCONJ then/ADV reel/VERB in/ADP#0.0#0.0
+a person casts a fishing line, reels it in, then tugs the rod.#a/DET person/NOUN cast/VERB a/DET fishing/NOUN line/NOUN reel/VERB it/PRON in/ADP then/ADV tug/VERB the/DET rod/NOUN#0.0#0.0
+a person stands in one spot, casts a fishing rod and then reels it in#a/DET person/NOUN stand/VERB in/ADP one/NUM spot/NOUN cast/VERB a/DET fishing/NOUN rod/NOUN and/CCONJ then/ADV reel/VERB it/PRON in/ADP#0.0#0.0

@@ -1,0 +1,3 @@
+a person is slightly crouched and looking around#a/DET person/NOUN is/AUX slightly/ADV crouched/ADJ and/CCONJ look/VERB around/ADV#0.0#0.0
+the man is looking around#the/DET man/NOUN is/AUX look/VERB around/ADV#0.0#0.0
+a individual is standing in a defense posture, turning to their right, crouching again & shaking his left fist a bit.#a/DET individual/NOUN is/AUX stand/VERB in/ADP a/DET defense/NOUN posture/NOUN turn/VERB to/ADP their/DET right/NOUN crouch/VERB again/ADV shake/VERB his/DET left/ADJ fist/NOUN a/DET bit/NOUN#0.0#10.0

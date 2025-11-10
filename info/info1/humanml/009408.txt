@@ -1,0 +1,3 @@
+a person gestures no using his right hand#a/DET person/NOUN gesture/VERB no/DET use/VERB his/DET right/ADJ hand/NOUN#0.0#0.0
+a person raises their right arm and waves, and then moves their arms to the right in a negative manner, and then steps backwards with their left foot and then their right foot.#a/DET person/NOUN raise/VERB their/DET right/ADJ arm/NOUN and/CCONJ wave/NOUN and/CCONJ then/ADV move/VERB their/DET arm/NOUN to/ADP the/DET right/NOUN in/ADP a/DET negative/ADJ manner/NOUN and/CCONJ then/ADV step/VERB backwards/ADV with/ADP their/DET left/ADJ foot/NOUN and/CCONJ then/ADV their/DET right/ADJ foot/NOUN#0.0#0.0
+a person waves several times with his right hand#a/DET person/NOUN wave/VERB several/ADJ time/NOUN with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0

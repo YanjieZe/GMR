@@ -1,0 +1,2 @@
+this person zig zags forward then stops to the right.#this/DET person/NOUN zig/VERB zag/VERB forward/ADV then/ADV stop/VERB to/ADP the/DET right/NOUN#0.0#0.0
+walking forward with legs wide apart.#walk/VERB forward/ADV with/ADP leg/NOUN wide/ADV apart/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks around an object and seems to be wiping the object.#a/DET person/NOUN walk/VERB around/ADP an/DET object/NOUN and/CCONJ seem/VERB to/PART be/AUX wipe/VERB the/DET object/NOUN#0.0#0.0
+the man bends to wipe something steps around it and wipes again.#the/DET man/NOUN bend/VERB to/PART wipe/VERB something/PRON step/NOUN around/ADP it/PRON and/CCONJ wipe/NOUN again/ADV#0.0#0.0
+a person seeming to be organizing a room.#a/DET person/NOUN seeming/ADJ to/PART be/AUX organize/VERB a/DET room/NOUN#0.0#0.0

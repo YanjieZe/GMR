@@ -1,0 +1,3 @@
+the person does a very quick dance.#the/DET person/NOUN does/AUX a/DET very/ADV quick/ADJ dance/NOUN#0.0#0.0
+a person too fast shaked with hands#a/DET person/NOUN too/ADV fast/ADV shake/VERB with/ADP hand/NOUN#0.0#1.0
+a standing man does a dance. he taises his left arm the. his right arm straight up over his head. then holds both arms straight out.#a/DET stand/VERB man/NOUN does/AUX a/DET dance/NOUN he/PRON taise/VERB his/DET left/ADJ arm/NOUN the/DET his/DET right/ADJ arm/NOUN straight/ADV up/ADV over/ADP his/DET head/NOUN then/ADV hold/VERB both/DET arm/NOUN straight/ADV out/ADV#0.0#0.0

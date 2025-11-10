@@ -1,0 +1,3 @@
+a perosn brushes their teeth, spits, and then sets their toothbrush down.#a/DET perosn/NOUN brush/VERB their/DET tooth/NOUN spit/NOUN and/CCONJ then/ADV set/VERB their/DET toothbrush/NOUN down/ADP#0.0#0.0
+a person twitches their right hand in front of their face, then leans forward.#a/DET person/NOUN twitch/VERB their/DET right/ADJ hand/NOUN in/ADP front/NOUN of/ADP their/DET face/NOUN then/ADV lean/VERB forward/ADV#0.0#0.0
+a person brishing their teeth.#a/DET person/NOUN brishe/VERB their/DET tooth/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a man does two star jumps on the spot.#a/DET man/NOUN does/AUX two/NUM star/NOUN jump/VERB on/ADP the/DET spot/NOUN#0.0#0.0
+person stands still then does two star jumps and raises arms to head height#person/NOUN stand/VERB still/ADV then/ADV does/AUX two/NUM star/NOUN jump/NOUN and/CCONJ raise/VERB arm/NOUN to/PART head/VERB height/ADV#0.0#0.0
+the person does two jumping jacks#the/DET person/NOUN does/AUX two/NUM jump/VERB jack/NOUN#0.0#0.0

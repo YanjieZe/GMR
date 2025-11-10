@@ -1,0 +1,3 @@
+a person walks in a counter clockwise circle#a/DET person/NOUN walk/VERB in/ADP a/DET counter/NOUN clockwise/NOUN circle/NOUN#0.0#0.0
+a person walks a nearly complete circle.#a/DET person/NOUN walk/VERB a/DET nearly/ADV complete/ADJ circle/NOUN#0.0#0.0
+the man is moderately walking around in a complete circle.#the/DET man/NOUN is/AUX moderately/ADV walk/VERB around/ADV in/ADP a/DET complete/ADJ circle/NOUN#0.0#0.0

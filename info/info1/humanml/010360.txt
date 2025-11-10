@@ -1,0 +1,3 @@
+the person is sparring with someone.#the/DET person/NOUN is/AUX spar/VERB with/ADP someone/PRON#0.0#0.0
+a person anxiously placing items back on shelves.#a/DET person/NOUN anxiously/ADV place/VERB item/NOUN back/ADV on/ADP shelf/NOUN#0.0#0.0
+a person steps back and forth with his right leg forward, and with his hand out infront of him makes a gesture of picking things up from different heights.#a/DET person/NOUN step/VERB back/ADV and/CCONJ forth/ADV with/ADP his/DET right/ADJ leg/NOUN forward/ADV and/CCONJ with/ADP his/DET hand/NOUN out/ADP infront/ADV of/ADP him/PRON make/VERB a/DET gesture/NOUN of/ADP pick/VERB thing/NOUN up/ADP from/ADP different/ADJ height/NOUN#0.0#0.0

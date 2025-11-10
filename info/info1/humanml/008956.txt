@@ -1,0 +1,3 @@
+person walks  slowly forward#person/NOUN walk/VERB slowly/ADV forward/ADV#0.0#0.0
+a person walks forward at a relatively fast pace.#a/DET person/NOUN walk/VERB forward/ADV at/ADP a/DET relatively/ADV fast/ADJ pace/NOUN#0.0#0.0
+a person walks at a normal pace.#a/DET person/NOUN walk/VERB at/ADP a/DET normal/ADJ pace/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks forward then stops.#a/DET person/NOUN walk/VERB forward/ADV then/ADV stop/VERB#0.0#0.0
+a man walks forward before stopping.#a/DET man/NOUN walk/VERB forward/ADV before/ADP stop/VERB#0.0#0.0
+he walks deliberately forward with his hands by his sides with very little motion.#he/PRON walk/VERB deliberately/ADV forward/ADV with/ADP his/DET hand/NOUN by/ADP his/DET side/NOUN with/ADP very/ADV little/ADJ motion/NOUN#0.0#0.0

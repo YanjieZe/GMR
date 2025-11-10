@@ -1,0 +1,3 @@
+a person is on their knees and then they get up slowly.#a/DET person/NOUN is/AUX on/ADP their/DET knee/NOUN and/CCONJ then/ADV they/PRON get/VERB up/ADP slowly/ADV#0.0#0.0
+the person is on the ground and decides to get up#the/DET person/NOUN is/AUX on/ADP the/DET ground/NOUN and/CCONJ decide/VERB to/PART get/AUX up/ADP#0.0#0.0
+a person is on his knees and then gets up by pushing himself up with his right hand#a/DET person/NOUN is/AUX on/ADP his/DET knee/NOUN and/CCONJ then/ADV get/VERB up/ADP by/ADP push/VERB himself/PRON up/ADP with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0

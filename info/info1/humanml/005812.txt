@@ -1,0 +1,3 @@
+a person waves in large motion with their left hand#a/DET person/NOUN wave/VERB in/ADP large/ADJ motion/NOUN with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0
+a person waves with their left hand.#a/DET person/NOUN wave/VERB with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0
+person waves left arm over head as if to call someone#person/NOUN wave/NOUN left/VERB arm/NOUN over/ADP head/NOUN as/SCONJ if/SCONJ to/PART call/VERB someone/PRON#0.0#0.0

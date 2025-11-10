@@ -1,0 +1,3 @@
+moving arm out to shake hands.#move/VERB arm/NOUN out/ADP to/PART shake/VERB hand/NOUN#0.0#0.0
+this person lifts his right arm, stops then raises it above his head.#this/DET person/NOUN lift/VERB his/DET right/ADJ arm/NOUN stop/VERB then/ADV raise/VERB it/PRON above/ADP his/DET head/NOUN#0.0#0.0
+a person raises their right hand and places it on its stomach, then raises above their head.#a/DET person/NOUN raise/VERB their/DET right/ADJ hand/NOUN and/CCONJ place/VERB it/PRON on/ADP its/DET stomach/NOUN then/ADV raise/VERB above/ADP their/DET head/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a peson throws something with his right hand and then catches it#a/DET peson/NOUN throw/VERB something/PRON with/ADP his/DET right/ADJ hand/NOUN and/CCONJ then/ADV catch/VERB it/PRON#0.0#0.0
+the persons getting ready to throw ball with his right arm.#the/DET person/NOUN get/VERB ready/ADJ to/PART throw/VERB ball/NOUN with/ADP his/DET right/ADJ arm/NOUN#0.0#0.0
+a person throws something and catches.#a/DET person/NOUN throw/VERB something/PRON and/CCONJ catch/NOUN#0.0#0.0

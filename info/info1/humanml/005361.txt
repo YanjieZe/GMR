@@ -1,0 +1,3 @@
+a person walks forward several steps.#a/DET person/NOUN walk/VERB forward/ADV several/ADJ step/NOUN#0.0#0.0
+a person walks forward then stops.#a/DET person/NOUN walk/VERB forward/ADV then/ADV stop/VERB#0.0#0.0
+a person who is standing with his hands by his sides quickly takes five steps forward.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP his/DET hand/NOUN by/ADP his/DET side/NOUN quickly/ADV take/VERB five/NUM step/NOUN forward/ADV#0.0#0.0

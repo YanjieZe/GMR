@@ -1,0 +1,3 @@
+a man is playing golf.#a/DET man/NOUN is/AUX play/VERB golf/NOUN#0.0#0.0
+a person stands with their knees slightly bent and their arms extended directly towards the ground holding something such as a golf club before swinging smoothy#a/DET person/NOUN stand/VERB with/ADP their/DET knee/NOUN slightly/ADV bent/ADJ and/CCONJ their/DET arm/NOUN extend/VERB directly/ADV towards/ADP the/DET ground/NOUN hold/VERB something/PRON such/ADJ as/SCONJ a/DET golf/NOUN club/NOUN before/ADP swinge/VERB smoothy/ADJ#0.0#0.0
+person puts hands together and takes a golf swing to the left.#person/NOUN put/VERB hand/NOUN together/ADV and/CCONJ take/VERB a/DET golf/NOUN swing/NOUN to/ADP the/DET left/NOUN#0.0#0.0

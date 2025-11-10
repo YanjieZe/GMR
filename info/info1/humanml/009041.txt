@@ -1,0 +1,3 @@
+a person does a throwing motion with his right arm#a/DET person/NOUN does/AUX a/DET throwing/NOUN motion/NOUN with/ADP his/DET right/ADJ arm/NOUN#0.0#0.0
+a person walks forward from a neutral position and throws an object with right hand and right leg kicks back.#a/DET person/NOUN walk/VERB forward/ADV from/ADP a/DET neutral/ADJ position/NOUN and/CCONJ throw/VERB an/DET object/NOUN with/ADP right/ADJ hand/NOUN and/CCONJ right/ADJ leg/NOUN kick/VERB back/ADV#0.0#0.0
+the sim appears to throw an object.#the/DET sim/PROPN appear/VERB to/PART throw/VERB an/DET object/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person puts their right hand to their face.#a/DET person/NOUN put/VERB their/DET right/ADJ hand/NOUN to/ADP their/DET face/NOUN#0.0#0.0
+person is looking at someone through a binocular.#person/NOUN is/AUX look/VERB at/ADP someone/PRON through/ADP a/DET binocular/NOUN#0.0#0.0
+a man lifts an object to his head with his right hand.#a/DET man/NOUN lift/VERB an/DET object/NOUN to/ADP his/DET head/NOUN with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0

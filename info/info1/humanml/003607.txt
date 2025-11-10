@@ -1,0 +1,3 @@
+the person marches straight forward#the/DET person/NOUN march/VERB straight/ADV forward/ADV#0.0#0.0
+a person marches in a straight line while mving their arms uo and down by their sides.#a/DET person/NOUN march/VERB in/ADP a/DET straight/ADJ line/NOUN while/SCONJ mve/VERB their/DET arm/NOUN uo/ADP and/CCONJ down/ADV by/ADP their/DET side/NOUN#0.0#0.0
+a person marches forwards, raising their knees high and pumping their arms#a/DET person/NOUN march/VERB forwards/ADV raise/VERB their/DET knee/NOUN high/ADJ and/CCONJ pump/VERB their/DET arm/NOUN#0.0#0.0

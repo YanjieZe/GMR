@@ -1,0 +1,3 @@
+someone standing with both shoulders high and later raises his right hand up and back down.#someone/PRON stand/VERB with/ADP both/DET shoulder/NOUN high/ADJ and/CCONJ later/ADV raise/VERB his/DET right/ADJ hand/NOUN up/ADP and/CCONJ back/VERB down/ADV#0.0#0.0
+a man holds his right hand over his head and appears to scratch it.#a/DET man/NOUN hold/VERB his/DET right/ADJ hand/NOUN over/ADP his/DET head/NOUN and/CCONJ appear/VERB to/PART scratch/VERB it/PRON#0.0#0.0
+a person grabbed soemthing with right hand and leaned it near to face#a/DET person/NOUN grab/VERB soemthe/VERB with/ADP right/ADJ hand/NOUN and/CCONJ lean/VERB it/PRON near/ADJ to/PART face/VERB#0.0#0.0

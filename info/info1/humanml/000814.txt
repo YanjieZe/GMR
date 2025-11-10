@@ -1,0 +1,3 @@
+man moves forward jumping from one foot to the other#man/PROPN move/VERB forward/ADV jump/VERB from/ADP one/NUM foot/NOUN to/ADP the/DET other/ADJ#0.0#0.5
+a person runs with wide spread legs#a/DET person/NOUN run/VERB with/ADP wide/ADJ spread/NOUN leg/NOUN#0.0#0.0
+person jumps forward diagonally with one leg at a time.#person/NOUN jump/VERB forward/ADV diagonally/ADV with/ADP one/NUM leg/NOUN at/ADP a/DET time/NOUN#0.0#0.0

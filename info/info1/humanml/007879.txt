@@ -1,0 +1,3 @@
+a person swings a left hook.#a/DET person/NOUN swing/VERB a/DET left/ADJ hook/NOUN#0.0#0.0
+the man does a quick hook shot towards the location where some ones gut would be.#the/DET man/NOUN does/AUX a/DET quick/ADJ hook/NOUN shot/NOUN towards/ADP the/DET location/NOUN where/ADV some/DET one/NOUN gut/PROPN would/VERB be/AUX#0.0#0.0
+a person gives a left hook.#a/DET person/NOUN give/VERB a/DET left/ADJ hook/NOUN#0.0#0.0

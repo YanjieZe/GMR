@@ -1,0 +1,3 @@
+a person takes two large steps forward while putting their hands out straight then lowering them to the side.#a/DET person/NOUN take/VERB two/NUM large/ADJ step/NOUN forward/ADV while/SCONJ put/VERB their/DET hand/NOUN out/ADV straight/ADV then/ADV lower/VERB them/PRON to/ADP the/DET side/NOUN#0.0#0.0
+the person is trying to stand up after being pushed.#the/DET person/NOUN is/AUX try/VERB to/PART stand/VERB up/ADP after/ADP being/AUX push/VERB#0.0#0.0
+a person being slightly pushed forward#a/DET person/NOUN being/AUX slightly/ADV push/VERB forward/ADV#0.0#0.0

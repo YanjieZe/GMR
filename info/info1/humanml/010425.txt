@@ -1,0 +1,3 @@
+a person spins in a clockwise circle#a/DET person/NOUN spin/VERB in/ADP a/DET clockwise/NOUN circle/NOUN#0.0#0.0
+a person quickly walks in a circle with right arm raised and left arm lowered.#a/DET person/NOUN quickly/ADV walk/VERB in/ADP a/DET circle/NOUN with/ADP right/ADJ arm/NOUN raise/VERB and/CCONJ left/VERB arm/NOUN lower/VERB#0.0#0.0
+person is doing the whip.#person/NOUN is/AUX do/VERB the/DET whip/NOUN#0.0#0.0

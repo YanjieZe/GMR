@@ -1,0 +1,3 @@
+a person appears to scratch their head.#a/DET person/NOUN appear/VERB to/PART scratch/VERB their/DET head/NOUN#0.0#0.0
+a person touches his head with his right hand.#a/DET person/NOUN touch/VERB his/DET head/NOUN with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+a person touches his head with his right hand#a/DET person/NOUN touch/VERB his/DET head/NOUN with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0

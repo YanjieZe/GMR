@@ -1,0 +1,3 @@
+a person standing in place and clapping.#a/DET person/NOUN stand/VERB in/ADP place/NOUN and/CCONJ clapping/NOUN#0.0#0.0
+the person is shaking out both arms.#the/DET person/NOUN is/AUX shake/VERB out/ADP both/DET arm/NOUN#0.0#0.0
+a person is rocking side to side and clapping.#a/DET person/NOUN is/AUX rock/VERB side/NOUN to/ADP side/NOUN and/CCONJ clap/VERB#0.0#0.0

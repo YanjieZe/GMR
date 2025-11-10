@@ -1,0 +1,3 @@
+the person bent down and dodge something towards the left.#the/DET person/NOUN bend/VERB down/ADP and/CCONJ dodge/VERB something/PRON towards/ADP the/DET left/NOUN#0.0#0.0
+the person dodges something that was going to hit their head, then walks around and bends down a little and holds their head.#the/DET person/NOUN dodge/VERB something/PRON that/DET was/AUX go/VERB to/PART hit/VERB their/DET head/NOUN then/ADV walk/VERB around/ADV and/CCONJ bend/VERB down/ADP a/DET little/ADJ and/CCONJ hold/VERB their/DET head/NOUN#0.0#0.0
+bending down and walking around.#bend/VERB down/ADP and/CCONJ walk/VERB around/ADV#0.0#0.0

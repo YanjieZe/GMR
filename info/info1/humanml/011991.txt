@@ -1,0 +1,3 @@
+a person appears to be pushing against a wall.#a/DET person/NOUN appear/VERB to/PART be/AUX push/VERB against/ADP a/DET wall/NOUN#0.0#0.0
+a person turns in a clockwise direction, holds their hands up as if to push something, and takes a step forward and a step back.#a/DET person/NOUN turn/VERB in/ADP a/DET clockwise/ADJ direction/NOUN hold/VERB their/DET hand/NOUN up/ADP as/SCONJ if/SCONJ to/PART push/VERB something/PRON and/CCONJ take/VERB a/DET step/NOUN forward/ADV and/CCONJ a/DET step/NOUN back/ADV#0.0#0.0
+walking in a circle with hands up.#walk/VERB in/ADP a/DET circle/NOUN with/ADP hand/NOUN up/ADP#0.0#0.0

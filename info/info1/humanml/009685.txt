@@ -1,0 +1,3 @@
+a person walks forward, pushed towards the right then retrieves back to the left.#a/DET person/NOUN walk/VERB forward/ADV push/VERB towards/ADP the/DET right/NOUN then/ADV retrieve/VERB back/ADV to/ADP the/DET left/NOUN#0.0#0.0
+a person walks forwards and then is pushed by something, and pushed to the left.#a/DET person/NOUN walk/VERB forwards/ADV and/CCONJ then/ADV is/AUX push/VERB by/ADP something/PRON and/CCONJ push/VERB to/ADP the/DET left/NOUN#0.0#0.0
+the person walks forward and gets suddenly pushed from their left.#the/DET person/NOUN walk/VERB forward/ADV and/CCONJ get/VERB suddenly/ADV push/VERB from/ADP their/DET left/NOUN#0.0#0.0

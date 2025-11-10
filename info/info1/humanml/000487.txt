@@ -1,0 +1,3 @@
+a person takes one step to the side, crouches, folds their hands in their lap, and then rises upright again.#a/DET person/NOUN take/VERB one/NUM step/NOUN to/ADP the/DET side/NOUN crouch/NOUN fold/VERB their/DET hand/NOUN in/ADP their/DET lap/NOUN and/CCONJ then/ADV rise/VERB upright/ADV again/ADV#0.0#8.0
+a person sidesteps facing forward and then stands up again.#a/DET person/NOUN sidestep/VERB face/VERB forward/ADV and/CCONJ then/ADV stand/VERB up/ADP again/ADV#0.0#0.0
+person takes a step to their left and sits down then stands back up#person/NOUN take/VERB a/DET step/NOUN to/ADP their/DET left/NOUN and/CCONJ sit/VERB down/ADV then/ADV stand/VERB back/ADV up/ADV#0.0#0.0

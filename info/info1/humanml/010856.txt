@@ -1,0 +1,3 @@
+a person walks in a clockwise circle.#a/DET person/NOUN walk/VERB in/ADP a/DET clockwise/ADJ circle/NOUN#0.0#0.0
+a person walks counter-clockwise in an oval shaped pattern#a/DET person/NOUN walk/VERB counterclockwise/NOUN in/ADP an/DET oval/ADJ shaped/ADJ pattern/NOUN#0.0#0.0
+a person is walking in a counterclockwise circle.#a/DET person/NOUN is/AUX walk/VERB in/ADP a/DET counterclockwise/ADJ circle/NOUN#0.0#0.0

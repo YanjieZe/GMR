@@ -1,0 +1,3 @@
+the person lift the dumbbells over their head#the/DET person/NOUN lift/VERB the/DET dumbbell/NOUN over/ADP their/DET head/NOUN#0.0#0.0
+a person raises their arms from their head to above their head and repeats.#a/DET person/NOUN raise/VERB their/DET arm/NOUN from/ADP their/DET head/NOUN to/ADP above/ADP their/DET head/NOUN and/CCONJ repeat/NOUN#0.0#0.0
+the person with lifting a dumbbell over their head with both hands.#the/DET person/NOUN with/ADP lift/VERB a/DET dumbbell/NOUN over/ADP their/DET head/NOUN with/ADP both/DET hand/NOUN#0.0#0.0

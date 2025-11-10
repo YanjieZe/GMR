@@ -1,0 +1,3 @@
+walking forward and then stopping.#walk/VERB forward/ADV and/CCONJ then/ADV stop/VERB#0.0#0.0
+a person walks forward casually in a straight line.#a/DET person/NOUN walk/VERB forward/ADV casually/ADV in/ADP a/DET straight/ADJ line/NOUN#0.0#0.0
+a person walks forward, veering slightly to the left.#a/DET person/NOUN walk/VERB forward/ADV veer/VERB slightly/ADV to/ADP the/DET left/NOUN#0.0#0.0

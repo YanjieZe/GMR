@@ -1,0 +1,3 @@
+a person is walking in a squiggly pattern.#a/DET person/NOUN is/AUX walk/VERB in/ADP a/DET squiggly/ADV pattern/NOUN#0.0#0.0
+a man walks in a very large s curve formation.#a/DET man/NOUN walk/VERB in/ADP a/DET very/ADV large/ADJ s/PART curve/NOUN formation/NOUN#0.0#0.0
+a person is walking around and comes to a stop.#a/DET person/NOUN is/AUX walk/VERB around/ADP and/CCONJ come/VERB to/ADP a/DET stop/NOUN#0.0#0.0

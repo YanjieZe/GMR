@@ -1,0 +1,3 @@
+a person walks straightforward from edge to edge of the rectangle and then stops.#a/DET person/NOUN walk/VERB straightforward/ADV from/ADP edge/NOUN to/ADP edge/NOUN of/ADP the/DET rectangle/NOUN and/CCONJ then/ADV stop/VERB#0.0#0.0
+a man slowly walks forward.#a/DET man/NOUN slowly/ADV walk/VERB forward/ADV#0.0#0.0
+the man takes small steps then big ones.#the/DET man/NOUN take/VERB small/ADJ step/NOUN then/ADV big/ADJ one/NOUN#0.0#0.0

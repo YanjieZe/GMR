@@ -1,0 +1,3 @@
+[from:to(0:3s)] a person dodges something to his left, before squatting down.#from/ADP a/DET person/NOUN dodge/VERB something/PRON to/ADP his/DET left/NOUN before/ADP squat/VERB down/ADP#0.0#3.0
+the person is playing dodgeball.#the/DET person/NOUN is/AUX play/VERB dodgeball/ADV#0.0#0.0
+a person who seems to be dodging things#a/DET person/NOUN who/PRON seem/VERB to/PART be/AUX dodge/VERB thing/NOUN#0.0#0.0

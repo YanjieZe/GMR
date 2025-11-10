@@ -1,0 +1,3 @@
+a man appears to be rubbing something off#a/DET man/NOUN appear/VERB to/PART be/AUX rub/VERB something/PRON off/ADP#0.0#0.0
+a person shakes his right hand.#a/DET person/NOUN shake/VERB his/DET right/ADJ hand/NOUN#0.0#0.0
+a person extends their right hand and shakes it up and down multiple times.#a/DET person/NOUN extend/VERB their/DET right/ADJ hand/NOUN and/CCONJ shake/VERB it/PRON up/ADP and/CCONJ down/ADP multiple/ADJ time/NOUN#0.0#0.0

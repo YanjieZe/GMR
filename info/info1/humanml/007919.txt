@@ -1,0 +1,3 @@
+hunched over, a man raises his leg while keeping the knee bent and grabs his foot.#hunch/VERB over/ADV a/DET man/NOUN raise/VERB his/DET leg/NOUN while/SCONJ keep/VERB the/DET knee/NOUN bent/ADJ and/CCONJ grab/VERB his/DET foot/NOUN#2.0#4.0
+a person lifts right shoe with right hand to inspect sole.#a/DET person/NOUN lift/VERB right/ADJ shoe/NOUN with/ADP right/ADJ hand/NOUN to/PART inspect/VERB sole/PROPN#0.0#0.0
+the person is looking at his shoe.#the/DET person/NOUN is/AUX look/VERB at/ADP his/DET shoe/NOUN#0.0#0.0

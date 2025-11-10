@@ -1,0 +1,3 @@
+a man slowly leans to the left, putting his weight on his leftmost foot, then lifts his right arm above his head.#a/DET man/NOUN slowly/ADV lean/VERB to/ADP the/DET left/NOUN put/VERB his/DET weight/NOUN on/ADP his/DET leftmost/ADJ foot/NOUN then/ADV lift/VERB his/DET right/ADJ arm/NOUN above/ADP his/DET head/NOUN#0.0#0.0
+a man leans back on his back leg then again on his front leg, and lifts his left hand above his head.#a/DET man/NOUN lean/VERB back/ADV on/ADP his/DET back/NOUN leg/NOUN then/ADV again/ADV on/ADP his/DET front/ADJ leg/NOUN and/CCONJ lift/VERB his/DET left/ADJ hand/NOUN above/ADP his/DET head/NOUN#0.0#0.0
+a person lifts their right arm in the air#a/DET person/NOUN lift/VERB their/DET right/ADJ arm/NOUN in/ADP the/DET air/NOUN#0.0#0.0

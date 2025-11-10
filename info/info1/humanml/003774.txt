@@ -1,0 +1,2 @@
+a person walks a fourth of a circle clockwise, then stops.#a/DET person/NOUN walk/VERB a/DET fourth/ADJ of/ADP a/DET circle/NOUN clockwise/NOUN then/ADV stop/VERB#0.0#0.0
+a man walks, he turns  to his right and his left leg swings in a wider arch#a/DET man/NOUN walk/VERB he/PRON turn/VERB to/ADP his/DET right/NOUN and/CCONJ his/DET left/ADJ leg/NOUN swing/NOUN in/ADP a/DET wider/ADJ arch/NOUN#0.0#0.0

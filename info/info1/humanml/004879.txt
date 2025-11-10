@@ -1,0 +1,3 @@
+the person is excercising in place and hunch walking.#the/DET person/NOUN is/AUX excercise/VERB in/ADP place/NOUN and/CCONJ hunch/VERB walk/VERB#0.0#0.0
+a person runs in place very fast then squats and walks forward five steps in the squat position, rocking side to side, and finally returns to a standing position.#a/DET person/NOUN run/VERB in/ADP place/NOUN very/ADV fast/ADV then/ADV squat/NOUN and/CCONJ walk/VERB forward/ADV five/NUM step/NOUN in/ADP the/DET squat/ADJ position/NOUN rock/VERB side/NOUN to/PART side/VERB and/CCONJ finally/ADV return/VERB to/ADP a/DET standing/ADJ position/NOUN#0.0#0.0
+a person runs in place then squats down to crouch walk.#a/DET person/NOUN run/VERB in/ADP place/NOUN then/ADV squat/VERB down/ADP to/ADP crouch/ADJ walk/NOUN#0.0#0.0

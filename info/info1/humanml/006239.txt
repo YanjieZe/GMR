@@ -1,0 +1,3 @@
+moving arms side to side then jumping.#move/VERB arm/NOUN side/NOUN to/PART side/VERB then/ADV jump/VERB#0.0#0.0
+this person is jumping as if to be exercising.#this/DET person/NOUN is/AUX jump/VERB as/SCONJ if/SCONJ to/PART be/AUX exercise/VERB#0.0#0.0
+a person resets and begins jumping rope again.#a/DET person/NOUN reset/VERB and/CCONJ begin/VERB jump/VERB rope/NOUN again/ADV#0.0#0.0

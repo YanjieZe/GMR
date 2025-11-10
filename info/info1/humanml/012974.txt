@@ -1,0 +1,3 @@
+the person is walking forward normally.#the/DET person/NOUN is/AUX walk/VERB forward/ADV normally/ADV#0.0#0.0
+a standing person walks forward swinging both of their arms forward in front of them#a/DET stand/VERB person/NOUN walk/VERB forward/ADV swinge/VERB both/DET of/ADP their/DET arm/NOUN forward/ADV in/ADP front/NOUN of/ADP them/PRON#0.0#0.0
+person is walking on treadmill#person/NOUN is/AUX walk/VERB on/ADP treadmill/NOUN#0.0#0.0

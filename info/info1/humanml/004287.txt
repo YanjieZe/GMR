@@ -1,0 +1,3 @@
+a person walks with a drunken stagger.#a/DET person/NOUN walk/VERB with/ADP a/DET drunken/ADJ stagger/NOUN#2.0#6.0
+person steps six  steps to front#person/NOUN step/VERB six/NUM step/NOUN to/PART front/VERB#0.0#0.0
+a man walks straight forward with his arms to his sides, and stops at the edge of walkway.#a/DET man/NOUN walk/VERB straight/ADV forward/ADV with/ADP his/DET arm/NOUN to/ADP his/DET side/NOUN and/CCONJ stop/NOUN at/ADP the/DET edge/NOUN of/ADP walkway/NOUN#0.0#0.0

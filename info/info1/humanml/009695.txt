@@ -1,0 +1,3 @@
+a person takes cross steps diagonally to the right and returns to original position#a/DET person/NOUN take/VERB cross/NOUN step/NOUN diagonally/ADV to/ADP the/DET right/NOUN and/CCONJ return/NOUN to/ADP original/ADJ position/NOUN#0.0#0.0
+a person walks carefully to the right side and then the left.#a/DET person/NOUN walk/VERB carefully/ADV to/ADP the/DET right/ADJ side/NOUN and/CCONJ then/ADV the/DET left/NOUN#0.0#0.0
+the person is moving sideways in diagonal shape.#the/DET person/NOUN is/AUX move/VERB sideways/ADV in/ADP diagonal/ADJ shape/NOUN#0.0#0.0

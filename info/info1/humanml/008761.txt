@@ -1,0 +1,3 @@
+person is standing reaches arms upwards, and then reaches arms and body forward#person/NOUN is/AUX stand/VERB reach/VERB arm/NOUN upwards/ADV and/CCONJ then/ADV reach/VERB arm/NOUN and/CCONJ body/NOUN forward/ADV#0.0#0.0
+person raises hands overhead, then lowers them down and thrusts them forward while leaning forward.#person/NOUN raise/VERB hand/NOUN overhead/ADV then/ADV lower/VERB them/PRON down/ADP and/CCONJ thrust/VERB them/PRON forward/ADV while/SCONJ lean/VERB forward/ADV#0.0#0.0
+a person stands on the ground, raises their arms, and then pushes forward#a/DET person/NOUN stand/VERB on/ADP the/DET ground/NOUN raise/VERB their/DET arm/NOUN and/CCONJ then/ADV push/VERB forward/ADV#0.0#0.0

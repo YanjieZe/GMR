@@ -1,0 +1,3 @@
+a person throws their right hand up#a/DET person/NOUN throw/VERB their/DET right/ADJ hand/NOUN up/ADP#0.0#0.0
+a person whith their hand raised, raises it higher.#a/DET person/NOUN whith/VERB their/DET hand/NOUN raise/VERB raise/VERB it/PRON higher/ADJ#0.0#0.0
+a person lifts their right hand over their head and extends both knees upward.#a/DET person/NOUN lift/VERB their/DET right/ADJ hand/NOUN over/ADP their/DET head/NOUN and/CCONJ extend/VERB both/DET knee/VERB upward/ADV#0.0#0.0

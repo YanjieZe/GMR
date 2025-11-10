@@ -1,0 +1,3 @@
+a person holds up both arms then lowers them one at a time#a/DET person/NOUN hold/VERB up/ADP both/DET arm/NOUN then/ADV lower/VERB them/PRON one/NUM at/ADP a/DET time/NOUN#0.0#0.0
+a person holds their right arm out to the side before letting it drop down.#a/DET person/NOUN hold/VERB their/DET right/ADJ arm/NOUN out/ADP to/ADP the/DET side/NOUN before/ADP let/VERB it/PRON drop/VERB down/ADP#0.0#0.0
+the person is reaching hand out while standing.#the/DET person/NOUN is/AUX reach/VERB hand/NOUN out/ADP while/SCONJ stand/VERB#0.0#0.0

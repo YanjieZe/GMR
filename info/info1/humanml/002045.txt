@@ -1,0 +1,3 @@
+a person who seems to be working out with 2 dumbbells#a/DET person/NOUN who/PRON seem/VERB to/PART be/AUX work/VERB out/ADP with/ADP dumbbell/NOUN#0.0#0.0
+a person bends both arms at the elbow repeatedly#a/DET person/NOUN bend/VERB both/DET arm/NOUN at/ADP the/DET elbow/NOUN repeatedly/ADV#0.0#0.0
+the man lifts something with both hands.#the/DET man/NOUN lift/VERB something/PRON with/ADP both/DET hand/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+this person walks forward, swats then walks back.#this/DET person/NOUN walk/VERB forward/ADV swat/NOUN then/ADV walk/VERB back/ADV#0.0#0.0
+man walks forwards, stops, turns around and sits. then gets up and walks back#man/NOUN walk/VERB forwards/ADV stop/NOUN turn/VERB around/ADV and/CCONJ sit/VERB then/ADV get/VERB up/ADV and/CCONJ walk/VERB back/ADV#0.0#0.0
+the person walked forward and then turned around and sat down.#the/DET person/NOUN walk/VERB forward/ADV and/CCONJ then/ADV turn/VERB around/ADP and/CCONJ sit/VERB down/ADP#0.0#0.0

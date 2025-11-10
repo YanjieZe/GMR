@@ -1,0 +1,3 @@
+person walked forward picked up an item and walked to the back and set the item down#person/NOUN walk/VERB forward/ADV pick/VERB up/ADP an/DET item/NOUN and/CCONJ walk/VERB to/ADP the/DET back/NOUN and/CCONJ set/VERB the/DET item/NOUN down/ADP#0.0#0.0
+he walks forward then picks up a box#he/PRON walk/VERB forward/ADV then/ADV pick/VERB up/ADP a/DET box/NOUN#0.0#0.0
+walks forward a few steps, then reaches the hands toward the ground and back up again to turn around and walk.#walk/VERB forward/ADV a/DET few/ADJ step/NOUN then/ADV reach/VERB the/DET hand/NOUN toward/ADP the/DET ground/NOUN and/CCONJ back/NOUN up/ADP again/ADV to/PART turn/VERB around/ADP and/CCONJ walk/VERB#0.0#0.0

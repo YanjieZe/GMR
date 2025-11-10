@@ -1,0 +1,3 @@
+a person hunches over, curls both arms, and looks around anxiously.#a/DET person/NOUN hunch/VERB over/ADP curl/NOUN both/DET arm/NOUN and/CCONJ look/VERB around/ADP anxiously/ADV#0.0#0.0
+this person simulates a happy dog.#this/DET person/NOUN simulate/VERB a/DET happy/ADJ dog/NOUN#0.0#0.0
+moving hands around while bending down.#move/VERB hand/NOUN around/ADV while/SCONJ bend/VERB down/ADP#0.0#0.0

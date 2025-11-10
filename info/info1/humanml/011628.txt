@@ -1,0 +1,3 @@
+person scratches head with right hand#person/NOUN scratch/VERB head/NOUN with/ADP right/ADJ hand/NOUN#0.0#0.0
+this person is standing still and lifts the right hand up to the face.#this/DET person/NOUN is/AUX stand/VERB still/ADV and/CCONJ lift/VERB the/DET right/ADJ hand/NOUN up/ADP to/ADP the/DET face/NOUN#0.0#0.0
+a person raising right hand.#a/DET person/NOUN raise/VERB right/ADJ hand/NOUN#0.0#0.0

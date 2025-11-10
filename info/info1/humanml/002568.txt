@@ -1,0 +1,3 @@
+a person rubbing their right arm then their tummy then back to their right arm#a/DET person/NOUN rub/VERB their/DET right/ADJ arm/NOUN then/ADV their/DET tummy/NOUN then/ADV back/ADV to/ADP their/DET right/ADJ arm/NOUN#0.0#0.0
+a person moves their left hand in a circular motion on the right side of their body#a/DET person/NOUN move/VERB their/DET left/ADJ hand/NOUN in/ADP a/DET circular/ADJ motion/NOUN on/ADP the/DET right/ADJ side/NOUN of/ADP their/DET body/NOUN#0.0#0.0
+a figure moves its hand in a circular motion across its body and right arm#a/DET figure/NOUN move/VERB its/DET hand/NOUN in/ADP a/DET circular/ADJ motion/NOUN across/ADP its/DET body/NOUN and/CCONJ right/ADJ arm/NOUN#0.0#0.0

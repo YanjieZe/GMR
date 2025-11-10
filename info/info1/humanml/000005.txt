@@ -1,0 +1,4 @@
+a person walks slowly forward then toward the left hand side and stands facing that direction.#a/DET person/NOUN walk/VERB slowly/ADV forward/ADV then/ADV toward/ADP the/DET left/ADJ hand/NOUN side/NOUN and/CCONJ stand/VERB face/VERB that/DET direction/NOUN#0.0#0.0
+a person walks forward on an angle to the right#a/DET person/NOUN walk/VERB forward/ADV on/ADP an/DET angle/NOUN to/ADP the/DET right/NOUN#0.0#0.0
+a person walks diagonally forward and to the left.#a/DET person/NOUN walk/VERB diagonally/ADV forward/ADV and/CCONJ to/ADP the/DET left/NOUN#0.0#0.0
+a person walks and then makes a right turn.#a/DET person/NOUN walk/VERB and/CCONJ then/ADV make/VERB a/DET right/ADJ turn/NOUN#0.0#0.0

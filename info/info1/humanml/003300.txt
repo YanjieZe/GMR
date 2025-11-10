@@ -1,0 +1,3 @@
+a person walks backwards quickly#a/DET person/NOUN walk/VERB backwards/ADV quickly/ADV#0.0#0.0
+a figure walks back on a plato.#a/DET figure/NOUN walk/VERB back/ADV on/ADP a/DET plato/NOUN#0.0#0.0
+stumble backwards and that's it#stumble/ADJ backwards/ADV and/CCONJ that/DET it/PRON#0.0#0.0

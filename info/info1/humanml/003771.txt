@@ -1,0 +1,3 @@
+a person acting like a tiger#a/DET person/NOUN act/VERB like/SCONJ a/DET tiger/NOUN#0.0#0.0
+the man is pretending to be a mouse#the/DET man/NOUN is/AUX pretend/VERB to/PART be/AUX a/DET mouse/NOUN#0.0#0.0
+a boxer lumbers up ready for a fight with a series of faux jabs.#a/DET boxer/NOUN lumber/VERB up/ADP ready/ADJ for/ADP a/DET fight/NOUN with/ADP a/DET series/NOUN of/ADP faux/ADJ jabs/PROPN#nan#nan

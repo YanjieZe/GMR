@@ -1,0 +1,3 @@
+a person holds themselves like they are cold.#a/DET person/NOUN hold/VERB themselves/PRON like/SCONJ they/PRON are/AUX cold/ADJ#0.0#0.0
+a person crosses his arms and drops them.#a/DET person/NOUN cross/VERB his/DET arm/NOUN and/CCONJ drop/VERB them/PRON#0.0#0.0
+a person crosses their arms.#a/DET person/NOUN cross/VERB their/DET arm/NOUN#0.0#0.0

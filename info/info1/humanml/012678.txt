@@ -1,0 +1,3 @@
+a person raises their arms up and down multiple times.#a/DET person/NOUN raise/VERB their/DET arm/NOUN up/ADV and/CCONJ down/ADP multiple/ADJ time/NOUN#0.0#0.0
+a person lifts dumbbells with both hands.#a/DET person/NOUN lift/VERB dumbbell/NOUN with/ADP both/DET hand/NOUN#0.0#0.0
+a figure raises its hands to shoulder level then lowers them, repeatedly#a/DET figure/NOUN raise/VERB its/DET hand/NOUN to/PART shoulder/NOUN level/NOUN then/ADV lower/VERB them/PRON repeatedly/ADV#0.0#0.0

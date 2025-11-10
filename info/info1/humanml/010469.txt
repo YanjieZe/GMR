@@ -1,0 +1,2 @@
+a person walks while slightly turning clockwise.#a/DET person/NOUN walk/VERB while/SCONJ slightly/ADV turn/VERB clockwise/NOUN#0.0#0.0
+a person slowy walked forward and in right direction#a/DET person/NOUN slowy/NOUN walk/VERB forward/ADV and/CCONJ in/ADP right/ADJ direction/NOUN#0.0#0.0

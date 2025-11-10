@@ -1,0 +1,3 @@
+person moves forward a few steps then stops and then moves to their right and then moves backwards then moves two steps forward#person/NOUN move/VERB forward/ADV a/DET few/ADJ step/NOUN then/ADV stop/VERB and/CCONJ then/ADV move/VERB to/ADP their/DET right/NOUN and/CCONJ then/ADV move/VERB backwards/ADV then/ADV move/VERB two/NUM step/NOUN forward/ADV#0.0#0.0
+moving forward and backward create "i" image.#move/VERB forward/ADV and/CCONJ backward/ADV create/VERB i/PRON image/NOUN#0.0#0.0
+the man walks forward and back#the/DET man/NOUN walk/VERB forward/ADV and/CCONJ back/ADV#0.0#0.0

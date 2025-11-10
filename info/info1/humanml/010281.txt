@@ -1,0 +1,3 @@
+the person was walking forward very scared.#the/DET person/NOUN was/AUX walk/VERB forward/ADV very/ADV scared/ADJ#0.0#0.0
+this person is walking as if he is scared.#this/DET person/NOUN is/AUX walk/VERB as/SCONJ if/SCONJ he/PRON is/AUX scared/ADJ#0.0#0.0
+person cautiously walks diagonally, before checking over their shoulder and then turning around and cautiously walking back the way they came.#person/NOUN cautiously/ADV walk/VERB diagonally/ADV before/ADP check/VERB over/ADP their/DET shoulder/NOUN and/CCONJ then/ADV turn/VERB around/ADV and/CCONJ cautiously/ADV walk/VERB back/ADV the/DET way/NOUN they/PRON come/VERB#0.0#10.0

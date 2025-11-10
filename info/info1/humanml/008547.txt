@@ -1,0 +1,3 @@
+a person walks and hops sideways to his left#a/DET person/NOUN walk/VERB and/CCONJ hop/VERB sideways/ADV to/ADP his/DET left/NOUN#0.0#0.0
+the sim appears to be dribbling a basketball sideways leading with their right side.#the/DET sim/PROPN appear/VERB to/PART be/AUX dribble/VERB a/DET basketball/NOUN sideways/ADV lead/VERB with/ADP their/DET right/ADJ side/NOUN#0.0#0.0
+a person shuffles to the left while dribbling.#a/DET person/NOUN shuffle/VERB to/ADP the/DET left/ADJ while/SCONJ dribble/VERB#0.0#0.0

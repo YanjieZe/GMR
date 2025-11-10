@@ -1,0 +1,3 @@
+a person runs, then jumps and walks slowly.#a/DET person/NOUN run/VERB then/ADV jump/VERB and/CCONJ walk/VERB slowly/ADV#0.0#0.0
+a man runs forward slightly to the left and then jumps.#a/DET man/NOUN run/VERB forward/ADV slightly/ADV to/ADP the/DET left/NOUN and/CCONJ then/ADV jump/VERB#0.0#0.0
+a person starts to run, after a few steps jumps as short distance, before walking again.#a/DET person/NOUN start/VERB to/PART run/VERB after/ADP a/DET few/ADJ step/NOUN jump/VERB as/SCONJ short/ADJ distance/NOUN before/ADP walk/VERB again/ADV#0.0#4.0

@@ -1,0 +1,3 @@
+a person walks forward careful to avoid something that is on the ground.#a/DET person/NOUN walk/VERB forward/ADV careful/ADJ to/PART avoid/VERB something/PRON that/DET is/AUX on/ADP the/DET ground/NOUN#0.0#0.0
+a person walks straight and walks over something to avoid it.#a/DET person/NOUN walk/VERB straight/ADV and/CCONJ walk/VERB over/ADP something/PRON to/PART avoid/VERB it/PRON#0.0#0.0
+a man walks forward with a wide gait#a/DET man/NOUN walk/VERB forward/ADV with/ADP a/DET wide/ADJ gait/NOUN#0.0#0.0

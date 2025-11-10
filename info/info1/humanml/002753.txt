@@ -1,0 +1,3 @@
+a man walks forward and then stops.#a/DET man/NOUN walk/VERB forward/ADV and/CCONJ then/ADV stop/VERB#0.0#0.0
+the man goes down 4 steps.#the/DET man/NOUN go/VERB down/ADV step/NOUN#0.0#0.0
+a person walks down stairs alternating their feet, starting on the right foot#a/DET person/NOUN walk/VERB down/ADV stair/NOUN alternate/VERB their/DET foot/NOUN start/VERB on/ADP the/DET right/ADJ foot/NOUN#0.0#0.0

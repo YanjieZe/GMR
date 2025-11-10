@@ -1,0 +1,3 @@
+the si is standing still, then raises their right arm.#the/DET si/NOUN is/AUX stand/VERB still/ADV then/ADV raise/VERB their/DET right/ADJ arm/NOUN#0.0#3.0
+a person is lifting the right hand up forward, and then putting it back down.#a/DET person/NOUN is/AUX lift/VERB the/DET right/ADJ hand/NOUN up/ADP forward/ADV and/CCONJ then/ADV put/VERB it/PRON back/ADV down/ADV#0.0#0.0
+a person who is standing with his hands by his sides swings his right arm forward and brings it back to his side.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP his/DET hand/NOUN by/ADP his/DET side/NOUN swing/VERB his/DET right/ADJ arm/NOUN forward/ADV and/CCONJ bring/VERB it/PRON back/ADV to/ADP his/DET side/NOUN#0.0#0.0

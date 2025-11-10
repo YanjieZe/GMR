@@ -1,0 +1,3 @@
+a person walking forward in a steady pace#a/DET person/NOUN walk/VERB forward/ADV in/ADP a/DET steady/ADJ pace/NOUN#0.0#0.0
+.a person walks forward slowly.#person/NOUN walk/VERB forward/ADV slowly/ADV#0.0#0.0
+a figure walks forward with dullness.#a/DET figure/NOUN walk/VERB forward/ADV with/ADP dullness/NOUN#0.0#0.0

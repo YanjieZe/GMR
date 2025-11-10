@@ -1,0 +1,3 @@
+a person walks in a figure eight pattern.#a/DET person/NOUN walk/VERB in/ADP a/DET figure/NOUN eight/NUM pattern/NOUN#0.0#0.0
+a person paces around in a figure-eight pattern.#a/DET person/NOUN pace/VERB around/ADV in/ADP a/DET figureeight/NOUN pattern/NOUN#0.0#0.0
+someone walks from side to side#someone/PRON walk/VERB from/ADP side/NOUN to/ADP side/VERB#0.0#0.0

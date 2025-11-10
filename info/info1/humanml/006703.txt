@@ -1,0 +1,3 @@
+the person is playing tennis.#the/DET person/NOUN is/AUX play/VERB tennis/NOUN#0.0#0.0
+a person swings their right arm upward in a circular motion.#a/DET person/NOUN swing/VERB their/DET right/ADJ arm/NOUN upward/ADV in/ADP a/DET circular/ADJ motion/NOUN#0.0#0.0
+a person deflects something with their right hand.#a/DET person/NOUN deflect/VERB something/PRON with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0

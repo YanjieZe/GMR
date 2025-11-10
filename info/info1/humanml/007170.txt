@@ -1,0 +1,3 @@
+a person stands with arms swinging slightly side-to-side then walks forward a few paces, stops, and stands again with arms swinging slightly side-to-side.#a/DET person/NOUN stand/VERB with/ADP arm/NOUN swinge/VERB slightly/ADV sidetoside/VERB then/ADV walk/VERB forward/ADV a/DET few/ADJ pace/NOUN stop/VERB and/CCONJ stand/VERB again/ADV with/ADP arm/NOUN swinge/VERB slightly/ADV sidetoside/VERB#0.0#0.0
+a figure walks forward slowly (a woman?)#a/DET figure/NOUN walk/VERB forward/ADV slowly/ADV a/DET woman/NOUN#0.0#0.0
+a woman strides down a runway during a fashion show.#a/DET woman/NOUN stride/VERB down/ADP a/DET runway/NOUN during/ADP a/DET fashion/NOUN show/NOUN#0.0#0.0

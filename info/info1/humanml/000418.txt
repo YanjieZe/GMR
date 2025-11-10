@@ -1,0 +1,2 @@
+a person walks forward with big steps#a/DET person/NOUN walk/VERB forward/ADV with/ADP big/ADJ step/NOUN#0.0#0.0
+a blue and red stick figure walks towards black srean.#a/DET blue/ADJ and/CCONJ red/ADJ stick/NOUN figure/NOUN walk/VERB towards/ADP black/ADJ srean/PROPN#0.0#0.0

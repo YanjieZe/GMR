@@ -1,0 +1,3 @@
+person walks forward, steps over something, and continues#person/NOUN walk/VERB forward/ADV step/NOUN over/ADP something/PRON and/CCONJ continue/VERB#0.0#0.0
+a person walks forward, then takes a big step in between then continues to walks forward.#a/DET person/NOUN walk/VERB forward/ADV then/ADV take/VERB a/DET big/ADJ step/NOUN in/ADV between/ADP then/ADV continue/VERB to/ADP walk/VERB forward/ADV#0.0#5.0
+a figure goes up and down a flight of stairs with odd stepping patterns#a/DET figure/NOUN go/VERB up/ADV and/CCONJ down/ADP a/DET flight/NOUN of/ADP stair/NOUN with/ADP odd/ADJ stepping/ADJ pattern/NOUN#0.0#0.0

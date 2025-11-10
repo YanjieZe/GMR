@@ -1,0 +1,3 @@
+a person is stretching its shoulders#a/DET person/NOUN is/AUX stretch/VERB its/DET shoulder/NOUN#0.0#0.0
+a person stretching his hands and bending forward.#a/DET person/NOUN stretch/VERB his/DET hand/NOUN and/CCONJ bend/VERB forward/ADV#0.0#0.0
+a person streches their arms to the left then right.#a/DET person/NOUN streche/VERB their/DET arm/NOUN to/ADP the/DET left/NOUN then/ADV right/INTJ#0.0#0.0

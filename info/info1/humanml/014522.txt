@@ -1,0 +1,3 @@
+a person seems to be in a fighting stance and moving around a ring.#a/DET person/NOUN seem/VERB to/PART be/AUX in/ADP a/DET fight/VERB stance/NOUN and/CCONJ move/VERB around/ADP a/DET ring/NOUN#0.0#0.0
+person shuffles quickly to the right then shuffles quickly to the left.#person/NOUN shuffle/VERB quickly/ADV to/ADP the/DET right/NOUN then/ADV shuffle/VERB quickly/ADV to/ADP the/DET left/NOUN#0.0#0.0
+a person side steps back and forth jogging.#a/DET person/NOUN side/NOUN step/VERB back/ADV and/CCONJ forth/ADV jog/VERB#0.0#0.0

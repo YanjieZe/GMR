@@ -1,0 +1,3 @@
+a person waiving hello and bowing, showing respect and greetings.#a/DET person/NOUN waive/VERB hello/INTJ and/CCONJ bow/VERB show/VERB respect/NOUN and/CCONJ greeting/NOUN#0.0#0.0
+the person waves then bows forwards then waves again#the/DET person/NOUN wave/NOUN then/ADV bow/VERB forward/NOUN then/ADV wave/NOUN again/ADV#0.0#0.0
+a person bows before someone and then waves to that person with his left hand.#a/DET person/NOUN bow/VERB before/ADP someone/PRON and/CCONJ then/ADV wave/VERB to/ADP that/DET person/NOUN with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0

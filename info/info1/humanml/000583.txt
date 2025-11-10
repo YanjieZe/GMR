@@ -1,0 +1,3 @@
+a person loosening up by moving their arms , shoulders and legs slightly.#a/DET person/NOUN loosen/VERB up/ADP by/ADP move/VERB their/DET arm/NOUN shoulder/NOUN and/CCONJ leg/NOUN slightly/ADV#0.0#0.0
+a standing person swings their arms back and forth, then stretches them outwards while slowly walking forwards#a/DET stand/VERB person/NOUN swing/VERB their/DET arm/NOUN back/ADV and/CCONJ forth/ADV then/ADV stretch/VERB them/PRON outward/NOUN while/SCONJ slowly/ADV walk/VERB forwards/ADV#0.0#0.0
+someone is doing arm exercises and dancing a little while they are doing so.#someone/PRON is/AUX do/VERB arm/NOUN exercise/NOUN and/CCONJ dance/VERB a/DET little/ADJ while/SCONJ they/PRON are/AUX do/VERB so/ADV#0.0#0.0

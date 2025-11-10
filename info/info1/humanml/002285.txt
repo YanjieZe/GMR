@@ -1,0 +1,3 @@
+a person brings their right wrist to neck level and examines it.#a/DET person/NOUN bring/VERB their/DET right/ADJ wrist/NOUN to/ADP neck/NOUN level/NOUN and/CCONJ examine/VERB it/PRON#0.0#0.0
+a person drinking coffee in the morning#a/DET person/NOUN drink/VERB coffee/NOUN in/ADP the/DET morning/NOUN#0.0#0.0
+a person looking at something on the right hand#a/DET person/NOUN look/VERB at/ADP something/PRON on/ADP the/DET right/ADJ hand/NOUN#0.0#0.0

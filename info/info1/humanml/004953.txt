@@ -1,0 +1,3 @@
+a person walks up stairs with their right hand on something.#a/DET person/NOUN walk/VERB up/ADP stair/NOUN with/ADP their/DET right/ADJ hand/NOUN on/ADP something/PRON#0.0#0.0
+someone with difficulty trying to climb stairs#someone/PRON with/ADP difficulty/NOUN try/VERB to/PART climb/VERB stair/NOUN#0.0#0.0
+this figure looks to be walking up some type of stair#this/DET figure/NOUN look/VERB to/PART be/AUX walk/VERB up/ADP some/DET type/NOUN of/ADP stair/NOUN#0.0#0.0

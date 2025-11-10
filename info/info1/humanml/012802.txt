@@ -1,0 +1,3 @@
+person jumps in the air once#person/NOUN jump/VERB in/ADP the/DET air/NOUN once/ADV#0.0#0.0
+a person taking a jump forward#a/DET person/NOUN take/VERB a/DET jump/NOUN forward/ADV#0.0#0.0
+jumping up and down once.#jump/VERB up/ADP and/CCONJ down/ADV once/ADV#0.0#0.0

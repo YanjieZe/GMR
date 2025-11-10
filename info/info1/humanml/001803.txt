@@ -1,0 +1,3 @@
+a person picks something up with their left hand, and wipes down the item with their right.#a/DET person/NOUN pick/VERB something/PRON up/ADP with/ADP their/DET left/ADJ hand/NOUN and/CCONJ wipe/NOUN down/ADP the/DET item/NOUN with/ADP their/DET right/NOUN#0.0#0.0
+left hand goes towards the ground as the right hand meets left hand making small circles above the hand.#left/ADJ hand/NOUN go/VERB towards/ADP the/DET ground/NOUN as/SCONJ the/DET right/ADJ hand/NOUN meet/VERB left/ADJ hand/NOUN make/VERB small/ADJ circle/NOUN above/ADP the/DET hand/NOUN#0.0#0.0
+someone uses their left arm in a swift motion to dry their right arm.#someone/PRON use/VERB their/DET left/ADJ arm/NOUN in/ADP a/DET swift/ADJ motion/NOUN to/PART dry/VERB their/DET right/ADJ arm/NOUN#2.0#9.0

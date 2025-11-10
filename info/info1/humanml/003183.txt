@@ -1,0 +1,3 @@
+a man walks forward and then bends down twice before walking again.#a/DET man/NOUN walk/VERB forward/ADV and/CCONJ then/ADV bend/VERB down/ADV twice/ADV before/ADV walk/VERB again/ADV#0.0#0.0
+a person takes a few steps, squats down, backs up and squats again, then continues walking forward.#a/DET person/NOUN take/VERB a/DET few/ADJ step/NOUN squat/VERB down/ADP back/VERB up/ADP and/CCONJ squat/NOUN again/ADV then/ADV continue/VERB walk/VERB forward/ADV#0.0#0.0
+a person walks forward, and does two squats, then continues walking.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ does/AUX two/NUM squat/NOUN then/ADV continue/VERB walk/VERB#0.0#0.0

@@ -1,0 +1,3 @@
+a person kneels down while touching something.#a/DET person/NOUN kneel/VERB down/ADP while/SCONJ touch/VERB something/PRON#0.0#0.0
+a person lesbs forward and places their left hand ln a object to support themselves before kneeling onto the floor.#a/DET person/NOUN lesb/VERB forward/ADV and/CCONJ place/VERB their/DET left/ADJ hand/NOUN ln/VERB a/DET object/NOUN to/PART support/VERB themselves/PRON before/ADP kneel/VERB onto/ADP the/DET floor/NOUN#0.0#0.0
+person is sitting down on knees.#person/NOUN is/AUX sit/VERB down/ADP on/ADP knee/NOUN#0.0#0.0

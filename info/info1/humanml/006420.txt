@@ -1,0 +1,3 @@
+a figure spins rapidly with arms outstretched then adjusts sleeves#a/DET figure/NOUN spin/VERB rapidly/ADV with/ADP arm/NOUN outstretche/VERB then/ADV adjust/VERB sleeve/VERB#0.0#0.0
+a person puts his arms out to his side and spins in circles#a/DET person/NOUN put/VERB his/DET arm/NOUN out/SCONJ to/ADP his/DET side/NOUN and/CCONJ spin/VERB in/ADP circle/NOUN#0.0#0.0
+person is turning around in circles#person/NOUN is/AUX turn/VERB around/ADV in/ADP circle/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person begins walking forward and raising his arms up and the down and once the arms are down the person stops.#a/DET person/NOUN begin/VERB walk/VERB forward/ADV and/CCONJ raise/VERB his/DET arm/NOUN up/ADV and/CCONJ the/DET down/NOUN and/CCONJ once/SCONJ the/DET arm/NOUN are/AUX down/ADP the/DET person/NOUN stop/VERB#0.0#0.0
+a person walks forward while holding their arms above their head#a/DET person/NOUN walk/VERB forward/ADV while/SCONJ hold/VERB their/DET arm/NOUN above/ADP their/DET head/NOUN#0.0#0.0
+a person walking forward with both arms raised above his head.#a/DET person/NOUN walk/VERB forward/ADV with/ADP both/DET arm/NOUN raise/VERB above/ADP his/DET head/NOUN#0.0#0.0

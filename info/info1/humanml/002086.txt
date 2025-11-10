@@ -1,0 +1,3 @@
+a person walks forward and dances.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ dance/NOUN#0.0#0.0
+a man swiftly kicks up his right leg.#a/DET man/NOUN swiftly/ADV kick/VERB up/ADP his/DET right/ADJ leg/NOUN#0.0#1.0
+a person coming forward while performing a dance routine.#a/DET person/NOUN come/VERB forward/ADV while/SCONJ perform/VERB a/DET dance/NOUN routine/NOUN#0.0#0.0

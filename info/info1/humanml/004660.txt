@@ -1,0 +1,3 @@
+takes a couple steps to the left then back again to the right and repeats.#take/VERB a/DET couple/NOUN step/NOUN to/ADP the/DET left/NOUN then/ADV back/ADV again/ADV to/ADP the/DET right/NOUN and/CCONJ repeat/NOUN#0.0#0.0
+a person sidesteps back and forth#a/DET person/NOUN sidestep/VERB back/ADV and/CCONJ forth/ADV#0.0#0.0
+the person is side stepping.#the/DET person/NOUN is/AUX side/NOUN step/VERB#0.0#0.0

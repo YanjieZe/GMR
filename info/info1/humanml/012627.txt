@@ -1,0 +1,3 @@
+a person stands in 3rd, lifts their back right leg, and then runs and does a ballet jump to the back.#a/DET person/NOUN stand/VERB in/ADP lift/VERB their/DET back/ADP right/ADJ leg/NOUN and/CCONJ then/ADV run/VERB and/CCONJ does/AUX a/DET ballet/NOUN jump/NOUN to/ADP the/DET back/NOUN#0.0#0.0
+the person is in a ballet posts.#the/DET person/NOUN is/AUX in/ADP a/DET ballet/NOUN post/NOUN#0.0#0.0
+standing on one leg then dancing around.#stand/VERB on/ADP one/NUM leg/NOUN then/ADV dance/VERB around/ADV#0.0#0.0

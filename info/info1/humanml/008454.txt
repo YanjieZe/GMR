@@ -1,0 +1,3 @@
+a person transitions from an open pose to a closed off pose#a/DET person/NOUN transition/VERB from/ADP an/DET open/ADJ pose/NOUN to/ADP a/DET close/VERB off/ADP pose/NOUN#0.0#0.0
+the person was doing an arabic dance.#the/DET person/NOUN was/AUX do/VERB an/DET arabic/ADJ dance/NOUN#0.0#0.0
+he starts to dance a lot#he/PRON start/VERB to/PART dance/VERB a/DET lot/NOUN#0.0#0.0

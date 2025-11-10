@@ -1,0 +1,3 @@
+a person lifts heavy weights with both arms.#a/DET person/NOUN lift/VERB heavy/ADJ weight/NOUN with/ADP both/DET arm/NOUN#0.0#0.0
+a person with a red left side and blue right side squats and raises arms#a/DET person/NOUN with/ADP a/DET red/ADJ left/ADJ side/NOUN and/CCONJ blue/ADJ right/ADJ side/NOUN squat/NOUN and/CCONJ raise/VERB arm/NOUN#0.0#0.0
+a person raises his arms, takes a crouching position and raises his arms above his head two times.#a/DET person/NOUN raise/VERB his/DET arm/NOUN take/VERB a/DET crouch/VERB position/NOUN and/CCONJ raise/VERB his/DET arm/NOUN above/ADP his/DET head/NOUN two/NUM time/NOUN#0.0#0.0

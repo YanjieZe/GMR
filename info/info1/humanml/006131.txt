@@ -1,0 +1,3 @@
+a person performs a full, frontward arm circle exercise with his left arm and then full, backward arm circles with both arms.#a/DET person/NOUN perform/VERB a/DET full/ADJ frontward/ADJ arm/NOUN circle/NOUN exercise/NOUN with/ADP his/DET left/ADJ arm/NOUN and/CCONJ then/ADV full/ADJ backward/ADJ arm/NOUN circle/NOUN with/ADP both/DET arm/NOUN#0.0#0.0
+man swings one hand before swinging the other#man/PROPN swing/VERB one/NUM hand/NOUN before/ADP swinge/VERB the/DET other/ADJ#0.0#0.0
+a person warm up left hand first, while making the circle, and after warmed up both hands#a/DET person/NOUN warm/VERB up/ADP left/ADJ hand/NOUN first/ADV while/SCONJ make/VERB the/DET circle/NOUN and/CCONJ after/ADV warm/VERB up/ADP both/DET hand/NOUN#0.0#0.0

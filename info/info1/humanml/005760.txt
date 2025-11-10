@@ -1,0 +1,3 @@
+a person kicks at something in front of him with his right foot, like a soccer motion.#a/DET person/NOUN kick/VERB at/ADP something/PRON in/ADP front/NOUN of/ADP him/PRON with/ADP his/DET right/ADJ foot/NOUN like/SCONJ a/DET soccer/NOUN motion/NOUN#nan#0.0
+a person slowly scuffs the area in front of him with his right leg, then takes a step back.#a/DET person/NOUN slowly/ADV scuff/VERB the/DET area/NOUN in/ADP front/NOUN of/ADP him/PRON with/ADP his/DET right/ADJ leg/NOUN then/ADV take/VERB a/DET step/NOUN back/ADV#0.0#0.0
+person kicks with right leg as if kicking a soccer ball.#person/NOUN kick/VERB with/ADP right/ADJ leg/NOUN as/SCONJ if/SCONJ kick/VERB a/DET soccer/NOUN ball/NOUN#0.0#0.0

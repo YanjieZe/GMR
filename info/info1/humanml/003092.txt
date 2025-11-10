@@ -1,0 +1,3 @@
+drinking something using the right hands#drink/VERB something/PRON use/VERB the/DET right/ADJ hand/NOUN#0.0#0.0
+a person moves left hand to torso and then raises right arm#a/DET person/NOUN move/VERB left/VERB hand/NOUN to/PART torso/VERB and/CCONJ then/ADV raise/VERB right/ADJ arm/NOUN#0.0#0.0
+a person uncaps a bottle and drinks it using their right hand.#a/DET person/NOUN uncap/VERB a/DET bottle/NOUN and/CCONJ drink/VERB it/PRON use/VERB their/DET right/ADJ hand/NOUN#0.0#0.0

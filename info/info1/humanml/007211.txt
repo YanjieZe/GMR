@@ -1,0 +1,3 @@
+a perosn standing up with both their hand together forming a circle shape cherring and clapping motioning their left arm forward#a/DET perosn/NOUN stand/VERB up/ADP with/ADP both/CCONJ their/DET hand/NOUN together/ADV form/VERB a/DET circle/NOUN shape/NOUN cherre/VERB and/CCONJ clap/VERB motion/VERB their/DET left/ADJ arm/NOUN forward/ADV#0.0#0.0
+he starts to be standing#he/PRON start/VERB to/PART be/AUX stand/VERB#0.0#0.0
+the person is sitting in an audience clapping.#the/DET person/NOUN is/AUX sit/VERB in/ADP an/DET audience/NOUN clap/VERB#0.0#0.0

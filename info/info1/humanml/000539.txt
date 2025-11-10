@@ -1,0 +1,3 @@
+the person lifts his right hand up.#the/DET person/NOUN lift/VERB his/DET right/ADJ hand/NOUN up/ADP#0.0#0.0
+the man raises his right hand in the air at a 90 bent angle on his elbow.#the/DET man/NOUN raise/VERB his/DET right/ADJ hand/NOUN in/ADP the/DET air/NOUN at/ADP a/DET bent/ADJ angle/NOUN on/ADP his/DET elbow/NOUN#0.0#0.0
+a person uses their right arm to consume something internally via the mouth.#a/DET person/NOUN use/VERB their/DET right/ADJ arm/NOUN to/PART consume/VERB something/PRON internally/ADV via/ADP the/DET mouth/NOUN#0.0#0.0

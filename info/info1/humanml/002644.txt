@@ -1,0 +1,3 @@
+the person is folding arms together than puts arms back to side.#the/DET person/NOUN is/AUX fold/VERB arm/NOUN together/ADV than/SCONJ put/VERB arm/NOUN back/ADV to/ADP side/NOUN#0.0#0.0
+character crosses arm in front of body then lowers arms to the side.#character/NOUN crosse/NOUN arm/VERB in/ADP front/NOUN of/ADP body/NOUN then/ADV lower/VERB arm/NOUN to/ADP the/DET side/NOUN#1.0#4.0
+a man standing folds his arms.#a/DET man/NOUN stand/VERB fold/VERB his/DET arm/NOUN#0.0#0.0

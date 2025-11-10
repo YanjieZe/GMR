@@ -1,0 +1,3 @@
+person stands still moves forward one step on right foot and stumbles#person/NOUN stand/VERB still/ADV move/VERB forward/ADV one/NUM step/NOUN on/ADP right/ADJ foot/NOUN and/CCONJ stumble/NOUN#0.0#0.0
+a man is standing and lunges out with left foot while reaching arms out as if he is going to grab or hug something.#a/DET man/NOUN is/AUX stand/VERB and/CCONJ lunge/VERB out/ADP with/ADP left/ADJ foot/NOUN while/SCONJ reach/VERB arm/NOUN out/ADV as/SCONJ if/SCONJ he/PRON is/AUX go/VERB to/PART grab/VERB or/CCONJ hug/VERB something/PRON#0.0#0.0
+a man steps forward and lands on his right foot.#a/DET man/NOUN step/VERB forward/ADV and/CCONJ land/VERB on/ADP his/DET right/ADJ foot/NOUN#0.0#0.0

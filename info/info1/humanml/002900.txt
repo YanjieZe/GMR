@@ -1,0 +1,3 @@
+a person raises their right hand then puts it back down.#a/DET person/NOUN raise/VERB their/DET right/ADJ hand/NOUN then/ADV put/VERB it/PRON back/ADV down/ADP#0.0#0.0
+a person puts a hand to their ear to indicate they cannot hear.#a/DET person/NOUN put/VERB a/DET hand/NOUN to/ADP their/DET ear/NOUN to/PART indicate/VERB they/PRON can/VERB not/PART hear/VERB#0.0#0.0
+someone greeting while standing and raising hand#someone/PRON greet/VERB while/SCONJ stand/VERB and/CCONJ raise/VERB hand/NOUN#0.0#0.0

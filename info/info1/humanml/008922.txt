@@ -1,0 +1,3 @@
+hands come together above head with arms fully extended, returning back to hips and feet move slightly inward at the same time the hands meet.#hand/NOUN come/VERB together/ADV above/ADP head/NOUN with/ADP arm/NOUN fully/ADV extend/VERB return/VERB back/ADV to/ADP hip/NOUN and/CCONJ foot/NOUN move/VERB slightly/ADV inward/ADV at/ADP the/DET same/ADJ time/NOUN the/DET hand/NOUN meet/VERB#0.0#0.0
+the person does jumping jacks very quickly.#the/DET person/NOUN does/AUX jump/VERB jack/NOUN very/ADV quickly/ADV#0.0#0.0
+the person is doing jumping jacks.#the/DET person/NOUN is/AUX do/VERB jump/VERB jack/NOUN#0.0#0.0

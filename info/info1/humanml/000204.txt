@@ -1,0 +1,3 @@
+a person runs in a counter-clockwise circle.#a/DET person/NOUN run/VERB in/ADP a/DET counterclockwise/ADJ circle/NOUN#0.0#6.0
+someone runs in a circle counter clockwise and then they stop adn go the other way.#someone/PRON run/VERB in/ADP a/DET circle/NOUN counter/NOUN clockwise/NOUN and/CCONJ then/ADV they/PRON stop/VERB adn/PROPN go/VERB the/DET other/ADJ way/NOUN#0.0#0.0
+a person runs in a circle, then goes the other way around the circle#a/DET person/NOUN run/VERB in/ADP a/DET circle/NOUN then/ADV go/VERB the/DET other/ADJ way/NOUN around/ADP the/DET circle/NOUN#0.0#0.0

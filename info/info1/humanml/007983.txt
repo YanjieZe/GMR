@@ -1,0 +1,3 @@
+a person jumps in the air while putting arms and legs out.#a/DET person/NOUN jump/VERB in/ADP the/DET air/NOUN while/SCONJ put/VERB arm/NOUN and/CCONJ leg/NOUN out/ADP#0.0#0.0
+a person does jumping jacks.#a/DET person/NOUN does/AUX jump/VERB jack/NOUN#nan#0.0
+person kicks arms and legs out wide to make jumping jacks.#person/NOUN kick/VERB arm/NOUN and/CCONJ leg/NOUN out/ADV wide/ADJ to/PART make/VERB jump/VERB jack/NOUN#0.0#0.0

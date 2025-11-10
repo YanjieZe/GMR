@@ -1,0 +1,3 @@
+the person shake hands with his friend#the/DET person/NOUN shake/VERB hand/NOUN with/ADP his/DET friend/NOUN#0.0#0.0
+a man stands pivoting slightly from foot to foot and then outreaches with his right hand as if he's touching something.#a/DET man/NOUN stand/VERB pivot/VERB slightly/ADV from/ADP foot/NOUN to/ADP foot/NOUN and/CCONJ then/ADV outreache/VERB with/ADP his/DET right/ADJ hand/NOUN as/SCONJ if/SCONJ he/PRON touch/VERB something/PRON#0.0#0.0
+a person stands relaxed and touches something with their right hand.#a/DET person/NOUN stand/VERB relaxed/ADJ and/CCONJ touch/VERB something/PRON with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0

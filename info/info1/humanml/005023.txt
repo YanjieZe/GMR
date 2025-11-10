@@ -1,0 +1,3 @@
+a person does a squat with both arms in front of them#a/DET person/NOUN does/AUX a/DET squat/NOUN with/ADP both/DET arm/NOUN in/ADP front/NOUN of/ADP them/PRON#0.0#0.0
+a man kneels down close to the ground with hands crosses in front of his resting on his knees; sits there for 7 seconds then stands straight upward.#a/DET man/NOUN kneel/VERB down/ADP close/ADV to/ADP the/DET ground/NOUN with/ADP hand/NOUN crosse/NOUN in/ADP front/NOUN of/ADP his/DET resting/NOUN on/ADP his/DET knee/NOUN sit/VERB there/ADV for/ADP second/NOUN then/ADV stand/VERB straight/ADV upward/ADV#0.0#0.0
+the person kneels down and holds positions then gets back up.#the/DET person/NOUN kneel/VERB down/ADP and/CCONJ hold/VERB position/NOUN then/ADV get/VERB back/ADV up/ADV#0.0#0.0

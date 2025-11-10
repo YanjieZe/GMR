@@ -1,0 +1,3 @@
+the figure person raises both arms to horizontal left and begins to waltz in one location.#the/DET figure/NOUN person/NOUN raise/VERB both/DET arm/NOUN to/ADP horizontal/ADJ left/ADV and/CCONJ begin/VERB to/ADP waltz/PROPN in/ADP one/NUM location/NOUN#1.0#10.0
+a person dancing in the style of waltz#a/DET person/NOUN dance/VERB in/ADP the/DET style/NOUN of/ADP waltz/PROPN#0.0#0.0
+a person is doing the waltz dance#a/DET person/NOUN is/AUX do/VERB the/DET waltz/NOUN dance/NOUN#0.0#0.0

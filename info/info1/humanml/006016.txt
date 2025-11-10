@@ -1,0 +1,3 @@
+the person pick some thing up and tilted it on its side.#the/DET person/NOUN pick/VERB some/DET thing/NOUN up/ADP and/CCONJ tilt/VERB it/PRON on/ADP its/DET side/NOUN#0.0#0.0
+a person holds out both hands at thigh level, then puts left arm to right forearm, then puts both arms down again.#a/DET person/NOUN hold/VERB out/ADP both/DET hand/NOUN at/ADP thigh/NOUN level/NOUN then/ADV put/VERB left/ADJ arm/NOUN to/ADP right/ADJ forearm/NOUN then/ADV put/VERB both/DET arm/NOUN down/ADV again/ADV#0.0#0.0
+person opens a drawer and puts something in it#person/NOUN open/VERB a/DET drawer/NOUN and/CCONJ put/VERB something/PRON in/ADP it/PRON#0.0#0.0

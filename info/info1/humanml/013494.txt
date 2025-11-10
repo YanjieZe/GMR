@@ -1,0 +1,3 @@
+crouching forward while walking as the right foot is dragged behind.#crouch/VERB forward/ADV while/SCONJ walk/VERB as/SCONJ the/DET right/ADJ foot/NOUN is/AUX drag/VERB behind/ADV#0.0#0.0
+someone clutches their right leg and drags it while limping forward.#someone/PRON clutch/VERB their/DET right/ADJ leg/NOUN and/CCONJ drag/VERB it/PRON while/SCONJ limp/VERB forward/ADV#0.0#0.0
+person leans forward and limps forward while holding left leg.#person/NOUN lean/VERB forward/ADV and/CCONJ limp/VERB forward/ADV while/SCONJ hold/VERB left/VERB leg/NOUN#0.0#0.0

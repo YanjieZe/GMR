@@ -1,0 +1,3 @@
+a person walks up four steps while holding onto the railing with their right hand.#a/DET person/NOUN walk/VERB up/ADV four/NUM step/NOUN while/SCONJ hold/VERB onto/ADP the/DET railing/NOUN with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+walking up stairs with arm out.#walk/VERB up/ADP stair/NOUN with/ADP arm/NOUN out/ADP#0.0#0.0
+a person is walking up the stairs whilst holding the railing with their right hand#a/DET person/NOUN is/AUX walk/VERB up/ADP the/DET stair/NOUN whilst/SCONJ hold/VERB the/DET railing/NOUN with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0

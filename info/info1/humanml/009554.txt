@@ -1,0 +1,3 @@
+a person stands still for a second and then takes a step back with their right foot.#a/DET person/NOUN stand/VERB still/ADV for/ADP a/DET second/NOUN and/CCONJ then/ADV take/VERB a/DET step/NOUN back/ADV with/ADP their/DET right/ADJ foot/NOUN#0.0#0.0
+a person stumbles backwards a few steps#a/DET person/NOUN stumble/VERB backwards/ADV a/DET few/ADJ step/NOUN#0.0#0.0
+moving backwards slowly once.#move/VERB backwards/ADV slowly/ADV once/ADV#0.0#0.0

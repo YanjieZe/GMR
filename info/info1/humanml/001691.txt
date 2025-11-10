@@ -1,0 +1,3 @@
+person pick some thing up on the left and moved it to the right.#person/NOUN pick/VERB some/DET thing/NOUN up/ADP on/ADP the/DET left/NOUN and/CCONJ move/VERB it/PRON to/ADP the/DET right/NOUN#0.0#0.0
+picks up something and moves arms over to the left to place it down#pick/VERB up/ADP something/PRON and/CCONJ move/VERB arm/NOUN over/ADP to/ADP the/DET left/NOUN to/PART place/VERB it/PRON down/ADP#0.0#0.0
+a man picks up a flat object with both hands and places it on the left side.#a/DET man/NOUN pick/VERB up/ADP a/DET flat/ADJ object/NOUN with/ADP both/DET hand/NOUN and/CCONJ place/VERB it/PRON on/ADP the/DET left/ADJ side/NOUN#0.0#0.0

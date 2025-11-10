@@ -1,0 +1,3 @@
+a person squats down deeply then jumps up to a standing position several times.#a/DET person/NOUN squat/VERB down/ADP deeply/ADV then/ADV jump/VERB up/ADP to/ADP a/DET standing/ADJ position/NOUN several/ADJ time/NOUN#0.0#0.0
+a man squats an then jumps up multiple times.#a/DET man/NOUN squat/VERB an/DET then/ADV jump/VERB up/ADP multiple/ADJ time/NOUN#0.0#0.0
+person is bending at knees and jumping up#person/NOUN is/AUX bend/VERB at/ADP knee/NOUN and/CCONJ jump/VERB up/ADP#0.0#0.0

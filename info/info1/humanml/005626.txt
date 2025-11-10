@@ -1,0 +1,3 @@
+person is using a touch screen#person/NOUN is/AUX use/VERB a/DET touch/NOUN screen/NOUN#0.0#0.0
+the person was standing with his arms straight out then brought them down in front of him and did something with his right hand.#the/DET person/NOUN was/AUX stand/VERB with/ADP his/DET arm/NOUN straight/ADV out/ADV then/ADV bring/VERB them/PRON down/ADP in/ADP front/NOUN of/ADP him/PRON and/CCONJ did/AUX something/PRON with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+man raises right arm in front of him and pushes forwards several times, as if tapping on something.#man/NOUN raise/VERB right/ADJ arm/NOUN in/ADP front/NOUN of/ADP him/PRON and/CCONJ push/VERB forwards/ADP several/ADJ time/NOUN as/SCONJ if/SCONJ tap/VERB on/ADP something/PRON#0.0#0.0

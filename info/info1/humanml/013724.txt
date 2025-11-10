@@ -1,0 +1,3 @@
+a man is jogging.#a/DET man/NOUN is/AUX jog/VERB#0.0#0.0
+stick figure is running in a straight line#stick/PROPN figure/NOUN is/AUX run/VERB in/ADP a/DET straight/ADJ line/NOUN#nan#2.0
+a man jogs on a treadmill.#a/DET man/NOUN jog/VERB on/ADP a/DET treadmill/NOUN#0.0#0.0

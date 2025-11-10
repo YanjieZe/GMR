@@ -1,0 +1,3 @@
+a figure scrapes their shoes off on a mat.#a/DET figure/NOUN scrape/VERB their/DET shoe/NOUN off/ADP on/ADP a/DET mat/NOUN#0.0#0.0
+figure appears to be climbing up an object#figure/NOUN appear/VERB to/PART be/AUX climb/VERB up/ADP an/DET object/NOUN#0.0#0.0
+a man walks up some stairs, leaning heavily on something for support with his right arm.#a/DET man/NOUN walk/VERB up/ADP some/DET stair/NOUN lean/VERB heavily/ADV on/ADP something/PRON for/ADP support/NOUN with/ADP his/DET right/ADJ arm/NOUN#0.0#0.0

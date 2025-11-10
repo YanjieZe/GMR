@@ -1,0 +1,3 @@
+the figure squats up and down with arms forward with each squat they do a tiny jump as they move upward.#the/DET figure/NOUN squat/VERB up/ADV and/CCONJ down/ADP with/ADP arm/NOUN forward/ADV with/ADP each/DET squat/NOUN they/PRON do/AUX a/DET tiny/ADJ jump/NOUN as/SCONJ they/PRON move/VERB upward/ADV#0.0#0.0
+a figure shakes out from stretching and then does squats#a/DET figure/NOUN shake/VERB out/ADP from/ADP stretch/VERB and/CCONJ then/ADV does/AUX squat/NOUN#0.0#0.0
+person is doing a leg squat exercise#person/NOUN is/AUX do/VERB a/DET leg/NOUN squat/NOUN exercise/NOUN#0.0#0.0

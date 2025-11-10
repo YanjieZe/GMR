@@ -1,0 +1,3 @@
+a man walks to the left side,takes a sitting pose and then stands up and walks back again.#a/DET man/NOUN walk/VERB to/ADP the/DET left/ADJ side/NOUN take/VERB a/DET sitting/NOUN pose/NOUN and/CCONJ then/ADV stand/VERB up/ADP and/CCONJ walk/VERB back/ADV again/ADV#0.0#0.0
+walking in a diagonal line then sitting.#walk/VERB in/ADP a/DET diagonal/ADJ line/NOUN then/ADV sit/VERB#0.0#0.0
+a person turns to their left, walks forward a little bit, sits in a chair, stands back up, then walks back.#a/DET person/NOUN turn/VERB to/ADP their/DET left/NOUN walk/VERB forward/ADV a/DET little/ADJ bit/NOUN sit/VERB in/ADP a/DET chair/NOUN stand/VERB back/ADV up/ADV then/ADV walk/VERB back/ADV#0.0#0.0

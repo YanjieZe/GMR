@@ -1,0 +1,3 @@
+a person walks forward, raises his right arm in front of him, then lowers his arm and walks backwards.#a/DET person/NOUN walk/VERB forward/ADV raise/VERB his/DET right/ADJ arm/NOUN in/ADP front/NOUN of/ADP him/PRON then/ADV lower/VERB his/DET arm/NOUN and/CCONJ walk/VERB backwards/ADV#0.0#0.0
+a person walks forward, leans and touches something with his right hand, and then walks backward.#a/DET person/NOUN walk/VERB forward/ADV lean/NOUN and/CCONJ touch/VERB something/PRON with/ADP his/DET right/ADJ hand/NOUN and/CCONJ then/ADV walk/VERB backward/ADV#0.0#0.0
+a person walking up to looking over the edge then step back#a/DET person/NOUN walk/VERB up/ADP to/ADP look/VERB over/ADP the/DET edge/NOUN then/ADV step/VERB back/ADV#0.0#0.0

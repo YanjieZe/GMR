@@ -1,0 +1,3 @@
+the person is holding a golf club and doing a golf swing.#the/DET person/NOUN is/AUX hold/VERB a/DET golf/NOUN club/NOUN and/CCONJ do/VERB a/DET golf/NOUN swing/NOUN#0.0#0.0
+someone who is playing golf#someone/PRON who/PRON is/AUX play/VERB golf/NOUN#0.0#0.0
+the man is pretending to play golf#the/DET man/NOUN is/AUX pretend/VERB to/PART play/VERB golf/NOUN#0.0#0.0

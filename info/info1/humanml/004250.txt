@@ -1,0 +1,3 @@
+a person moves both their arms to the side, and then raises their left arm#a/DET person/NOUN move/VERB both/CCONJ their/DET arm/NOUN to/ADP the/DET side/NOUN and/CCONJ then/ADV raise/VERB their/DET left/ADJ arm/NOUN#0.0#0.0
+a person unscrews a bottle and drinks from their left hand.#a/DET person/NOUN unscrew/VERB a/DET bottle/NOUN and/CCONJ drink/NOUN from/ADP their/DET left/ADJ hand/NOUN#0.0#0.0
+a person standing in place drinks from a bottle with left hand.#a/DET person/NOUN stand/VERB in/ADP place/NOUN drink/NOUN from/ADP a/DET bottle/NOUN with/ADP left/ADJ hand/NOUN#0.0#0.0

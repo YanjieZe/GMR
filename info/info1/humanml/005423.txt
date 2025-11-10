@@ -1,0 +1,3 @@
+spinning arms in a circle.#spin/VERB arm/NOUN in/ADP a/DET circle/NOUN#0.0#0.0
+a person is stretching their arms by rotating them around like windmills.#a/DET person/NOUN is/AUX stretch/VERB their/DET arm/NOUN by/ADP rotate/VERB them/PRON around/ADV like/SCONJ windmill/NOUN#0.0#0.0
+a person swings both arms in large circles.#a/DET person/NOUN swing/VERB both/DET arm/NOUN in/ADP large/ADJ circle/NOUN#0.0#0.0

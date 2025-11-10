@@ -1,0 +1,3 @@
+a person moves around in a random fashion, trying to dodge something.#a/DET person/NOUN move/VERB around/ADP in/ADP a/DET random/ADJ fashion/NOUN try/VERB to/PART dodge/VERB something/PRON#0.0#0.0
+person is jumping around like he was in an accident.#person/NOUN is/AUX jump/VERB around/ADP like/SCONJ he/PRON was/AUX in/ADP an/DET accident/NOUN#0.0#0.0
+a figure nearly falls then gets up, reeling, drunken seeming as though they're being hit by things#a/DET figure/NOUN nearly/ADV fall/VERB then/ADV get/VERB up/ADV reel/VERB drunken/VERB seeming/NOUN as/SCONJ though/SCONJ they/PRON being/AUX hit/VERB by/ADP thing/NOUN#0.0#0.0

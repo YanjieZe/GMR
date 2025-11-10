@@ -1,0 +1,3 @@
+a person who is standing with this hands by his sides slowly and gently steps forward.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP this/DET hand/NOUN by/ADP his/DET side/NOUN slowly/ADV and/CCONJ gently/ADV step/VERB forward/ADV#0.0#0.0
+a person is walking forward slowly.#a/DET person/NOUN is/AUX walk/VERB forward/ADV slowly/ADV#0.0#0.0
+person walks forward in slow manner#person/NOUN walk/VERB forward/ADV in/ADP slow/ADJ manner/NOUN#0.0#0.0

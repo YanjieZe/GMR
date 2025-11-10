@@ -1,0 +1,3 @@
+waving hands near head.#wave/VERB hand/NOUN near/SCONJ head/NOUN#0.0#0.0
+the person is playing with a dumbbell with his left arm.#the/DET person/NOUN is/AUX play/VERB with/ADP a/DET dumbbell/NOUN with/ADP his/DET left/ADJ arm/NOUN#0.0#0.0
+a person flexes his left arm, bringing his hand from around shoulder height to around head height.#a/DET person/NOUN flex/VERB his/DET left/ADJ arm/NOUN bring/VERB his/DET hand/NOUN from/ADP around/ADP shoulder/NOUN height/NOUN to/ADP around/ADP head/NOUN height/ADV#0.0#0.0

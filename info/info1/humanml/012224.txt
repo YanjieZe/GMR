@@ -1,0 +1,3 @@
+a person successively stretches his arms above his head, first his right arm and then his left arm.#a/DET person/NOUN successively/ADV stretch/VERB his/DET arm/NOUN above/ADP his/DET head/NOUN first/ADV his/DET right/ADJ arm/NOUN and/CCONJ then/ADV his/DET left/ADJ arm/NOUN#0.0#0.0
+a person waves with their right hand then switches to wave with their left.#a/DET person/NOUN wave/VERB with/ADP their/DET right/ADJ hand/NOUN then/ADV switch/VERB to/PART wave/VERB with/ADP their/DET left/NOUN#0.0#0.0
+a person raises their right arm, then left arm.#a/DET person/NOUN raise/VERB their/DET right/ADJ arm/NOUN then/ADV left/VERB arm/NOUN#0.0#0.0

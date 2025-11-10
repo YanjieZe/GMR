@@ -1,0 +1,3 @@
+the man is walking slowly#the/DET man/NOUN is/AUX walk/VERB slowly/ADV#0.0#0.0
+someone is slowly walking forward while using their hands to support their weight on objects on either side of them.#someone/PRON is/AUX slowly/ADV walk/VERB forward/ADV while/SCONJ use/VERB their/DET hand/NOUN to/PART support/VERB their/DET weight/NOUN on/ADP object/NOUN on/ADP either/DET side/NOUN of/ADP them/PRON#0.0#0.0
+a person very slowly walks forward place one foot in front of the other and holding arms out to the side#a/DET person/NOUN very/ADV slowly/ADV walk/VERB forward/ADV place/NOUN one/NUM foot/NOUN in/ADP front/NOUN of/ADP the/DET other/ADJ and/CCONJ hold/VERB arm/NOUN out/ADV to/ADP the/DET side/NOUN#0.0#0.0

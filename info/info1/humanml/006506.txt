@@ -1,0 +1,3 @@
+the man is closing and opening umbrella#the/DET man/NOUN is/AUX close/VERB and/CCONJ open/VERB umbrella/NOUN#0.0#0.0
+the person is opening and closing and umbrella.#the/DET person/NOUN is/AUX open/VERB and/CCONJ closing/NOUN and/CCONJ umbrella/NOUN#0.0#0.0
+a person lifting a light object above their head and then lowering it to the ground#a/DET person/NOUN lift/VERB a/DET light/ADJ object/NOUN above/ADP their/DET head/NOUN and/CCONJ then/ADV lower/VERB it/PRON to/ADP the/DET ground/NOUN#0.0#0.0

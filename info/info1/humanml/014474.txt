@@ -1,0 +1,3 @@
+the person did quick jumps twice.#the/DET person/NOUN did/AUX quick/ADJ jump/NOUN twice/ADV#0.0#0.0
+person jumps in the air twice#person/NOUN jump/VERB in/ADP the/DET air/NOUN twice/ADV#0.0#0.0
+this person is jumping in the air.#this/DET person/NOUN is/AUX jump/VERB in/ADP the/DET air/NOUN#0.0#0.0

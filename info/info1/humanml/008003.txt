@@ -1,0 +1,3 @@
+a person is making arm motions with both arms starting with their left arm.#a/DET person/NOUN is/AUX make/VERB arm/NOUN motion/NOUN with/ADP both/DET arm/NOUN start/VERB with/ADP their/DET left/ADJ arm/NOUN#0.0#0.0
+a person shivers, pretends to row a boat, and then swings their arms freely.#a/DET person/NOUN shiver/NOUN pretend/NOUN to/PART row/VERB a/DET boat/NOUN and/CCONJ then/ADV swing/VERB their/DET arm/NOUN freely/ADV#0.0#0.0
+a person raises their left arm#a/DET person/NOUN raise/VERB their/DET left/ADJ arm/NOUN#0.0#0.0

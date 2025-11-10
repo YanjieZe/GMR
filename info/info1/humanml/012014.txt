@@ -1,0 +1,3 @@
+a person gently pacing around.#a/DET person/NOUN gently/ADV pace/VERB around/ADV#0.0#0.0
+a person is quickly walking around.#a/DET person/NOUN is/AUX quickly/ADV walk/VERB around/ADV#0.0#0.0
+the is person practicing football tactics.#the/DET is/AUX person/NOUN practice/VERB football/NOUN tactic/NOUN#0.0#0.0

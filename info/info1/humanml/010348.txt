@@ -1,0 +1,3 @@
+a person is walking and stops.#a/DET person/NOUN is/AUX walk/VERB and/CCONJ stop/NOUN#0.0#0.0
+the person walks in a crooked line as if it was injured#the/DET person/NOUN walk/VERB in/ADP a/DET crooked/ADJ line/NOUN as/SCONJ if/SCONJ it/PRON was/AUX injure/VERB#0.0#0.0
+a person walks forward with stiff legs.#a/DET person/NOUN walk/VERB forward/ADV with/ADP stiff/ADJ leg/NOUN#0.0#0.0

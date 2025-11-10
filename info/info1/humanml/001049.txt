@@ -1,0 +1,3 @@
+the person is walking then running and jumping.#the/DET person/NOUN is/AUX walk/VERB then/ADV run/VERB and/CCONJ jump/VERB#0.0#0.0
+a figure leaps with from it's right foot to it's left then turns clockwise and leads with it's right foot.#a/DET figure/NOUN leap/VERB with/ADP from/ADP it/PRON right/ADJ foot/NOUN to/ADP it/PRON left/VERB then/ADV turn/VERB clockwise/NOUN and/CCONJ lead/VERB with/ADP it/PRON right/ADJ foot/NOUN#0.0#0.0
+a person walks and then leaps, they then leap back to their starting position#a/DET person/NOUN walk/VERB and/CCONJ then/ADV leaps/INTJ they/PRON then/ADV leap/VERB back/ADV to/ADP their/DET starting/NOUN position/NOUN#0.0#0.0

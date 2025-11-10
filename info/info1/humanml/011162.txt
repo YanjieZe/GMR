@@ -1,0 +1,3 @@
+the person is painting a wall.#the/DET person/NOUN is/AUX paint/VERB a/DET wall/NOUN#0.0#0.0
+a person who is standing with his hands out from his sides applies five brush strokes with his right hand.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP his/DET hand/NOUN out/ADP from/ADP his/DET side/NOUN apply/VERB five/NUM brush/NOUN stroke/NOUN with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+a man raises his right  hand and moves it  up and down like trying to paint.#a/DET man/NOUN raise/VERB his/DET right/ADJ hand/NOUN and/CCONJ move/VERB it/PRON up/ADP and/CCONJ down/ADV like/SCONJ try/VERB to/PART paint/VERB#0.0#0.0

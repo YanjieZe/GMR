@@ -1,0 +1,3 @@
+a stick figure casually walks in an s figure#a/DET stick/NOUN figure/NOUN casually/ADV walk/VERB in/ADP an/DET s/NOUN figure/NOUN#0.0#0.0
+a person walks to their right, walks backward, walks to their left, and then walks forward.#a/DET person/NOUN walk/VERB to/ADP their/DET right/NOUN walk/VERB backward/ADV walk/VERB to/ADP their/DET left/NOUN and/CCONJ then/ADV walk/VERB forward/ADV#0.0#0.0
+this person walks from left to right, stops and walks to the back then walks right.#this/DET person/NOUN walk/VERB from/ADP left/NOUN to/ADP right/NOUN stop/VERB and/CCONJ walk/VERB to/ADP the/DET back/NOUN then/ADV walk/VERB right/ADV#0.0#0.0

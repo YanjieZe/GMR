@@ -1,0 +1,3 @@
+a man standing and later shuffles his shoulder to the left.#a/DET man/NOUN stand/VERB and/CCONJ later/ADV shuffle/VERB his/DET shoulder/NOUN to/ADP the/DET left/NOUN#0.0#0.0
+a person bend the body to right direction#a/DET person/NOUN bend/VERB the/DET body/NOUN to/ADP right/ADJ direction/NOUN#0.0#0.0
+a figure sways his upper body from side to side once.#a/DET figure/NOUN sway/VERB his/DET upper/ADJ body/NOUN from/ADP side/NOUN to/PART side/VERB once/ADV#0.0#0.0

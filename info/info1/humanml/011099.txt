@@ -1,0 +1,3 @@
+a person turns their body left and moves their arm forward like a tennis forehand motion then returns to starting position.#a/DET person/NOUN turn/VERB their/DET body/NOUN left/VERB and/CCONJ move/VERB their/DET arm/NOUN forward/ADV like/SCONJ a/DET tennis/NOUN forehand/NOUN motion/NOUN then/ADV return/VERB to/ADP start/VERB position/NOUN#0.0#0.0
+a man turns to right and throws an object with his left hand.#a/DET man/NOUN turn/VERB to/ADP right/NOUN and/CCONJ throw/VERB an/DET object/NOUN with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0
+a person uses their left hand to swing#a/DET person/NOUN use/VERB their/DET left/ADJ hand/NOUN to/PART swing/VERB#0.0#0.0

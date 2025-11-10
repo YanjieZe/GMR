@@ -1,0 +1,3 @@
+a person using a fishing rod#a/DET person/NOUN use/VERB a/DET fishing/NOUN rod/NOUN#0.0#0.0
+a person with hands together and outstretched making circles.#a/DET person/NOUN with/ADP hand/NOUN together/ADV and/CCONJ outstretche/VERB make/VERB circle/NOUN#0.0#0.0
+a person clasps their hands together before they move erratically to their left and right, as if they were reeling in a fish.#a/DET person/NOUN clasp/VERB their/DET hand/NOUN together/ADV before/ADP they/PRON move/VERB erratically/ADV to/ADP their/DET left/NOUN and/CCONJ right/INTJ as/SCONJ if/SCONJ they/PRON were/AUX reel/VERB in/ADP a/DET fish/NOUN#0.0#0.0

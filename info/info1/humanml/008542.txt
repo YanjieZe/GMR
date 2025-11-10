@@ -1,0 +1,3 @@
+a person is walking backwards to the right, then to the left, and back to the starting position.#a/DET person/NOUN is/AUX walk/VERB backwards/ADV to/ADP the/DET right/NOUN then/ADV to/ADP the/DET left/NOUN and/CCONJ back/ADV to/ADP the/DET starting/NOUN position/NOUN#0.0#0.0
+a person is walking backwards.#a/DET person/NOUN is/AUX walk/VERB backwards/ADV#0.0#0.0
+the person walks backwards, turnaround and walks backwards back to the starting point, then walks backwards in a differnet direction.#the/DET person/NOUN walk/VERB backwards/ADV turnaround/VERB and/CCONJ walk/VERB backwards/ADV back/ADV to/ADP the/DET starting/NOUN point/NOUN then/ADV walk/VERB backwards/ADV in/ADP a/DET differnet/NOUN direction/NOUN#0.0#10.0

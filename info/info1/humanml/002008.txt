@@ -1,0 +1,3 @@
+a person stands looking left and right.#a/DET person/NOUN stand/VERB look/VERB left/VERB and/CCONJ right/INTJ#0.0#0.0
+she scans the sky, first left, then right, then straight up, and finally to the left again.#she/PRON scan/VERB the/DET sky/NOUN first/ADV left/VERB then/ADV right/INTJ then/ADV straight/ADV up/ADV and/CCONJ finally/ADV to/ADP the/DET left/NOUN again/ADV#0.0#0.0
+a person stands straight turning his face from side to side.#a/DET person/NOUN stand/VERB straight/ADV turn/VERB his/DET face/NOUN from/ADP side/NOUN to/ADP side/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks at a normal pace on a treadmill.#a/DET person/NOUN walk/VERB at/ADP a/DET normal/ADJ pace/NOUN on/ADP a/DET treadmill/NOUN#0.0#0.0
+person steadily walks forward. with hands at side.#person/NOUN steadily/ADV walk/VERB forward/ADV with/ADP hand/NOUN at/ADP side/NOUN#0.0#0.0
+a person walks forward while slightly swinging their arms.#a/DET person/NOUN walk/VERB forward/ADV while/SCONJ slightly/ADV swinge/VERB their/DET arm/NOUN#0.0#0.0

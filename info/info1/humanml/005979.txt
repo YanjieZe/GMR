@@ -1,0 +1,3 @@
+person is doing a black magic spell.#person/NOUN is/AUX do/VERB a/DET black/ADJ magic/NOUN spell/NOUN#0.0#0.0
+a person raises their hands laterally and lowers them whilst moving on the spot#a/DET person/NOUN raise/VERB their/DET hand/NOUN laterally/ADV and/CCONJ lower/VERB them/PRON whilst/SCONJ move/VERB on/ADP the/DET spot/NOUN#0.0#0.0
+the man alternates between clapping and reaching his arms before him while stumbling.#the/DET man/NOUN alternate/VERB between/ADP clap/VERB and/CCONJ reach/VERB his/DET arm/NOUN before/ADP him/PRON while/SCONJ stumble/VERB#0.0#0.0

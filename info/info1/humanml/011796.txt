@@ -1,0 +1,3 @@
+a person takes a steady step to the left side#a/DET person/NOUN take/VERB a/DET steady/ADJ step/NOUN to/ADP the/DET left/ADJ side/NOUN#0.0#0.0
+a person steps once to the left with a wide step.#a/DET person/NOUN step/VERB once/ADV to/ADP the/DET left/NOUN with/ADP a/DET wide/ADJ step/NOUN#0.0#0.0
+a person takes one large side step to their left.#a/DET person/NOUN take/VERB one/NUM large/ADJ side/NOUN step/NOUN to/ADP their/DET left/NOUN#0.0#0.0

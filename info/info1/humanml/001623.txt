@@ -1,0 +1,3 @@
+a person talking on his phone and walking in circles .#a/DET person/NOUN talk/VERB on/ADP his/DET phone/NOUN and/CCONJ walk/VERB in/ADP circle/NOUN#0.0#0.0
+a person walks in a circle clockwise while holding something up to their left ear.#a/DET person/NOUN walk/VERB in/ADP a/DET circle/NOUN clockwise/NOUN while/SCONJ hold/VERB something/PRON up/ADP to/ADP their/DET left/ADJ ear/NOUN#0.0#0.0
+a oerson walks in a clockwise circle while holding up the left arm at shoulder height.#a/DET oerson/NOUN walk/VERB in/ADP a/DET clockwise/NOUN circle/NOUN while/SCONJ hold/VERB up/ADP the/DET left/ADJ arm/NOUN at/ADP shoulder/NOUN height/NOUN#0.0#0.0

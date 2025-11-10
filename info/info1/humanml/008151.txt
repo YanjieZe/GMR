@@ -1,0 +1,3 @@
+a person raised right arm straight out front and then to the right and then down by his side.#a/DET person/NOUN raise/VERB right/ADJ arm/NOUN straight/ADV out/ADV front/ADV and/CCONJ then/ADV to/ADP the/DET right/NOUN and/CCONJ then/ADV down/ADV by/ADP his/DET side/NOUN#0.0#0.0
+the person opened up the cabinet door.#the/DET person/NOUN open/VERB up/ADP the/DET cabinet/NOUN door/NOUN#0.0#0.0
+a person points around with their right arm.#a/DET person/NOUN point/VERB around/ADP with/ADP their/DET right/ADJ arm/NOUN#0.0#0.0

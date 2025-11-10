@@ -1,0 +1,3 @@
+a person runs and jumps forward#a/DET person/NOUN run/VERB and/CCONJ jump/VERB forward/ADV#0.0#0.0
+a running man hops over something a comes down to a walk.#a/DET run/VERB man/NOUN hop/VERB over/ADP something/PRON a/NOUN come/VERB down/ADP to/ADP a/DET walk/NOUN#0.0#0.0
+a person runs diagonally across a floor, skips, and continues running before he comes to a stop.#a/DET person/NOUN run/VERB diagonally/ADV across/ADP a/DET floor/NOUN skip/NOUN and/CCONJ continue/VERB run/VERB before/ADP he/PRON come/VERB to/ADP a/DET stop/NOUN#0.0#0.0

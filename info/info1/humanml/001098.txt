@@ -1,0 +1,3 @@
+a person walks forward and rests their weight on an object with their left hand, then they use their right hand to twist an object clockwise.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ rest/VERB their/DET weight/NOUN on/ADP an/DET object/NOUN with/ADP their/DET left/ADJ hand/NOUN then/ADV they/PRON use/VERB their/DET right/ADJ hand/NOUN to/PART twist/VERB an/DET object/NOUN clockwise/NOUN#0.0#0.0
+person is may be grabbing something.#person/NOUN is/AUX may/VERB be/AUX grab/VERB something/PRON#0.0#0.0
+a person leans forwards and uses both hands to tighten something down#a/DET person/NOUN lean/VERB forwards/ADV and/CCONJ use/VERB both/DET hand/NOUN to/PART tighten/VERB something/PRON down/ADP#0.0#0.0

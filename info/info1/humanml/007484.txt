@@ -1,0 +1,3 @@
+a person seemingly looks around while they are in a crouched position.#a/DET person/NOUN seemingly/ADV look/VERB around/ADP while/SCONJ they/PRON are/AUX in/ADP a/DET crouched/ADJ position/NOUN#0.0#0.0
+a person is looking around panicked.#a/DET person/NOUN is/AUX look/VERB around/ADV panicked/ADJ#0.0#0.0
+someone turning side to side with feet stationary and then makes one step forward.#someone/PRON turn/VERB side/NOUN to/PART side/VERB with/ADP foot/NOUN stationary/ADJ and/CCONJ then/ADV make/VERB one/NUM step/VERB forward/ADV#0.0#0.0

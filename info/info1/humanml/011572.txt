@@ -1,0 +1,3 @@
+a figure drinks from a cup.#a/DET figure/NOUN drink/VERB from/ADP a/DET cup/NOUN#0.0#0.0
+the man moves things with his left hand then raises both arms straight out.#the/DET man/NOUN move/VERB thing/NOUN with/ADP his/DET left/ADJ hand/NOUN then/ADV raise/VERB both/DET arm/NOUN straight/ADV out/ADV#0.0#0.0
+a man doing something with his left hand and constantly and then proceeds to stand in a t pose#a/DET man/NOUN do/VERB something/PRON with/ADP his/DET left/ADJ hand/NOUN and/CCONJ constantly/ADV and/CCONJ then/ADV proceed/VERB to/PART stand/VERB in/ADP a/DET t/NOUN pose/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a man struts forward a few steps, turns around, and walks back.#a/DET man/NOUN strut/VERB forward/ADV a/DET few/ADJ step/NOUN turn/VERB around/ADV and/CCONJ walk/VERB back/ADV#0.0#0.0
+a person walks forward, turns around, then walks quickly back#a/DET person/NOUN walk/VERB forward/ADV turn/VERB around/ADV then/ADV walk/VERB quickly/ADV back/ADV#0.0#0.0
+a person walks quickly forward, turns and walks slowly back.#a/DET person/NOUN walk/VERB quickly/ADV forward/ADV turn/VERB and/CCONJ walk/VERB slowly/ADV back/ADV#0.0#0.0

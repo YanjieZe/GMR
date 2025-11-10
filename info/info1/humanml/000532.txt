@@ -1,0 +1,3 @@
+a person walking like a penguin in a circle.#a/DET person/NOUN walk/VERB like/SCONJ a/DET penguin/NOUN in/ADP a/DET circle/NOUN#0.0#0.0
+person takes 2 small steps forward then 5 steps to the right and back slows to a smaller, slower 10 steps, turns toward the back  and takes 8 steps and stops facing the back#person/NOUN take/VERB small/ADJ step/NOUN forward/ADV then/ADV step/NOUN to/ADP the/DET right/NOUN and/CCONJ back/ADJ slow/NOUN to/ADP a/DET smaller/ADJ slower/ADJ step/NOUN turn/VERB toward/ADP the/DET back/ADJ and/CCONJ take/VERB step/NOUN and/CCONJ stop/VERB face/VERB the/DET back/NOUN#0.0#10.0
+a person walks around with small steps and raised shoulders#a/DET person/NOUN walk/VERB around/ADV with/ADP small/ADJ step/NOUN and/CCONJ raise/VERB shoulder/NOUN#0.0#0.0

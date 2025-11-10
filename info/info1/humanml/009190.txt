@@ -1,0 +1,3 @@
+a person moves around his left hand.#a/DET person/NOUN move/VERB around/ADP his/DET left/ADJ hand/NOUN#0.0#0.0
+swinging arms to side then to face.#swinge/VERB arm/NOUN to/PART side/VERB then/ADV to/PART face/VERB#0.0#0.0
+a person lowers arms from either side and types in a code in front of him with left hand.#a/DET person/NOUN lower/VERB arm/NOUN from/ADP either/DET side/NOUN and/CCONJ type/NOUN in/ADP a/DET code/NOUN in/ADP front/NOUN of/ADP him/PRON with/ADP left/ADJ hand/NOUN#0.0#0.0

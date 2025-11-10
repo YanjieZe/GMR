@@ -1,0 +1,3 @@
+the person was placing some thing in front of him.#the/DET person/NOUN was/AUX place/VERB some/DET thing/NOUN in/ADP front/NOUN of/ADP him/PRON#0.0#0.0
+a person is making a circular motion with his left hand then pushes people away.#a/DET person/NOUN is/AUX make/VERB a/DET circular/ADJ motion/NOUN with/ADP his/DET left/ADJ hand/NOUN then/ADV push/VERB people/NOUN away/ADV#0.0#0.0
+the person stirs the pot of food then has a taste#the/DET person/NOUN stir/VERB the/DET pot/NOUN of/ADP food/NOUN then/ADV has/AUX a/DET taste/NOUN#0.0#0.0

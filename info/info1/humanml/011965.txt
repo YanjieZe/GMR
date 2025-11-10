@@ -1,0 +1,3 @@
+a person abruptly stumbles forward and regains his balance as if he had been pushed from behind.#a/DET person/NOUN abruptly/ADV stumble/VERB forward/ADV and/CCONJ regain/VERB his/DET balance/NOUN as/SCONJ if/SCONJ he/PRON had/AUX been/AUX push/VERB from/ADP behind/ADV#0.0#0.0
+a person moves forward slightly.#a/DET person/NOUN move/VERB forward/ADV slightly/ADV#0.0#0.0
+a person takes a step forward.#a/DET person/NOUN take/VERB a/DET step/NOUN forward/ADV#0.0#0.0

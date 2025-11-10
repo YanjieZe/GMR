@@ -1,0 +1,3 @@
+the person appears to be doing crunches at a normal pace.#the/DET person/NOUN appear/VERB to/PART be/AUX do/VERB crunch/NOUN at/ADP a/DET normal/ADJ pace/NOUN#0.0#0.0
+person is doing situps.#person/NOUN is/AUX do/VERB situp/NOUN#0.0#10.0
+the person appears to be doing sit ups.#the/DET person/NOUN appear/VERB to/PART be/AUX do/VERB sit/NOUN up/NOUN#0.0#0.0

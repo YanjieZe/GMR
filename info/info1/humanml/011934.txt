@@ -1,0 +1,3 @@
+shaking the hands like dancing.#shake/VERB the/DET hand/NOUN like/SCONJ dance/VERB#0.0#0.0
+person rotating their arms in clockwise and anticlock wise direction#person/NOUN rotate/VERB their/DET arm/NOUN in/ADP clockwise/NOUN and/CCONJ anticlock/VERB wise/ADJ direction/NOUN#0.0#0.0
+a person stretches their shoulders and arms.#a/DET person/NOUN stretch/VERB their/DET shoulder/NOUN and/CCONJ arm/NOUN#0.0#0.0

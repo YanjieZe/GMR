@@ -1,0 +1,3 @@
+a man leans slightly to the right, then walks forward.#a/DET man/NOUN lean/VERB slightly/ADV to/ADP the/DET right/NOUN then/ADV walk/VERB forward/ADV#0.0#0.0
+a person walks forward, they have a long gait.#a/DET person/NOUN walk/VERB forward/ADV they/PRON have/AUX a/DET long/ADJ gait/NOUN#0.0#0.0
+a person is standing upright and walking forward, with arms down by their sides.#a/DET person/NOUN is/AUX stand/VERB upright/ADV and/CCONJ walk/VERB forward/ADV with/ADP arm/NOUN down/ADV by/ADP their/DET side/NOUN#0.0#0.0

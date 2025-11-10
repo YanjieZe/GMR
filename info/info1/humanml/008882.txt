@@ -1,0 +1,3 @@
+a person standing at the top portion of a rectangle jogs to the other side of the rectangle.#a/DET person/NOUN stand/VERB at/ADP the/DET top/ADJ portion/NOUN of/ADP a/DET rectangle/NOUN jog/VERB to/ADP the/DET other/ADJ side/NOUN of/ADP the/DET rectangle/NOUN#0.0#0.0
+a person jogs a few steps forward quickly.#a/DET person/NOUN jog/VERB a/DET few/ADJ step/NOUN forward/ADV quickly/ADV#0.0#0.0
+moving fast on the at front#move/VERB fast/ADV on/ADP the/DET at/ADP front/NOUN#0.0#0.0

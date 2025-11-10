@@ -1,0 +1,3 @@
+the man is moving his right leg#the/DET man/NOUN is/AUX move/VERB his/DET right/ADJ leg/NOUN#0.0#0.0
+man kicking back left leg.#man/NOUN kick/VERB back/ADV left/ADJ leg/NOUN#0.0#0.0
+a man kicks his right leg behind him.#a/DET man/NOUN kick/VERB his/DET right/ADJ leg/NOUN behind/ADP him/PRON#0.0#0.0

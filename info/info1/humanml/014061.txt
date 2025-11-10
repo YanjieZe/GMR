@@ -1,0 +1,3 @@
+a person shuffles and rotates to his left before taking a few steps backwards.#a/DET person/NOUN shuffle/VERB and/CCONJ rotate/VERB to/ADP his/DET left/NOUN before/ADP take/VERB a/DET few/ADJ step/NOUN backwards/ADV#0.0#0.0
+a person walks backwards, then waves with their left hand.#a/DET person/NOUN walk/VERB backwards/ADV then/ADV wave/VERB with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0
+the person was facing forward and then turn to the side facing sideways.#the/DET person/NOUN was/AUX face/VERB forward/ADV and/CCONJ then/ADV turn/VERB to/ADP the/DET side/NOUN face/VERB sideways/ADV#0.0#0.0

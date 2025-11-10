@@ -1,0 +1,3 @@
+a figure seems to prepare to pitch then throws an item#a/DET figure/NOUN seem/VERB to/PART prepare/VERB to/PART pitch/VERB then/ADV throw/VERB an/DET item/NOUN#0.0#0.0
+person cups both hands in front of him before making a throwing motion twice, leaning forwards, their right leg coming off the ground.#person/NOUN cup/VERB both/DET hand/NOUN in/ADP front/NOUN of/ADP him/PRON before/ADP make/VERB a/DET throwing/NOUN motion/NOUN twice/ADV leaning/ADJ forward/NOUN their/DET right/ADJ leg/NOUN come/VERB off/ADP the/DET ground/NOUN#0.0#0.0
+person is using his right hand to throw the ball#person/NOUN is/AUX use/VERB his/DET right/ADJ hand/NOUN to/PART throw/VERB the/DET ball/NOUN#0.0#0.0

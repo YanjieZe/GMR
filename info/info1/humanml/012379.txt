@@ -1,0 +1,3 @@
+the person is walking leaning to the side.#the/DET person/NOUN is/AUX walk/VERB lean/VERB to/ADP the/DET side/NOUN#0.0#0.0
+a figure walks down a set of stairs with a very jarring alternating set of steps.#a/DET figure/NOUN walk/VERB down/ADP a/DET set/NOUN of/ADP stair/NOUN with/ADP a/DET very/ADV jarring/ADJ alternate/VERB set/NOUN of/ADP step/NOUN#0.0#0.0
+figure appears to be side stepping#figure/NOUN appear/VERB to/PART be/AUX side/NOUN step/VERB#0.0#0.0

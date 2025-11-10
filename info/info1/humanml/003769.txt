@@ -1,0 +1,3 @@
+a person is using his arms to describe something to another person.#a/DET person/NOUN is/AUX use/VERB his/DET arm/NOUN to/PART describe/VERB something/PRON to/ADP another/DET person/NOUN#0.0#0.0
+a person standing and gesturing with both hands.#a/DET person/NOUN stand/VERB and/CCONJ gesture/VERB with/ADP both/DET hand/NOUN#0.0#0.0
+a man lowers his arms from the side, pushes his right arm forward 3 times. then moves both arms outwards 3 times#a/DET man/NOUN lower/VERB his/DET arm/NOUN from/ADP the/DET side/NOUN push/VERB his/DET right/ADJ arm/NOUN forward/ADV time/NOUN then/ADV move/VERB both/DET arm/NOUN outward/NOUN time/NOUN#0.0#0.0

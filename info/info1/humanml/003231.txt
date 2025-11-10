@@ -1,0 +1,3 @@
+a person walks forward and up some stairs in a straight line.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ up/ADP some/DET stair/NOUN in/ADP a/DET straight/ADJ line/NOUN#0.0#0.0
+a person walks forward, approaches an obstacle, then steps onto the obstacle.#a/DET person/NOUN walk/VERB forward/ADV approach/VERB an/DET obstacle/NOUN then/ADV step/VERB onto/ADP the/DET obstacle/NOUN#0.0#0.0
+someone wipes their shoes on a floor mat.#someone/PRON wipe/VERB their/DET shoe/NOUN on/ADP a/DET floor/NOUN mat/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+the man walks forward, then picks up some greeting cards and starts passing them out.#the/DET man/NOUN walk/VERB forward/ADV then/ADV pick/VERB up/ADP some/DET greeting/NOUN card/NOUN and/CCONJ start/VERB pass/VERB them/PRON out/ADP#0.0#0.0
+this person takes two small steps forward, grabs something, then pushes two items away from him.#this/DET person/NOUN take/VERB two/NUM small/ADJ step/NOUN forward/ADV grab/NOUN something/PRON then/ADV push/VERB two/NUM item/NOUN away/ADV from/ADP him/PRON#0.0#8.0
+a figure steps forward and passes an object forward with his hands.#a/DET figure/NOUN step/VERB forward/ADV and/CCONJ pass/VERB an/DET object/NOUN forward/ADV with/ADP his/DET hand/NOUN#0.0#0.0

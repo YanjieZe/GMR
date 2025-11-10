@@ -1,0 +1,3 @@
+the person is thinking about something.#the/DET person/NOUN is/AUX think/VERB about/ADP something/PRON#0.0#0.0
+a man standing put head in left hand bent over.#a/DET man/NOUN stand/VERB put/VERB head/NOUN in/ADP left/ADJ hand/NOUN bent/NOUN over/ADP#0.0#0.0
+a person sits in great contemplation.#a/DET person/NOUN sit/VERB in/ADP great/ADJ contemplation/NOUN#0.0#0.0

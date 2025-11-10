@@ -1,0 +1,3 @@
+a man walks forward a couple steps then halts and walks in place.#a/DET man/NOUN walk/VERB forward/ADV a/DET couple/NOUN step/NOUN then/ADV halt/VERB and/CCONJ walk/VERB in/ADP place/NOUN#0.0#0.0
+walking up stairs, starts at a lower y axis and ends up higher.#walk/VERB up/ADP stair/NOUN start/VERB at/ADP a/DET lower/ADJ y/NOUN axis/NOUN and/CCONJ end/VERB up/ADP higher/ADV#0.0#0.0
+a person walks forward a few steps and then walks in place a few more steps.#a/DET person/NOUN walk/VERB forward/ADV a/DET few/ADJ step/NOUN and/CCONJ then/ADV walk/VERB in/ADP place/NOUN a/DET few/ADJ more/ADJ step/NOUN#0.0#0.0

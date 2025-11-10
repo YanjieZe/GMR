@@ -1,0 +1,3 @@
+a person takes a step back with their right foot, raises their arms, and makes a throwing motion with their right arm.#a/DET person/NOUN take/VERB a/DET step/NOUN back/ADV with/ADP their/DET right/ADJ foot/NOUN raise/VERB their/DET arm/NOUN and/CCONJ make/VERB a/DET throwing/NOUN motion/NOUN with/ADP their/DET right/ADJ arm/NOUN#0.0#0.0
+a person grabbed something and throw it away#a/DET person/NOUN grab/VERB something/PRON and/CCONJ throw/VERB it/PRON away/ADV#0.0#0.0
+the man is moving his arms and legs#the/DET man/NOUN is/AUX move/VERB his/DET arm/NOUN and/CCONJ leg/NOUN#0.0#0.0

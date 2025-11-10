@@ -1,0 +1,3 @@
+a person walked forward in left direction adn jumped#a/DET person/NOUN walk/VERB forward/ADV in/ADP left/ADJ direction/NOUN adn/PROPN jump/VERB#0.0#0.0
+a person who is running launches off of his left foot, jumps forward, lands on both feet and continues running.#a/DET person/NOUN who/PRON is/AUX run/VERB launch/NOUN off/ADP of/ADP his/DET left/ADJ foot/NOUN jump/VERB forward/ADV land/NOUN on/ADP both/DET foot/NOUN and/CCONJ continue/VERB run/VERB#0.0#0.0
+the toon runs then jumps.#the/DET toon/NOUN run/VERB then/ADV jump/VERB#0.0#1.0

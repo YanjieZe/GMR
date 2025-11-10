@@ -1,0 +1,3 @@
+person is playing catch with someone#person/NOUN is/AUX play/VERB catch/NOUN with/ADP someone/PRON#0.0#0.0
+a man throws something and then brings arms back like a pitcher#a/DET man/NOUN throw/VERB something/PRON and/CCONJ then/ADV bring/VERB arm/NOUN back/ADV like/SCONJ a/DET pitcher/NOUN#0.0#0.0
+a person throws something with their right arm, and then catches something with their hands.#a/DET person/NOUN throw/VERB something/PRON with/ADP their/DET right/ADJ arm/NOUN and/CCONJ then/ADV catch/VERB something/PRON with/ADP their/DET hand/NOUN#0.0#0.0

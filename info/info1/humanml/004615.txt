@@ -1,0 +1,3 @@
+someone is sliding an object to the left#someone/PRON is/AUX slide/VERB an/DET object/NOUN to/ADP the/DET left/NOUN#0.0#0.0
+a man is standing then moves his right hand then claps his hand#a/DET man/NOUN is/AUX stand/VERB then/ADV move/VERB his/DET right/ADJ hand/NOUN then/ADV clap/VERB his/DET hand/NOUN#0.5#1.0
+swings right arm up while left is staying still#swing/NOUN right/ADV arm/NOUN up/ADP while/SCONJ left/VERB is/AUX stay/VERB still/ADV#0.0#0.0

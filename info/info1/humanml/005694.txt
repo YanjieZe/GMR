@@ -1,0 +1,3 @@
+a man climbs a step, walks forward a few steps, and then walks down a step.#a/DET man/NOUN climb/VERB a/DET step/NOUN walk/VERB forward/ADV a/DET few/ADJ step/NOUN and/CCONJ then/ADV walk/VERB down/ADP a/DET step/NOUN#0.0#0.0
+a person steps up, then takes a few steps forward, before finally stepping down.#a/DET person/NOUN step/VERB up/ADP then/ADV take/VERB a/DET few/ADJ step/NOUN forward/ADV before/ADP finally/ADV step/VERB down/ADP#0.0#0.0
+a man steps up, walks forward and then steps down.#a/DET man/NOUN step/VERB up/ADP walk/VERB forward/ADV and/CCONJ then/ADV step/VERB down/ADP#0.0#0.0

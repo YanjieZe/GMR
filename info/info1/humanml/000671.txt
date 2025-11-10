@@ -1,0 +1,3 @@
+a person lays down on their side and then stands up and kicks out their red foot.#a/DET person/NOUN lay/VERB down/ADP on/ADP their/DET side/NOUN and/CCONJ then/ADV stand/VERB up/ADP and/CCONJ kick/VERB out/ADP their/DET red/ADJ foot/NOUN#0.0#0.0
+a man lays down and then gets back up.#a/DET man/NOUN lay/VERB down/ADV and/CCONJ then/ADV get/VERB back/ADV up/ADV#0.0#0.0
+a person lies down on the ground then stands and kicks up their leg#a/DET person/NOUN lie/VERB down/ADP on/ADP the/DET ground/NOUN then/ADV stand/VERB and/CCONJ kick/VERB up/ADP their/DET leg/NOUN#0.0#0.0

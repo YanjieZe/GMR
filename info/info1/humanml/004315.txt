@@ -1,0 +1,2 @@
+they do a forward roll#they/PRON do/AUX a/DET forward/ADJ roll/NOUN#0.0#0.0
+a person leaping into and dive and roll similar to a summersault.#a/DET person/NOUN leap/VERB into/ADP and/CCONJ dive/VERB and/CCONJ roll/NOUN similar/ADJ to/ADP a/DET summersault/NOUN#0.0#0.0

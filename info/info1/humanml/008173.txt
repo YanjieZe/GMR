@@ -1,0 +1,3 @@
+the sim appears to push something, then brings both hands to their right ear.#the/DET sim/PROPN appear/VERB to/PART push/VERB something/PRON then/ADV bring/VERB both/DET hand/NOUN to/ADP their/DET right/ADJ ear/NOUN#0.0#0.0
+this person waves forward with his right hand.#this/DET person/NOUN wave/VERB forward/ADV with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+standing, turns blue leg inward, raises red arm to appear to hit, uses both red and blue arms and hands to appear to catches#standing/PROPN turn/VERB blue/ADJ leg/NOUN inward/ADV raise/VERB red/ADJ arm/NOUN to/PART appear/VERB to/PART hit/VERB use/VERB both/CCONJ red/ADJ and/CCONJ blue/ADJ arm/NOUN and/CCONJ hand/NOUN to/PART appear/VERB to/ADP catch/NOUN#0.0#0.0

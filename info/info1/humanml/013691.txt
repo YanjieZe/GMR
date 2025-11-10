@@ -1,0 +1,3 @@
+a person crouches then lunges forward with a kick.#a/DET person/NOUN crouch/NOUN then/ADV lunge/VERB forward/ADV with/ADP a/DET kick/NOUN#0.0#0.0
+the sim is standing with their right foot behind them, stepping forward and kicking with their left foot four times.#the/DET sim/PROPN is/AUX stand/VERB with/ADP their/DET right/ADJ foot/NOUN behind/ADP them/PRON step/VERB forward/ADV and/CCONJ kick/VERB with/ADP their/DET left/ADJ foot/NOUN four/NUM time/NOUN#0.0#10.0
+the person is doing a karate kick with their left foot.#the/DET person/NOUN is/AUX do/VERB a/DET karate/NOUN kick/VERB with/ADP their/DET left/ADJ foot/NOUN#0.0#0.0

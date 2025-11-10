@@ -1,0 +1,3 @@
+a person pushes his arms up, as if he is benching a set.#a/DET person/NOUN push/VERB his/DET arm/NOUN up/ADV as/SCONJ if/SCONJ he/PRON is/AUX bench/VERB a/DET set/NOUN#0.0#0.0
+a person has both hands in the air.#a/DET person/NOUN has/AUX both/DET hand/NOUN in/ADP the/DET air/NOUN#0.0#0.0
+a person lifts weights over their head.#a/DET person/NOUN lift/VERB weight/NOUN over/ADP their/DET head/NOUN#0.0#0.0

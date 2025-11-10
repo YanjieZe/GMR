@@ -1,0 +1,3 @@
+a person shakes his arms like a bird, leaning forward and back#a/DET person/NOUN shake/VERB his/DET arm/NOUN like/SCONJ a/DET bird/NOUN lean/VERB forward/ADV and/CCONJ back/ADV#0.0#0.0
+the person is waving air towards someone.#the/DET person/NOUN is/AUX wave/VERB air/NOUN towards/ADP someone/PRON#0.0#0.0
+a person flaps their arms forward and backward#a/DET person/NOUN flap/VERB their/DET arm/NOUN forward/ADV and/CCONJ backward/ADJ#0.0#0.0

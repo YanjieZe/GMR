@@ -1,0 +1,3 @@
+a person takes seven steps forward while swinging their arms in a walking motion#a/DET person/NOUN take/VERB seven/NUM step/NOUN forward/ADV while/SCONJ swinge/VERB their/DET arm/NOUN in/ADP a/DET walking/NOUN motion/NOUN#0.0#0.0
+a person walks forward casually while swinging their arms.#a/DET person/NOUN walk/VERB forward/ADV casually/ADV while/SCONJ swinge/VERB their/DET arm/NOUN#0.0#0.0
+a person is walking very casually forward#a/DET person/NOUN is/AUX walk/VERB very/ADV casually/ADV forward/ADV#0.0#0.0

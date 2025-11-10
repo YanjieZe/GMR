@@ -1,0 +1,3 @@
+a person moves right shoulder inwards, then moves to throw punch with right fist.#a/DET person/NOUN move/VERB right/ADJ shoulder/NOUN inward/NOUN then/ADV move/VERB to/PART throw/VERB punch/NOUN with/ADP right/ADJ fist/NOUN#0.0#5.0
+a person does a jab.#a/DET person/NOUN does/AUX a/DET jab/NOUN#0.0#0.0
+a person punches with their right hand#a/DET person/NOUN punch/VERB with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0

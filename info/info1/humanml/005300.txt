@@ -1,0 +1,3 @@
+a person dribbles a basketball through their legs then runs quickly.#a/DET person/NOUN dribble/VERB a/DET basketball/NOUN through/ADP their/DET leg/NOUN then/ADV run/VERB quickly/ADV#0.0#0.0
+a person taking turns moving each hand up and down, while taking pivoting steps.#a/DET person/NOUN take/VERB turn/VERB move/VERB each/DET hand/NOUN up/ADP and/CCONJ down/ADV while/SCONJ take/VERB pivot/VERB step/NOUN#0.0#0.0
+a person appears to be playing basketball.#a/DET person/NOUN appear/VERB to/PART be/AUX play/VERB basketball/NOUN#0.0#0.0

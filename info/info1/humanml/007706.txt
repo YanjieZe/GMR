@@ -1,0 +1,3 @@
+person jumps to the right, then jumps to the left, then turns around and walks back to the start before jumping once again.#person/NOUN jump/VERB to/ADP the/DET right/NOUN then/ADV jump/VERB to/ADP the/DET left/NOUN then/ADV turn/VERB around/ADV and/CCONJ walk/VERB back/ADV to/ADP the/DET start/NOUN before/ADP jump/VERB once/ADV again/ADV#0.0#0.0
+a person sidesteps to his right, to his left, walks back and repeats this.#a/DET person/NOUN sidestep/VERB to/ADP his/DET right/NOUN to/ADP his/DET left/NOUN walk/VERB back/ADV and/CCONJ repeat/VERB this/DET#0.0#0.0
+person is hopping back and forth#person/NOUN is/AUX hop/VERB back/ADV and/CCONJ forth/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person stands up, walks backward, kicks something forward, falls, and stands up.#a/DET person/NOUN stand/VERB up/ADP walk/VERB backward/ADV kick/VERB something/PRON forward/ADV fall/VERB and/CCONJ stand/VERB up/ADP#0.0#0.0
+person sets a ball down and then kicks it#person/NOUN set/VERB a/DET ball/NOUN down/ADP and/CCONJ then/ADV kick/VERB it/PRON#0.0#0.0
+the person is playing soccer.#the/DET person/NOUN is/AUX play/VERB soccer/NOUN#0.0#0.0

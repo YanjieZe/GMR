@@ -1,0 +1,3 @@
+a person limping with right leg hurt and going around in a circle.#a/DET person/NOUN limp/VERB with/ADP right/ADJ leg/NOUN hurt/NOUN and/CCONJ go/VERB around/ADV in/ADP a/DET circle/NOUN#0.0#0.0
+a person walks in a circle hunched over limping on their right leg.#a/DET person/NOUN walk/VERB in/ADP a/DET circle/NOUN hunch/VERB over/ADP limp/VERB on/ADP their/DET right/ADJ leg/NOUN#0.0#0.0
+a person is limping with right leg and holding with right arm to right leg while limping in a counter clockwise circle.#a/DET person/NOUN is/AUX limp/VERB with/ADP right/ADJ leg/NOUN and/CCONJ hold/VERB with/ADP right/ADJ arm/NOUN to/ADP right/ADJ leg/NOUN while/SCONJ limp/VERB in/ADP a/DET counter/NOUN clockwise/NOUN circle/NOUN#0.0#0.0

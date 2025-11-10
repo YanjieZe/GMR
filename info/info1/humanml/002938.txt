@@ -1,0 +1,3 @@
+a man walks from side to side while holding his right forearm with left hand, and then walks back.#a/DET man/NOUN walk/VERB from/ADP side/NOUN to/PART side/NOUN while/SCONJ hold/VERB his/DET right/ADJ forearm/NOUN with/ADP left/ADJ hand/NOUN and/CCONJ then/ADV walk/VERB back/ADV#0.0#0.0
+a man has his hands on his side and is looking around.#a/DET man/NOUN has/AUX his/DET hand/NOUN on/ADP his/DET side/NOUN and/CCONJ is/AUX look/VERB around/ADV#0.0#0.0
+the person is holding their back because of a backache.#the/DET person/NOUN is/AUX hold/VERB their/DET back/NOUN because/SCONJ of/ADP a/DET backache/NOUN#0.0#0.0

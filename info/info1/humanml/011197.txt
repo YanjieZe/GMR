@@ -1,0 +1,3 @@
+a person moves forward, and then begins dancing with an unseen partner.#a/DET person/NOUN move/VERB forward/ADV and/CCONJ then/ADV begin/VERB dance/VERB with/ADP an/DET unseen/ADJ partner/NOUN#0.0#0.0
+walking forward while spinning arms then back.#walk/VERB forward/ADV while/SCONJ spin/VERB arm/NOUN then/ADV back/ADV#0.0#0.0
+the person steps forward and then starts dancing to salsa music.#the/DET person/NOUN step/VERB forward/ADV and/CCONJ then/ADV start/VERB dancing/NOUN to/ADP salsa/NOUN music/NOUN#0.0#0.0

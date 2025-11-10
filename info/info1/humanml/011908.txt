@@ -1,0 +1,3 @@
+the person will for them in stopped.#the/DET person/NOUN will/VERB for/ADP them/PRON in/ADP stopped/PROPN#0.0#0.0
+a person stumbles forwards a few steps, stops, and then stumbles ahead again.#a/DET person/NOUN stumble/VERB forward/VERB a/DET few/ADJ step/NOUN stop/VERB and/CCONJ then/ADV stumble/VERB ahead/ADV again/ADV#0.0#0.0
+a person runs from one place to another stops in the middle to rest#a/DET person/NOUN run/VERB from/ADP one/NUM place/NOUN to/ADP another/DET stop/NOUN in/ADP the/DET middle/NOUN to/PART rest/VERB#0.0#0.0

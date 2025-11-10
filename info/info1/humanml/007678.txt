@@ -1,0 +1,3 @@
+the person was turning on the faucet.#the/DET person/NOUN was/AUX turn/VERB on/ADP the/DET faucet/NOUN#0.0#0.0
+a person holds their right hand out.#a/DET person/NOUN hold/VERB their/DET right/ADJ hand/NOUN out/ADP#0.0#0.0
+a person pointing at something with his left hand.#a/DET person/NOUN point/VERB at/ADP something/PRON with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0

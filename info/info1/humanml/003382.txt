@@ -1,0 +1,3 @@
+a person is in a boxing match#a/DET person/NOUN is/AUX in/ADP a/DET boxing/NOUN match/NOUN#0.0#0.0
+a person exercising talks on the phone#a/DET person/NOUN exercise/VERB talk/NOUN on/ADP the/DET phone/NOUN#0.0#0.0
+a person appears to be punching in front of them#a/DET person/NOUN appear/VERB to/PART be/AUX punch/VERB in/ADP front/NOUN of/ADP them/PRON#0.0#0.0

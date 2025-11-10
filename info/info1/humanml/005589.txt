@@ -1,0 +1,3 @@
+the person is making an arm and hand gesture.#the/DET person/NOUN is/AUX make/VERB an/DET arm/NOUN and/CCONJ hand/NOUN gesture/NOUN#0.0#0.0
+a man raises their right arm, sets it down, raises its right arm again, then sets it down, then raises it left arm.#a/DET man/NOUN raise/VERB their/DET right/ADJ arm/NOUN set/VERB it/PRON down/ADP raise/VERB its/DET right/ADJ arm/NOUN again/ADV then/ADV set/VERB it/PRON down/ADP then/ADV raise/VERB it/PRON left/VERB arm/NOUN#0.0#0.0
+a person puts his right hand in the air and then his left.#a/DET person/NOUN put/VERB his/DET right/ADJ hand/NOUN in/ADP the/DET air/NOUN and/CCONJ then/ADV his/DET left/NOUN#0.0#0.0

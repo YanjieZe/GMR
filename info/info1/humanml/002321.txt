@@ -1,0 +1,3 @@
+a man sidesteps to the right before sidestepping back to the left.#a/DET man/NOUN sidestep/VERB to/ADP the/DET right/NOUN before/ADP sidestep/VERB back/ADV to/ADP the/DET left/NOUN#0.0#0.0
+a person side steps to their right then their left#a/DET person/NOUN side/NOUN step/NOUN to/ADP their/DET right/NOUN then/ADV their/DET left/NOUN#0.0#0.0
+the man cross steps to the other side of the rug then slide steps back.#the/DET man/NOUN cross/VERB step/NOUN to/ADP the/DET other/ADJ side/NOUN of/ADP the/DET rug/NOUN then/ADV slide/NOUN step/NOUN back/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+person sat down there and stood up and sat backwards in the chair#person/NOUN sit/VERB down/ADP there/ADV and/CCONJ stand/VERB up/ADP and/CCONJ sit/VERB backwards/ADV in/ADP the/DET chair/NOUN#0.0#0.0
+a person bending over several times#a/DET person/NOUN bend/VERB over/ADP several/ADJ time/NOUN#0.0#0.0
+a person stands from sitting position and then sits back down.#a/DET person/NOUN stand/VERB from/ADP sit/VERB position/NOUN and/CCONJ then/ADV sit/VERB back/ADV down/ADV#0.0#0.0

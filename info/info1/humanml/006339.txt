@@ -1,0 +1,3 @@
+a person starts with their arms out then jogs in place.#a/DET person/NOUN start/VERB with/ADP their/DET arm/NOUN out/ADV then/ADV jog/VERB in/ADP place/NOUN#0.0#0.0
+the sim has both arms extended before bringing them down and moving into a jog in place.#the/DET sim/PROPN has/AUX both/DET arm/NOUN extend/VERB before/ADP bring/VERB them/PRON down/ADP and/CCONJ move/VERB into/ADP a/DET jog/NOUN in/ADP place/NOUN#0.0#0.0
+a person runs in place#a/DET person/NOUN run/VERB in/ADP place/NOUN#0.0#0.0

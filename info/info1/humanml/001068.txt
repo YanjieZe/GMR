@@ -1,0 +1,3 @@
+a person skips to the side#a/DET person/NOUN skip/VERB to/ADP the/DET side/NOUN#0.0#0.0
+a person stumbles to the left.#a/DET person/NOUN stumble/VERB to/ADP the/DET left/NOUN#0.0#0.0
+a person is shoved from the left and sidesteps to the right to regain balance.#a/DET person/NOUN is/AUX shove/VERB from/ADP the/DET left/NOUN and/CCONJ sidestep/VERB to/ADP the/DET right/NOUN to/PART regain/VERB balance/NOUN#0.0#0.0

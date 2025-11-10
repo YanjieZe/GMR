@@ -1,0 +1,3 @@
+the person faced forward and curtsied.#the/DET person/NOUN face/VERB forward/ADV and/CCONJ curtsy/VERB#0.0#0.0
+a person slightly swing the hands#a/DET person/NOUN slightly/ADV swing/VERB the/DET hand/NOUN#0.0#0.0
+a man shrugs his shoulders then raises his arms and then lowers then back down.#a/DET man/NOUN shrug/VERB his/DET shoulder/NOUN then/ADV raise/VERB his/DET arm/NOUN and/CCONJ then/ADV lower/VERB then/ADV back/ADV down/ADP#0.0#0.0

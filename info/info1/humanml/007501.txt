@@ -1,0 +1,3 @@
+person is moving his arms like a zombie.#person/NOUN is/AUX move/VERB his/DET arm/NOUN like/SCONJ a/DET zombie/NOUN#0.0#0.0
+moving hands side to side near head.#move/VERB hand/NOUN side/VERB to/PART side/VERB near/SCONJ head/NOUN#0.0#0.0
+a person is pushing something apart in front of him.#a/DET person/NOUN is/AUX push/VERB something/PRON apart/ADV in/ADP front/NOUN of/ADP him/PRON#0.0#0.0

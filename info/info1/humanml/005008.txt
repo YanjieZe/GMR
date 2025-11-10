@@ -1,0 +1,3 @@
+a person does an upper cut#a/DET person/NOUN does/AUX an/DET upper/ADJ cut/NOUN#0.0#0.0
+a person is doing a boxing motion upwards#a/DET person/NOUN is/AUX do/VERB a/DET boxing/NOUN motion/NOUN upwards/ADV#0.0#0.0
+this person steps left and lifts both hands as if to hit something.#this/DET person/NOUN step/VERB left/VERB and/CCONJ lift/VERB both/DET hand/NOUN as/SCONJ if/SCONJ to/PART hit/VERB something/PRON#0.0#0.0

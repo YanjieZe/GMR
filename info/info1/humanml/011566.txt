@@ -1,0 +1,3 @@
+spinning arms near chest.#spin/VERB arm/NOUN near/SCONJ chest/NOUN#0.0#0.0
+a person does multiple basketball signals.#a/DET person/NOUN does/AUX multiple/ADJ basketball/NOUN signal/NOUN#0.0#0.0
+a person raised the both hands and did some jesture#a/DET person/NOUN raise/VERB the/DET both/DET hand/NOUN and/CCONJ did/AUX some/DET jesture/NOUN#0.0#0.0

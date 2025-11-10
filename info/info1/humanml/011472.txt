@@ -1,0 +1,3 @@
+hands come together and pull back to the right side of the body then the right hand is thrown hard forward.#hand/NOUN come/VERB together/ADV and/CCONJ pull/VERB back/ADV to/ADP the/DET right/ADJ side/NOUN of/ADP the/DET body/NOUN then/ADV the/DET right/ADJ hand/NOUN is/AUX throw/VERB hard/ADV forward/ADV#0.0#0.0
+a person winding up their body to throw something a lot of force#a/DET person/NOUN wind/VERB up/ADP their/DET body/NOUN to/PART throw/VERB something/PRON a/DET lot/NOUN of/ADP force/NOUN#0.0#0.0
+a person grabbed something and throw it, and kept walking forward#a/DET person/NOUN grab/VERB something/PRON and/CCONJ throw/VERB it/PRON and/CCONJ keep/VERB walk/VERB forward/ADV#0.0#0.0

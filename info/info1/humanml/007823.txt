@@ -1,0 +1,3 @@
+figure walks in a semi-circle, and sits down on the floor#figure/NOUN walk/VERB in/ADP a/DET semicircle/NOUN and/CCONJ sit/VERB down/ADP on/ADP the/DET floor/NOUN#0.0#0.0
+person walks to their left then clockwise half circle then person sits down on floor#person/NOUN walk/VERB to/ADP their/DET left/NOUN then/ADV clockwise/VERB half/NOUN circle/NOUN then/ADV person/NOUN sit/VERB down/ADP on/ADP floor/NOUN#0.0#0.0
+a person walks in a turn to the right then sits down#a/DET person/NOUN walk/VERB in/ADP a/DET turn/NOUN to/ADP the/DET right/NOUN then/ADV sit/VERB down/ADP#0.0#0.0

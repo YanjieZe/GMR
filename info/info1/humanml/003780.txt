@@ -1,0 +1,3 @@
+a person clasps its arms together then goes back to standing position with arms hanging.#a/DET person/NOUN clasp/VERB its/DET arm/NOUN together/ADV then/ADV go/VERB back/ADV to/ADP stand/VERB position/NOUN with/ADP arm/NOUN hang/VERB#0.0#0.0
+a person folds their arms over their chest, and then unfolds them.#a/DET person/NOUN fold/VERB their/DET arm/NOUN over/ADP their/DET chest/NOUN and/CCONJ then/ADV unfold/VERB them/PRON#0.0#0.0
+a person stands still and raises and crosses arms.  he then lowers arms to his sides.#a/DET person/NOUN stand/VERB still/ADV and/CCONJ raise/VERB and/CCONJ cross/VERB arm/NOUN he/PRON then/ADV lower/VERB arm/NOUN to/ADP his/DET side/NOUN#0.0#0.0

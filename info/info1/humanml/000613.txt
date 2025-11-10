@@ -1,0 +1,3 @@
+a person walks forward and upward.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ upward/ADV#0.0#0.0
+a person walking on stairs up#a/DET person/NOUN walk/VERB on/ADP stair/NOUN up/ADP#0.0#0.0
+a person stomps up some stairs#a/DET person/NOUN stomp/VERB up/ADP some/DET stair/NOUN#0.0#0.0

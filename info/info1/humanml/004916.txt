@@ -1,0 +1,3 @@
+a person jumps into the air and throws their hands up.#a/DET person/NOUN jump/VERB into/ADP the/DET air/NOUN and/CCONJ throw/VERB their/DET hand/NOUN up/ADP#0.0#0.0
+jumps in place with both legs up then raises hands above head then repeats it#jump/VERB in/ADP place/NOUN with/ADP both/DET leg/NOUN up/ADV then/ADV raise/VERB hand/NOUN above/ADP head/NOUN then/ADV repeat/VERB it/PRON#0.0#4.0
+person jumps up raising arms above head twice#person/NOUN jump/VERB up/ADP raise/VERB arm/NOUN above/ADP head/VERB twice/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+the person was waving at someone with his left hand.#the/DET person/NOUN was/AUX wave/VERB at/ADP someone/PRON with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0
+a person waves with the left hand and then waves with both hands.#a/DET person/NOUN wave/VERB with/ADP the/DET left/ADJ hand/NOUN and/CCONJ then/ADV wave/VERB with/ADP both/DET hand/NOUN#0.0#0.0
+a man weighs enthusiastically with his left-arm, then both arms above his head.#a/DET man/NOUN weigh/VERB enthusiastically/ADV with/ADP his/DET leftarm/NOUN then/ADV both/DET arm/NOUN above/ADP his/DET head/NOUN#0.0#0.0

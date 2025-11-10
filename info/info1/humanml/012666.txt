@@ -1,0 +1,3 @@
+person moves fprward five steps down steps#person/NOUN move/VERB fprward/ADV five/NUM step/NOUN down/ADP step/NOUN#0.0#0.0
+a person walks down a few stairs.#a/DET person/NOUN walk/VERB down/ADP a/DET few/ADJ stair/NOUN#0.0#0.0
+a person walks forward towards a square as a squiggly line forms on the square, stands at the front with legs open over the squiggly line.#a/DET person/NOUN walk/VERB forward/ADV towards/ADP a/DET square/NOUN as/SCONJ a/DET squiggly/ADV line/NOUN form/NOUN on/ADP the/DET square/NOUN stand/VERB at/ADP the/DET front/NOUN with/ADP leg/NOUN open/ADJ over/ADP the/DET squiggly/ADJ line/NOUN#0.0#0.0

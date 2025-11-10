@@ -1,0 +1,3 @@
+person standing walks forward slowly 5 steps  and gestures a throw#person/NOUN stand/VERB walk/VERB forward/ADV slowly/ADV step/NOUN and/CCONJ gesture/VERB a/DET throw/NOUN#0.0#0.0
+a person walking by and giving high five to someone else.#a/DET person/NOUN walk/VERB by/ADV and/CCONJ give/VERB high/ADJ five/NUM to/ADP someone/PRON else/ADV#0.0#0.0
+a person walks forward while raising their right hand and slapping it against something#a/DET person/NOUN walk/VERB forward/ADV while/SCONJ raise/VERB their/DET right/ADJ hand/NOUN and/CCONJ slap/VERB it/PRON against/ADP something/PRON#0.0#0.0

@@ -1,0 +1,3 @@
+person moves arms out to side, lifts them above head bent at elbow, and squats down.#person/NOUN move/VERB arm/NOUN out/ADV to/PART side/VERB lift/VERB them/PRON above/ADP head/NOUN bent/ADJ at/ADP elbow/PROPN and/CCONJ squat/VERB down/ADP#0.0#0.0
+a person raises both arms to their sides and squats legs while raising hands over their head.#a/DET person/NOUN raise/VERB both/DET arm/NOUN to/ADP their/DET side/NOUN and/CCONJ squat/VERB leg/NOUN while/SCONJ raise/VERB hand/NOUN over/ADP their/DET head/NOUN#0.0#0.0
+raising arms up and down then squatting.#raise/VERB arm/NOUN up/ADV and/CCONJ down/ADV then/ADV squat/VERB#0.0#0.0

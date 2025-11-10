@@ -1,0 +1,3 @@
+a man repeatedly lifts both arms toward his face at a 90 degree angle.#a/DET man/NOUN repeatedly/ADV lift/VERB both/DET arm/NOUN toward/ADP his/DET face/NOUN at/ADP a/DET degree/NOUN angle/NOUN#0.0#0.0
+a person bringing hands and arms up to shoulder at same time and back down to sides at same time.#a/DET person/NOUN bring/VERB hand/NOUN and/CCONJ arm/NOUN up/ADV to/ADP shoulder/NOUN at/ADP same/ADJ time/NOUN and/CCONJ back/ADV down/ADV to/ADP side/NOUN at/ADP same/ADJ time/NOUN#0.0#0.0
+aman lifting arms to shoulder.#aman/PROPN lift/VERB arm/NOUN to/ADP shoulder/NOUN#0.0#0.0

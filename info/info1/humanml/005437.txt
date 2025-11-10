@@ -1,0 +1,3 @@
+person lowers body picks something up  with right hand then picks something up with left hand then  twists body   and moves something in front of them#person/NOUN lower/VERB body/NOUN pick/VERB something/PRON up/ADV with/ADP right/ADJ hand/NOUN then/ADV pick/VERB something/PRON up/ADP with/ADP left/ADJ hand/NOUN then/ADV twist/NOUN body/NOUN and/CCONJ move/VERB something/PRON in/ADP front/NOUN of/ADP them/PRON#0.0#0.0
+a person is seen to be washing their hands#a/DET person/NOUN is/AUX see/VERB to/PART be/AUX wash/VERB their/DET hand/NOUN#0.0#0.0
+a person is performing washing with his right arm#a/DET person/NOUN is/AUX perform/VERB wash/VERB with/ADP his/DET right/ADJ arm/NOUN#0.0#0.0

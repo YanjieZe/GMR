@@ -1,0 +1,3 @@
+a man puts both hands on his hips and jumps up and down.#a/DET man/NOUN put/VERB both/DET hand/NOUN on/ADP his/DET hip/NOUN and/CCONJ jump/VERB up/ADV and/CCONJ down/ADV#0.0#0.0
+walking forward then squatting.#walk/VERB forward/ADV then/ADV squat/VERB#0.0#0.0
+a person walks forward then turns around and sits before getting up to walk back.#a/DET person/NOUN walk/VERB forward/ADV then/ADV turn/VERB around/ADP and/CCONJ sit/VERB before/ADP get/VERB up/ADP to/PART walk/VERB back/ADV#0.0#0.0

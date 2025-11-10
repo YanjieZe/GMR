@@ -1,0 +1,3 @@
+person sits down with legs bent with knees up and does a couple rowing motion with arms before standing back up#person/NOUN sit/VERB down/ADP with/ADP leg/NOUN bent/ADJ with/ADP knee/NOUN up/ADP and/CCONJ does/AUX a/DET couple/NOUN rowing/NOUN motion/NOUN with/ADP arm/NOUN before/ADP stand/VERB back/ADV up/ADP#0.0#0.0
+a person sits down, then gesture both hand forward and backwards, then gets back up.#a/DET person/NOUN sit/VERB down/ADV then/ADV gesture/VERB both/DET hand/VERB forward/ADV and/CCONJ backwards/ADV then/ADV get/VERB back/ADV up/ADV#0.0#0.0
+a person sat down, began making rowing motions and stood up.#a/DET person/NOUN sit/VERB down/ADP begin/VERB make/VERB rowing/NOUN motion/NOUN and/CCONJ stand/VERB up/ADP#0.0#0.0

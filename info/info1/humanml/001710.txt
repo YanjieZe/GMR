@@ -1,0 +1,3 @@
+person is dancing arounds arms up.#person/NOUN is/AUX dance/VERB around/VERB arm/NOUN up/ADP#0.0#0.0
+this person was doing some dance move, lifting their knees to the right and left.#this/DET person/NOUN was/AUX do/VERB some/DET dance/NOUN move/NOUN lift/VERB their/DET knee/NOUN to/ADP the/DET right/NOUN and/CCONJ left/VERB#0.0#0.0
+a peson alternates lifting their knees starting with the right while raising their arms.#a/DET peson/NOUN alternate/NOUN lift/VERB their/DET knee/NOUN start/VERB with/ADP the/DET right/NOUN while/SCONJ raise/VERB their/DET arm/NOUN#0.0#0.0

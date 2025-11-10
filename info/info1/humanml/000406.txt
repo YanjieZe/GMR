@@ -1,0 +1,2 @@
+a person walks in a straight diagonal line then makes a sharp turnaround at both ends of the line.#a/DET person/NOUN walk/VERB in/ADP a/DET straight/ADJ diagonal/ADJ line/NOUN then/ADV make/VERB a/DET sharp/ADJ turnaround/NOUN at/ADP both/DET end/NOUN of/ADP the/DET line/NOUN#0.0#0.0
+a person paces back and forth#a/DET person/NOUN pace/VERB back/ADV and/CCONJ forth/ADV#0.0#0.0

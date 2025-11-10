@@ -1,0 +1,3 @@
+a person walks in a counter clockwise motion stopping before completing a full circle.#a/DET person/NOUN walk/VERB in/ADP a/DET counter/NOUN clockwise/NOUN motion/NOUN stop/VERB before/ADP complete/VERB a/DET full/ADJ circle/NOUN#0.0#0.0
+a person walks in a counter clock wise circle#a/DET person/NOUN walk/VERB in/ADP a/DET counter/ADJ clock/NOUN wise/ADJ circle/NOUN#0.0#0.0
+a man walks in an anti-clockwise circle at normal speed#a/DET man/NOUN walk/VERB in/ADP an/DET anticlockwise/NOUN circle/NOUN at/ADP normal/ADJ speed/NOUN#0.0#0.0

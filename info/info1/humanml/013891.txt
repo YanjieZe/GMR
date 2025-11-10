@@ -1,0 +1,3 @@
+the person is john going forward.#the/DET person/NOUN is/AUX john/PROPN go/VERB forward/ADV#0.0#0.0
+a person ran in the place#a/DET person/NOUN run/VERB in/ADP the/DET place/NOUN#0.0#0.0
+a person jogs in place#a/DET person/NOUN jog/VERB in/ADP place/NOUN#0.0#0.0

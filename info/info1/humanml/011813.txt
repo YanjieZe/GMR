@@ -1,0 +1,3 @@
+person uses right hand and arm to move to side then front ways then other movements#person/NOUN use/VERB right/ADJ hand/NOUN and/CCONJ arm/NOUN to/PART move/VERB to/PART side/VERB then/ADV front/ADJ way/NOUN then/ADV other/ADJ movement/NOUN#0.0#0.0
+the person is pretending they are a dog.#the/DET person/NOUN is/AUX pretend/VERB they/PRON are/AUX a/DET dog/NOUN#0.0#0.0
+a person makes a panting motion with their hands in front of their face, and occasionally scratches their ears.#a/DET person/NOUN make/VERB a/DET panting/ADJ motion/NOUN with/ADP their/DET hand/NOUN in/ADP front/NOUN of/ADP their/DET face/NOUN and/CCONJ occasionally/ADV scratch/VERB their/DET ear/NOUN#0.0#0.0

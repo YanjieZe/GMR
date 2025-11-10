@@ -1,0 +1,3 @@
+a person grabbedsomething and lean it somehwere#a/DET person/NOUN grabbedsomethe/VERB and/CCONJ lean/VERB it/PRON somehwere/ADV#0.0#0.0
+a man moves his right arm around in a clockwise circle a few times. his palm is facing down as though he is stirring something.#a/DET man/NOUN move/VERB his/DET right/ADJ arm/NOUN around/ADV in/ADP a/DET clockwise/NOUN circle/NOUN a/DET few/ADJ time/NOUN his/DET palm/NOUN is/AUX face/VERB down/ADP as/SCONJ though/SCONJ he/PRON is/AUX stir/VERB something/PRON#0.0#0.0
+while standing waving your hand in a circular pattern.#while/SCONJ stand/VERB wave/VERB your/DET hand/NOUN in/ADP a/DET circular/ADJ pattern/NOUN#0.0#0.0

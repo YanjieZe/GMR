@@ -1,0 +1,3 @@
+a person is swimming the butterfly.#a/DET person/NOUN is/AUX swim/VERB the/DET butterfly/NOUN#0.0#0.0
+a person is swimming fly stroke#a/DET person/NOUN is/AUX swim/VERB fly/NOUN stroke/PROPN#0.0#0.0
+a person is swimming in a pool.#a/DET person/NOUN is/AUX swim/VERB in/ADP a/DET pool/NOUN#0.0#0.0

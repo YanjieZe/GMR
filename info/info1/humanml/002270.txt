@@ -1,0 +1,2 @@
+the man touches hes head and moves to the left#the/DET man/NOUN touch/VERB he/PRON s/VERB head/NOUN and/CCONJ move/VERB to/ADP the/DET left/NOUN#0.0#0.0
+the person is rubbing around.#the/DET person/NOUN is/AUX rub/VERB around/ADV#0.0#0.0

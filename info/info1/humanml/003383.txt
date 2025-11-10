@@ -1,0 +1,3 @@
+a man is walking in place.#a/DET man/NOUN is/AUX walk/VERB in/ADP place/NOUN#0.0#0.0
+a person walking without moving forward.#a/DET person/NOUN walk/VERB without/ADP move/VERB forward/ADV#0.0#0.0
+the man walks on a treadmill.#the/DET man/NOUN walk/VERB on/ADP a/DET treadmill/NOUN#0.0#0.0

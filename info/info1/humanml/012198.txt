@@ -1,0 +1,3 @@
+a figure stands still for awhile, waiting#a/DET figure/NOUN stand/VERB still/ADV for/ADP awhile/ADV wait/VERB#0.0#0.0
+a person standing still in one location for 10 seconds.#a/DET person/NOUN stand/VERB still/ADV in/ADP one/NUM location/NOUN for/ADP second/NOUN#0.0#0.0
+a person stayed on the place#a/DET person/NOUN stay/VERB on/ADP the/DET place/NOUN#0.0#0.0

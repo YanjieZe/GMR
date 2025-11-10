@@ -1,0 +1,3 @@
+a man does a mach demo of the breast stroke leading with his right hand#a/DET man/NOUN does/AUX a/DET mach/ADJ demo/NOUN of/ADP the/DET breast/NOUN stroke/NOUN lead/VERB with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+the person is stand straight up but is using there arms in a swimming motion as if they were preforming a freestyle swimming stroke.#the/DET person/NOUN is/AUX stand/VERB straight/ADV up/ADV but/CCONJ is/AUX use/VERB there/ADV arm/NOUN in/ADP a/DET swimming/NOUN motion/NOUN as/SCONJ if/SCONJ they/PRON were/AUX preform/VERB a/DET freestyle/ADJ swimming/NOUN stroke/NOUN#0.0#0.0
+the person is moving their arms like they are swimming.#the/DET person/NOUN is/AUX move/VERB their/DET arm/NOUN like/SCONJ they/PRON are/AUX swim/VERB#0.0#0.0

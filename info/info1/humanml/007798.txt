@@ -1,0 +1,3 @@
+a man walks doen what appear to be stairs and stops#a/DET man/NOUN walk/VERB doen/VERB what/PRON appear/VERB to/PART be/AUX stair/NOUN and/CCONJ stop/NOUN#0.0#0.0
+a person steps over something while walking.#a/DET person/NOUN step/VERB over/ADP something/PRON while/SCONJ walk/VERB#0.0#0.0
+the person is stepping over a gap.#the/DET person/NOUN is/AUX step/VERB over/ADP a/DET gap/NOUN#0.0#0.0

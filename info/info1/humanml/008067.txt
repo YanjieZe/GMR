@@ -1,0 +1,3 @@
+the person is boxing with his right arm.#the/DET person/NOUN is/AUX box/VERB with/ADP his/DET right/ADJ arm/NOUN#0.0#0.0
+a person moves into a fighting position, light on their feet, and lightly punches and object.#a/DET person/NOUN move/VERB into/ADP a/DET fighting/NOUN position/NOUN light/NOUN on/ADP their/DET foot/NOUN and/CCONJ lightly/ADV punch/NOUN and/CCONJ object/NOUN#0.0#0.0
+the person jump and punching back and forth at the same time using his left hands nine times and stop.#the/DET person/NOUN jump/NOUN and/CCONJ punching/NOUN back/ADV and/CCONJ forth/ADV at/ADP the/DET same/ADJ time/NOUN use/VERB his/DET left/ADJ hand/NOUN nine/NUM time/NOUN and/CCONJ stop/VERB#0.0#0.0

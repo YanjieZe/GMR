@@ -1,0 +1,3 @@
+person walks back to sit down and pick up the landline to their ear then puts it down and gets up again#person/NOUN walk/VERB back/ADV to/PART sit/VERB down/ADP and/CCONJ pick/VERB up/ADP the/DET landline/NOUN to/ADP their/DET ear/NOUN then/ADV put/VERB it/PRON down/ADP and/CCONJ get/VERB up/ADP again/ADV#0.0#0.0
+someone is walking backwards and sitting down, and then standing back up and taking a step forward.#someone/PRON is/AUX walk/VERB backwards/ADV and/CCONJ sit/VERB down/ADP and/CCONJ then/ADV stand/VERB back/ADV up/ADV and/CCONJ take/VERB a/DET step/NOUN forward/ADV#0.0#0.0
+this person steps backwards, sits then gets back up.#this/DET person/NOUN step/VERB backwards/ADV sit/VERB then/ADV get/VERB back/ADV up/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+the person is drying his right arm.#the/DET person/NOUN is/AUX dry/VERB his/DET right/ADJ arm/NOUN#0.0#0.0
+the person holds something with one hand while scrubbing with the other.#the/DET person/NOUN hold/VERB something/PRON with/ADP one/NUM hand/NOUN while/SCONJ scrub/VERB with/ADP the/DET other/ADJ#0.0#0.0
+a person is drying their right arm#a/DET person/NOUN is/AUX dry/VERB their/DET right/ADJ arm/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks diagonally backwards#a/DET person/NOUN walk/VERB diagonally/ADV backwards/ADV#7.0#9.0
+a man ducks backwards towards his left, then ducks forward towards his right, he then stands up straight and walks backwards towards his left.#a/DET man/NOUN duck/VERB backwards/ADV towards/ADP his/DET left/NOUN then/ADV duck/VERB forward/ADV towards/ADP his/DET right/NOUN he/PRON then/ADV stand/VERB up/ADP straight/ADV and/CCONJ walk/VERB backwards/ADV towards/ADP his/DET left/NOUN#0.0#0.0
+a person dodges things thrown at them by blocking with their left hand and then ducking.#a/DET person/NOUN dodge/VERB thing/NOUN throw/VERB at/ADP them/PRON by/ADP block/VERB with/ADP their/DET left/ADJ hand/NOUN and/CCONJ then/ADV duck/VERB#0.0#0.0

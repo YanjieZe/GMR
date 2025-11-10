@@ -1,0 +1,3 @@
+a man brings both hands toward his face and then puts his arms down.#a/DET man/NOUN bring/VERB both/DET hand/NOUN toward/ADP his/DET face/NOUN and/CCONJ then/ADV put/VERB his/DET arm/NOUN down/ADV#0.0#0.0
+a person raises both their arms then places them back down.#a/DET person/NOUN raise/VERB both/CCONJ their/DET arm/NOUN then/ADV place/VERB them/PRON back/ADV down/ADV#0.0#0.0
+the person raises both hands to his face and holds them there for a few seconds.#the/DET person/NOUN raise/VERB both/DET hand/NOUN to/ADP his/DET face/NOUN and/CCONJ hold/VERB them/PRON there/ADV for/ADP a/DET few/ADJ second/NOUN#0.0#0.0

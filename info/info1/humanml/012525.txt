@@ -1,0 +1,3 @@
+person moves right arm forward in front of face.#person/NOUN move/VERB right/ADJ arm/NOUN forward/ADV in/ADP front/NOUN of/ADP face/NOUN#0.0#0.0
+a person lifts their right hand up above their shoulders.#a/DET person/NOUN lift/VERB their/DET right/ADJ hand/NOUN up/ADP above/ADP their/DET shoulder/NOUN#0.0#0.0
+a person raises his right hand in front of him to shoulder height#a/DET person/NOUN raise/VERB his/DET right/ADJ hand/NOUN in/ADP front/NOUN of/ADP him/PRON to/PART shoulder/VERB height/NOUN#0.0#0.0

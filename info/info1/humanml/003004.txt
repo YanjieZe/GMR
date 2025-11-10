@@ -1,0 +1,3 @@
+it seems like he got something then batted something.#it/PRON seem/VERB like/SCONJ he/PRON get/VERB something/PRON then/ADV bat/VERB something/PRON#0.0#0.0
+a person claps their hands together then throws something.#a/DET person/NOUN clap/VERB their/DET hand/NOUN together/ADV then/ADV throw/VERB something/PRON#0.0#0.0
+a person catches something and throws it back.#a/DET person/NOUN catch/VERB something/PRON and/CCONJ throw/VERB it/PRON back/ADV#0.0#0.0

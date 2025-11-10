@@ -1,0 +1,3 @@
+the person is left in both of his feet up and down.#the/DET person/NOUN is/AUX left/VERB in/ADP both/DET of/ADP his/DET foot/NOUN up/ADV and/CCONJ down/ADV#0.0#0.0
+a person swings their right leg and then swings their left leg.#a/DET person/NOUN swing/VERB their/DET right/ADJ leg/NOUN and/CCONJ then/ADV swing/VERB their/DET left/ADJ leg/NOUN#0.0#0.0
+a person kicks their right leg out while raising their left arm, then kicks their left leg out.#a/DET person/NOUN kick/VERB their/DET right/ADJ leg/NOUN out/ADP while/SCONJ raise/VERB their/DET left/ADJ arm/NOUN then/ADV kick/VERB their/DET left/ADJ leg/NOUN out/ADP#0.0#0.0

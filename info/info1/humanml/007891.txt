@@ -1,0 +1,3 @@
+person leans side and walks hesitates and avoids#person/NOUN lean/VERB side/NOUN and/CCONJ walk/VERB hesitate/NOUN and/CCONJ avoid/NOUN#0.0#0.0
+this person steps very carefully left to right several times.#this/DET person/NOUN step/VERB very/ADV carefully/ADV left/VERB to/ADP right/ADJ several/ADJ time/NOUN#0.0#0.0
+a man tiptoes forward with arms slightly lifted.#a/DET man/NOUN tiptoe/VERB forward/ADV with/ADP arm/NOUN slightly/ADV lift/VERB#0.0#0.0

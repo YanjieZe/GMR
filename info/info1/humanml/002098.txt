@@ -1,0 +1,3 @@
+a person walks down and up in a figure 8 pattern.#a/DET person/NOUN walk/VERB down/ADV and/CCONJ up/ADV in/ADP a/DET figure/NOUN pattern/NOUN#0.0#0.0
+a person walks forward to the right, then left, then circles back.#a/DET person/NOUN walk/VERB forward/ADV to/ADP the/DET right/NOUN then/ADV left/VERB then/ADV circle/VERB back/ADV#0.0#0.0
+a person walks downward towards the left hand side, then walks downward towards the right side, and then walks in a clockwise circle.#a/DET person/NOUN walk/VERB downward/ADV towards/ADP the/DET left/ADJ hand/NOUN side/NOUN then/ADV walk/VERB downward/ADV towards/ADP the/DET right/ADJ side/NOUN and/CCONJ then/ADV walk/VERB in/ADP a/DET clockwise/ADJ circle/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+this person very carefully walks forward.#this/DET person/NOUN very/ADV carefully/ADV walk/VERB forward/ADV#0.0#0.0
+a person walks forward slowly with both of their hands on railings.#a/DET person/NOUN walk/VERB forward/ADV slowly/ADV with/ADP both/DET of/ADP their/DET hand/NOUN on/ADP railing/NOUN#0.0#0.0
+a person is walking forward slowly with the help of placing their right and left hands on some type of support.#a/DET person/NOUN is/AUX walk/VERB forward/ADV slowly/ADV with/ADP the/DET help/NOUN of/ADP place/VERB their/DET right/NOUN and/CCONJ left/VERB hand/NOUN on/ADP some/DET type/NOUN of/ADP support/NOUN#0.0#0.0

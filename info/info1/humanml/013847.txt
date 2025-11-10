@@ -1,0 +1,3 @@
+a person turns to his left and steps on and over a high object, then a lower object, turns and steps on and over the lower object again.#a/DET person/NOUN turn/VERB to/ADP his/DET left/NOUN and/CCONJ step/NOUN on/ADV and/CCONJ over/ADP a/DET high/ADJ object/NOUN then/ADV a/DET lower/ADJ object/NOUN turn/VERB and/CCONJ step/NOUN on/ADV and/CCONJ over/ADP the/DET lower/ADJ object/NOUN again/ADV#0.0#0.0
+a figure walks a path across jagged terrain#a/DET figure/NOUN walk/VERB a/DET path/NOUN across/ADP jagged/ADJ terrain/NOUN#0.0#0.0
+a person is walking on uneven terrain#a/DET person/NOUN is/AUX walk/VERB on/ADP uneven/ADJ terrain/NOUN#0.0#0.0

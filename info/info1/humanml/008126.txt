@@ -1,0 +1,3 @@
+a person is showing dancing moves#a/DET person/NOUN is/AUX show/VERB dance/VERB move/NOUN#0.0#10.0
+this person has his hands under his arms and flaps his elbows.#this/DET person/NOUN has/AUX his/DET hand/NOUN under/ADP his/DET arm/NOUN and/CCONJ flap/VERB his/DET elbow/NOUN#0.0#0.0
+a man places his hands at his armpits, he then flaps his arms like a bird, then wiggles from side to side, then he slaps only the right arm, then flaps only his left arm.#a/DET man/NOUN place/VERB his/DET hand/NOUN at/ADP his/DET armpit/NOUN he/PRON then/ADV flap/VERB his/DET arm/NOUN like/SCONJ a/DET bird/NOUN then/ADV wiggle/VERB from/ADP side/NOUN to/ADP side/NOUN then/ADV he/PRON slap/VERB only/ADV the/DET right/ADJ arm/NOUN then/ADV flap/VERB only/ADV his/DET left/ADJ arm/NOUN#0.0#0.0

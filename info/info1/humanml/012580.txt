@@ -1,0 +1,3 @@
+the person is lifting something from left to right#the/DET person/NOUN is/AUX lift/VERB something/PRON from/ADP left/ADJ to/ADP right/ADJ#0.0#0.0
+a person is moving something from his left hand side to his right hand side#a/DET person/NOUN is/AUX move/VERB something/PRON from/ADP his/DET left/ADJ hand/NOUN side/NOUN to/ADP his/DET right/ADJ hand/NOUN side/NOUN#0.0#10.0
+a person picks something up on their left and moves it to the right.#a/DET person/NOUN pick/VERB something/PRON up/ADP on/ADP their/DET left/NOUN and/CCONJ move/VERB it/PRON to/ADP the/DET right/NOUN#0.0#0.0

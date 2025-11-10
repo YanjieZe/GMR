@@ -1,0 +1,3 @@
+a person is touching an object with both their hands.#a/DET person/NOUN is/AUX touch/VERB an/DET object/NOUN with/ADP both/CCONJ their/DET hand/NOUN#0.0#0.0
+a person is serving something with both hands#a/DET person/NOUN is/AUX serve/VERB something/PRON with/ADP both/DET hand/NOUN#0.0#0.0
+a person walks forward slowly while turning to the left, then raises their right arm and rotates their right hand, then raises their left arm and rotates their left hand.#a/DET person/NOUN walk/VERB forward/ADV slowly/ADV while/SCONJ turn/VERB to/ADP the/DET left/NOUN then/ADV raise/VERB their/DET right/ADJ arm/NOUN and/CCONJ rotate/VERB their/DET right/ADJ hand/NOUN then/ADV raise/VERB their/DET left/ADJ arm/NOUN and/CCONJ rotate/VERB their/DET left/ADJ hand/NOUN#0.0#0.0

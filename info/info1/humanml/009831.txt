@@ -1,0 +1,3 @@
+a person stiffly walks forward and backwards.#a/DET person/NOUN stiffly/ADV walk/VERB forward/ADV and/CCONJ backwards/ADV#0.0#0.0
+someone is walking in a circle.#someone/PRON is/AUX walk/VERB in/ADP a/DET circle/NOUN#0.0#0.0
+a person is walking with their arms and feet wide apart.#a/DET person/NOUN is/AUX walk/VERB with/ADP their/DET arm/NOUN and/CCONJ foot/NOUN wide/ADJ apart/ADV#0.0#0.0

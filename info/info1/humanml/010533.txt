@@ -1,0 +1,3 @@
+a person is pushed backward on his left side.#a/DET person/NOUN is/AUX push/VERB backward/ADV on/ADP his/DET left/ADJ side/NOUN#0.0#0.0
+a person gets pushed backwards#a/DET person/NOUN get/VERB push/VERB backwards/ADV#0.0#0.0
+a man takes a step back#a/DET man/NOUN take/VERB a/DET step/NOUN back/ADV#0.0#0.0

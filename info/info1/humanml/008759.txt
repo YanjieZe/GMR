@@ -1,0 +1,3 @@
+a person repeatedly holds both hands above their head and then swings them forward and down rapidly with force.#a/DET person/NOUN repeatedly/ADV hold/VERB both/DET hand/NOUN above/ADP their/DET head/NOUN and/CCONJ then/ADV swing/VERB them/PRON forward/ADV and/CCONJ down/ADV rapidly/ADV with/ADP force/NOUN#0.0#0.0
+swinging hands up and down.#swinge/VERB hand/NOUN up/ADV and/CCONJ down/ADV#0.0#0.0
+a person holds their hands together and throws them over each shoulder and back towards the ground in front of him.#a/DET person/NOUN hold/VERB their/DET hand/NOUN together/ADV and/CCONJ throw/VERB them/PRON over/ADP each/DET shoulder/NOUN and/CCONJ back/ADV towards/ADP the/DET ground/NOUN in/ADP front/NOUN of/ADP him/PRON#0.0#0.0

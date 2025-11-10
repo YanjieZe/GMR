@@ -1,0 +1,3 @@
+this man is taking pictures of something.#this/DET man/NOUN is/AUX take/VERB picture/NOUN of/ADP something/PRON#0.0#0.0
+a standing person rotates left and then right with their hands raised together slightly above head level.#a/DET stand/VERB person/NOUN rotate/VERB left/VERB and/CCONJ then/ADV right/ADV with/ADP their/DET hand/NOUN raise/VERB together/ADV slightly/ADV above/ADP head/NOUN level/NOUN#0.0#0.0
+a person who seems to call something or shout something out#a/DET person/NOUN who/PRON seem/VERB to/PART call/VERB something/PRON or/CCONJ shout/VERB something/PRON out/ADP#0.0#0.0

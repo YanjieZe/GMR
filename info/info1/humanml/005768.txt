@@ -1,0 +1,3 @@
+a person picks up something and puts it to the side.#a/DET person/NOUN pick/VERB up/ADP something/PRON and/CCONJ put/VERB it/PRON to/ADP the/DET side/NOUN#0.0#0.0
+a man picks something from the left side and puts it on the right side.#a/DET man/NOUN pick/VERB something/PRON from/ADP the/DET left/ADJ side/NOUN and/CCONJ put/VERB it/PRON on/ADP the/DET right/ADJ side/NOUN#0.0#0.0
+person move something from the left to the right.#person/NOUN move/VERB something/PRON from/ADP the/DET left/NOUN to/ADP the/DET right/NOUN#0.0#0.0

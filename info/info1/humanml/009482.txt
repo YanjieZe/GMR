@@ -1,0 +1,3 @@
+he walks firmly back and forth, swinging his hands in sync with his steeps.#he/PRON walk/VERB firmly/ADV back/ADV and/CCONJ forth/ADV swinge/VERB his/DET hand/NOUN in/ADP sync/NOUN with/ADP his/DET steep/NOUN#0.0#0.0
+a man steps forward, then turns around and walks back in the opposite direction, before turning again and ending in a standing position.#a/DET man/NOUN step/VERB forward/ADV then/ADV turn/VERB around/ADV and/CCONJ walk/VERB back/ADV in/ADP the/DET opposite/ADJ direction/NOUN before/ADP turn/VERB again/ADV and/CCONJ end/VERB in/ADP a/DET standing/ADJ position/NOUN#0.0#0.0
+the person is walking straight forward and then backwards.#the/DET person/NOUN is/AUX walk/VERB straight/ADV forward/ADV and/CCONJ then/ADV backwards/ADV#0.0#0.0

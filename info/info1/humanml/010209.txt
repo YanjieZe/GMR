@@ -1,0 +1,3 @@
+the person is dancing the waltz.#the/DET person/NOUN is/AUX dance/VERB the/DET waltz/NOUN#0.0#0.0
+a person is doing the waltz dance#a/DET person/NOUN is/AUX do/VERB the/DET waltz/NOUN dance/NOUN#0.0#0.0
+a person is dancing, arms held up as to hold another person's shoulders, moving back and forth in a counterclockwise pattern.#a/DET person/NOUN is/AUX dance/VERB arm/NOUN hold/VERB up/ADP as/SCONJ to/PART hold/VERB another/DET person/NOUN shoulder/NOUN move/VERB back/ADV and/CCONJ forth/ADV in/ADP a/DET counterclockwise/ADJ pattern/NOUN#0.0#0.0

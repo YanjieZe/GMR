@@ -1,0 +1,3 @@
+the person is doing a tough guy walk.#the/DET person/NOUN is/AUX do/VERB a/DET tough/ADJ guy/NOUN walk/NOUN#0.0#0.0
+a person walks slowly like they will fight someone.#a/DET person/NOUN walk/VERB slowly/ADV like/SCONJ they/PRON will/VERB fight/VERB someone/PRON#0.0#0.0
+person walks slowly in a clockwise direction and hunches body back with elbows#person/NOUN walk/VERB slowly/ADV in/ADP a/DET clockwise/ADJ direction/NOUN and/CCONJ hunch/NOUN body/NOUN back/ADV with/ADP elbow/NOUN#0.0#0.0

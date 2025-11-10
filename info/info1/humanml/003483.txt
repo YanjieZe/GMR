@@ -1,0 +1,3 @@
+a man stands still and then starts dancing around.#a/DET man/NOUN stand/VERB still/ADV and/CCONJ then/ADV start/VERB dance/VERB around/ADV#0.0#0.0
+the man does a salsa dance all around the floor.#the/DET man/NOUN does/AUX a/DET salsa/NOUN dance/NOUN all/ADV around/ADP the/DET floor/NOUN#0.0#0.0
+a person is dancing and then twirls around.#a/DET person/NOUN is/AUX dance/VERB and/CCONJ then/ADV twirl/VERB around/ADV#0.0#0.0

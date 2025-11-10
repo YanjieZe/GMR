@@ -1,0 +1,3 @@
+a person looks at their watch on their left wrist.#a/DET person/NOUN look/VERB at/ADP their/DET watch/NOUN on/ADP their/DET left/ADJ wrist/NOUN#0.0#0.0
+person bends left arm and lifts it as if to check a watch and then brings it back down#person/NOUN bend/VERB left/VERB arm/NOUN and/CCONJ lift/VERB it/PRON as/SCONJ if/SCONJ to/PART check/VERB a/DET watch/NOUN and/CCONJ then/ADV bring/VERB it/PRON back/ADV down/ADP#0.0#0.0
+this person is standing while looking at his watch on his left wrist.#this/DET person/NOUN is/AUX stand/VERB while/SCONJ look/VERB at/ADP his/DET watch/NOUN on/ADP his/DET left/ADJ wrist/NOUN#0.0#0.0

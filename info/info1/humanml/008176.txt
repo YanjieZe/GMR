@@ -1,0 +1,3 @@
+a person is walking taking big steps across the floor then suddenly stops.#a/DET person/NOUN is/AUX walk/VERB take/VERB big/ADJ step/NOUN across/ADP the/DET floor/NOUN then/ADV suddenly/ADV stop/VERB#0.0#0.0
+a figure darts forward rapidly then stops#a/DET figure/NOUN dart/NOUN forward/ADV rapidly/ADV then/ADV stop/VERB#0.0#0.0
+a person runs forward#a/DET person/NOUN run/VERB forward/ADV#0.0#0.0

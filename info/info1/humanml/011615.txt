@@ -1,0 +1,3 @@
+the right hand is straight up in the air as the left hand is straight down back and forth.#the/DET right/ADJ hand/NOUN is/AUX straight/ADV up/ADV in/ADP the/DET air/NOUN as/SCONJ the/DET left/ADJ hand/NOUN is/AUX straight/ADV down/ADV back/ADV and/CCONJ forth/ADV#0.0#0.0
+a person raises their right hand and shivers.#a/DET person/NOUN raise/VERB their/DET right/ADJ hand/NOUN and/CCONJ shiver/NOUN#0.0#0.0
+a person lifts his right arm.#a/DET person/NOUN lift/VERB his/DET right/ADJ arm/NOUN#0.0#0.0

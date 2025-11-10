@@ -1,0 +1,3 @@
+a man picks up a water nozzle with his right hand and proceeds to wash something off then places nozzle back.#a/DET man/NOUN pick/VERB up/ADP a/DET water/NOUN nozzle/NOUN with/ADP his/DET right/ADJ hand/NOUN and/CCONJ proceed/VERB to/PART wash/VERB something/PRON off/ADP then/ADV place/VERB nozzle/VERB back/ADV#0.0#0.0
+person bends and picks something with right hand. then moves right hand in air#person/NOUN bend/VERB and/CCONJ pick/VERB something/PRON with/ADP right/ADJ hand/NOUN then/ADV move/VERB right/ADJ hand/NOUN in/ADP air/NOUN#0.0#0.0
+a man picks something up with his right arm, shakes it, then puts it back.#a/DET man/NOUN pick/VERB something/PRON up/ADP with/ADP his/DET right/ADJ arm/NOUN shake/VERB it/PRON then/ADV put/VERB it/PRON back/ADV#0.0#0.0

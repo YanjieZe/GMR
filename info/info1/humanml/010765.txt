@@ -1,0 +1,3 @@
+the man is doing step over gap#the/DET man/NOUN is/AUX do/VERB step/NOUN over/ADP gap/NOUN#0.0#0.0
+a person walking right across a street#a/DET person/NOUN walk/VERB right/ADV across/ADP a/DET street/NOUN#0.0#0.0
+a person walk like he is stepping over and walking foreword.#a/DET person/NOUN walk/VERB like/SCONJ he/PRON is/AUX step/VERB over/ADP and/CCONJ walk/VERB foreword/NOUN#0.0#0.0

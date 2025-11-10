@@ -1,0 +1,3 @@
+a muscular man walk forward and pick up heavy subject and walk again#a/DET muscular/ADJ man/NOUN walk/VERB forward/ADV and/CCONJ pick/VERB up/ADP heavy/ADJ subject/NOUN and/CCONJ walk/VERB again/ADV#0.0#0.0
+a person is taking large, wide steps and flexing.#a/DET person/NOUN is/AUX take/VERB large/ADJ wide/ADJ step/NOUN and/CCONJ flexing/NOUN#0.0#0.0
+a very rigid looking person flexes for the camera and walks away.#a/DET very/ADV rigid/ADJ look/VERB person/NOUN flexes/NOUN for/ADP the/DET camera/NOUN and/CCONJ walk/VERB away/ADV#0.0#0.0

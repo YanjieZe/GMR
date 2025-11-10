@@ -1,0 +1,3 @@
+person siting down dials phone then stands up to walk while taking then sits back down and ends call#person/NOUN site/VERB down/ADP dial/NOUN phone/NOUN then/ADV stand/VERB up/ADP to/PART walk/VERB while/SCONJ take/VERB then/ADV sit/VERB back/ADV down/ADV and/CCONJ end/VERB call/VERB#0.0#0.0
+a man is sitting and reading then stands up, walks around, and sits back down.#a/DET man/NOUN is/AUX sit/VERB and/CCONJ read/VERB then/ADV stand/VERB up/ADP walk/VERB around/ADV and/CCONJ sit/VERB back/ADV down/ADV#0.0#0.0
+a seated perosn talks on the phone and then stands to walk in a circle.#a/DET seat/VERB perosn/ADJ talk/NOUN on/ADP the/DET phone/NOUN and/CCONJ then/ADV stand/VERB to/PART walk/VERB in/ADP a/DET circle/NOUN#0.0#0.0

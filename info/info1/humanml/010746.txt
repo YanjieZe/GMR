@@ -1,0 +1,3 @@
+a person leans forward and raises his arms above his head. then walks backwards.#a/DET person/NOUN lean/VERB forward/ADV and/CCONJ raise/VERB his/DET arm/NOUN above/ADP his/DET head/NOUN then/ADV walk/VERB backwards/ADV#0.0#0.0
+he holds something then stops#he/PRON hold/VERB something/PRON then/ADV stop/VERB#0.0#0.0
+the man flapses arms like a bird#the/DET man/NOUN flapse/VERB arm/NOUN like/SCONJ a/DET bird/NOUN#0.0#0.0

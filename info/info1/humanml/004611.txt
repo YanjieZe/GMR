@@ -1,0 +1,3 @@
+a man walks forward, reaches the edge of the shaded area and halts#a/DET man/NOUN walk/VERB forward/ADV reach/VERB the/DET edge/NOUN of/ADP the/DET shaded/ADJ area/NOUN and/CCONJ halt/NOUN#0.0#0.0
+figure walks forward 5 steps with arms down by side#figure/NOUN walk/VERB forward/ADV step/NOUN with/ADP arm/NOUN down/ADV by/ADP side/NOUN#0.0#0.0
+a person walking slowly while appearing to sway side to side.#a/DET person/NOUN walk/VERB slowly/ADV while/SCONJ appear/VERB to/PART sway/VERB side/NOUN to/PART side/VERB#0.0#0.0

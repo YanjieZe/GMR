@@ -1,0 +1,3 @@
+pauses then takes a big step to the left.#pause/NOUN then/ADV take/VERB a/DET big/ADJ step/NOUN to/ADP the/DET left/NOUN#0.0#0.0
+a person stepping to the left#a/DET person/NOUN step/VERB to/ADP the/DET left/NOUN#0.0#0.0
+after standing still for a few seconds, the man makes on step to the left sideways.#after/ADP stand/VERB still/ADV for/ADP a/DET few/ADJ second/NOUN the/DET man/NOUN make/VERB on/ADP step/NOUN to/ADP the/DET left/NOUN sideway/NOUN#0.0#0.0

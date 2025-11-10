@@ -1,0 +1,3 @@
+the person is walking forward.#the/DET person/NOUN is/AUX walk/VERB forward/ADV#0.0#0.0
+a person walks slowly with a slight sway in each step.#a/DET person/NOUN walk/VERB slowly/ADV with/ADP a/DET slight/ADJ sway/NOUN in/ADP each/DET step/NOUN#0.0#0.0
+a man walks forward with his arms at his side.#a/DET man/NOUN walk/VERB forward/ADV with/ADP his/DET arm/NOUN at/ADP his/DET side/NOUN#0.0#0.0

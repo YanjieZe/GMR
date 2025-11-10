@@ -1,0 +1,3 @@
+a person hops 5 times on his right legs walks backwards 4 steps then forward 4 steps#a/DET person/NOUN hop/VERB time/NOUN on/ADP his/DET right/ADJ leg/NOUN walk/VERB backwards/ADV step/NOUN then/ADV forward/ADV step/NOUN#0.0#0.0
+hold the left leg and jumping go backward and come forward.#hold/VERB the/DET left/ADJ leg/NOUN and/CCONJ jumping/NOUN go/VERB backward/ADV and/CCONJ come/VERB forward/ADV#0.0#0.0
+a person hops on their right foot, walks backward, and walks back forward to their origin.#a/DET person/NOUN hop/VERB on/ADP their/DET right/ADJ foot/NOUN walk/VERB backward/ADV and/CCONJ walk/VERB back/ADV forward/ADV to/ADP their/DET origin/NOUN#0.0#0.0

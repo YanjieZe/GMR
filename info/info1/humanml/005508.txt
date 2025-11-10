@@ -1,0 +1,3 @@
+a person puts their hands on their abdomen and jumps then moves a few steps to the side.#a/DET person/NOUN put/VERB their/DET hand/NOUN on/ADP their/DET abdoman/NOUN and/CCONJ jump/VERB then/ADV move/VERB a/DET few/ADJ step/NOUN to/ADP the/DET side/NOUN#0.0#0.0
+a person that jumps on one spot and then steps to the left#a/DET person/NOUN that/DET jump/VERB on/ADP one/NUM spot/NOUN and/CCONJ then/ADV step/VERB to/ADP the/DET left/NOUN#0.0#0.0
+person slightly jumps into the air, then shuffles to their left.#person/NOUN slightly/ADV jump/VERB into/ADP the/DET air/NOUN then/ADV shuffle/VERB to/ADP their/DET left/NOUN#0.0#0.0

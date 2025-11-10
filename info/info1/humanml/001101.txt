@@ -1,0 +1,3 @@
+a person is holding their arms up by their face and then throws a punch with their right hand#a/DET person/NOUN is/AUX hold/VERB their/DET arm/NOUN up/ADP by/ADP their/DET face/NOUN and/CCONJ then/ADV throw/VERB a/DET punch/NOUN with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+a person swinging their right arm down and back up to have hands in front of face.#a/DET person/NOUN swinge/VERB their/DET right/ADJ arm/NOUN down/ADP and/CCONJ back/VERB up/ADP to/PART have/AUX hand/NOUN in/ADP front/NOUN of/ADP face/NOUN#0.0#0.0
+person  raises both arms and moves right arm in a forward motion#person/NOUN raise/VERB both/CCONJ arm/NOUN and/CCONJ move/NOUN right/ADJ arm/NOUN in/ADP a/DET forward/ADJ motion/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+person walked forwards and backwards very slowly.#person/NOUN walk/VERB forwards/ADV and/CCONJ backwards/ADV very/ADV slowly/ADV#0.0#0.0
+a person walks forward, turns around and walks back.#a/DET person/NOUN walk/VERB forward/ADV turn/VERB around/ADV and/CCONJ walk/VERB back/ADV#0.0#0.0
+a figure stumbles along a path criss crossing their feet.#a/DET figure/NOUN stumble/NOUN along/ADP a/DET path/NOUN criss/NOUN cross/VERB their/DET foot/NOUN#0.0#0.0

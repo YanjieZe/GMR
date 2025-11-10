@@ -1,0 +1,3 @@
+a person is standing still, then takes a few steps forward and stops.#a/DET person/NOUN is/AUX stand/VERB still/ADV then/ADV take/VERB a/DET few/ADJ step/NOUN forward/ADV and/CCONJ stop/NOUN#0.0#0.0
+a person hesitates before walking forward#a/DET person/NOUN hesitate/VERB before/ADP walk/VERB forward/ADV#0.0#0.0
+a person walks forward at a normal pace.#a/DET person/NOUN walk/VERB forward/ADV at/ADP a/DET normal/ADJ pace/NOUN#0.0#0.0

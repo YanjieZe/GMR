@@ -1,0 +1,2 @@
+he is running from left to right.#he/PRON is/AUX run/VERB from/ADP left/VERB to/ADP right/NOUN#0.0#0.0
+a person is running forward and diagonal to the left.#a/DET person/NOUN is/AUX run/VERB forward/ADV and/CCONJ diagonal/ADJ to/ADP the/DET left/NOUN#0.0#0.0

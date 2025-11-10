@@ -1,0 +1,3 @@
+a person doing a whale impression#a/DET person/NOUN do/VERB a/DET whale/ADJ impression/NOUN#0.0#0.0
+this person is bent forward as if to look for something all around.#this/DET person/NOUN is/AUX bent/ADJ forward/ADV as/SCONJ if/SCONJ to/PART look/VERB for/ADP something/PRON all/ADV around/ADV#0.0#0.0
+person bends over three separate times with torso moving side to side#person/NOUN bend/VERB over/ADP three/NUM separate/ADJ time/NOUN with/ADP torso/NOUN move/VERB side/NOUN to/PART side/VERB#0.0#0.0

@@ -1,0 +1,3 @@
+the upper body slightly turns to the right and back with hands dangling by the side.#the/DET upper/ADJ body/NOUN slightly/ADV turn/VERB to/ADP the/DET right/NOUN and/CCONJ back/ADV with/ADP hand/NOUN dangle/VERB by/ADP the/DET side/NOUN#0.0#0.0
+the person stands and briefly moves.#the/DET person/NOUN stand/VERB and/CCONJ briefly/ADV move/VERB#0.0#0.0
+the upper body turns quickly to its right. it's arms bounce from the movement.#the/DET upper/ADJ body/NOUN turn/VERB quickly/ADV to/ADP its/DET right/NOUN it/PRON arm/NOUN bounce/NOUN from/ADP the/DET movement/NOUN#0.0#5.0

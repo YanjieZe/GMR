@@ -1,0 +1,3 @@
+a person lifts a foot up to their face to inspect it.#a/DET person/NOUN lift/VERB a/DET foot/NOUN up/ADP to/ADP their/DET face/NOUN to/PART inspect/VERB it/PRON#0.0#0.0
+a person rests their left hand on an object and then looks at their left foot holding it with their right hand.#a/DET person/NOUN rest/VERB their/DET left/ADJ hand/NOUN on/ADP an/DET object/NOUN and/CCONJ then/ADV look/VERB at/ADP their/DET left/ADJ foot/NOUN hold/VERB it/PRON with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+a person grabbed something with left hand and grabbed with right hand a leg#a/DET person/NOUN grab/VERB something/PRON with/ADP left/ADJ hand/NOUN and/CCONJ grab/VERB with/ADP right/ADJ hand/NOUN a/DET leg/NOUN#0.0#0.0

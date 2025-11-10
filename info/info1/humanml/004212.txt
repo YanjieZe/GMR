@@ -1,0 +1,3 @@
+a person lifts their arms up sideways and hops once.#a/DET person/NOUN lift/VERB their/DET arm/NOUN up/ADP sideways/ADV and/CCONJ hop/VERB once/ADV#0.0#0.0
+the person has arms stretched outwards. he leans back slightly. he jumps forward with both legs.#the/DET person/NOUN has/AUX arm/NOUN stretch/VERB outward/NOUN he/PRON lean/VERB back/ADV slightly/ADV he/PRON jump/VERB forward/ADV with/ADP both/DET leg/NOUN#0.0#0.0
+a person hops over a small, invisible obstacle#a/DET person/NOUN hop/VERB over/ADP a/DET small/ADJ invisible/ADJ obstacle/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person walking in around in a specific pattern.#a/DET person/NOUN walk/VERB in/ADP around/ADV in/ADP a/DET specific/ADJ pattern/NOUN#0.0#0.0
+the person is walking took one step with his legs crossed over and went around.#the/DET person/NOUN is/AUX walk/VERB take/VERB one/NUM step/NOUN with/ADP his/DET leg/NOUN cross/VERB over/ADV and/CCONJ go/VERB around/ADV#0.0#0.0
+a person walks in a criss-cross fashion, they seem maybe lost, drunk, or under the influence.#a/DET person/NOUN walk/VERB in/ADP a/DET crisscross/NOUN fashion/NOUN they/PRON seem/VERB maybe/ADV lose/VERB drunk/ADJ or/CCONJ under/ADP the/DET influence/NOUN#0.0#0.0

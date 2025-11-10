@@ -1,0 +1,3 @@
+a person walks forward and then steps in place.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ then/ADV step/VERB in/ADP place/NOUN#0.0#0.0
+a person walks forward in a normal gait oh, then take several steps upwards as if on stairs.#a/DET person/NOUN walk/VERB forward/ADV in/ADP a/DET normal/ADJ gait/NOUN oh/INTJ then/ADV take/VERB several/ADJ step/NOUN upwards/ADV as/SCONJ if/SCONJ on/ADP stair/NOUN#0.0#0.0
+the persin walked forwards and then backwards.#the/DET persin/NOUN walk/VERB forwards/ADV and/CCONJ then/ADV backwards/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+the sim appears to be holding an object in their left arm, using their right hand to stir the contents.#the/DET sim/PROPN appear/VERB to/PART be/AUX hold/VERB an/DET object/NOUN in/ADP their/DET left/ADJ arm/NOUN use/VERB their/DET right/ADJ hand/NOUN to/PART stir/VERB the/DET content/NOUN#0.0#0.0
+a person who seems to hold a bowl and stirring something#a/DET person/NOUN who/PRON seem/VERB to/PART hold/VERB a/DET bowl/NOUN and/CCONJ stir/VERB something/PRON#0.0#0.0
+a person mixes batter.#a/DET person/NOUN mix/VERB batter/NOUN#0.0#0.0

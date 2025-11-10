@@ -1,0 +1,3 @@
+a figure climbs down into water and then swims#a/DET figure/NOUN climb/VERB down/ADP into/ADP water/NOUN and/CCONJ then/ADV swim/VERB#0.0#0.0
+a person crawls down and begins to swing his arms and legs as if swiming#a/DET person/NOUN crawl/VERB down/ADP and/CCONJ begin/VERB to/PART swing/VERB his/DET arm/NOUN and/CCONJ leg/NOUN as/SCONJ if/SCONJ swiming/NOUN#0.0#0.0
+a person lays on their stomach, then performs circular motions with their arms and feet.#a/DET person/NOUN lay/VERB on/ADP their/DET stomach/NOUN then/ADV perform/VERB circular/ADJ motion/NOUN with/ADP their/DET arm/NOUN and/CCONJ foot/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person jogging in a circle then jogging straight and then to the right#a/DET person/NOUN jog/VERB in/ADP a/DET circle/NOUN then/ADV jog/VERB straight/ADV and/CCONJ then/ADV to/ADP the/DET right/NOUN#0.0#0.0
+a person runs, using short strides, first counterclockwise from 9 o'clock to 12 o'clock, then forward, and finally clockwise from 6 o'clock to 10 o'clock.#a/DET person/NOUN run/VERB use/VERB short/ADJ stride/NOUN first/ADJ counterclockwise/NOUN from/ADP to/ADP then/ADV forward/ADV and/CCONJ finally/ADV clockwise/VERB from/ADP to/ADP#0.0#0.0
+a man runs in a cirlcle.#a/DET man/NOUN run/VERB in/ADP a/DET cirlcle/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+person standing, raises left hand to look at watch and returns hand down to his side#person/NOUN stand/VERB raise/VERB left/ADJ hand/NOUN to/PART look/VERB at/ADP watch/NOUN and/CCONJ return/NOUN hand/VERB down/ADP to/ADP his/DET side/NOUN#0.0#0.0
+a man looks at his wrist.#a/DET man/NOUN look/VERB at/ADP his/DET wrist/NOUN#0.0#0.0
+the man look at his watch on his left wrist.#the/DET man/NOUN look/VERB at/ADP his/DET watch/NOUN on/ADP his/DET left/ADJ wrist/NOUN#0.0#0.0

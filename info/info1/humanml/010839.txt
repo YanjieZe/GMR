@@ -1,0 +1,3 @@
+a person makes a shallow bow, before standing back straight.#a/DET person/NOUN make/VERB a/DET shallow/ADJ bow/NOUN before/ADP stand/VERB back/ADV straight/ADV#0.0#0.0
+a person bedn the upper core body#a/DET person/NOUN bedn/NOUN the/DET upper/ADJ core/NOUN body/NOUN#0.0#0.0
+this person from a standing position bends forward as if to bow.#this/DET person/NOUN from/ADP a/DET standing/ADJ position/NOUN bend/VERB forward/ADV as/SCONJ if/SCONJ to/PART bow/VERB#0.0#0.0

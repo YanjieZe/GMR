@@ -1,0 +1,3 @@
+a person sitting down raises its left hand.#a/DET person/NOUN sit/VERB down/ADP raise/VERB its/DET left/ADJ hand/NOUN#0.0#0.0
+a man lifts his left arm towards his face.#a/DET man/NOUN lift/VERB his/DET left/ADJ arm/NOUN towards/ADP his/DET face/NOUN#0.0#0.0
+he is sitting while his right hand touching the knee and left hand moving to the head#he/PRON is/AUX sit/VERB while/SCONJ his/DET right/ADJ hand/NOUN touch/VERB the/DET knee/NOUN and/CCONJ left/VERB hand/NOUN move/VERB to/ADP the/DET head/NOUN#0.0#0.0

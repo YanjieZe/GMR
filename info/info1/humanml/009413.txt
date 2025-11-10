@@ -1,0 +1,3 @@
+a person balances along a beam#a/DET person/NOUN balance/VERB along/ADP a/DET beam/NOUN#0.0#0.0
+a person walks straightforward, one foot in front of the other, like they are on a tight rope#a/DET person/NOUN walk/VERB straightforward/ADV one/NUM foot/NOUN in/ADP front/NOUN of/ADP the/DET other/ADJ like/SCONJ they/PRON are/AUX on/ADP a/DET tight/ADJ rope/NOUN#0.0#0.0
+this person walks a straight line with arms extended out to the sides.#this/DET person/NOUN walk/VERB a/DET straight/ADJ line/NOUN with/ADP arm/NOUN extend/VERB out/ADP to/ADP the/DET side/NOUN#0.0#0.0

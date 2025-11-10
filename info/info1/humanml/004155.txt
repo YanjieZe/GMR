@@ -1,0 +1,3 @@
+a person jumps forward very quickly#a/DET person/NOUN jump/VERB forward/ADV very/ADV quickly/ADV#0.0#0.0
+a person standing, loads up and does a big jumps forward, landing gracefully.#a/DET person/NOUN stand/VERB load/VERB up/ADP and/CCONJ does/AUX a/DET big/ADJ jump/NOUN forward/ADV land/VERB gracefully/ADV#0.0#0.0
+a person long jumps forward.#a/DET person/NOUN long/ADJ jump/VERB forward/ADV#0.0#0.0

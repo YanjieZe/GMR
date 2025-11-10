@@ -1,0 +1,3 @@
+a man stands casually with his arms to his sides than takes 4 slow steps backwards starting with his left and then stops.#a/DET man/NOUN stand/VERB casually/ADV with/ADP his/DET arm/NOUN to/ADP his/DET side/NOUN than/SCONJ take/VERB slow/ADJ step/NOUN backwards/ADV start/VERB with/ADP his/DET left/NOUN and/CCONJ then/ADV stop/VERB#0.0#0.0
+a person standing and moves gently backwards with his back.#a/DET person/NOUN stand/VERB and/CCONJ move/NOUN gently/ADV backwards/ADV with/ADP his/DET back/NOUN#0.0#0.0
+a person walks directly backwards with arms swinging very lightly.#a/DET person/NOUN walk/VERB directly/ADV backwards/ADV with/ADP arm/NOUN swinge/VERB very/ADV lightly/ADV#0.0#0.0

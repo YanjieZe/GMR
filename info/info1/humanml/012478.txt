@@ -1,0 +1,3 @@
+the person is doing the salsa dance.#the/DET person/NOUN is/AUX do/VERB the/DET salsa/NOUN dance/NOUN#0.0#0.0
+a person is dancing in a circle.#a/DET person/NOUN is/AUX dance/VERB in/ADP a/DET circle/NOUN#0.0#0.0
+a character shuffles towards camera and proceeds to dances around  in a clockwise circle.#a/DET character/NOUN shuffle/VERB towards/ADP camera/NOUN and/CCONJ proceed/VERB to/ADP dance/NOUN around/ADP in/ADP a/DET clockwise/ADJ circle/NOUN#0.0#0.0

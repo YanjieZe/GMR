@@ -1,0 +1,3 @@
+a person throws a ball with their right arm.#a/DET person/NOUN throw/VERB a/DET ball/NOUN with/ADP their/DET right/ADJ arm/NOUN#0.0#0.0
+a person throws something very hard with their right hand.#a/DET person/NOUN throw/VERB something/PRON very/ADV hard/ADJ with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+he throws a ball without stepping into it.#he/PRON throw/VERB a/DET ball/NOUN without/ADP step/VERB into/ADP it/PRON#0.0#0.0

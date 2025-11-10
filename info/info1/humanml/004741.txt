@@ -1,0 +1,3 @@
+a person jumps backward calmly.#a/DET person/NOUN jump/VERB backward/ADV calmly/ADV#0.0#0.0
+the body jumps back big with both feet being planted at the same time.#the/DET body/NOUN jump/VERB back/ADV big/ADJ with/ADP both/DET foot/NOUN being/AUX plant/VERB at/ADP the/DET same/ADJ time/NOUN#0.0#0.0
+a man bends his legs and makes a jump directly backwards.#a/DET man/NOUN bend/VERB his/DET leg/NOUN and/CCONJ make/VERB a/DET jump/NOUN directly/ADV backwards/ADV#0.0#0.0

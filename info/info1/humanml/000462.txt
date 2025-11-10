@@ -1,0 +1,3 @@
+a person folds their arms#a/DET person/NOUN fold/VERB their/DET arm/NOUN#0.0#0.0
+person crosses their arms over each other in the chest area then drops them#person/NOUN cross/VERB their/DET arm/NOUN over/ADP each/DET other/ADJ in/ADP the/DET chest/NOUN area/NOUN then/ADV drop/VERB them/PRON#0.0#0.0
+someone not happy and fold his man#someone/PRON not/PART happy/ADJ and/CCONJ fold/VERB his/DET man/NOUN#0.0#0.0

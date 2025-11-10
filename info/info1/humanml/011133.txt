@@ -1,0 +1,2 @@
+a person who is standing with his hands by his sides quickly walks to his right and stops.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP his/DET hand/NOUN by/ADP his/DET side/NOUN quickly/ADV walk/VERB to/ADP his/DET right/NOUN and/CCONJ stop/NOUN#0.0#0.0
+a figure walks forward and to the right in an arc shape#a/DET figure/NOUN walk/VERB forward/ADV and/CCONJ to/ADP the/DET right/NOUN in/ADP an/DET arc/NOUN shape/NOUN#0.0#0.0

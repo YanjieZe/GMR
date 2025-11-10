@@ -1,0 +1,3 @@
+a man walks forward and then sits down.#a/DET man/NOUN walk/VERB forward/ADV and/CCONJ then/ADV sit/VERB down/ADP#0.0#7.0
+a person walks forward, takes a set to its right.#a/DET person/NOUN walk/VERB forward/ADV take/VERB a/DET set/NOUN to/ADP its/DET right/NOUN#0.0#0.0
+a person walks up to a chair and sits down in it#a/DET person/NOUN walk/VERB up/ADP to/ADP a/DET chair/NOUN and/CCONJ sit/VERB down/ADP in/ADP it/PRON#0.0#0.0

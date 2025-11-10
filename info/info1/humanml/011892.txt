@@ -1,0 +1,3 @@
+the person is running back-and-forth in a crescent shape#the/DET person/NOUN is/AUX run/VERB backandforth/ADV in/ADP a/DET crescent/ADJ shape/NOUN#0.0#0.0
+a person jogs around in a semi circle and then back, before walking.#a/DET person/NOUN jog/VERB around/ADV in/ADP a/DET semi/ADJ circle/NOUN and/CCONJ then/ADV back/ADV before/ADP walk/VERB#0.0#0.0
+a person was runnin by making the circle and return#a/DET person/NOUN was/AUX runnin/VERB by/ADP make/VERB the/DET circle/NOUN and/CCONJ return/VERB#0.0#0.0

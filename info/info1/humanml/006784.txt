@@ -1,0 +1,3 @@
+a person picks a drink up with their right hand and finishes it.#a/DET person/NOUN pick/VERB a/DET drink/NOUN up/ADP with/ADP their/DET right/ADJ hand/NOUN and/CCONJ finish/VERB it/PRON#0.0#0.0
+a person lifts their hand to their faces and tilts their head back as if drinking#a/DET person/NOUN lift/VERB their/DET hand/NOUN to/ADP their/DET face/NOUN and/CCONJ tilt/VERB their/DET head/NOUN back/ADV as/SCONJ if/SCONJ drinking/NOUN#0.0#0.0
+a person grabbed something and leaned it near to face#a/DET person/NOUN grab/VERB something/PRON and/CCONJ lean/VERB it/PRON near/ADJ to/PART face/VERB#0.0#0.0

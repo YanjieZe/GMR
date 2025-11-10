@@ -1,0 +1,3 @@
+character walking, gets pushed off ballanced from the left , regains orientation and continues walking.#character/NOUN walking/NOUN get/VERB push/VERB off/ADP ballance/VERB from/ADP the/DET left/NOUN regain/VERB orientation/NOUN and/CCONJ continue/VERB walk/VERB#0.0#0.0
+a figure stumbles, regains composure, and continues walking#a/DET figure/NOUN stumble/NOUN regain/VERB composure/NOUN and/CCONJ continue/VERB walk/VERB#0.0#0.0
+walking in a random pattern forward.#walk/VERB in/ADP a/DET random/ADJ pattern/NOUN forward/ADV#0.0#0.0

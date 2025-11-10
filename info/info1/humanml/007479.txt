@@ -1,0 +1,3 @@
+a person catches an item thrown by someone.#a/DET person/NOUN catch/VERB an/DET item/NOUN throw/VERB by/ADP someone/PRON#0.0#0.0
+a person twists as they walk forward.#a/DET person/NOUN twist/VERB as/SCONJ they/PRON walk/VERB forward/ADV#0.0#0.0
+a person holding something and walking#a/DET person/NOUN hold/VERB something/PRON and/CCONJ walk/VERB#0.0#0.0

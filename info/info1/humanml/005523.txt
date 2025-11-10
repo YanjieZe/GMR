@@ -1,0 +1,3 @@
+a person leans quickly backward from something#a/DET person/NOUN lean/VERB quickly/ADV backward/ADV from/ADP something/PRON#0.0#0.0
+a figure holds and imaginary ball in front of him with two hands at chest level and leans back then returns to straight standing position.#a/DET figure/NOUN hold/VERB and/CCONJ imaginary/ADJ ball/NOUN in/ADP front/NOUN of/ADP him/PRON with/ADP two/NUM hand/NOUN at/ADP chest/NOUN level/NOUN and/CCONJ lean/VERB back/ADV then/ADV return/VERB to/ADP straight/ADJ standing/ADJ position/NOUN#0.0#0.0
+the person rock back and then forward again.#the/DET person/NOUN rock/NOUN back/ADV and/CCONJ then/ADV forward/ADV again/ADV#0.0#0.0

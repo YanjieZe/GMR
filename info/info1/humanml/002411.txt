@@ -1,0 +1,2 @@
+a person turns around, walks forward, turns around, and then walks back.#a/DET person/NOUN turn/VERB around/ADV walk/VERB forward/ADV turn/VERB around/ADV and/CCONJ then/ADV walk/VERB back/ADV#0.0#0.0
+a person is walking forward 4 steps turning around and walking back 4 steps.#a/DET person/NOUN is/AUX walk/VERB forward/ADV step/NOUN turn/VERB around/ADV and/CCONJ walk/VERB back/ADV step/NOUN#0.0#0.0

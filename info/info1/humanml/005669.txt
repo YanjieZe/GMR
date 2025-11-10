@@ -1,0 +1,3 @@
+a man steps backwards a few steps, then forward, then lifts his arms to head-level and moves them back and forth, bending them at the elbows.#a/DET man/NOUN step/VERB backwards/ADV a/DET few/ADJ step/NOUN then/ADV forward/ADV then/ADV lift/VERB his/DET arm/NOUN to/ADP headlevel/VERB and/CCONJ move/VERB them/PRON back/ADV and/CCONJ forth/ADV bend/VERB them/PRON at/ADP the/DET elbow/NOUN#0.0#0.0
+a person is stretching their arms and back.#a/DET person/NOUN is/AUX stretch/VERB their/DET arm/NOUN and/CCONJ back/ADV#0.0#0.0
+a person looks to shake their arms like they are warming up#a/DET person/NOUN look/VERB to/PART shake/VERB their/DET arm/NOUN like/SCONJ they/PRON are/AUX warm/VERB up/ADP#0.0#0.0

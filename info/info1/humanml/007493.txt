@@ -1,0 +1,3 @@
+he turns to his right#he/PRON turn/VERB to/ADP his/DET right/NOUN#0.0#0.0
+the man walks forwards, then pivots to right, turning around back the way that he came.#the/DET man/NOUN walk/VERB forwards/ADV then/ADV pivot/NOUN to/ADP right/ADV turn/VERB around/ADP back/ADV the/DET way/NOUN that/DET he/PRON come/VERB#0.0#0.0
+a person walks and turns to his right.#a/DET person/NOUN walk/VERB and/CCONJ turn/VERB to/ADP his/DET right/NOUN#0.0#0.0

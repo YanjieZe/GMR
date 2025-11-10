@@ -1,0 +1,3 @@
+the person held his arms out wide and put them down to his side while he was sitting.#the/DET person/NOUN hold/VERB his/DET arm/NOUN out/ADV wide/ADV and/CCONJ put/VERB them/PRON down/ADP to/ADP his/DET side/NOUN while/SCONJ he/PRON was/AUX sit/VERB#0.0#0.0
+a person holding a squat postition then proceeds to raise their arms parrallel to the ground sideways#a/DET person/NOUN hold/VERB a/DET squat/ADJ postition/NOUN then/ADV proceed/VERB to/PART raise/VERB their/DET arm/NOUN parrallel/NOUN to/ADP the/DET ground/NOUN sideways/ADV#0.0#0.0
+a person stands, arms out stretched, lowers them, and raises them again#a/DET person/NOUN stand/VERB arm/NOUN out/ADV stretch/VERB lower/VERB them/PRON and/CCONJ raise/VERB them/PRON again/ADV#0.0#0.0

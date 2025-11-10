@@ -1,0 +1,3 @@
+the person bends his right arm at the elbow and puts it in front of his face, then returns it to his side.#the/DET person/NOUN bend/VERB his/DET right/ADJ arm/NOUN at/ADP the/DET elbow/NOUN and/CCONJ put/VERB it/PRON in/ADP front/NOUN of/ADP his/DET face/NOUN then/ADV return/VERB it/PRON to/ADP his/DET side/NOUN#0.0#0.0
+right handed upper cut.#right/ADV hand/VERB upper/ADJ cut/NOUN#0.0#0.0
+a person performs a slow right handed uppercut.#a/DET person/NOUN perform/VERB a/DET slow/ADJ right/NOUN handed/ADJ uppercut/NOUN#0.0#0.0

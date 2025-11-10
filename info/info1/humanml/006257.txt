@@ -1,0 +1,3 @@
+a person punches with their right hand#a/DET person/NOUN punch/VERB with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+a person throws something with their right hand.#a/DET person/NOUN throw/VERB something/PRON with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+a person stands with both arms bent at the elbows and at the sides, then throws something with the right arm across the body.#a/DET person/NOUN stand/VERB with/ADP both/DET arm/NOUN bent/NOUN at/ADP the/DET elbow/NOUN and/CCONJ at/ADP the/DET side/NOUN then/ADV throw/VERB something/PRON with/ADP the/DET right/ADJ arm/NOUN across/ADP the/DET body/NOUN#0.0#0.0

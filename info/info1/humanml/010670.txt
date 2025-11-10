@@ -1,0 +1,3 @@
+a person move their right hand around an object, scrubbing it from all angles.#a/DET person/NOUN move/VERB their/DET right/ADJ hand/NOUN around/ADP an/DET object/NOUN scrub/VERB it/PRON from/ADP all/DET angle/NOUN#0.0#0.0
+the person it’s drying off his right arm.#the/DET person/NOUN it/PRON dry/VERB off/ADP his/DET right/ADJ arm/NOUN#0.0#0.0
+a person moves their right hand as if cleaning or drying an object at waist height.#a/DET person/NOUN move/VERB their/DET right/ADJ hand/NOUN as/SCONJ if/SCONJ clean/VERB or/CCONJ dry/VERB an/DET object/NOUN at/ADP waist/NOUN height/NOUN#0.0#0.0

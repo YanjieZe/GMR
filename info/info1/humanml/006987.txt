@@ -1,0 +1,3 @@
+a person tapping on a surface#a/DET person/NOUN tap/VERB on/ADP a/DET surface/NOUN#0.0#0.0
+a man is mixing something infront of his body and seems to pick it up with his right hand and then proceed to mix it back. then picks it up with his left hand while standing still#a/DET man/NOUN is/AUX mix/VERB something/PRON infront/ADJ of/ADP his/DET body/NOUN and/CCONJ seem/VERB to/PART pick/VERB it/PRON up/ADP with/ADP his/DET right/ADJ hand/NOUN and/CCONJ then/ADV proceed/VERB to/PART mix/VERB it/PRON back/ADV then/ADV pick/VERB it/PRON up/ADP with/ADP his/DET left/ADJ hand/NOUN while/SCONJ stand/VERB still/ADV#0.0#0.0
+the person is making a jester with his hands.#the/DET person/NOUN is/AUX make/VERB a/DET jester/NOUN with/ADP his/DET hand/NOUN#0.0#0.0

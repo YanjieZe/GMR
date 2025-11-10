@@ -1,0 +1,3 @@
+a person catches a ball in both hands then tosses it back with their right hand, they then attempt to catch another ball but drop it#a/DET person/NOUN catch/VERB a/DET ball/NOUN in/ADP both/DET hand/NOUN then/ADV toss/VERB it/PRON back/ADV with/ADP their/DET right/ADJ hand/NOUN they/PRON then/ADV attempt/VERB to/PART catch/VERB another/DET ball/NOUN but/CCONJ drop/VERB it/PRON#2.0#9.0
+person is doing an underarm throw and catching the ball again#person/NOUN is/AUX do/VERB an/DET underarm/ADJ throw/NOUN and/CCONJ catch/VERB the/DET ball/NOUN again/ADV#0.0#0.0
+a person tosses an object underhand with their right hand.#a/DET person/NOUN toss/VERB an/DET object/NOUN underhand/ADJ with/ADP their/DET right/ADJ hand/NOUN#3.0#6.0

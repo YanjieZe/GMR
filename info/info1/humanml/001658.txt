@@ -1,0 +1,3 @@
+person bends down and looks around whilst walking in a counter-clockwise circle#person/NOUN bend/VERB down/ADP and/CCONJ look/VERB around/ADV whilst/SCONJ walk/VERB in/ADP a/DET counterclockwise/ADJ circle/NOUN#0.0#0.0
+the person slowly walks in a circular motion with their backs hunch over.#the/DET person/NOUN slowly/ADV walk/VERB in/ADP a/DET circular/ADJ motion/NOUN with/ADP their/DET back/NOUN hunch/VERB over/ADP#0.0#0.0
+a person walk slowly while in a crouching position.#a/DET person/NOUN walk/VERB slowly/ADV while/SCONJ in/ADP a/DET crouching/ADJ position/NOUN#0.0#0.0

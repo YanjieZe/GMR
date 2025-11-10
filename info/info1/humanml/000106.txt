@@ -1,0 +1,3 @@
+a person moves backwards then forwards then jumps.#a/DET person/NOUN move/VERB backwards/ADV then/ADV forwards/ADV then/ADV jump/VERB#0.0#4.0
+someone jumping over a puddle#someone/PRON jump/VERB over/ADP a/DET puddle/NOUN#0.0#0.0
+a person jumps forward turns around and jumps in the other direction.#a/DET person/NOUN jump/VERB forward/ADV turn/VERB around/ADV and/CCONJ jump/VERB in/ADP the/DET other/ADJ direction/NOUN#0.0#0.0

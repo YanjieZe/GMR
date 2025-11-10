@@ -1,0 +1,3 @@
+someone turns to the right, bends to touch his right hand to the ground, and brings his hands close together with elbows bent#someone/PRON turn/VERB to/ADP the/DET right/NOUN bend/NOUN to/PART touch/VERB his/DET right/ADJ hand/NOUN to/ADP the/DET ground/NOUN and/CCONJ bring/VERB his/DET hand/NOUN close/ADJ together/ADV with/ADP elbow/NOUN bent/ADJ#0.0#0.0
+a person moves his hands around in the air.#a/DET person/NOUN move/VERB his/DET hand/NOUN around/ADV in/ADP the/DET air/NOUN#0.0#0.0
+picking up snow and making a snow ball#pick/VERB up/ADP snow/NOUN and/CCONJ make/VERB a/DET snow/NOUN ball/NOUN#0.0#0.0

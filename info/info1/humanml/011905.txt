@@ -1,0 +1,3 @@
+a person taps their left foot quickly and twitches their hands while sitting.#a/DET person/NOUN tap/VERB their/DET left/ADJ foot/NOUN quickly/ADV and/CCONJ twitch/VERB their/DET hand/NOUN while/SCONJ sit/VERB#0.0#0.0
+a person eats with both hands while sitting down.#a/DET person/NOUN eat/VERB with/ADP both/DET hand/NOUN while/SCONJ sit/VERB down/ADP#0.0#0.0
+a person eats a sandwich with both hands.#a/DET person/NOUN eat/VERB a/DET sandwich/NOUN with/ADP both/DET hand/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks backwards a few steps.#a/DET person/NOUN walk/VERB backwards/ADV a/DET few/ADJ step/NOUN#0.0#0.0
+a man quickly steps backward.#a/DET man/NOUN quickly/ADV step/VERB backward/ADV#0.0#0.0
+person is walking backwards and then stops#person/NOUN is/AUX walk/VERB backwards/ADV and/CCONJ then/ADV stop/VERB#0.0#0.0

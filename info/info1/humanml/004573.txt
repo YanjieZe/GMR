@@ -1,0 +1,3 @@
+a person clas their hands out in front of them, drops them, then repeats.#a/DET person/NOUN cla/VERB their/DET hand/NOUN out/ADP in/ADP front/NOUN of/ADP them/PRON drop/VERB them/PRON then/ADV repeat/VERB#0.0#0.0
+a person standing in place claps both hands for a short while, stops and puts arms down, then begins to clap hands again.#a/DET person/NOUN stand/VERB in/ADP place/NOUN clap/NOUN both/DET hand/NOUN for/ADP a/DET short/ADJ while/NOUN stop/VERB and/CCONJ put/VERB arm/NOUN down/ADP then/ADV begin/VERB to/PART clap/VERB hand/NOUN again/ADV#0.0#0.0
+a person claps, stops briefly, and then continues to clap#a/DET person/NOUN clap/VERB stop/VERB briefly/ADV and/CCONJ then/ADV continue/VERB to/PART clap/VERB#0.0#0.0

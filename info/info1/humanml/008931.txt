@@ -1,0 +1,3 @@
+a person is waving both arms.#a/DET person/NOUN is/AUX wave/VERB both/DET arm/NOUN#0.0#0.0
+the man extends both arms above his head to signal someone.#the/DET man/NOUN extend/VERB both/DET arm/NOUN above/ADP his/DET head/NOUN to/PART signal/VERB someone/PRON#0.0#0.0
+a person waves his arms overhead creating a y-pattern when his arms are outstretched.#a/DET person/NOUN wave/VERB his/DET arm/NOUN overhead/ADV create/VERB a/DET ypattern/NOUN when/ADV his/DET arm/NOUN are/AUX outstretche/VERB#0.0#0.0

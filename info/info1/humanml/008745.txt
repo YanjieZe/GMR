@@ -1,0 +1,3 @@
+the person is flailing their arms around#the/DET person/NOUN is/AUX flail/VERB their/DET arm/NOUN around/ADV#0.0#0.0
+person swings their arms and body up down and in a circular motion.#person/NOUN swing/VERB their/DET arm/NOUN and/CCONJ body/NOUN up/ADP down/ADV and/CCONJ in/ADP a/DET circular/ADJ motion/NOUN#0.0#0.0
+a person flails arms and sways body counterclockwise 2 times#a/DET person/NOUN flail/VERB arm/NOUN and/CCONJ sway/NOUN body/NOUN counterclockwise/NOUN time/NOUN#0.0#0.0

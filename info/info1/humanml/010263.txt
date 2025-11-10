@@ -1,0 +1,3 @@
+person is walking forward doing karate moves.#person/NOUN is/AUX walk/VERB forward/ADV do/VERB karate/NOUN move/NOUN#0.0#0.0
+person stretches out lots of times wide stance and punches forward#person/NOUN stretch/VERB out/ADP lot/NOUN of/ADP time/NOUN wide/ADJ stance/NOUN and/CCONJ punch/VERB forward/ADV#0.0#0.0
+with each step, the person alternates between extending each hand while the other is retracted.#with/ADP each/DET step/NOUN the/DET person/NOUN alternate/VERB between/ADP extend/VERB each/DET hand/NOUN while/SCONJ the/DET other/ADJ is/AUX retract/VERB#0.0#0.0

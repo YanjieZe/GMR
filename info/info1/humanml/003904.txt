@@ -1,0 +1,3 @@
+a person quickly answers a call with their right hand.#a/DET person/NOUN quickly/ADV answer/VERB a/DET call/NOUN with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+he pretends to write#he/PRON pretend/VERB to/PART write/VERB#0.0#0.0
+the motion is raising right arm.#the/DET motion/NOUN is/AUX raise/VERB right/ADJ arm/NOUN#0.0#0.0

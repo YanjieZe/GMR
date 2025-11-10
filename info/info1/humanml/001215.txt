@@ -1,0 +1,3 @@
+a man sways side by side with arms out#a/DET man/NOUN sway/VERB side/NOUN by/ADP side/NOUN with/ADP arm/NOUN out/ADV#0.0#0.0
+a person angrily sways back and forth in a large stance, with their hands on their hips.#a/DET person/NOUN angrily/ADV sway/VERB back/ADV and/CCONJ forth/ADV in/ADP a/DET large/ADJ stance/NOUN with/ADP their/DET hand/NOUN on/ADP their/DET hip/NOUN#0.0#0.0
+resting his hands on his hips, a person sways back and forth.#rest/VERB his/DET hand/NOUN on/ADP his/DET hip/NOUN a/DET person/NOUN sway/VERB back/ADV and/CCONJ forth/ADV#0.0#0.0

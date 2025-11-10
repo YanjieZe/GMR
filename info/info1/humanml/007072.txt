@@ -1,0 +1,3 @@
+a person appears to put their hands to their mouth, call out, and move their arms around.#a/DET person/NOUN appear/VERB to/PART put/VERB their/DET hand/NOUN to/ADP their/DET mouth/NOUN call/VERB out/ADP and/CCONJ move/VERB their/DET arm/NOUN around/ADV#0.0#0.0
+the man pleads then yells then preaches.#the/DET man/NOUN plead/VERB then/ADV yell/VERB then/ADV preach/VERB#0.0#0.0
+a person moving both of his hands up and down left and right in the movement as cheering for something or enjoying his time#a/DET person/NOUN move/VERB both/DET of/ADP his/DET hand/NOUN up/ADP and/CCONJ down/ADP left/ADV and/CCONJ right/ADV in/ADP the/DET movement/NOUN as/SCONJ cheer/VERB for/ADP something/PRON or/CCONJ enjoy/VERB his/DET time/NOUN#0.0#0.0

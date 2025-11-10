@@ -1,0 +1,3 @@
+a person takes a couple steps back.#a/DET person/NOUN take/VERB a/DET couple/NOUN step/NOUN back/ADV#0.0#0.0
+a person stumbles backwards quickly.#a/DET person/NOUN stumble/VERB backwards/ADV quickly/ADV#0.0#0.0
+this person quickly walks backwards.#this/DET person/NOUN quickly/ADV walk/VERB backwards/ADV#0.0#0.0

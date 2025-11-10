@@ -1,0 +1,3 @@
+the person stands still and moves a few things around with their right hand.#the/DET person/NOUN stand/VERB still/ADV and/CCONJ move/VERB a/DET few/ADJ thing/NOUN around/ADV with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+a person making a brushing circular clockwise motion as if they are stirring something with their hand open.#a/DET person/NOUN make/VERB a/DET brush/VERB circular/ADJ clockwise/NOUN motion/NOUN as/SCONJ if/SCONJ they/PRON are/AUX stir/VERB something/PRON with/ADP their/DET hand/NOUN open/ADJ#0.0#0.0
+a person makes a horizontal clockwise motion with their right hand.#a/DET person/NOUN make/VERB a/DET horizontal/ADJ clockwise/NOUN motion/NOUN with/ADP their/DET right/ADJ hand/NOUN#0.0#5.0

@@ -1,0 +1,3 @@
+person walks forward with arms up and out for balance.#person/NOUN walk/VERB forward/ADV with/ADP arm/NOUN up/ADP and/CCONJ out/SCONJ for/ADP balance/NOUN#0.0#0.0
+the person slowly walks forward, as if they are trying to keep their balance.#the/DET person/NOUN slowly/ADV walk/VERB forward/ADV as/SCONJ if/SCONJ they/PRON are/AUX try/VERB to/PART keep/VERB their/DET balance/NOUN#0.0#0.0
+a person walks in a straight line while holding their arms out for balance.#a/DET person/NOUN walk/VERB in/ADP a/DET straight/ADJ line/NOUN while/SCONJ hold/VERB their/DET arm/NOUN out/ADP for/ADP balance/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+the man holds his hands up and squats twice.#the/DET man/NOUN hold/VERB his/DET hand/NOUN up/ADV and/CCONJ squat/VERB twice/ADV#0.0#0.0
+person is performing squat exercise#person/NOUN is/AUX perform/VERB squat/ADJ exercise/NOUN#0.0#0.0
+person squats down with both arms above his head#person/NOUN squat/VERB down/ADP with/ADP both/DET arm/NOUN above/ADP his/DET head/NOUN#0.0#0.0

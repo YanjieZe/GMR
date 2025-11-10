@@ -1,0 +1,3 @@
+a man stumbles and leans on an invisible object to support and help him reposition himself.#a/DET man/NOUN stumble/VERB and/CCONJ lean/NOUN on/ADP an/DET invisible/ADJ object/NOUN to/PART support/VERB and/CCONJ help/VERB him/PRON reposition/VERB himself/PRON#0.0#0.0
+a forward facing figure shambles as if injured up a flight of stairs, it takes two steps while leaning towards the left side.#a/DET forward/ADV face/VERB figure/NOUN shamble/NOUN as/SCONJ if/SCONJ injure/VERB up/ADP a/DET flight/NOUN of/ADP stair/NOUN it/PRON take/VERB two/NUM step/NOUN while/SCONJ lean/VERB towards/ADP the/DET left/ADJ side/NOUN#0.0#0.0
+man climbs stairs railing right hand#man/PROPN climb/NOUN stair/NOUN rail/VERB right/ADJ hand/NOUN#0.0#0.0

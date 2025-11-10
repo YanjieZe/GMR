@@ -1,0 +1,3 @@
+the man is doing parkour#the/DET man/NOUN is/AUX do/VERB parkour/NOUN#0.0#0.0
+walking in a random pattern.#walk/VERB in/ADP a/DET random/ADJ pattern/NOUN#0.0#0.0
+a person walks from side to side in a curving motion.#a/DET person/NOUN walk/VERB from/ADP side/NOUN to/PART side/VERB in/ADP a/DET curving/NOUN motion/NOUN#0.0#0.0

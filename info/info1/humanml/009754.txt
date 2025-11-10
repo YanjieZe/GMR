@@ -1,0 +1,3 @@
+the man holds something in his hand and then throws it with his right hand.#the/DET man/NOUN hold/VERB something/PRON in/ADP his/DET hand/NOUN and/CCONJ then/ADV throw/VERB it/PRON with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+person is a low stance raises right arm above head and moves forward#person/NOUN is/AUX a/DET low/ADJ stance/NOUN raise/VERB right/ADJ arm/NOUN above/ADP head/NOUN and/CCONJ move/NOUN forward/ADV#0.0#0.0
+a person getting into stance and positioning body to act as if the person is throwing a baseball.#a/DET person/NOUN get/VERB into/ADP stance/NOUN and/CCONJ position/VERB body/NOUN to/PART act/VERB as/SCONJ if/SCONJ the/DET person/NOUN is/AUX throw/VERB a/DET baseball/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+person walks forward doing arm circles, then walks backwards doing arm circles#person/NOUN walk/VERB forward/ADV do/VERB arm/NOUN circle/NOUN then/ADV walk/VERB backwards/ADV do/VERB arm/NOUN circle/NOUN#0.0#0.0
+waving hands while walking forward.#wave/VERB hand/NOUN while/SCONJ walk/VERB forward/ADV#0.0#0.0
+a person loses up his arms by swinging them in a circle and walking forward#a/DET person/NOUN lose/VERB up/ADP his/DET arm/NOUN by/ADP swinge/VERB them/PRON in/ADP a/DET circle/NOUN and/CCONJ walk/VERB forward/ADV#0.0#0.0

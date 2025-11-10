@@ -1,0 +1,3 @@
+someone raise their left hand and wave#someone/PRON raise/VERB their/DET left/ADJ hand/NOUN and/CCONJ wave/NOUN#0.0#0.0
+a man stands and raises his right hands and then starts waving on the air.#a/DET man/NOUN stand/VERB and/CCONJ raise/VERB his/DET right/ADJ hand/NOUN and/CCONJ then/ADV start/VERB wave/VERB on/ADP the/DET air/NOUN#0.0#0.0
+a person raises his right arm and waves his hand#a/DET person/NOUN raise/VERB his/DET right/ADJ arm/NOUN and/CCONJ wave/VERB his/DET hand/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+person slightly leans forward and appears to be holding chest and neck.#person/NOUN slightly/ADV lean/VERB forward/ADV and/CCONJ appear/VERB to/PART be/AUX hold/VERB chest/NOUN and/CCONJ neck/NOUN#0.0#0.0
+a person is holding his throat and chest, leaning forward slightly.#a/DET person/NOUN is/AUX hold/VERB his/DET throat/NOUN and/CCONJ chest/NOUN lean/VERB forward/ADV slightly/ADV#0.0#0.0
+a person steps forward with their arms raised in front of them as if they were cowering.#a/DET person/NOUN step/VERB forward/ADV with/ADP their/DET arm/NOUN raise/VERB in/ADP front/NOUN of/ADP them/PRON as/SCONJ if/SCONJ they/PRON were/AUX cower/VERB#0.0#0.0

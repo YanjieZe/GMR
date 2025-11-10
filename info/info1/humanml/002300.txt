@@ -1,0 +1,3 @@
+a person stands still for a while then quickly walks forward.#a/DET person/NOUN stand/VERB still/ADV for/ADP a/DET while/NOUN then/ADV quickly/ADV walk/VERB forward/ADV#0.0#0.0
+a figure take 2 quick steps forwards#a/DET figure/NOUN take/VERB quick/ADJ step/NOUN forwards/ADV#0.0#0.0
+a person stands still, and then quickly walks forward.#a/DET person/NOUN stand/VERB still/ADV and/CCONJ then/ADV quickly/ADV walk/VERB forward/ADV#0.0#0.0

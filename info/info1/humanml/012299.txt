@@ -1,0 +1,3 @@
+a person walking around in a room#a/DET person/NOUN walk/VERB around/ADV in/ADP a/DET room/NOUN#0.0#0.0
+a person is walking around the room.#a/DET person/NOUN is/AUX walk/VERB around/ADP the/DET room/NOUN#0.0#0.0
+a man walks in an uneven clockwise circle, stopping before he returns to his starting point.#a/DET man/NOUN walk/VERB in/ADP an/DET uneven/ADJ clockwise/NOUN circle/NOUN stop/VERB before/ADP he/PRON return/VERB to/ADP his/DET starting/NOUN point/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a man walks forwards in a straight line at a medium pace, whilst gently swinging his arms.#a/DET man/NOUN walk/VERB forwards/ADV in/ADP a/DET straight/ADJ line/NOUN at/ADP a/DET medium/ADJ pace/NOUN whilst/SCONJ gently/ADV swinge/VERB his/DET arm/NOUN#0.0#0.0
+a person is walking in a straight line.#a/DET person/NOUN is/AUX walk/VERB in/ADP a/DET straight/ADJ line/NOUN#0.0#0.0
+simply moving forward on the floor.#simply/ADV move/VERB forward/ADV on/ADP the/DET floor/NOUN#0.0#0.0

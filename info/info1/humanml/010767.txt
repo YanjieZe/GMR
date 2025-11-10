@@ -1,0 +1,3 @@
+the person is hopping on his left leg.#the/DET person/NOUN is/AUX hop/VERB on/ADP his/DET left/ADJ leg/NOUN#0.0#0.0
+person hops with right leg bent in the air#person/NOUN hop/VERB with/ADP right/ADJ leg/NOUN bent/NOUN in/ADP the/DET air/NOUN#0.0#0.0
+the man is doing one leg loose#the/DET man/NOUN is/AUX do/VERB one/NUM leg/NOUN loose/ADV#0.0#0.0

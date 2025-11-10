@@ -1,0 +1,3 @@
+a person appears to be playing tennis and shoots the ball with the racket in his right hand#a/DET person/NOUN appear/VERB to/PART be/AUX play/VERB tennis/NOUN and/CCONJ shoot/VERB the/DET ball/NOUN with/ADP the/DET racket/NOUN in/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+walking sideways and almost falling.#walk/VERB sideways/ADV and/CCONJ almost/ADV fall/VERB#0.0#0.0
+a person lunges and hits something, then backing up.#a/DET person/NOUN lunge/VERB and/CCONJ hit/VERB something/PRON then/ADV back/VERB up/ADP#0.0#0.0

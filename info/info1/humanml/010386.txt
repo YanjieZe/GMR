@@ -1,0 +1,3 @@
+jumping up and down once.#jump/VERB up/ADP and/CCONJ down/ADV once/ADV#0.0#0.0
+a man jumps and throws both his hands up in the air.#a/DET man/NOUN jump/VERB and/CCONJ throw/VERB both/CCONJ his/DET hand/NOUN up/ADP in/ADP the/DET air/NOUN#0.0#0.0
+a person jumps forward#a/DET person/NOUN jump/VERB forward/ADV#0.0#10.0

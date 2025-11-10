@@ -1,0 +1,3 @@
+a person waves their arms to the side and forward#a/DET person/NOUN wave/VERB their/DET arm/NOUN to/ADP the/DET side/NOUN and/CCONJ forward/ADV#0.0#0.0
+a person waving someone to come in that direction then pointing before waving at someone else.#a/DET person/NOUN wave/VERB someone/PRON to/PART come/VERB in/ADP that/DET direction/NOUN then/ADV point/VERB before/ADP wave/VERB at/ADP someone/PRON else/ADV#0.0#0.0
+a person is making hand gestures at other people as if guiding them.#a/DET person/NOUN is/AUX make/VERB hand/NOUN gesture/NOUN at/ADP other/ADJ people/NOUN as/SCONJ if/SCONJ guide/VERB them/PRON#0.0#0.0

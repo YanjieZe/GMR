@@ -1,0 +1,3 @@
+he does a treadmill morn#he/PRON does/AUX a/DET treadmill/NOUN morn/ADJ#0.0#0.0
+a person walks on a treadmill.#a/DET person/NOUN walk/VERB on/ADP a/DET treadmill/NOUN#0.0#0.0
+a person walks but does not move forwards.#a/DET person/NOUN walk/VERB but/CCONJ does/AUX not/PART move/VERB forwards/ADV#0.0#0.0

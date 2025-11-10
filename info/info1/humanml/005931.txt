@@ -1,0 +1,3 @@
+the man jumps up and twirls his body in a full circle before his feet land.#the/DET man/NOUN jump/VERB up/ADP and/CCONJ twirl/VERB his/DET body/NOUN in/ADP a/DET full/ADJ circle/NOUN before/ADP his/DET foot/NOUN land/NOUN#0.0#0.0
+the toon is standing jumps & spins before landing in the same place.#the/DET toon/NOUN is/AUX stand/VERB jumps/PROPN spins/PROPN before/ADP land/VERB in/ADP the/DET same/ADJ place/NOUN#0.0#3.0
+the person did a clean jump.#the/DET person/NOUN did/AUX a/DET clean/ADJ jump/NOUN#0.0#0.0

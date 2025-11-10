@@ -1,0 +1,3 @@
+someone walks little by little so as not to make noise#someone/PRON walk/VERB little/ADJ by/ADP little/ADJ so/SCONJ as/SCONJ not/PART to/PART make/VERB noise/NOUN#0.0#0.0
+a person walks forward while putting both hands on something for support#a/DET person/NOUN walk/VERB forward/ADV while/SCONJ put/VERB both/DET hand/NOUN on/ADP something/PRON for/ADP support/NOUN#0.0#0.0
+a person walks slowly, like trying not to make any noise#a/DET person/NOUN walk/VERB slowly/ADV like/SCONJ try/VERB not/PART to/PART make/VERB any/DET noise/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+person moves left and right leg before  moving to the right quickly then the left#person/NOUN move/VERB left/VERB and/CCONJ right/ADJ leg/NOUN before/ADV move/VERB to/ADP the/DET right/NOUN quickly/ADV then/ADV the/DET left/NOUN#0.0#0.0
+a person jogs in place and then jogs around.#a/DET person/NOUN jog/VERB in/ADP place/NOUN and/CCONJ then/ADV jog/VERB around/ADV#0.0#0.0
+a person jogs in place, jogs to the left, jogs to the right and then returns to their original location.#a/DET person/NOUN jog/VERB in/ADP place/NOUN jog/VERB to/ADP the/DET left/NOUN jog/VERB to/ADP the/DET right/NOUN and/CCONJ then/ADV return/VERB to/ADP their/DET original/ADJ location/NOUN#0.0#0.0

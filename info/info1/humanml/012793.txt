@@ -1,0 +1,3 @@
+a person casually walks forward.#a/DET person/NOUN casually/ADV walk/VERB forward/ADV#0.0#0.0
+this person walks slowly frontwards.#this/DET person/NOUN walk/VERB slowly/ADV frontward/NOUN#0.0#0.0
+a person walks steadily straight ahead.#a/DET person/NOUN walk/VERB steadily/ADV straight/ADV ahead/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks forward stumbling around going backwards and then forward again with both arms flailing to his/her side.#a/DET person/NOUN walk/VERB forward/ADV stumble/VERB around/ADP go/VERB backwards/ADV and/CCONJ then/ADV forward/ADV again/ADV with/ADP both/DET arm/NOUN flailing/NOUN to/ADP his/DET her/DET side/NOUN#0.0#0.0
+a person drunkinly staggers around a room.#a/DET person/NOUN drunkinly/ADV stagger/VERB around/ADP a/DET room/NOUN#0.0#0.0
+a person stumbles forward and backward several times.#a/DET person/NOUN stumble/VERB forward/ADV and/CCONJ backward/ADJ several/ADJ time/NOUN#0.0#0.0

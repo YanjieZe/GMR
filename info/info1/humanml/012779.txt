@@ -1,0 +1,3 @@
+the person took a giant jump and turn to the left.#the/DET person/NOUN take/VERB a/DET giant/ADJ jump/NOUN and/CCONJ turn/VERB to/ADP the/DET left/NOUN#0.0#0.0
+a person turns 90 degrees to the left while jumping.#a/DET person/NOUN turn/VERB degree/NOUN to/ADP the/DET left/ADJ while/SCONJ jump/VERB#0.0#0.0
+a man is taking a large jump forwards and turning counter clockwise.#a/DET man/NOUN is/AUX take/VERB a/DET large/ADJ jump/NOUN forward/NOUN and/CCONJ turning/NOUN counter/NOUN clockwise/NOUN#0.0#0.0

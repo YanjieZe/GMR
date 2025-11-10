@@ -1,0 +1,3 @@
+a person washes their arm and head.#a/DET person/NOUN wash/VERB their/DET arm/NOUN and/CCONJ head/NOUN#0.0#0.0
+the person moves their hands around their arm and face as if wiping off sweat or washing themselves.#the/DET person/NOUN move/VERB their/DET hand/NOUN around/ADP their/DET arm/NOUN and/CCONJ face/NOUN as/SCONJ if/SCONJ wipe/VERB off/ADP sweat/NOUN or/CCONJ wash/VERB themselves/PRON#0.0#0.0
+a person washes their right arm, then uses their right arm to wash their face, head, and chest.#a/DET person/NOUN wash/VERB their/DET right/ADJ arm/NOUN then/ADV use/VERB their/DET right/ADJ arm/NOUN to/PART wash/VERB their/DET face/NOUN head/NOUN and/CCONJ chest/NOUN#0.0#0.0

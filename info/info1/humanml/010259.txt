@@ -1,0 +1,3 @@
+a person is moving is right leg and making dance steps.#a/DET person/NOUN is/AUX move/VERB is/AUX right/ADJ leg/NOUN and/CCONJ make/VERB dance/NOUN step/NOUN#0.0#0.0
+a person kicks out with their right foot#a/DET person/NOUN kick/VERB out/ADP with/ADP their/DET right/ADJ foot/NOUN#0.0#0.0
+a person kicks lightly with right foot.#a/DET person/NOUN kick/VERB lightly/ADV with/ADP right/ADJ foot/NOUN#0.0#0.0

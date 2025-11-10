@@ -1,0 +1,3 @@
+a person jogs to his right, then left#a/DET person/NOUN jog/VERB to/ADP his/DET right/NOUN then/ADV left/VERB#0.0#0.0
+a person jogs slowly to his right, pivots and jogs to his left, pivots and jogs to his right, back to where he started.#a/DET person/NOUN jog/VERB slowly/ADV to/ADP his/DET right/NOUN pivot/NOUN and/CCONJ jog/VERB to/ADP his/DET left/NOUN pivot/NOUN and/CCONJ jog/VERB to/ADP his/DET right/NOUN back/ADV to/ADP where/ADV he/PRON start/VERB#0.0#0.0
+a person turns to their right and jogs, then pivots and jogs the other way, then pivots one more time.#a/DET person/NOUN turn/VERB to/ADP their/DET right/NOUN and/CCONJ jog/NOUN then/ADV pivot/NOUN and/CCONJ jog/VERB the/DET other/ADJ way/NOUN then/ADV pivot/VERB one/NUM more/ADJ time/NOUN#0.0#0.0

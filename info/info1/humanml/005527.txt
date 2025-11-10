@@ -1,0 +1,3 @@
+the man walks forward, stumbles and the jumps backwards.#the/DET man/NOUN walk/VERB forward/ADV stumble/NOUN and/CCONJ the/DET jumps/PROPN backwards/ADV#0.0#0.0
+a person walks forward and stumbles backwards.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ stumble/NOUN backwards/ADV#0.0#0.0
+a person is walking then steps back to avoid something then starts walking again#a/DET person/NOUN is/AUX walk/VERB then/ADV step/VERB back/ADV to/PART avoid/VERB something/PRON then/ADV start/VERB walk/VERB again/ADV#0.0#0.0

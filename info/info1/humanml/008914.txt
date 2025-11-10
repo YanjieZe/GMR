@@ -1,0 +1,3 @@
+person is crouching down and crawling.#person/NOUN is/AUX crouch/VERB down/ADP and/CCONJ crawl/VERB#0.0#0.0
+a person walks backwards, then stumbles forward and falls on all fours, crawls forward a bit , and then walks backward.#a/DET person/NOUN walk/VERB backwards/ADV then/ADV stumble/VERB forward/ADV and/CCONJ fall/VERB on/ADP all/DET four/NOUN crawl/VERB forward/ADV a/DET bit/NOUN and/CCONJ then/ADV walk/VERB backward/ADV#0.0#0.0
+walking backwards then crawling forward.#walk/VERB backwards/ADV then/ADV crawl/VERB forward/ADV#0.0#0.0

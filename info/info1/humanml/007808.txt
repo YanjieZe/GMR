@@ -1,0 +1,3 @@
+person jumps to side with legs and arms then squats a few times with arms raised#person/NOUN jump/VERB to/PART side/VERB with/ADP leg/NOUN and/CCONJ arm/NOUN then/ADV squat/VERB a/DET few/ADJ time/NOUN with/ADP arm/NOUN raise/VERB#0.0#0.0
+a man does jumping jacks in slow motion.#a/DET man/NOUN does/AUX jump/VERB jack/NOUN in/ADP slow/ADJ motion/NOUN#0.0#0.0
+a person dances, or jumping jacks mixed.#a/DET person/NOUN dance/VERB or/CCONJ jump/VERB jack/NOUN mix/VERB#0.0#0.0

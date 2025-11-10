@@ -1,0 +1,3 @@
+a person squats twice while holding a barbell over his head.#a/DET person/NOUN squat/VERB twice/ADV while/SCONJ hold/VERB a/DET barbell/NOUN over/ADP his/DET head/NOUN#0.0#0.0
+a person has both arms above their head with their elbows bent at a 90 degree angel and does two overhead lifts.#a/DET person/NOUN has/AUX both/CCONJ arm/NOUN above/ADP their/DET head/NOUN with/ADP their/DET elbow/NOUN bent/NOUN at/ADP a/DET degree/NOUN angel/NOUN and/CCONJ does/AUX two/NUM overhead/ADJ lift/NOUN#0.0#0.0
+someone is holding both arms in the air and then squats.#someone/PRON is/AUX hold/VERB both/DET arm/NOUN in/ADP the/DET air/NOUN and/CCONJ then/ADV squat/VERB#0.0#0.0

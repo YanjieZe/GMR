@@ -1,0 +1,3 @@
+a figure tip toes around while walking in a slolam like motion#a/DET figure/NOUN tip/NOUN toe/VERB around/ADV while/SCONJ walk/VERB in/ADP a/DET slolam/NOUN like/SCONJ motion/NOUN#0.0#0.0
+this person walks briskly to the right then the left to the right again and the left.#this/DET person/NOUN walk/VERB briskly/ADV to/ADP the/DET right/NOUN then/ADV the/DET left/NOUN to/ADP the/DET right/NOUN again/ADV and/CCONJ the/DET left/NOUN#0.0#0.0
+a man walks in a curved line.#a/DET man/NOUN walk/VERB in/ADP a/DET curved/ADJ line/NOUN#0.0#0.0

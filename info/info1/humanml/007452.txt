@@ -1,0 +1,3 @@
+someone seems to enter carefully so as not to make noise#someone/PRON seem/VERB to/PART enter/VERB carefully/ADV so/ADV as/SCONJ not/PART to/PART make/VERB noise/NOUN#0.0#0.0
+a person slowly walked#a/DET person/NOUN slowly/ADV walk/VERB#0.0#0.0
+a man crouches and sneaks forward, turning his upper torso slightly to the right.#a/DET man/NOUN crouch/VERB and/CCONJ sneak/NOUN forward/ADV turn/VERB his/DET upper/ADJ torso/NOUN slightly/ADV to/ADP the/DET right/NOUN#0.0#0.0

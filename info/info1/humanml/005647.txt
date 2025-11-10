@@ -1,0 +1,3 @@
+person reached down and pick some thing up with the right hand and he’s carrying it.#person/NOUN reach/VERB down/ADP and/CCONJ pick/VERB some/DET thing/NOUN up/ADP with/ADP the/DET right/ADJ hand/NOUN and/CCONJ he/PRON carry/VERB it/PRON#0.0#0.0
+a person bends down to their right to pick something up and then walks forward.#a/DET person/NOUN bend/VERB down/ADP to/ADP their/DET right/NOUN to/PART pick/VERB something/PRON up/ADP and/CCONJ then/ADV walk/VERB forward/ADV#0.0#0.0
+a person bends down, picks something up, and starts walking.#a/DET person/NOUN bend/VERB down/ADP pick/VERB something/PRON up/ADP and/CCONJ start/VERB walk/VERB#0.0#0.0

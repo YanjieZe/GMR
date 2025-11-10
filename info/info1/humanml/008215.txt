@@ -1,0 +1,3 @@
+person appears to be crouch down and forward as if they are arm wrestling.#person/NOUN appear/VERB to/PART be/AUX crouch/ADJ down/ADV and/CCONJ forward/ADV as/SCONJ if/SCONJ they/PRON are/AUX arm/NOUN wrestle/VERB#0.0#0.0
+a man is kneeling down and moves his right arm outwards.#a/DET man/NOUN is/AUX kneel/VERB down/ADP and/CCONJ move/VERB his/DET right/ADJ arm/NOUN outward/NOUN#0.0#0.0
+man bends down on right leg with right arm lifted up in a supine position then bring arm back inward.#man/NOUN bend/VERB down/ADP on/ADP right/ADJ leg/NOUN with/ADP right/ADJ arm/NOUN lift/VERB up/ADP in/ADP a/DET supine/NOUN position/NOUN then/ADV bring/VERB arm/NOUN back/ADV inward/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+person clasps both hands together then waves arms to side then goes down on right knee bent over ties something on feet then gets up#person/NOUN clasp/NOUN both/DET hand/NOUN together/ADV then/ADV wave/VERB arm/NOUN to/PART side/VERB then/ADV go/VERB down/ADP on/ADP right/ADJ knee/NOUN bent/NOUN over/ADP tie/NOUN something/PRON on/ADP foot/NOUN then/ADV get/VERB up/ADP#0.0#0.0
+someone bend down to tye a shoe#someone/PRON bend/VERB down/ADP to/PART tye/VERB a/DET shoe/NOUN#0.0#0.0
+a person that shouts and goes down to tie their laces and then get up and lifts their arms up#a/DET person/NOUN that/DET shout/VERB and/CCONJ go/VERB down/ADP to/PART tie/VERB their/DET lace/NOUN and/CCONJ then/ADV get/AUX up/ADP and/CCONJ lift/VERB their/DET arm/NOUN up/ADP#0.0#0.0

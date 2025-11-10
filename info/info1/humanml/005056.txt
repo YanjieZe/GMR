@@ -1,0 +1,3 @@
+person walks forward, leans down with left hand on left knee and right hand stretching forward.#person/NOUN walk/VERB forward/ADV lean/VERB down/ADP with/ADP left/ADJ hand/NOUN on/ADP left/ADJ knee/NOUN and/CCONJ right/ADJ hand/NOUN stretch/VERB forward/ADV#0.0#0.0
+a person leans on their left knee and puts their right hand up.#a/DET person/NOUN lean/VERB on/ADP their/DET left/ADJ knee/NOUN and/CCONJ put/VERB their/DET right/ADJ hand/NOUN up/ADP#0.0#0.0
+a person walks forward and then reaches to grab something over a table infront of them#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ then/ADV reach/VERB to/PART grab/VERB something/PRON over/ADP a/DET table/NOUN infront/ADV of/ADP them/PRON#0.0#0.0

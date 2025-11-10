@@ -1,0 +1,3 @@
+a man raises both arms and waves.#a/DET man/NOUN raise/VERB both/DET arm/NOUN and/CCONJ wave/NOUN#0.0#7.0
+a person waving at the crowd#a/DET person/NOUN wave/VERB at/ADP the/DET crowd/NOUN#0.0#0.0
+a person waves both hands across his body.#a/DET person/NOUN wave/VERB both/DET hand/NOUN across/ADP his/DET body/NOUN#0.0#0.0

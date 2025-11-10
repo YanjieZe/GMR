@@ -1,0 +1,3 @@
+the person walks carefully up the stairs, then turn around at the top. they continue down the stairs.#the/DET person/NOUN walk/VERB carefully/ADV up/ADP the/DET stair/NOUN then/ADV turn/VERB around/ADP at/ADP the/DET top/NOUN they/PRON continue/VERB down/ADP the/DET stair/NOUN#0.0#0.0
+a man climbs up steps, then climbs down the steps.#a/DET man/NOUN climb/VERB up/ADP step/NOUN then/ADV climb/VERB down/ADP the/DET step/NOUN#0.0#0.0
+a person steps up on stairs turns around and 180 degrees and then walks back down the stairs#a/DET person/NOUN step/VERB up/ADP on/ADP stair/NOUN turn/VERB around/ADV and/CCONJ degree/NOUN and/CCONJ then/ADV walk/VERB back/ADV down/ADP the/DET stair/NOUN#0.0#0.0

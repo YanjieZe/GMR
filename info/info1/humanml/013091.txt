@@ -1,0 +1,3 @@
+a person takes four steps forward.#a/DET person/NOUN take/VERB four/NUM step/NOUN forward/ADV#0.0#0.0
+walking forward in a straight line.#walk/VERB forward/ADV in/ADP a/DET straight/ADJ line/NOUN#0.0#0.0
+the man wakked forward  4 steps with his hands at his side.#the/DET man/NOUN wakke/VERB forward/ADV step/NOUN with/ADP his/DET hand/NOUN at/ADP his/DET side/NOUN#0.0#0.0

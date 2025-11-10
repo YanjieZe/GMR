@@ -1,0 +1,3 @@
+a person cautiously walks, turns around counter-clockwise walks a bit, turns clockwise, and then raises their arms#a/DET person/NOUN cautiously/ADV walk/VERB turn/VERB around/ADP counterclockwise/NOUN walk/VERB a/DET bit/NOUN turn/VERB clockwise/NOUN and/CCONJ then/ADV raise/VERB their/DET arm/NOUN#0.0#0.0
+a man walks forward, using support beams to balance.#a/DET man/NOUN walk/VERB forward/ADV use/VERB support/NOUN beam/NOUN to/PART balance/VERB#0.0#0.0
+a person walking slowly holding support .#a/DET person/NOUN walk/VERB slowly/ADV hold/VERB support/NOUN#0.0#0.0

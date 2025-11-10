@@ -1,0 +1,3 @@
+a person appears to cradle a baby, with their right hand supporting the head and their left supporting the body.#a/DET person/NOUN appear/VERB to/PART cradle/VERB a/DET baby/NOUN with/ADP their/DET right/ADJ hand/NOUN support/VERB the/DET head/NOUN and/CCONJ their/DET left/NOUN support/VERB the/DET body/NOUN#0.0#0.0
+a person leaned something near to face with right hand#a/DET person/NOUN lean/VERB something/PRON near/ADJ to/PART face/VERB with/ADP right/ADJ hand/NOUN#0.0#0.0
+a man bounces side to side while holding his right hand up and his left hand across his belly#a/DET man/NOUN bounce/VERB side/NOUN to/PART side/VERB while/SCONJ hold/VERB his/DET right/ADJ hand/NOUN up/ADP and/CCONJ his/DET left/ADJ hand/NOUN across/ADP his/DET belly/NOUN#0.0#0.0

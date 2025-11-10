@@ -1,0 +1,3 @@
+walking forward in a straight line then back.#walk/VERB forward/ADV in/ADP a/DET straight/ADJ line/NOUN then/ADV back/ADV#0.0#0.0
+a person walks forward before turning around and walking back.#a/DET person/NOUN walk/VERB forward/ADV before/ADP turn/VERB around/ADP and/CCONJ walk/VERB back/ADV#0.0#0.0
+man walks slowly forward then turns 180 degrees to the left and walks forward back where he began.#man/NOUN walk/VERB slowly/ADV forward/ADV then/ADV turn/VERB degree/NOUN to/ADP the/DET left/NOUN and/CCONJ walk/VERB forward/ADV back/ADV where/ADV he/PRON begin/VERB#0.0#0.0

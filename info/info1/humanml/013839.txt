@@ -1,0 +1,3 @@
+a person throws out their right hand while sitting, then again while standing.#a/DET person/NOUN throw/VERB out/ADP their/DET right/ADJ hand/NOUN while/SCONJ sit/VERB then/ADV again/ADV while/SCONJ stand/VERB#0.0#0.0
+the person is swatting at bugs.#the/DET person/NOUN is/AUX swat/VERB at/ADP bug/NOUN#0.0#0.0
+person sits down throws something two times  gets up throws something with right hand twice#person/NOUN sit/VERB down/ADV throw/NOUN something/PRON two/NUM time/NOUN get/VERB up/ADP throw/NOUN something/PRON with/ADP right/ADJ hand/NOUN twice/ADV#0.0#0.0

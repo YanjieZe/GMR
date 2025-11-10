@@ -1,0 +1,3 @@
+a person quickly walks forward.#a/DET person/NOUN quickly/ADV walk/VERB forward/ADV#0.0#0.0
+a person walks forward.#a/DET person/NOUN walk/VERB forward/ADV#0.0#0.0
+the person takes 2 steps forward and the video ends.#the/DET person/NOUN take/VERB step/NOUN forward/ADV and/CCONJ the/DET video/NOUN end/VERB#0.0#0.0

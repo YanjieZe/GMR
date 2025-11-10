@@ -1,0 +1,3 @@
+the arms are folded into the chest and paced back out to the sides of the body.#the/DET arm/NOUN are/AUX fold/VERB into/ADP the/DET chest/NOUN and/CCONJ pace/VERB back/ADV out/SCONJ to/ADP the/DET side/NOUN of/ADP the/DET body/NOUN#0.0#0.0
+person crosses both arms in centre then releases#person/NOUN cross/VERB both/DET arm/NOUN in/ADP centre/NOUN then/ADV release/VERB#0.0#0.0
+this person standing still folds his arms in front then lowers his arms to the sides.#this/DET person/NOUN stand/VERB still/ADV fold/VERB his/DET arm/NOUN in/ADP front/NOUN then/ADV lower/VERB his/DET arm/NOUN to/ADP the/DET side/NOUN#0.0#0.0

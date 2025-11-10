@@ -1,0 +1,3 @@
+a person swings his right hand.#a/DET person/NOUN swing/VERB his/DET right/ADJ hand/NOUN#0.0#0.0
+the person is playing baseball and throwing a ball.#the/DET person/NOUN is/AUX play/VERB baseball/NOUN and/CCONJ throw/VERB a/DET ball/NOUN#0.0#0.0
+a person throws something with their right hand, then catches with both hands.#a/DET person/NOUN throw/VERB something/PRON with/ADP their/DET right/ADJ hand/NOUN then/ADV catch/VERB with/ADP both/DET hand/NOUN#0.0#0.0

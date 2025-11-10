@@ -1,0 +1,3 @@
+a person using their left hand to wipe something.#a/DET person/NOUN use/VERB their/DET left/ADJ hand/NOUN to/PART wipe/VERB something/PRON#0.0#0.0
+person is wiping off a table#person/NOUN is/AUX wipe/VERB off/ADP a/DET table/NOUN#0.0#0.0
+a standing person putting their left hand forward and moving it clockwise#a/DET stand/VERB person/NOUN put/VERB their/DET left/ADJ hand/NOUN forward/ADV and/CCONJ move/VERB it/PRON clockwise/ADV#0.0#0.0

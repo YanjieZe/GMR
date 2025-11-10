@@ -1,0 +1,3 @@
+a person walks forward on a beam with outstretched arms and then steps down.#a/DET person/NOUN walk/VERB forward/ADV on/ADP a/DET beam/NOUN with/ADP outstretched/ADJ arm/NOUN and/CCONJ then/ADV step/VERB down/ADP#0.0#0.0
+a person walks forward, one foot in front of the other, as if walking on a balance beam.#a/DET person/NOUN walk/VERB forward/ADV one/NUM foot/NOUN in/ADP front/NOUN of/ADP the/DET other/ADJ as/SCONJ if/SCONJ walk/VERB on/ADP a/DET balance/NOUN beam/NOUN#0.0#0.0
+a person is walking on a balancing beam and then stops.#a/DET person/NOUN is/AUX walk/VERB on/ADP a/DET balance/VERB beam/NOUN and/CCONJ then/ADV stop/VERB#0.0#0.0

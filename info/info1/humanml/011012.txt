@@ -1,0 +1,3 @@
+running in a diagonal line.#run/VERB in/ADP a/DET diagonal/ADJ line/NOUN#0.0#0.0
+a man jogs forward with bent arms.#a/DET man/NOUN jog/VERB forward/ADV with/ADP bent/ADJ arm/NOUN#0.0#0.0
+a person ran forward in a left direction#a/DET person/NOUN run/VERB forward/ADV in/ADP a/DET left/ADJ direction/NOUN#0.0#0.0

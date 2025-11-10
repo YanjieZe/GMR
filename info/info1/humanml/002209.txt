@@ -1,0 +1,3 @@
+a man walks in a forward arc, skewing to the right side of the screen.#a/DET man/NOUN walk/VERB in/ADP a/DET forward/NOUN arc/NOUN skew/VERB to/ADP the/DET right/ADJ side/NOUN of/ADP the/DET screen/NOUN#0.0#0.0
+a person is forward in a motion that is turning them left.#a/DET person/NOUN is/AUX forward/ADV in/ADP a/DET motion/NOUN that/DET is/AUX turn/VERB them/PRON left/VERB#0.0#0.0
+someone walks in a quarter arch to the right.#someone/PRON walk/VERB in/ADP a/DET quarter/NOUN arch/ADJ to/ADP the/DET right/NOUN#0.0#0.0

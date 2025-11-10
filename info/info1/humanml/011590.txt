@@ -1,0 +1,3 @@
+a person rubs their stomach with their right hand.#a/DET person/NOUN rub/VERB their/DET stomach/NOUN with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+the person rubs their belly with their right hand in a circle.#the/DET person/NOUN rub/VERB their/DET belly/NOUN with/ADP their/DET right/ADJ hand/NOUN in/ADP a/DET circle/NOUN#0.0#0.0
+the sim is standing still, appearing to brush their chest with their right hand before resting it again at about their waist level.#the/DET sim/PROPN is/AUX stand/VERB still/ADV appear/VERB to/PART brush/VERB their/DET chest/NOUN with/ADP their/DET right/ADJ hand/NOUN before/ADP rest/VERB it/PRON again/ADV at/ADP about/ADP their/DET waist/ADJ level/NOUN#0.0#4.0

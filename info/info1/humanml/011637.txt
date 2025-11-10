@@ -1,0 +1,3 @@
+a person walks backwards and reaches a staircase, and continues walking backwards up it.#a/DET person/NOUN walk/VERB backwards/ADV and/CCONJ reach/VERB a/DET staircase/NOUN and/CCONJ continue/VERB walk/VERB backwards/ADV up/ADP it/PRON#0.0#0.0
+the man steps backwards up steps.#the/DET man/NOUN step/VERB backwards/ADV up/ADP step/NOUN#0.0#0.0
+the person walks backwards and proceeds in the same direction up a set of stairs.#the/DET person/NOUN walk/VERB backwards/ADV and/CCONJ proceed/NOUN in/ADP the/DET same/ADJ direction/NOUN up/ADP a/DET set/NOUN of/ADP stair/NOUN#0.0#0.0

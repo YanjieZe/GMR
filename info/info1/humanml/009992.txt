@@ -1,0 +1,3 @@
+a person waves with both hands.#a/DET person/NOUN wave/VERB with/ADP both/DET hand/NOUN#0.0#0.0
+a person lifts both arms and moves hands in and out.#a/DET person/NOUN lift/VERB both/CCONJ arm/NOUN and/CCONJ move/VERB hand/NOUN in/ADV and/CCONJ out/ADV#0.0#0.0
+a person waves with both hands.#a/DET person/NOUN wave/VERB with/ADP both/DET hand/NOUN#0.0#0.0

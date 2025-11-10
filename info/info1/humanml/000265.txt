@@ -1,0 +1,3 @@
+a person is in a seated position and making a steering gesture.#a/DET person/NOUN is/AUX in/ADP a/DET seated/ADJ position/NOUN and/CCONJ make/VERB a/DET steering/NOUN gesture/NOUN#0.0#0.0
+i see someone seated and turning an imaginary steering wheel#i/PRON see/VERB someone/PRON seat/VERB and/CCONJ turn/VERB an/DET imaginary/ADJ steering/NOUN wheel/NOUN#0.0#0.0
+person is sitting in a vehicle and turning the steering wheel#person/NOUN is/AUX sit/VERB in/ADP a/DET vehicle/NOUN and/CCONJ turn/VERB the/DET steering/NOUN wheel/NOUN#0.0#0.0

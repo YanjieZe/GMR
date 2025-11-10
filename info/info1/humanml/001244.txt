@@ -1,0 +1,3 @@
+a person lunges to their right, then sprints forward and to their left.#a/DET person/NOUN lunge/VERB to/ADP their/DET right/NOUN then/ADV sprint/VERB forward/ADV and/CCONJ to/ADP their/DET left/NOUN#0.0#0.0
+person runs quickly to the left#person/NOUN run/VERB quickly/ADV to/ADP the/DET left/NOUN#0.0#0.0
+a person bounces a ball with their right hand and very quickly run past something and to the left.#a/DET person/NOUN bounce/VERB a/DET ball/NOUN with/ADP their/DET right/ADJ hand/NOUN and/CCONJ very/ADV quickly/ADV run/VERB past/ADP something/PRON and/CCONJ to/ADP the/DET left/NOUN#0.0#0.0

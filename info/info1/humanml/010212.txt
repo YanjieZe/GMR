@@ -1,0 +1,3 @@
+a person waves his left hand.#a/DET person/NOUN wave/VERB his/DET left/ADJ hand/NOUN#0.0#0.0
+a person raises left hand to forehead, waves it to the left direction in the air, retracts, and drop it down.#a/DET person/NOUN raise/VERB left/VERB hand/NOUN to/ADP forehead/NOUN wave/VERB it/PRON to/ADP the/DET left/ADJ direction/NOUN in/ADP the/DET air/NOUN retract/NOUN and/CCONJ drop/VERB it/PRON down/ADP#0.0#0.0
+a person lifts up and waves with their left hand#a/DET person/NOUN lift/VERB up/ADP and/CCONJ wave/NOUN with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0

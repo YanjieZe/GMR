@@ -1,0 +1,3 @@
+a person makes some small motions with both hands, then brings their right arm to their left should twice.#a/DET person/NOUN make/VERB some/DET small/ADJ motion/NOUN with/ADP both/DET hand/NOUN then/ADV bring/VERB their/DET right/ADJ arm/NOUN to/ADP their/DET left/NOUN should/VERB twice/ADV#0.0#0.0
+a person grabs an item and sets it in front of them.#a/DET person/NOUN grab/VERB an/DET item/NOUN and/CCONJ set/VERB it/PRON in/ADP front/NOUN of/ADP them/PRON#0.0#0.0
+raising hands toward the chest#raise/VERB hand/NOUN toward/ADP the/DET chest/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+the person was jogging in place.#the/DET person/NOUN was/AUX jog/VERB in/ADP place/NOUN#0.0#0.0
+a person jogs on the spot#a/DET person/NOUN jog/VERB on/ADP the/DET spot/NOUN#0.0#0.0
+the sim is jogging in place.#the/DET sim/PROPN is/AUX jog/VERB in/ADP place/NOUN#0.0#0.0

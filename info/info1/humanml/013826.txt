@@ -1,0 +1,3 @@
+the man is moving his legs and arms#the/DET man/NOUN is/AUX move/VERB his/DET leg/NOUN and/CCONJ arm/NOUN#0.0#0.0
+a person wobbles over to his left and then wobbles over to his right#a/DET person/NOUN wobble/VERB over/ADP to/ADP his/DET left/NOUN and/CCONJ then/ADV wobble/VERB over/ADP to/ADP his/DET right/NOUN#0.0#0.0
+a man is being aggressive towards another and then slaps the other in the head with his left hand.#a/DET man/NOUN is/AUX being/AUX aggressive/ADJ towards/ADP another/DET and/CCONJ then/ADV slap/VERB the/DET other/ADJ in/ADP the/DET head/NOUN with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0

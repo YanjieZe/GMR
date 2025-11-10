@@ -1,0 +1,3 @@
+a person does small movements as if they were imitating cooking. like adding spices to a dish or moving a pan.#a/DET person/NOUN does/AUX small/ADJ movement/NOUN as/SCONJ if/SCONJ they/PRON were/AUX imitate/VERB cooking/NOUN like/SCONJ add/VERB spice/NOUN to/ADP a/DET dish/NOUN or/CCONJ move/VERB a/DET pan/NOUN#0.0#0.0
+a person cleaning their right arm#a/DET person/NOUN clean/VERB their/DET right/ADJ arm/NOUN#0.0#0.0
+a person walks forward and grabs something#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ grab/NOUN something/PRON#0.0#0.0

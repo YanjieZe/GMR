@@ -1,0 +1,3 @@
+a person acts as if they are picking up a bucket of water and pours it out.#a/DET person/NOUN act/VERB as/SCONJ if/SCONJ they/PRON are/AUX pick/VERB up/ADP a/DET bucket/NOUN of/ADP water/NOUN and/CCONJ pour/VERB it/PRON out/ADP#0.0#0.0
+a person displaces an objecy by tilting it from right to left.#a/DET person/NOUN displace/VERB an/DET objecy/NOUN by/ADP tilt/VERB it/PRON from/ADP right/NOUN to/ADP left/NOUN#0.0#0.0
+a person holds something in both arms and then lifts the object with his left arm before returning it to its original position#a/DET person/NOUN hold/VERB something/PRON in/ADP both/DET arm/NOUN and/CCONJ then/ADV lift/VERB the/DET object/NOUN with/ADP his/DET left/ADJ arm/NOUN before/ADP return/VERB it/PRON to/ADP its/DET original/ADJ position/NOUN#0.0#0.0

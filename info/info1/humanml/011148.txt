@@ -1,0 +1,3 @@
+person walks backwards up the stair case.#person/NOUN walk/VERB backwards/ADV up/ADP the/DET stair/NOUN case/NOUN#0.0#0.0
+a person takes a couple of steps backwards.#a/DET person/NOUN take/VERB a/DET couple/NOUN of/ADP step/NOUN backwards/ADV#0.0#0.0
+person is walking straight backwards.#person/NOUN is/AUX walk/VERB straight/ADV backwards/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a man walks to the side, and then circles back around. only one arm is swinging.#a/DET man/NOUN walk/VERB to/ADP the/DET side/NOUN and/CCONJ then/ADV circle/VERB back/ADV around/ADV only/ADV one/NUM arm/NOUN is/AUX swinge/VERB#0.0#0.0
+a person is walking around in circles with their right arm resting on or in something.#a/DET person/NOUN is/AUX walk/VERB around/ADV in/ADP circle/NOUN with/ADP their/DET right/ADJ arm/NOUN rest/VERB on/ADP or/CCONJ in/ADP something/PRON#0.0#0.0
+a person walks in a circle to their left.#a/DET person/NOUN walk/VERB in/ADP a/DET circle/NOUN to/ADP their/DET left/NOUN#0.0#0.0

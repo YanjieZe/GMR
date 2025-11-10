@@ -1,0 +1,3 @@
+person crouches down from moving from right to left in a stalking manor#person/NOUN crouch/VERB down/ADP from/ADP move/VERB from/ADP right/NOUN to/ADP left/VERB in/ADP a/DET stalking/NOUN manor/NOUN#0.0#0.0
+this man is bent forward and walks slowly around.#this/DET man/NOUN is/AUX bent/ADJ forward/ADV and/CCONJ walk/VERB slowly/ADV around/ADV#0.0#0.0
+a person hunches over and walks around as if looking for something on ground#a/DET person/NOUN hunch/VERB over/ADP and/CCONJ walk/VERB around/ADV as/SCONJ if/SCONJ look/VERB for/ADP something/PRON on/ADP ground/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a hunched individual slowly wobbles forward in a drunken manner.#a/DET hunched/ADJ individual/NOUN slowly/ADV wobble/VERB forward/ADV in/ADP a/DET drunken/ADJ manner/NOUN#0.0#0.0
+a person who has his hands by his sides slowly creeps forward while looking about.#a/DET person/NOUN who/PRON has/AUX his/DET hand/NOUN by/ADP his/DET side/NOUN slowly/ADV creep/VERB forward/ADV while/SCONJ look/VERB about/ADP#0.0#0.0
+man walking in leaning forward position moving head from side to side.#man/NOUN walk/VERB in/ADP lean/VERB forward/ADJ position/NOUN move/VERB head/NOUN from/ADP side/NOUN to/ADP side/NOUN#0.0#0.0

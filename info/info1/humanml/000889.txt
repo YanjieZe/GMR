@@ -1,0 +1,3 @@
+a person aggressively grabbing holding something before drinking it.#a/DET person/NOUN aggressively/ADV grab/VERB hold/VERB something/PRON before/ADP drink/VERB it/PRON#0.0#0.0
+a person turns around sadly to wipe away their tears.#a/DET person/NOUN turn/VERB around/ADP sadly/ADV to/PART wipe/VERB away/ADV their/DET tear/NOUN#0.0#0.0
+a person turns round 180 degrees in a clockwise direction then appears to open a ring pull can and drink out of it.#a/DET person/NOUN turn/VERB round/ADJ degree/NOUN in/ADP a/DET clockwise/ADJ direction/NOUN then/ADV appear/VERB to/PART open/VERB a/DET ring/NOUN pull/NOUN can/VERB and/CCONJ drink/VERB out/SCONJ of/ADP it/PRON#0.0#10.0

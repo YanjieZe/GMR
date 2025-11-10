@@ -1,0 +1,3 @@
+a person jogs forward and stops.#a/DET person/NOUN jog/VERB forward/ADV and/CCONJ stop/NOUN#0.0#0.0
+a person jogs forward a few steps, bringing his hands up to chest height as he does, then ends in a standing posture.#a/DET person/NOUN jog/VERB forward/ADV a/DET few/ADJ step/NOUN bring/VERB his/DET hand/NOUN up/ADP to/ADP chest/NOUN height/NOUN as/SCONJ he/PRON does/AUX then/ADV end/VERB in/ADP a/DET standing/NOUN posture/NOUN#0.0#0.0
+the man runs forward in a walking fashion.  he then stops running and stands still.#the/DET man/NOUN run/VERB forward/ADV in/ADP a/DET walking/NOUN fashion/NOUN he/PRON then/ADV stop/VERB run/VERB and/CCONJ stand/VERB still/ADV#0.0#0.0

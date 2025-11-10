@@ -1,0 +1,3 @@
+a person is jump up and down while circling both hands forward, then continues to jumping on one leg alternatively.#a/DET person/NOUN is/AUX jump/VERB up/ADP and/CCONJ down/ADV while/SCONJ circle/VERB both/DET hand/NOUN forward/ADV then/ADV continue/VERB to/ADP jump/VERB on/ADP one/NUM leg/NOUN alternatively/ADV#0.0#10.0
+a person swings their arm as they jump.#a/DET person/NOUN swing/VERB their/DET arm/NOUN as/SCONJ they/PRON jump/VERB#0.0#4.0
+person is skipping in the spot#person/NOUN is/AUX skip/VERB in/ADP the/DET spot/NOUN#0.0#0.0

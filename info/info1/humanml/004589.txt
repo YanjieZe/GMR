@@ -1,0 +1,3 @@
+a man does a cartwheel, turns around and walks away.#a/DET man/NOUN does/AUX a/DET cartwheel/NOUN turn/VERB around/ADV and/CCONJ walk/VERB away/ADV#0.0#0.0
+person takes a few steps forward and then a cartwheel and walks back towards the left side diagnolly#person/NOUN take/VERB a/DET few/ADJ step/NOUN forward/ADV and/CCONJ then/ADV a/DET cartwheel/NOUN and/CCONJ walk/VERB back/ADV towards/ADP the/DET left/ADJ side/NOUN diagnolly/ADV#0.0#0.0
+a person jumps and does cartwheel and walks back.#a/DET person/NOUN jump/VERB and/CCONJ does/AUX cartwheel/VERB and/CCONJ walk/VERB back/ADV#0.0#0.0

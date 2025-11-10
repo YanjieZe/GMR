@@ -1,0 +1,3 @@
+a person walking towards an edge and then stopping to examine.#a/DET person/NOUN walk/VERB towards/ADP an/DET edge/NOUN and/CCONJ then/ADV stop/VERB to/PART examine/VERB#0.0#0.0
+a person walks to the right in a forward circling motion.#a/DET person/NOUN walk/VERB to/ADP the/DET right/NOUN in/ADP a/DET forward/ADV circling/NOUN motion/NOUN#0.0#0.0
+a person walks to the right hand side in a counter clockwise semicircle while keeping posture very straight.#a/DET person/NOUN walk/VERB to/ADP the/DET right/ADJ hand/NOUN side/NOUN in/ADP a/DET counter/NOUN clockwise/NOUN semicircle/NOUN while/SCONJ keep/VERB posture/NOUN very/ADV straight/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+the person is leaving something in circular motions.#the/DET person/NOUN is/AUX leave/VERB something/PRON in/ADP circular/ADJ motion/NOUN#0.0#0.0
+a person moves something with their right hand.#a/DET person/NOUN move/VERB something/PRON with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+subject moves right arm in a small circular motion then stops.#subject/ADJ move/VERB right/ADJ arm/NOUN in/ADP a/DET small/ADJ circular/ADJ motion/NOUN then/ADV stop/VERB#0.0#0.0

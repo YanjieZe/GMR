@@ -1,0 +1,3 @@
+a person taking something from a shelf.#a/DET person/NOUN take/VERB something/PRON from/ADP a/DET shelf/NOUN#0.0#0.0
+a man moves his right arm forward and touches something.#a/DET man/NOUN move/VERB his/DET right/ADJ arm/NOUN forward/ADV and/CCONJ touch/VERB something/PRON#0.0#0.0
+a person taking something from a shelf with their right hand#a/DET person/NOUN take/VERB something/PRON from/ADP a/DET shelf/NOUN with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0

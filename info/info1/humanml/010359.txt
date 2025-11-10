@@ -1,0 +1,3 @@
+someone is walking diagonally holding their right elbow with their left hand.#someone/PRON is/AUX walk/VERB diagonally/ADV hold/VERB their/DET right/ADJ elbow/NOUN with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0
+walking forward while holding chest.#walk/VERB forward/ADV while/SCONJ hold/VERB chest/NOUN#0.0#0.0
+a person walking towards the right while their left hand holding their right arm.#a/DET person/NOUN walk/VERB towards/ADP the/DET right/NOUN while/SCONJ their/DET left/ADJ hand/NOUN hold/VERB their/DET right/ADJ arm/NOUN#0.0#0.0

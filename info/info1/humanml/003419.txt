@@ -1,0 +1,3 @@
+a man touches his head with his right hand.#a/DET man/NOUN touch/VERB his/DET head/NOUN with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+a standing person raises left hand in a salute, then puts it back down.#a/DET stand/VERB person/NOUN raise/VERB left/ADJ hand/NOUN in/ADP a/DET salute/NOUN then/ADV put/VERB it/PRON back/ADV down/ADP#0.0#0.0
+a man smoking with his left hand.#a/DET man/NOUN smoke/VERB with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0

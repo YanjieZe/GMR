@@ -1,0 +1,3 @@
+a person steps onto a narrow walkway, unsteadily moves across, and then back down to the ground.#a/DET person/NOUN step/VERB onto/ADP a/DET narrow/ADJ walkway/NOUN unsteadily/ADV move/VERB across/ADP and/CCONJ then/ADV back/ADV down/ADP to/ADP the/DET ground/NOUN#0.0#0.0
+a person steps up onto something, walks forward, then steps down#a/DET person/NOUN step/VERB up/ADP onto/ADP something/PRON walk/VERB forward/ADV then/ADV step/VERB down/ADV#0.0#0.0
+a person steps up and walks across the floor#a/DET person/NOUN step/VERB up/ADP and/CCONJ walk/VERB across/ADP the/DET floor/NOUN#0.0#0.0

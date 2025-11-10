@@ -1,0 +1,3 @@
+the person is sitting down with his arm straight out of the side.#the/DET person/NOUN is/AUX sit/VERB down/ADP with/ADP his/DET arm/NOUN straight/ADV out/SCONJ of/ADP the/DET side/NOUN#0.0#0.0
+a person is sitting down, with their arms at their sides, and then places them up at shoulder level to rest on something.#a/DET person/NOUN is/AUX sit/VERB down/ADP with/ADP their/DET arm/NOUN at/ADP their/DET side/NOUN and/CCONJ then/ADV place/VERB them/PRON up/ADP at/ADP shoulder/NOUN level/NOUN to/PART rest/VERB on/ADP something/PRON#0.0#0.0
+a person sits and then eventually raises their arms at their sides.#a/DET person/NOUN sit/VERB and/CCONJ then/ADV eventually/ADV raise/VERB their/DET arm/NOUN at/ADP their/DET side/NOUN#0.0#0.0

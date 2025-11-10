@@ -1,0 +1,3 @@
+the man takes 9 proud steps forward and turns around.#the/DET man/NOUN take/VERB proud/ADJ step/NOUN forward/ADV and/CCONJ turn/VERB around/ADV#0.0#0.0
+a person walks forward then turns around and looks at the path they have walked#a/DET person/NOUN walk/VERB forward/ADV then/ADV turn/VERB around/ADP and/CCONJ look/VERB at/ADP the/DET path/NOUN they/PRON have/AUX walk/VERB#0.0#0.0
+the person walks forward slowly then turns around.#the/DET person/NOUN walk/VERB forward/ADV slowly/ADV then/ADV turn/VERB around/ADV#0.0#0.0

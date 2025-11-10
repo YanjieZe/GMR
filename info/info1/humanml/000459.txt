@@ -1,0 +1,3 @@
+a person is performing a pitching motion as if throwing a ball.#a/DET person/NOUN is/AUX perform/VERB a/DET pitching/NOUN motion/NOUN as/SCONJ if/SCONJ throw/VERB a/DET ball/NOUN#0.0#0.0
+person is doing a baseball throw but in slow motion#person/NOUN is/AUX do/VERB a/DET baseball/NOUN throw/NOUN but/CCONJ in/ADP slow/ADJ motion/NOUN#0.0#0.0
+a person brings their hands together twice, then throws something#a/DET person/NOUN bring/VERB their/DET hand/NOUN together/ADV twice/ADV then/ADV throw/VERB something/PRON#0.0#0.0

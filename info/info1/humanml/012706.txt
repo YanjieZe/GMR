@@ -1,0 +1,3 @@
+he boxes right upwards then stops#he/PRON box/VERB right/ADV upwards/ADV then/ADV stop/VERB#0.0#0.0
+a figure reaches up and turns right.#a/DET figure/NOUN reach/VERB up/ADP and/CCONJ turn/VERB right/ADJ#0.0#0.0
+person is doing a boxing uppercut#person/NOUN is/AUX do/VERB a/DET boxing/NOUN uppercut/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+person does a star jump#person/NOUN does/AUX a/DET star/NOUN jump/NOUN#0.0#0.0
+person does one squat thrust fast#person/NOUN does/AUX one/NUM squat/NOUN thrust/VERB fast/ADV#0.0#0.0
+a man jumps up and comes back down on his two feet.#a/DET man/NOUN jump/VERB up/ADP and/CCONJ come/VERB back/ADV down/ADV on/ADP his/DET two/NUM foot/NOUN#0.0#0.0

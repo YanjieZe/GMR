@@ -1,0 +1,3 @@
+the right hand goes to the stomach, pauses, and placed back down to the side.#the/DET right/ADJ hand/NOUN go/VERB to/ADP the/DET stomach/NOUN pause/NOUN and/CCONJ place/VERB back/ADP down/ADV to/ADP the/DET side/NOUN#0.0#0.0
+this person is standing still and looked at his arm as if there was a watch.#this/DET person/NOUN is/AUX stand/VERB still/ADV and/CCONJ look/VERB at/ADP his/DET arm/NOUN as/SCONJ if/SCONJ there/PRON was/AUX a/DET watch/NOUN#0.0#0.0
+a figure brings its hand to its chest, tapping it twice#a/DET figure/NOUN bring/VERB its/DET hand/NOUN to/ADP its/DET chest/NOUN tap/VERB it/PRON twice/ADV#0.0#0.0

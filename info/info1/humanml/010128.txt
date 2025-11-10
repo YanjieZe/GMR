@@ -1,0 +1,2 @@
+a man walks forward and then turns around before stopping.#a/DET man/NOUN walk/VERB forward/ADV and/CCONJ then/ADV turn/VERB around/ADP before/ADP stop/VERB#0.0#0.0
+a person walks forward, then turns around and faces the opposite direction.#a/DET person/NOUN walk/VERB forward/ADV then/ADV turn/VERB around/ADV and/CCONJ face/VERB the/DET opposite/ADJ direction/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+ther person walks forward and leans down to pick something up.#ther/PROPN person/NOUN walk/VERB forward/ADV and/CCONJ lean/VERB down/ADP to/PART pick/VERB something/PRON up/ADP#0.0#0.0
+a person walks forward and picks something up off the ground with their right hand.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ pick/VERB something/PRON up/ADP off/ADP the/DET ground/NOUN with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+a person walks forward slowly and then stops and bends over to pick up something with their right arm and hand.#a/DET person/NOUN walk/VERB forward/ADV slowly/ADV and/CCONJ then/ADV stop/VERB and/CCONJ bend/VERB over/ADP to/PART pick/VERB up/ADP something/PRON with/ADP their/DET right/ADJ arm/NOUN and/CCONJ hand/NOUN#0.0#0.0

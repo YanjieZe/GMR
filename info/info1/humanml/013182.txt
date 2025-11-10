@@ -1,0 +1,3 @@
+person moves left and right leg slowly then quickly moves them in a fast motion#person/NOUN move/VERB left/VERB and/CCONJ right/ADJ leg/NOUN slowly/ADV then/ADV quickly/ADV move/VERB them/PRON in/ADP a/DET fast/ADJ motion/NOUN#0.0#0.0
+a person bounces quickly between their feet and moves their arms in time with their feet.#a/DET person/NOUN bounce/VERB quickly/ADV between/ADP their/DET foot/NOUN and/CCONJ move/VERB their/DET arm/NOUN in/ADP time/NOUN with/ADP their/DET foot/NOUN#0.0#0.0
+a person vigorously runs in place.#a/DET person/NOUN vigorously/ADV run/VERB in/ADP place/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a man leans down and puts his left knee and hand down to the ground and then right knee and hand, then man sits straight up kneeling down on the ground.#a/DET man/NOUN lean/VERB down/ADP and/CCONJ put/VERB his/DET left/ADJ knee/NOUN and/CCONJ hand/VERB down/ADP to/ADP the/DET ground/NOUN and/CCONJ then/ADV right/INTJ knee/NOUN and/CCONJ hand/NOUN then/ADV man/NOUN sit/VERB straight/ADV up/ADV kneel/VERB down/ADP on/ADP the/DET ground/NOUN#0.0#0.0
+the person is kneeling down with both hands.#the/DET person/NOUN is/AUX kneel/VERB down/ADP with/ADP both/DET hand/NOUN#0.0#0.0
+band on the floor push the hands.#band/NOUN on/ADP the/DET floor/NOUN push/VERB the/DET hand/NOUN#0.0#0.0

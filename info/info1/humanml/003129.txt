@@ -1,0 +1,3 @@
+person person who’s doing jumping jacks.#person/NOUN person/NOUN who/PRON do/VERB jump/VERB jack/NOUN#0.0#0.0
+a person jumps up and down moving their legs out and in, as with each jump they move their arms up and down.#a/DET person/NOUN jump/VERB up/ADV and/CCONJ down/ADV move/VERB their/DET leg/NOUN out/ADV and/CCONJ in/ADP as/SCONJ with/ADP each/DET jump/NOUN they/PRON move/VERB their/DET arm/NOUN up/ADV and/CCONJ down/ADV#0.0#0.0
+doing a jumping jack up and down and pausing slightly going up and down.#do/VERB a/DET jumping/ADJ jack/NOUN up/ADV and/CCONJ down/ADV and/CCONJ pause/VERB slightly/ADV go/VERB up/ADV and/CCONJ down/ADV#0.0#0.0

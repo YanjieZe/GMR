@@ -1,0 +1,3 @@
+person kneels down using stool and left hand#person/NOUN kneel/VERB down/ADP use/VERB stool/NOUN and/CCONJ left/ADJ hand/NOUN#0.0#0.0
+a person stood in a t pose and then went on their knees#a/DET person/NOUN stand/VERB in/ADP a/DET t/NOUN pose/NOUN and/CCONJ then/ADV go/VERB on/ADP their/DET knee/NOUN#0.0#0.0
+man starts with arms in the air and then puts them down. the man gets on his knees , starting with the left and then right.#man/NOUN start/VERB with/ADP arm/NOUN in/ADP the/DET air/NOUN and/CCONJ then/ADV put/VERB them/PRON down/ADP the/DET man/NOUN get/VERB on/ADP his/DET knee/NOUN start/VERB with/ADP the/DET left/NOUN and/CCONJ then/ADV right/INTJ#0.0#0.0

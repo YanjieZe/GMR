@@ -1,0 +1,3 @@
+subject starts in squat position and remains for two seconds.#subject/ADJ start/VERB in/ADP squat/ADJ position/NOUN and/CCONJ remain/VERB for/ADP two/NUM second/NOUN#0.0#0.0
+someone eating finger right, exercise#someone/PRON eat/VERB finger/NOUN right/NOUN exercise/NOUN#0.0#0.0
+someone is squatting, arms shaking slightly in front of their face.#someone/PRON is/AUX squat/VERB arm/NOUN shake/VERB slightly/ADV in/ADP front/NOUN of/ADP their/DET face/NOUN#0.0#0.0

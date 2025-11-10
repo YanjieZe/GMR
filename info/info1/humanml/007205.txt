@@ -1,0 +1,3 @@
+a person sits down and begins eating really fast.#a/DET person/NOUN sit/VERB down/ADP and/CCONJ begin/VERB eat/VERB really/ADV fast/ADV#0.0#0.0
+the person is doing a gesture and then sitting down.#the/DET person/NOUN is/AUX do/VERB a/DET gesture/NOUN and/CCONJ then/ADV sit/VERB down/ADP#0.0#0.0
+the person looks to bend at the waist and sit down. then looks to root on whatever is going on.#the/DET person/NOUN look/VERB to/PART bend/VERB at/ADP the/DET waist/NOUN and/CCONJ sit/VERB down/ADP then/ADV look/VERB to/PART root/VERB on/ADP whatever/DET is/AUX go/VERB on/ADP#0.0#0.0

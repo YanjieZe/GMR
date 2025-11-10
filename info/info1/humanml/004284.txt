@@ -1,0 +1,3 @@
+a person walks with side steps to the right and then walks forward, then turn around and walks back#a/DET person/NOUN walk/VERB with/ADP side/ADJ step/NOUN to/ADP the/DET right/NOUN and/CCONJ then/ADV walk/VERB forward/ADV then/ADV turn/VERB around/ADP and/CCONJ walk/VERB back/ADV#0.0#0.0
+the person is walking then runnijg.#the/DET person/NOUN is/AUX walk/VERB then/ADV runnijg/ADJ#0.0#0.0
+a person sidesteps around the room, then runs forward#a/DET person/NOUN sidestep/VERB around/ADP the/DET room/NOUN then/ADV run/VERB forward/ADV#0.0#0.0

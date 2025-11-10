@@ -1,0 +1,3 @@
+a person is walking while holding something and then looking at their phone#a/DET person/NOUN is/AUX walk/VERB while/SCONJ hold/VERB something/PRON and/CCONJ then/ADV look/VERB at/ADP their/DET phone/NOUN#0.0#0.0
+a person walks slowly in a half circle counterclockwise while holding something.#a/DET person/NOUN walk/VERB slowly/ADV in/ADP a/DET half/ADJ circle/NOUN counterclockwise/NOUN while/SCONJ hold/VERB something/PRON#0.0#4.0
+a person walking around carrying something in hands.#a/DET person/NOUN walk/VERB around/ADP carry/VERB something/PRON in/ADP hand/NOUN#0.0#0.0

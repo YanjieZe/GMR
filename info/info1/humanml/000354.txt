@@ -1,0 +1,3 @@
+a man jumps up and down 10 times.#a/DET man/NOUN jump/VERB up/ADV and/CCONJ down/ADV time/NOUN#0.0#0.0
+he is jumping very fast.#he/PRON is/AUX jump/VERB very/ADV fast/ADV#0.0#0.0
+a man jumps in place several times while letting his arms swing.#a/DET man/NOUN jump/VERB in/ADP place/NOUN several/ADJ time/NOUN while/SCONJ let/VERB his/DET arm/NOUN swing/NOUN#0.0#0.0

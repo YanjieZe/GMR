@@ -1,0 +1,3 @@
+a person boxes with the left and right hands.#a/DET person/NOUN box/VERB with/ADP the/DET left/ADJ and/CCONJ right/ADJ hand/NOUN#0.0#0.0
+a person punches in the air.#a/DET person/NOUN punch/VERB in/ADP the/DET air/NOUN#0.0#0.0
+a man punches left than right.#a/DET man/NOUN punch/VERB left/VERB than/SCONJ right/ADV#0.0#0.0

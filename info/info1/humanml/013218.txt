@@ -1,0 +1,3 @@
+a person walks forward with both arms raised high above their head.#a/DET person/NOUN walk/VERB forward/ADV with/ADP both/DET arm/NOUN raise/VERB high/ADV above/ADP their/DET head/NOUN#0.0#0.0
+a person walks forward while raising both hands in the air.#a/DET person/NOUN walk/VERB forward/ADV while/SCONJ raise/VERB both/DET hand/NOUN in/ADP the/DET air/NOUN#0.0#0.0
+figure walks forward with hands raised in the air.#figure/NOUN walk/VERB forward/ADV with/ADP hand/NOUN raise/VERB in/ADP the/DET air/NOUN#0.0#0.0

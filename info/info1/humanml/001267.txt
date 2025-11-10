@@ -1,0 +1,3 @@
+person upper body bends over as if someone pushed him and regains his balance using leg strength#person/NOUN upper/ADJ body/NOUN bend/VERB over/ADP as/SCONJ if/SCONJ someone/PRON push/VERB him/PRON and/CCONJ regain/VERB his/DET balance/NOUN use/VERB leg/NOUN strength/NOUN#0.0#0.0
+bending down once then up.#bend/VERB down/ADP once/ADV then/ADV up/ADV#0.0#0.0
+a person bends down before returning to normal posture.#a/DET person/NOUN bend/VERB down/ADP before/ADP return/VERB to/ADP normal/ADJ posture/NOUN#0.0#0.0

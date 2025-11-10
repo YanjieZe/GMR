@@ -1,0 +1,3 @@
+the person looks at his left hand.#the/DET person/NOUN look/VERB at/ADP his/DET left/ADJ hand/NOUN#0.0#0.0
+person lifts up his left hand to look at something in it#person/NOUN lift/VERB up/ADP his/DET left/ADJ hand/NOUN to/PART look/VERB at/ADP something/PRON in/ADP it/PRON#0.0#0.0
+person waves their left hand#person/NOUN wave/VERB their/DET left/ADJ hand/NOUN#0.0#0.0

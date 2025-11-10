@@ -1,0 +1,3 @@
+a person stretches right hand forward#a/DET person/NOUN stretch/VERB right/ADJ hand/NOUN forward/ADV#0.0#0.0
+this person raises his right arm then lowers it.#this/DET person/NOUN raise/VERB his/DET right/ADJ arm/NOUN then/ADV lower/VERB it/PRON#0.0#0.0
+a person raised the right hand#a/DET person/NOUN raise/VERB the/DET right/ADJ hand/NOUN#0.0#0.0

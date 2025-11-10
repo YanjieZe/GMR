@@ -1,0 +1,3 @@
+the figure shambles in a drunken state, struggling to walk in a straight line; it moves awkwardly towards the right.#the/DET figure/NOUN shamble/NOUN in/ADP a/DET drunken/ADJ state/NOUN struggle/VERB to/PART walk/VERB in/ADP a/DET straight/ADJ line/NOUN it/PRON move/VERB awkwardly/ADV towards/ADP the/DET right/NOUN#0.0#0.0
+the person walks forward, then over to the right, as if they are trying to step over something.#the/DET person/NOUN walk/VERB forward/ADV then/ADV over/ADV to/ADP the/DET right/NOUN as/SCONJ if/SCONJ they/PRON are/AUX try/VERB to/PART step/VERB over/ADP something/PRON#0.0#0.0
+a person walks forward with their arms at their sides.#a/DET person/NOUN walk/VERB forward/ADV with/ADP their/DET arm/NOUN at/ADP their/DET side/NOUN#0.0#0.0

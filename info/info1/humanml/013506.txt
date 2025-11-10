@@ -1,0 +1,3 @@
+a man wiggles his arms in front of him.#a/DET man/NOUN wiggle/VERB his/DET arm/NOUN in/ADP front/NOUN of/ADP him/PRON#0.0#0.0
+a person shakes their upper body.#a/DET person/NOUN shake/VERB their/DET upper/ADJ body/NOUN#0.0#0.0
+a person shaking their shoulders and arms.#a/DET person/NOUN shake/VERB their/DET shoulder/NOUN and/CCONJ arm/NOUN#0.0#0.0

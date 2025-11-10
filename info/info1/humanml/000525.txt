@@ -1,0 +1,3 @@
+a person has their hand at their chest and shakes their waist.#a/DET person/NOUN has/AUX their/DET hand/NOUN at/ADP their/DET chest/NOUN and/CCONJ shake/VERB their/DET waist/NOUN#0.0#0.0
+person shakes hips with hands in front of him or her.#person/NOUN shake/VERB hip/NOUN with/ADP hand/NOUN in/ADP front/NOUN of/ADP him/PRON or/CCONJ her/PRON#0.0#0.0
+a person shakes their hips and arms while dancing.#a/DET person/NOUN shake/VERB their/DET hip/NOUN and/CCONJ arm/NOUN while/SCONJ dance/VERB#0.0#0.0

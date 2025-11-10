@@ -1,0 +1,3 @@
+a man lifts his right arm high and keeps his left low, wiggles them, then reverses these hand positions.#a/DET man/NOUN lift/VERB his/DET right/ADJ arm/NOUN high/ADJ and/CCONJ keep/VERB his/DET left/ADJ low/NOUN wiggle/VERB them/PRON then/ADV reverse/VERB these/DET hand/NOUN position/NOUN#0.0#0.0
+a person raised the right and after left hand#a/DET person/NOUN raise/VERB the/DET right/NOUN and/CCONJ after/ADP left/ADJ hand/NOUN#0.0#0.0
+a man lifts his right arm, puts it down and then lifts his left arm.#a/DET man/NOUN lift/VERB his/DET right/ADJ arm/NOUN put/VERB it/PRON down/ADP and/CCONJ then/ADV lift/VERB his/DET left/ADJ arm/NOUN#0.0#0.0

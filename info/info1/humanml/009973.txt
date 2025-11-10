@@ -1,0 +1,3 @@
+a person steps to the left.#a/DET person/NOUN step/VERB to/ADP the/DET left/NOUN#0.0#0.0
+the person is pushing medium strength.#the/DET person/NOUN is/AUX push/VERB medium/ADJ strength/NOUN#0.0#0.0
+person stands still and the steps to the left#person/NOUN stand/VERB still/ADV and/CCONJ the/DET step/NOUN to/ADP the/DET left/NOUN#0.0#0.0

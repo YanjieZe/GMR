@@ -1,0 +1,3 @@
+someone turns backwards and walks in a clockwise semi-circle.#someone/PRON turn/VERB backwards/ADV and/CCONJ walk/VERB in/ADP a/DET clockwise/NOUN semicircle/NOUN#0.0#0.0
+someone walk in a backward motion.#someone/PRON walk/VERB in/ADP a/DET backward/ADJ motion/NOUN#0.0#0.0
+walking backwards in a circle.#walk/VERB backwards/ADV in/ADP a/DET circle/NOUN#0.0#0.0

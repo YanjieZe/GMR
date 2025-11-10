@@ -1,0 +1,3 @@
+he stays on one place and doesnt move#he/PRON stay/VERB on/ADP one/NUM place/NOUN and/CCONJ does/AUX nt/PART move/VERB#0.0#0.0
+a person is standing with feet apart and arms raised to shoulder height.#a/DET person/NOUN is/AUX stand/VERB with/ADP foot/NOUN apart/ADV and/CCONJ arm/NOUN raise/VERB to/ADP shoulder/NOUN height/NOUN#0.0#0.0
+a person appears to stand, arms and legs spread, with no movement observed.#a/DET person/NOUN appear/VERB to/PART stand/VERB arm/NOUN and/CCONJ leg/NOUN spread/VERB with/ADP no/DET movement/NOUN observe/VERB#0.0#0.0

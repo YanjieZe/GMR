@@ -1,0 +1,3 @@
+the person picked up his phone to make a call and then put it back.#the/DET person/NOUN pick/VERB up/ADP his/DET phone/NOUN to/PART make/VERB a/DET call/NOUN and/CCONJ then/ADV put/VERB it/PRON back/ADV#0.0#0.0
+move hand toward face while sitting down.#move/VERB hand/NOUN toward/ADP face/NOUN while/SCONJ sit/VERB down/ADP#0.0#0.0
+a person sitting down, raises their right hand, sways very slightly to side to side.#a/DET person/NOUN sit/VERB down/ADP raise/VERB their/DET right/ADJ hand/NOUN sway/VERB very/ADV slightly/ADV to/PART side/VERB to/ADP side/VERB#0.0#0.0

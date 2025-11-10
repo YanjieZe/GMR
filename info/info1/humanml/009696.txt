@@ -1,0 +1,3 @@
+a man turns his head slightly, then walks in a slow clockwise circle.#a/DET man/NOUN turn/VERB his/DET head/NOUN slightly/ADV then/ADV walk/VERB in/ADP a/DET slow/ADJ clockwise/NOUN circle/NOUN#0.0#0.0
+a person walks in a clockwise circle.#a/DET person/NOUN walk/VERB in/ADP a/DET clockwise/ADJ circle/NOUN#0.0#0.0
+a man walks in a circle with his hands stiffly at his sides.#a/DET man/NOUN walk/VERB in/ADP a/DET circle/NOUN with/ADP his/DET hand/NOUN stiffly/ADV at/ADP his/DET side/NOUN#0.0#0.0

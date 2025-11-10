@@ -1,0 +1,3 @@
+moving arms up above head then out.#move/VERB arm/NOUN up/ADP above/ADP head/NOUN then/ADV out/ADV#0.0#0.0
+a person uncaps a bottle, drinks from it, and then recaps the bottle#a/DET person/NOUN uncap/VERB a/DET bottle/NOUN drink/VERB from/ADP it/PRON and/CCONJ then/ADV recap/VERB the/DET bottle/NOUN#0.0#0.0
+a person appears to open a drink and raises it to their head with their right hand#a/DET person/NOUN appear/VERB to/PART open/VERB a/DET drink/NOUN and/CCONJ raise/VERB it/PRON to/ADP their/DET head/NOUN with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks forward while waving its right arm in the air.#a/DET person/NOUN walk/VERB forward/ADV while/SCONJ wave/VERB its/DET right/ADJ arm/NOUN in/ADP the/DET air/NOUN#0.0#0.0
+a person motions forward with his right hand several times, then raises both hands over his head and down.#a/DET person/NOUN motion/NOUN forward/ADV with/ADP his/DET right/ADJ hand/NOUN several/ADJ time/NOUN then/ADV raise/VERB both/DET hand/NOUN over/ADP his/DET head/NOUN and/CCONJ down/ADV#0.0#0.0
+a person walking forward throwing their hands up in the air cheering.#a/DET person/NOUN walk/VERB forward/ADV throw/VERB their/DET hand/NOUN up/ADP in/ADP the/DET air/NOUN cheering/NOUN#0.0#0.0

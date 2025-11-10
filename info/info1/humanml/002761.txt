@@ -1,0 +1,2 @@
+a person walks turning to the left.#a/DET person/NOUN walk/VERB turn/VERB to/ADP the/DET left/NOUN#0.0#0.0
+a person walks slightly to the right forward#a/DET person/NOUN walk/VERB slightly/ADV to/ADP the/DET right/NOUN forward/ADV#0.0#5.0

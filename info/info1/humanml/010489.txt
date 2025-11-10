@@ -1,0 +1,3 @@
+a person takes one large step to the side and brings their feet back together.#a/DET person/NOUN take/VERB one/NUM large/ADJ step/NOUN to/ADP the/DET side/NOUN and/CCONJ bring/VERB their/DET foot/NOUN back/ADV together/ADV#0.0#0.0
+a person stands in place and then steps quickly to the left.#a/DET person/NOUN stand/VERB in/ADP place/NOUN and/CCONJ then/ADV step/VERB quickly/ADV to/ADP the/DET left/NOUN#0.0#0.0
+walking to the side once.#walk/VERB to/ADP the/DET side/NOUN once/ADV#0.0#0.0

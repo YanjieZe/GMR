@@ -1,0 +1,3 @@
+a person seems to be dancing of sorts with someone else#a/DET person/NOUN seem/VERB to/PART be/AUX dance/VERB of/ADP sort/NOUN with/ADP someone/PRON else/ADV#0.0#0.0
+a person is ballroom dancing with someone.#a/DET person/NOUN is/AUX ballroom/NOUN dance/VERB with/ADP someone/PRON#0.0#0.0
+a person moves diagonally with their hands up, goes the other direction and spins clockwise and then repeats#a/DET person/NOUN move/VERB diagonally/ADV with/ADP their/DET hand/NOUN up/ADP go/VERB the/DET other/ADJ direction/NOUN and/CCONJ spin/NOUN clockwise/VERB and/CCONJ then/ADV repeat/VERB#0.0#0.0

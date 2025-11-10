@@ -1,0 +1,3 @@
+a person points forward with their right hand.#a/DET person/NOUN point/VERB forward/ADV with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+a person reaches forward with their right arm#a/DET person/NOUN reach/VERB forward/ADV with/ADP their/DET right/ADJ arm/NOUN#0.0#0.0
+a person rings doorbell with right hand.#a/DET person/NOUN ring/NOUN doorbell/VERB with/ADP right/ADJ hand/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+person squats and jumps out moving to the sides.#person/NOUN squat/VERB and/CCONJ jump/VERB out/ADP move/VERB to/ADP the/DET side/NOUN#0.0#0.0
+a person crouches down, hops to their left, then their right and stumbles forward and back to the original position.#a/DET person/NOUN crouch/VERB down/ADV hop/VERB to/ADP their/DET left/NOUN then/ADV their/DET right/NOUN and/CCONJ stumble/NOUN forward/ADV and/CCONJ back/ADV to/ADP the/DET original/ADJ position/NOUN#0.0#0.0
+a person squats and jumps to his left side, then squats and jumps to his left side.#a/DET person/NOUN squat/VERB and/CCONJ jump/VERB to/ADP his/DET left/ADJ side/NOUN then/ADV squat/NOUN and/CCONJ jump/VERB to/ADP his/DET left/ADJ side/NOUN#0.0#0.0

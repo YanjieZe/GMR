@@ -1,0 +1,3 @@
+a person is walking with a kane.#a/DET person/NOUN is/AUX walk/VERB with/ADP a/DET kane/NOUN#0.0#0.0
+a person using a walking stick#a/DET person/NOUN use/VERB a/DET walk/VERB stick/NOUN#0.0#0.0
+a hunched person holds their right hand out, leaning on it and walks.#a/DET hunched/ADJ person/NOUN hold/VERB their/DET right/ADJ hand/NOUN out/ADP lean/VERB on/ADP it/PRON and/CCONJ walk/VERB#0.0#0.0

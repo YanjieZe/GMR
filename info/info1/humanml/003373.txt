@@ -1,0 +1,3 @@
+the stick figure is walking in form of a back wards letter j.#the/DET stick/NOUN figure/NOUN is/AUX walk/VERB in/ADP form/NOUN of/ADP a/DET back/NOUN ward/NOUN letter/NOUN#0.0#0.0
+a person walks and turns around and walk, holding its red arm with its blue arm#a/DET person/NOUN walk/VERB and/CCONJ turn/VERB around/ADV and/CCONJ walk/VERB hold/VERB its/DET red/ADJ arm/NOUN with/ADP its/DET blue/ADJ arm/NOUN#0.0#0.0
+a person walks forward, then holds their right arm in pain.#a/DET person/NOUN walk/VERB forward/ADV then/ADV hold/VERB their/DET right/ADJ arm/NOUN in/ADP pain/NOUN#2.0#7.0

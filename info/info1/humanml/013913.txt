@@ -1,0 +1,3 @@
+a person scratching their head#a/DET person/NOUN scratch/VERB their/DET head/NOUN#0.0#0.0
+person raises right arm and scratches where their head would be.#person/NOUN raise/VERB right/ADJ arm/NOUN and/CCONJ scratch/VERB where/ADV their/DET head/NOUN would/VERB be/AUX#0.0#0.0
+man scratching his head with his right hand#man/NOUN scratch/VERB his/DET head/NOUN with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0

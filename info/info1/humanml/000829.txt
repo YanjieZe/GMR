@@ -1,0 +1,3 @@
+a person is dancing the salsa.#a/DET person/NOUN is/AUX dance/VERB the/DET salsa/NOUN#0.0#0.0
+a man happily approaches the dancefloor and starts to move his hips and arms from left to right.#a/DET man/NOUN happily/ADV approach/VERB the/DET dancefloor/NOUN and/CCONJ start/VERB to/PART move/VERB his/DET hip/NOUN and/CCONJ arm/NOUN from/ADP left/VERB to/ADP right/NOUN#0.0#0.0
+a man does a fancy walk forwards and backwards before turning around.#a/DET man/NOUN does/AUX a/DET fancy/ADJ walk/NOUN forwards/ADV and/CCONJ backwards/ADV before/ADP turn/VERB around/ADV#0.0#0.0

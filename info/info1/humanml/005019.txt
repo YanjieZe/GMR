@@ -1,0 +1,3 @@
+first and man stands and then he walks backwards towards his left while gesturing towards his right with his right hand.#first/ADJ and/CCONJ man/NOUN stand/VERB and/CCONJ then/ADV he/PRON walk/VERB backwards/ADV towards/ADP his/DET left/NOUN while/SCONJ gesture/VERB towards/ADP his/DET right/NOUN with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+a person shakes his right hand and then walks backwards#a/DET person/NOUN shake/VERB his/DET right/ADJ hand/NOUN and/CCONJ then/ADV walk/VERB backwards/ADV#0.0#0.0
+a person is standing still, extends his right arm forward, then walks backwards#a/DET person/NOUN is/AUX stand/VERB still/ADV extend/VERB his/DET right/ADJ arm/NOUN forward/ADV then/ADV walk/VERB backwards/ADV#0.0#0.0

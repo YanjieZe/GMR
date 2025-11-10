@@ -1,0 +1,3 @@
+a person hinges their left forearm upward.#a/DET person/NOUN hinge/VERB their/DET left/ADJ forearm/NOUN upward/ADV#0.0#0.0
+moving hands up and down.#move/VERB hand/NOUN up/ADV and/CCONJ down/ADV#0.0#0.0
+a person lifts weight with right arm.#a/DET person/NOUN lift/VERB weight/NOUN with/ADP right/ADJ arm/NOUN#0.0#0.0

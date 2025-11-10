@@ -1,0 +1,3 @@
+a person steps forwards, turns around on their left foot and walk back.#a/DET person/NOUN step/VERB forwards/ADV turn/VERB around/ADV on/ADP their/DET left/ADJ foot/NOUN and/CCONJ walk/VERB back/ADV#0.0#0.0
+a person walks clockwise to their right.#a/DET person/NOUN walk/VERB clockwise/ADJ to/ADP their/DET right/NOUN#0.0#0.0
+person takes two steps, turns 180 degrees, takes two more steps.#person/NOUN take/VERB two/NUM step/NOUN turn/VERB degree/NOUN take/VERB two/NUM more/ADJ step/NOUN#0.0#6.0

@@ -1,0 +1,3 @@
+the person is walking normally forward.#the/DET person/NOUN is/AUX walk/VERB normally/ADV forward/ADV#0.0#0.0
+the man is walking normally#the/DET man/NOUN is/AUX walk/VERB normally/ADV#0.0#0.0
+a person looks to be walking in a straight line.#a/DET person/NOUN look/VERB to/PART be/AUX walk/VERB in/ADP a/DET straight/ADJ line/NOUN#0.0#0.0

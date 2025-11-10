@@ -1,0 +1,3 @@
+a man walks in an uneven line in a tentative motion, with his back hunched and his arms drooping towards his side.#a/DET man/NOUN walk/VERB in/ADP an/DET uneven/ADJ line/NOUN in/ADP a/DET tentative/ADJ motion/NOUN with/ADP his/DET back/NOUN hunched/ADJ and/CCONJ his/DET arm/NOUN droop/VERB towards/ADP his/DET side/NOUN#0.0#0.0
+a person is walking unsteadily and hunched over.#a/DET person/NOUN is/AUX walk/VERB unsteadily/ADV and/CCONJ hunch/VERB over/ADP#0.0#0.0
+someone bends forward painfully, wandering forward in a crooked line.#someone/PRON bend/VERB forward/ADV painfully/ADV wander/VERB forward/ADV in/ADP a/DET crooked/ADJ line/NOUN#0.0#0.0

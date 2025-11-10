@@ -1,0 +1,3 @@
+someone is walking down towards the right-hand side of video in a confident manner.#someone/PRON is/AUX walk/VERB down/ADP towards/ADP the/DET righthand/NOUN side/NOUN of/ADP video/NOUN in/ADP a/DET confident/ADJ manner/NOUN#0.0#3.0
+a person takes steps and walks forward.#a/DET person/NOUN take/VERB step/NOUN and/CCONJ walk/VERB forward/ADV#0.0#0.0
+the person walks forward quickly.#the/DET person/NOUN walk/VERB forward/ADV quickly/ADV#0.0#0.0

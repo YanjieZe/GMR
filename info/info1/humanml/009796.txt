@@ -1,0 +1,3 @@
+person is waiting with his right hand.#person/NOUN is/AUX wait/VERB with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+a person raises his right hand greets and lowers it#a/DET person/NOUN raise/VERB his/DET right/ADJ hand/NOUN greet/NOUN and/CCONJ lower/VERB it/PRON#0.0#0.0
+a person stands and politely waves with their right hand#a/DET person/NOUN stand/VERB and/CCONJ politely/ADV wave/NOUN with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0

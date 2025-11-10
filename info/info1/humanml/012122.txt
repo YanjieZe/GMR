@@ -1,0 +1,3 @@
+the person starts their exercising with jumping jacks#the/DET person/NOUN start/VERB their/DET exercise/VERB with/ADP jump/VERB jack/NOUN#0.0#0.0
+a person exercises, doing jumping jacks, then stretches right to left and ends in t-pose.#a/DET person/NOUN exercise/VERB do/VERB jump/VERB jack/NOUN then/ADV stretch/VERB right/ADV to/ADP left/VERB and/CCONJ end/VERB in/ADP tpose/DET#0.0#0.0
+the person is doing jumping jacks and side twist#the/DET person/NOUN is/AUX do/VERB jump/VERB jack/NOUN and/CCONJ side/NOUN twist/NOUN#0.0#0.0

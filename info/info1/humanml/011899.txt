@@ -1,0 +1,3 @@
+a man claps hands together.#a/DET man/NOUN clap/VERB hand/NOUN together/ADV#0.0#0.0
+a person claps up and down in front of his chest.#a/DET person/NOUN clap/VERB up/ADP and/CCONJ down/ADV in/ADP front/NOUN of/ADP his/DET chest/NOUN#0.0#0.0
+a person stands still and raises their arms up and down slightly while clapping.#a/DET person/NOUN stand/VERB still/ADV and/CCONJ raise/VERB their/DET arm/NOUN up/ADV and/CCONJ down/ADV slightly/ADV while/SCONJ clap/VERB#0.0#0.0

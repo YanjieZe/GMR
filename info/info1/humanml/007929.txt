@@ -1,0 +1,3 @@
+a person who is standing with his hands by his sides twist his body hard to the right and then resumes his original position.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP his/DET hand/NOUN by/ADP his/DET side/NOUN twist/VERB his/DET body/NOUN hard/ADV to/ADP the/DET right/NOUN and/CCONJ then/ADV resume/VERB his/DET original/ADJ position/NOUN#0.0#0.0
+turning body to one side.#turn/VERB body/NOUN to/ADP one/NUM side/NOUN#0.0#0.0
+a person turns their torso to look behind them.#a/DET person/NOUN turn/VERB their/DET torso/NOUN to/PART look/VERB behind/ADP them/PRON#0.0#0.0

@@ -1,0 +1,3 @@
+a person is throwing punches#a/DET person/NOUN is/AUX throw/VERB punch/NOUN#0.0#0.0
+the person is boxing with his right and left hands.#the/DET person/NOUN is/AUX box/VERB with/ADP his/DET right/NOUN and/CCONJ left/VERB hand/NOUN#0.0#0.0
+a man punches with his right hand once then his left hand once.#a/DET man/NOUN punch/VERB with/ADP his/DET right/ADJ hand/NOUN once/ADV then/ADV his/DET left/ADJ hand/NOUN once/ADV#0.0#0.0

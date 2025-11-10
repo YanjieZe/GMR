@@ -1,0 +1,3 @@
+a person acts like they are walking up stairs.#a/DET person/NOUN act/VERB like/SCONJ they/PRON are/AUX walk/VERB up/ADP stair/NOUN#0.0#0.0
+a person puts out their hand to grab a handrail, climb some stairs and let go of the handrail when they reach the top.#a/DET person/NOUN put/VERB out/ADP their/DET hand/NOUN to/PART grab/VERB a/DET handrail/NOUN climb/VERB some/DET stair/NOUN and/CCONJ let/VERB go/VERB of/ADP the/DET handrail/NOUN when/ADV they/PRON reach/VERB the/DET top/NOUN#0.0#0.0
+a person holding a railing as they go up stairs.#a/DET person/NOUN hold/VERB a/DET railing/NOUN as/SCONJ they/PRON go/VERB up/ADP stair/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks while moving their hips up and down.#a/DET person/NOUN walk/VERB while/SCONJ move/VERB their/DET hip/NOUN up/ADV and/CCONJ down/ADV#0.0#0.0
+a person walks forward down a slope.#a/DET person/NOUN walk/VERB forward/ADV down/ADP a/DET slope/NOUN#0.0#0.0
+the man is sloping down#the/DET man/NOUN is/AUX slope/VERB down/ADP#0.0#0.0

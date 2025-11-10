@@ -1,0 +1,3 @@
+the person sits down then stands back up#the/DET person/NOUN sit/VERB down/ADV then/ADV stand/VERB back/ADV up/ADV#0.0#0.0
+a person crosses their ankles then gets down on the ground and stands back up#a/DET person/NOUN cross/VERB their/DET ankle/NOUN then/ADV get/VERB down/ADV on/ADP the/DET ground/NOUN and/CCONJ stand/VERB back/ADV up/ADV#0.0#0.0
+a man squats down looks side to side and then stands back up#a/DET man/NOUN squat/VERB down/ADP look/VERB side/NOUN to/PART side/NOUN and/CCONJ then/ADV stand/VERB back/ADV up/ADV#0.0#0.0

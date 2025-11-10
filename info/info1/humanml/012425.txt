@@ -1,0 +1,3 @@
+a person raises their arms above their head and then stretches back and forth and side to side.#a/DET person/NOUN raise/VERB their/DET arm/NOUN above/ADP their/DET head/NOUN and/CCONJ then/ADV stretch/VERB back/ADV and/CCONJ forth/ADV and/CCONJ side/VERB to/PART side/VERB#0.0#0.0
+a person is twisting around and stretching his body.#a/DET person/NOUN is/AUX twist/VERB around/ADP and/CCONJ stretch/VERB his/DET body/NOUN#0.0#0.0
+a person is raising his hands above the head and stretches and then touches his toes.#a/DET person/NOUN is/AUX raise/VERB his/DET hand/NOUN above/ADP the/DET head/NOUN and/CCONJ stretch/NOUN and/CCONJ then/ADV touch/VERB his/DET toe/NOUN#0.0#0.0

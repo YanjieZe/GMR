@@ -1,0 +1,3 @@
+the man stands still and then lifts his right elbow up in the air.#the/DET man/NOUN stand/VERB still/ADV and/CCONJ then/ADV lift/VERB his/DET right/ADJ elbow/NOUN up/ADP in/ADP the/DET air/NOUN#0.0#0.0
+a person raised the right hand and leaned it on near to face#a/DET person/NOUN raise/VERB the/DET right/ADJ hand/NOUN and/CCONJ lean/VERB it/PRON on/ADP near/ADV to/PART face/VERB#0.0#0.0
+a person does the dab dance by bringing their head into their elbow.#a/DET person/NOUN does/AUX the/DET dab/ADJ dance/NOUN by/ADP bring/VERB their/DET head/NOUN into/ADP their/DET elbow/NOUN#0.0#0.0

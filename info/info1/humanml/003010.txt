@@ -1,0 +1,3 @@
+someone takes one big jump forward landing on both feet.#someone/PRON take/VERB one/NUM big/ADJ jump/NOUN forward/ADV landing/NOUN on/ADP both/DET foot/NOUN#0.0#0.0
+robot jumped forward from one point to another.#robot/PROPN jump/VERB forward/ADV from/ADP one/NUM point/NOUN to/ADP another/DET#0.0#0.0
+a person leaping forward and throwing their weight with them to help.#a/DET person/NOUN leap/VERB forward/ADV and/CCONJ throw/VERB their/DET weight/NOUN with/ADP them/PRON to/PART help/VERB#0.0#0.0

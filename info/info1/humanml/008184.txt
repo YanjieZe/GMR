@@ -1,0 +1,3 @@
+the figure slowly but strongly circles the space. the figure pauses from movement then bends for an unknown and unseen object at ground level.#the/DET figure/NOUN slowly/ADV but/CCONJ strongly/ADV circle/VERB the/DET space/NOUN the/DET figure/NOUN pause/VERB from/ADP movement/NOUN then/ADV bend/VERB for/ADP an/DET unknown/ADJ and/CCONJ unseen/ADJ object/NOUN at/ADP ground/NOUN level/NOUN#0.0#0.0
+a person paces in a circle and then sets something down.#a/DET person/NOUN pace/VERB in/ADP a/DET circle/NOUN and/CCONJ then/ADV set/VERB something/PRON down/ADP#0.0#0.0
+a person walks around in a circle then bends down to pick something up.#a/DET person/NOUN walk/VERB around/ADV in/ADP a/DET circle/NOUN then/ADV bend/VERB down/ADP to/PART pick/VERB something/PRON up/ADP#0.0#0.0

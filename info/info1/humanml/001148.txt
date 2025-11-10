@@ -1,0 +1,3 @@
+a person has their knees slightly bent, and has their elbows bent with their hands up towards their chest#a/DET person/NOUN has/AUX their/DET knee/NOUN slightly/ADV bent/ADJ and/CCONJ has/AUX their/DET elbow/NOUN bent/ADJ with/ADP their/DET hand/NOUN up/ADP towards/ADP their/DET chest/NOUN#0.0#0.0
+a man crouches gently, facing forwards in a seated position, with his arms and hands bent out in front of him.#a/DET man/NOUN crouch/VERB gently/ADV face/VERB forwards/ADV in/ADP a/DET seated/ADJ position/NOUN with/ADP his/DET arm/NOUN and/CCONJ hand/NOUN bend/VERB out/ADP in/ADP front/NOUN of/ADP him/PRON#0.0#0.0
+a person is riding a motorcycle.#a/DET person/NOUN is/AUX ride/VERB a/DET motorcycle/NOUN#0.0#0.0

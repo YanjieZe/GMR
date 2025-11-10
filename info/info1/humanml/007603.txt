@@ -1,0 +1,3 @@
+a man walks right, turns, walks left and sits down in a chair and then stands up.#a/DET man/NOUN walk/VERB right/ADJ turn/VERB walk/VERB left/VERB and/CCONJ sit/VERB down/ADP in/ADP a/DET chair/NOUN and/CCONJ then/ADV stand/VERB up/ADP#0.0#0.0
+a person moved in right andleft direction#a/DET person/NOUN move/VERB in/ADP right/ADJ andleft/NOUN direction/NOUN#0.0#0.0
+this person walks left then to the right and sits down then gets back up.#this/DET person/NOUN walk/VERB left/VERB then/ADV to/ADP the/DET right/NOUN and/CCONJ sit/VERB down/ADP then/ADV get/VERB back/ADV up/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+someone brings their hands to their chest and moves their elbows up and down, then shakes their waist while slowly bending their knees, then claps four times, then does it again.#someone/PRON bring/VERB their/DET hand/NOUN to/ADP their/DET chest/NOUN and/CCONJ move/VERB their/DET elbow/NOUN up/ADV and/CCONJ down/ADV then/ADV shake/VERB their/DET waist/NOUN while/SCONJ slowly/ADV bend/VERB their/DET knee/NOUN then/ADV clap/VERB four/NUM time/NOUN then/ADV does/AUX it/PRON again/ADV#0.0#0.0
+a person is doing the chicken dance; two reps.#a/DET person/NOUN is/AUX do/VERB the/DET chicken/NOUN dance/NOUN two/NUM rep/NOUN#0.0#0.0
+the person is doing the chicken dance.#the/DET person/NOUN is/AUX do/VERB the/DET chicken/NOUN dance/NOUN#0.0#0.0

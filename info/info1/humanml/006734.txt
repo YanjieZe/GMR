@@ -1,0 +1,3 @@
+takes a slight bow forward.#take/VERB a/DET slight/ADJ bow/NOUN forward/ADV#0.0#0.0
+a person who is standing with his arms by his sides looks down as he stumbles forward.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP his/DET arm/NOUN by/ADP his/DET side/NOUN look/VERB down/ADP as/SCONJ he/PRON stumble/VERB forward/ADV#0.0#0.0
+the person was standing and pushed forward.#the/DET person/NOUN was/AUX stand/VERB and/CCONJ push/VERB forward/ADV#0.0#0.0

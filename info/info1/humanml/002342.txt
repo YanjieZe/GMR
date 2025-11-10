@@ -1,0 +1,3 @@
+a person is standing and clapping hands.#a/DET person/NOUN is/AUX stand/VERB and/CCONJ clap/VERB hand/NOUN#0.0#0.0
+a person is clapping for a long time#a/DET person/NOUN is/AUX clap/VERB for/ADP a/DET long/ADJ time/NOUN#0.0#0.0
+a person standing and clapping.#a/DET person/NOUN stand/VERB and/CCONJ clap/VERB#0.0#0.0

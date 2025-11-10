@@ -1,0 +1,3 @@
+a person takes a quick step backwards.#a/DET person/NOUN take/VERB a/DET quick/ADJ step/NOUN backwards/ADV#0.0#3.0
+a person steps backward unsteadily.#a/DET person/NOUN step/VERB backward/ADV unsteadily/ADV#0.0#0.0
+this person steps backwards as if frightened.#this/DET person/NOUN step/VERB backwards/ADV as/SCONJ if/SCONJ frighten/VERB#0.0#0.0

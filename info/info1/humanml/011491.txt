@@ -1,0 +1,3 @@
+a person is running rapidly.#a/DET person/NOUN is/AUX run/VERB rapidly/ADV#0.0#0.0
+a person trots in a slightly curved line.#a/DET person/NOUN trot/VERB in/ADP a/DET slightly/ADV curved/ADJ line/NOUN#0.0#0.0
+a person runs forward.#a/DET person/NOUN run/VERB forward/ADV#0.0#0.0

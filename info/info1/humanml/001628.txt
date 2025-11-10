@@ -1,0 +1,3 @@
+a person punches with their right arm, swats with their right arm, then punches with their left arm#a/DET person/NOUN punch/VERB with/ADP their/DET right/ADJ arm/NOUN swat/NOUN with/ADP their/DET right/ADJ arm/NOUN then/ADV punch/VERB with/ADP their/DET left/ADJ arm/NOUN#0.0#0.0
+a person throws punches with their right hand jerks their hand to the right.#a/DET person/NOUN throw/VERB punch/NOUN with/ADP their/DET right/ADJ hand/NOUN jerk/VERB their/DET hand/NOUN to/ADP the/DET right/NOUN#0.0#0.0
+a man throws punches using his right hand.#a/DET man/NOUN throw/VERB punch/NOUN use/VERB his/DET right/ADJ hand/NOUN#0.0#0.0

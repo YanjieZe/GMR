@@ -1,0 +1,3 @@
+a person throws a punch with their right hand then with their left hand.#a/DET person/NOUN throw/VERB a/DET punch/NOUN with/ADP their/DET right/ADJ hand/NOUN then/ADV with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0
+a person boxes with his right hand and then his left hand.#a/DET person/NOUN box/VERB with/ADP his/DET right/ADJ hand/NOUN and/CCONJ then/ADV his/DET left/ADJ hand/NOUN#0.0#0.0
+punching the air then stopping.#punch/VERB the/DET air/NOUN then/ADV stop/VERB#0.0#0.0

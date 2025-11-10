@@ -1,0 +1,2 @@
+a person walks diagonally to the left, turns around, and walks diagonally to the right.#a/DET person/NOUN walk/VERB diagonally/ADV to/ADP the/DET left/NOUN turn/VERB around/ADV and/CCONJ walk/VERB diagonally/ADV to/ADP the/DET right/NOUN#0.0#0.0
+a person walks right to left diagonally swinging his left arm and then walks back.#a/DET person/NOUN walk/VERB right/ADJ to/PART left/VERB diagonally/ADV swinge/VERB his/DET left/ADJ arm/NOUN and/CCONJ then/ADV walk/VERB back/ADV#0.0#0.0

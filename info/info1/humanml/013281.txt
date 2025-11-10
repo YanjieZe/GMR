@@ -1,0 +1,3 @@
+a person walks forward swinging their arms.#a/DET person/NOUN walk/VERB forward/ADV swinge/VERB their/DET arm/NOUN#0.0#0.0
+person walks straight forward while swinging their arms#person/NOUN walk/VERB straight/ADV forward/ADV while/SCONJ swinge/VERB their/DET arm/NOUN#0.0#0.0
+a person walks forward swinging both their arms.#a/DET person/NOUN walk/VERB forward/ADV swinge/VERB both/CCONJ their/DET arm/NOUN#0.0#0.0

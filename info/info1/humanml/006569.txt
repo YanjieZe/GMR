@@ -1,0 +1,3 @@
+a person moves their hands together in a horizontal figure eight in front of them.#a/DET person/NOUN move/VERB their/DET hand/NOUN together/ADV in/ADP a/DET horizontal/ADJ figure/NOUN eight/NUM in/ADP front/NOUN of/ADP them/PRON#0.0#0.0
+a person stands in place while squatting side to side as their arms swau.#a/DET person/NOUN stand/VERB in/ADP place/NOUN while/SCONJ squat/VERB side/NOUN to/PART side/VERB as/SCONJ their/DET arm/NOUN swau/NOUN#0.0#0.0
+person is performing a dance move#person/NOUN is/AUX perform/VERB a/DET dance/NOUN move/NOUN#0.0#0.0

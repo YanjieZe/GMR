@@ -1,0 +1,3 @@
+a person walks to the the left.#a/DET person/NOUN walk/VERB to/ADP the/DET the/DET left/NOUN#0.0#0.0
+a person turns to their left while walking forwards.#a/DET person/NOUN turn/VERB to/ADP their/DET left/NOUN while/SCONJ walk/VERB forwards/ADV#0.0#0.0
+a man walks forwards whilst taking a gradual left turn, swinging his arms gently.#a/DET man/NOUN walk/VERB forwards/ADV whilst/SCONJ take/VERB a/DET gradual/ADJ left/ADJ turn/NOUN swinge/VERB his/DET arm/NOUN gently/ADV#0.0#0.0

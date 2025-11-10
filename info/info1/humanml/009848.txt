@@ -1,0 +1,3 @@
+the man is walking at a quick pace with his hands and feet swinging and appears to be in a hurry.#the/DET man/NOUN is/AUX walk/VERB at/ADP a/DET quick/ADJ pace/NOUN with/ADP his/DET hand/NOUN and/CCONJ foot/NOUN swinge/VERB and/CCONJ appear/VERB to/PART be/AUX in/ADP a/DET hurry/NOUN#0.0#0.0
+a person is fast walking back and forth in a straight line.#a/DET person/NOUN is/AUX fast/ADJ walk/VERB back/ADV and/CCONJ forth/ADV in/ADP a/DET straight/ADJ line/NOUN#0.0#0.0
+a person paces impatiently, hands wringing once.#a/DET person/NOUN pace/VERB impatiently/ADV hand/NOUN wring/VERB once/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+the person is walking in a counter clockwise circle.#the/DET person/NOUN is/AUX walk/VERB in/ADP a/DET counter/NOUN clockwise/NOUN circle/NOUN#0.0#0.0
+a person walks around slowly in a counter-clockwise direction, with little arm swinging; a deliberate stepping action (long stride, almost like counting meters).#a/DET person/NOUN walk/VERB around/ADV slowly/ADV in/ADP a/DET counterclockwise/ADJ direction/NOUN with/ADP little/ADJ arm/NOUN swinging/NOUN a/DET deliberate/ADJ stepping/ADJ action/NOUN long/ADJ stride/NOUN almost/ADV like/SCONJ count/VERB meter/NOUN#0.0#0.0
+a person walks confidently in a anti clockwise circle#a/DET person/NOUN walk/VERB confidently/ADV in/ADP a/DET anti/ADJ clockwise/NOUN circle/NOUN#0.0#0.0

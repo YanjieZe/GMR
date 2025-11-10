@@ -1,0 +1,3 @@
+a person walks forward quickly in a slight diagonal line.#a/DET person/NOUN walk/VERB forward/ADV quickly/ADV in/ADP a/DET slight/ADJ diagonal/ADJ line/NOUN#0.0#0.0
+person is walking very fast toward me.#person/NOUN is/AUX walk/VERB very/ADV fast/ADV toward/ADP me/PRON#0.0#0.0
+a person walks forward quickly#a/DET person/NOUN walk/VERB forward/ADV quickly/ADV#0.0#0.0

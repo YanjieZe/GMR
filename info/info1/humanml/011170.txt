@@ -1,0 +1,3 @@
+person walks to spot and then sprints#person/NOUN walk/VERB to/PART spot/VERB and/CCONJ then/ADV sprint/NOUN#0.0#0.0
+a man slowly walks to the left then turns around and runs towards the right.#a/DET man/NOUN slowly/ADV walk/VERB to/ADP the/DET left/NOUN then/ADV turn/VERB around/ADP and/CCONJ run/VERB towards/ADP the/DET right/NOUN#0.0#0.0
+a person walks and then runs back.#a/DET person/NOUN walk/VERB and/CCONJ then/ADV run/VERB back/ADV#0.0#0.0

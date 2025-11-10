@@ -1,0 +1,3 @@
+a man is jumping rope, then starts to jump with one leg.#a/DET man/NOUN is/AUX jump/VERB rope/NOUN then/ADV start/VERB to/PART jump/VERB with/ADP one/NUM leg/NOUN#0.0#0.0
+this person is jumping up and down as if to jump rope.#this/DET person/NOUN is/AUX jump/VERB up/ADP and/CCONJ down/ADP as/SCONJ if/SCONJ to/PART jump/VERB rope/NOUN#0.0#0.0
+a person was jumping on something, and after changed right and left legs#a/DET person/NOUN was/AUX jump/VERB on/ADP something/PRON and/CCONJ after/ADP change/VERB right/ADV and/CCONJ left/VERB leg/NOUN#0.0#0.0

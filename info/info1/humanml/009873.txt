@@ -1,0 +1,3 @@
+a person jogs in place slowly at first, then picks up the pace.#a/DET person/NOUN jog/VERB in/ADP place/NOUN slowly/ADV at/ADP first/ADV then/ADV pick/VERB up/ADP the/DET pace/NOUN#0.0#0.0
+a person jogs in place, increasing steadily in speed, while moving both arms in forward#a/DET person/NOUN jog/VERB in/ADP place/NOUN increase/VERB steadily/ADV in/ADP speed/NOUN while/SCONJ move/VERB both/DET arm/NOUN in/ADV forward/ADV#0.0#0.0
+a person is running in place starting slow then going faster.#a/DET person/NOUN is/AUX run/VERB in/ADP place/NOUN start/VERB slow/ADV then/ADV go/VERB faster/ADV#0.0#0.0

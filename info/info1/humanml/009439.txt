@@ -1,0 +1,3 @@
+a person walks forward and trips on something.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ trip/NOUN on/ADP something/PRON#0.0#0.0
+this person walks forward then trips slightly.#this/DET person/NOUN walk/VERB forward/ADV then/ADV trip/VERB slightly/ADV#0.0#0.0
+a person stumbles as they step forward.#a/DET person/NOUN stumble/VERB as/SCONJ they/PRON step/VERB forward/ADV#0.0#0.0

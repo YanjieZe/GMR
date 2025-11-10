@@ -1,0 +1,3 @@
+the person looks to be dancing with his hands#the/DET person/NOUN look/VERB to/PART be/AUX dance/VERB with/ADP his/DET hand/NOUN#0.0#0.0
+one wrist shakes at the right side of the head then the left wrist shakes towards the head.#one/NUM wrist/NOUN shake/VERB at/ADP the/DET right/ADJ side/NOUN of/ADP the/DET head/NOUN then/ADV the/DET left/ADJ wrist/NOUN shake/VERB towards/ADP the/DET head/NOUN#0.0#0.0
+a man shakes a can in his right hand and then shakes the same can with his left hand.#a/DET man/NOUN shake/VERB a/DET can/NOUN in/ADP his/DET right/ADJ hand/NOUN and/CCONJ then/ADV shake/VERB the/DET same/ADJ can/NOUN with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person jogs in a clockwise circle with their hands bent in front of them moving forward and backwards.#a/DET person/NOUN jog/VERB in/ADP a/DET clockwise/ADJ circle/NOUN with/ADP their/DET hand/NOUN bent/ADJ in/ADP front/NOUN of/ADP them/PRON move/VERB forward/ADV and/CCONJ backwards/ADV#0.0#0.0
+a person continuously runs in a clockwise circle#a/DET person/NOUN continuously/ADV run/VERB in/ADP a/DET clockwise/NOUN circle/NOUN#1.0#10.0
+a person is jogging / walking fast but not running in circles#a/DET person/NOUN is/AUX jog/VERB walk/VERB fast/ADV but/CCONJ not/PART run/VERB in/ADP circle/NOUN#0.0#0.0

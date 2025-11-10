@@ -1,0 +1,3 @@
+the person was push but did not fall.#the/DET person/NOUN was/AUX push/NOUN but/CCONJ did/AUX not/PART fall/VERB#0.0#0.0
+a person walks forward and trips.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ trip/NOUN#0.0#0.0
+a man walks forward, trips, regains his balance and takes another step forward.#a/DET man/NOUN walk/VERB forward/ADV trip/NOUN regain/VERB his/DET balance/NOUN and/CCONJ take/VERB another/DET step/NOUN forward/ADV#0.0#0.0

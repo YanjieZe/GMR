@@ -1,0 +1,3 @@
+a person walks steadily forwards#a/DET person/NOUN walk/VERB steadily/ADV forwards/ADV#0.0#0.0
+a person walks straight forward in a line.#a/DET person/NOUN walk/VERB straight/ADV forward/ADV in/ADP a/DET line/NOUN#0.0#0.0
+a soccer team kicks hard, going forword with the ball, left and right they go.#a/DET soccer/NOUN team/NOUN kick/VERB hard/ADV go/VERB forword/NOUN with/ADP the/DET ball/NOUN left/VERB and/CCONJ right/INTJ they/PRON go/VERB#0.0#0.0

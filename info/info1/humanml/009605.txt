@@ -1,0 +1,3 @@
+person is walking as if injured#person/NOUN is/AUX walk/VERB as/SCONJ if/SCONJ injure/VERB#0.0#0.0
+the man is walking with a wounded leg#the/DET man/NOUN is/AUX walk/VERB with/ADP a/DET wound/VERB leg/NOUN#0.0#0.0
+a person limps back and forth clutching their left knee.#a/DET person/NOUN limp/VERB back/ADV and/CCONJ forth/ADV clutch/VERB their/DET left/ADJ knee/NOUN#0.0#0.0

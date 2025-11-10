@@ -1,0 +1,3 @@
+a person walks forward at a good pace.#a/DET person/NOUN walk/VERB forward/ADV at/ADP a/DET good/ADJ pace/NOUN#0.0#0.0
+the person took a bunch of steps walking forward.#the/DET person/NOUN take/VERB a/DET bunch/NOUN of/ADP step/NOUN walk/VERB forward/ADV#0.0#0.0
+a person walks forward then stops.#a/DET person/NOUN walk/VERB forward/ADV then/ADV stop/VERB#0.0#0.0

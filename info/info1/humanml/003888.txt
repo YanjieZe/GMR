@@ -1,0 +1,3 @@
+a person appears to be moving something with his hands.#a/DET person/NOUN appear/VERB to/PART be/AUX move/VERB something/PRON with/ADP his/DET hand/NOUN#0.0#0.0
+a person bends at the waist while using both hands to lift something.#a/DET person/NOUN bend/VERB at/ADP the/DET waist/NOUN while/SCONJ use/VERB both/DET hand/NOUN to/PART lift/VERB something/PRON#0.0#0.0
+a person lifts and moves object from left to right.#a/DET person/NOUN lift/VERB and/CCONJ move/VERB object/NOUN from/ADP left/VERB to/ADP right/NOUN#0.0#0.0

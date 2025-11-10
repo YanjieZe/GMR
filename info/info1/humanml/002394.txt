@@ -1,0 +1,3 @@
+bouncing up and down while the wrist moves back and forth.#bounce/VERB up/ADP and/CCONJ down/ADV while/SCONJ the/DET wrist/NOUN move/VERB back/ADV and/CCONJ forth/ADV#0.0#0.0
+a person hopping in one spot#a/DET person/NOUN hop/VERB in/ADP one/NUM spot/NOUN#0.0#0.0
+a person lightly hops on their feet repeatedly#a/DET person/NOUN lightly/ADV hop/VERB on/ADP their/DET foot/NOUN repeatedly/ADV#0.0#0.0

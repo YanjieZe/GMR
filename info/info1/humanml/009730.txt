@@ -1,0 +1,3 @@
+person is acting like a human monkey.#person/NOUN is/AUX act/VERB like/SCONJ a/DET human/ADJ monkey/NOUN#0.0#0.0
+person arches both hands at his sides, scratching at his side with his left arm first, before then using both arms to scratch his sides, then raising his right arm to scratch his head.#person/NOUN arch/VERB both/DET hand/NOUN at/ADP his/DET side/NOUN scratch/VERB at/ADP his/DET side/NOUN with/ADP his/DET left/ADJ arm/NOUN first/ADV before/ADP then/ADV use/VERB both/DET arm/NOUN to/PART scratch/VERB his/DET side/NOUN then/ADV raise/VERB his/DET right/ADJ arm/NOUN to/PART scratch/VERB his/DET head/NOUN#0.0#0.0
+a person is acting like a monkey#a/DET person/NOUN is/AUX act/VERB like/SCONJ a/DET monkey/NOUN#0.0#0.0

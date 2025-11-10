@@ -1,0 +1,3 @@
+person appears to be banging on bongo drums or another type of drum-like instrument.#person/NOUN appear/VERB to/PART be/AUX bang/VERB on/ADP bongo/PROPN drum/NOUN or/CCONJ another/DET type/NOUN of/ADP drumlike/ADJ instrument/NOUN#0.0#0.0
+a person moving both hands up and down from the torso#a/DET person/NOUN move/VERB both/DET hand/NOUN up/ADV and/CCONJ down/ADV from/ADP the/DET torso/NOUN#0.0#0.0
+person is walking forward playing the drums.#person/NOUN is/AUX walk/VERB forward/ADV play/VERB the/DET drum/NOUN#0.0#0.0

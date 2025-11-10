@@ -1,0 +1,3 @@
+the sim appears to throw an object underhand before making a catch.#the/DET sim/PROPN appear/VERB to/PART throw/VERB an/DET object/NOUN underhand/ADJ before/ADP make/VERB a/DET catch/NOUN#0.0#0.0
+a person catches something and throws it back, then catches something and throws it back again.#a/DET person/NOUN catch/VERB something/PRON and/CCONJ throw/VERB it/PRON back/ADV then/ADV catch/VERB something/PRON and/CCONJ throw/VERB it/PRON back/ADV again/ADV#0.0#0.0
+this person moves both arms as if to play catch.#this/DET person/NOUN move/VERB both/DET arm/NOUN as/SCONJ if/SCONJ to/PART play/VERB catch/NOUN#0.0#0.0

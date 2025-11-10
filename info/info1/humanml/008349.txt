@@ -1,0 +1,3 @@
+a person stands with his two feet apart and light hops in that position 14 times.#a/DET person/NOUN stand/VERB with/ADP his/DET two/NUM foot/NOUN apart/ADV and/CCONJ light/ADJ hop/NOUN in/ADP that/DET position/NOUN time/NOUN#0.0#0.0
+man tippy-toeing (hopping but not leaving the ground) with both feet#man/PROPN tippytoe/VERB hop/VERB but/CCONJ not/PART leave/VERB the/DET ground/NOUN with/ADP both/DET foot/NOUN#0.0#0.0
+a person quickly and repeatedly jumps slightly up and down.#a/DET person/NOUN quickly/ADV and/CCONJ repeatedly/ADV jump/VERB slightly/ADV up/ADV and/CCONJ down/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person steps backwards slightly.#a/DET person/NOUN step/VERB backwards/ADV slightly/ADV#0.0#0.0
+a person is standing still then moves backwards#a/DET person/NOUN is/AUX stand/VERB still/ADV then/ADV move/VERB backwards/ADV#0.0#0.0
+a person trying to recover from a push#a/DET person/NOUN try/VERB to/PART recover/VERB from/ADP a/DET push/NOUN#0.0#0.0

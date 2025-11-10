@@ -1,0 +1,3 @@
+a person walks forward in a straight line that is slightly leaning to the right.#a/DET person/NOUN walk/VERB forward/ADV in/ADP a/DET straight/ADJ line/NOUN that/DET is/AUX slightly/ADV lean/VERB to/ADP the/DET right/NOUN#0.0#0.0
+a person is walking#a/DET person/NOUN is/AUX walk/VERB#0.0#7.0
+a model walks down a run-way.#a/DET model/NOUN walk/VERB down/ADP a/DET runway/NOUN#0.0#0.0

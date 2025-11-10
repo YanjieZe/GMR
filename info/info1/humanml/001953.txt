@@ -1,0 +1,3 @@
+a person is kneeling down to sit on their knees.#a/DET person/NOUN is/AUX kneel/VERB down/ADP to/PART sit/VERB on/ADP their/DET knee/NOUN#0.0#0.0
+person uses left hand on the ground to balance then goes onto both knees#person/NOUN use/VERB left/ADJ hand/NOUN on/ADP the/DET ground/NOUN to/PART balance/NOUN then/ADV go/VERB onto/ADP both/DET knee/NOUN#0.0#0.0
+a man kneels down from a standing position.#a/DET man/NOUN kneel/VERB down/ADP from/ADP a/DET standing/ADJ position/NOUN#0.0#0.0

@@ -1,0 +1,2 @@
+person takes steps moving to his left a few steps.#person/NOUN take/VERB step/NOUN move/VERB to/ADP his/DET left/NOUN a/DET few/ADJ step/NOUN#0.0#0.0
+person walks slightly to their left casually#person/NOUN walk/VERB slightly/ADV to/ADP their/DET left/NOUN casually/ADV#0.0#0.0

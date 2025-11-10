@@ -1,0 +1,3 @@
+the person is sweeping the floor.#the/DET person/NOUN is/AUX sweep/VERB the/DET floor/NOUN#0.0#0.0
+a person takes several steps in a somewhat random pattern while appearing to sweep the floor.#a/DET person/NOUN take/VERB several/ADJ step/NOUN in/ADP a/DET somewhat/ADV random/ADJ pattern/NOUN while/SCONJ appear/VERB to/PART sweep/VERB the/DET floor/NOUN#0.0#0.0
+a person holds something and sweeps the floor with it.#a/DET person/NOUN hold/VERB something/PRON and/CCONJ sweep/VERB the/DET floor/NOUN with/ADP it/PRON#0.0#0.0

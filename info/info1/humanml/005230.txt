@@ -1,0 +1,3 @@
+the person is squatted down as if it is working on something with it's hands.#the/DET person/NOUN is/AUX squat/VERB down/ADP as/SCONJ if/SCONJ it/PRON is/AUX work/VERB on/ADP something/PRON with/ADP it/PRON hand/NOUN#0.0#0.0
+the sim appears to be driving, holding the steering wheel.#the/DET sim/PROPN appear/VERB to/PART be/AUX drive/VERB hold/VERB the/DET steering/NOUN wheel/NOUN#0.0#0.0
+a person squats as they shake their arms and hands in front of their head.#a/DET person/NOUN squat/VERB as/SCONJ they/PRON shake/VERB their/DET arm/NOUN and/CCONJ hand/NOUN in/ADP front/NOUN of/ADP their/DET head/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person jogs in place with their arms swinging.#a/DET person/NOUN jog/VERB in/ADP place/NOUN with/ADP their/DET arm/NOUN swinge/VERB#0.0#0.0
+person is running casually like in a cross-country.#person/NOUN is/AUX run/VERB casually/ADV like/INTJ in/ADP a/DET crosscountry/NOUN#0.0#0.0
+a person is jogging at a moderate pace while remaining stationary with arms bent and swinging#a/DET person/NOUN is/AUX jog/VERB at/ADP a/DET moderate/ADJ pace/NOUN while/SCONJ remain/VERB stationary/ADJ with/ADP arm/NOUN bent/ADJ and/CCONJ swinge/VERB#0.0#0.0

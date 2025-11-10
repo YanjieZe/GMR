@@ -1,0 +1,3 @@
+a person walks forward with their arms at their sides while slightly going right.#a/DET person/NOUN walk/VERB forward/ADV with/ADP their/DET arm/NOUN at/ADP their/DET side/NOUN while/SCONJ slightly/ADV go/VERB right/ADV#0.0#0.0
+a person casually walking forward#a/DET person/NOUN casually/ADV walk/VERB forward/ADV#0.0#0.0
+forward walking and it ends#forward/ADV walk/VERB and/CCONJ it/PRON end/VERB#0.0#0.0

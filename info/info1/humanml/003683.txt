@@ -1,0 +1,3 @@
+a person is marching forward and quickly marching back.#a/DET person/NOUN is/AUX march/VERB forward/ADV and/CCONJ quickly/ADV march/VERB back/ADV#0.0#0.0
+a person walks up some stairs and then turns to the right and back down the stairs.#a/DET person/NOUN walk/VERB up/ADP some/DET stair/NOUN and/CCONJ then/ADV turn/VERB to/ADP the/DET right/NOUN and/CCONJ back/ADV down/ADP the/DET stair/NOUN#0.0#0.0
+a person walks up some stairs, turns around, and walks back down.#a/DET person/NOUN walk/VERB up/ADP some/DET stair/NOUN turn/VERB around/ADV and/CCONJ walk/VERB back/ADV down/ADV#0.0#0.0

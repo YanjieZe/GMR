@@ -1,0 +1,3 @@
+person stands there and looks around.#person/NOUN stand/VERB there/ADV and/CCONJ look/VERB around/ADV#0.0#0.0
+person is exercising their neck#person/NOUN is/AUX exercise/VERB their/DET neck/NOUN#0.0#0.0
+a person is rotating their neck.#a/DET person/NOUN is/AUX rotate/VERB their/DET neck/NOUN#0.0#0.0

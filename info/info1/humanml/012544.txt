@@ -1,0 +1,3 @@
+a person shadow boxes while moving around.#a/DET person/NOUN shadow/NOUN box/NOUN while/SCONJ move/VERB around/ADV#0.0#0.0
+person is throwing boxing punches#person/NOUN is/AUX throw/VERB boxing/NOUN punch/NOUN#0.0#0.0
+a person take some steps backward, then throws some punches with the right, and then left arm while moving forward again.#a/DET person/NOUN take/VERB some/DET step/NOUN backward/ADV then/ADV throw/VERB some/DET punch/NOUN with/ADP the/DET right/NOUN and/CCONJ then/ADV left/VERB arm/NOUN while/SCONJ move/VERB forward/ADV again/ADV#0.0#0.0

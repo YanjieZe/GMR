@@ -1,0 +1,3 @@
+a person is drinking from a glass.#a/DET person/NOUN is/AUX drink/VERB from/ADP a/DET glass/NOUN#0.0#0.0
+a figure takes a step forward to pick up their cup, they take a drink.#a/DET figure/NOUN take/VERB a/DET step/NOUN forward/ADV to/PART pick/VERB up/ADP their/DET cup/NOUN they/PRON take/VERB a/DET drink/NOUN#0.0#0.0
+a person steps forward then starts drinking from a glass, tilting his head back in the process.#a/DET person/NOUN step/VERB forward/ADV then/ADV start/VERB drink/VERB from/ADP a/DET glass/NOUN tilt/VERB his/DET head/NOUN back/ADV in/ADP the/DET process/NOUN#0.0#0.0

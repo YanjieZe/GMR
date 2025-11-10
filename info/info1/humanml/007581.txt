@@ -1,0 +1,3 @@
+a man sits down, brings his hands to his face and then stands back up.#a/DET man/NOUN sit/VERB down/ADV bring/VERB his/DET hand/NOUN to/ADP his/DET face/NOUN and/CCONJ then/ADV stand/VERB back/ADV up/ADV#0.0#0.0
+a person sits down on a step stool, rests his chin on his hands, and then stands back up.#a/DET person/NOUN sit/VERB down/ADP on/ADP a/DET step/NOUN stool/NOUN rest/VERB his/DET chin/NOUN on/ADP his/DET hand/NOUN and/CCONJ then/ADV stand/VERB back/ADV up/ADV#0.0#0.0
+a person sits down and then put their head in their hands.#a/DET person/NOUN sit/VERB down/ADV and/CCONJ then/ADV put/VERB their/DET head/NOUN in/ADP their/DET hand/NOUN#0.0#6.0

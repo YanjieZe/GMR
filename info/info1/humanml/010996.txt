@@ -1,0 +1,3 @@
+a person stands on his left leg, swings his right leg out to the side, back, and then he returns to a two-legged standing position.#a/DET person/NOUN stand/VERB on/ADP his/DET left/ADJ leg/NOUN swing/VERB his/DET right/ADJ leg/NOUN out/ADP to/ADP the/DET side/NOUN back/ADV and/CCONJ then/ADV he/PRON return/VERB to/ADP a/DET twolegge/VERB standing/NOUN position/NOUN#0.0#0.0
+a person lifts his right leg around in the air.#a/DET person/NOUN lift/VERB his/DET right/ADJ leg/NOUN around/ADV in/ADP the/DET air/NOUN#0.0#0.0
+a man standing on one leg and moves the other around#a/DET man/NOUN stand/VERB on/ADP one/NUM leg/NOUN and/CCONJ move/VERB the/DET other/ADJ around/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person sits down with both hands on their knees.#a/DET person/NOUN sit/VERB down/ADP with/ADP both/DET hand/NOUN on/ADP their/DET knee/NOUN#0.0#0.0
+a person walks forward and sits on something.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ sit/VERB on/ADP something/PRON#0.0#0.0
+this person steps forward and does a wide stance with knees bent.#this/DET person/NOUN step/VERB forward/ADV and/CCONJ does/AUX a/DET wide/ADJ stance/NOUN with/ADP knee/NOUN bent/ADJ#0.0#0.0

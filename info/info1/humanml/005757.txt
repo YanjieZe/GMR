@@ -1,0 +1,3 @@
+moving arm down from head then walking backwards.#move/VERB arm/NOUN down/ADP from/ADP head/NOUN then/ADV walk/VERB backwards/ADV#0.0#0.0
+a person raised the right hand and wnet backwards#a/DET person/NOUN raise/VERB the/DET right/ADJ hand/NOUN and/CCONJ wnet/NOUN backwards/ADV#0.0#0.0
+a person raises a glass with his/her left hand, takes a drink, then steps backward.#a/DET person/NOUN raise/VERB a/DET glass/NOUN with/ADP his/DET her/DET left/ADJ hand/NOUN take/VERB a/DET drink/NOUN then/ADV step/VERB backward/ADV#0.0#0.0

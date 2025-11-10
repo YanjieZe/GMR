@@ -1,0 +1,2 @@
+a person walks slightly forward then turns left and continues to walk.#a/DET person/NOUN walk/VERB slightly/ADV forward/ADV then/ADV turn/VERB left/VERB and/CCONJ continue/VERB to/PART walk/VERB#0.0#0.0
+a person walks forward and to the left#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ to/ADP the/DET left/NOUN#0.0#0.0

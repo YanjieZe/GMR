@@ -1,0 +1,3 @@
+a man walk with a long, determined gate.#a/DET man/NOUN walk/VERB with/ADP a/DET long/ADJ determine/VERB gate/NOUN#0.0#0.0
+a person walks using large strides.#a/DET person/NOUN walk/VERB use/VERB large/ADJ stride/NOUN#0.0#0.0
+a man walks forward fast.#a/DET man/NOUN walk/VERB forward/ADV fast/ADV#0.0#0.0

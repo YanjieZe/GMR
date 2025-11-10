@@ -1,0 +1,3 @@
+person sits for while and then gets up and walks to left#person/NOUN sit/VERB for/ADP while/SCONJ and/CCONJ then/ADV get/VERB up/ADV and/CCONJ walk/VERB to/PART left/VERB#0.0#0.0
+a person stands up from sitting, and then walks away.#a/DET person/NOUN stand/VERB up/ADP from/ADP sit/VERB and/CCONJ then/ADV walk/VERB away/ADV#0.0#0.0
+a person stands up from sitting, turns and walks away.#a/DET person/NOUN stand/VERB up/ADP from/ADP sit/VERB turn/VERB and/CCONJ walk/VERB away/ADV#0.0#0.0

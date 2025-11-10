@@ -1,0 +1,3 @@
+individual appears to be in a coversational movement using arms in a descriptive manner.#individual/ADJ appear/VERB to/PART be/AUX in/ADP a/DET coversational/ADJ movement/NOUN use/VERB arm/NOUN in/ADP a/DET descriptive/ADJ manner/NOUN#4.0#7.0
+a person moves their right arm gently, then picks something up with both hands and puts it to the side#a/DET person/NOUN move/VERB their/DET right/ADJ arm/NOUN gently/ADV then/ADV pick/VERB something/PRON up/ADP with/ADP both/DET hand/NOUN and/CCONJ put/VERB it/PRON to/ADP the/DET side/NOUN#0.0#0.0
+someone paying at the drive thru#someone/PRON pay/VERB at/ADP the/DET drive/NOUN thru/ADV#0.0#0.0

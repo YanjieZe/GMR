@@ -1,0 +1,3 @@
+the person bends their left arm as if they are trying to check something on their waist.#the/DET person/NOUN bend/VERB their/DET left/ADJ arm/NOUN as/SCONJ if/SCONJ they/PRON are/AUX try/VERB to/PART check/VERB something/PRON on/ADP their/DET waist/NOUN#0.0#0.0
+a person checks their watch for the time#a/DET person/NOUN check/VERB their/DET watch/NOUN for/ADP the/DET time/NOUN#0.0#0.0
+a person who held their torso with their left arm after being in a t pose#a/DET person/NOUN who/PRON hold/VERB their/DET torso/NOUN with/ADP their/DET left/ADJ arm/NOUN after/ADP being/AUX in/ADP a/DET t/NOUN pose/NOUN#0.0#0.0

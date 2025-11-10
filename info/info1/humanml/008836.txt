@@ -1,0 +1,3 @@
+a person is rowing on a boat#a/DET person/NOUN is/AUX row/VERB on/ADP a/DET boat/NOUN#0.0#0.0
+a person raises their arms, waves them around, then stretches them.#a/DET person/NOUN raise/VERB their/DET arm/NOUN wave/VERB them/PRON around/ADP then/ADV stretch/VERB them/PRON#0.0#0.0
+a person raises both arms into a y shape, makes rowing motions either side of their body with both hands together, then rotates their upper body back and forth from the hips.#a/DET person/NOUN raise/VERB both/DET arm/NOUN into/ADP a/DET y/NOUN shape/NOUN make/VERB rowing/NOUN motion/NOUN either/DET side/NOUN of/ADP their/DET body/NOUN with/ADP both/DET hand/NOUN together/ADV then/ADV rotate/VERB their/DET upper/ADJ body/NOUN back/ADV and/CCONJ forth/ADV from/ADP the/DET hip/NOUN#0.0#0.0

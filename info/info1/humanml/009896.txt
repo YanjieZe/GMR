@@ -1,0 +1,3 @@
+a person is sitting or squatting with bent arms and picks something up to face height, then turns their torso to the left.#a/DET person/NOUN is/AUX sit/VERB or/CCONJ squat/VERB with/ADP bent/ADJ arm/NOUN and/CCONJ pick/VERB something/PRON up/ADP to/PART face/VERB height/NOUN then/ADV turn/VERB their/DET torso/NOUN to/ADP the/DET left/NOUN#0.0#0.0
+a person sit down on the floor, and after doing something with hands#a/DET person/NOUN sit/VERB down/ADP on/ADP the/DET floor/NOUN and/CCONJ after/ADP do/VERB something/PRON with/ADP hand/NOUN#0.0#6.0
+a squatting person slightly turns from side to side#a/DET squat/VERB person/NOUN slightly/ADV turn/VERB from/ADP side/NOUN to/PART side/VERB#0.0#0.0

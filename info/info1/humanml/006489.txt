@@ -1,0 +1,3 @@
+the sim is walking in a circle, with both arms extended as to be carrying something.#the/DET sim/PROPN is/AUX walk/VERB in/ADP a/DET circle/NOUN with/ADP both/DET arm/NOUN extend/VERB as/SCONJ to/PART be/AUX carry/VERB something/PRON#0.0#0.0
+a man has his hands raised above his head and walks in a circle.#a/DET man/NOUN has/AUX his/DET hand/NOUN raise/VERB above/ADP his/DET head/NOUN and/CCONJ walk/VERB in/ADP a/DET circle/NOUN#0.0#0.0
+the person walks around while holding the box above their head#the/DET person/NOUN walk/VERB around/ADV while/SCONJ hold/VERB the/DET box/NOUN above/ADP their/DET head/NOUN#0.0#0.0

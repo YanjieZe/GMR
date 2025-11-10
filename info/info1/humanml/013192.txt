@@ -1,0 +1,3 @@
+a person briskly walks in an anti clockwise direction.#a/DET person/NOUN briskly/ADV walk/VERB in/ADP an/DET anti/ADJ clockwise/NOUN direction/NOUN#0.0#0.0
+a person walks in a quarter of a circle motion starting towards viewer and ends facing to the right of the screen.#a/DET person/NOUN walk/VERB in/ADP a/DET quarter/NOUN of/ADP a/DET circle/NOUN motion/NOUN start/VERB towards/ADP viewer/NOUN and/CCONJ end/VERB face/VERB to/ADP the/DET right/NOUN of/ADP the/DET screen/NOUN#0.0#0.0
+person walks forward and makes a slight change of direction to their left.#person/NOUN walk/VERB forward/ADV and/CCONJ make/VERB a/DET slight/ADJ change/NOUN of/ADP direction/NOUN to/ADP their/DET left/NOUN#0.0#0.0

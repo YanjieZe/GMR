@@ -1,0 +1,3 @@
+the person walks straight forward slowly while swaying their hips.#the/DET person/NOUN walk/VERB straight/ADV forward/ADV slowly/ADV while/SCONJ sway/VERB their/DET hip/NOUN#0.0#0.0
+this person walks very slowly toward the front.#this/DET person/NOUN walk/VERB very/ADV slowly/ADV toward/ADP the/DET front/NOUN#0.0#0.0
+a person is walking forward along the ground.#a/DET person/NOUN is/AUX walk/VERB forward/ADV along/ADP the/DET ground/NOUN#0.0#0.0

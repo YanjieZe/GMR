@@ -1,0 +1,3 @@
+a person walks up the stairs then turns around and walks down the steps while holding a rail.#a/DET person/NOUN walk/VERB up/ADP the/DET stair/NOUN then/ADV turn/VERB around/ADV and/CCONJ walk/VERB down/ADP the/DET step/NOUN while/SCONJ hold/VERB a/DET rail/NOUN#0.0#0.0
+a persons walks upstairs and then downstairs#a/DET person/NOUN walk/VERB upstairs/ADV and/CCONJ then/ADV downstairs/ADV#0.0#0.0
+a person walks up the stairs, holding the railing, turns and walks back down the stairs.#a/DET person/NOUN walk/VERB up/ADP the/DET stair/NOUN hold/VERB the/DET railing/NOUN turn/VERB and/CCONJ walk/VERB back/ADV down/ADP the/DET stair/NOUN#0.0#0.0

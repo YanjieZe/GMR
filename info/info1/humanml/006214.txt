@@ -1,0 +1,3 @@
+a person stands up from a sitting position, makes an overhand throw motion, and underhand throw motion, then a basketball shot motion.#a/DET person/NOUN stand/VERB up/ADP from/ADP a/DET sit/VERB position/NOUN make/VERB an/DET overhand/NOUN throw/NOUN motion/NOUN and/CCONJ underhand/CCONJ throw/VERB motion/NOUN then/ADV a/DET basketball/NOUN shoot/VERB motion/NOUN#0.0#0.0
+a person gets up from the floor and then throws a football into the air#a/DET person/NOUN get/VERB up/ADV from/ADP the/DET floor/NOUN and/CCONJ then/ADV throw/VERB a/DET football/NOUN into/ADP the/DET air/NOUN#0.0#3.0
+man man jumps up throws a ball high, then throws another lowe.#man/PROPN man/PROPN jump/VERB up/ADP throw/VERB a/DET ball/NOUN high/ADJ then/ADV throw/VERB another/DET lowe/NOUN#0.0#0.0

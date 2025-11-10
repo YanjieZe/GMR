@@ -1,0 +1,3 @@
+a person walks in a snake like pattern#a/DET person/NOUN walk/VERB in/ADP a/DET snake/NOUN like/SCONJ pattern/NOUN#0.0#0.0
+a person walks, curving first leftward, then rightward, then to their left again.#a/DET person/NOUN walk/VERB curve/VERB first/ADJ leftward/NOUN then/ADV rightward/NOUN then/ADV to/ADP their/DET left/NOUN again/ADV#0.0#0.0
+a person walks in a random pattern.#a/DET person/NOUN walk/VERB in/ADP a/DET random/ADJ pattern/NOUN#0.0#0.0

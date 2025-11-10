@@ -1,0 +1,3 @@
+a persons walks on a tight rope.#a/DET person/NOUN walk/VERB on/ADP a/DET tight/ADJ rope/NOUN#0.0#0.0
+a person walks with both arms spread out.#a/DET person/NOUN walk/VERB with/ADP both/DET arm/NOUN spread/VERB out/ADP#0.0#0.0
+a person walks along a narrow object with arms up for balance.#a/DET person/NOUN walk/VERB along/ADP a/DET narrow/ADJ object/NOUN with/ADP arm/NOUN up/ADP for/ADP balance/NOUN#0.0#0.0

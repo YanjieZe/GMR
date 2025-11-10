@@ -1,0 +1,3 @@
+a person is pushed forward.#a/DET person/NOUN is/AUX push/VERB forward/ADV#0.0#0.0
+a person is pushed forward slightly.#a/DET person/NOUN is/AUX push/VERB forward/ADV slightly/ADV#0.0#0.0
+he steps forward then gently bends his knees.#he/PRON step/VERB forward/ADV then/ADV gently/ADV bend/VERB his/DET knee/NOUN#0.0#0.0

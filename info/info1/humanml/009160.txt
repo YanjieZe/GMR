@@ -1,0 +1,3 @@
+the person is doing jumping jacks.#the/DET person/NOUN is/AUX do/VERB jump/VERB jack/NOUN#0.0#0.0
+a person performs two jumping jacks.#a/DET person/NOUN perform/VERB two/NUM jump/VERB jack/NOUN#0.0#0.0
+a person does jumping jacks on the spot.#a/DET person/NOUN does/AUX jump/VERB jack/NOUN on/ADP the/DET spot/NOUN#0.0#0.0

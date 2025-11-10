@@ -1,0 +1,3 @@
+person carefully takes two steps backwards.#person/NOUN carefully/ADV take/VERB two/NUM step/NOUN backwards/ADV#0.0#8.0
+person turns body slightly and moves backwards#person/NOUN turn/VERB body/NOUN slightly/ADV and/CCONJ move/NOUN backwards/ADV#0.0#0.0
+a man cautiously take several steps backwards.#a/DET man/NOUN cautiously/ADV take/VERB several/ADJ step/NOUN backwards/ADV#0.0#0.0

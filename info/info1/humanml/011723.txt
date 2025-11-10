@@ -1,0 +1,3 @@
+a person walks, then sprints, then takes wide spaced steps.#a/DET person/NOUN walk/VERB then/ADV sprint/NOUN then/ADV take/VERB wide/ADJ space/VERB step/NOUN#0.0#10.0
+a person walks then runs to the right, afterwards they turn around to walk back#a/DET person/NOUN walk/VERB then/ADV run/VERB to/ADP the/DET right/NOUN afterwards/ADV they/PRON turn/VERB around/ADP to/PART walk/VERB back/ADV#0.0#0.0
+slow walking velocity in a line to a quick burst of speed. unit during circle#slow/ADJ walking/NOUN velocity/NOUN in/ADP a/DET line/NOUN to/ADP a/DET quick/ADJ burst/NOUN of/ADP speed/NOUN unit/NOUN during/ADP circle/PROPN#0.0#0.0

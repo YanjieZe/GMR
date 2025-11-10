@@ -1,0 +1,3 @@
+person stands still, then lifts right arm to wave hand back and forth at the screen like a greeting.#person/NOUN stand/VERB still/ADV then/ADV lift/VERB right/ADJ arm/NOUN to/PART wave/VERB hand/NOUN back/ADV and/CCONJ forth/ADV at/ADP the/DET screen/NOUN like/SCONJ a/DET greeting/NOUN#0.0#0.0
+a person waves their right hand three times.#a/DET person/NOUN wave/VERB their/DET right/ADJ hand/NOUN three/NUM time/NOUN#0.0#0.0
+a person raises their right arm and waves.#a/DET person/NOUN raise/VERB their/DET right/ADJ arm/NOUN and/CCONJ wave/NOUN#0.0#0.0

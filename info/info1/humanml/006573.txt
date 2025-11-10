@@ -1,0 +1,3 @@
+a person turns around and walks and then turns around again#a/DET person/NOUN turn/VERB around/ADV and/CCONJ walk/VERB and/CCONJ then/ADV turn/VERB around/ADP again/ADV#0.0#0.0
+the toon turns around, walking backwards to the end of the plane before once again turning around.#the/DET toon/NOUN turn/VERB around/ADV walk/VERB backwards/ADV to/ADP the/DET end/NOUN of/ADP the/DET plane/NOUN before/ADP once/ADV again/ADV turn/VERB around/ADV#0.0#8.0
+a person takes a step forward, turns around and walks back behind them, then turns around to face their front.#a/DET person/NOUN take/VERB a/DET step/NOUN forward/ADV turn/VERB around/ADV and/CCONJ walk/VERB back/ADV behind/ADP them/PRON then/ADV turn/VERB around/ADP to/PART face/VERB their/DET front/NOUN#0.0#0.0

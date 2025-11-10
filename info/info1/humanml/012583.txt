@@ -1,0 +1,3 @@
+a person is walking forward while trying to balance with his arms#a/DET person/NOUN is/AUX walk/VERB forward/ADV while/SCONJ try/VERB to/PART balance/VERB with/ADP his/DET arm/NOUN#0.0#0.0
+a person has his left hand on a handrail while walking forward#a/DET person/NOUN has/AUX his/DET left/ADJ hand/NOUN on/ADP a/DET handrail/NOUN while/SCONJ walk/VERB forward/ADV#0.0#0.0
+a person holds both hands out and walks slowly forward, putting their hands down by their sides.#a/DET person/NOUN hold/VERB both/DET hand/NOUN out/ADP and/CCONJ walk/VERB slowly/ADV forward/ADV put/VERB their/DET hand/NOUN down/ADP by/ADP their/DET side/NOUN#0.0#0.0

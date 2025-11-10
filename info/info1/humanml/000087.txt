@@ -1,0 +1,3 @@
+a person standing brings hands together in front of him to applaud#a/DET person/NOUN stand/VERB bring/VERB hand/NOUN together/ADV in/ADP front/NOUN of/ADP him/PRON to/PART applaud/VERB#0.0#0.0
+he stands and then start clapping and then move hands to initial position.#he/PRON stand/VERB and/CCONJ then/ADV start/VERB clap/VERB and/CCONJ then/ADV move/VERB hand/NOUN to/ADP initial/ADJ position/NOUN#0.0#0.0
+a person raises both its arm, and claps, then brings its arms back down.#a/DET person/NOUN raise/VERB both/CCONJ its/DET arm/NOUN and/CCONJ clap/NOUN then/ADV bring/VERB its/DET arm/NOUN back/ADV down/ADV#0.0#0.0

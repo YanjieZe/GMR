@@ -1,0 +1,3 @@
+a person is standing straight, and suddenly goes backwards as if they were shoved, but does not fall down.#a/DET person/NOUN is/AUX stand/VERB straight/ADV and/CCONJ suddenly/ADV go/VERB backwards/ADV as/SCONJ if/SCONJ they/PRON were/AUX shove/VERB but/CCONJ does/AUX not/PART fall/VERB down/ADP#0.0#0.0
+a person moves back and left with the right foot first.#a/DET person/NOUN move/VERB back/ADP and/CCONJ left/VERB with/ADP the/DET right/ADJ foot/NOUN first/ADV#0.0#0.0
+a man quickly steps backwards with his right leg first.#a/DET man/NOUN quickly/ADV step/VERB backwards/ADV with/ADP his/DET right/ADJ leg/NOUN first/ADV#0.0#0.0

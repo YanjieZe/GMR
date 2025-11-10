@@ -1,0 +1,3 @@
+the person is boxing with his right arm.#the/DET person/NOUN is/AUX box/VERB with/ADP his/DET right/ADJ arm/NOUN#0.0#0.0
+this person is doing an exercise motion. they are crossing their arms across their chest to the top. this is a back and chest workout#this/DET person/NOUN is/AUX do/VERB an/DET exercise/NOUN motion/NOUN they/PRON are/AUX cross/VERB their/DET arm/NOUN across/ADP their/DET chest/NOUN to/ADP the/DET top/NOUN this/DET is/AUX a/DET back/NOUN and/CCONJ chest/NOUN workout/NOUN#0.0#0.0
+a person raises their right hand up diagonally and then they raise their left hand up diagonally.#a/DET person/NOUN raise/VERB their/DET right/ADJ hand/NOUN up/ADP diagonally/ADV and/CCONJ then/ADV they/PRON raise/VERB their/DET left/ADJ hand/NOUN up/ADP diagonally/ADV#0.0#0.0

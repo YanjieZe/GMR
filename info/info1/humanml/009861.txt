@@ -1,0 +1,3 @@
+a figure brings its heels together, moving in a side to side motion#a/DET figure/NOUN bring/VERB its/DET heel/NOUN together/ADV move/VERB in/ADP a/DET side/NOUN to/PART side/VERB motion/NOUN#0.0#0.0
+a man sidesteps to his left, then to his right for a few steps, then again to his left.#a/DET man/NOUN sidestep/VERB to/ADP his/DET left/NOUN then/ADV to/ADP his/DET right/NOUN for/ADP a/DET few/ADJ step/NOUN then/ADV again/ADV to/ADP his/DET left/NOUN#0.0#0.0
+a person sidesteps back and forth.#a/DET person/NOUN sidestep/VERB back/ADV and/CCONJ forth/ADV#0.0#0.0

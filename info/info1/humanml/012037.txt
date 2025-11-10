@@ -1,0 +1,3 @@
+a person is standing still, then raises their arms.#a/DET person/NOUN is/AUX stand/VERB still/ADV then/ADV raise/VERB their/DET arm/NOUN#0.0#0.0
+a person rest their arms on their thighs.#a/DET person/NOUN rest/VERB their/DET arm/NOUN on/ADP their/DET thigh/NOUN#0.0#0.0
+a person has his hands on his thighs.#a/DET person/NOUN has/AUX his/DET hand/NOUN on/ADP his/DET thigh/NOUN#0.0#0.0

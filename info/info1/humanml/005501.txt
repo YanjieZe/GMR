@@ -1,0 +1,3 @@
+a person hops in place.#a/DET person/NOUN hop/VERB in/ADP place/NOUN#0.0#0.0
+a person jumps several times#a/DET person/NOUN jump/VERB several/ADJ time/NOUN#0.0#0.0
+a person is bouncing up and down.#a/DET person/NOUN is/AUX bounce/VERB up/ADP and/CCONJ down/ADV#0.0#0.0

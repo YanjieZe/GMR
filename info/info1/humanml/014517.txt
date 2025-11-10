@@ -1,0 +1,3 @@
+person raises arms and moves clockwise#person/NOUN raise/VERB arm/NOUN and/CCONJ move/NOUN clockwise/ADJ#0.0#0.0
+a man waves both his arms.#a/DET man/NOUN wave/VERB both/CCONJ his/DET arm/NOUN#0.0#0.0
+a person is spreading out his arms.#a/DET person/NOUN is/AUX spread/VERB out/ADP his/DET arm/NOUN#0.0#0.0

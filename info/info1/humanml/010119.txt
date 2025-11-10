@@ -1,0 +1,3 @@
+a person makes a circular motion with their arms forward and backward.#a/DET person/NOUN make/VERB a/DET circular/ADJ motion/NOUN with/ADP their/DET arm/NOUN forward/ADV and/CCONJ backward/ADV#0.0#0.0
+a person rolls their neck and stretches their arms by rotating them forward.#a/DET person/NOUN roll/VERB their/DET neck/NOUN and/CCONJ stretch/VERB their/DET arm/NOUN by/ADP rotate/VERB them/PRON forward/ADV#0.0#0.0
+a person performs arm circles. they then perform them in reverse.#a/DET person/NOUN perform/VERB arm/NOUN circle/NOUN they/PRON then/ADV perform/VERB them/PRON in/ADP reverse/NOUN#0.0#0.0

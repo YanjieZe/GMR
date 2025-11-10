@@ -1,0 +1,3 @@
+the sim appears to run & step / side jump over an object.#the/DET sim/PROPN appear/VERB to/PART run/VERB step/VERB side/NOUN jump/NOUN over/ADP an/DET object/NOUN#0.0#2.0
+person just did a whole jump.#person/NOUN just/ADV did/AUX a/DET whole/ADJ jump/NOUN#0.0#0.0
+a person jogs forward and leaps over an object using their right hand.#a/DET person/NOUN jog/VERB forward/ADV and/CCONJ leap/NOUN over/ADP an/DET object/NOUN use/VERB their/DET right/ADJ hand/NOUN#0.0#0.0

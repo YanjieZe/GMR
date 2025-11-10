@@ -1,0 +1,3 @@
+a person bends both arms at the elbows and shoves the shoulders backwards several times.#a/DET person/NOUN bend/VERB both/DET arm/NOUN at/ADP the/DET elbow/NOUN and/CCONJ shove/VERB the/DET shoulder/NOUN backwards/ADP several/ADJ time/NOUN#0.0#0.0
+a person lifts their arms up to shoulder hight and with their elbows bent they move their hands back amd forth.#a/DET person/NOUN lift/VERB their/DET arm/NOUN up/ADV to/ADP shoulder/NOUN hight/NOUN and/CCONJ with/ADP their/DET elbow/NOUN bent/ADJ they/PRON move/VERB their/DET hand/NOUN back/ADV amd/PROPN forth/ADV#0.0#0.0
+the man is warming up the pectoral#the/DET man/NOUN is/AUX warm/VERB up/ADP the/DET pectoral/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person holds their hands up to their face, holding something, then puts them back down to their sides.#a/DET person/NOUN hold/VERB their/DET hand/NOUN up/ADP to/ADP their/DET face/NOUN hold/VERB something/PRON then/ADV put/VERB them/PRON back/ADV down/ADP to/ADP their/DET side/NOUN#0.0#0.0
+someone yell with hands to his face#someone/PRON yell/ADJ with/ADP hand/NOUN to/ADP his/DET face/NOUN#0.0#0.0
+a person cups their hands around their mouth, in an effort to shout at someone.#a/DET person/NOUN cup/VERB their/DET hand/NOUN around/ADP their/DET mouth/NOUN in/ADP an/DET effort/NOUN to/PART shout/VERB at/ADP someone/PRON#0.0#0.0

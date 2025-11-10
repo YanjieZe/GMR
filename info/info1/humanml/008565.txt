@@ -1,0 +1,3 @@
+someone slowly and dramatically walks forward in a straight line.#someone/PRON slowly/ADV and/CCONJ dramatically/ADV walk/VERB forward/ADV in/ADP a/DET straight/ADJ line/NOUN#0.0#0.0
+a man walks forward slowly.#a/DET man/NOUN walk/VERB forward/ADV slowly/ADV#0.0#0.0
+a person walks slowly forward.#a/DET person/NOUN walk/VERB slowly/ADV forward/ADV#0.0#0.0

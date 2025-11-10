@@ -1,0 +1,3 @@
+a person sliding to the right diagonally then back to the left#a/DET person/NOUN slide/VERB to/ADP the/DET right/NOUN diagonally/ADV then/ADV back/ADV to/ADP the/DET left/NOUN#0.0#0.0
+a person sidesteps 6 steps to the left and slightly back and then 2 steps back to the right.#a/DET person/NOUN sidestep/VERB step/NOUN to/ADP the/DET left/NOUN and/CCONJ slightly/ADV back/ADV and/CCONJ then/ADV step/NOUN back/ADV to/ADP the/DET right/NOUN#0.0#0.0
+a man moves side to side then move back side to side.#a/DET man/NOUN move/VERB side/NOUN to/PART side/VERB then/ADV move/VERB back/ADV side/NOUN to/PART side/VERB#0.0#0.0

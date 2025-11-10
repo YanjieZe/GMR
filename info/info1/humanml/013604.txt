@@ -1,0 +1,3 @@
+a person walks forwards tentatively through either slippery or muddy ground.#a/DET person/NOUN walk/VERB forwards/ADP tentatively/ADV through/ADP either/CCONJ slippery/ADJ or/CCONJ muddy/ADJ ground/NOUN#0.0#0.0
+a person walks forward, across an object, and then steps down.#a/DET person/NOUN walk/VERB forward/ADV across/ADP an/DET object/NOUN and/CCONJ then/ADV step/VERB down/ADP#0.0#0.0
+a man walks forward while stepping over several items.#a/DET man/NOUN walk/VERB forward/ADV while/SCONJ step/VERB over/ADP several/ADJ item/NOUN#0.0#0.0

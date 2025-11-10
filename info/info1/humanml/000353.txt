@@ -1,0 +1,3 @@
+the person quickly moves his left leg to the left and brings his right leg quickly to the left also.#the/DET person/NOUN quickly/ADV move/VERB his/DET left/ADJ leg/NOUN to/ADP the/DET left/NOUN and/CCONJ bring/VERB his/DET right/ADJ leg/NOUN quickly/ADV to/ADP the/DET left/NOUN also/ADV#0.0#0.0
+a person takes a quick side step to its left.#a/DET person/NOUN take/VERB a/DET quick/ADJ side/NOUN step/NOUN to/ADP its/DET left/NOUN#0.0#0.0
+person takes a large step to the left fast#person/NOUN take/VERB a/DET large/ADJ step/NOUN to/ADP the/DET left/NOUN fast/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+the person is walking forward slowly.#the/DET person/NOUN is/AUX walk/VERB forward/ADV slowly/ADV#0.0#0.0
+figure walks forward, turns around and walks back#figure/NOUN walk/VERB forward/ADV turn/VERB around/ADV and/CCONJ walk/VERB back/ADV#0.0#0.0
+person walks forward eight steps then turns around and walks back#person/NOUN walk/VERB forward/ADV eight/NUM step/NOUN then/ADV turn/VERB around/ADP and/CCONJ walk/VERB back/ADV#0.0#0.0

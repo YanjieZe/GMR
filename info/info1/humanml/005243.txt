@@ -1,0 +1,3 @@
+a person lowers his arms and then raises them to shoulder height#a/DET person/NOUN lower/VERB his/DET arm/NOUN and/CCONJ then/ADV raise/VERB them/PRON to/PART shoulder/VERB height/NOUN#0.0#0.0
+a man brings his arms down to his side, holds them there for a few moments, then extends them back out to shoulder height.#a/DET man/NOUN bring/VERB his/DET arm/NOUN down/ADP to/ADP his/DET side/NOUN hold/VERB them/PRON there/ADV for/ADP a/DET few/ADJ moment/NOUN then/ADV extend/VERB them/PRON back/ADV out/ADP to/ADP shoulder/NOUN height/NOUN#0.0#0.0
+person is waving their arms and head in a small circle.#person/NOUN is/AUX wave/VERB their/DET arm/NOUN and/CCONJ head/NOUN in/ADP a/DET small/ADJ circle/NOUN#0.0#0.0

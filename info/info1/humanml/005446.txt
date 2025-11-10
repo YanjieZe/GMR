@@ -1,0 +1,3 @@
+person walking in figure eight pattern#person/NOUN walk/VERB in/ADP figure/NOUN eight/NUM pattern/NOUN#0.0#0.0
+the man is walking forward#the/DET man/NOUN is/AUX walk/VERB forward/ADV#0.0#0.0
+a person walks in an 8 pattern.#a/DET person/NOUN walk/VERB in/ADP an/DET pattern/NOUN#0.0#0.0

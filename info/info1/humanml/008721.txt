@@ -1,0 +1,3 @@
+a person walking, jump and keep walking#a/DET person/NOUN walk/VERB jump/VERB and/CCONJ keep/VERB walk/VERB#0.0#0.0
+a person is walking forward and jumps over something.#a/DET person/NOUN is/AUX walk/VERB forward/ADV and/CCONJ jump/VERB over/ADP something/PRON#0.0#0.0
+a person walks forward slowly, pauses, jumps forward with both feet, then continues walking.#a/DET person/NOUN walk/VERB forward/ADV slowly/ADV pause/NOUN jump/VERB forward/ADV with/ADP both/DET foot/NOUN then/ADV continue/VERB walk/VERB#0.0#0.0

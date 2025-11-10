@@ -1,0 +1,3 @@
+a person reaches around in front of them with their left hand.#a/DET person/NOUN reach/VERB around/ADV in/ADP front/NOUN of/ADP them/PRON with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0
+lowering arms from shoulder height then opening a window and reaching in#lower/VERB arm/NOUN from/ADP shoulder/NOUN height/NOUN then/ADV open/VERB a/DET window/NOUN and/CCONJ reach/VERB in/ADP#0.0#0.0
+a person is standing with their arms out to their sides and uses their left arm to make pulling motions, outwards, downwards, and inwards.#a/DET person/NOUN is/AUX stand/VERB with/ADP their/DET arm/NOUN out/ADP to/ADP their/DET side/NOUN and/CCONJ use/VERB their/DET left/ADJ arm/NOUN to/PART make/VERB pull/VERB motion/NOUN outward/NOUN downwards/ADV and/CCONJ inward/NOUN#0.0#0.0

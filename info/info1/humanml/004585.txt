@@ -1,0 +1,3 @@
+figure moves downwards forward in area.#figure/NOUN move/NOUN downwards/ADV forward/ADV in/ADP area/NOUN#0.0#0.0
+person is walking with a fairly wide stance forwards, and then there is some movement in the z-axis. appears to be walking up stairs#person/NOUN is/AUX walk/VERB with/ADP a/DET fairly/ADV wide/ADJ stance/NOUN forwards/ADV and/CCONJ then/ADV there/PRON is/AUX some/DET movement/NOUN in/ADP the/DET zaxis/PROPN appear/VERB to/PART be/AUX walk/VERB up/ADP stair/NOUN#0.0#0.0
+a person walking forward with their shoulder wide, before climbing steps.#a/DET person/NOUN walk/VERB forward/ADV with/ADP their/DET shoulder/NOUN wide/ADV before/ADP climb/VERB step/NOUN#0.0#0.0

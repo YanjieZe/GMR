@@ -1,0 +1,3 @@
+a person raises his right arm in front of himself, swings it over to the side, then lowers it.#a/DET person/NOUN raise/VERB his/DET right/ADJ arm/NOUN in/ADP front/NOUN of/ADP himself/PRON swing/VERB it/PRON over/ADP to/ADP the/DET side/NOUN then/ADV lower/VERB it/PRON#0.0#0.0
+a person makes a wide, flat, arcing motion with the right hand across the body.#a/DET person/NOUN make/VERB a/DET wide/ADJ flat/ADJ arc/VERB motion/NOUN with/ADP the/DET right/ADJ hand/NOUN across/ADP the/DET body/NOUN#0.0#0.0
+a person moves his right arm straight up and then to the right while standing still.#a/DET person/NOUN move/VERB his/DET right/ADJ arm/NOUN straight/ADV up/ADV and/CCONJ then/ADV to/ADP the/DET right/NOUN while/SCONJ stand/VERB still/ADV#0.0#3.0

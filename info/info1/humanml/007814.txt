@@ -1,0 +1,3 @@
+a figure crouches down and sneaks forward, rotates and sneaks backwards while facing forward.#a/DET figure/NOUN crouch/VERB down/ADV and/CCONJ sneak/VERB forward/ADV rotate/NOUN and/CCONJ sneak/NOUN backwards/ADV while/SCONJ face/VERB forward/ADV#0.0#0.0
+a person steppes in left direction and return#a/DET person/NOUN steppe/VERB in/ADP left/ADJ direction/NOUN and/CCONJ return/NOUN#0.0#0.0
+a person walks very carefully around#a/DET person/NOUN walk/VERB very/ADV carefully/ADV around/ADV#0.0#0.0

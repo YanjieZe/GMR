@@ -1,0 +1,3 @@
+the man walks while holding onto the rail.#the/DET man/NOUN walk/VERB while/SCONJ hold/VERB onto/ADP the/DET rail/NOUN#0.0#0.0
+a man walks forward on a diagonal holding on to the railings on each side of him while he walks.#a/DET man/NOUN walk/VERB forward/ADV on/ADP a/DET diagonal/ADJ holding/NOUN on/ADP to/ADP the/DET railing/NOUN on/ADP each/DET side/NOUN of/ADP him/PRON while/SCONJ he/PRON walk/VERB#0.0#0.0
+person is walking with handrail assistance#person/NOUN is/AUX walk/VERB with/ADP handrail/NOUN assistance/NOUN#0.0#0.0

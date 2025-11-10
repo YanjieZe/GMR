@@ -1,0 +1,2 @@
+a person runs forward and then turns left#a/DET person/NOUN run/VERB forward/ADV and/CCONJ then/ADV turn/VERB left/ADV#0.0#0.0
+a running man turns to the left and keeps running.#a/DET running/ADJ man/NOUN turn/VERB to/ADP the/DET left/NOUN and/CCONJ keep/VERB run/VERB#0.0#0.0

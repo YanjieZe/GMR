@@ -1,0 +1,3 @@
+a man moves clockwise in a circle and then stops.#a/DET man/NOUN move/VERB clockwise/NOUN in/ADP a/DET circle/NOUN and/CCONJ then/ADV stop/VERB#0.0#0.0
+a person walks in a circle to the right.#a/DET person/NOUN walk/VERB in/ADP a/DET circle/NOUN to/ADP the/DET right/NOUN#0.0#0.0
+the person is walking in a counter clockwise circle.#the/DET person/NOUN is/AUX walk/VERB in/ADP a/DET counter/NOUN clockwise/NOUN circle/NOUN#0.0#0.0

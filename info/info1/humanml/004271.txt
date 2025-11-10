@@ -1,0 +1,3 @@
+a person performing a straight kick.#a/DET person/NOUN perform/VERB a/DET straight/ADJ kick/NOUN#0.0#0.0
+the person takes one step forward raises his hands in a guard position kicks forward with his leg.#the/DET person/NOUN take/VERB one/NUM step/NOUN forward/ADV raise/VERB his/DET hand/NOUN in/ADP a/DET guard/NOUN position/NOUN kick/VERB forward/ADV with/ADP his/DET leg/NOUN#0.0#0.0
+kicking and fighting in place#kick/VERB and/CCONJ fighting/NOUN in/ADP place/NOUN#0.0#0.0

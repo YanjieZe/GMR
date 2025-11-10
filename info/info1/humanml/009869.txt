@@ -1,0 +1,3 @@
+a person does jumping jacks bringing their arms up above their head and their legs out and then moving back to a standing position.#a/DET person/NOUN does/AUX jump/VERB jack/NOUN bring/VERB their/DET arm/NOUN up/ADP above/ADP their/DET head/NOUN and/CCONJ their/DET leg/NOUN out/ADP and/CCONJ then/ADV move/VERB back/ADV to/ADP a/DET standing/ADJ position/NOUN#0.0#0.0
+a person does 2 jumping jacks.#a/DET person/NOUN does/AUX jump/VERB jack/NOUN#0.0#0.0
+a figure does minor jumps, out to the side, but spread quite far.#a/DET figure/NOUN does/AUX minor/ADJ jump/NOUN out/ADV to/ADP the/DET side/NOUN but/CCONJ spread/VERB quite/ADV far/ADV#0.0#4.0

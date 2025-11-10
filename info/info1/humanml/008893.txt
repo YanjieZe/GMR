@@ -1,0 +1,3 @@
+a person stumbles forward and catches their weight.#a/DET person/NOUN stumble/VERB forward/ADV and/CCONJ catch/VERB their/DET weight/NOUN#0.0#0.0
+a figure staggers one step forward#a/DET figure/NOUN stagger/NOUN one/NUM step/NOUN forward/ADV#0.0#0.0
+a person takes a large step and walks forward#a/DET person/NOUN take/VERB a/DET large/ADJ step/NOUN and/CCONJ walk/VERB forward/ADV#0.0#0.0

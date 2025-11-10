@@ -1,0 +1,3 @@
+a person standing up extending both arms to balance themselves and then sitting down.#a/DET person/NOUN stand/VERB up/ADP extend/VERB both/DET arm/NOUN to/PART balance/VERB themselves/PRON and/CCONJ then/ADV sit/VERB down/ADP#0.0#0.0
+a man stands with his arms and legs out looks down and then sits down slowly.#a/DET man/NOUN stand/VERB with/ADP his/DET arm/NOUN and/CCONJ leg/NOUN out/ADV look/VERB down/ADP and/CCONJ then/ADV sit/VERB down/ADP slowly/ADV#0.0#0.0
+with arms extended, a person moves to a squatting position placing hands on knees.#with/ADP arm/NOUN extend/VERB a/DET person/NOUN move/VERB to/ADP a/DET squat/VERB position/NOUN place/VERB hand/NOUN on/ADP knee/NOUN#0.0#0.0

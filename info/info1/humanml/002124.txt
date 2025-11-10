@@ -1,0 +1,3 @@
+a man slowly takes two steps forward, then stumbles.#a/DET man/NOUN slowly/ADV take/VERB two/NUM step/NOUN forward/ADV then/ADV stumble/NOUN#0.0#0.0
+a person is pushed forward and recovers.#a/DET person/NOUN is/AUX push/VERB forward/ADV and/CCONJ recover/NOUN#0.0#0.0
+a person walks forward and stumbles as he/she reach the end.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ stumble/NOUN as/SCONJ he/PRON she/PRON reach/VERB the/DET end/NOUN#0.0#0.0

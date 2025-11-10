@@ -1,0 +1,3 @@
+a person slowly walks from side to side going forward.#a/DET person/NOUN slowly/ADV walk/VERB from/ADP side/NOUN to/ADP side/NOUN go/VERB forward/ADV#0.0#0.0
+the person walks very slowly forward.#the/DET person/NOUN walk/VERB very/ADV slowly/ADV forward/ADV#0.0#0.0
+person is walking forward very slowly.#person/NOUN is/AUX walk/VERB forward/ADV very/ADV slowly/ADV#0.0#0.0

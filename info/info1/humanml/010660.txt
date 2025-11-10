@@ -1,0 +1,3 @@
+this person sits down while shaking.#this/DET person/NOUN sit/VERB down/ADP while/SCONJ shake/VERB#0.0#0.0
+a person sits down in a chair that is low to the ground.#a/DET person/NOUN sit/VERB down/ADP in/ADP a/DET chair/NOUN that/DET is/AUX low/ADJ to/ADP the/DET ground/NOUN#0.0#0.0
+sitting down while shaking.#sit/VERB down/ADP while/SCONJ shake/VERB#0.0#0.0

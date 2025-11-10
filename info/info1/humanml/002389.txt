@@ -1,0 +1,3 @@
+a person walking confidently.#a/DET person/NOUN walk/VERB confidently/ADV#0.0#0.0
+a person walks in place.#a/DET person/NOUN walk/VERB in/ADP place/NOUN#0.0#0.0
+a person walks at a consistent speed#a/DET person/NOUN walk/VERB at/ADP a/DET consistent/ADJ speed/NOUN#0.0#0.0

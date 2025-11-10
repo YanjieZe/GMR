@@ -1,0 +1,3 @@
+a person takes a step backwards and then walks in a square taking large steps.#a/DET person/NOUN take/VERB a/DET step/NOUN backwards/ADV and/CCONJ then/ADV walk/VERB in/ADP a/DET square/NOUN take/VERB large/ADJ step/NOUN#0.0#0.0
+a man appears to be doing the waltz dance.#a/DET man/NOUN appear/VERB to/PART be/AUX do/VERB the/DET waltz/NOUN dance/NOUN#0.0#0.0
+person alternating one step forward and one step backward#person/NOUN alternate/VERB one/NUM step/NOUN forward/ADV and/CCONJ one/NUM step/NOUN backward/ADV#0.0#0.0

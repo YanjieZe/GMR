@@ -1,0 +1,3 @@
+a person walks in a circular route to the left.#a/DET person/NOUN walk/VERB in/ADP a/DET circular/ADJ route/NOUN to/ADP the/DET left/NOUN#0.0#0.0
+a person walks forward in a counter-clockwise circle#a/DET person/NOUN walk/VERB forward/ADV in/ADP a/DET counterclockwise/ADJ circle/NOUN#0.0#0.0
+a person walks counter clockwise#a/DET person/NOUN walk/VERB counter/NOUN clockwise/VERB#0.0#0.0

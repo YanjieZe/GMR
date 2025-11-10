@@ -1,0 +1,3 @@
+a person is standing, begins to walk with difficulty stops#a/DET person/NOUN is/AUX stand/VERB begin/VERB to/PART walk/VERB with/ADP difficulty/NOUN stop/VERB#0.0#0.0
+a person walks and slightly stumbles forward.#a/DET person/NOUN walk/VERB and/CCONJ slightly/ADV stumble/VERB forward/ADV#0.0#0.0
+a person walking forward appears to be pushed from behind.#a/DET person/NOUN walk/VERB forward/ADV appear/VERB to/PART be/AUX push/VERB from/ADP behind/ADV#0.0#0.0

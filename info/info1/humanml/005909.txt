@@ -1,0 +1,3 @@
+a person walks forward, leans down and wipes something with their left hand, as if to clean it.#a/DET person/NOUN walk/VERB forward/ADV lean/VERB down/ADV and/CCONJ wipe/NOUN something/PRON with/ADP their/DET left/ADJ hand/NOUN as/SCONJ if/SCONJ to/PART clean/VERB it/PRON#0.0#0.0
+a person leans over the table while cleaning it#a/DET person/NOUN lean/VERB over/ADP the/DET table/NOUN while/SCONJ clean/VERB it/PRON#0.0#0.0
+the man takes a step and bends raising a foot to wipe a table.#the/DET man/NOUN take/VERB a/DET step/NOUN and/CCONJ bend/NOUN raise/VERB a/DET foot/NOUN to/PART wipe/VERB a/DET table/NOUN#0.0#0.0

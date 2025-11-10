@@ -1,0 +1,3 @@
+the person throws out their left arm in front of them then brings both hands to their mouth before lowering them together to the center of their body.#the/DET person/NOUN throw/VERB out/ADP their/DET left/ADJ arm/NOUN in/ADP front/NOUN of/ADP them/PRON then/ADV bring/VERB both/DET hand/NOUN to/ADP their/DET mouth/NOUN before/ADP lower/VERB them/PRON together/ADV to/ADP the/DET center/NOUN of/ADP their/DET body/NOUN#0.0#0.0
+someone just caught a baseball#someone/PRON just/ADV catch/VERB a/DET baseball/NOUN#0.0#0.0
+person throws something then catches something else on the spot#person/NOUN throw/VERB something/PRON then/ADV catch/VERB something/PRON else/ADV on/ADP the/DET spot/NOUN#0.0#0.0

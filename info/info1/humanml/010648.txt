@@ -1,0 +1,3 @@
+a man steps forward, then suddenly staggers to his left, before returning to his original course.#a/DET man/NOUN step/VERB forward/ADV then/ADV suddenly/ADV stagger/VERB to/ADP his/DET left/NOUN before/ADP return/VERB to/ADP his/DET original/ADJ course/NOUN#0.0#0.0
+walking side to side.#walk/VERB side/NOUN to/ADP side/VERB#0.0#0.0
+person walks forward, slides to left quickly, and then darts back to the right.#person/NOUN walk/VERB forward/ADV slide/VERB to/PART left/VERB quickly/ADV and/CCONJ then/ADV dart/VERB back/ADV to/ADP the/DET right/NOUN#0.0#0.0

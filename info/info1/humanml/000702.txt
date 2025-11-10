@@ -1,0 +1,3 @@
+a figure facing forward on a line turns to the left then turns around.#a/DET figure/NOUN face/VERB forward/ADV on/ADP a/DET line/NOUN turn/VERB to/ADP the/DET left/NOUN then/ADV turn/VERB around/ADV#0.0#0.0
+a person took a slight step to the right and then they took a step to the left facing the camera.#a/DET person/NOUN take/VERB a/DET slight/ADJ step/NOUN to/ADP the/DET right/NOUN and/CCONJ then/ADV they/PRON take/VERB a/DET step/NOUN to/ADP the/DET left/NOUN face/VERB the/DET camera/NOUN#0.0#0.0
+a person turns and stands still#a/DET person/NOUN turn/VERB and/CCONJ stand/VERB still/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person jumps up once and stops#a/DET person/NOUN jump/VERB up/ADP once/ADV and/CCONJ stop/VERB#0.0#0.0
+a person jumps softly, arms stiff.#a/DET person/NOUN jump/VERB softly/ADV arm/NOUN stiff/ADJ#0.0#0.0
+someone jumps up and down in the same spot.#someone/PRON jump/VERB up/ADV and/CCONJ down/ADV in/ADP the/DET same/ADJ spot/NOUN#0.0#0.0

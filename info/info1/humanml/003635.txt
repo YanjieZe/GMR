@@ -1,0 +1,3 @@
+a man is scratching his arm then rocks side to side.#a/DET man/NOUN is/AUX scratch/VERB his/DET arm/NOUN then/ADV rock/VERB side/NOUN to/PART side/VERB#0.0#0.0
+a person scratches their right leg, then their left arm and face.#a/DET person/NOUN scratch/VERB their/DET right/ADJ leg/NOUN then/ADV their/DET left/ADJ arm/NOUN and/CCONJ face/NOUN#0.0#0.0
+person standing scratches right thigh with right arm them scratches left arm and then head#person/NOUN stand/VERB scratch/VERB right/ADJ thigh/NOUN with/ADP right/ADJ arm/NOUN them/PRON scratch/VERB left/VERB arm/NOUN and/CCONJ then/ADV head/VERB#0.0#0.0

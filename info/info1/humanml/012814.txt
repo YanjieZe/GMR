@@ -1,0 +1,3 @@
+a person stands around looking from sidse to side and then reaches out in front of them.#a/DET person/NOUN stand/VERB around/ADV look/VERB from/ADP sidse/NOUN to/PART side/VERB and/CCONJ then/ADV reach/VERB out/ADP in/ADP front/NOUN of/ADP them/PRON#0.0#0.0
+the man walks and looks around#the/DET man/NOUN walk/VERB and/CCONJ look/VERB around/ADV#0.0#0.0
+the man opens a door and walks in.#the/DET man/NOUN open/VERB a/DET door/NOUN and/CCONJ walk/VERB in/ADP#0.0#0.0

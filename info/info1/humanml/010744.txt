@@ -1,0 +1,3 @@
+running in a zig zag pattern.#run/VERB in/ADP a/DET zig/NOUN zag/X pattern/NOUN#0.0#0.0
+the person is walking to avoid some thing.#the/DET person/NOUN is/AUX walk/VERB to/PART avoid/VERB some/DET thing/NOUN#0.0#0.0
+the person moves quickly along a curved path.#the/DET person/NOUN move/VERB quickly/ADV along/ADP a/DET curved/ADJ path/NOUN#0.0#0.0

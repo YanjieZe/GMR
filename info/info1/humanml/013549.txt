@@ -1,0 +1,3 @@
+figure appears to be lifting up a paper and reading it#figure/NOUN appear/VERB to/PART be/AUX lift/VERB up/ADP a/DET paper/NOUN and/CCONJ read/VERB it/PRON#0.0#0.0
+a man is picking up using his left hand and then turns to the side with left foot.#a/DET man/NOUN is/AUX pick/VERB up/ADP use/VERB his/DET left/ADJ hand/NOUN and/CCONJ then/ADV turn/VERB to/ADP the/DET side/NOUN with/ADP left/ADJ foot/NOUN#0.0#0.0
+a man has picked up an object while bending down and kneeling on his right side#a/DET man/NOUN has/AUX pick/VERB up/ADP an/DET object/NOUN while/SCONJ bend/VERB down/ADP and/CCONJ kneel/VERB on/ADP his/DET right/ADJ side/NOUN#0.0#0.0

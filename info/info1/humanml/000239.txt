@@ -1,0 +1,3 @@
+a person swings their right arm, then motions with their right arm#a/DET person/NOUN swing/VERB their/DET right/ADJ arm/NOUN then/ADV motion/NOUN with/ADP their/DET right/ADJ arm/NOUN#0.0#0.0
+a person makes a swirling motion with their hand and then raises right arm to drinking position.#a/DET person/NOUN make/VERB a/DET swirling/NOUN motion/NOUN with/ADP their/DET hand/NOUN and/CCONJ then/ADV raise/VERB right/ADJ arm/NOUN to/ADP drinking/NOUN position/NOUN#0.0#0.0
+he is moving his right hand in round motion and then touched his head with the same hand.#he/PRON is/AUX move/VERB his/DET right/ADJ hand/NOUN in/ADP round/ADJ motion/NOUN and/CCONJ then/ADV touch/VERB his/DET head/NOUN with/ADP the/DET same/ADJ hand/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person standing up takes a bow forwards one time.#a/DET person/NOUN stand/VERB up/ADP take/VERB a/DET bow/NOUN forwards/ADP one/NUM time/NOUN#0.0#0.0
+a person takes a bow forward.#a/DET person/NOUN take/VERB a/DET bow/NOUN forward/ADV#0.0#0.0
+person bends backward to arch back and stands back up.#person/NOUN bend/VERB backward/ADJ to/PART arch/VERB back/ADP and/CCONJ stand/VERB back/ADV up/ADV#0.0#0.0

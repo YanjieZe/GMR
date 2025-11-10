@@ -1,0 +1,3 @@
+this person moves both arms up and all around.#this/DET person/NOUN move/VERB both/DET arm/NOUN up/ADV and/CCONJ all/ADV around/ADV#0.0#0.0
+a person is standing on something, paddling on his left side, stops and gains his balance.#a/DET person/NOUN is/AUX stand/VERB on/ADP something/PRON paddle/VERB on/ADP his/DET left/ADJ side/NOUN stop/VERB and/CCONJ gain/VERB his/DET balance/NOUN#0.0#0.0
+person mixes something and then puts hands out to sides#person/NOUN mix/VERB something/PRON and/CCONJ then/ADV put/VERB hand/NOUN out/ADP to/ADP side/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person slight runs forward then stops.#a/DET person/NOUN slight/ADJ run/VERB forward/ADV then/ADV stop/VERB#0.0#0.0
+a man makes a stubbling foward movement and then stops.#a/DET man/NOUN make/VERB a/DET stubble/VERB foward/ADJ movement/NOUN and/CCONJ then/ADV stop/VERB#0.0#0.0
+a person stumbles forward and then regains their balance.#a/DET person/NOUN stumble/VERB forward/ADV and/CCONJ then/ADV regain/VERB their/DET balance/NOUN#0.0#0.0

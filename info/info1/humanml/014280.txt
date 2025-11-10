@@ -1,0 +1,3 @@
+jumping up and down in place.#jump/VERB up/ADP and/CCONJ down/ADP in/ADP place/NOUN#0.0#0.0
+a person does a jump#a/DET person/NOUN does/AUX a/DET jump/NOUN#0.0#0.0
+a person jumping up with both knees high to their chest#a/DET person/NOUN jump/VERB up/ADP with/ADP both/DET knee/NOUN high/ADJ to/ADP their/DET chest/NOUN#0.0#0.0

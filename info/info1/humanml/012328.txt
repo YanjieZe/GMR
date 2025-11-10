@@ -1,0 +1,3 @@
+this person uses both hands as if to work very quickly.#this/DET person/NOUN use/VERB both/DET hand/NOUN as/SCONJ if/SCONJ to/PART work/VERB very/ADV quickly/ADV#0.0#0.0
+a person grabbed something and lean in near to face#a/DET person/NOUN grab/VERB something/PRON and/CCONJ lean/ADJ in/ADV near/ADV to/PART face/VERB#0.0#10.0
+the person is drinking with both hands .#the/DET person/NOUN is/AUX drink/VERB with/ADP both/DET hand/NOUN#0.0#0.0

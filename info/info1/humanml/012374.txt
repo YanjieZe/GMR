@@ -1,0 +1,3 @@
+a seated person shifts their feet around, then pats or scratches their shoulder.#a/DET seated/ADJ person/NOUN shift/VERB their/DET foot/NOUN around/ADV then/ADV pat/NOUN or/CCONJ scratch/VERB their/DET shoulder/NOUN#0.0#0.0
+sitting down then raising hand above head.#sit/VERB down/ADP then/ADV raise/VERB hand/NOUN above/ADP head/NOUN#0.0#0.0
+a person sat on something and scratch the back#a/DET person/NOUN sit/VERB on/ADP something/PRON and/CCONJ scratch/VERB the/DET back/NOUN#0.0#0.0

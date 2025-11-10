@@ -1,0 +1,3 @@
+the girl skips slowly down the hall towards the kitchen.#the/DET girl/NOUN skip/VERB slowly/ADV down/ADP the/DET hall/NOUN towards/ADP the/DET kitchen/NOUN#0.0#0.0
+person side steps with right leg  few steps then back again#person/NOUN side/NOUN step/NOUN with/ADP right/ADJ leg/NOUN few/ADJ step/NOUN then/ADV back/ADV again/ADV#0.0#0.0
+a man side steps to the right before stepping to the left.#a/DET man/NOUN side/NOUN step/NOUN to/ADP the/DET right/NOUN before/ADP step/VERB to/ADP the/DET left/NOUN#0.0#0.0

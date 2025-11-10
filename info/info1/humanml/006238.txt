@@ -1,0 +1,3 @@
+a person is standing still.#a/DET person/NOUN is/AUX stand/VERB still/ADV#0.0#0.0
+there is a person who is totally stopped#there/PRON is/AUX a/DET person/NOUN who/PRON is/AUX totally/ADV stop/VERB#0.0#0.0
+a standing person remains stationary and does not move either his body or arms.#a/DET stand/VERB person/NOUN remain/VERB stationary/ADJ and/CCONJ does/AUX not/PART move/VERB either/CCONJ his/DET body/NOUN or/CCONJ arm/NOUN#0.0#0.0

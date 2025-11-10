@@ -1,0 +1,3 @@
+a man is stumbling and drinks something.#a/DET man/NOUN is/AUX stumble/VERB and/CCONJ drink/VERB something/PRON#0.0#0.0
+the person struggles to walk to their coffee mug#the/DET person/NOUN struggle/VERB to/PART walk/VERB to/ADP their/DET coffee/NOUN mug/NOUN#0.0#0.0
+a person staggers forward drunkenly, struggles to open a bottle, then drinks from it.#a/DET person/NOUN stagger/VERB forward/ADV drunkenly/ADV struggle/VERB to/PART open/VERB a/DET bottle/NOUN then/ADV drink/VERB from/ADP it/PRON#0.0#0.0

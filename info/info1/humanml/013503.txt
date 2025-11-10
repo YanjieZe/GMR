@@ -1,0 +1,3 @@
+a person walks forward and then turn around and sits down. they then get back up and walk back towards where the started#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ then/ADV turn/VERB around/ADP and/CCONJ sit/VERB down/ADP they/PRON then/ADV get/VERB back/ADV up/ADV and/CCONJ walk/VERB back/ADV towards/ADP where/ADV the/DET start/VERB#0.0#0.0
+a person walks forward, turns around and sits, and then gets up and walks.#a/DET person/NOUN walk/VERB forward/ADV turn/VERB around/ADV and/CCONJ sit/VERB and/CCONJ then/ADV get/VERB up/ADV and/CCONJ walk/VERB#0.0#0.0
+a person walks forward and sits down, then stands back up to walk back.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ sit/VERB down/ADV then/ADV stand/VERB back/ADV up/ADV to/PART walk/VERB back/ADV#0.0#0.0

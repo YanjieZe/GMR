@@ -1,0 +1,3 @@
+a person sits on a stool of some sort and brushes off their legs.#a/DET person/NOUN sit/VERB on/ADP a/DET stool/NOUN of/ADP some/DET sort/NOUN and/CCONJ brush/VERB off/ADP their/DET leg/NOUN#0.0#0.0
+walking forward and then sitting with arms out.#walk/VERB forward/ADV and/CCONJ then/ADV sit/VERB with/ADP arm/NOUN out/ADV#0.0#0.0
+a person steps to the right then sits down.#a/DET person/NOUN step/VERB to/ADP the/DET right/NOUN then/ADV sit/VERB down/ADP#0.0#0.0

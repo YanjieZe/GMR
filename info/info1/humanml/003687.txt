@@ -1,0 +1,3 @@
+the person looks at his right wrist.#the/DET person/NOUN look/VERB at/ADP his/DET right/ADJ wrist/NOUN#0.0#0.0
+right hand goes up to the chest and back down to the side.#right/ADJ hand/NOUN go/VERB up/ADP to/ADP the/DET chest/NOUN and/CCONJ back/ADV down/ADV to/ADP the/DET side/NOUN#0.0#0.0
+a person raises their right hand and looks at their wrist, checking the time.#a/DET person/NOUN raise/VERB their/DET right/ADJ hand/NOUN and/CCONJ look/VERB at/ADP their/DET wrist/NOUN check/VERB the/DET time/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person moves around his head.#a/DET person/NOUN move/VERB around/ADP his/DET head/NOUN#0.0#0.0
+a person doing a circular rotation motion whit the torso#a/DET person/NOUN do/VERB a/DET circular/ADJ rotation/NOUN motion/NOUN whit/PROPN the/DET torso/PROPN#0.0#0.0
+a person swivels their head in a clockwise motion, then does the same with their hips.#a/DET person/NOUN swivel/VERB their/DET head/NOUN in/ADP a/DET clockwise/NOUN motion/NOUN then/ADV does/AUX the/DET same/ADJ with/ADP their/DET hip/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person is walking on uneven terrain.#a/DET person/NOUN is/AUX walk/VERB on/ADP uneven/ADJ terrain/NOUN#0.0#0.0
+man starts walking to the right he steps up then step down and turn to the left then start walking.#man/NOUN start/VERB walk/VERB to/ADP the/DET right/NOUN he/PRON step/VERB up/ADP then/ADV step/VERB down/ADP and/CCONJ turn/VERB to/ADP the/DET left/NOUN then/ADV start/VERB walk/VERB#0.0#0.0
+a person walks to the left, turns, climbs over uneven terrain, walks a bit farther, then turns right.#a/DET person/NOUN walk/VERB to/ADP the/DET left/NOUN turn/VERB climb/NOUN over/ADP uneven/ADJ terrain/NOUN walk/VERB a/DET bit/NOUN farther/ADV then/ADV turn/VERB right/ADJ#0.0#0.0

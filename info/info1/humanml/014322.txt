@@ -1,0 +1,3 @@
+this person does not move, just stands in place.#this/DET person/NOUN does/AUX not/PART move/VERB just/ADV stand/VERB in/ADP place/NOUN#0.0#0.0
+a man stands with his arms at his sides and his legs apart, moving as little as possible.#a/DET man/NOUN stand/VERB with/ADP his/DET arm/NOUN at/ADP his/DET side/NOUN and/CCONJ his/DET leg/NOUN apart/ADV move/VERB as/ADV little/ADJ as/SCONJ possible/ADJ#0.0#0.0
+the person is having a drink.#the/DET person/NOUN is/AUX have/VERB a/DET drink/NOUN#0.0#0.0

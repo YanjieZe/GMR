@@ -1,0 +1,3 @@
+a person stands with legs wide apart., slightly bent at the knees and both arms are bent at the elbows and hands are relaxed.#a/DET person/NOUN stand/VERB with/ADP leg/NOUN wide/ADV apart/ADV slightly/ADV bent/ADJ at/ADP the/DET knee/NOUN and/CCONJ both/DET arm/NOUN are/AUX bent/ADJ at/ADP the/DET elbow/NOUN and/CCONJ hand/NOUN are/AUX relaxed/ADJ#0.0#0.0
+the man is making motorcycle pose#the/DET man/NOUN is/AUX make/VERB motorcycle/NOUN pose/NOUN#0.0#0.0
+a person bend the knee and raised the hand#a/DET person/NOUN bend/VERB the/DET knee/NOUN and/CCONJ raise/VERB the/DET hand/NOUN#0.0#0.0

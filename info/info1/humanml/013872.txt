@@ -1,0 +1,3 @@
+a man walks forwards down some stairs while holding the handrail with his left hand.#a/DET man/NOUN walk/VERB forwards/ADV down/ADP some/DET stair/NOUN while/SCONJ hold/VERB the/DET handrail/NOUN with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0
+a person walks down stairs, holding the rail with their left hand.#a/DET person/NOUN walk/VERB down/ADP stair/NOUN hold/VERB the/DET rail/NOUN with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0
+a person walks down steps with their left hand on a railing.#a/DET person/NOUN walk/VERB down/ADP step/NOUN with/ADP their/DET left/ADJ hand/NOUN on/ADP a/DET railing/NOUN#0.0#0.0

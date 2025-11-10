@@ -1,0 +1,3 @@
+person is shimming their hips and shoulders side to side. their neck movement also shows their head looking side to side.#person/NOUN is/AUX shim/VERB their/DET hip/NOUN and/CCONJ shoulder/NOUN side/VERB to/PART side/VERB their/DET neck/NOUN movement/NOUN also/ADV show/VERB their/DET head/NOUN look/VERB side/NOUN to/PART side/VERB#0.0#0.0
+without moving her feet, she wiggles her hips.#without/ADP move/VERB her/DET foot/NOUN she/PRON wiggle/VERB her/DET hip/NOUN#0.0#0.0
+a man is moving his hips from left to right and movin his arms in rythm with his hips.#a/DET man/NOUN is/AUX move/VERB his/DET hip/NOUN from/ADP left/VERB to/ADP right/NOUN and/CCONJ movin/VERB his/DET arm/NOUN in/ADP rythm/NOUN with/ADP his/DET hip/NOUN#0.0#0.0

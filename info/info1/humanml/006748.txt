@@ -1,0 +1,3 @@
+a person is running backwards.#a/DET person/NOUN is/AUX run/VERB backwards/ADV#0.0#0.0
+a person fastly walking backwards, from back#a/DET person/NOUN fastly/ADV walk/VERB backwards/ADV from/ADP back/ADV#0.0#0.0
+a person runs backwards from one end to the other.#a/DET person/NOUN run/VERB backwards/ADV from/ADP one/NUM end/NOUN to/ADP the/DET other/ADJ#0.0#0.0

@@ -1,0 +1,3 @@
+he does a salsa dance#he/PRON does/AUX a/DET salsa/ADJ dance/NOUN#0.0#0.0
+a person takes small steps back and forth while swinging their arms in the air#a/DET person/NOUN take/VERB small/ADJ step/NOUN back/ADV and/CCONJ forth/ADV while/SCONJ swinge/VERB their/DET arm/NOUN in/ADP the/DET air/NOUN#0.0#0.0
+a person does a spinning dance where both they ar they partner turn around.#a/DET person/NOUN does/AUX a/DET spin/VERB dance/NOUN where/ADV both/CCONJ they/PRON ar/VERB they/PRON partner/NOUN turn/VERB around/ADP#0.0#0.0

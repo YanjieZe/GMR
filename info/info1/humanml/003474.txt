@@ -1,0 +1,3 @@
+a person takes 5 steps backwards.#a/DET person/NOUN take/VERB step/NOUN backwards/ADV#0.0#4.0
+a person walks slowly backwards.#a/DET person/NOUN walk/VERB slowly/ADV backwards/ADV#0.0#0.0
+a person steps slowly backwards.#a/DET person/NOUN step/VERB slowly/ADV backwards/ADV#0.0#0.0

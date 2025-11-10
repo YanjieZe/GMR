@@ -1,0 +1,3 @@
+a person is squatted down, sneaking about and at the end rises up.#a/DET person/NOUN is/AUX squat/VERB down/ADV sneak/VERB about/ADP and/CCONJ at/ADP the/DET end/NOUN rise/VERB up/ADP#0.0#10.0
+a person slowly walks around by shuffling their feet, with their arms extended as if they were going to grab something.#a/DET person/NOUN slowly/ADV walk/VERB around/ADV by/ADP shuffle/VERB their/DET foot/NOUN with/ADP their/DET arm/NOUN extend/VERB as/SCONJ if/SCONJ they/PRON were/AUX go/VERB to/PART grab/VERB something/PRON#0.0#0.0
+a person walk suspiciously while crouched over#a/DET person/NOUN walk/VERB suspiciously/ADV while/SCONJ crouched/ADJ over/ADV#0.0#0.0

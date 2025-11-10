@@ -1,0 +1,3 @@
+a person balls their hands together and then lets their hands rest at their side after#a/DET person/NOUN ball/VERB their/DET hand/NOUN together/ADV and/CCONJ then/ADV let/VERB their/DET hand/NOUN rest/VERB at/ADP their/DET side/NOUN after/ADP#0.0#0.0
+a man gestures forwards gently with his right arm, brings his hands together in a prayer motion at his chest, then returns his arms to his side.#a/DET man/NOUN gesture/VERB forwards/VERB gently/ADV with/ADP his/DET right/ADJ arm/NOUN bring/VERB his/DET hand/NOUN together/ADV in/ADP a/DET prayer/NOUN motion/NOUN at/ADP his/DET chest/NOUN then/ADV return/VERB his/DET arm/NOUN to/ADP his/DET side/NOUN#0.0#0.0
+a person grasp their hands together#a/DET person/NOUN grasp/VERB their/DET hand/NOUN together/ADV#0.0#0.0

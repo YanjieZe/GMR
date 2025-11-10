@@ -1,0 +1,3 @@
+a person jumps to their left, ducks, then jumps to the left, avoiding objects.#a/DET person/NOUN jump/VERB to/ADP their/DET left/NOUN duck/NOUN then/ADV jump/VERB to/ADP the/DET left/ADJ avoid/VERB object/NOUN#0.0#0.0
+a person turns around  shift to their left then bends down before jumping up and to the left.#a/DET person/NOUN turn/VERB around/ADP shift/NOUN to/ADP their/DET left/NOUN then/ADV bend/VERB down/ADP before/ADP jump/VERB up/ADP and/CCONJ to/ADP the/DET left/NOUN#0.0#0.0
+person backs up , catches a football and do a squat#person/NOUN back/VERB up/ADP catch/VERB a/DET football/NOUN and/CCONJ do/AUX a/DET squat/NOUN#0.0#0.0

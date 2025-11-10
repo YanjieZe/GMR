@@ -1,0 +1,3 @@
+a person drinks from cup in right hand.#a/DET person/NOUN drink/VERB from/ADP cup/NOUN in/ADP right/ADJ hand/NOUN#0.0#0.0
+a person is drinking water from a bottle using their right hand#a/DET person/NOUN is/AUX drink/VERB water/NOUN from/ADP a/DET bottle/NOUN use/VERB their/DET right/ADJ hand/NOUN#0.0#0.0
+a person drinks something with his right hand.#a/DET person/NOUN drink/VERB something/PRON with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0

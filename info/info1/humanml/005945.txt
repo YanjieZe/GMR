@@ -1,0 +1,3 @@
+the person was acting like marcus.#the/DET person/NOUN was/AUX act/VERB like/SCONJ marcus/NOUN#0.0#0.0
+a person pulls clothes out of the dresser drawer#a/DET person/NOUN pull/VERB clothe/NOUN out/SCONJ of/ADP the/DET dresser/NOUN drawer/NOUN#0.0#0.0
+person moves side to side a few times picking something up a few times#person/NOUN move/VERB side/NOUN to/PART side/VERB a/DET few/ADJ time/NOUN pick/VERB something/PRON up/ADP a/DET few/ADJ time/NOUN#0.0#0.0

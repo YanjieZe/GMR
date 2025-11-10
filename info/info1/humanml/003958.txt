@@ -1,0 +1,3 @@
+a person squats then stands up, lifts both arms above head, squats again and place both arms in original position.#a/DET person/NOUN squat/VERB then/ADV stand/VERB up/ADV lift/VERB both/CCONJ arm/NOUN above/ADP head/NOUN squat/NOUN again/ADV and/CCONJ place/VERB both/DET arm/NOUN in/ADP original/ADJ position/NOUN#0.0#0.0
+a person lifts a heavy object with both arms, above his head the back down, while bending his legs a little.#a/DET person/NOUN lift/VERB a/DET heavy/ADJ object/NOUN with/ADP both/DET arm/NOUN above/ADP his/DET head/NOUN the/DET back/NOUN down/ADP while/SCONJ bend/VERB his/DET leg/NOUN a/DET little/ADJ#0.0#0.0
+a person lifting weights with both arms.#a/DET person/NOUN lift/VERB weight/NOUN with/ADP both/DET arm/NOUN#0.0#0.0

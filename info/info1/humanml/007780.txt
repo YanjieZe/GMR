@@ -1,0 +1,3 @@
+person walks forward then jumps up and down#person/NOUN walk/VERB forward/ADV then/ADV jump/VERB up/ADV and/CCONJ down/ADV#0.0#0.0
+a person takes a step back, proceeds forward a few steps, and then jumps in one place using a jump rope.#a/DET person/NOUN take/VERB a/DET step/NOUN back/ADV proceed/VERB forward/ADV a/DET few/ADJ step/NOUN and/CCONJ then/ADV jump/VERB in/ADP one/NUM place/NOUN use/VERB a/DET jump/NOUN rope/NOUN#0.0#7.0
+man starts to do jump jope.#man/NOUN start/VERB to/PART do/AUX jump/VERB jope/PROPN#4.0#7.0

@@ -1,0 +1,3 @@
+the man kicks at something with his right leg.#the/DET man/NOUN kick/VERB at/ADP something/PRON with/ADP his/DET right/ADJ leg/NOUN#0.0#0.0
+a person shuffles feet slightly then gently kicks right foot#a/DET person/NOUN shuffle/VERB foot/NOUN slightly/ADV then/ADV gently/ADV kick/VERB right/ADJ foot/NOUN#0.0#0.0
+the person kick something on the ground.#the/DET person/NOUN kick/VERB something/PRON on/ADP the/DET ground/NOUN#0.0#0.0

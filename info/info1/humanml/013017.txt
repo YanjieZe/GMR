@@ -1,0 +1,3 @@
+the person is doing arm stretches in front of them.#the/DET person/NOUN is/AUX do/VERB arm/NOUN stretch/NOUN in/ADP front/NOUN of/ADP them/PRON#0.0#0.0
+a person stretches their arms and hands.#a/DET person/NOUN stretch/VERB their/DET arm/NOUN and/CCONJ hand/NOUN#0.0#0.0
+man moves both his arms to the top left and then to the top right#man/PROPN move/VERB both/CCONJ his/DET arm/NOUN to/ADP the/DET top/NOUN left/VERB and/CCONJ then/ADV to/ADP the/DET top/NOUN right/ADV#0.0#0.0

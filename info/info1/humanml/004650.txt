@@ -1,0 +1,3 @@
+person acts in drunken way he steps back twice leaning back  and arms thrust out to the back#person/NOUN act/VERB in/ADP drunken/ADJ way/NOUN he/PRON step/VERB back/ADV twice/ADV lean/VERB back/ADP and/CCONJ arm/NOUN thrust/VERB out/ADP to/ADP the/DET back/NOUN#0.0#0.0
+a person slowly tries to dodge something and stumbles backward and then regains composure, taking a few steps forward.#a/DET person/NOUN slowly/ADV try/VERB to/PART dodge/VERB something/PRON and/CCONJ stumble/VERB backward/ADV and/CCONJ then/ADV regain/VERB composure/NOUN take/VERB a/DET few/ADJ step/NOUN forward/ADV#0.0#0.0
+person staggers forward then backwards while waving arms.#person/NOUN stagger/VERB forward/ADV then/ADV backwards/ADV while/SCONJ wave/VERB arm/NOUN#0.0#0.0

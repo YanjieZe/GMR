@@ -1,0 +1,3 @@
+the person backed up and sat down.#the/DET person/NOUN back/VERB up/ADP and/CCONJ sit/VERB down/ADP#0.0#0.0
+a person lowers their hands from shoulder height, sits down and gestures with their right hand.#a/DET person/NOUN lower/VERB their/DET hand/NOUN from/ADP shoulder/NOUN height/NOUN sit/VERB down/ADV and/CCONJ gesture/VERB with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+the person is stretching its arms out then sits down on a chair.#the/DET person/NOUN is/AUX stretch/VERB its/DET arm/NOUN out/ADV then/ADV sit/VERB down/ADP on/ADP a/DET chair/NOUN#0.0#0.0

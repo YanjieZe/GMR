@@ -1,0 +1,3 @@
+a person walks straight and rests his right feet.#a/DET person/NOUN walk/VERB straight/ADV and/CCONJ rest/VERB his/DET right/ADJ foot/NOUN#0.0#0.0
+a person walks and the stops to raise their right foot#a/DET person/NOUN walk/VERB and/CCONJ the/DET stop/NOUN to/PART raise/VERB their/DET right/ADJ foot/NOUN#0.0#0.0
+a person walks forward then raise their right#a/DET person/NOUN walk/VERB forward/ADV then/ADV raise/VERB their/DET right/NOUN#0.0#0.0

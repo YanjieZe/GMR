@@ -1,0 +1,3 @@
+a person is performing a dance, by alternatingly raising both arms (like a chicken) while putting an alternate foot out in front of them; then hopping to their right and repeating the sequence.#a/DET person/NOUN is/AUX perform/VERB a/DET dance/NOUN by/ADP alternatingly/ADV raise/VERB both/DET arm/NOUN like/SCONJ a/DET chicken/NOUN while/SCONJ put/VERB an/DET alternate/ADJ foot/NOUN out/SCONJ in/ADP front/NOUN of/ADP them/PRON then/ADV hop/VERB to/ADP their/DET right/NOUN and/CCONJ repeat/VERB the/DET sequence/NOUN#0.0#0.0
+person is acting like a dancing aunt.#person/NOUN is/AUX act/VERB like/SCONJ a/DET dancing/NOUN aunt/NOUN#0.0#0.0
+person is doing a dance#person/NOUN is/AUX do/VERB a/DET dance/NOUN#0.0#0.0

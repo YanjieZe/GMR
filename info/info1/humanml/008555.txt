@@ -1,0 +1,3 @@
+the person draws a line in the sand#the/DET person/NOUN draw/VERB a/DET line/NOUN in/ADP the/DET sand/NOUN#0.0#0.0
+the person bent over and put something in front of him onto the last and then kept walking.#the/DET person/NOUN bent/ADJ over/ADP and/CCONJ put/VERB something/PRON in/ADP front/NOUN of/ADP him/PRON onto/ADP the/DET last/ADJ and/CCONJ then/ADV keep/VERB walk/VERB#0.0#0.0
+person sets something on floor, then walks forward#person/NOUN set/VERB something/PRON on/ADP floor/NOUN then/ADV walk/VERB forward/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+the man stands still and moves his left hand#the/DET man/NOUN stand/VERB still/ADV and/CCONJ move/VERB his/DET left/ADJ hand/NOUN#0.0#0.0
+a person stands in one spot and uses body language to converse in a conversation.#a/DET person/NOUN stand/VERB in/ADP one/NUM spot/NOUN and/CCONJ use/VERB body/NOUN language/NOUN to/PART converse/VERB in/ADP a/DET conversation/NOUN#0.0#0.0
+a figure staning idle before making an exasperasted gesture with both hands#a/DET figure/NOUN stane/VERB idle/NOUN before/ADP make/VERB an/DET exasperaste/VERB gesture/NOUN with/ADP both/DET hand/NOUN#0.0#0.0

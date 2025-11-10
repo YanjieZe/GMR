@@ -1,0 +1,3 @@
+a squatting person raises their arms upwards from their sides, then places them back on his legs.#a/DET squat/VERB person/NOUN raise/VERB their/DET arm/NOUN upwards/ADV from/ADP their/DET side/NOUN then/ADV place/VERB them/PRON back/ADV on/ADP his/DET leg/NOUN#0.0#0.0
+person has hands on knees knees bent forward and raises arms shoulder height#person/NOUN has/AUX hand/NOUN on/ADP knee/NOUN knees/PROPN bent/ADJ forward/ADP and/CCONJ raise/VERB arm/NOUN shoulder/NOUN height/NOUN#0.0#0.0
+a person reaside his hands up, and kept stay on the place#a/DET person/NOUN reaside/VERB his/DET hand/NOUN up/ADP and/CCONJ keep/VERB stay/VERB on/ADP the/DET place/NOUN#0.0#0.0

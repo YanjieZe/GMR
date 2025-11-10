@@ -1,0 +1,3 @@
+person brings left arm up and bends it to stretch it backwards#person/NOUN bring/VERB left/VERB arm/NOUN up/ADP and/CCONJ bend/VERB it/PRON to/PART stretch/VERB it/PRON backwards/ADV#0.0#0.0
+the right hand goes upward towards the face and back down to the hip.#the/DET right/ADJ hand/NOUN go/VERB upward/ADV towards/ADP the/DET face/NOUN and/CCONJ back/VERB down/ADV to/ADP the/DET hip/NOUN#0.0#0.0
+the person is taking a book from a shelf.#the/DET person/NOUN is/AUX take/VERB a/DET book/NOUN from/ADP a/DET shelf/NOUN#0.0#0.0

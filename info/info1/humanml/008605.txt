@@ -1,0 +1,3 @@
+the person is doing a scamper dance.#the/DET person/NOUN is/AUX do/VERB a/DET scamper/NOUN dance/NOUN#0.0#0.0
+a person hops from foot to foot while swinging his arms. person stops hopping and walks forward, stops and touches face with right hand as he turns back the way he came.#a/DET person/NOUN hop/VERB from/ADP foot/NOUN to/ADP foot/NOUN while/SCONJ swinge/VERB his/DET arm/NOUN person/NOUN stop/VERB hop/VERB and/CCONJ walk/VERB forward/ADV stop/VERB and/CCONJ touch/VERB face/VERB with/ADP right/ADJ hand/NOUN as/SCONJ he/PRON turn/VERB back/ADV the/DET way/NOUN he/PRON come/VERB#0.0#0.0
+a man is dancing from side to side before stopping.#a/DET man/NOUN is/AUX dance/VERB from/ADP side/NOUN to/PART side/VERB before/ADP stop/VERB#0.0#0.0

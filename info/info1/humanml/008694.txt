@@ -1,0 +1,3 @@
+a person walks over and across a beam.#a/DET person/NOUN walk/VERB over/ADV and/CCONJ across/ADP a/DET beam/NOUN#0.0#0.0
+a person walks forward and stops.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ stop/NOUN#0.0#0.0
+an individual wobbly walks down a slope one foot straight in front of the other.#an/DET individual/ADJ wobbly/NOUN walk/VERB down/ADP a/DET slope/NOUN one/NUM foot/NOUN straight/ADV in/ADP front/NOUN of/ADP the/DET other/ADJ#0.0#0.0

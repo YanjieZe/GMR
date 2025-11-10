@@ -1,0 +1,3 @@
+a person grabbed something and leand it to floor#a/DET person/NOUN grab/VERB something/PRON and/CCONJ leand/VERB it/PRON to/PART floor/VERB#0.0#0.0
+person bends over at the hip and touches something on the ground.#person/NOUN bend/VERB over/ADP at/ADP the/DET hip/NOUN and/CCONJ touch/VERB something/PRON on/ADP the/DET ground/NOUN#0.0#0.0
+the person is stretching forward then goes to neutral position.#the/DET person/NOUN is/AUX stretch/VERB forward/ADV then/ADV go/VERB to/ADP neutral/ADJ position/NOUN#0.0#0.0

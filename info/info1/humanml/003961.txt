@@ -1,0 +1,3 @@
+a person is walking forward slowly, bracing themselves with their hands.#a/DET person/NOUN is/AUX walk/VERB forward/ADV slowly/ADV brace/VERB themselves/PRON with/ADP their/DET hand/NOUN#0.0#0.0
+person walks slowly with hands out on both sides of wall for balance.#person/NOUN walk/VERB slowly/ADV with/ADP hand/NOUN out/ADV on/ADP both/DET side/NOUN of/ADP wall/NOUN for/ADP balance/NOUN#0.0#0.0
+a person walks slowly on a beam holding on to a rail, steps down, and walks to his left.#a/DET person/NOUN walk/VERB slowly/ADV on/ADP a/DET beam/NOUN hold/VERB on/ADP to/ADP a/DET rail/NOUN step/VERB down/ADV and/CCONJ walk/VERB to/ADP his/DET left/NOUN#0.0#0.0

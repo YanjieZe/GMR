@@ -1,0 +1,3 @@
+a man turns to his right, steps forward, and begins to rotate his hips and swing his arms.#a/DET man/NOUN turn/VERB to/ADP his/DET right/NOUN step/VERB forward/ADV and/CCONJ begin/VERB to/PART rotate/VERB his/DET hip/NOUN and/CCONJ swing/VERB his/DET arm/NOUN#0.0#0.0
+a person twists his torso back and forth swinging his arms and touches his right arm that he has hurt.#a/DET person/NOUN twist/VERB his/DET torso/NOUN back/ADV and/CCONJ forth/ADV swinge/VERB his/DET arm/NOUN and/CCONJ touch/VERB his/DET right/ADJ arm/NOUN that/DET he/PRON has/AUX hurt/VERB#0.0#0.0
+a person is turning their torso back and forth while waving their arms.#a/DET person/NOUN is/AUX turn/VERB their/DET torso/NOUN back/ADV and/CCONJ forth/ADV while/SCONJ wave/VERB their/DET arm/NOUN#0.0#0.0

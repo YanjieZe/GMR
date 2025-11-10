@@ -1,0 +1,3 @@
+person walks forward then gets on all fours and crawls#person/NOUN walk/VERB forward/ADV then/ADV get/VERB on/ADP all/DET four/NOUN and/CCONJ crawl/NOUN#0.0#0.0
+a figure ambles forward with shoulders tight, then crawls on all fours before climbing upright again#a/DET figure/NOUN amble/VERB forward/ADV with/ADP shoulder/NOUN tight/ADJ then/ADV crawl/VERB on/ADP all/DET four/NOUN before/ADP climb/VERB upright/ADV again/ADV#0.0#0.0
+a person tiptoes and then crawls and then walks.#a/DET person/NOUN tiptoe/VERB and/CCONJ then/ADV crawl/VERB and/CCONJ then/ADV walk/VERB#0.0#0.0

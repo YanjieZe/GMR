@@ -1,0 +1,3 @@
+person is walking normally forwards. pace is relatively fast#person/NOUN is/AUX walk/VERB normally/ADV forwards/ADV pace/NOUN is/AUX relatively/ADV fast/ADJ#0.0#0.0
+the person is walking normally#the/DET person/NOUN is/AUX walk/VERB normally/ADV#0.0#0.0
+person walks forward at a steady pace.#person/NOUN walk/VERB forward/ADV at/ADP a/DET steady/ADJ pace/NOUN#0.0#0.0

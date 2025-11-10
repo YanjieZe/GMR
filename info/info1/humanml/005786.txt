@@ -1,0 +1,3 @@
+person is speedily walking forward#person/NOUN is/AUX speedily/ADV walk/VERB forward/ADV#0.0#0.0
+a person walks forward a few steps and then stops.#a/DET person/NOUN walk/VERB forward/ADV a/DET few/ADJ step/NOUN and/CCONJ then/ADV stop/VERB#0.0#0.0
+a person walks quickly across an area with short steps and a semi-rigid body composure.#a/DET person/NOUN walk/VERB quickly/ADV across/ADP an/DET area/NOUN with/ADP short/ADJ step/NOUN and/CCONJ a/DET semirigid/ADJ body/NOUN composure/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person briskly runs down steps and then jumps up with both feet.#a/DET person/NOUN briskly/ADV run/VERB down/ADP step/NOUN and/CCONJ then/ADV jump/VERB up/ADP with/ADP both/DET foot/NOUN#0.0#0.0
+a person jobs down stairs then jumps once#a/DET person/NOUN job/VERB down/ADP stair/NOUN then/ADV jump/VERB once/ADV#0.0#0.0
+person walks down the stairs whilst holding the rail slightly quick then jumps when is at the bottom#person/NOUN walk/VERB down/ADP the/DET stair/NOUN whilst/SCONJ hold/VERB the/DET rail/NOUN slightly/ADV quick/ADJ then/ADV jump/VERB when/ADV is/AUX at/ADP the/DET bottom/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+person takes a step back like they're pushed#person/NOUN take/VERB a/DET step/NOUN back/ADV like/INTJ they/PRON push/VERB#0.0#0.0
+a person abruptly stumbles backwards.#a/DET person/NOUN abruptly/ADV stumble/VERB backwards/ADV#0.0#0.0
+a person walk backwards one step.#a/DET person/NOUN walk/VERB backwards/ADP one/NUM step/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+the right arm extends like a boxing hook.#the/DET right/ADJ arm/NOUN extend/VERB like/SCONJ a/DET boxing/NOUN hook/NOUN#0.0#0.0
+this person was punching upward towards the left#this/DET person/NOUN was/AUX punch/VERB upward/ADV towards/ADP the/DET left/NOUN#0.0#0.0
+a person standing leans body to the right while swinging right arm back, forward, then up.#a/DET person/NOUN stand/VERB lean/NOUN body/NOUN to/ADP the/DET right/NOUN while/SCONJ swinge/VERB right/ADJ arm/NOUN back/ADV forward/ADV then/ADV up/ADV#0.0#2.0

@@ -1,0 +1,3 @@
+a person stumbles around and struggles to maintain balance.#a/DET person/NOUN stumble/VERB around/ADV and/CCONJ struggle/VERB to/PART maintain/VERB balance/NOUN#0.0#0.0
+a person walked backwards and after walked forward and made a circle#a/DET person/NOUN walk/VERB backwards/ADV and/CCONJ after/ADP walk/VERB forward/ADV and/CCONJ make/VERB a/DET circle/NOUN#0.0#0.0
+a person stumbles backwards nearly falling, as if intoxicated.#a/DET person/NOUN stumble/VERB backwards/ADV nearly/ADV fall/VERB as/SCONJ if/SCONJ intoxicate/VERB#0.0#0.0

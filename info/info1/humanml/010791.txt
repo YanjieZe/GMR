@@ -1,0 +1,3 @@
+a person kicks slowly with their right leg.#a/DET person/NOUN kick/VERB slowly/ADV with/ADP their/DET right/ADJ leg/NOUN#0.0#0.0
+a person kicks something with his right foot#a/DET person/NOUN kick/VERB something/PRON with/ADP his/DET right/ADJ foot/NOUN#0.0#0.0
+a person steps out and swings leg forward, then steps back.#a/DET person/NOUN step/VERB out/ADP and/CCONJ swing/NOUN leg/VERB forward/ADV then/ADV step/VERB back/ADV#0.0#0.0

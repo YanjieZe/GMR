@@ -1,0 +1,3 @@
+a person glides in circles in a counter-clockwise.#a/DET person/NOUN glide/VERB in/ADP circle/NOUN in/ADP a/DET counterclockwise/NOUN#0.0#0.0
+a person appears to be ice skating.#a/DET person/NOUN appear/VERB to/PART be/AUX ice/NOUN skating/NOUN#0.0#0.0
+the person is ice-skating backwards#the/DET person/NOUN is/AUX iceskate/VERB backwards/ADV#0.0#0.0

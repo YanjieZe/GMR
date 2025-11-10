@@ -1,0 +1,3 @@
+a person connecting something together.#a/DET person/NOUN connect/VERB something/PRON together/ADV#0.0#0.0
+the person is putting his arms straight out to the side and down again.#the/DET person/NOUN is/AUX put/VERB his/DET arm/NOUN straight/ADV out/ADV to/ADP the/DET side/NOUN and/CCONJ down/ADV again/ADV#0.0#0.0
+a person standing from a t pose and then bringing both arms in and away#a/DET person/NOUN stand/VERB from/ADP a/DET t/NOUN pose/NOUN and/CCONJ then/ADV bring/VERB both/DET arm/NOUN in/ADV and/CCONJ away/ADV#0.0#0.0

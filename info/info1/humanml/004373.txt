@@ -1,0 +1,3 @@
+person moves left arm in a anti-clockwise circle about waist height#person/NOUN move/VERB left/VERB arm/NOUN in/ADP a/DET anticlockwise/NOUN circle/NOUN about/ADP waist/NOUN height/NOUN#0.0#0.0
+a man makes a circular motion as if wiping something with his left hand.#a/DET man/NOUN make/VERB a/DET circular/ADJ motion/NOUN as/SCONJ if/SCONJ wipe/VERB something/PRON with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0
+the person uses left hand to swing hand across a surface in front of him, as if spreading inventory.#the/DET person/NOUN use/VERB left/ADJ hand/NOUN to/PART swing/VERB hand/NOUN across/ADP a/DET surface/NOUN in/ADP front/NOUN of/ADP him/PRON as/SCONJ if/SCONJ spread/VERB inventory/NOUN#0.0#0.0

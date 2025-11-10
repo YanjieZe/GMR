@@ -1,0 +1,2 @@
+the man rambles forward turns to the right then jogs to the left.#the/DET man/NOUN ramble/VERB forward/ADV turn/VERB to/ADP the/DET right/NOUN then/ADV jog/VERB to/ADP the/DET left/NOUN#0.0#0.0
+a man walks forward and then turns around and walks to the left before turning around and running,#a/DET man/NOUN walk/VERB forward/ADV and/CCONJ then/ADV turn/VERB around/ADP and/CCONJ walk/VERB to/ADP the/DET left/NOUN before/ADP turn/VERB around/ADV and/CCONJ run/VERB#0.0#0.0

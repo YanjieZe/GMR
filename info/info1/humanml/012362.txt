@@ -1,0 +1,3 @@
+a person holds their hands together in front of themself.#a/DET person/NOUN hold/VERB their/DET hand/NOUN together/ADV in/ADP front/NOUN of/ADP themself/PRON#0.0#0.0
+person rubs hands together while shifting side to side and the gives a thumbs down#person/NOUN rub/VERB hand/NOUN together/ADV while/SCONJ shift/VERB side/NOUN to/PART side/NOUN and/CCONJ the/DET give/VERB a/DET thumb/NOUN down/ADP#0.0#0.0
+stick figure stands still taking one step forward with its hands interlocked#stick/PROPN figure/NOUN stand/VERB still/ADV take/VERB one/NUM step/NOUN forward/ADV with/ADP its/DET hand/NOUN interlock/VERB#0.0#10.0

@@ -1,0 +1,3 @@
+a person who is standing does four weight lifting arm curls with his right arm.#a/DET person/NOUN who/PRON is/AUX stand/VERB does/AUX four/NUM weight/NOUN lift/VERB arm/NOUN curl/NOUN with/ADP his/DET right/ADJ arm/NOUN#0.0#0.0
+a person lifts a weight with right hand.#a/DET person/NOUN lift/VERB a/DET weight/NOUN with/ADP right/ADJ hand/NOUN#0.0#0.0
+the person is lifting weights with his right arm.#the/DET person/NOUN is/AUX lift/VERB weight/NOUN with/ADP his/DET right/ADJ arm/NOUN#0.0#0.0

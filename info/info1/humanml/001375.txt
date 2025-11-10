@@ -1,0 +1,3 @@
+a person swings their arm as if they are hitting a tennis ball.#a/DET person/NOUN swing/VERB their/DET arm/NOUN as/SCONJ if/SCONJ they/PRON are/AUX hit/VERB a/DET tennis/NOUN ball/NOUN#0.0#0.0
+a person walks to the right the swings out with their arms to throw something.#a/DET person/NOUN walk/VERB to/ADP the/DET right/NOUN the/DET swing/NOUN out/ADP with/ADP their/DET arm/NOUN to/PART throw/VERB something/PRON#0.0#0.0
+person walks forward with arms extended at side. person then makes motion of throwing something.#person/NOUN walk/VERB forward/ADV with/ADP arm/NOUN extend/VERB at/ADP side/NOUN person/NOUN then/ADV make/VERB motion/NOUN of/ADP throw/VERB something/PRON#0.0#0.0

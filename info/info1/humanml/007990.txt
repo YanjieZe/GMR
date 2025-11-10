@@ -1,0 +1,3 @@
+leaning side to side with hands near chest.#lean/VERB side/NOUN to/PART side/VERB with/ADP hand/NOUN near/SCONJ chest/NOUN#0.0#0.0
+a person struggles to hold a heavy object before dropping it.#a/DET person/NOUN struggle/VERB to/PART hold/VERB a/DET heavy/ADJ object/NOUN before/ADP drop/VERB it/PRON#0.0#0.0
+person is standing while flexing their arms in front of them, then lifts arms to side and flexes them#person/NOUN is/AUX stand/VERB while/SCONJ flex/VERB their/DET arm/NOUN in/ADP front/NOUN of/ADP them/PRON then/ADV lift/VERB arm/NOUN to/PART side/VERB and/CCONJ flexes/VERB them/PRON#0.0#0.0

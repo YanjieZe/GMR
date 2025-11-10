@@ -1,0 +1,3 @@
+a man stands and balances his body on his right foot.#a/DET man/NOUN stand/VERB and/CCONJ balance/VERB his/DET body/NOUN on/ADP his/DET right/ADJ foot/NOUN#0.0#0.0
+a person trying to balance on right foot.#a/DET person/NOUN try/VERB to/PART balance/VERB on/ADP right/ADJ foot/NOUN#0.0#0.0
+a person balances on right leg.#a/DET person/NOUN balance/VERB on/ADP right/ADJ leg/NOUN#0.0#0.0

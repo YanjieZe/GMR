@@ -1,0 +1,2 @@
+a person walks forward then turns around and quickly walks away#a/DET person/NOUN walk/VERB forward/ADV then/ADV turn/VERB around/ADV and/CCONJ quickly/ADV walk/VERB away/ADV#0.0#10.0
+a person walks forward, turns around and then jogs back#a/DET person/NOUN walk/VERB forward/ADV turn/VERB around/ADV and/CCONJ then/ADV jog/VERB back/ADV#0.0#0.0

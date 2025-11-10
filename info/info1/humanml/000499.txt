@@ -1,0 +1,3 @@
+a person jumps over something while turning their wrists#a/DET person/NOUN jump/VERB over/ADP something/PRON while/SCONJ turn/VERB their/DET wrist/NOUN#0.0#0.0
+a person is skipping with a rope#a/DET person/NOUN is/AUX skip/VERB with/ADP a/DET rope/NOUN#0.0#0.0
+person is skipping on the spot#person/NOUN is/AUX skip/VERB on/ADP the/DET spot/NOUN#0.0#0.0

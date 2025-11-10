@@ -1,0 +1,3 @@
+this person wiggles his upper body while raising his arms above his head.#this/DET person/NOUN wiggle/VERB his/DET upper/ADJ body/NOUN while/SCONJ raise/VERB his/DET arm/NOUN above/ADP his/DET head/NOUN#0.0#0.0
+a a person raises their arms above their head multiple times.#a/DET a/DET person/NOUN raise/VERB their/DET arm/NOUN above/ADP their/DET head/NOUN multiple/ADJ time/NOUN#0.0#0.0
+a person raises both arms up and down while shaking his body.#a/DET person/NOUN raise/VERB both/DET arm/NOUN up/ADV and/CCONJ down/ADV while/SCONJ shake/VERB his/DET body/NOUN#0.0#0.0

@@ -1,0 +1,2 @@
+a person runs quickly on a diagonal from the left side to the right side#a/DET person/NOUN run/VERB quickly/ADV on/ADP a/DET diagonal/ADJ from/ADP the/DET left/ADJ side/NOUN to/ADP the/DET right/ADJ side/NOUN#0.0#0.0
+a man sprints forwards a few paces then pulls up slightly.#a/DET man/NOUN sprint/NOUN forward/VERB a/DET few/ADJ pace/NOUN then/ADV pull/VERB up/ADP slightly/ADV#0.0#0.0

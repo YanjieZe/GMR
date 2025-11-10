@@ -1,0 +1,1 @@
+a person runs to their left, turns and runs back.#a/DET person/NOUN run/VERB to/ADP their/DET left/NOUN turn/VERB and/CCONJ run/VERB back/ADV#0.0#0.0

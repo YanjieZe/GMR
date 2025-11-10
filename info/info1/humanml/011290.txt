@@ -1,0 +1,3 @@
+a person walks forward very slowly, while putting their hands on their hips.#a/DET person/NOUN walk/VERB forward/ADV very/ADV slowly/ADV while/SCONJ put/VERB their/DET hand/NOUN on/ADP their/DET hip/NOUN#0.0#0.0
+person walks forward and itches both sides and continues to walk#person/NOUN walk/VERB forward/ADV and/CCONJ itch/VERB both/DET side/NOUN and/CCONJ continue/VERB to/PART walk/VERB#0.0#0.0
+a man walks slowly forwards and puts his hands on his hips then lets them fall at his sides.#a/DET man/NOUN walk/VERB slowly/ADV forwards/ADV and/CCONJ put/VERB his/DET hand/NOUN on/ADP his/DET hip/NOUN then/ADV let/VERB them/PRON fall/VERB at/ADP his/DET side/NOUN#0.0#0.0

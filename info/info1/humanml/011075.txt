@@ -1,0 +1,3 @@
+a man bends over and puts his hands on the ground and is on all fours#a/DET man/NOUN bend/VERB over/ADP and/CCONJ put/VERB his/DET hand/NOUN on/ADP the/DET ground/NOUN and/CCONJ is/AUX on/ADP all/DET four/NOUN#0.0#0.0
+a person gets on the ground and does a downward dog pose#a/DET person/NOUN get/VERB on/ADP the/DET ground/NOUN and/CCONJ does/AUX a/DET downward/ADJ dog/NOUN pose/NOUN#0.0#0.0
+a man crouches down on his hands and feet, then begins to stand back up.#a/DET man/NOUN crouch/VERB down/ADP on/ADP his/DET hand/NOUN and/CCONJ foot/NOUN then/ADV begin/VERB to/PART stand/VERB back/ADP up/ADV#0.0#0.0

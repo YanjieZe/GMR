@@ -1,0 +1,3 @@
+a person walks forward waving their hands about#a/DET person/NOUN walk/VERB forward/ADV wave/VERB their/DET hand/NOUN about/ADP#0.0#0.0
+a person is walking, focusing on something to their right, and gesturing with their hands as if speaking.#a/DET person/NOUN is/AUX walk/VERB focus/VERB on/ADP something/PRON to/ADP their/DET right/NOUN and/CCONJ gesture/VERB with/ADP their/DET hand/NOUN as/SCONJ if/SCONJ speak/VERB#0.0#0.0
+a man gestures with his hands while walking.#a/DET man/NOUN gesture/VERB with/ADP his/DET hand/NOUN while/SCONJ walk/VERB#0.0#0.0

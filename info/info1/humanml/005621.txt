@@ -1,0 +1,3 @@
+a person grabbed something and throw it with right hand#a/DET person/NOUN grab/VERB something/PRON and/CCONJ throw/VERB it/PRON with/ADP right/ADJ hand/NOUN#0.0#0.0
+a person throws something lackadaisically with their right arm.#a/DET person/NOUN throw/VERB something/PRON lackadaisically/ADV with/ADP their/DET right/ADJ arm/NOUN#0.0#0.0
+a man mimics a throwing motion with his right hand.#a/DET man/NOUN mimic/VERB a/DET throwing/NOUN motion/NOUN with/ADP his/DET right/ADJ hand/NOUN#0.0#3.0

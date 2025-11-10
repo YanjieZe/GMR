@@ -1,0 +1,3 @@
+a person raising their hand from waist line towards above their head#a/DET person/NOUN raise/VERB their/DET hand/NOUN from/ADP waist/ADJ line/NOUN towards/ADP above/ADP their/DET head/NOUN#0.0#0.0
+a man raises and then lowers his left hand.#a/DET man/NOUN raise/VERB and/CCONJ then/ADV lower/VERB his/DET left/ADJ hand/NOUN#0.0#0.0
+a man is slowly raising his left hand above his head then lowering it back down.#a/DET man/NOUN is/AUX slowly/ADV raise/VERB his/DET left/ADJ hand/NOUN above/ADP his/DET head/NOUN then/ADV lower/VERB it/PRON back/ADV down/ADV#0.0#0.0

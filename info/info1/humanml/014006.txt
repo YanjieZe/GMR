@@ -1,0 +1,3 @@
+as a person walks forward, a squiggly line forms in between the legs on the floor.#as/SCONJ a/DET person/NOUN walk/VERB forward/ADV a/DET squiggly/ADV line/NOUN form/NOUN in/ADV between/ADP the/DET leg/NOUN on/ADP the/DET floor/NOUN#0.0#0.0
+the person walk forward and stepped over something.#the/DET person/NOUN walk/VERB forward/ADV and/CCONJ step/VERB over/ADP something/PRON#0.0#0.0
+walking forward very swiftly and confidently.#walk/VERB forward/ADV very/ADV swiftly/ADV and/CCONJ confidently/ADV#0.0#0.0

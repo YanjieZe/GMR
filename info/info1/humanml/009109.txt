@@ -1,0 +1,3 @@
+a person raising thier left arm in front of them#a/DET person/NOUN raise/VERB thier/ADJ left/ADJ arm/NOUN in/ADP front/NOUN of/ADP them/PRON#0.0#0.0
+a person lifts their left arm to check their watch.#a/DET person/NOUN lift/VERB their/DET left/ADJ arm/NOUN to/PART check/VERB their/DET watch/NOUN#0.0#0.0
+a person takes an object from a shelf in front with left hand.#a/DET person/NOUN take/VERB an/DET object/NOUN from/ADP a/DET shelf/NOUN in/ADP front/NOUN with/ADP left/ADJ hand/NOUN#0.0#0.0

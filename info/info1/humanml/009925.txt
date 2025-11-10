@@ -1,0 +1,3 @@
+the man jumps and spins in a. lockwise circle then lands.#the/DET man/NOUN jump/VERB and/CCONJ spin/VERB in/ADP lockwise/PROPN circle/PROPN then/ADV land/VERB#0.0#0.0
+a person jumps and spins around before landing#a/DET person/NOUN jump/VERB and/CCONJ spin/VERB around/ADV before/ADP landing/NOUN#0.0#0.0
+a figure jumps and twists in a full circle#a/DET figure/NOUN jump/VERB and/CCONJ twist/NOUN in/ADP a/DET full/ADJ circle/NOUN#0.0#0.0

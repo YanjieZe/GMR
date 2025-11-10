@@ -1,0 +1,3 @@
+a person takes a few steps forward.#a/DET person/NOUN take/VERB a/DET few/ADJ step/NOUN forward/ADV#0.0#0.0
+a figure walks forward, its mind made up of what its next purpose is.#a/DET figure/NOUN walk/VERB forward/ADV its/DET mind/NOUN make/VERB up/ADP of/ADP what/PRON its/DET next/ADJ purpose/NOUN is/AUX#0.0#0.0
+the man is walking forward very fast.#the/DET man/NOUN is/AUX walk/VERB forward/ADV very/ADV fast/ADV#0.0#0.0

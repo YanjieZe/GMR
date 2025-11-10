@@ -1,0 +1,3 @@
+a person does a cartwheel#a/DET person/NOUN does/AUX a/DET cartwheel/NOUN#0.0#0.0
+person did a cart wheel.#person/NOUN did/AUX a/DET cart/NOUN wheel/NOUN#0.0#0.0
+a person leans over and touch the floor while swinging his legs over his head and stands back up again.#a/DET person/NOUN lean/VERB over/ADP and/CCONJ touch/VERB the/DET floor/NOUN while/SCONJ swinge/VERB his/DET leg/NOUN over/ADP his/DET head/NOUN and/CCONJ stand/VERB back/ADV up/ADV again/ADV#0.0#0.0

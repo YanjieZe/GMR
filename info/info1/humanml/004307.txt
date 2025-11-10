@@ -1,0 +1,3 @@
+a person vaults over an obstacle.#a/DET person/NOUN vault/VERB over/ADP an/DET obstacle/NOUN#0.0#0.0
+a person runs and jumps over an object, turns around and jumps over it again.#a/DET person/NOUN run/VERB and/CCONJ jump/VERB over/ADP an/DET object/NOUN turn/VERB around/ADV and/CCONJ jump/VERB over/ADP it/PRON again/ADV#0.0#0.0
+a person is getting a running start and jumping over something, turning around and doing it again.#a/DET person/NOUN is/AUX get/VERB a/DET run/VERB start/NOUN and/CCONJ jump/VERB over/ADP something/PRON turn/VERB around/ADV and/CCONJ do/VERB it/PRON again/ADV#0.0#0.0

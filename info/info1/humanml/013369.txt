@@ -1,0 +1,3 @@
+a man walks forward places his hand on a stair rail then walks up the stairs.#a/DET man/NOUN walk/VERB forward/ADV place/VERB his/DET hand/NOUN on/ADP a/DET stair/NOUN rail/NOUN then/ADV walk/VERB up/ADP the/DET stair/NOUN#0.0#0.0
+the person was walking up the stairs#the/DET person/NOUN was/AUX walk/VERB up/ADP the/DET stair/NOUN#0.0#0.0
+a person takes a few steps up stairs slowly whilst leaning on a rail on their right#a/DET person/NOUN take/VERB a/DET few/ADJ step/NOUN up/ADP stair/NOUN slowly/ADV whilst/SCONJ lean/VERB on/ADP a/DET rail/NOUN on/ADP their/DET right/NOUN#0.0#0.0

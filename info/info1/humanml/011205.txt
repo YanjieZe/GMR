@@ -1,0 +1,3 @@
+a person jumps repeatedly using his arms and legs to resemble a skiing pattern.#a/DET person/NOUN jump/VERB repeatedly/ADV use/VERB his/DET arm/NOUN and/CCONJ leg/NOUN to/PART resemble/VERB a/DET skiing/NOUN pattern/NOUN#0.0#0.0
+a person loosens up and readies himself, then does a jumping motion with arms and legs alternating as to which goes forward/backward.#a/DET person/NOUN loosen/VERB up/ADP and/CCONJ ready/VERB himself/PRON then/ADV does/AUX a/DET jumping/NOUN motion/NOUN with/ADP arm/NOUN and/CCONJ leg/NOUN alternate/VERB as/SCONJ to/PART which/DET go/VERB forward/ADV backward/ADV#0.0#0.0
+a person performs explosive in place lunges.#a/DET person/NOUN perform/VERB explosive/ADJ in/ADP place/NOUN lunge/NOUN#0.0#0.0

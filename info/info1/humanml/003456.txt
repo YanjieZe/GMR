@@ -1,0 +1,1 @@
+a person doing a casual walk diagonally and turns around counterclockwise#a/DET person/NOUN do/VERB a/DET casual/ADJ walk/NOUN diagonally/ADV and/CCONJ turn/VERB around/ADP counterclockwise/NOUN#0.0#0.0

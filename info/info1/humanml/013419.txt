@@ -1,0 +1,3 @@
+this person jumps up and down on his left leg.#this/DET person/NOUN jump/VERB up/ADV and/CCONJ down/ADV on/ADP his/DET left/ADJ leg/NOUN#0.0#0.0
+a person stands normally then begins hops on their left foot while their right foot is elevated then stops and stands normally.#a/DET person/NOUN stand/VERB normally/ADV then/ADV begin/VERB hop/NOUN on/ADP their/DET left/ADJ foot/NOUN while/SCONJ their/DET right/ADJ foot/NOUN is/AUX elevate/VERB then/ADV stop/VERB and/CCONJ stand/VERB normally/ADV#0.0#0.0
+a person hops on their left foot.#a/DET person/NOUN hop/VERB on/ADP their/DET left/ADJ foot/NOUN#0.0#0.0

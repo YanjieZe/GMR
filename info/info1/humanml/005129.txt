@@ -1,0 +1,3 @@
+the person is pulling out a gun.#the/DET person/NOUN is/AUX pull/VERB out/ADP a/DET gun/NOUN#0.0#0.0
+a person reaches for something near its hips, brings it towards their face, than brings it back down.#a/DET person/NOUN reach/VERB for/ADP something/PRON near/SCONJ its/DET hip/NOUN bring/VERB it/PRON towards/ADP their/DET face/NOUN than/SCONJ bring/VERB it/PRON back/ADV down/ADP#0.0#0.0
+moving arms side to side near face.#move/VERB arm/NOUN side/NOUN to/PART side/VERB near/SCONJ face/NOUN#0.0#0.0

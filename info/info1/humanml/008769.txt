@@ -1,0 +1,3 @@
+a person opens a laptop and types on the keyboard.#a/DET person/NOUN open/VERB a/DET laptop/NOUN and/CCONJ type/NOUN on/ADP the/DET keyboard/NOUN#0.0#0.0
+a person moves his left and right hands together.#a/DET person/NOUN move/VERB his/DET left/ADJ and/CCONJ right/ADJ hand/NOUN together/ADV#0.0#0.0
+a person places something in front of him, opens it up, and he begins making a typing motion with his hands and fingers.#a/DET person/NOUN place/VERB something/PRON in/ADP front/NOUN of/ADP him/PRON open/VERB it/PRON up/ADP and/CCONJ he/PRON begin/VERB make/VERB a/DET typing/NOUN motion/NOUN with/ADP his/DET hand/NOUN and/CCONJ finger/NOUN#0.0#0.0

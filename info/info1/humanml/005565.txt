@@ -1,0 +1,3 @@
+person slowly walks forwards while pumping his right arm up and down towards the floor gently.#person/NOUN slowly/ADV walk/VERB forwards/ADV while/SCONJ pump/VERB his/DET right/ADJ arm/NOUN up/ADV and/CCONJ down/ADV towards/ADP the/DET floor/NOUN gently/ADV#0.0#0.0
+someone walking forward with a limp on the right side while leaning against something#someone/PRON walk/VERB forward/ADV with/ADP a/DET limp/NOUN on/ADP the/DET right/ADJ side/NOUN while/SCONJ lean/VERB against/ADP something/PRON#0.0#0.0
+a person walks while leaning on a rail.#a/DET person/NOUN walk/VERB while/SCONJ lean/VERB on/ADP a/DET rail/NOUN#0.0#0.0

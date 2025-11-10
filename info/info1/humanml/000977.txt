@@ -1,0 +1,3 @@
+the person is stepping back swinging arms.#the/DET person/NOUN is/AUX step/VERB back/ADV swinge/VERB arm/NOUN#0.0#0.0
+a person abruptly takes two steps backwards.#a/DET person/NOUN abruptly/ADV take/VERB two/NUM step/NOUN backwards/ADV#0.0#3.0
+the person reacts to someone pushing them, by falling backwards and catching themselves before they fall.#the/DET person/NOUN react/VERB to/ADP someone/PRON push/VERB them/PRON by/ADP fall/VERB backwards/ADV and/CCONJ catch/VERB themselves/PRON before/ADP they/PRON fall/VERB#0.0#0.0

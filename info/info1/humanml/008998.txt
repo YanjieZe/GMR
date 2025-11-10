@@ -1,0 +1,3 @@
+the person did a kick spin to the right#the/DET person/NOUN did/AUX a/DET kick/NOUN spin/NOUN to/ADP the/DET right/NOUN#0.0#0.0
+a person does a spinning kick in an anticlockwise direction and ends up in a fighting pose#a/DET person/NOUN does/AUX a/DET spinning/ADJ kick/NOUN in/ADP an/DET anticlockwise/NOUN direction/NOUN and/CCONJ end/VERB up/ADP in/ADP a/DET fighting/NOUN pose/NOUN#0.0#0.0
+a person does a round house kick#a/DET person/NOUN does/AUX a/DET round/ADJ house/NOUN kick/NOUN#0.0#0.0

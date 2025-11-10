@@ -1,0 +1,3 @@
+a person is doing a hand dance, similar to a tik tok renegade.#a/DET person/NOUN is/AUX do/VERB a/DET hand/NOUN dance/NOUN similar/ADJ to/ADP a/DET tik/PROPN tok/PROPN renegade/PROPN#0.0#0.0
+person is talking with their hands.#person/NOUN is/AUX talk/VERB with/ADP their/DET hand/NOUN#0.0#0.0
+a person is moving around his hands in the air.#a/DET person/NOUN is/AUX move/VERB around/ADP his/DET hand/NOUN in/ADP the/DET air/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks in a circle counter clockwise twice.#a/DET person/NOUN walk/VERB in/ADP a/DET circle/NOUN counter/NOUN clockwise/VERB twice/ADV#0.0#0.0
+the sim is walking in a backwards circle, crossing their legs as they make loops.#the/DET sim/PROPN is/AUX walk/VERB in/ADP a/DET backwards/ADJ circle/NOUN cross/VERB their/DET leg/NOUN as/SCONJ they/PRON make/VERB loop/NOUN#0.0#0.0
+a person steps foot over foot making two counterclockwise circles.#a/DET person/NOUN step/VERB foot/NOUN over/ADP foot/NOUN make/VERB two/NUM counterclockwise/NOUN circle/NOUN#0.0#0.0

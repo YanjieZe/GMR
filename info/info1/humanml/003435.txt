@@ -1,0 +1,3 @@
+a person is walking to the side back and forth by crossing their legs horizontally.#a/DET person/NOUN is/AUX walk/VERB to/ADP the/DET side/NOUN back/ADV and/CCONJ forth/ADV by/ADP cross/VERB their/DET leg/NOUN horizontally/ADV#0.0#0.0
+a person walking side by side#a/DET person/NOUN walk/VERB side/NOUN by/ADP side/NOUN#0.0#0.0
+a man side steps to the right and then side steps back to the left.#a/DET man/NOUN side/NOUN step/NOUN to/ADP the/DET right/NOUN and/CCONJ then/ADV side/NOUN step/VERB back/ADV to/ADP the/DET left/NOUN#0.0#0.0

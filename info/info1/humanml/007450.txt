@@ -1,0 +1,3 @@
+the person had his hands up in his rocking back-and-forth.#the/DET person/NOUN had/AUX his/DET hand/NOUN up/ADP in/ADP his/DET rock/VERB backandforth/NOUN#0.0#0.0
+the sim is standing, raises their left arm to make a windmill motion.#the/DET sim/PROPN is/AUX stand/VERB raise/VERB their/DET left/ADJ arm/NOUN to/PART make/VERB a/DET windmill/ADJ motion/NOUN#0.0#0.0
+a person stretches their arms, then swings their left arm forward making a few circles#a/DET person/NOUN stretch/VERB their/DET arm/NOUN then/ADV swing/VERB their/DET left/ADJ arm/NOUN forward/ADV make/VERB a/DET few/ADJ circle/NOUN#0.0#0.0

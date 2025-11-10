@@ -1,0 +1,3 @@
+a person mimicking a bear by a screaming gesture#a/DET person/NOUN mimic/VERB a/DET bear/NOUN by/ADP a/DET scream/VERB gesture/NOUN#0.0#0.0
+person hunches forward whilst bending body forwards and to side#person/NOUN hunch/VERB forward/ADV whilst/SCONJ bend/VERB body/NOUN forwards/ADV and/CCONJ to/PART side/VERB#0.0#0.0
+pretending to be a gorilla#pretend/VERB to/PART be/AUX a/DET gorilla/NOUN#0.0#0.0

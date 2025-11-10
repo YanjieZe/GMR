@@ -1,0 +1,3 @@
+someone is doing jumping jacks in slow motion.#someone/PRON is/AUX do/VERB jump/VERB jack/NOUN in/ADP slow/ADJ motion/NOUN#0.0#0.0
+person appears to be doing jumping jacks.#person/NOUN appear/VERB to/PART be/AUX do/VERB jump/VERB jack/NOUN#0.0#0.0
+a person jumps with their hands above their head.#a/DET person/NOUN jump/VERB with/ADP their/DET hand/NOUN above/ADP their/DET head/NOUN#0.0#0.0

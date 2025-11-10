@@ -1,0 +1,3 @@
+a person walks down an incline, using handrails on both sides.#a/DET person/NOUN walk/VERB down/ADP an/DET incline/NOUN use/VERB handrail/NOUN on/ADP both/DET side/NOUN#0.0#0.0
+a person walking with the help of handrails#a/DET person/NOUN walk/VERB with/ADP the/DET help/NOUN of/ADP handrail/NOUN#0.0#0.0
+a person walks forward holding handrail on either side.#a/DET person/NOUN walk/VERB forward/ADV hold/VERB handrail/NOUN on/ADP either/DET side/NOUN#0.0#0.0

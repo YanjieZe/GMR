@@ -1,0 +1,3 @@
+a person walks in a circle with exaggerated hip and arm movements, either drunk or flirty.#a/DET person/NOUN walk/VERB in/ADP a/DET circle/NOUN with/ADP exaggerated/ADJ hip/NOUN and/CCONJ arm/NOUN movement/NOUN either/CCONJ drunk/ADJ or/CCONJ flirty/NOUN#0.0#0.0
+a person walks around the room.#a/DET person/NOUN walk/VERB around/ADP the/DET room/NOUN#0.0#0.0
+a person struts in a clockwise circle, swinging hips from side to side.#a/DET person/NOUN strut/VERB in/ADP a/DET clockwise/ADJ circle/NOUN swinge/VERB hip/NOUN from/ADP side/NOUN to/ADP side/NOUN#0.0#0.0

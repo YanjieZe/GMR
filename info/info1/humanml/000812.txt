@@ -1,0 +1,3 @@
+a person who is clapping their hands#a/DET person/NOUN who/PRON is/AUX clap/VERB their/DET hand/NOUN#0.0#0.0
+a person clapping their hands#a/DET person/NOUN clap/VERB their/DET hand/NOUN#0.0#0.0
+the person clapped his hands four times.#the/DET person/NOUN clap/VERB his/DET hand/NOUN four/NUM time/NOUN#0.0#0.0

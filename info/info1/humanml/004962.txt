@@ -1,0 +1,3 @@
+a person appears to lift weights witht bith hands, crocubing and then raising the weights above their head.#a/DET person/NOUN appear/VERB to/PART lift/VERB weight/NOUN witht/NOUN bith/ADP hand/NOUN crocube/VERB and/CCONJ then/ADV raise/VERB the/DET weight/NOUN above/ADP their/DET head/NOUN#0.0#0.0
+the body squats up and down.#the/DET body/NOUN squat/VERB up/ADP and/CCONJ down/ADV#0.0#0.0
+the subject with arms raised squats almost touching the ground and then squats a second time not going as far down.#the/DET subject/NOUN with/ADP arm/NOUN raise/VERB squat/NOUN almost/ADV touch/VERB the/DET ground/NOUN and/CCONJ then/ADV squat/VERB a/DET second/ADJ time/NOUN not/PART go/VERB as/ADV far/ADV down/ADV#0.0#0.0

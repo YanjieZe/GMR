@@ -1,0 +1,3 @@
+a person eats while standing.#a/DET person/NOUN eat/VERB while/SCONJ stand/VERB#0.0#0.0
+this person appears to wash his hands.#this/DET person/NOUN appear/VERB to/PART wash/VERB his/DET hand/NOUN#0.0#0.0
+a person is standing and eating soemthing while cutting it.#a/DET person/NOUN is/AUX stand/VERB and/CCONJ eat/VERB soemthing/NOUN while/SCONJ cut/VERB it/PRON#0.0#0.0

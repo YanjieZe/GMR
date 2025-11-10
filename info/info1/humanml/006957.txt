@@ -1,0 +1,3 @@
+a man walks hesitantly from the right then to the left in a side shuffle.#a/DET man/NOUN walk/VERB hesitantly/ADV from/ADP the/DET right/NOUN then/ADV to/ADP the/DET left/NOUN in/ADP a/DET side/NOUN shuffle/NOUN#0.0#0.0
+this person steps to the left then to the right and back to the left.#this/DET person/NOUN step/VERB to/ADP the/DET left/NOUN then/ADV to/ADP the/DET right/NOUN and/CCONJ back/ADV to/ADP the/DET left/NOUN#0.0#0.0
+the person is walking back-and-forth sideways.#the/DET person/NOUN is/AUX walk/VERB backandforth/PROPN sideway/NOUN#0.0#0.0

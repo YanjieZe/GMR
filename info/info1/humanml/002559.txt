@@ -1,0 +1,3 @@
+it looks as though someone is walking down and stepping off of an escalator and is watching the last step where the belt returns.#it/PRON look/VERB as/SCONJ though/SCONJ someone/PRON is/AUX walk/VERB down/ADP and/CCONJ step/VERB off/ADP of/ADP an/DET escalator/NOUN and/CCONJ is/AUX watch/VERB the/DET last/ADJ step/NOUN where/ADV the/DET belt/NOUN return/VERB#0.0#0.0
+a man slowly walks forward.#a/DET man/NOUN slowly/ADV walk/VERB forward/ADV#0.0#0.0
+person takes four steps forward slowly and carefully#person/NOUN take/VERB four/NUM step/NOUN forward/ADV slowly/ADV and/CCONJ carefully/ADV#0.0#0.0

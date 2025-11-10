@@ -1,0 +1,2 @@
+a person walks around in a quarter circle.#a/DET person/NOUN walk/VERB around/ADV in/ADP a/DET quarter/NOUN circle/NOUN#0.0#0.0
+a person slowly walks forward and to the right.#a/DET person/NOUN slowly/ADV walk/VERB forward/ADV and/CCONJ to/ADP the/DET right/NOUN#0.0#0.0

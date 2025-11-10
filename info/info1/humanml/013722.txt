@@ -1,0 +1,3 @@
+this person is sitting and rocking side to side.#this/DET person/NOUN is/AUX sit/VERB and/CCONJ rock/VERB side/NOUN to/ADP side/VERB#0.0#0.0
+a person person sitting, with its arms up is swaying side to side.#a/DET person/NOUN person/NOUN sit/VERB with/ADP its/DET arm/NOUN up/ADP is/AUX sway/VERB side/NOUN to/ADP side/VERB#0.0#0.0
+person leaned over and eat with his right finger.#person/NOUN lean/VERB over/ADP and/CCONJ eat/VERB with/ADP his/DET right/ADJ finger/NOUN#0.0#0.0

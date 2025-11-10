@@ -1,0 +1,3 @@
+the person is sitting down eating dinner.#the/DET person/NOUN is/AUX sit/VERB down/ADP eat/VERB dinner/NOUN#0.0#0.0
+someone shaking something and than eating it#someone/PRON shake/VERB something/PRON and/CCONJ than/SCONJ eat/VERB it/PRON#0.0#0.0
+a person is cutting his meal, then eats it.#a/DET person/NOUN is/AUX cut/VERB his/DET meal/NOUN then/ADV eat/VERB it/PRON#0.0#0.0

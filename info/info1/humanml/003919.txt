@@ -1,0 +1,3 @@
+picks up box and throws it out like trash#pick/VERB up/ADP box/NOUN and/CCONJ throw/VERB it/PRON out/ADP like/SCONJ trash/NOUN#0.0#0.0
+person is picking something up.#person/NOUN is/AUX pick/VERB something/PRON up/ADP#0.0#0.0
+a person picks something up at waist height with both hands, then rotates it vertically before replacing it.#a/DET person/NOUN pick/VERB something/PRON up/ADP at/ADP waist/NOUN height/NOUN with/ADP both/DET hand/NOUN then/ADV rotate/VERB it/PRON vertically/ADV before/ADP replace/VERB it/PRON#0.0#0.0

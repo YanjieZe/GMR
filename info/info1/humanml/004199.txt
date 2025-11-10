@@ -1,0 +1,3 @@
+the person walks while swaying his arms.#the/DET person/NOUN walk/VERB while/SCONJ sway/VERB his/DET arm/NOUN#0.0#0.0
+a person walks in a crooked line while waving their arms as if they were drunk.#a/DET person/NOUN walk/VERB in/ADP a/DET crooked/ADJ line/NOUN while/SCONJ wave/VERB their/DET arm/NOUN as/SCONJ if/SCONJ they/PRON were/AUX drunk/ADJ#0.0#0.0
+a person stumbles forward in a crooked line.#a/DET person/NOUN stumble/VERB forward/ADV in/ADP a/DET crooked/ADJ line/NOUN#0.0#0.0

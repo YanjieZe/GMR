@@ -1,0 +1,3 @@
+a person is drinking from a bottle with their right hand.#a/DET person/NOUN is/AUX drink/VERB from/ADP a/DET bottle/NOUN with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+a person drinks from a bottle#a/DET person/NOUN drink/VERB from/ADP a/DET bottle/NOUN#0.0#0.0
+person opens something using left hand and proceeds to drinking it while holding it in right hand#person/NOUN open/VERB something/PRON use/VERB left/ADJ hand/NOUN and/CCONJ proceed/VERB to/ADP drink/VERB it/PRON while/SCONJ hold/VERB it/PRON in/ADP right/ADJ hand/NOUN#0.0#0.0

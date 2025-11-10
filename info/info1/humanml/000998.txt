@@ -1,0 +1,3 @@
+while walking forward he appears to be pushed, he rights himself and continues walking.#while/SCONJ walk/VERB forward/ADV he/PRON appear/VERB to/PART be/AUX push/VERB he/PRON right/VERB himself/PRON and/CCONJ continue/VERB walk/VERB#0.0#0.0
+a person walks forward, stumbles backwards, then walks forward again#a/DET person/NOUN walk/VERB forward/ADV stumble/NOUN backwards/ADV then/ADV walk/VERB forward/ADV again/ADV#0.0#0.0
+a man walks forward before stumbling backwards and the continues walking forward.#a/DET man/NOUN walk/VERB forward/ADV before/ADP stumble/VERB backwards/ADV and/CCONJ the/DET continue/NOUN walk/VERB forward/ADV#0.0#0.0

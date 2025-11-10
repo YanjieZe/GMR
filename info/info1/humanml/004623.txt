@@ -1,0 +1,3 @@
+a man is taking small steps before giant steps over objects that are in the way#a/DET man/NOUN is/AUX take/VERB small/ADJ step/NOUN before/ADP giant/ADJ step/NOUN over/ADP object/NOUN that/DET are/AUX in/ADP the/DET way/NOUN#0.0#0.0
+a man takes a big step and the turns and takes another big step.#a/DET man/NOUN take/VERB a/DET big/ADJ step/NOUN and/CCONJ the/DET turn/NOUN and/CCONJ take/VERB another/DET big/ADJ step/NOUN#0.0#0.0
+person is walking on uneven ground#person/NOUN is/AUX walk/VERB on/ADP uneven/ADJ ground/NOUN#0.0#0.0

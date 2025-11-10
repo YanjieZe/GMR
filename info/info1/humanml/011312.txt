@@ -1,0 +1,3 @@
+a person frantically waves their left hand around in the air in front of them.#a/DET person/NOUN frantically/ADV wave/VERB their/DET left/ADJ hand/NOUN around/ADV in/ADP the/DET air/NOUN in/ADP front/NOUN of/ADP them/PRON#0.0#0.0
+the cyclists gives hand signals while riding the bike#the/DET cyclists/PROPN give/VERB hand/NOUN signal/NOUN while/SCONJ ride/VERB the/DET bike/NOUN#0.0#0.0
+a person is moving their left arm erratically.#a/DET person/NOUN is/AUX move/VERB their/DET left/ADJ arm/NOUN erratically/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+the man jumps twice into the air.#the/DET man/NOUN jump/VERB twice/ADV into/ADP the/DET air/NOUN#0.0#0.0
+a person uses their arms and legs to jump as high as they can in-position.#a/DET person/NOUN use/VERB their/DET arm/NOUN and/CCONJ leg/NOUN to/PART jump/VERB as/ADV high/ADJ as/SCONJ they/PRON can/VERB inposition/VERB#0.0#0.0
+a person jumps twice very high in the air.#a/DET person/NOUN jump/VERB twice/ADV very/ADV high/ADJ in/ADP the/DET air/NOUN#0.0#0.0

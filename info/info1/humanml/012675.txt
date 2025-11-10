@@ -1,0 +1,3 @@
+person walks with both arms straight forward#person/NOUN walk/VERB with/ADP both/DET arm/NOUN straight/ADV forward/ADV#0.0#0.0
+walks and stumbles around with the arms out in front of the body.#walk/VERB and/CCONJ stumble/VERB around/ADP with/ADP the/DET arm/NOUN out/ADP in/ADP front/NOUN of/ADP the/DET body/NOUN#0.0#0.0
+a person is sleepwalking in a zigzag pattern.#a/DET person/NOUN is/AUX sleepwalk/VERB in/ADP a/DET zigzag/NOUN pattern/NOUN#0.0#0.0

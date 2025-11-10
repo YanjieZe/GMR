@@ -1,0 +1,3 @@
+the sim jumps up and down, then balances on their left leg.#the/DET sim/PROPN jump/VERB up/ADV and/CCONJ down/ADV then/ADV balance/VERB on/ADP their/DET left/ADJ leg/NOUN#0.0#0.0
+a person standing with his arms by his sides takes three small jumps in place, bends his knees and takes two big jumps in place, then hops up and down on his left leg six times.#a/DET person/NOUN stand/VERB with/ADP his/DET arm/NOUN by/ADP his/DET side/NOUN take/VERB three/NUM small/ADJ jump/NOUN in/ADP place/NOUN bend/VERB his/DET knee/NOUN and/CCONJ take/VERB two/NUM big/ADJ jump/NOUN in/ADP place/NOUN then/ADV hop/VERB up/ADV and/CCONJ down/ADV on/ADP his/DET left/ADJ leg/NOUN six/NUM time/NOUN#0.0#0.0
+he jumps up and down#he/PRON jump/VERB up/ADV and/CCONJ down/ADV#0.0#0.0

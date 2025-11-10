@@ -1,0 +1,3 @@
+a person walks backward, then moves forward while lunging.#a/DET person/NOUN walk/VERB backward/ADV then/ADV move/VERB forward/ADV while/SCONJ lunge/VERB#0.0#0.0
+a person walks backwards a few steps, bends his right leg behind him, leans forward on his left leg, and touches his right palm to the ground.#a/DET person/NOUN walk/VERB backwards/ADV a/DET few/ADJ step/NOUN bend/VERB his/DET right/ADJ leg/NOUN behind/ADP him/PRON lean/VERB forward/ADV on/ADP his/DET left/ADJ leg/NOUN and/CCONJ touch/VERB his/DET right/ADJ palm/NOUN to/ADP the/DET ground/NOUN#0.0#3.0
+the person is doing the crouch stand back and forth.#the/DET person/NOUN is/AUX do/VERB the/DET crouch/ADJ stand/NOUN back/ADV and/CCONJ forth/ADV#0.0#0.0

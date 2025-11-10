@@ -1,0 +1,3 @@
+a man walks forward before turning around.#a/DET man/NOUN walk/VERB forward/ADV before/ADP turn/VERB around/ADV#0.0#0.0
+a person walks forward slowly while swaggering and moving their shoulders back and forth.#a/DET person/NOUN walk/VERB forward/ADV slowly/ADV while/SCONJ swagger/VERB and/CCONJ move/VERB their/DET shoulder/NOUN back/ADV and/CCONJ forth/ADV#0.0#0.0
+person walking forward one foot at a time#person/NOUN walk/VERB forward/ADV one/NUM foot/NOUN at/ADP a/DET time/NOUN#0.0#0.0

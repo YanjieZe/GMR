@@ -1,0 +1,3 @@
+a person holds out their hands as someone sets something in their hands.#a/DET person/NOUN hold/VERB out/ADP their/DET hand/NOUN as/SCONJ someone/PRON set/VERB something/PRON in/ADP their/DET hand/NOUN#0.0#0.0
+a person lifts something with both hands and then places it down slightly away from the original pickup points#a/DET person/NOUN lift/VERB something/PRON with/ADP both/DET hand/NOUN and/CCONJ then/ADV place/VERB it/PRON down/ADV slightly/ADV away/ADV from/ADP the/DET original/ADJ pickup/NOUN point/NOUN#0.0#0.0
+someone is lifting something heavy and putting it somewhere else#someone/PRON is/AUX lift/VERB something/PRON heavy/ADJ and/CCONJ put/VERB it/PRON somewhere/ADV else/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+person dances with arms out#person/NOUN dance/VERB with/ADP arm/NOUN out/ADV#0.0#0.0
+preforming different kinds of boxing moves#preform/VERB different/ADJ kind/NOUN of/ADP box/VERB move/NOUN#0.0#0.0
+stretching out arms while shaking out left arm#stretch/VERB out/ADP arm/NOUN while/SCONJ shake/VERB out/ADP left/ADJ arm/NOUN#0.0#0.0

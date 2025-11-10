@@ -1,0 +1,3 @@
+a person is side stepping both ways#a/DET person/NOUN is/AUX side/NOUN step/VERB both/DET way/NOUN#0.0#0.0
+a person strafing from left to right and vice versa#a/DET person/NOUN strafe/VERB from/ADP left/ADJ to/ADP right/NOUN and/CCONJ vice/ADV versa/ADV#0.0#0.0
+a man takes large shuffle steps to his left, then several large shuffle steps to his right.#a/DET man/NOUN take/VERB large/ADJ shuffle/NOUN step/NOUN to/ADP his/DET left/NOUN then/ADV several/ADJ large/ADJ shuffle/NOUN step/NOUN to/ADP his/DET right/NOUN#0.0#0.0

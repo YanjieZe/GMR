@@ -1,0 +1,3 @@
+the person is turning right.#the/DET person/NOUN is/AUX turn/VERB right/ADV#0.0#0.0
+a person takes two steps, hard-pivots on their right foot to do a 180 to their right, then takes two more steps forward.#a/DET person/NOUN take/VERB two/NUM step/NOUN hardpivot/NOUN on/ADP their/DET right/ADJ foot/NOUN to/PART do/AUX a/DET to/ADP their/DET right/NOUN then/ADV take/VERB two/NUM more/ADJ step/NOUN forward/ADV#0.0#0.0
+a person is walking, turns around, and walks back#a/DET person/NOUN is/AUX walk/VERB turn/VERB around/ADV and/CCONJ walk/VERB back/ADV#0.0#0.0

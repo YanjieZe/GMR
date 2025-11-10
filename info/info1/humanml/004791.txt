@@ -1,0 +1,3 @@
+a person grabbing something and then walking with object, while looking down the entire walk.#a/DET person/NOUN grab/VERB something/PRON and/CCONJ then/ADV walk/VERB with/ADP object/NOUN while/SCONJ look/VERB down/ADP the/DET entire/ADJ walk/NOUN#1.0#10.0
+someone is walking to the right, grabbing something, and then walking back and taking some more steps.#someone/PRON is/AUX walk/VERB to/ADP the/DET right/NOUN grab/VERB something/PRON and/CCONJ then/ADV walk/VERB back/ADV and/CCONJ take/VERB some/DET more/ADJ step/NOUN#0.0#0.0
+person walks to the right then turns around and walks left#person/NOUN walk/VERB to/ADP the/DET right/NOUN then/ADV turn/VERB around/ADP and/CCONJ walk/VERB left/VERB#0.0#0.0

@@ -1,0 +1,3 @@
+a person is picking up items to organize them by sitting them down.#a/DET person/NOUN is/AUX pick/VERB up/ADP item/NOUN to/PART organize/VERB them/PRON by/ADP sit/VERB them/PRON down/ADP#0.0#10.0
+person is taking something from the right and putting it in front of them.#person/NOUN is/AUX take/VERB something/PRON from/ADP the/DET right/NOUN and/CCONJ put/VERB it/PRON in/ADP front/NOUN of/ADP them/PRON#0.0#0.0
+a figure picks up objects of the ground and places them on a table.#a/DET figure/NOUN pick/VERB up/ADP object/NOUN of/ADP the/DET ground/NOUN and/CCONJ place/VERB them/PRON on/ADP a/DET table/NOUN#0.0#0.0

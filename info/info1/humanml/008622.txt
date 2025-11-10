@@ -1,0 +1,3 @@
+a man sneezes and made a snorting motions after.#a/DET man/NOUN sneeze/VERB and/CCONJ make/VERB a/DET snort/VERB motion/NOUN after/ADV#0.0#0.0
+a person coughs and lifts their left hand up to their mouth. they wobble side to side and bob their shoulders up and down.#a/DET person/NOUN cough/VERB and/CCONJ lift/VERB their/DET left/ADJ hand/NOUN up/ADP to/ADP their/DET mouth/NOUN they/PRON wobble/VERB side/NOUN to/PART side/VERB and/CCONJ bob/VERB their/DET shoulder/NOUN up/ADP and/CCONJ down/ADV#0.0#0.0
+a person who seems to cough#a/DET person/NOUN who/PRON seem/VERB to/PART cough/NOUN#0.0#0.0

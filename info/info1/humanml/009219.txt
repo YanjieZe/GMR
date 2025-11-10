@@ -1,0 +1,3 @@
+a person places their hands out in front of them on something round.#a/DET person/NOUN place/VERB their/DET hand/NOUN out/ADP in/ADP front/NOUN of/ADP them/PRON on/ADP something/PRON round/ADJ#0.0#0.0
+a man is lifting his arms up to his shoulders and doing exercise.#a/DET man/NOUN is/AUX lift/VERB his/DET arm/NOUN up/ADP to/ADP his/DET shoulder/NOUN and/CCONJ do/VERB exercise/NOUN#0.0#0.0
+a perosn slowly brings their arms down#a/DET perosn/NOUN slowly/ADV bring/VERB their/DET arm/NOUN down/ADP#0.0#2.0

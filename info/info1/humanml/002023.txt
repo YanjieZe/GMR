@@ -1,0 +1,3 @@
+someone standing and moving hands#someone/PRON stand/VERB and/CCONJ move/VERB hand/NOUN#0.0#0.0
+person stands still with arms shoulder length apart and brings hands together twice#person/NOUN stand/VERB still/ADV with/ADP arm/NOUN shoulder/NOUN length/NOUN apart/ADV and/CCONJ bring/VERB hand/NOUN together/ADV twice/ADV#0.0#0.0
+a man waves both his arms aimlessly, up and down, left and right, for seveal moments.#a/DET man/NOUN wave/VERB both/CCONJ his/DET arm/NOUN aimlessly/ADV up/ADV and/CCONJ down/ADV left/ADJ and/CCONJ right/INTJ for/ADP seveal/ADJ moment/NOUN#0.0#0.0

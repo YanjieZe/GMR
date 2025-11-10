@@ -1,0 +1,3 @@
+the person is doing a light hop.#the/DET person/NOUN is/AUX do/VERB a/DET light/ADJ hop/NOUN#0.0#0.0
+a person hops while shaking their hands.#a/DET person/NOUN hop/VERB while/SCONJ shake/VERB their/DET hand/NOUN#0.0#0.0
+person jumps up and down with hands shaking at sides.#person/NOUN jump/VERB up/ADV and/CCONJ down/ADV with/ADP hand/NOUN shake/VERB at/ADP side/NOUN#0.0#0.0

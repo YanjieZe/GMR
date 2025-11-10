@@ -1,0 +1,3 @@
+the arms are held out while the body step dances around in a circle.#the/DET arm/NOUN are/AUX hold/VERB out/ADP while/SCONJ the/DET body/NOUN step/NOUN dance/NOUN around/ADV in/ADP a/DET circle/NOUN#0.0#0.0
+person is moving left to right in a dancing stance swaying hips, moving feet left to right with arms held out#person/NOUN is/AUX move/VERB left/VERB to/ADP right/ADV in/ADP a/DET dancing/NOUN stance/NOUN sway/VERB hip/NOUN move/VERB foot/NOUN left/VERB to/ADP right/ADJ with/ADP arm/NOUN hold/VERB out/ADP#7.0#9.0
+the person is moving someone or hands around dancing.#the/DET person/NOUN is/AUX move/VERB someone/PRON or/CCONJ hand/NOUN around/ADP dance/VERB#0.0#0.0

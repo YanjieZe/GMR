@@ -1,0 +1,3 @@
+the person is walking around in a strange way,#the/DET person/NOUN is/AUX walk/VERB around/ADP in/ADP a/DET strange/ADJ way/NOUN#0.0#0.0
+a person dramatically bows and struts around with their hands clasped behind their back.#a/DET person/NOUN dramatically/ADV bow/VERB and/CCONJ strut/NOUN around/ADP with/ADP their/DET hand/NOUN clasp/VERB behind/ADP their/DET back/NOUN#0.0#0.0
+person with hands on back dances forward while bowing down#person/NOUN with/ADP hand/NOUN on/ADP back/ADJ dance/NOUN forward/ADV while/SCONJ bow/VERB down/ADP#0.0#0.0

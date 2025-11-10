@@ -1,0 +1,3 @@
+a person bends their knees, jumps up a little, before doing that jump a second time.#a/DET person/NOUN bend/VERB their/DET knee/NOUN jump/VERB up/ADP a/DET little/ADJ before/ADP do/VERB that/DET jump/VERB a/DET second/ADJ time/NOUN#0.0#0.0
+a person jumps up vertically twice.#a/DET person/NOUN jump/VERB up/ADP vertically/ADV twice/ADV#0.0#0.0
+a person jumps from standing into the air twice.#a/DET person/NOUN jump/VERB from/ADP stand/VERB into/ADP the/DET air/NOUN twice/ADV#0.0#0.0

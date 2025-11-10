@@ -1,0 +1,3 @@
+a person limps around the floor, waving their arms to keep balance.#a/DET person/NOUN limp/VERB around/ADP the/DET floor/NOUN wave/VERB their/DET arm/NOUN to/PART keep/VERB balance/NOUN#0.0#0.0
+a person staggers back and forth almost losing their balance.#a/DET person/NOUN stagger/VERB back/ADV and/CCONJ forth/ADV almost/ADV lose/VERB their/DET balance/NOUN#0.0#0.0
+a person walks around really limply.#a/DET person/NOUN walk/VERB around/ADV really/ADV limply/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person hammers a nail into a wall.#a/DET person/NOUN hammer/VERB a/DET nail/NOUN into/ADP a/DET wall/NOUN#0.0#0.0
+a man holds something in both hands and then uses his left hand to bring it up towards his face.#a/DET man/NOUN hold/VERB something/PRON in/ADP both/DET hand/NOUN and/CCONJ then/ADV use/VERB his/DET left/ADJ hand/NOUN to/PART bring/VERB it/PRON up/ADP towards/ADP his/DET face/NOUN#0.0#0.0
+a man opens a bottle and uses his left hand to drink from it.#a/DET man/NOUN open/VERB a/DET bottle/NOUN and/CCONJ use/VERB his/DET left/ADJ hand/NOUN to/PART drink/VERB from/ADP it/PRON#0.0#0.0

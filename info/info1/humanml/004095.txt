@@ -1,0 +1,3 @@
+person squats with knees facing inwards then stands up and quickly jogs  before stopping#person/NOUN squat/VERB with/ADP knee/NOUN face/VERB inward/NOUN then/ADV stand/VERB up/ADV and/CCONJ quickly/ADV jog/VERB before/ADP stop/VERB#0.0#0.0
+a person doign squats, then runs in place and stops.#a/DET person/NOUN doign/ADJ squat/NOUN then/ADV run/VERB in/ADP place/NOUN and/CCONJ stop/NOUN#0.0#0.0
+a person does three squats and then runs in place#a/DET person/NOUN does/AUX three/NUM squat/NOUN and/CCONJ then/ADV run/VERB in/ADP place/NOUN#0.0#0.0

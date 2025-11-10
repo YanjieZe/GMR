@@ -1,0 +1,3 @@
+a person lifts object with two hands and throws with right hand.#a/DET person/NOUN lift/VERB object/NOUN with/ADP two/NUM hand/NOUN and/CCONJ throw/NOUN with/ADP right/ADJ hand/NOUN#0.0#0.0
+the person is throwing a ball.#the/DET person/NOUN is/AUX throw/VERB a/DET ball/NOUN#0.0#0.0
+a person pitches a ball.#a/DET person/NOUN pitch/VERB a/DET ball/NOUN#0.0#0.0

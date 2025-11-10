@@ -1,0 +1,3 @@
+the person is turning their steering wheel.#the/DET person/NOUN is/AUX turn/VERB their/DET steering/NOUN wheel/NOUN#0.0#0.0
+a person is squatting, they appear to be cleaning something#a/DET person/NOUN is/AUX squat/VERB they/PRON appear/VERB to/PART be/AUX clean/VERB something/PRON#0.0#0.0
+a person in a sitting position rocks from side to side and uses their hands in a repetitive slight circular motion.#a/DET person/NOUN in/ADP a/DET sit/VERB position/NOUN rock/VERB from/ADP side/NOUN to/ADP side/NOUN and/CCONJ use/VERB their/DET hand/NOUN in/ADP a/DET repetitive/ADJ slight/ADJ circular/ADJ motion/NOUN#0.0#0.0

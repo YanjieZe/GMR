@@ -1,0 +1,3 @@
+this person was exercising their arms first rotating the right and then the left .#this/DET person/NOUN was/AUX exercise/VERB their/DET arm/NOUN first/ADV rotate/VERB the/DET right/NOUN and/CCONJ then/ADV the/DET left/NOUN#0.0#0.0
+a person makes wide swinging motions with their right arm, and then with their left.#a/DET person/NOUN make/VERB wide/ADJ swinge/VERB motion/NOUN with/ADP their/DET right/ADJ arm/NOUN and/CCONJ then/ADV with/ADP their/DET left/NOUN#0.0#0.0
+person makes wide circle with right arm#person/NOUN make/VERB wide/ADJ circle/NOUN with/ADP right/ADJ arm/NOUN#0.0#0.0

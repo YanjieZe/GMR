@@ -1,0 +1,3 @@
+a person walks forward while placing their right hand on a railing#a/DET person/NOUN walk/VERB forward/ADV while/SCONJ place/VERB their/DET right/ADJ hand/NOUN on/ADP a/DET railing/NOUN#0.0#0.0
+person walks straight while using right arm assisted by bar or wall.#person/NOUN walk/VERB straight/ADV while/SCONJ use/VERB right/ADJ arm/NOUN assist/VERB by/ADP bar/NOUN or/CCONJ wall/NOUN#0.0#0.0
+a person steps forward with his right arm outstretched to his side and touching something as he moves.#a/DET person/NOUN step/VERB forward/ADV with/ADP his/DET right/ADJ arm/NOUN outstretche/VERB to/ADP his/DET side/NOUN and/CCONJ touch/VERB something/PRON as/SCONJ he/PRON move/VERB#0.0#0.0

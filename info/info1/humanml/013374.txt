@@ -1,0 +1,3 @@
+a man is leaning backwards alternating hands. he stands up and walks a few steps before leaning back again.#a/DET man/NOUN is/AUX lean/VERB backwards/ADV alternate/VERB hand/NOUN he/PRON stand/VERB up/ADP and/CCONJ walk/VERB a/DET few/ADJ step/NOUN before/ADP lean/VERB back/ADV again/ADV#0.0#0.0
+person is in reverse position on all fours#person/NOUN is/AUX in/ADP reverse/ADJ position/NOUN on/ADP all/DET four/NOUN#0.0#0.0
+a person bends backwards, supported by their hands, raises the right arm, places it back down, then stands up right.#a/DET person/NOUN bend/VERB backwards/ADV support/VERB by/ADP their/DET hand/NOUN raise/VERB the/DET right/ADJ arm/NOUN place/VERB it/PRON back/ADV down/ADV then/ADV stand/VERB up/ADP right/ADV#0.0#0.0

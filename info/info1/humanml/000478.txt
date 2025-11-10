@@ -1,0 +1,3 @@
+a person walks forward as they raises both arm and sets them back down.#a/DET person/NOUN walk/VERB forward/ADV as/SCONJ they/PRON raise/VERB both/DET arm/NOUN and/CCONJ set/VERB them/PRON back/ADV down/ADV#0.0#0.0
+a person holds their arms up for balance and walks forward one foot in front of the other#a/DET person/NOUN hold/VERB their/DET arm/NOUN up/ADP for/ADP balance/NOUN and/CCONJ walk/VERB forward/ADV one/NUM foot/NOUN in/ADP front/NOUN of/ADP the/DET other/ADJ#0.0#0.0
+a man walks forward with his heels touching his toes on a beam.#a/DET man/NOUN walk/VERB forward/ADV with/ADP his/DET heel/NOUN touch/VERB his/DET toe/NOUN on/ADP a/DET beam/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+the person is waving with his right arm.#the/DET person/NOUN is/AUX wave/VERB with/ADP his/DET right/ADJ arm/NOUN#0.0#0.0
+this person raises is right arm as if to touch his head.#this/DET person/NOUN raise/VERB is/AUX right/ADJ arm/NOUN as/SCONJ if/SCONJ to/PART touch/VERB his/DET head/NOUN#0.0#0.0
+a person is scratching their head with their right hand#a/DET person/NOUN is/AUX scratch/VERB their/DET head/NOUN with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0

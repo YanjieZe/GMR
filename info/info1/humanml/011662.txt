@@ -1,0 +1,3 @@
+person jogs in place very quickly.#person/NOUN jog/VERB in/ADP place/NOUN very/ADV quickly/ADV#0.0#0.0
+the man jogs in place then holds his belly.#the/DET man/NOUN jog/VERB in/ADP place/NOUN then/ADV hold/VERB his/DET belly/NOUN#0.0#0.0
+a person is jogging in place.#a/DET person/NOUN is/AUX jog/VERB in/ADP place/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a mother imitated being a teapot pouring out tea to her child while reciting a nursery rhyme.#a/DET mother/NOUN imitate/VERB being/AUX a/DET teapot/NOUN pour/VERB out/ADP tea/NOUN to/ADP her/DET child/NOUN while/SCONJ recite/VERB a/DET nursery/NOUN rhyme/NOUN#0.0#0.0
+she is doing the dance to the song i'm a little teapot.#she/PRON is/AUX do/VERB the/DET dance/NOUN to/ADP the/DET song/NOUN i/PRON a/DET little/ADJ teapot/NOUN#0.0#0.0
+a person gestures "i'm a little teapot."#a/DET person/NOUN gesture/VERB i/PRON a/DET little/ADJ teapot/NOUN#0.0#0.0

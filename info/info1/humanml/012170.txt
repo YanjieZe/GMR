@@ -1,0 +1,2 @@
+a man struts forward and twirls with his arms swinging, then drunkenly walks back, spinning again with his arms flailing.#a/DET man/NOUN strut/VERB forward/ADV and/CCONJ twirl/VERB with/ADP his/DET arm/NOUN swinge/VERB then/ADV drunkenly/ADV walk/VERB back/ADV spin/VERB again/ADV with/ADP his/DET arm/NOUN flailing/NOUN#0.0#0.0
+a person walks around in a flamboyant manner.#a/DET person/NOUN walk/VERB around/ADV in/ADP a/DET flamboyant/ADJ manner/NOUN#0.0#0.0

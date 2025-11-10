@@ -1,0 +1,3 @@
+the man jumps couple of times#the/DET man/NOUN jump/VERB couple/NOUN of/ADP time/NOUN#0.0#0.0
+a person jumps up twice then puts their hands on their hips.#a/DET person/NOUN jump/VERB up/ADP twice/ADV then/ADV put/VERB their/DET hand/NOUN on/ADP their/DET hip/NOUN#0.0#0.0
+a person jumping up and down then ends with both hands on hips.#a/DET person/NOUN jump/VERB up/ADP and/CCONJ down/ADV then/ADV end/VERB with/ADP both/DET hand/NOUN on/ADP hip/NOUN#0.0#0.0

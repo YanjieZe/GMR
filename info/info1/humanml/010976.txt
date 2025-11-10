@@ -1,0 +1,3 @@
+a man starting off in a running pose runs forward, landing on his right foot.#a/DET man/NOUN start/VERB off/ADP in/ADP a/DET running/ADJ pose/NOUN run/VERB forward/ADV land/VERB on/ADP his/DET right/ADJ foot/NOUN#0.0#0.0
+person is running forward quickly.#person/NOUN is/AUX run/VERB forward/ADV quickly/ADV#0.0#0.0
+the man hurries forward 3 steps.#the/DET man/NOUN hurry/VERB forward/ADV step/NOUN#0.0#0.0

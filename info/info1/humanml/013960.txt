@@ -1,0 +1,3 @@
+this person raises his left arm into the air.#this/DET person/NOUN raise/VERB his/DET left/ADJ arm/NOUN into/ADP the/DET air/NOUN#0.0#0.0
+a person raises his left hand.#a/DET person/NOUN raise/VERB his/DET left/ADJ hand/NOUN#0.0#0.0
+he lifts dumbles then stops#he/PRON lift/VERB dumble/NOUN then/ADV stop/VERB#0.0#0.0

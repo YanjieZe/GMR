@@ -1,0 +1,3 @@
+the person is doing a freestyle swimming stroke.#the/DET person/NOUN is/AUX do/VERB a/DET freestyle/ADJ swimming/NOUN stroke/NOUN#0.0#0.0
+a man is swimming in the water.#a/DET man/NOUN is/AUX swim/VERB in/ADP the/DET water/NOUN#0.0#0.0
+the man swims freestyle stroke.#the/DET man/NOUN swim/VERB freestyle/PROPN stroke/NOUN#0.0#0.0

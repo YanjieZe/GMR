@@ -1,0 +1,3 @@
+person holds arms out then put them down then kicks each leg backward one at a time.#person/NOUN hold/VERB arm/NOUN out/ADV then/ADV put/VERB them/PRON down/ADP then/ADV kick/VERB each/DET leg/NOUN backward/ADJ one/NUM at/ADP a/DET time/NOUN#0.0#0.0
+kicking leg behind back.#kick/VERB leg/NOUN behind/ADV back/ADV#0.0#0.0
+the person did it backwards karate kick.#the/DET person/NOUN did/AUX it/PRON backwards/ADV karate/PROPN kick/VERB#0.0#0.0

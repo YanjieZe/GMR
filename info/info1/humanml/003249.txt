@@ -1,0 +1,3 @@
+i feel like this animation is skipping or maybe running in a u shaped path with twisting every stop#i/PRON feel/VERB like/SCONJ this/DET animation/NOUN is/AUX skip/VERB or/CCONJ maybe/ADV run/VERB in/ADP a/DET u/PROPN shaped/ADJ path/NOUN with/ADP twist/VERB every/DET stop/NOUN#1.0#10.0
+someone seems to be dancing#someone/PRON seem/VERB to/PART be/AUX dance/VERB#0.0#0.0
+person walks around lightly, quickly switching their feet as they walk#person/NOUN walk/VERB around/ADP lightly/ADV quickly/ADV switch/VERB their/DET foot/NOUN as/SCONJ they/PRON walk/VERB#0.0#0.0

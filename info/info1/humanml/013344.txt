@@ -1,0 +1,3 @@
+in a fighting stance, person punches downward with their left hand.#in/ADP a/DET fighting/NOUN stance/NOUN person/NOUN punch/VERB downward/ADV with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0
+person is boxing with someone.#person/NOUN is/AUX box/VERB with/ADP someone/PRON#0.0#0.0
+punching arms while standing still.#punch/VERB arm/NOUN while/SCONJ stand/VERB still/ADV#0.0#0.0

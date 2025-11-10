@@ -1,0 +1,3 @@
+a person dances and twists feet on the spot.#a/DET person/NOUN dance/VERB and/CCONJ twist/VERB foot/NOUN on/ADP the/DET spot/NOUN#0.0#0.0
+a person dances on the spot, twisting their knees and raising their arms.#a/DET person/NOUN dance/VERB on/ADP the/DET spot/NOUN twist/VERB their/DET knee/NOUN and/CCONJ raise/VERB their/DET arm/NOUN#0.0#0.0
+the person dances by sliding their arms and legs side to side.#the/DET person/NOUN dance/VERB by/ADP slide/VERB their/DET arm/NOUN and/CCONJ leg/NOUN side/VERB to/PART side/VERB#0.0#0.0

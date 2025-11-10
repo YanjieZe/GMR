@@ -1,0 +1,3 @@
+a person who performed a left handed uppercut#a/DET person/NOUN who/PRON perform/VERB a/DET left/ADJ handed/ADJ uppercut/NOUN#0.0#0.0
+the man throws a big right handed punch in the air.#the/DET man/NOUN throw/VERB a/DET big/ADJ right/ADJ handed/ADJ punch/NOUN in/ADP the/DET air/NOUN#0.0#0.0
+a man moves his left and right arms up and down.#a/DET man/NOUN move/VERB his/DET left/ADJ and/CCONJ right/ADJ arm/NOUN up/ADV and/CCONJ down/ADV#0.0#0.0

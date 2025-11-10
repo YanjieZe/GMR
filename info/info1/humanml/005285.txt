@@ -1,0 +1,3 @@
+a person takes large steps moving down to a bottom floor.#a/DET person/NOUN take/VERB large/ADJ step/NOUN move/VERB down/ADV to/ADP a/DET bottom/ADJ floor/NOUN#0.0#0.0
+the toon walks down a short flight of stairs.#the/DET toon/NOUN walk/VERB down/ADP a/DET short/ADJ flight/NOUN of/ADP stair/NOUN#0.0#5.0
+a person walks downstairs, right foot dominant.#a/DET person/NOUN walk/VERB downstairs/ADV right/ADJ foot/NOUN dominant/ADJ#0.0#0.0

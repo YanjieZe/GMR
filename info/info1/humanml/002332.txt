@@ -1,0 +1,3 @@
+a person walks straight forward quickly#a/DET person/NOUN walk/VERB straight/ADV forward/ADV quickly/ADV#0.0#0.0
+a man walks forward with a wider stance.#a/DET man/NOUN walk/VERB forward/ADV with/ADP a/DET wider/ADJ stance/NOUN#0.0#0.0
+a person strides forward for a few steps, then slows and stops.#a/DET person/NOUN stride/VERB forward/ADV for/ADP a/DET few/ADJ step/NOUN then/ADV slow/VERB and/CCONJ stop/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+person walks holding a big box walks slightly off balance#person/NOUN walk/VERB hold/VERB a/DET big/ADJ box/NOUN walk/VERB slightly/ADV off/ADP balance/NOUN#0.0#0.0
+a person's walking forward quickly while holding something that they seem to be balancing or positioning.#a/DET person/NOUN walk/VERB forward/ADV quickly/ADV while/SCONJ hold/VERB something/PRON that/DET they/PRON seem/VERB to/PART be/AUX balance/VERB or/CCONJ position/VERB#0.0#0.0
+a person is walking forward and carrying something with both hands.#a/DET person/NOUN is/AUX walk/VERB forward/ADV and/CCONJ carry/VERB something/PRON with/ADP both/DET hand/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a man jogs back and forth in an arc#a/DET man/NOUN jog/VERB back/ADV and/CCONJ forth/ADV in/ADP an/DET arc/NOUN#0.0#0.0
+a man jogs in a semi-circle, turns around and jogs in the opposite direction.#a/DET man/NOUN jog/VERB in/ADP a/DET semicircle/NOUN turn/VERB around/ADV and/CCONJ jog/VERB in/ADP the/DET opposite/ADJ direction/NOUN#0.0#0.0
+moving the floor at left side and coming back on the way at right side.#move/VERB the/DET floor/NOUN at/ADP left/ADJ side/NOUN and/CCONJ come/VERB back/ADV on/ADP the/DET way/NOUN at/ADP right/ADJ side/NOUN#0.0#0.0

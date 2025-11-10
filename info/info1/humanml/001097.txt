@@ -1,0 +1,3 @@
+a person punches the air multiple times#a/DET person/NOUN punch/VERB the/DET air/NOUN multiple/NOUN time/NOUN#0.0#0.0
+a man performs martial arts around the room.#a/DET man/NOUN perform/VERB martial/ADJ art/NOUN around/ADP the/DET room/NOUN#0.0#0.0
+a person kicking left and right and forward.#a/DET person/NOUN kick/VERB left/VERB and/CCONJ right/INTJ and/CCONJ forward/ADV#0.0#0.0

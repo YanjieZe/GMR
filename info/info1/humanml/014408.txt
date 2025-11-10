@@ -1,0 +1,3 @@
+a perosn waves their hands around in the air while they rotate clockwise.#a/DET perosn/NOUN wave/VERB their/DET hand/NOUN around/ADV in/ADP the/DET air/NOUN while/SCONJ they/PRON rotate/VERB clockwise/NOUN#0.0#0.0
+a person is being active with their arms while turning around.#a/DET person/NOUN is/AUX being/AUX active/ADJ with/ADP their/DET arm/NOUN while/SCONJ turn/VERB around/ADV#0.0#0.0
+a person is waving around both arms.#a/DET person/NOUN is/AUX wave/VERB around/ADP both/DET arm/NOUN#0.0#0.0

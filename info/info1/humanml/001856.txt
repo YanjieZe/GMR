@@ -1,0 +1,3 @@
+the person goes from a standing position, to a seated position with the end of the legs facing right.#the/DET person/NOUN go/VERB from/ADP a/DET stand/VERB position/NOUN to/ADP a/DET seated/ADJ position/NOUN with/ADP the/DET end/NOUN of/ADP the/DET leg/NOUN face/VERB right/ADV#0.0#0.0
+a person shakingly goes to a sitting position.#a/DET person/NOUN shakingly/ADV go/VERB to/ADP a/DET sit/VERB position/NOUN#0.0#0.0
+a man sits down from standing.#a/DET man/NOUN sit/VERB down/ADP from/ADP standing/NOUN#0.0#0.0

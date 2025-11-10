@@ -1,0 +1,3 @@
+the man is moving his body and hands around#the/DET man/NOUN is/AUX move/VERB his/DET body/NOUN and/CCONJ hand/NOUN around/ADV#0.0#0.0
+the toon has both hands clasped together as to be stretching before spinning and then resting with both arms down.#the/DET toon/NOUN has/AUX both/DET hand/NOUN clasp/VERB together/ADV as/SCONJ to/PART be/AUX stretch/VERB before/ADP spinning/NOUN and/CCONJ then/ADV rest/VERB with/ADP both/DET arm/NOUN down/ADP#0.0#9.0
+a person raised right and left hand  and after made a cicrle#a/DET person/NOUN raise/VERB right/ADJ and/CCONJ left/VERB hand/NOUN and/CCONJ after/ADP make/VERB a/DET cicrle/NOUN#0.0#9.0

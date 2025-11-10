@@ -1,0 +1,3 @@
+the person lifts their hands and squats, then returns to their original postion and repeats that set of motions.#the/DET person/NOUN lift/VERB their/DET hand/NOUN and/CCONJ squat/NOUN then/ADV return/VERB to/ADP their/DET original/ADJ postion/NOUN and/CCONJ repeat/NOUN that/DET set/NOUN of/ADP motion/NOUN#0.0#0.0
+a person is lifting weights.#a/DET person/NOUN is/AUX lift/VERB weight/NOUN#0.0#0.0
+a person raises their arms and bends their knees, then repeats this in an exercise#a/DET person/NOUN raise/VERB their/DET arm/NOUN and/CCONJ bend/VERB their/DET knee/NOUN then/ADV repeat/VERB this/DET in/ADP an/DET exercise/NOUN#0.0#0.0

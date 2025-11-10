@@ -1,0 +1,3 @@
+person doing the chicken dance by holding their hands to their armpit and flapping#person/NOUN do/VERB the/DET chicken/NOUN dance/NOUN by/ADP hold/VERB their/DET hand/NOUN to/ADP their/DET armpit/NOUN and/CCONJ flapping/NOUN#0.0#0.0
+a person is flapping his arms.#a/DET person/NOUN is/AUX flap/VERB his/DET arm/NOUN#0.0#0.0
+a person flaps their elbows.#a/DET person/NOUN flap/VERB their/DET elbow/NOUN#0.0#0.0

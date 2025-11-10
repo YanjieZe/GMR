@@ -1,0 +1,3 @@
+a figure walks forward slowly and clasps its hands together#a/DET figure/NOUN walk/VERB forward/ADV slowly/ADV and/CCONJ clasp/VERB its/DET hand/NOUN together/ADV#0.0#0.0
+a person walks forward and holds their hands together in front of them.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ hold/VERB their/DET hand/NOUN together/ADV in/ADP front/NOUN of/ADP them/PRON#0.0#0.0
+person is walking forward slowly#person/NOUN is/AUX walk/VERB forward/ADV slowly/ADV#0.0#0.0

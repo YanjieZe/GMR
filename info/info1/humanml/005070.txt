@@ -1,0 +1,3 @@
+person opens something and takes a drink.#person/NOUN open/VERB something/PRON and/CCONJ take/VERB a/DET drink/NOUN#0.0#0.0
+a person pick up  bottle/can  open and drink from left hand.#a/DET person/NOUN pick/VERB up/ADP bottle/NOUN can/VERB open/VERB and/CCONJ drink/VERB from/ADP left/ADJ hand/NOUN#0.0#0.0
+a person opens and drinks from a container of sorts#a/DET person/NOUN open/VERB and/CCONJ drink/VERB from/ADP a/DET container/NOUN of/ADP sort/NOUN#0.0#0.0

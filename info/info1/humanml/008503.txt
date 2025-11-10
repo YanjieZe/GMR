@@ -1,0 +1,3 @@
+a man pours something with his right hand.#a/DET man/NOUN pour/VERB something/PRON with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+a person grabbed something and shake it#a/DET person/NOUN grab/VERB something/PRON and/CCONJ shake/VERB it/PRON#0.0#0.0
+bending down then moving hand in a circular. motion.#bend/VERB down/ADV then/ADV move/VERB hand/NOUN in/ADP a/DET circular/ADJ motion/NOUN#0.0#0.0

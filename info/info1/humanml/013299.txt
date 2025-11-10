@@ -1,0 +1,3 @@
+this person quickly raises both hands to face and lowers them.#this/DET person/NOUN quickly/ADV raise/VERB both/DET hand/NOUN to/PART face/VERB and/CCONJ lower/VERB them/PRON#0.0#0.0
+a person bounces on his feet and raises both hands in front of his face#a/DET person/NOUN bounce/VERB on/ADP his/DET foot/NOUN and/CCONJ raise/VERB both/DET hand/NOUN in/ADP front/NOUN of/ADP his/DET face/NOUN#0.0#0.0
+a man brings his arms up to head level in front of him and crouches slightly, before returning to a standing position.#a/DET man/NOUN bring/VERB his/DET arm/NOUN up/ADV to/PART head/VERB level/NOUN in/ADP front/NOUN of/ADP him/PRON and/CCONJ crouch/NOUN slightly/ADV before/ADP return/VERB to/ADP a/DET standing/ADJ position/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+this person is stretching with left arm raised high.#this/DET person/NOUN is/AUX stretch/VERB with/ADP left/ADJ arm/NOUN raise/VERB high/ADJ#0.0#0.0
+a person with their left hand strait in the air tilts left and right quickly#a/DET person/NOUN with/ADP their/DET left/ADJ hand/NOUN strait/NOUN in/ADP the/DET air/NOUN tilt/NOUN left/VERB and/CCONJ right/ADV quickly/ADV#0.0#0.0
+the person is warming up for a workout#the/DET person/NOUN is/AUX warm/VERB up/ADP for/ADP a/DET workout/NOUN#0.0#0.0

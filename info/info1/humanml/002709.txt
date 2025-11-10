@@ -1,0 +1,3 @@
+a person walking over to sit down.#a/DET person/NOUN walk/VERB over/ADP to/PART sit/VERB down/ADP#0.0#0.0
+a person walking and their turning their backside, to sit down on a higher surface.#a/DET person/NOUN walk/VERB and/CCONJ their/DET turn/VERB their/DET backside/NOUN to/PART sit/VERB down/ADP on/ADP a/DET higher/ADJ surface/NOUN#4.0#9.0
+person is waving hands up and around then walks down to sit.#person/NOUN is/AUX wave/VERB hand/NOUN up/ADV and/CCONJ around/ADV then/ADV walk/VERB down/ADP to/PART sit/VERB#0.0#0.0

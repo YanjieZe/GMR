@@ -1,0 +1,3 @@
+a person raised hands and slowly walked forward#a/DET person/NOUN raise/VERB hand/NOUN and/CCONJ slowly/ADV walk/VERB forward/ADV#0.0#0.0
+the person walks down the ramp with their hands raised above their head. at the end, they spread their legs out and lower their hands.#the/DET person/NOUN walk/VERB down/ADP the/DET ramp/NOUN with/ADP their/DET hand/NOUN raise/VERB above/ADP their/DET head/NOUN at/ADP the/DET end/NOUN they/PRON spread/VERB their/DET leg/NOUN out/ADP and/CCONJ lower/VERB their/DET hand/NOUN#0.0#0.0
+a person walks forward while both his arms are all the way up#a/DET person/NOUN walk/VERB forward/ADV while/SCONJ both/CCONJ his/DET arm/NOUN are/AUX all/DET the/DET way/NOUN up/ADP#0.0#0.0

@@ -1,0 +1,3 @@
+someone is doing jumping jacks#someone/PRON is/AUX do/VERB jump/VERB jack/NOUN#0.0#0.0
+a person does standard jumping jacks, coordinating arms and legs in three jumps.#a/DET person/NOUN does/AUX standard/ADJ jump/VERB jack/NOUN coordinate/VERB arm/NOUN and/CCONJ leg/NOUN in/ADP three/NUM jump/NOUN#0.0#0.0
+a person is doing jumping jacks.#a/DET person/NOUN is/AUX do/VERB jump/VERB jack/NOUN#0.0#0.0

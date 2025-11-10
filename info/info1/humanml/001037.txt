@@ -1,0 +1,3 @@
+a person kneeling down to a quick crawl, before jumping back up swiftly.#a/DET person/NOUN kneel/VERB down/ADP to/ADP a/DET quick/ADJ crawl/NOUN before/ADP jump/VERB back/ADV up/ADP swiftly/ADV#0.0#0.0
+a man crawls forward and then jumps up.#a/DET man/NOUN crawl/VERB forward/ADV and/CCONJ then/ADV jump/VERB up/ADP#0.0#0.0
+someone gets down on his knees, crawls forward, and stands up.#someone/PRON get/VERB down/ADP on/ADP his/DET knee/NOUN crawl/VERB forward/ADV and/CCONJ stand/VERB up/ADP#0.0#0.0

@@ -1,0 +1,3 @@
+a person waves their hands out in front of them.#a/DET person/NOUN wave/VERB their/DET hand/NOUN out/ADP in/ADP front/NOUN of/ADP them/PRON#0.0#0.0
+a person beats a drum.#a/DET person/NOUN beat/VERB a/DET drum/NOUN#0.0#0.0
+a person moves their hands up and down as if tapping on a countertop.#a/DET person/NOUN move/VERB their/DET hand/NOUN up/ADV and/CCONJ down/ADP as/SCONJ if/SCONJ tap/VERB on/ADP a/DET countertop/NOUN#0.0#0.0

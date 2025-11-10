@@ -1,0 +1,3 @@
+a man swing his right arm in a slapping motion.#a/DET man/NOUN swe/VERB his/DET right/ADJ arm/NOUN in/ADP a/DET slapping/NOUN motion/NOUN#0.0#0.0
+the man slaps something with his right hand.#the/DET man/NOUN slap/VERB something/PRON with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+a man hits an object with his right hand.#a/DET man/NOUN hit/VERB an/DET object/NOUN with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0

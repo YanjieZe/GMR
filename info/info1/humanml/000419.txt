@@ -1,0 +1,3 @@
+a person lowers their hands then waves and waves again then waves in a wider motion.#a/DET person/NOUN lower/VERB their/DET hand/NOUN then/ADV wave/VERB and/CCONJ wave/NOUN again/ADV then/ADV wave/VERB in/ADP a/DET wider/ADJ motion/NOUN#0.0#0.0
+a person waves their right hand twice, quickly with a small range of motion before waving a third time, with a bigger range of motion.#a/DET person/NOUN wave/VERB their/DET right/ADJ hand/NOUN twice/ADV quickly/ADV with/ADP a/DET small/ADJ range/NOUN of/ADP motion/NOUN before/ADP wave/VERB a/DET third/ADJ time/NOUN with/ADP a/DET bigger/ADJ range/NOUN of/ADP motion/NOUN#0.0#0.0
+person uses their right arm to wave#person/NOUN use/VERB their/DET right/ADJ arm/NOUN to/PART wave/VERB#0.0#0.0

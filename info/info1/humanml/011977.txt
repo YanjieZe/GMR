@@ -1,0 +1,2 @@
+a person saunters forward and then stands with their legs spread apart.#a/DET person/NOUN saunter/VERB forward/ADV and/CCONJ then/ADV stand/VERB with/ADP their/DET leg/NOUN spread/VERB apart/ADV#0.0#0.0
+a person walks to the right taking a diagonal path.#a/DET person/NOUN walk/VERB to/ADP the/DET right/NOUN take/VERB a/DET diagonal/ADJ path/NOUN#0.0#0.0

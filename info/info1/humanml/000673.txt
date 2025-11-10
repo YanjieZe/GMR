@@ -1,0 +1,3 @@
+a person step forward with left foot then places left then right hand on the ground and does a cartwheel.#a/DET person/NOUN step/NOUN forward/ADV with/ADP left/ADJ foot/NOUN then/ADV place/NOUN left/VERB then/ADV right/ADJ hand/NOUN on/ADP the/DET ground/NOUN and/CCONJ does/AUX a/DET cartwheel/NOUN#0.0#0.0
+a person does a cart wheel.#a/DET person/NOUN does/AUX a/DET cart/NOUN wheel/NOUN#0.0#0.0
+person is doing some cartwheel.#person/NOUN is/AUX do/VERB some/DET cartwheel/NOUN#0.0#0.0

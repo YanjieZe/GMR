@@ -1,0 +1,3 @@
+a person walks forward a few paces without moving their arms.#a/DET person/NOUN walk/VERB forward/ADV a/DET few/ADJ pace/NOUN without/ADP move/VERB their/DET arm/NOUN#0.0#0.0
+he walks fast forward directly#he/PRON walk/VERB fast/ADJ forward/ADV directly/ADV#0.0#0.0
+a person is walking and stops.#a/DET person/NOUN is/AUX walk/VERB and/CCONJ stop/NOUN#0.0#0.0

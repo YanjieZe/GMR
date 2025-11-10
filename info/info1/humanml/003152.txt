@@ -1,0 +1,3 @@
+a man stands on the ground and turns left and then to the  right repeatedly.#a/DET man/NOUN stand/VERB on/ADP the/DET ground/NOUN and/CCONJ turn/VERB left/VERB and/CCONJ then/ADV to/ADP the/DET right/ADV repeatedly/ADV#0.0#0.0
+a person continuously looks over both shoulders#a/DET person/NOUN continuously/ADV look/VERB over/ADP both/DET shoulder/NOUN#0.0#0.0
+a person looks to their left, then to their right, then back a little farther to the left while slightly twisting.#a/DET person/NOUN look/VERB to/ADP their/DET left/NOUN then/ADV to/ADP their/DET right/NOUN then/ADV back/VERB a/DET little/ADJ farther/ADV to/ADP the/DET left/ADJ while/SCONJ slightly/ADV twist/VERB#0.0#0.0

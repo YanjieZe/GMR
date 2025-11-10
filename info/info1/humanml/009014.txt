@@ -1,0 +1,3 @@
+a persons squats up and down with their hands out in front of them.#a/DET person/NOUN squat/VERB up/ADV and/CCONJ down/ADV with/ADP their/DET hand/NOUN out/ADP in/ADP front/NOUN of/ADP them/PRON#0.0#0.0
+a person does four squats with arms out in front.#a/DET person/NOUN does/AUX four/NUM squat/NOUN with/ADP arm/NOUN out/ADV in/ADP front/NOUN#0.0#0.0
+a person holds their hands out while they do squats, and then stands back up when their finished.#a/DET person/NOUN hold/VERB their/DET hand/NOUN out/ADP while/SCONJ they/PRON do/AUX squat/NOUN and/CCONJ then/ADV stand/VERB back/ADV up/ADV when/ADV their/DET finish/VERB#0.0#0.0

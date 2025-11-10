@@ -1,0 +1,3 @@
+person has their hand on their head while moving around in random directions. appears to be fatigued and sick#person/NOUN has/AUX their/DET hand/NOUN on/ADP their/DET head/NOUN while/SCONJ move/VERB around/ADV in/ADP random/ADJ direction/NOUN appear/VERB to/PART be/AUX fatigued/ADJ and/CCONJ sick/ADJ#0.0#0.0
+a person staggers while walking forward, holding their right arm forward with their hand holding something#a/DET person/NOUN stagger/VERB while/SCONJ walk/VERB forward/ADV hold/VERB their/DET right/ADJ arm/NOUN forward/ADV with/ADP their/DET hand/NOUN hold/VERB something/PRON#0.0#0.0
+the person is on the phone i think.#the/DET person/NOUN is/AUX on/ADP the/DET phone/NOUN i/PRON think/VERB#0.0#0.0

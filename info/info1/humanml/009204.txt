@@ -1,0 +1,3 @@
+a person walks forward and turns left to go back.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ turn/VERB left/VERB to/PART go/VERB back/ADV#0.0#0.0
+a person takes two steps, swivels on the second step, and then takes three steps in the opposite direction.#a/DET person/NOUN take/VERB two/NUM step/NOUN swivel/VERB on/ADP the/DET second/ADJ step/NOUN and/CCONJ then/ADV take/VERB three/NUM step/NOUN in/ADP the/DET opposite/ADJ direction/NOUN#0.0#0.0
+a person steps forward and makes a spin turn pivoting on left leg, and walks back.#a/DET person/NOUN step/VERB forward/ADV and/CCONJ make/VERB a/DET spin/NOUN turn/NOUN pivot/VERB on/ADP left/ADJ leg/NOUN and/CCONJ walk/VERB back/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person spins quickly and takes off running.#a/DET person/NOUN spin/VERB quickly/ADV and/CCONJ take/VERB off/ADP run/VERB#0.0#0.0
+a man spins once and then runs in the opposite direction.#a/DET man/NOUN spin/VERB once/ADV and/CCONJ then/ADV run/VERB in/ADP the/DET opposite/ADJ direction/NOUN#0.0#0.0
+a person turns to the right while making forward progress then begins running forward.#a/DET person/NOUN turn/VERB to/ADP the/DET right/NOUN while/SCONJ make/VERB forward/ADP progress/NOUN then/ADV begin/VERB run/VERB forward/ADV#0.0#0.0

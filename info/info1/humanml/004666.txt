@@ -1,0 +1,3 @@
+the person does jumping jacks.#the/DET person/NOUN does/AUX jump/VERB jack/NOUN#0.0#0.0
+a person doing jumping jacks.#a/DET person/NOUN do/VERB jump/VERB jack/NOUN#0.0#0.0
+a figure performing 2 star jumps#a/DET figure/NOUN perform/VERB star/NOUN jump/NOUN#0.0#0.0

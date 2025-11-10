@@ -1,0 +1,3 @@
+a person sits down then uses left arm to push up.#a/DET person/NOUN sit/VERB down/ADP then/ADV use/VERB left/VERB arm/NOUN to/PART push/VERB up/ADP#0.0#0.0
+a person sat down on the floor, with crossing legs, and after stand up#a/DET person/NOUN sit/VERB down/ADP on/ADP the/DET floor/NOUN with/ADP cross/VERB leg/NOUN and/CCONJ after/ADP stand/VERB up/ADP#0.0#0.0
+a person sits down on the ground in lotus position then gets back up.#a/DET person/NOUN sit/VERB down/ADP on/ADP the/DET ground/NOUN in/ADP lotus/PROPN position/NOUN then/ADV get/VERB back/ADV up/ADV#0.0#0.0

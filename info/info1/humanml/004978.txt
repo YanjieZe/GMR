@@ -1,0 +1,3 @@
+person taking two steps before hesitating to step over object#person/NOUN take/VERB two/NUM step/NOUN before/ADP hesitating/NOUN to/PART step/VERB over/ADP object/NOUN#0.0#0.0
+person walks forward with slow and halting gait#person/NOUN walk/VERB forward/ADV with/ADP slow/ADJ and/CCONJ halting/ADJ gait/NOUN#0.0#0.0
+a man walks forward slowly.#a/DET man/NOUN walk/VERB forward/ADV slowly/ADV#0.0#0.0

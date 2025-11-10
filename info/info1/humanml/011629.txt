@@ -1,0 +1,3 @@
+a person bends over and picks an object up with both hands and stands up straight.#a/DET person/NOUN bend/VERB over/ADP and/CCONJ pick/VERB an/DET object/NOUN up/ADP with/ADP both/DET hand/NOUN and/CCONJ stand/VERB up/ADP straight/ADV#0.0#0.0
+person bends down forward and picks up something large with both hands#person/NOUN bend/VERB down/ADP forward/ADV and/CCONJ pick/VERB up/ADP something/PRON large/ADJ with/ADP both/DET hand/NOUN#0.0#0.0
+person bent over to the front.#person/NOUN bent/ADJ over/ADP to/ADP the/DET front/NOUN#0.0#0.0

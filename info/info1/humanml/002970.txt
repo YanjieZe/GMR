@@ -1,0 +1,3 @@
+a person raising arms to face and thrusting outwards.#a/DET person/NOUN raise/VERB arm/NOUN to/PART face/VERB and/CCONJ thrust/VERB outward/NOUN#0.0#0.0
+a person puts their hands over what looks like their face, and scares someone or something#a/DET person/NOUN put/VERB their/DET hand/NOUN over/ADP what/PRON look/VERB like/SCONJ their/DET face/NOUN and/CCONJ scare/VERB someone/PRON or/CCONJ something/PRON#0.0#0.0
+a person raising hands like in an innocent way.#a/DET person/NOUN raise/VERB hand/NOUN like/INTJ in/ADP an/DET innocent/ADJ way/NOUN#0.0#0.0

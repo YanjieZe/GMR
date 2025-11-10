@@ -1,0 +1,3 @@
+walking forward with both hands swinging#walk/VERB forward/ADV with/ADP both/DET hand/NOUN swinge/VERB#2.0#2.0
+a person walks down a ramp, then stops.#a/DET person/NOUN walk/VERB down/ADP a/DET ramp/NOUN then/ADV stop/VERB#0.0#0.0
+a person walks forward at a brisk pace.#a/DET person/NOUN walk/VERB forward/ADV at/ADP a/DET brisk/ADJ pace/NOUN#0.0#0.0

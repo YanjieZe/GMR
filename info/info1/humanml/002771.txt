@@ -1,0 +1,3 @@
+a person with arms above the head, raises them even further.#a/DET person/NOUN with/ADP arm/NOUN above/ADP the/DET head/NOUN raise/VERB them/PRON even/ADV further/ADV#0.0#0.0
+figure extends arms into the air and throws them in a victorious manner.#figure/NOUN extend/VERB arm/NOUN into/ADP the/DET air/NOUN and/CCONJ throw/VERB them/PRON in/ADP a/DET victorious/ADJ manner/NOUN#0.0#0.0
+a person standing and lifting their arms above head.#a/DET person/NOUN stand/VERB and/CCONJ lift/VERB their/DET arm/NOUN above/ADP head/NOUN#0.0#0.0

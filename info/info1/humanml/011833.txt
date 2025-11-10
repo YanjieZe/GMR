@@ -1,0 +1,3 @@
+a person jumps then is pushed to the left#a/DET person/NOUN jump/VERB then/ADV is/AUX push/VERB to/ADP the/DET left/NOUN#0.0#0.0
+a person standing still makes a small jump, then trots their feet sideways to the left#a/DET person/NOUN stand/VERB still/ADV make/VERB a/DET small/ADJ jump/NOUN then/ADV trot/VERB their/DET foot/NOUN sideways/ADV to/ADP the/DET left/NOUN#0.0#0.0
+a person hops in place bringing their hands in front of their chest and then hops away to their left.#a/DET person/NOUN hop/VERB in/ADP place/NOUN bring/VERB their/DET hand/NOUN in/ADP front/NOUN of/ADP their/DET chest/NOUN and/CCONJ then/ADV hop/VERB away/ADV to/ADP their/DET left/NOUN#0.0#0.0

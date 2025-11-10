@@ -1,0 +1,3 @@
+a person is walking upstairs.#a/DET person/NOUN is/AUX walk/VERB upstairs/ADV#0.0#0.0
+a person walks up a few steps then stops#a/DET person/NOUN walk/VERB up/ADP a/DET few/ADJ step/NOUN then/ADV stop/VERB#0.0#0.0
+a person walks up steps#a/DET person/NOUN walk/VERB up/ADP step/NOUN#0.0#0.0

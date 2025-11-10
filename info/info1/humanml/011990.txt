@@ -1,0 +1,3 @@
+a person who stood in a t pose ; then pours something down#a/DET person/NOUN who/PRON stand/VERB in/ADP a/DET t/NOUN pose/NOUN then/ADV pour/VERB something/PRON down/ADV#0.0#0.0
+a person is wiping something down with their right hand, then left.#a/DET person/NOUN is/AUX wipe/VERB something/PRON down/ADP with/ADP their/DET right/ADJ hand/NOUN then/ADV left/VERB#0.0#0.0
+a person lowers their arms, then makes several motions with the right arm followed by motions with the left arm.#a/DET person/NOUN lower/VERB their/DET arm/NOUN then/ADV make/VERB several/ADJ motion/NOUN with/ADP the/DET right/ADJ arm/NOUN follow/VERB by/ADP motion/NOUN with/ADP the/DET left/ADJ arm/NOUN#0.0#0.0

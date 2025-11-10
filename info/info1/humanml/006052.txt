@@ -1,0 +1,3 @@
+a person is crouched and brings both hands together then seperates them again#a/DET person/NOUN is/AUX crouch/VERB and/CCONJ bring/VERB both/DET hand/NOUN together/ADV then/ADV seperate/VERB them/PRON again/ADV#0.0#0.0
+the persoj brings their hands inward and downward and then moves them back to their starting positions.#the/DET persoj/NOUN bring/VERB their/DET hand/NOUN inward/ADV and/CCONJ downward/ADV and/CCONJ then/ADV move/VERB them/PRON back/ADV to/ADP their/DET start/VERB position/NOUN#0.0#0.0
+person is sitting down with hand hanging in the center#person/NOUN is/AUX sit/VERB down/ADP with/ADP hand/NOUN hang/VERB in/ADP the/DET center/NOUN#0.0#0.0

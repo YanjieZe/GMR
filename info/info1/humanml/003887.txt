@@ -1,0 +1,3 @@
+a person is shoved forward and recovers.#a/DET person/NOUN is/AUX shove/VERB forward/ADV and/CCONJ recover/NOUN#0.0#0.0
+a person clumsily takes a few steps.#a/DET person/NOUN clumsily/ADV take/VERB a/DET few/ADJ step/NOUN#0.0#0.0
+a person is walking and eventually slows their steps.#a/DET person/NOUN is/AUX walk/VERB and/CCONJ eventually/ADV slow/VERB their/DET step/NOUN#0.0#0.0

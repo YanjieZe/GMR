@@ -1,0 +1,3 @@
+a man slowly walks forward with his left hand on the railing.#a/DET man/NOUN slowly/ADV walk/VERB forward/ADV with/ADP his/DET left/ADJ hand/NOUN on/ADP the/DET railing/NOUN#0.0#0.0
+a person carefully walking downstairs.#a/DET person/NOUN carefully/ADV walk/VERB downstairs/ADV#0.0#0.0
+person is walking down stairs#person/NOUN is/AUX walk/VERB down/ADP stair/NOUN#0.0#0.0

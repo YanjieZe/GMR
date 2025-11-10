@@ -1,0 +1,3 @@
+a person holding both forearms up, then hits his right forearm with their left hand and then continues holding both forearms up.#a/DET person/NOUN hold/VERB both/DET forearm/NOUN up/ADP then/ADV hit/VERB his/DET right/ADJ forearm/NOUN with/ADP their/DET left/ADJ hand/NOUN and/CCONJ then/ADV continue/VERB hold/VERB both/DET forearm/NOUN up/ADP#0.0#0.0
+the person is swatting at a mosquito on his wrist.#the/DET person/NOUN is/AUX swat/VERB at/ADP a/DET mosquito/NOUN on/ADP his/DET wrist/NOUN#0.0#0.0
+am man swats at a spider crwaling on his arm.#am/AUX man/NOUN swat/NOUN at/ADP a/DET spider/NOUN crwale/VERB on/ADP his/DET arm/NOUN#0.0#0.0

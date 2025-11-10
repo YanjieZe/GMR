@@ -1,0 +1,3 @@
+a person walks in a straight line, before taking a left turn and walking straight back, repeated several times.#a/DET person/NOUN walk/VERB in/ADP a/DET straight/ADJ line/NOUN before/ADP take/VERB a/DET left/ADJ turn/NOUN and/CCONJ walk/VERB straight/ADV back/ADV repeat/VERB several/ADJ time/NOUN#0.0#0.0
+a person walks forward puts something on a shelf, walks back, picks up something else and then puts in on the same shelf.#a/DET person/NOUN walk/VERB forward/ADV put/VERB something/PRON on/ADP a/DET shelf/NOUN walk/VERB back/ADV pick/VERB up/ADP something/PRON else/ADV and/CCONJ then/ADV put/VERB in/ADP on/ADP the/DET same/ADJ shelf/NOUN#0.0#0.0
+a person walks back and forth#a/DET person/NOUN walk/VERB back/ADV and/CCONJ forth/ADV#0.0#0.0

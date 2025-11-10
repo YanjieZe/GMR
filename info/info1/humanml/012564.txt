@@ -1,0 +1,3 @@
+a person raised the hands and after sit down on somewhere#a/DET person/NOUN raise/VERB the/DET hand/NOUN and/CCONJ after/ADP sit/VERB down/ADP on/ADP somewhere/ADV#0.0#0.0
+man starts with hands stretched out sideways by his shoulders, lifts them down, then claps his hands together, then walks and sits down#man/NOUN start/VERB with/ADP hand/NOUN stretch/VERB out/ADP sideways/ADV by/ADP his/DET shoulder/NOUN lift/VERB them/PRON down/ADP then/ADV clap/VERB his/DET hand/NOUN together/ADV then/ADV walk/VERB and/CCONJ sit/VERB down/ADP#0.0#0.0
+moving arms then walking and sitting down.#move/VERB arm/NOUN then/ADV walk/VERB and/CCONJ sit/VERB down/ADP#0.0#0.0

@@ -1,0 +1,3 @@
+a man steps forward and then raises his arms in up.#a/DET man/NOUN step/VERB forward/ADV and/CCONJ then/ADV raise/VERB his/DET arm/NOUN in/ADP up/ADV#0.0#0.0
+a person takes a step forward then raises both hands in the air.#a/DET person/NOUN take/VERB a/DET step/NOUN forward/ADV then/ADV raise/VERB both/DET hand/NOUN in/ADP the/DET air/NOUN#0.0#0.0
+a man takes a step leaning to right and raises his arms.#a/DET man/NOUN take/VERB a/DET step/NOUN lean/VERB to/ADP right/NOUN and/CCONJ raise/VERB his/DET arm/NOUN#0.0#0.0

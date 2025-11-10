@@ -1,0 +1,3 @@
+wipes down a counter with his right hand#wipe/NOUN down/ADP a/DET counter/NOUN with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+a person seems to be doing circles with his left hand#a/DET person/NOUN seem/VERB to/PART be/AUX do/VERB circle/NOUN with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0
+a man uses his left hand to stir something.#a/DET man/NOUN use/VERB his/DET left/ADJ hand/NOUN to/PART stir/VERB something/PRON#0.0#0.0

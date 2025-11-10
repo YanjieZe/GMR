@@ -1,0 +1,3 @@
+a person walking side by side very carefully as if trying to steal#a/DET person/NOUN walk/VERB side/NOUN by/ADP side/NOUN very/ADV carefully/ADV as/SCONJ if/SCONJ try/VERB to/PART steal/VERB#0.0#0.0
+a person is walking stealthily, looking all around them while doing so, and slowly shuffles past an object.#a/DET person/NOUN is/AUX walk/VERB stealthily/ADV look/VERB all/ADV around/ADP them/PRON while/SCONJ do/VERB so/ADV and/CCONJ slowly/ADV shuffle/NOUN past/ADP an/DET object/NOUN#0.0#0.0
+person is walking forward like a stealth.#person/NOUN is/AUX walk/VERB forward/ADV like/SCONJ a/DET stealth/NOUN#0.0#0.0

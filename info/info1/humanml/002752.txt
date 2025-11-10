@@ -1,0 +1,3 @@
+the person is putting hands on hips.#the/DET person/NOUN is/AUX put/VERB hand/NOUN on/ADP hip/NOUN#0.0#0.0
+a person looks at something then puts their hands on their hips.#a/DET person/NOUN look/VERB at/ADP something/PRON then/ADV put/VERB their/DET hand/NOUN on/ADP their/DET hip/NOUN#0.0#0.0
+a person has both arms tucked to his side and then puts them on his hips.#a/DET person/NOUN has/AUX both/CCONJ arm/NOUN tuck/VERB to/ADP his/DET side/NOUN and/CCONJ then/ADV put/VERB them/PRON on/ADP his/DET hip/NOUN#0.0#0.0

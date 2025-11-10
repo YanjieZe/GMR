@@ -1,0 +1,3 @@
+the person is walking over to do a forehand throw.#the/DET person/NOUN is/AUX walk/VERB over/ADP to/PART do/AUX a/DET forehand/NOUN throw/NOUN#0.0#0.0
+walking backwards then forwards while swinging arms.#walk/VERB backwards/ADV then/ADV forwards/ADV while/SCONJ swinge/VERB arm/NOUN#0.0#0.0
+a man is recoiling to throw a ball at speed. then turns back, picks up another ball and throws it hard.#a/DET man/NOUN is/AUX recoil/VERB to/PART throw/VERB a/DET ball/NOUN at/ADP speed/NOUN then/ADV turn/VERB back/ADV pick/VERB up/ADP another/DET ball/NOUN and/CCONJ throw/VERB it/PRON hard/ADV#0.0#0.0

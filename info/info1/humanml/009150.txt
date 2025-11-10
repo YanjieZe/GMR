@@ -1,0 +1,3 @@
+the person is putting something in a mixing bowl.#the/DET person/NOUN is/AUX put/VERB something/PRON in/ADP a/DET mix/VERB bowl/NOUN#0.0#0.0
+a person aproaches and then opens something#a/DET person/NOUN aproache/VERB and/CCONJ then/ADV open/VERB something/PRON#0.0#0.0
+a person steps forward and picks something up with his left hand, before stepping back and holding his arms out to his sides.#a/DET person/NOUN step/VERB forward/ADV and/CCONJ pick/VERB something/PRON up/ADP with/ADP his/DET left/ADJ hand/NOUN before/ADP step/VERB back/ADV and/CCONJ hold/VERB his/DET arm/NOUN out/SCONJ to/ADP his/DET side/NOUN#0.0#0.0

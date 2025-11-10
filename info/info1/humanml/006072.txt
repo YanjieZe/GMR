@@ -1,0 +1,3 @@
+a person sits down and leans back.#a/DET person/NOUN sit/VERB down/ADV and/CCONJ lean/VERB back/ADV#0.0#0.0
+a person lowers to sitting position.#a/DET person/NOUN lower/VERB to/ADP sit/VERB position/NOUN#0.0#0.0
+a person squats into a deep seat of some kind.#a/DET person/NOUN squat/VERB into/ADP a/DET deep/ADJ seat/NOUN of/ADP some/DET kind/NOUN#0.0#0.0

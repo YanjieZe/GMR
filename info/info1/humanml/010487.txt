@@ -1,0 +1,3 @@
+a figure appears to smoke a cigarette#a/DET figure/NOUN appear/VERB to/PART smoke/VERB a/DET cigarette/NOUN#0.0#0.0
+person is drinking from a cup with his right hand.#person/NOUN is/AUX drink/VERB from/ADP a/DET cup/NOUN with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+a person lifts their right hand up to their head and drinks something, then lowers the hand back down.#a/DET person/NOUN lift/VERB their/DET right/ADJ hand/NOUN up/ADP to/ADP their/DET head/NOUN and/CCONJ drink/VERB something/PRON then/ADV lower/VERB the/DET hand/NOUN back/ADV down/ADV#0.0#0.0

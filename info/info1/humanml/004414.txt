@@ -1,0 +1,3 @@
+a man steps forward and then crosses his arms.#a/DET man/NOUN step/VERB forward/ADV and/CCONJ then/ADV cross/VERB his/DET arm/NOUN#0.0#0.0
+a person walks forward and moves their arms#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ move/VERB their/DET arm/NOUN#0.0#0.0
+person walks forward one step and uses the italian "f-u" hand sign to end up in a gangster stance#person/NOUN walk/VERB forward/ADV one/NUM step/NOUN and/CCONJ use/VERB the/DET italian/ADJ fu/NOUN hand/NOUN sign/NOUN to/PART end/VERB up/ADP in/ADP a/DET gangster/NOUN stance/NOUN#0.0#0.0

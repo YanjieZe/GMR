@@ -1,0 +1,3 @@
+a person stands and trying to hold balance.#a/DET person/NOUN stand/VERB and/CCONJ try/VERB to/PART hold/VERB balance/NOUN#0.0#0.0
+a person trying to strike a pose#a/DET person/NOUN try/VERB to/PART strike/VERB a/DET pose/NOUN#0.0#0.0
+a person is pushed and then stands still.#a/DET person/NOUN is/AUX push/VERB and/CCONJ then/ADV stand/VERB still/ADV#0.0#0.0

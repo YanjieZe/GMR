@@ -1,0 +1,3 @@
+a man takes a large single stride slightly out to the front and right, leading with his right leg.#a/DET man/NOUN take/VERB a/DET large/ADJ single/ADJ stride/NOUN slightly/ADV out/SCONJ to/ADP the/DET front/NOUN and/CCONJ right/ADJ lead/VERB with/ADP his/DET right/ADJ leg/NOUN#0.0#0.0
+a person steps down from an elevated place.#a/DET person/NOUN step/VERB down/ADP from/ADP an/DET elevated/ADJ place/NOUN#0.0#0.0
+person walks down one step moving slightly to their right#person/NOUN walk/VERB down/ADV one/NUM step/NOUN move/VERB slightly/ADV to/ADP their/DET right/NOUN#0.0#4.0

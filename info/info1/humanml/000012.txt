@@ -1,0 +1,4 @@
+a man stumbles to his right. the motion seems surprised so he was probably pushed.#a/DET man/NOUN stumble/VERB to/ADP his/DET right/NOUN the/DET motion/NOUN seem/VERB surprised/ADJ so/SCONJ he/PRON was/AUX probably/ADV push/VERB#0.0#0.0
+a person standing loses balance falling to the right and recovers standing#a/DET person/NOUN stand/VERB lose/VERB balance/NOUN fall/VERB to/ADP the/DET right/NOUN and/CCONJ recover/NOUN stand/VERB#0.0#0.0
+a person walks to the left.#a/DET person/NOUN walk/VERB to/ADP the/DET left/NOUN#1.0#4.0
+a person stumbles to the right and recovers their balance.#a/DET person/NOUN stumble/VERB to/ADP the/DET right/NOUN and/CCONJ recover/NOUN their/DET balance/NOUN#0.0#0.0

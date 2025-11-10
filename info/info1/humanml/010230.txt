@@ -1,0 +1,3 @@
+a man does a jump and falls to the ground face first.#a/DET man/NOUN does/AUX a/DET jump/NOUN and/CCONJ fall/VERB to/ADP the/DET ground/NOUN face/NOUN first/ADV#0.0#0.0
+a person jumping high and falling on his face#a/DET person/NOUN jump/VERB high/ADV and/CCONJ fall/VERB on/ADP his/DET face/NOUN#0.0#0.0
+a person aggresively jumps up and then falls flat on the ground.#a/DET person/NOUN aggresively/ADV jump/VERB up/ADP and/CCONJ then/ADV fall/VERB flat/ADJ on/ADP the/DET ground/NOUN#0.0#0.0

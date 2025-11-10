@@ -1,0 +1,3 @@
+a person takes a few steps forward, throws with the right arm, then a few steps back to the starting position.#a/DET person/NOUN take/VERB a/DET few/ADJ step/NOUN forward/ADV throw/NOUN with/ADP the/DET right/ADJ arm/NOUN then/ADV a/DET few/ADJ step/NOUN back/ADV to/ADP the/DET starting/NOUN position/NOUN#0.0#0.0
+a person throws something with their right hand while stepping forward with their left foot.#a/DET person/NOUN throw/VERB something/PRON with/ADP their/DET right/ADJ hand/NOUN while/SCONJ step/VERB forward/ADV with/ADP their/DET left/ADJ foot/NOUN#0.0#0.0
+a person throws something with their right hand.#a/DET person/NOUN throw/VERB something/PRON with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0

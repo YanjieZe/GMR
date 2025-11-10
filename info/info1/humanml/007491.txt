@@ -1,0 +1,3 @@
+a person is pacing round a room in circles#a/DET person/NOUN is/AUX pace/VERB round/ADP a/DET room/NOUN in/ADP circle/NOUN#0.0#0.0
+a figure paces in a wide circular path going clockwise#a/DET figure/NOUN pace/VERB in/ADP a/DET wide/ADJ circular/ADJ path/NOUN go/VERB clockwise/NOUN#0.0#0.0
+a person paces back and forth three times in short loops.#a/DET person/NOUN pace/VERB back/ADV and/CCONJ forth/ADV three/NUM time/NOUN in/ADP short/ADJ loop/NOUN#0.0#0.0

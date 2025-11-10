@@ -1,0 +1,3 @@
+the person is as arms out. like a muscle#the/DET person/NOUN is/AUX as/SCONJ arm/NOUN out/ADV like/SCONJ a/DET muscle/NOUN#0.0#0.0
+a person grabbed something with both hands#a/DET person/NOUN grab/VERB something/PRON with/ADP both/DET hand/NOUN#0.0#0.0
+a person is holding something apart with their hands.#a/DET person/NOUN is/AUX hold/VERB something/PRON apart/ADV with/ADP their/DET hand/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a man walks forward in a curved line.#a/DET man/NOUN walk/VERB forward/ADV in/ADP a/DET curved/ADJ line/NOUN#0.0#0.0
+a man walks in an s shape#a/DET man/NOUN walk/VERB in/ADP an/DET s/PROPN shape/NOUN#0.0#0.0
+a person walks in  a large s pattern.#a/DET person/NOUN walk/VERB in/ADP a/DET large/ADJ s/PART pattern/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a man runs forward without stopping.#a/DET man/NOUN run/VERB forward/ADV without/ADP stop/VERB#0.0#0.0
+a person runs forward at a medium pace with their arms held out from their sides.#a/DET person/NOUN run/VERB forward/ADV at/ADP a/DET medium/ADJ pace/NOUN with/ADP their/DET arm/NOUN hold/VERB out/ADP from/ADP their/DET side/NOUN#0.0#0.0
+a person runs forward in a straight line#a/DET person/NOUN run/VERB forward/ADV in/ADP a/DET straight/ADJ line/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+person is casually walking forward#person/NOUN is/AUX casually/ADV walk/VERB forward/ADV#0.0#0.0
+a person somewhat staggers while walking foreward.#a/DET person/NOUN somewhat/ADV stagger/NOUN while/SCONJ walk/VERB foreward/ADV#0.0#0.0
+the man walks forward lightly.#the/DET man/NOUN walk/VERB forward/ADV lightly/ADV#0.0#0.0

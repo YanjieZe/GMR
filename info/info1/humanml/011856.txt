@@ -1,0 +1,3 @@
+the person shakes their arms and shoulders#the/DET person/NOUN shake/VERB their/DET arm/NOUN and/CCONJ shoulder/NOUN#0.0#0.0
+a man is standing in place shaking arms.#a/DET man/NOUN is/AUX stand/VERB in/ADP place/NOUN shake/VERB arm/NOUN#0.0#0.0
+a person who is standing with his hands out from his sides shakes his hands vigorously.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP his/DET hand/NOUN out/ADP from/ADP his/DET side/NOUN shake/VERB his/DET hand/NOUN vigorously/ADV#0.0#0.0

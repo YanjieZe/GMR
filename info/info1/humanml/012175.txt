@@ -1,0 +1,3 @@
+a person stands still and moves their arms as if they were swimming.#a/DET person/NOUN stand/VERB still/ADV and/CCONJ move/VERB their/DET arm/NOUN as/SCONJ if/SCONJ they/PRON were/AUX swim/VERB#0.0#0.0
+this person is waving his arms in the air.#this/DET person/NOUN is/AUX wave/VERB his/DET arm/NOUN in/ADP the/DET air/NOUN#0.0#0.0
+a person who is standing with his arms at his sides lifts his arms and moves each one alternatively as if he is swimming.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP his/DET arm/NOUN at/ADP his/DET side/NOUN lift/VERB his/DET arm/NOUN and/CCONJ move/NOUN each/DET one/NOUN alternatively/ADV as/SCONJ if/SCONJ he/PRON is/AUX swim/VERB#0.0#0.0

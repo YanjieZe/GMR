@@ -1,0 +1,3 @@
+he jumps very high in the sky#he/PRON jump/VERB very/ADV high/ADJ in/ADP the/DET sky/NOUN#0.0#0.0
+a man makes a single jump forwards from a standing start, with his arms dangling loosely by his side.#a/DET man/NOUN make/VERB a/DET single/ADJ jump/NOUN forwards/ADV from/ADP a/DET standing/ADJ start/NOUN with/ADP his/DET arm/NOUN dangle/VERB loosely/ADV by/ADP his/DET side/NOUN#0.0#0.0
+a person jumps into the air.#a/DET person/NOUN jump/VERB into/ADP the/DET air/NOUN#0.0#0.0

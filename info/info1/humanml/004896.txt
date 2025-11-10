@@ -1,0 +1,3 @@
+a person shifts their hands together before picking up their leg and going into a throwing motion.#a/DET person/NOUN shift/VERB their/DET hand/NOUN together/ADV before/ADP pick/VERB up/ADP their/DET leg/NOUN and/CCONJ go/VERB into/ADP a/DET throwing/NOUN motion/NOUN#0.0#0.0
+the person looks like he’s drunk trying to hit someone.#the/DET person/NOUN look/VERB like/SCONJ he/PRON drunk/ADJ try/VERB to/PART hit/VERB someone/PRON#0.0#0.0
+a person, holding an object (maybe a ball), winds up and throws it.#a/DET person/NOUN hold/VERB an/DET object/NOUN maybe/ADV a/DET ball/NOUN wind/VERB up/ADP and/CCONJ throw/VERB it/PRON#0.0#0.0

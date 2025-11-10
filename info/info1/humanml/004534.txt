@@ -1,0 +1,3 @@
+a person sways from side to side.#a/DET person/NOUN sway/VERB from/ADP side/NOUN to/ADP side/NOUN#0.0#0.0
+holding his hands to the side, a man sways back and forth before raising his hands in the air, and finishes by lowering his arms and swaying back and forth.#hold/VERB his/DET hand/NOUN to/ADP the/DET side/NOUN a/DET man/NOUN sway/VERB back/ADV and/CCONJ forth/ADV before/ADP raise/VERB his/DET hand/NOUN in/ADP the/DET air/NOUN and/CCONJ finish/NOUN by/ADP lower/VERB his/DET arm/NOUN and/CCONJ sway/VERB back/ADV and/CCONJ forth/ADV#0.0#0.0
+a person moving around in a fashion resembling a possible dance routine.#a/DET person/NOUN move/VERB around/ADP in/ADP a/DET fashion/NOUN resemble/VERB a/DET possible/ADJ dance/NOUN routine/NOUN#0.0#0.0

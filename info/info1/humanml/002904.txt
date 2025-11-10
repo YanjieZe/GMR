@@ -1,0 +1,3 @@
+a man uses his right arm to unzip his pants#a/DET man/NOUN use/VERB his/DET right/ADJ arm/NOUN to/PART unzip/VERB his/DET pant/NOUN#0.0#0.0
+a person moves their right hand in a downward gesture.#a/DET person/NOUN move/VERB their/DET right/ADJ hand/NOUN in/ADP a/DET downward/ADJ gesture/NOUN#0.0#0.0
+a person undoes trousers with right hand.#a/DET person/NOUN undo/VERB trouser/NOUN with/ADP right/ADJ hand/NOUN#0.0#0.0

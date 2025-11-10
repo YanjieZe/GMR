@@ -1,0 +1,3 @@
+the man looks at his wrist.#the/DET man/NOUN look/VERB at/ADP his/DET wrist/NOUN#0.0#0.0
+a person raised the right hand#a/DET person/NOUN raise/VERB the/DET right/ADJ hand/NOUN#0.0#0.0
+a person acts like they are checking time on a watch.#a/DET person/NOUN act/VERB like/SCONJ they/PRON are/AUX check/VERB time/NOUN on/ADP a/DET watch/NOUN#0.0#0.0

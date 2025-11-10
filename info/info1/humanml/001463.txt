@@ -1,0 +1,3 @@
+a person walks briskly forward, swinging arms to his side.#a/DET person/NOUN walk/VERB briskly/ADV forward/ADV swinge/VERB arm/NOUN to/ADP his/DET side/NOUN#0.0#0.0
+a person is swinging their arms as they are walking forward.#a/DET person/NOUN is/AUX swinge/VERB their/DET arm/NOUN as/SCONJ they/PRON are/AUX walk/VERB forward/ADV#0.0#0.0
+a person walks straight with elegance.#a/DET person/NOUN walk/VERB straight/ADV with/ADP elegance/NOUN#0.0#0.0

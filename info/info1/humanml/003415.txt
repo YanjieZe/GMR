@@ -1,0 +1,3 @@
+a person slowly makes a circle with their right arm about the shoulder while walking.#a/DET person/NOUN slowly/ADV make/VERB a/DET circle/NOUN with/ADP their/DET right/ADJ arm/NOUN about/ADP the/DET shoulder/NOUN while/SCONJ walk/VERB#0.0#0.0
+a person is waling forward, while he reaised his right hand to forward direction#a/DET person/NOUN is/AUX wale/VERB forward/ADV while/SCONJ he/PRON reaise/VERB his/DET right/ADJ hand/NOUN to/ADP forward/ADV direction/NOUN#0.0#0.0
+a person high fives whilst walking forward.#a/DET person/NOUN high/ADJ five/NOUN whilst/SCONJ walk/VERB forward/ADV#0.0#0.0

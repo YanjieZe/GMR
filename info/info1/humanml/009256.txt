@@ -1,0 +1,3 @@
+person appears to lift something with right hand then with left hand.#person/NOUN appear/VERB to/PART lift/VERB something/PRON with/ADP right/ADJ hand/NOUN then/ADV with/ADP left/ADJ hand/NOUN#0.0#0.0
+moving hands up and down.#move/VERB hand/NOUN up/ADV and/CCONJ down/ADV#0.0#0.0
+a man has both arms flexed, then relaxes them, then flexes his right arm twice, then his left arm once.#a/DET man/NOUN has/AUX both/DET arm/NOUN flex/VERB then/ADV relax/VERB them/PRON then/ADV flex/VERB his/DET right/ADJ arm/NOUN twice/ADV then/ADV his/DET left/ADJ arm/NOUN once/ADV#0.0#0.0

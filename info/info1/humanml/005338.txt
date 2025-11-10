@@ -1,0 +1,3 @@
+a person is in a seated position, raising their arms to to their sides so they are parallel to their shoulders.#a/DET person/NOUN is/AUX in/ADP a/DET seated/ADJ position/NOUN raise/VERB their/DET arm/NOUN to/ADP to/ADP their/DET side/NOUN so/SCONJ they/PRON are/AUX parallel/ADJ to/ADP their/DET shoulder/NOUN#0.0#0.0
+a person, while seated, raises their arms to shoulder height and lowers them.#a/DET person/NOUN while/SCONJ seat/VERB raise/VERB their/DET arm/NOUN to/ADP shoulder/NOUN height/NOUN and/CCONJ lower/VERB them/PRON#0.0#0.0
+figure stands half posed and lifts arms#figure/NOUN stand/VERB half/NOUN pose/VERB and/CCONJ lift/VERB arm/NOUN#0.0#0.0

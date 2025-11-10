@@ -1,0 +1,3 @@
+a person jumped forward three times turned around and then jumped back the other way one time.#a/DET person/NOUN jump/VERB forward/ADV three/NUM time/NOUN turn/VERB around/ADV and/CCONJ then/ADV jump/VERB back/ADV the/DET other/ADJ way/NOUN one/NUM time/NOUN#0.0#0.0
+a person hopping three steps forward, turning around, and hopping one step the opposite direction.#a/DET person/NOUN hop/VERB three/NUM step/NOUN forward/ADV turn/VERB around/ADP and/CCONJ hop/VERB one/NUM step/VERB the/DET opposite/ADJ direction/NOUN#0.0#0.0
+a person takes large hops forward before turning around and hopping back.#a/DET person/NOUN take/VERB large/ADJ hop/NOUN forward/ADV before/ADP turn/VERB around/ADV and/CCONJ hop/VERB back/ADV#0.0#0.0

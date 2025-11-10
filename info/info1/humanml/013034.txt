@@ -1,0 +1,3 @@
+the person is working normally.#the/DET person/NOUN is/AUX work/VERB normally/ADV#0.0#0.0
+a person walks in place#a/DET person/NOUN walk/VERB in/ADP place/NOUN#0.0#0.0
+walking forward in place.#walk/VERB forward/ADV in/ADP place/NOUN#0.0#0.0

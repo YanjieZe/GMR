@@ -1,0 +1,3 @@
+a man walks forward, swings his arms to the right hand side of his body, then walks back and does it again.#a/DET man/NOUN walk/VERB forward/ADV swing/VERB his/DET arm/NOUN to/ADP the/DET right/ADJ hand/NOUN side/NOUN of/ADP his/DET body/NOUN then/ADV walk/VERB back/ADV and/CCONJ does/AUX it/PRON again/ADV#0.0#0.0
+a person shuffles several steps forward and swings their arm in a backhand motion, backs up and repeats the action.#a/DET person/NOUN shuffle/VERB several/ADJ step/NOUN forward/ADV and/CCONJ swing/VERB their/DET arm/NOUN in/ADP a/DET backhand/NOUN motion/NOUN back/VERB up/ADP and/CCONJ repeat/VERB the/DET action/NOUN#0.0#0.0
+a person is making a swinging gesture.#a/DET person/NOUN is/AUX make/VERB a/DET swinging/NOUN gesture/NOUN#0.0#0.0

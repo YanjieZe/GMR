@@ -1,0 +1,3 @@
+a person punches with their left hand then their right hand.#a/DET person/NOUN punch/VERB with/ADP their/DET left/ADJ hand/NOUN then/ADV their/DET right/ADJ hand/NOUN#0.0#0.0
+person is throwing some punches#person/NOUN is/AUX throw/VERB some/DET punch/NOUN#0.0#0.0
+man stands and lifts his right arm forwards in a punching motion then lifts his left arm forwsrds in a punching motion#man/NOUN stand/VERB and/CCONJ lift/VERB his/DET right/ADJ arm/NOUN forwards/ADV in/ADP a/DET punching/NOUN motion/NOUN then/ADV lift/VERB his/DET left/ADJ arm/NOUN forwsrd/NOUN in/ADP a/DET punching/NOUN motion/NOUN#0.0#0.0

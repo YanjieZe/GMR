@@ -1,0 +1,3 @@
+the person walks forward with their knees bent in a crouching position.#the/DET person/NOUN walk/VERB forward/ADV with/ADP their/DET knee/NOUN bent/ADJ in/ADP a/DET crouching/ADJ position/NOUN#0.0#0.0
+a person walks backward upright and then forward crouching down and then finally backwards again.#a/DET person/NOUN walk/VERB backward/ADV upright/ADV and/CCONJ then/ADV forward/ADV crouch/VERB down/ADP and/CCONJ then/ADV finally/ADV backwards/ADV again/ADV#0.0#0.0
+a person steps backwards then walks forward while crouching before returning to where he started.#a/DET person/NOUN step/VERB backwards/ADV then/ADV walk/VERB forward/ADV while/SCONJ crouch/VERB before/ADP return/VERB to/ADP where/ADV he/PRON start/VERB#0.0#0.0

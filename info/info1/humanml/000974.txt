@@ -1,0 +1,3 @@
+a person passing a ball or just kicking the ground twice#a/DET person/NOUN pass/VERB a/DET ball/NOUN or/CCONJ just/ADV kick/VERB the/DET ground/NOUN twice/ADV#0.0#0.0
+person moves left leg forward then kicks out right leg once then kicks right leg out to side#person/NOUN move/VERB left/VERB leg/NOUN forward/ADV then/ADV kick/VERB out/ADP right/ADJ leg/NOUN once/ADV then/ADV kick/VERB right/ADV leg/NOUN out/ADP to/PART side/VERB#0.0#0.0
+a person kicks two balls with his right foot, the first to his left and the second to his right.#a/DET person/NOUN kick/VERB two/NUM ball/NOUN with/ADP his/DET right/ADJ foot/NOUN the/DET first/ADJ to/ADP his/DET left/NOUN and/CCONJ the/DET second/ADJ to/ADP his/DET right/NOUN#0.0#0.0

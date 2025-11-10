@@ -1,0 +1,3 @@
+a person frantically runs forward.#a/DET person/NOUN frantically/ADV run/VERB forward/ADV#0.0#0.0
+a man suddenly rushes forward, pumping his arms vigorously.#a/DET man/NOUN suddenly/ADV rush/VERB forward/ADV pump/VERB his/DET arm/NOUN vigorously/ADV#0.0#0.0
+a person turns very fast towards the right side.#a/DET person/NOUN turn/VERB very/ADV fast/ADV towards/ADP the/DET right/ADJ side/NOUN#0.0#0.0

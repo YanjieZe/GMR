@@ -1,0 +1,3 @@
+a person walks backwards and stops.#a/DET person/NOUN walk/VERB backwards/ADV and/CCONJ stop/NOUN#0.0#0.0
+the man is on seesaw#the/DET man/NOUN is/AUX on/ADP seesaw/PROPN#0.0#0.0
+a person walking in a weird way backwards#a/DET person/NOUN walk/VERB in/ADP a/DET weird/ADJ way/NOUN backwards/ADV#0.0#0.0

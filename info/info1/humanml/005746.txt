@@ -1,0 +1,3 @@
+a person is standing and lifting right arm.#a/DET person/NOUN is/AUX stand/VERB and/CCONJ lift/VERB right/ADJ arm/NOUN#0.0#0.0
+figure raises hand then drops it#figure/NOUN raise/VERB hand/NOUN then/ADV drop/VERB it/PRON#0.0#0.0
+person is lifting a dumbbell with his right arm.#person/NOUN is/AUX lift/VERB a/DET dumbbell/NOUN with/ADP his/DET right/ADJ arm/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+someone lifts both hands over their head to put on a hat.#someone/PRON lift/VERB both/DET hand/NOUN over/ADP their/DET head/NOUN to/PART put/VERB on/ADP a/DET hat/NOUN#0.0#0.0
+a person casually adjusts the cap on his head.#a/DET person/NOUN casually/ADV adjust/VERB the/DET cap/NOUN on/ADP his/DET head/NOUN#0.0#0.0
+he is putting his handy on his head and then taking back to the original position.#he/PRON is/AUX put/VERB his/DET handy/NOUN on/ADP his/DET head/NOUN and/CCONJ then/ADV take/VERB back/ADV to/ADP the/DET original/ADJ position/NOUN#0.0#0.0

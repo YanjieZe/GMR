@@ -1,0 +1,3 @@
+the person folds their arms before then unfolding#the/DET person/NOUN fold/VERB their/DET arm/NOUN before/ADP then/ADV unfold/VERB#0.0#0.0
+a person crosses their arms in dismay and then drops them.#a/DET person/NOUN cross/VERB their/DET arm/NOUN in/ADP dismay/NOUN and/CCONJ then/ADV drop/VERB them/PRON#0.0#0.0
+a person folds arms across chest.#a/DET person/NOUN fold/VERB arm/NOUN across/ADP chest/NOUN#0.0#0.0

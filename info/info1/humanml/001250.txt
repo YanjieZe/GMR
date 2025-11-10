@@ -1,0 +1,3 @@
+person runs on an exercise machine.#person/NOUN run/VERB on/ADP an/DET exercise/NOUN machine/NOUN#0.0#1.0
+a person takes a jog forward#a/DET person/NOUN take/VERB a/DET jog/NOUN forward/ADV#0.0#0.0
+a person runs at a comfortable brisk pace.#a/DET person/NOUN run/VERB at/ADP a/DET comfortable/ADJ brisk/ADJ pace/NOUN#0.0#0.0

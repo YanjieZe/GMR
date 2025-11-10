@@ -1,0 +1,3 @@
+a person stumbles backwards wobbling slightly#a/DET person/NOUN stumble/VERB backwards/ADV wobble/VERB slightly/ADV#6.0#9.0
+a person bends knees and then stands back up quickly.#a/DET person/NOUN bend/VERB knee/NOUN and/CCONJ then/ADV stand/VERB back/ADV up/ADV quickly/ADV#0.0#0.0
+a person takes a step backwards.#a/DET person/NOUN take/VERB a/DET step/NOUN backwards/ADV#0.0#0.0

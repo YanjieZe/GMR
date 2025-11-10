@@ -1,0 +1,3 @@
+the figure appears to be swimming using the breast stroke#the/DET figure/NOUN appear/VERB to/PART be/AUX swim/VERB use/VERB the/DET breast/NOUN stroke/NOUN#0.0#0.0
+a person swimming in the water.#a/DET person/NOUN swim/VERB in/ADP the/DET water/NOUN#0.0#0.0
+person is swimming using the breast stroke#person/NOUN is/AUX swim/VERB use/VERB the/DET breast/NOUN stroke/NOUN#0.0#0.0

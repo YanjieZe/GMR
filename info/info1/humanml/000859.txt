@@ -1,0 +1,3 @@
+a person walks swaying side to side walking in a slow circle then veering upwards at the end.#a/DET person/NOUN walk/VERB sway/VERB side/NOUN to/PART side/VERB walk/VERB in/ADP a/DET slow/ADJ circle/NOUN then/ADV veer/VERB upwards/ADV at/ADP the/DET end/NOUN#0.0#0.0
+a man paces while looking up.#a/DET man/NOUN pace/VERB while/SCONJ look/VERB up/ADP#0.0#0.0
+a person walks in a circular path looking up, with their torso slightly leaned back.#a/DET person/NOUN walk/VERB in/ADP a/DET circular/ADJ path/NOUN look/VERB up/ADP with/ADP their/DET torso/NOUN slightly/ADV lean/VERB back/ADV#0.0#0.0

@@ -1,0 +1,2 @@
+a man steps over an object while walking on a diagonal.#a/DET man/NOUN step/VERB over/ADP an/DET object/NOUN while/SCONJ walk/VERB on/ADP a/DET diagonal/NOUN#0.0#4.0
+a man walks forward and to his right, stepping over something and then turns around and walks back.#a/DET man/NOUN walk/VERB forward/ADV and/CCONJ to/ADP his/DET right/NOUN step/VERB over/ADP something/PRON and/CCONJ then/ADV turn/VERB around/ADV and/CCONJ walk/VERB back/ADV#0.0#0.0

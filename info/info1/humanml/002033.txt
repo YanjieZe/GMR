@@ -1,0 +1,3 @@
+person walks anti clockwise   from back to front#person/NOUN walk/VERB anti/ADJ clockwise/NOUN from/ADP back/ADV to/ADP front/NOUN#0.0#0.0
+a person walks forward and then to his left and then stops.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ then/ADV to/ADP his/DET left/NOUN and/CCONJ then/ADV stop/VERB#0.0#0.0
+a man walks forward and then off to the left before stopping.#a/DET man/NOUN walk/VERB forward/ADV and/CCONJ then/ADV off/ADP to/ADP the/DET left/NOUN before/ADP stop/VERB#0.0#0.0

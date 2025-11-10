@@ -1,0 +1,3 @@
+a person walks in an "s" path and stops#a/DET person/NOUN walk/VERB in/ADP an/DET s/PART path/NOUN and/CCONJ stop/NOUN#0.0#0.0
+a person walks half a circle clockwise, then another half circle counter-clockwise.#a/DET person/NOUN walk/VERB half/DET a/DET circle/NOUN clockwise/NOUN then/ADV another/DET half/ADJ circle/NOUN counterclockwise/NOUN#0.0#0.0
+a person walks towards the right in an "s" path.#a/DET person/NOUN walk/VERB towards/ADP the/DET right/NOUN in/ADP an/DET s/NOUN path/NOUN#0.0#0.0

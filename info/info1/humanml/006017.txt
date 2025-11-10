@@ -1,0 +1,3 @@
+a person sitting down, with their hands slightly elevated.#a/DET person/NOUN sit/VERB down/ADP with/ADP their/DET hand/NOUN slightly/ADV elevate/VERB#0.0#0.0
+person in a seated position slightly lifts left arm that's bent at the elbow.#person/NOUN in/ADP a/DET seated/ADJ position/NOUN slightly/ADV lift/VERB left/VERB arm/NOUN that/DET bent/ADJ at/ADP the/DET elbow/NOUN#0.0#0.0
+a person eats with their left hand#a/DET person/NOUN eat/VERB with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0

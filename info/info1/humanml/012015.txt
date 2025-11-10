@@ -1,0 +1,3 @@
+a person sways to the side and stumbles forward.#a/DET person/NOUN sway/VERB to/ADP the/DET side/NOUN and/CCONJ stumble/NOUN forward/ADV#0.0#0.0
+a person is walking and seem to be drunk#a/DET person/NOUN is/AUX walk/VERB and/CCONJ seem/VERB to/PART be/AUX drunk/ADJ#0.0#0.0
+a person walks forward while stumbling, as if drunk.#a/DET person/NOUN walk/VERB forward/ADV while/SCONJ stumble/VERB as/SCONJ if/SCONJ drunk/ADJ#0.0#0.0

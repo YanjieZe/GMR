@@ -1,0 +1,3 @@
+a person stands still and then steps backward with both feet.#a/DET person/NOUN stand/VERB still/ADV and/CCONJ then/ADV step/VERB backward/ADJ with/ADP both/DET foot/NOUN#0.0#0.0
+a man steps backwards; moving his right foot first, followed by his left.#a/DET man/NOUN step/VERB backwards/ADV move/VERB his/DET right/ADJ foot/NOUN first/ADV follow/VERB by/ADP his/DET left/NOUN#0.0#0.0
+a person takes one full step back.#a/DET person/NOUN take/VERB one/NUM full/ADJ step/NOUN back/ADV#0.0#0.0

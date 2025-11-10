@@ -1,0 +1,3 @@
+a person walks forward shortly.#a/DET person/NOUN walk/VERB forward/ADV shortly/ADV#0.0#0.0
+a person walks forward slowly and comes to a stop.#a/DET person/NOUN walk/VERB forward/ADV slowly/ADV and/CCONJ come/VERB to/ADP a/DET stop/NOUN#0.0#0.0
+a person walks forward with their hand by their sides.#a/DET person/NOUN walk/VERB forward/ADV with/ADP their/DET hand/NOUN by/ADP their/DET side/NOUN#0.0#0.0

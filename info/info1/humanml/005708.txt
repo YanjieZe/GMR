@@ -1,0 +1,3 @@
+the person is playing the guitar with his right hand#the/DET person/NOUN is/AUX play/VERB the/DET guitar/NOUN with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+person is playing guitar right handed#person/NOUN is/AUX play/VERB guitar/NOUN right/NOUN hand/VERB#0.0#0.0
+a man holds his left arm up and out, while his right hand makes a brushing motion in front of his chest, before lowering his arms to his sides.#a/DET man/NOUN hold/VERB his/DET left/ADJ arm/NOUN up/ADV and/CCONJ out/ADV while/SCONJ his/DET right/ADJ hand/NOUN make/VERB a/DET brushing/NOUN motion/NOUN in/ADP front/NOUN of/ADP his/DET chest/NOUN before/ADP lower/VERB his/DET arm/NOUN to/ADP his/DET side/NOUN#0.0#0.0

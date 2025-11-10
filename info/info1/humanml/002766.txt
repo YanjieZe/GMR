@@ -1,0 +1,3 @@
+person raises their left hand over the head and slowly takes a step backwards.#person/NOUN raise/VERB their/DET left/ADJ hand/NOUN over/ADP the/DET head/NOUN and/CCONJ slowly/ADV take/VERB a/DET step/NOUN backwards/ADV#0.0#0.0
+a man waves with his left hand.#a/DET man/NOUN wave/VERB with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0
+person waves left arm, uses left foot and takes a step back#person/NOUN wave/NOUN left/VERB arm/NOUN use/VERB left/ADJ foot/NOUN and/CCONJ take/VERB a/DET step/NOUN back/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a man standing completely still.#a/DET man/NOUN stand/VERB completely/ADV still/ADV#0.0#0.0
+a man stands completely still.#a/DET man/NOUN stand/VERB completely/ADV still/ADV#0.0#0.0
+a person stands almost completely still, their airs sway side to side slightly.#a/DET person/NOUN stand/VERB almost/ADV completely/ADV still/ADV their/DET air/NOUN sway/VERB side/NOUN to/PART side/VERB slightly/ADV#0.0#0.0

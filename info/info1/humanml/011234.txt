@@ -1,0 +1,3 @@
+the man moves his right hand#the/DET man/NOUN move/VERB his/DET right/ADJ hand/NOUN#0.0#0.0
+this person is standing still while reaching high with his right arm.#this/DET person/NOUN is/AUX stand/VERB still/ADV while/SCONJ reach/VERB high/ADJ with/ADP his/DET right/ADJ arm/NOUN#0.0#0.0
+a person who is standing with his right hand raised reaches skyward with that hand.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP his/DET right/ADJ hand/NOUN raise/VERB reach/VERB skyward/ADJ with/ADP that/DET hand/NOUN#0.0#0.0

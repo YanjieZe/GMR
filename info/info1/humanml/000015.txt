@@ -1,0 +1,3 @@
+a man sets a can on the ground and prepares to fight.#a/DET man/NOUN set/VERB a/DET can/NOUN on/ADP the/DET ground/NOUN and/CCONJ prepare/VERB to/PART fight/VERB#0.0#0.0
+a person standing raises their arm in a drinking motion and then bends over.#a/DET person/NOUN stand/VERB raise/VERB their/DET arm/NOUN in/ADP a/DET drinking/NOUN motion/NOUN and/CCONJ then/ADV bend/VERB over/ADP#0.0#0.0
+someone is holding their right arm next to their head. then bends over and touches the ground.#someone/PRON is/AUX hold/VERB their/DET right/ADJ arm/NOUN next/ADV to/ADP their/DET head/NOUN then/ADV bend/VERB over/ADP and/CCONJ touch/VERB the/DET ground/NOUN#0.0#0.0

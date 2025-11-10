@@ -1,0 +1,3 @@
+standing person moving left arm as if they are rubbing their stomach.#stand/VERB person/NOUN move/VERB left/ADJ arm/NOUN as/SCONJ if/SCONJ they/PRON are/AUX rub/VERB their/DET stomach/NOUN#0.0#3.0
+a person moves their left arm in a corcle motion.#a/DET person/NOUN move/VERB their/DET left/ADJ arm/NOUN in/ADP a/DET corcle/NOUN motion/NOUN#0.0#0.0
+person does two circular motions with left hand hip height#person/NOUN does/AUX two/NUM circular/ADJ motion/NOUN with/ADP left/ADJ hand/NOUN hip/NOUN height/ADV#0.0#0.0

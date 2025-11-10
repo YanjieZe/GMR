@@ -1,0 +1,3 @@
+a man runs to the left, then to the right, and then returns to his original position.#a/DET man/NOUN run/VERB to/ADP the/DET left/NOUN then/ADV to/ADP the/DET right/NOUN and/CCONJ then/ADV return/VERB to/ADP his/DET original/ADJ position/NOUN#0.0#0.0
+robot started running from left to right and then stopped at right side.#robot/PROPN start/VERB run/VERB from/ADP left/NOUN to/ADP right/NOUN and/CCONJ then/ADV stop/VERB at/ADP right/ADJ side/NOUN#0.0#0.0
+a person runs back and forth.#a/DET person/NOUN run/VERB back/ADV and/CCONJ forth/ADV#0.0#0.0

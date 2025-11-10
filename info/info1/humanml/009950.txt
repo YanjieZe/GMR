@@ -1,0 +1,3 @@
+person quickly reaches left forearm up to their eyesight as if they were checking the time.#person/NOUN quickly/ADV reach/VERB left/VERB forearm/NOUN up/ADP to/ADP their/DET eyesight/NOUN as/SCONJ if/SCONJ they/PRON were/AUX check/VERB the/DET time/NOUN#0.0#0.0
+a person lifts up their left hand to look at the time.#a/DET person/NOUN lift/VERB up/ADP their/DET left/ADJ hand/NOUN to/PART look/VERB at/ADP the/DET time/NOUN#0.0#0.0
+a person standing straight and raising his left arm to check time.#a/DET person/NOUN stand/VERB straight/ADV and/CCONJ raise/VERB his/DET left/ADJ arm/NOUN to/PART check/VERB time/NOUN#0.0#0.0

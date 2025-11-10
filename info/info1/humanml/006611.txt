@@ -1,0 +1,3 @@
+the man is walking to hop#the/DET man/NOUN is/AUX walk/VERB to/PART hop/NOUN#0.0#0.0
+a person walks forward and does a little skip half way.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ does/AUX a/DET little/ADJ skip/NOUN half/ADJ way/NOUN#0.0#0.0
+a person walks forward, skips, and continues walking side to side.#a/DET person/NOUN walk/VERB forward/ADV skip/NOUN and/CCONJ continue/VERB walk/VERB side/NOUN to/ADP side/VERB#0.0#0.0

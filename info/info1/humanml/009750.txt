@@ -1,0 +1,3 @@
+man moves quickly around in a funny way#man/PROPN move/VERB quickly/ADV around/ADV in/ADP a/DET funny/ADJ way/NOUN#0.0#0.0
+a person uses their arms like a trex.#a/DET person/NOUN use/VERB their/DET arm/NOUN like/SCONJ a/DET trex/NOUN#0.0#10.0
+someone appears to be playing with an object#someone/PRON appear/VERB to/PART be/AUX play/VERB with/ADP an/DET object/NOUN#0.0#0.0

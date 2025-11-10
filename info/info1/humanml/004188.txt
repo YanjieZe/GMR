@@ -1,0 +1,3 @@
+the figure is using his arms to wash something#the/DET figure/NOUN is/AUX use/VERB his/DET arm/NOUN to/PART wash/VERB something/PRON#0.0#0.0
+a person picks something up, puts it down, then moves their hand back and forth#a/DET person/NOUN pick/VERB something/PRON up/ADP put/VERB it/PRON down/ADP then/ADV move/VERB their/DET hand/NOUN back/ADV and/CCONJ forth/ADV#0.0#0.0
+a person washes right arm under tap.#a/DET person/NOUN wash/VERB right/ADJ arm/NOUN under/ADP tap/NOUN#0.0#0.0

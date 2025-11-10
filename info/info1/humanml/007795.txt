@@ -1,0 +1,3 @@
+the person stands still while doing the t pose#the/DET person/NOUN stand/VERB still/ADV while/SCONJ do/VERB the/DET t/NOUN pose/NOUN#0.0#0.0
+a person stands still.#a/DET person/NOUN stand/VERB still/ADV#0.0#0.0
+person is doing pose that looks like a t#person/NOUN is/AUX do/VERB pose/NOUN that/DET look/VERB like/SCONJ a/DET t/NOUN#0.0#0.0

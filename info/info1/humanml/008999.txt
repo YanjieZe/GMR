@@ -1,0 +1,3 @@
+a person claps, puts there hands down then claps again, and puts their hands down#a/DET person/NOUN clap/VERB put/VERB there/PRON hand/NOUN down/ADP then/ADV clap/NOUN again/ADV and/CCONJ put/VERB their/DET hand/NOUN down/ADP#0.0#0.0
+someone is clapping, stops and claps again#someone/PRON is/AUX clap/VERB stop/NOUN and/CCONJ clap/NOUN again/ADV#0.0#0.0
+a person raised the hands and starts clapping it#a/DET person/NOUN raise/VERB the/DET hand/NOUN and/CCONJ start/VERB clap/VERB it/PRON#0.0#0.0

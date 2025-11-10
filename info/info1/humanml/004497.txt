@@ -1,0 +1,3 @@
+the right arm extends aggressively back and forth then the left hand extend out and back, taking fast steps.#the/DET right/ADJ arm/NOUN extend/VERB aggressively/ADV back/ADV and/CCONJ forth/ADV then/ADV the/DET left/ADJ hand/NOUN extend/VERB out/ADP and/CCONJ back/ADV take/VERB fast/ADJ step/NOUN#0.0#0.0
+doing boxing like motions using fists#do/VERB boxing/NOUN like/SCONJ motion/NOUN use/VERB fist/NOUN#0.0#0.0
+someone bobs readily in a boxers stance before throwing several right hand punches then left hand punches.#someone/PRON bob/VERB readily/ADV in/ADP a/DET boxer/NOUN stance/NOUN before/ADP throw/VERB several/ADJ right/ADJ hand/NOUN punch/NOUN then/ADV left/VERB hand/NOUN punch/NOUN#0.0#0.0

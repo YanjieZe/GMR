@@ -1,0 +1,3 @@
+a person leans their body to the left and looks left to right.#a/DET person/NOUN lean/VERB their/DET body/NOUN to/ADP the/DET left/NOUN and/CCONJ look/VERB left/VERB to/ADP right/ADJ#0.0#0.0
+moving body from side to side.#move/VERB body/NOUN from/ADP side/NOUN to/ADP side/NOUN#0.0#0.0
+a man leans to the right and looks around.#a/DET man/NOUN lean/VERB to/ADP the/DET right/NOUN and/CCONJ look/VERB around/ADV#0.0#0.0

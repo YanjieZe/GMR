@@ -1,0 +1,3 @@
+a stick fogure holds their arms straight up and then quickly puts them back down.#a/DET stick/NOUN fogure/NOUN hold/VERB their/DET arm/NOUN straight/ADV up/ADV and/CCONJ then/ADV quickly/ADV put/VERB them/PRON back/ADV down/ADP#0.0#0.0
+a person raises his hands above his head.#a/DET person/NOUN raise/VERB his/DET hand/NOUN above/ADP his/DET head/NOUN#0.0#0.0
+a person puts both hands up forming a "y" shape with their body.#a/DET person/NOUN put/VERB both/DET hand/NOUN up/ADP form/VERB a/DET y/NOUN shape/NOUN with/ADP their/DET body/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person picks something up, walks across the room, sets it down, and reaches out to pick something up#a/DET person/NOUN pick/VERB something/PRON up/ADP walk/VERB across/ADP the/DET room/NOUN set/VERB it/PRON down/ADP and/CCONJ reach/VERB out/ADP to/PART pick/VERB something/PRON up/ADP#0.0#0.0
+a person moves an object from the right to the left.#a/DET person/NOUN move/VERB an/DET object/NOUN from/ADP the/DET right/NOUN to/ADP the/DET left/NOUN#0.0#0.0
+the person one forward pick something up then walk back and laid some thing down.#the/DET person/NOUN one/NUM forward/ADV pick/VERB something/PRON up/ADV then/ADV walk/VERB back/ADV and/CCONJ lay/VERB some/DET thing/NOUN down/ADP#0.0#0.0

@@ -1,0 +1,3 @@
+the person walked forward jumped over and went around.#the/DET person/NOUN walk/VERB forward/ADV jump/VERB over/ADV and/CCONJ go/VERB around/ADV#0.0#0.0
+person moves side to side feet wide apart then then jumps over obstacle then moves side to side#person/NOUN move/VERB side/NOUN to/PART side/VERB foot/NOUN wide/ADJ apart/ADV then/ADV then/ADV jump/VERB over/ADP obstacle/NOUN then/ADV move/VERB side/NOUN to/PART side/VERB#0.0#0.0
+the man steps sideways a couple of times, turns and jumps#the/DET man/NOUN step/VERB sideways/ADV a/DET couple/NOUN of/ADP time/NOUN turn/NOUN and/CCONJ jump/NOUN#0.0#0.0

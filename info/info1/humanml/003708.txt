@@ -1,0 +1,3 @@
+a person talks on the phone using their left hand while driving.#a/DET person/NOUN talk/VERB on/ADP the/DET phone/NOUN use/VERB their/DET left/ADJ hand/NOUN while/SCONJ drive/VERB#0.0#0.0
+a man is sitting down and raises his left arm.#a/DET man/NOUN is/AUX sit/VERB down/ADP and/CCONJ raise/VERB his/DET left/ADJ arm/NOUN#0.0#0.0
+person crouches down and moves hands as if painting on a canvas.#person/NOUN crouch/VERB down/ADV and/CCONJ move/VERB hand/NOUN as/SCONJ if/SCONJ paint/VERB on/ADP a/DET canvas/NOUN#0.0#4.0

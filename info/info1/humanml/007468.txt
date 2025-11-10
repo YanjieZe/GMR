@@ -1,0 +1,3 @@
+a person stands with arms out to the sides, then brings his hands together as if grasping a golf club, leans over, and strokes from right to left.#a/DET person/NOUN stand/VERB with/ADP arm/NOUN out/SCONJ to/ADP the/DET side/NOUN then/ADV bring/VERB his/DET hand/NOUN together/ADV as/SCONJ if/SCONJ grasp/VERB a/DET golf/NOUN club/NOUN lean/VERB over/ADV and/CCONJ stroke/NOUN from/ADP right/NOUN to/ADP left/NOUN#0.0#0.0
+person is doing a golf shot#person/NOUN is/AUX do/VERB a/DET golf/NOUN shot/NOUN#0.0#0.0
+the person putts the golf ball#the/DET person/NOUN putt/VERB the/DET golf/NOUN ball/NOUN#0.0#0.0

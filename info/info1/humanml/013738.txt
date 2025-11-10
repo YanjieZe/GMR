@@ -1,0 +1,3 @@
+a standing figure flexes his arms at the elbows, outward and in front of him several times.#a/DET stand/VERB figure/NOUN flex/VERB his/DET arm/NOUN at/ADP the/DET elbow/NOUN outward/ADV and/CCONJ in/ADP front/NOUN of/ADP him/PRON several/ADJ time/NOUN#0.0#0.0
+waving hands side to side.#wave/VERB hand/NOUN side/VERB to/PART side/VERB#0.0#0.0
+a person appears to be dancing like a chicken#a/DET person/NOUN appear/VERB to/PART be/AUX dance/VERB like/SCONJ a/DET chicken/NOUN#0.0#0.0

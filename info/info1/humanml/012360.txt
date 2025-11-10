@@ -1,0 +1,3 @@
+i man walks forward kicks something then raises his hands in celebration and walks in a figure 8 pattern and drops to his knees.#i/PRON man/NOUN walk/VERB forward/ADV kick/NOUN something/PRON then/ADV raise/VERB his/DET hand/NOUN in/ADP celebration/NOUN and/CCONJ walk/VERB in/ADP a/DET figure/NOUN pattern/NOUN and/CCONJ drop/VERB to/ADP his/DET knee/NOUN#0.0#0.0
+the person danced with excitement when he made the soccer goal.#the/DET person/NOUN dance/VERB with/ADP excitement/NOUN when/ADV he/PRON make/VERB the/DET soccer/NOUN goal/NOUN#0.0#0.0
+a person kicks something with their right foot and then celebrates.#a/DET person/NOUN kick/VERB something/PRON with/ADP their/DET right/ADJ foot/NOUN and/CCONJ then/ADV celebrate/NOUN#0.0#0.0

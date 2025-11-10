@@ -1,0 +1,3 @@
+raising arms near face.#raise/VERB arm/NOUN near/SCONJ face/NOUN#0.0#0.0
+a person looks to fight through a crowd and is moving his hands around#a/DET person/NOUN look/VERB to/PART fight/VERB through/ADP a/DET crowd/NOUN and/CCONJ is/AUX move/VERB his/DET hand/NOUN around/ADV#0.0#0.0
+a figure standing still and waving their arms like they were rummaging through an old closet.#a/DET figure/NOUN stand/VERB still/ADV and/CCONJ wave/VERB their/DET arm/NOUN like/SCONJ they/PRON were/AUX rummage/VERB through/ADP an/DET old/ADJ closet/NOUN#nan#nan

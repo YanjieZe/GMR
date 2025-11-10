@@ -1,0 +1,3 @@
+cowering while crouching down.#cower/VERB while/SCONJ crouch/VERB down/ADP#0.0#0.0
+a person sitting dials a phone and then talks on it by raising their left hand.#a/DET person/NOUN sit/VERB dial/NOUN a/DET phone/NOUN and/CCONJ then/ADV talk/VERB on/ADP it/PRON by/ADP raise/VERB their/DET left/ADJ hand/NOUN#0.0#0.0
+a seated person begins to swivle left and right#a/DET seated/ADJ person/NOUN begin/VERB to/PART swivle/NOUN left/ADJ and/CCONJ right/ADJ#0.0#0.0

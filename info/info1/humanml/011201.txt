@@ -1,0 +1,3 @@
+a person standing up uses both of their hands to push something up above their head vertically.#a/DET person/NOUN stand/VERB up/ADP use/VERB both/DET of/ADP their/DET hand/NOUN to/PART push/VERB something/PRON up/ADP above/ADP their/DET head/NOUN vertically/ADV#0.0#0.0
+a person stands in one place, lifting both arms up above their head as if lifting weights#a/DET person/NOUN stand/VERB in/ADP one/NUM place/NOUN lift/VERB both/DET arm/NOUN up/ADP above/ADP their/DET head/NOUN as/SCONJ if/SCONJ lift/VERB weight/NOUN#0.0#0.0
+a person lifts their arms together over their head multiple times.#a/DET person/NOUN lift/VERB their/DET arm/NOUN together/ADV over/ADP their/DET head/NOUN multiple/ADJ time/NOUN#0.0#0.0

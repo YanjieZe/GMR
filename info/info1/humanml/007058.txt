@@ -1,0 +1,3 @@
+a person slowly ran in the place#a/DET person/NOUN slowly/ADV run/VERB in/ADP the/DET place/NOUN#0.0#0.0
+a person moves counter-clockwise in a semi-circular motion while appearing to jog, bouncin on feet and swinging bent arms.#a/DET person/NOUN move/VERB counterclockwise/NOUN in/ADP a/DET semicircular/ADJ motion/NOUN while/SCONJ appear/VERB to/ADP jog/PROPN bouncin/NOUN on/ADP foot/NOUN and/CCONJ swinge/VERB bent/ADJ arm/NOUN#0.0#0.0
+a person runs in place.#a/DET person/NOUN run/VERB in/ADP place/NOUN#0.0#0.0

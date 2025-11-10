@@ -1,0 +1,3 @@
+someone takes steps forward in a unsteady line and then continues to move legs as their shoulders also move.#someone/PRON take/VERB step/NOUN forward/ADV in/ADP a/DET unsteady/ADJ line/NOUN and/CCONJ then/ADV continue/VERB to/PART move/VERB leg/NOUN as/SCONJ their/DET shoulder/NOUN also/ADV move/VERB#0.0#0.0
+walking and then  took 3 steps of staires#walk/VERB and/CCONJ then/ADV take/VERB step/NOUN of/ADP staire/NOUN#0.0#0.0
+the figure walks forward and appears to be wiping it's feet off#the/DET figure/NOUN walk/VERB forward/ADV and/CCONJ appear/VERB to/PART be/AUX wipe/VERB it/PRON foot/NOUN off/ADP#0.0#0.0

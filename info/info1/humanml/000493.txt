@@ -1,0 +1,3 @@
+person looks to be throwing their hands around randomly on the spot#person/NOUN look/VERB to/PART be/AUX throw/VERB their/DET hand/NOUN around/ADV randomly/ADV on/ADP the/DET spot/NOUN#0.0#0.0
+a person raises their arms and hits down on something in front of them repeatedly#a/DET person/NOUN raise/VERB their/DET arm/NOUN and/CCONJ hit/VERB down/ADP on/ADP something/PRON in/ADP front/NOUN of/ADP them/PRON repeatedly/ADV#0.0#0.0
+a man waves his arms around in front of himself, haphazardly.#a/DET man/NOUN wave/VERB his/DET arm/NOUN around/ADV in/ADP front/NOUN of/ADP himself/PRON haphazardly/ADV#0.0#0.0

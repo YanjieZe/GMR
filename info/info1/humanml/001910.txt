@@ -1,0 +1,3 @@
+a person stands up and walks forward diagonally, then stops and raises both their arms.#a/DET person/NOUN stand/VERB up/ADP and/CCONJ walk/VERB forward/ADV diagonally/ADV then/ADV stop/VERB and/CCONJ raise/VERB both/CCONJ their/DET arm/NOUN#0.0#10.0
+person lowers arms in front then moves to their right a few steps then raise arms to chest height#person/NOUN lower/VERB arm/NOUN in/ADP front/NOUN then/ADV move/VERB to/ADP their/DET right/ADJ a/DET few/ADJ step/NOUN then/ADV raise/VERB arm/NOUN to/ADP chest/NOUN height/NOUN#0.0#0.0
+a person seated, stands up and walks forward.#a/DET person/NOUN seat/VERB stand/VERB up/ADV and/CCONJ walk/VERB forward/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person holds something over his head with both arms and swings it down and forward#a/DET person/NOUN hold/VERB something/PRON over/ADP his/DET head/NOUN with/ADP both/DET arm/NOUN and/CCONJ swing/VERB it/PRON down/ADP and/CCONJ forward/ADV#0.0#0.0
+a figure throws something down hard#a/DET figure/NOUN throw/VERB something/PRON down/ADV hard/ADV#0.0#0.0
+he reaches his hands back over his right shoulder and throws them forward with a follow-through.#he/PRON reach/VERB his/DET hand/NOUN back/ADV over/ADP his/DET right/ADJ shoulder/NOUN and/CCONJ throw/VERB them/PRON forward/ADV with/ADP a/DET followthrough/NOUN#0.0#0.0

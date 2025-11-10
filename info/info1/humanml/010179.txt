@@ -1,0 +1,3 @@
+hop turn left 270 degrees in the air#hop/PROPN turn/NOUN left/VERB degree/NOUN in/ADP the/DET air/NOUN#2.0#4.0
+a person hops and spins around in the air three quarters of a full turn.#a/DET person/NOUN hop/VERB and/CCONJ spin/VERB around/ADV in/ADP the/DET air/NOUN three/NUM quarter/NOUN of/ADP a/DET full/ADJ turn/NOUN#0.0#0.0
+a person facing forward jumps and turns three fourths of the way in a circle landing on the left side.#a/DET person/NOUN face/VERB forward/ADV jump/NOUN and/CCONJ turn/VERB three/NUM fourth/NOUN of/ADP the/DET way/NOUN in/ADP a/DET circle/NOUN landing/NOUN on/ADP the/DET left/ADJ side/NOUN#0.0#0.0

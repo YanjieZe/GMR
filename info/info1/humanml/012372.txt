@@ -1,0 +1,3 @@
+someone is walking forward and is pushed backwards, then they recover and continue walking forward.#someone/PRON is/AUX walk/VERB forward/ADV and/CCONJ is/AUX push/VERB backwards/ADV then/ADV they/PRON recover/VERB and/CCONJ continue/VERB walk/VERB forward/ADV#0.0#0.0
+a man walks forward at a slow pace then walks backwards.#a/DET man/NOUN walk/VERB forward/ADV at/ADP a/DET slow/ADJ pace/NOUN then/ADV walk/VERB backwards/ADV#0.0#0.0
+a man walks forward and then backwards.#a/DET man/NOUN walk/VERB forward/ADV and/CCONJ then/ADV backwards/ADV#0.0#0.0

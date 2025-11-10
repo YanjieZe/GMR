@@ -1,0 +1,3 @@
+a man is taking a step down using his right leg first.#a/DET man/NOUN is/AUX take/VERB a/DET step/NOUN down/ADP use/VERB his/DET right/ADJ leg/NOUN first/ADV#0.0#0.0
+person is walking down taking one step.#person/NOUN is/AUX walk/VERB down/ADP take/VERB one/NUM step/NOUN#0.0#0.0
+someone is moving to the right#someone/PRON is/AUX move/VERB to/ADP the/DET right/NOUN#0.0#0.0

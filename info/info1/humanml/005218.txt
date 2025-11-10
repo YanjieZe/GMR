@@ -1,0 +1,3 @@
+squatting down one time.#squat/VERB down/ADP one/NUM time/NOUN#0.0#0.0
+a person sat on something#a/DET person/NOUN sit/VERB on/ADP something/PRON#0.0#0.0
+a person does a squat with both hands to their side#a/DET person/NOUN does/AUX a/DET squat/NOUN with/ADP both/DET hand/NOUN to/ADP their/DET side/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+person making disco motion with hands#person/NOUN make/VERB disco/PROPN motion/NOUN with/ADP hand/NOUN#0.0#0.0
+a stick figure person rolls their hands around and crouches, leaning toward the right. they then stand and move in a twisting motion resembling a stretch#a/DET stick/NOUN figure/NOUN person/NOUN roll/VERB their/DET hand/NOUN around/ADV and/CCONJ crouch/NOUN lean/VERB toward/ADP the/DET right/NOUN they/PRON then/ADV stand/VERB and/CCONJ move/VERB in/ADP a/DET twisting/NOUN motion/NOUN resemble/VERB a/DET stretch/NOUN#1.0#3.0
+a person rolls their fists together while squating multiple times.#a/DET person/NOUN roll/VERB their/DET fist/NOUN together/ADV while/SCONJ squat/VERB multiple/ADJ time/NOUN#0.0#0.0

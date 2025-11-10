@@ -1,0 +1,3 @@
+a person lobs tennis balls with their right arm.#a/DET person/NOUN lobs/ADJ tennis/NOUN ball/NOUN with/ADP their/DET right/ADJ arm/NOUN#0.0#0.0
+the figure is stepping left to right while swinging both arms like they are playing tennis.#the/DET figure/NOUN is/AUX step/VERB left/VERB to/ADP right/ADJ while/SCONJ swinge/VERB both/DET arm/NOUN like/SCONJ they/PRON are/AUX play/VERB tennis/NOUN#0.0#0.0
+a man is playing tennis.#a/DET man/NOUN is/AUX play/VERB tennis/NOUN#0.0#0.0

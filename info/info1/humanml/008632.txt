@@ -1,0 +1,3 @@
+a person lifts a weight with both hands in front of body.#a/DET person/NOUN lift/VERB a/DET weight/NOUN with/ADP both/DET hand/NOUN in/ADP front/NOUN of/ADP body/NOUN#0.0#0.0
+a person who appears to be holding weights performs two forward curls.#a/DET person/NOUN who/PRON appear/VERB to/PART be/AUX hold/VERB weights/ADP perform/VERB two/NUM forward/ADJ curl/NOUN#0.0#0.0
+a person performing bicep curls with both hand#a/DET person/NOUN perform/VERB bicep/NOUN curl/NOUN with/ADP both/DET hand/NOUN#0.0#0.0

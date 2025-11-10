@@ -1,0 +1,3 @@
+the person sits down and throws something with their right hand#the/DET person/NOUN sit/VERB down/ADV and/CCONJ throw/VERB something/PRON with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+a figure sits down and throws and object#a/DET figure/NOUN sit/VERB down/ADV and/CCONJ throw/NOUN and/CCONJ object/NOUN#0.0#0.0
+a red and blue stick figure sits down with it legs crossed and makes a throwing motion with its right arm.#a/DET red/ADJ and/CCONJ blue/ADJ stick/NOUN figure/NOUN sit/VERB down/ADP with/ADP it/PRON leg/NOUN cross/VERB and/CCONJ make/VERB a/DET throwing/NOUN motion/NOUN with/ADP its/DET right/ADJ arm/NOUN#0.0#0.0

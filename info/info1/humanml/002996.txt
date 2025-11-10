@@ -1,0 +1,3 @@
+the person sits down and then stands back up.#the/DET person/NOUN sit/VERB down/ADV and/CCONJ then/ADV stand/VERB back/ADV up/ADV#0.0#0.0
+the person crosses his legs and sits down then stands back u.p#the/DET person/NOUN cross/VERB his/DET leg/NOUN and/CCONJ sit/VERB down/ADV then/ADV stand/VERB back/ADV#0.0#0.0
+a person kneeling down knees bent in in a crisscross , then standing back up.#a/DET person/NOUN kneel/VERB down/ADP knee/NOUN bent/ADJ in/ADV in/ADP a/DET crisscross/NOUN then/ADV stand/VERB back/ADV up/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person is dancing around ballet style on their tip-toes and waving their arms accordingly.#a/DET person/NOUN is/AUX dance/VERB around/ADP ballet/NOUN style/NOUN on/ADP their/DET tiptoe/NOUN and/CCONJ wave/VERB their/DET arm/NOUN accordingly/ADV#0.0#0.0
+a person shuffles and taps their feet from side to side and moves counter clockwise while also moving their arms upward and outward as if dancing.#a/DET person/NOUN shuffle/VERB and/CCONJ tap/VERB their/DET foot/NOUN from/ADP side/NOUN to/ADP side/NOUN and/CCONJ move/VERB counter/ADV clockwise/NOUN while/SCONJ also/ADV move/VERB their/DET arm/NOUN upward/ADV and/CCONJ outward/ADV as/SCONJ if/SCONJ dancing/NOUN#0.0#0.0
+a person does an exotic dance#a/DET person/NOUN does/AUX an/DET exotic/ADJ dance/NOUN#0.0#0.0

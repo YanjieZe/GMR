@@ -1,0 +1,3 @@
+a person lifts an object above head with both arms.#a/DET person/NOUN lift/VERB an/DET object/NOUN above/ADP head/NOUN with/ADP both/DET arm/NOUN#0.0#0.0
+a person appears to be raising his arms.#a/DET person/NOUN appear/VERB to/PART be/AUX raise/VERB his/DET arm/NOUN#0.0#0.0
+the figure facing forward has its arms bent in a flex motion, it appears to be struggling lifting weight; it bends the object twice upwards.#the/DET figure/NOUN face/VERB forward/ADV has/AUX its/DET arm/NOUN bent/ADJ in/ADP a/DET flex/ADJ motion/NOUN it/PRON appear/VERB to/PART be/AUX struggle/VERB lift/VERB weight/NOUN it/PRON bend/VERB the/DET object/NOUN twice/ADV upwards/ADV#0.0#0.0

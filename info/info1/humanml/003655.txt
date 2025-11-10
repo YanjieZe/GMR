@@ -1,0 +1,3 @@
+a man holds his right hand out and then lowers it.#a/DET man/NOUN hold/VERB his/DET right/ADJ hand/NOUN out/ADP and/CCONJ then/ADV lower/VERB it/PRON#0.0#0.0
+a person holds their hand out in front of them then lowers it#a/DET person/NOUN hold/VERB their/DET hand/NOUN out/ADP in/ADP front/NOUN of/ADP them/PRON then/ADV lower/VERB it/PRON#0.0#0.0
+a person is stood still, puts their right arm forward, then lowers their arm to their side.#a/DET person/NOUN is/AUX stand/VERB still/ADV put/VERB their/DET right/ADJ arm/NOUN forward/ADV then/ADV lower/VERB their/DET arm/NOUN to/ADP their/DET side/NOUN#0.0#0.0

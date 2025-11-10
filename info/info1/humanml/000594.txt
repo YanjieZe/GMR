@@ -1,0 +1,3 @@
+a person softly hops in position, keeping their arms and legs stiff.#a/DET person/NOUN softly/ADV hop/VERB in/ADP position/NOUN keep/VERB their/DET arm/NOUN and/CCONJ leg/NOUN stiff/ADJ#0.0#0.0
+the figure does six short hops in a row.#the/DET figure/NOUN does/AUX six/NUM short/ADJ hop/NOUN in/ADP a/DET row/NOUN#0.0#0.0
+person is jumping in palce#person/NOUN is/AUX jump/VERB in/ADP palce/PROPN#0.0#0.0

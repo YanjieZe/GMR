@@ -1,0 +1,3 @@
+moving hands in a random pattern.#move/VERB hand/NOUN in/ADP a/DET random/ADJ pattern/NOUN#0.0#0.0
+a person standing in one location dancing or mimicking a gorilla.#a/DET person/NOUN stand/VERB in/ADP one/NUM location/NOUN dancing/NOUN or/CCONJ mimic/VERB a/DET gorilla/NOUN#0.0#0.0
+a person swings his arms loosely in front of him the pats his head and rubs his stomach like he was mimicking a monkey#a/DET person/NOUN swing/VERB his/DET arm/NOUN loosely/ADV in/ADP front/NOUN of/ADP him/PRON the/DET pat/NOUN his/DET head/NOUN and/CCONJ rub/VERB his/DET stomach/NOUN like/SCONJ he/PRON was/AUX mimic/VERB a/DET monkey/NOUN#0.0#0.0

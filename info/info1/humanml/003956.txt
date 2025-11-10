@@ -1,0 +1,3 @@
+person is throwing something.#person/NOUN is/AUX throw/VERB something/PRON#0.0#0.0
+the person throws something with their right arm#the/DET person/NOUN throw/VERB something/PRON with/ADP their/DET right/ADJ arm/NOUN#0.0#0.0
+a person raises their right arm and moves it forwards in a throwing motion.#a/DET person/NOUN raise/VERB their/DET right/ADJ arm/NOUN and/CCONJ move/VERB it/PRON forwards/ADV in/ADP a/DET throwing/NOUN motion/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+sitting down in place then standing.#sit/VERB down/ADP in/ADP place/NOUN then/ADV stand/VERB#0.0#0.0
+a person squats deeply down then stands up again.#a/DET person/NOUN squat/VERB deeply/ADV down/ADV then/ADV stand/VERB up/ADP again/ADV#0.0#0.0
+person sat down on the ground.#person/NOUN sit/VERB down/ADP on/ADP the/DET ground/NOUN#0.0#0.0

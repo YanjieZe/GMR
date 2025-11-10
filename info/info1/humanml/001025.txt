@@ -1,0 +1,3 @@
+a person shuffles several steps forward, jumps, and shuffles several more steps forward.#a/DET person/NOUN shuffle/VERB several/ADJ step/NOUN forward/ADV jumps/PROPN and/CCONJ shuffle/VERB several/ADJ more/ADJ step/NOUN forward/ADV#0.0#0.0
+a person is walking forward then takes a leap forward.#a/DET person/NOUN is/AUX walk/VERB forward/ADV then/ADV take/VERB a/DET leap/NOUN forward/ADV#0.0#0.0
+a person with their sholders up and stepping forward then jumps then steps forward#a/DET person/NOUN with/ADP their/DET sholder/NOUN up/ADP and/CCONJ step/VERB forward/ADV then/ADV jump/VERB then/ADV step/VERB forward/ADV#0.0#0.0

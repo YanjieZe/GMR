@@ -1,0 +1,3 @@
+a man is walking forward and stumbles#a/DET man/NOUN is/AUX walk/VERB forward/ADV and/CCONJ stumble/NOUN#0.0#0.0
+a person who is standing with this hands by his sides takes two steps forward, trips, recovers and continues to walk.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP this/DET hand/NOUN by/ADP his/DET side/NOUN take/VERB two/NUM step/NOUN forward/ADV trip/NOUN recover/NOUN and/CCONJ continue/VERB to/PART walk/VERB#0.0#0.0
+begins to walk forward, trips, and then regains balance.#begin/VERB to/PART walk/VERB forward/ADV trip/NOUN and/CCONJ then/ADV regain/VERB balance/NOUN#0.0#0.0

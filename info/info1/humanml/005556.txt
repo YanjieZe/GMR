@@ -1,0 +1,3 @@
+a person stands still, then takes seven steps forward.#a/DET person/NOUN stand/VERB still/ADV then/ADV take/VERB seven/NUM step/NOUN forward/ADV#0.0#0.0
+a man walks forwards slowly, while letting his arms hang loose, and swinging his shoulders slightly.#a/DET man/NOUN walk/VERB forwards/ADV slowly/ADV while/SCONJ let/VERB his/DET arm/NOUN hang/VERB loose/ADJ and/CCONJ swinge/VERB his/DET shoulder/NOUN slightly/ADV#0.0#0.0
+user stands still for a couple seconds and then perceds to walk forward slowly#user/NOUN stand/VERB still/ADV for/ADP a/DET couple/NOUN second/NOUN and/CCONJ then/ADV perced/VERB to/PART walk/VERB forward/ADV slowly/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+person turns around and walks#person/NOUN turn/VERB around/ADV and/CCONJ walk/VERB#0.0#0.0
+the person is  walking ahead.#the/DET person/NOUN is/AUX walk/VERB ahead/ADV#0.0#0.0
+a person turns around and walks away.#a/DET person/NOUN turn/VERB around/ADP and/CCONJ walk/VERB away/ADV#0.0#0.0

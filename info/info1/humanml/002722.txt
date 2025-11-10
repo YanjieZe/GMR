@@ -1,0 +1,3 @@
+a person is running on a treadmill#a/DET person/NOUN is/AUX run/VERB on/ADP a/DET treadmill/NOUN#0.0#0.0
+a person is running a steady pace on a treadmill.#a/DET person/NOUN is/AUX run/VERB a/DET steady/ADJ pace/NOUN on/ADP a/DET treadmill/NOUN#0.0#0.0
+a person is running on a treadmill.#a/DET person/NOUN is/AUX run/VERB on/ADP a/DET treadmill/NOUN#0.0#0.0

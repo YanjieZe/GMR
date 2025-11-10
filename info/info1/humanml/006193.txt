@@ -1,0 +1,3 @@
+the person is doing a fancy dance.#the/DET person/NOUN is/AUX do/VERB a/DET fancy/ADJ dance/NOUN#0.0#0.0
+a man waltzes backwards in a circle.#a/DET man/NOUN waltz/VERB backwards/ADV in/ADP a/DET circle/NOUN#0.0#0.0
+a person moves in a waltzing motion with their hands up as if they are holding onto a partner.#a/DET person/NOUN move/VERB in/ADP a/DET waltz/VERB motion/NOUN with/ADP their/DET hand/NOUN up/ADP as/SCONJ if/SCONJ they/PRON are/AUX hold/VERB onto/ADP a/DET partner/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+the person starts with a slow clap, stops, and then claps again at a faster pace .#the/DET person/NOUN start/VERB with/ADP a/DET slow/ADJ clap/NOUN stop/VERB and/CCONJ then/ADV clap/VERB again/ADV at/ADP a/DET faster/ADJ pace/NOUN#0.0#9.0
+a person claps, pauses, then resumes clapping while looking to their right then their left.#a/DET person/NOUN clap/VERB pause/NOUN then/ADV resume/VERB clap/VERB while/SCONJ look/VERB to/ADP their/DET right/NOUN then/ADV their/DET left/NOUN#0.0#0.0
+a person is sitting down and clapping, then stops, then claps again while looking around#a/DET person/NOUN is/AUX sit/VERB down/ADP and/CCONJ clap/VERB then/ADV stop/VERB then/ADV clap/NOUN again/ADV while/SCONJ look/VERB around/ADV#0.0#0.0

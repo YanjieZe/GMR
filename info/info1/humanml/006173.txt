@@ -1,0 +1,3 @@
+a person is standing still, only slightly swaying both arms at the end.#a/DET person/NOUN is/AUX stand/VERB still/ADV only/ADV slightly/ADV sway/VERB both/DET arm/NOUN at/ADP the/DET end/NOUN#0.0#0.0
+this person is standing still.#this/DET person/NOUN is/AUX stand/VERB still/ADV#0.0#0.0
+he stays very very still#he/PRON stay/VERB very/ADV very/ADV still/ADV#0.0#0.0

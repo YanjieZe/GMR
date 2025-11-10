@@ -1,0 +1,3 @@
+someone walks slowly clockwise in a complete circle and then stops.#someone/PRON walk/VERB slowly/ADV clockwise/VERB in/ADP a/DET complete/ADJ circle/NOUN and/CCONJ then/ADV stop/VERB#0.0#0.0
+the person walks slowly and without purpose in a circle pattern in the room.#the/DET person/NOUN walk/VERB slowly/ADV and/CCONJ without/ADP purpose/NOUN in/ADP a/DET circle/NOUN pattern/NOUN in/ADP the/DET room/NOUN#0.0#0.0
+someone walks clockwise in a circle and then stops.#someone/PRON walk/VERB clockwise/NOUN in/ADP a/DET circle/NOUN and/CCONJ then/ADV stop/VERB#0.0#0.0

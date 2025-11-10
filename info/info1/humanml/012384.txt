@@ -1,0 +1,3 @@
+a person throws something with both hands.#a/DET person/NOUN throw/VERB something/PRON with/ADP both/DET hand/NOUN#0.0#0.0
+a man reaches up and grabs something and then puts it up higher and pushes it back and returns his hands to his side.#a/DET man/NOUN reach/VERB up/ADP and/CCONJ grab/NOUN something/PRON and/CCONJ then/ADV put/VERB it/PRON up/ADP higher/ADV and/CCONJ push/VERB it/PRON back/ADP and/CCONJ return/VERB his/DET hand/NOUN to/ADP his/DET side/NOUN#0.0#0.0
+a man raising hands up and walking in the forward direction#a/DET man/NOUN raise/VERB hand/NOUN up/ADP and/CCONJ walk/VERB in/ADP the/DET forward/ADJ direction/NOUN#0.0#0.0

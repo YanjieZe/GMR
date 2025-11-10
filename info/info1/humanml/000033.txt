@@ -1,0 +1,3 @@
+a person shifts from foot to foot, glancing around his surroundings.#a/DET person/NOUN shift/VERB from/ADP foot/NOUN to/ADP foot/NOUN glance/VERB around/ADP his/DET surrounding/NOUN#0.0#0.0
+person walks up and then looks around behind him like someone is watching him#person/NOUN walk/VERB up/ADV and/CCONJ then/ADV look/VERB around/ADP behind/ADP him/PRON like/SCONJ someone/PRON is/AUX watch/VERB him/PRON#0.0#0.0
+a person is walking but paranoid someone is following them.#a/DET person/NOUN is/AUX walk/VERB but/CCONJ paranoid/ADJ someone/PRON is/AUX follow/VERB them/PRON#0.0#0.0

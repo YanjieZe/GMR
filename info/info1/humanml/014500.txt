@@ -1,0 +1,3 @@
+walking forward and then stopping.#walk/VERB forward/ADV and/CCONJ then/ADV stop/VERB#0.0#0.0
+a person walking on a balance beam.#a/DET person/NOUN walk/VERB on/ADP a/DET balance/NOUN beam/NOUN#0.0#4.0
+the person is walking forwards stumbling.#the/DET person/NOUN is/AUX walk/VERB forwards/ADV stumble/VERB#0.0#0.0

@@ -1,0 +1,3 @@
+a person is moving side to side while twirling in half circles.#a/DET person/NOUN is/AUX move/VERB side/NOUN to/PART side/VERB while/SCONJ twirl/VERB in/ADP half/NOUN circle/NOUN#0.0#0.0
+a person dancing in a club#a/DET person/NOUN dance/VERB in/ADP a/DET club/NOUN#0.0#0.0
+a person moves side to side while skipping#a/DET person/NOUN move/VERB side/NOUN to/PART side/VERB while/SCONJ skip/VERB#0.0#0.0

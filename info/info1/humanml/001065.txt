@@ -1,0 +1,3 @@
+a person sways slightly from right to left and uses him arms as if to balance himself.#a/DET person/NOUN sway/VERB slightly/ADV from/ADP right/NOUN to/ADP left/NOUN and/CCONJ use/VERB him/PRON arm/NOUN as/SCONJ if/SCONJ to/PART balance/VERB himself/PRON#0.0#0.0
+a man stand with his arms out but sways a bit in order to correct his balance#a/DET man/NOUN stand/VERB with/ADP his/DET arm/NOUN out/ADP but/CCONJ sway/VERB a/DET bit/NOUN in/ADP order/NOUN to/PART correct/VERB his/DET balance/NOUN#0.0#0.0
+a man sways slowly from side to side.#a/DET man/NOUN sway/VERB slowly/ADV from/ADP side/NOUN to/ADP side/NOUN#0.0#0.0

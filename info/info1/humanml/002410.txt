@@ -1,0 +1,3 @@
+a person uses tool in right hand to stir.#a/DET person/NOUN use/VERB tool/NOUN in/ADP right/ADJ hand/NOUN to/PART stir/VERB#0.0#0.0
+a person is stirring a bowl.#a/DET person/NOUN is/AUX stir/VERB a/DET bowl/NOUN#0.0#0.0
+object is picked up from a shorter surface by a person, lightly shaken to stir, and then put back#object/NOUN is/AUX pick/VERB up/ADP from/ADP a/DET shorter/ADJ surface/NOUN by/ADP a/DET person/NOUN lightly/ADV shake/VERB to/PART stir/VERB and/CCONJ then/ADV put/VERB back/ADV#0.0#0.0

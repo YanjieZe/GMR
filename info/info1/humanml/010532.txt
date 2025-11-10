@@ -1,0 +1,3 @@
+a person who seems to do articulations for i'm a little teapot nursery rhyme#a/DET person/NOUN who/PRON seem/VERB to/PART do/AUX articulation/NOUN for/ADP i/PRON a/DET little/ADJ teapot/NOUN nursery/NOUN rhyme/NOUN#0.0#0.0
+a person doing the i'm a little tea pot dance.#a/DET person/NOUN do/VERB the/DET i/PRON a/DET little/ADJ tea/NOUN pot/NOUN dance/NOUN#0.0#0.0
+the man is doing a nursery rhyme#the/DET man/NOUN is/AUX do/VERB a/DET nursery/NOUN rhyme/NOUN#0.0#0.0

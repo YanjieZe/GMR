@@ -1,0 +1,3 @@
+a figure waves with their right hand at someone who appears to be leaving or in the distance#a/DET figure/NOUN wave/NOUN with/ADP their/DET right/ADJ hand/NOUN at/ADP someone/PRON who/PRON appear/VERB to/PART be/AUX leave/VERB or/CCONJ in/ADP the/DET distance/NOUN#0.0#0.0
+figure appears to be waving#figure/NOUN appear/VERB to/PART be/AUX wave/VERB#0.0#0.0
+person is waving to people#person/NOUN is/AUX wave/VERB to/ADP people/NOUN#0.0#0.0

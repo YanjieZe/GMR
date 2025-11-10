@@ -1,0 +1,3 @@
+a person makes a step slightly sideways and forward.#a/DET person/NOUN make/VERB a/DET step/NOUN slightly/ADV sideways/ADV and/CCONJ forward/ADV#0.0#0.0
+a figure steps forward, slightly unsteadily.#a/DET figure/NOUN step/VERB forward/ADV slightly/ADV unsteadily/ADJ#0.0#0.0
+this person takes two small steps forward.#this/DET person/NOUN take/VERB two/NUM small/ADJ step/NOUN forward/ADV#0.0#0.0

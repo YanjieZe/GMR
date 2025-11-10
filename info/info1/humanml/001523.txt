@@ -1,0 +1,3 @@
+a person feeling the back of their head.#a/DET person/NOUN feel/VERB the/DET back/NOUN of/ADP their/DET head/NOUN#0.0#0.0
+a person scratching his head.#a/DET person/NOUN scratch/VERB his/DET head/NOUN#0.0#0.0
+moves hand up and lets it stay up#move/NOUN hand/VERB up/ADP and/CCONJ let/VERB it/PRON stay/VERB up/ADP#0.0#0.0

@@ -1,0 +1,3 @@
+a person takes the last sip from a drink and then steps away.#a/DET person/NOUN take/VERB the/DET last/ADJ sip/NOUN from/ADP a/DET drink/NOUN and/CCONJ then/ADV step/VERB away/ADV#0.0#0.0
+a man uses his right hand,puts something in his mouth ,places it down and then stands back.#a/DET man/NOUN use/VERB his/DET right/ADJ hand/NOUN put/VERB something/PRON in/ADP his/DET mouth/NOUN place/VERB it/PRON down/ADP and/CCONJ then/ADV stand/VERB back/ADV#0.0#0.0
+a person touches their head then takes a step back.#a/DET person/NOUN touch/VERB their/DET head/NOUN then/ADV take/VERB a/DET step/NOUN back/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+the person was kneeling on one knee stood up.#the/DET person/NOUN was/AUX kneel/VERB on/ADP one/NUM knee/NOUN stand/VERB up/ADP#0.0#0.0
+crouch with one leg bent, stand up and bring your hands to your face.#crouch/ADJ with/ADP one/NUM leg/NOUN bent/NOUN stand/VERB up/ADP and/CCONJ bring/VERB your/DET hand/NOUN to/ADP your/DET face/NOUN#0.0#0.0
+a kneeling person stands up and raises their hands to their mouth.#a/DET kneel/VERB person/NOUN stand/VERB up/ADP and/CCONJ raise/VERB their/DET hand/NOUN to/ADP their/DET mouth/NOUN#0.0#0.0

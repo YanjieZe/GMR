@@ -1,0 +1,3 @@
+person moving some objects from one place to another#person/NOUN move/VERB some/DET object/NOUN from/ADP one/NUM place/NOUN to/ADP another/DET#0.0#0.0
+a person touches multiple things in front of them with both hands.#a/DET person/NOUN touch/VERB multiple/ADJ thing/NOUN in/ADP front/NOUN of/ADP them/PRON with/ADP both/DET hand/NOUN#0.0#0.0
+a person moves his arms like he is puting away items#a/DET person/NOUN move/VERB his/DET arm/NOUN like/SCONJ he/PRON is/AUX put/VERB away/ADP item/NOUN#0.0#0.0

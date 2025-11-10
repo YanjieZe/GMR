@@ -1,0 +1,3 @@
+person walking on uneven terrain by stepping up turning left thestepping down#person/NOUN walk/VERB on/ADP uneven/ADJ terrain/NOUN by/ADP step/VERB up/ADP turn/VERB left/ADV thesteppe/VERB down/ADV#0.0#0.0
+a person climbs up and down an object while walking across it.#a/DET person/NOUN climb/VERB up/ADP and/CCONJ down/ADP an/DET object/NOUN while/SCONJ walk/VERB across/ADP it/PRON#0.0#0.0
+a person walks down large stairs, turns left then steps up.#a/DET person/NOUN walk/VERB down/ADV large/ADJ stair/NOUN turn/VERB left/VERB then/ADV step/VERB up/ADP#0.0#0.0

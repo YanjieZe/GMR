@@ -1,0 +1,3 @@
+a person is walking backwards, turns around, then continues to walk backwards.#a/DET person/NOUN is/AUX walk/VERB backwards/ADV turn/VERB around/ADV then/ADV continue/VERB to/PART walk/VERB backwards/ADV#0.0#0.0
+a person walks backwards, turns around then walks backwards again.#a/DET person/NOUN walk/VERB backwards/ADV turn/VERB around/ADV then/ADV walk/VERB backwards/ADV again/ADV#0.0#0.0
+a person walks backwards and turns around.#a/DET person/NOUN walk/VERB backwards/ADV and/CCONJ turn/VERB around/ADV#0.0#0.0

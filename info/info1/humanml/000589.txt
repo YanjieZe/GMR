@@ -1,0 +1,3 @@
+with slightly bent knees, the person raises both arms outstreched to shoulder height.#with/ADP slightly/ADV bent/ADJ knee/NOUN the/DET person/NOUN raise/VERB both/DET arm/NOUN outstreche/VERB to/ADP shoulder/NOUN height/NOUN#0.0#0.0
+a person has his arms raised horizontally, lowers his arms back to his side, and then raises them horizontally again.#a/DET person/NOUN has/AUX his/DET arm/NOUN raise/VERB horizontally/ADV lower/VERB his/DET arm/NOUN back/ADV to/ADP his/DET side/NOUN and/CCONJ then/ADV raise/VERB them/PRON horizontally/ADV again/ADV#0.0#0.0
+a sitting person lowers their arms, then raises them.#a/DET sit/VERB person/NOUN lower/VERB their/DET arm/NOUN then/ADV raise/VERB them/PRON#0.0#0.0

@@ -1,0 +1,3 @@
+a person picks up and answers a phone with their left hand.#a/DET person/NOUN pick/VERB up/ADP and/CCONJ answer/VERB a/DET phone/NOUN with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0
+the man in a seated position makes tight, erratic movements with his left hand. both arms are bent and towards the front of the body#the/DET man/NOUN in/ADP a/DET seated/ADJ position/NOUN make/VERB tight/ADJ erratic/ADJ movement/NOUN with/ADP his/DET left/ADJ hand/NOUN both/DET arm/NOUN are/AUX bent/ADJ and/CCONJ towards/ADP the/DET front/NOUN of/ADP the/DET body/NOUN#0.0#0.0
+a person raises their left hand#a/DET person/NOUN raise/VERB their/DET left/ADJ hand/NOUN#0.0#0.0

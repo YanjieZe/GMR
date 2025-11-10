@@ -1,0 +1,3 @@
+the woman angerily kicked at the ground with her left foot.#the/DET woman/NOUN angerily/ADV kick/VERB at/ADP the/DET ground/NOUN with/ADP her/DET left/ADJ foot/NOUN#0.0#0.0
+a person is pacing back and forth putting their hands on their hips waiting for something.#a/DET person/NOUN is/AUX pace/VERB back/ADV and/CCONJ forth/ADV put/VERB their/DET hand/NOUN on/ADP their/DET hip/NOUN wait/VERB for/ADP something/PRON#0.0#0.0
+a person paces with their hands on their hips waiting for something.#a/DET person/NOUN pace/VERB with/ADP their/DET hand/NOUN on/ADP their/DET hip/NOUN wait/VERB for/ADP something/PRON#0.0#0.0

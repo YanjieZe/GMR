@@ -1,0 +1,3 @@
+the person was pointing to the left.#the/DET person/NOUN was/AUX point/VERB to/ADP the/DET left/NOUN#0.0#0.0
+person is stretching right arm#person/NOUN is/AUX stretch/VERB right/ADJ arm/NOUN#0.0#0.0
+a person stretching their right arm.#a/DET person/NOUN stretch/VERB their/DET right/ADJ arm/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person performs martials arts with their left arm blocking 4 times at a high level, one time at a mid level, and one time at a lower level.#a/DET person/NOUN perform/VERB martial/NOUN art/NOUN with/ADP their/DET left/ADJ arm/NOUN block/VERB time/NOUN at/ADP a/DET high/ADJ level/NOUN one/NUM time/NOUN at/ADP a/DET mid/ADJ level/NOUN and/CCONJ one/NUM time/NOUN at/ADP a/DET lower/ADJ level/NOUN#0.0#0.0
+a man is posing repeatedly with both of his arms.#a/DET man/NOUN is/AUX pose/VERB repeatedly/ADV with/ADP both/DET of/ADP his/DET arm/NOUN#0.0#0.0
+a person blocks attacks from above and below using their left arm.#a/DET person/NOUN block/VERB attack/NOUN from/ADP above/ADP and/CCONJ below/ADP use/VERB their/DET left/ADJ arm/NOUN#0.0#0.0

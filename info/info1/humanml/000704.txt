@@ -1,0 +1,3 @@
+walking in a straight line#walk/VERB in/ADP a/DET straight/ADJ line/NOUN#0.0#0.0
+a man walks forward, slightly bending his knees with both hands at his sides.#a/DET man/NOUN walk/VERB forward/ADV slightly/ADV bend/VERB his/DET knee/NOUN with/ADP both/DET hand/NOUN at/ADP his/DET side/NOUN#0.0#0.0
+a person walks forward and stops.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ stop/NOUN#0.0#0.0

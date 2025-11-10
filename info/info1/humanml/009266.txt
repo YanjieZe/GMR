@@ -1,0 +1,3 @@
+a person uses knife to cut object.#a/DET person/NOUN use/VERB knife/NOUN to/PART cut/VERB object/NOUN#0.0#0.0
+a person walks forward, reaches for something with his right hand, rubs that thing against his left hand, replaces the object and steps two spaces backwards.#a/DET person/NOUN walk/VERB forward/ADV reach/VERB for/ADP something/PRON with/ADP his/DET right/ADJ hand/NOUN rub/VERB that/DET thing/NOUN against/ADP his/DET left/ADJ hand/NOUN replace/VERB the/DET object/NOUN and/CCONJ step/VERB two/NUM space/NOUN backwards/ADV#0.0#0.0
+a person steps forward interacts with an item then steps back without the item#a/DET person/NOUN step/VERB forward/ADV interact/VERB with/ADP an/DET item/NOUN then/ADV step/VERB back/ADV without/ADP the/DET item/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person is using his left arm moving it up and down leaving his elbow still.#a/DET person/NOUN is/AUX use/VERB his/DET left/ADJ arm/NOUN move/VERB it/PRON up/ADP and/CCONJ down/ADP leave/VERB his/DET elbow/NOUN still/ADV#0.0#0.0
+he does a robot dance#he/PRON does/AUX a/DET robot/NOUN dance/NOUN#0.0#0.0
+a person raises and lowers their left hand.#a/DET person/NOUN raise/VERB and/CCONJ lower/VERB their/DET left/ADJ hand/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person bends forward and straights, and then bends forward to touch their feet.#a/DET person/NOUN bend/VERB forward/ADV and/CCONJ straight/NOUN and/CCONJ then/ADV bend/VERB forward/ADV to/PART touch/VERB their/DET foot/NOUN#0.0#0.0
+person has both arms above head before throwing them down and turning to the right#person/NOUN has/AUX both/CCONJ arm/NOUN above/ADP head/NOUN before/ADP throw/VERB them/PRON down/ADP and/CCONJ turn/VERB to/ADP the/DET right/NOUN#0.0#0.0
+a person bends their back to stretch.#a/DET person/NOUN bend/VERB their/DET back/NOUN to/ADP stretch/NOUN#0.0#0.0

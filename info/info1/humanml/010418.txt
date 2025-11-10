@@ -1,0 +1,3 @@
+the person was running to the right.#the/DET person/NOUN was/AUX run/VERB to/ADP the/DET right/NOUN#0.0#0.0
+a person who is standing pivots to the left then dashes to his right.#a/DET person/NOUN who/PRON is/AUX stand/VERB pivot/NOUN to/ADP the/DET left/NOUN then/ADV dash/VERB to/ADP his/DET right/NOUN#0.0#0.0
+a person quickly lunges to the right then pivots and runs to the left.#a/DET person/NOUN quickly/ADV lunge/VERB to/ADP the/DET right/NOUN then/ADV pivot/NOUN and/CCONJ run/VERB to/ADP the/DET left/NOUN#0.0#0.0

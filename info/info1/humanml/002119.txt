@@ -1,0 +1,3 @@
+a man walks the path of a figure 8, moderately fast.#a/DET man/NOUN walk/VERB the/DET path/NOUN of/ADP a/DET figure/NOUN moderately/ADV fast/ADV#0.0#0.0
+a person looks around then walks in a swerving pattern.#a/DET person/NOUN look/VERB around/ADP then/ADV walk/VERB in/ADP a/DET swerve/VERB pattern/NOUN#0.0#0.0
+a person walks left and forward then circles to the right and back.#a/DET person/NOUN walk/VERB left/VERB and/CCONJ forward/ADV then/ADV circle/VERB to/ADP the/DET right/NOUN and/CCONJ back/ADV#0.0#0.0

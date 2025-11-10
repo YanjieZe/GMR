@@ -1,0 +1,3 @@
+the person had his arms straight out then down on his lap then he put them straight out again.#the/DET person/NOUN had/AUX his/DET arm/NOUN straight/ADV out/ADV then/ADV down/ADV on/ADP his/DET lap/NOUN then/ADV he/PRON put/VERB them/PRON straight/ADV out/ADV again/ADV#0.0#0.0
+a man stand with his knees bent and puts hands on her thighs.#a/DET man/NOUN stand/VERB with/ADP his/DET knee/NOUN bent/ADJ and/CCONJ put/VERB hand/NOUN on/ADP her/DET thigh/NOUN#0.0#0.0
+person is moving head back and forth#person/NOUN is/AUX move/VERB head/ADV back/ADV and/CCONJ forth/ADV#0.0#0.0

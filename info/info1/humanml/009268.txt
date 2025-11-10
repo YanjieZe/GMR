@@ -1,0 +1,3 @@
+person dances side to side three to four times holding someone in their hands#person/NOUN dance/VERB side/NOUN to/PART side/VERB three/NUM to/PART four/NUM time/NOUN hold/VERB someone/PRON in/ADP their/DET hand/NOUN#0.0#0.0
+this person looks as if he is dancing.#this/DET person/NOUN look/VERB as/SCONJ if/SCONJ he/PRON is/AUX dance/VERB#0.0#0.0
+person appears to do a dance move then moves to the left and right repeatedly.#person/NOUN appear/VERB to/PART do/AUX a/DET dance/NOUN move/NOUN then/ADV move/VERB to/ADP the/DET left/NOUN and/CCONJ right/ADV repeatedly/ADV#0.0#0.0

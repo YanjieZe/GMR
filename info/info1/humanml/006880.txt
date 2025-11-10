@@ -1,0 +1,3 @@
+a person standing with legs slightly bent, raising both arms out to the side.#a/DET person/NOUN stand/VERB with/ADP leg/NOUN slightly/ADV bent/ADJ raise/VERB both/DET arm/NOUN out/SCONJ to/ADP the/DET side/NOUN#0.0#0.0
+raising their arms up and out to the sides#raise/VERB their/DET arm/NOUN up/ADP and/CCONJ out/ADV to/ADP the/DET side/NOUN#0.0#0.0
+a person raised right and left hand#a/DET person/NOUN raise/VERB right/ADJ and/CCONJ left/VERB hand/NOUN#0.0#0.0

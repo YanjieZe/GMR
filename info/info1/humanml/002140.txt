@@ -1,0 +1,3 @@
+a person falls backward, resting their back against an object and then stretches their legs out.#a/DET person/NOUN fall/VERB backward/ADV rest/VERB their/DET back/NOUN against/ADP an/DET object/NOUN and/CCONJ then/ADV stretch/VERB their/DET leg/NOUN out/ADP#0.0#0.0
+a man sits on the floor and extends his legs.#a/DET man/NOUN sit/VERB on/ADP the/DET floor/NOUN and/CCONJ extend/VERB his/DET leg/NOUN#0.0#0.0
+a standing person squats down and sits, then raises their legs and relaxes.#a/DET stand/VERB person/NOUN squat/VERB down/ADP and/CCONJ sit/VERB then/ADV raise/VERB their/DET leg/NOUN and/CCONJ relaxe/NOUN#0.0#0.0

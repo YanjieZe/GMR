@@ -1,0 +1,3 @@
+a person is jogging forward.#a/DET person/NOUN is/AUX jog/VERB forward/ADV#0.0#0.0
+a man walks forward in a straight line.#a/DET man/NOUN walk/VERB forward/ADV in/ADP a/DET straight/ADJ line/NOUN#0.0#0.0
+person jogs forward three steps with arms and hands chest height#person/NOUN jog/VERB forward/ADV three/NUM step/NOUN with/ADP arm/NOUN and/CCONJ hand/NOUN chest/NOUN height/NOUN#0.0#0.0

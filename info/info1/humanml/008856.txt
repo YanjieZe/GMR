@@ -1,0 +1,3 @@
+a person standing with feet shoulders with, with both halds clasped in the center of their chest#a/DET person/NOUN stand/VERB with/ADP foot/NOUN shoulder/NOUN with/ADP with/ADP both/DET hald/NOUN clasp/VERB in/ADP the/DET center/NOUN of/ADP their/DET chest/NOUN#0.0#0.0
+the person stands up still with hands in prayer position#the/DET person/NOUN stand/VERB up/ADP still/ADV with/ADP hand/NOUN in/ADP prayer/NOUN position/NOUN#0.0#0.0
+a person stands in a pose for prayer.#a/DET person/NOUN stand/VERB in/ADP a/DET pose/NOUN for/ADP prayer/NOUN#0.0#0.0

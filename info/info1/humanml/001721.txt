@@ -1,0 +1,3 @@
+a person stands in place with their arms bent.#a/DET person/NOUN stand/VERB in/ADP place/NOUN with/ADP their/DET arm/NOUN bent/ADJ#0.0#0.0
+a person stands still and steadies themselves#a/DET person/NOUN stand/VERB still/ADV and/CCONJ steady/VERB themselves/PRON#0.0#0.0
+someone uses their left leg to lean to the left side and then goes back to their original position using both feet.#someone/PRON use/VERB their/DET left/ADJ leg/NOUN to/PART lean/VERB to/ADP the/DET left/ADJ side/NOUN and/CCONJ then/ADV go/VERB back/ADV to/ADP their/DET original/ADJ position/NOUN use/VERB both/DET foot/NOUN#1.0#2.0

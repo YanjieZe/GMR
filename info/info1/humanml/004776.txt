@@ -1,0 +1,3 @@
+a man moving like a chicken.#a/DET man/NOUN move/VERB like/SCONJ a/DET chicken/NOUN#0.0#0.0
+a person puts their hands to their armpits and wiggles their elbows#a/DET person/NOUN put/VERB their/DET hand/NOUN to/ADP their/DET armpit/NOUN and/CCONJ wiggle/VERB their/DET elbow/NOUN#0.0#0.0
+a person bends their arms with their hands under their armpits and flaps their arms like wings#a/DET person/NOUN bend/VERB their/DET arm/NOUN with/ADP their/DET hand/NOUN under/ADP their/DET armpit/NOUN and/CCONJ flap/VERB their/DET arm/NOUN like/SCONJ wing/NOUN#0.0#0.0

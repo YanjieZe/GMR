@@ -1,0 +1,3 @@
+a person holds an instrument that looks like a violin in their left hand and then plays it with their right.#a/DET person/NOUN hold/VERB an/DET instrument/NOUN that/DET look/VERB like/SCONJ a/DET violin/NOUN in/ADP their/DET left/ADJ hand/NOUN and/CCONJ then/ADV play/VERB it/PRON with/ADP their/DET right/NOUN#0.0#0.0
+the person is playing the violin with his right arm.#the/DET person/NOUN is/AUX play/VERB the/DET violin/NOUN with/ADP his/DET right/ADJ arm/NOUN#0.0#0.0
+person lifts left hand still and lifts right arm and goes in back and fourth motions#person/NOUN lift/VERB left/VERB hand/NOUN still/ADV and/CCONJ lift/VERB right/ADJ arm/NOUN and/CCONJ go/VERB in/ADV back/ADJ and/CCONJ fourth/ADJ motion/NOUN#0.0#0.0

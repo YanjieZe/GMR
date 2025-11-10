@@ -1,0 +1,3 @@
+person walking with unsteady gait reaches out with left amr before standing still and reaching with both hands to something infront of him and below his waist#person/NOUN walk/VERB with/ADP unsteady/ADJ gait/NOUN reach/VERB out/ADP with/ADP left/VERB amr/NOUN before/ADP stand/VERB still/ADV and/CCONJ reach/VERB with/ADP both/DET hand/NOUN to/ADP something/PRON infront/ADV of/ADP him/PRON and/CCONJ below/ADP his/DET waist/NOUN#0.0#0.0
+a person is drunk and carrying a mug#a/DET person/NOUN is/AUX drunk/ADJ and/CCONJ carry/VERB a/DET mug/NOUN#0.0#0.0
+a stumbling person reaches for an object clumsily.#a/DET stumble/VERB person/NOUN reach/VERB for/ADP an/DET object/NOUN clumsily/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks with arms flapping then brings arms to the front and bends elbows and wrists.#a/DET person/NOUN walk/VERB with/ADP arm/NOUN flap/VERB then/ADV bring/VERB arm/NOUN to/ADP the/DET front/NOUN and/CCONJ bend/VERB elbow/NOUN and/CCONJ wrist/NOUN#0.0#0.0
+someone acting like a bird#someone/PRON act/VERB like/SCONJ a/DET bird/NOUN#0.0#0.0
+a person flaps their arms up and down while stepping around#a/DET person/NOUN flap/VERB their/DET arm/NOUN up/ADP and/CCONJ down/ADV while/SCONJ step/VERB around/ADV#0.0#0.0

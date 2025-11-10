@@ -1,0 +1,3 @@
+the person is swatting at a mosquito.#the/DET person/NOUN is/AUX swat/VERB at/ADP a/DET mosquito/NOUN#0.0#0.0
+a person steps forward and slaps their left wrist.#a/DET person/NOUN step/VERB forward/ADV and/CCONJ slap/VERB their/DET left/ADJ wrist/NOUN#0.0#0.0
+a man steps forward and then hits his left wrist with his right hand.#a/DET man/NOUN step/VERB forward/ADV and/CCONJ then/ADV hit/VERB his/DET left/ADJ wrist/NOUN with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+the person jumped  2  steps  forward.#the/DET person/NOUN jump/VERB step/NOUN forward/ADV#0.0#0.0
+the man is making 2 jumps#the/DET man/NOUN is/AUX make/VERB jump/NOUN#0.0#0.0
+person jumps forward and to the right two times.#person/NOUN jump/VERB forward/ADV and/CCONJ to/ADP the/DET right/ADJ two/NUM time/NOUN#0.0#0.0

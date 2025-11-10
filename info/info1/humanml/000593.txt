@@ -1,0 +1,3 @@
+a stick figure clasps botg hands and swings them foward#a/DET stick/NOUN figure/NOUN clasps/NOUN botg/NOUN hand/NOUN and/CCONJ swing/VERB them/PRON foward/ADJ#0.0#0.0
+a person swings a golf club.#a/DET person/NOUN swing/VERB a/DET golf/NOUN club/NOUN#0.0#0.0
+a man swings a golf club to the left.#a/DET man/NOUN swing/VERB a/DET golf/NOUN club/NOUN to/ADP the/DET left/NOUN#0.0#0.0

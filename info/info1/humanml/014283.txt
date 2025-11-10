@@ -1,0 +1,3 @@
+the toon is walking in a zig zag motion, shuffling a bit at the end of the "plane".#the/DET toon/NOUN is/AUX walk/VERB in/ADP a/DET zig/NOUN zag/X motion/NOUN shuffle/VERB a/DET bit/NOUN at/ADP the/DET end/NOUN of/ADP the/DET plane/NOUN#0.0#7.0
+a person walks on stepping stones.#a/DET person/NOUN walk/VERB on/ADP stepping/ADJ stone/NOUN#0.0#0.0
+a person takes deliberate steps, some much larger steps and some much smaller steps, to cross stepping stones.#a/DET person/NOUN take/VERB deliberate/ADJ step/NOUN some/DET much/ADV larger/ADJ step/NOUN and/CCONJ some/DET much/ADV smaller/ADJ step/NOUN to/PART cross/VERB stepping/ADJ stone/NOUN#0.0#0.0

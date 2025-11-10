@@ -1,0 +1,3 @@
+a person walking right and left seems he/she is distressed#a/DET person/NOUN walk/VERB right/ADV and/CCONJ left/VERB seem/VERB he/PRON she/PRON is/AUX distressed/ADJ#0.0#0.0
+walking from side to side.#walk/VERB from/ADP side/NOUN to/ADP side/NOUN#0.0#0.0
+the person is walking back and forward left to right.#the/DET person/NOUN is/AUX walk/VERB back/ADV and/CCONJ forward/ADV left/VERB to/ADP right/NOUN#0.0#0.0

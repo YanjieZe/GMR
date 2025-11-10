@@ -1,0 +1,3 @@
+walking forward and jumping.#walk/VERB forward/ADV and/CCONJ jump/VERB#0.0#0.0
+a person walks forward and then leaps over some object on the ground  before continuing walking.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ then/ADV leap/VERB over/ADP some/DET object/NOUN on/ADP the/DET ground/NOUN before/ADP continue/VERB walking/NOUN#0.0#0.0
+a person walks forward, jumps over something, then continues to walk.#a/DET person/NOUN walk/VERB forward/ADV jump/VERB over/ADP something/PRON then/ADV continue/VERB to/PART walk/VERB#0.0#0.0

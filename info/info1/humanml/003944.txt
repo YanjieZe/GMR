@@ -1,0 +1,3 @@
+he walks forward than turns backward#he/PRON walk/VERB forward/ADV than/SCONJ turn/VERB backward/ADJ#0.0#0.0
+a person is happily walking forward before swinging their left foot in a counter clockwise circle and walking back#a/DET person/NOUN is/AUX happily/ADV walk/VERB forward/ADV before/ADP swinge/VERB their/DET left/ADJ foot/NOUN in/ADP a/DET counter/NOUN clockwise/NOUN circle/NOUN and/CCONJ walk/VERB back/ADV#0.0#0.0
+while walking, a person does an about face and turns the other direction#while/SCONJ walk/VERB a/DET person/NOUN does/AUX an/DET about/ADP face/NOUN and/CCONJ turn/VERB the/DET other/ADJ direction/NOUN#0.0#0.0

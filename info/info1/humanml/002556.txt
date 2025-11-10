@@ -1,0 +1,3 @@
+a person crosses their arms then uncrosses them.#a/DET person/NOUN cross/VERB their/DET arm/NOUN then/ADV uncross/VERB them/PRON#0.0#0.0
+a person crosses his arms and returns them to his side.#a/DET person/NOUN cross/VERB his/DET arm/NOUN and/CCONJ return/VERB them/PRON to/ADP his/DET side/NOUN#0.0#0.0
+person is crossing arms.#person/NOUN is/AUX cross/VERB arm/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+with his right hand, a person is sewing something that he is holding in his left hand.#with/ADP his/DET right/ADJ hand/NOUN a/DET person/NOUN is/AUX sew/VERB something/PRON that/DET he/PRON is/AUX hold/VERB in/ADP his/DET left/ADJ hand/NOUN#0.0#0.0
+a person opens something they're holding in their left hand with their right hand.#a/DET person/NOUN open/VERB something/PRON they/PRON hold/VERB in/ADP their/DET left/ADJ hand/NOUN with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+a person appears to take something off of a shelf and put it in a jar.#a/DET person/NOUN appear/VERB to/PART take/VERB something/PRON off/ADP of/ADP a/DET shelf/NOUN and/CCONJ put/VERB it/PRON in/ADP a/DET jar/NOUN#0.0#0.0

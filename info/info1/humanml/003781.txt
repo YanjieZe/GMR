@@ -1,0 +1,3 @@
+a person swings both arms back, slightly bends knees and then jumps forward.#a/DET person/NOUN swing/VERB both/DET arm/NOUN back/ADV slightly/ADV bend/VERB knee/NOUN and/CCONJ then/ADV jump/VERB forward/ADV#0.0#0.0
+person swings arms back and squats down then does a big leap forward.#person/NOUN swing/VERB arm/NOUN back/ADV and/CCONJ squat/VERB down/ADV then/ADV does/AUX a/DET big/ADJ leap/NOUN forward/ADV#0.0#0.0
+a person jumps down a grey block#a/DET person/NOUN jump/VERB down/ADP a/DET grey/ADJ block/NOUN#0.0#0.0

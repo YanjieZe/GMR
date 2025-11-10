@@ -1,0 +1,3 @@
+a man steps forward and scuffs the ground with his right foot, then steps back to his original position.#a/DET man/NOUN step/VERB forward/ADV and/CCONJ scuff/VERB the/DET ground/NOUN with/ADP his/DET right/ADJ foot/NOUN then/ADV step/VERB back/ADV to/ADP his/DET original/ADJ position/NOUN#0.0#0.0
+the person is putting out a cigarette.#the/DET person/NOUN is/AUX put/VERB out/ADP a/DET cigarette/NOUN#0.0#0.0
+a person kicks something off their right foot.#a/DET person/NOUN kick/VERB something/PRON off/ADP their/DET right/ADJ foot/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+stretching legs from side to side.#stretch/VERB leg/NOUN from/ADP side/NOUN to/ADP side/NOUN#0.0#0.0
+a person throws a forceful, lunging karate punch with his right hand.#a/DET person/NOUN throw/VERB a/DET forceful/ADJ lunge/VERB karate/NOUN punch/VERB with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+a person makes a right handed hit below the crotch.#a/DET person/NOUN make/VERB a/DET right/ADJ hand/VERB hit/NOUN below/ADP the/DET crotch/NOUN#0.0#0.0

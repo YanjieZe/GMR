@@ -1,0 +1,3 @@
+a person salsa dances around#a/DET person/NOUN salsa/NOUN dance/NOUN around/ADV#0.0#0.0
+while maintaining your hands open at hip level as if you were dancing with someone, move your hips back and forth. stepping forward twice and then stepping to the right side, continue small short steps#while/SCONJ maintain/VERB your/DET hand/NOUN open/ADJ at/ADP hip/NOUN level/NOUN as/SCONJ if/SCONJ you/PRON were/AUX dance/VERB with/ADP someone/PRON move/VERB your/DET hip/NOUN back/ADV and/CCONJ forth/ADV step/VERB forward/ADV twice/ADV and/CCONJ then/ADV step/VERB to/ADP the/DET right/ADJ side/NOUN continue/VERB small/ADJ short/ADJ step/NOUN#0.0#0.0
+a person dances while walking  forward#a/DET person/NOUN dance/VERB while/SCONJ walk/VERB forward/ADV#0.0#0.0

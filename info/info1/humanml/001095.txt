@@ -1,0 +1,3 @@
+a man immediately sits on an invisible stool. arms too stiff to seem natural#a/DET man/NOUN immediately/ADV sit/VERB on/ADP an/DET invisible/ADJ stool/NOUN arm/NOUN too/ADV stiff/ADJ to/PART seem/VERB natural/ADJ#0.0#0.0
+person lowers body slightly and sits on buttocks on something solid#person/NOUN lower/VERB body/NOUN slightly/ADV and/CCONJ sit/VERB on/ADP buttock/NOUN on/ADP something/PRON solid/ADJ#0.0#0.0
+the man is standing still doing nothing#the/DET man/NOUN is/AUX stand/VERB still/ADV do/VERB nothing/PRON#0.0#0.0

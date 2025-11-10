@@ -1,0 +1,3 @@
+a person is standing with their right and left arms in front of them#a/DET person/NOUN is/AUX stand/VERB with/ADP their/DET right/ADJ and/CCONJ left/VERB arm/NOUN in/ADP front/NOUN of/ADP them/PRON#0.0#0.0
+the man is standing with feet and hands apart and his hands resting in front of him on something just below shoulder level.#the/DET man/NOUN is/AUX stand/VERB with/ADP foot/NOUN and/CCONJ hand/NOUN apart/ADV and/CCONJ his/DET hand/NOUN rest/VERB in/ADP front/NOUN of/ADP him/PRON on/ADP something/PRON just/ADV below/ADP shoulder/NOUN level/NOUN#0.0#0.0
+a person stands with arms stretched in front of his body.#a/DET person/NOUN stand/VERB with/ADP arm/NOUN stretch/VERB in/ADP front/NOUN of/ADP his/DET body/NOUN#0.0#0.0

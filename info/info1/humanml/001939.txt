@@ -1,0 +1,3 @@
+a man raises his right arm and the lowers it and raises his left.#a/DET man/NOUN raise/VERB his/DET right/ADJ arm/NOUN and/CCONJ the/DET lower/NOUN it/PRON and/CCONJ raise/VERB his/DET left/NOUN#0.0#0.0
+a person waves with his right hand and then his left hand.#a/DET person/NOUN wave/VERB with/ADP his/DET right/ADJ hand/NOUN and/CCONJ then/ADV his/DET left/ADJ hand/NOUN#0.0#0.0
+a person stretches their elbows while warming up.#a/DET person/NOUN stretch/VERB their/DET elbow/NOUN while/SCONJ warm/VERB up/ADP#0.0#0.0

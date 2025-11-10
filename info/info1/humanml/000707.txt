@@ -1,0 +1,3 @@
+the person raises his right arm and points, steps to his right and pauses like he is talking to someone, then raises his arm and points again.#the/DET person/NOUN raise/VERB his/DET right/ADJ arm/NOUN and/CCONJ point/NOUN step/VERB to/ADP his/DET right/NOUN and/CCONJ pause/VERB like/SCONJ he/PRON is/AUX talk/VERB to/ADP someone/PRON then/ADV raise/VERB his/DET arm/NOUN and/CCONJ point/NOUN again/ADV#0.0#0.0
+a person side steps to the right and reaches up with his right hand grab something.#a/DET person/NOUN side/NOUN step/NOUN to/ADP the/DET right/NOUN and/CCONJ reach/VERB up/ADP with/ADP his/DET right/ADJ hand/NOUN grab/NOUN something/PRON#0.0#0.0
+person is waving and walking.#person/NOUN is/AUX wave/VERB and/CCONJ walk/VERB#0.0#0.0

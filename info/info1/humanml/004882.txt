@@ -1,0 +1,3 @@
+he picks up a bowl and eats from it.#he/PRON pick/VERB up/ADP a/DET bowl/NOUN and/CCONJ eat/VERB from/ADP it/PRON#0.0#0.0
+person is squatting, moves hands from being held up to the knees and then back to holding them up.#person/NOUN is/AUX squat/VERB move/VERB hand/NOUN from/ADP being/AUX hold/VERB up/ADP to/ADP the/DET knee/NOUN and/CCONJ then/ADV back/ADV to/ADP hold/VERB them/PRON up/ADP#0.0#6.0
+a man is crouching and malipulating something in front of him.#a/DET man/NOUN is/AUX crouch/VERB and/CCONJ malipulate/VERB something/PRON in/ADP front/NOUN of/ADP him/PRON#0.0#0.0

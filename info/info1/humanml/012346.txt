@@ -1,0 +1,3 @@
+a person squats and puts their hands together in front of them.#a/DET person/NOUN squat/VERB and/CCONJ put/VERB their/DET hand/NOUN together/ADV in/ADP front/NOUN of/ADP them/PRON#0.0#0.0
+the person squatted down to look at something.#the/DET person/NOUN squat/VERB down/ADP to/PART look/VERB at/ADP something/PRON#0.0#0.0
+moving arms down near chest.#move/VERB arm/NOUN down/ADV near/SCONJ chest/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+there is a person wiggling their arms.#there/PRON is/AUX a/DET person/NOUN wiggle/VERB their/DET arm/NOUN#0.0#0.0
+a person is dancing and waving their arms#a/DET person/NOUN is/AUX dance/VERB and/CCONJ wave/VERB their/DET arm/NOUN#0.0#0.0
+figure grooves with hands waving at sides#figure/NOUN groove/NOUN with/ADP hand/NOUN wave/VERB at/ADP side/NOUN#0.0#0.0

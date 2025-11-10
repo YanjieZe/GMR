@@ -1,0 +1,3 @@
+a person sprints forward and then turns around.#a/DET person/NOUN sprint/VERB forward/ADV and/CCONJ then/ADV turn/VERB around/ADV#0.0#0.0
+person runs briskly forward, stops suddenly, then turns around and strikes a pose.#person/NOUN run/VERB briskly/ADV forward/ADV stop/VERB suddenly/ADV then/ADV turn/VERB around/ADV and/CCONJ strike/VERB a/DET pose/NOUN#0.0#0.0
+person runs forward six step and then faces other way after turning#person/NOUN run/VERB forward/ADV six/NUM step/NOUN and/CCONJ then/ADV face/VERB other/ADJ way/NOUN after/ADP turn/VERB#0.0#0.0

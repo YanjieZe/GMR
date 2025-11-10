@@ -1,0 +1,3 @@
+the person starts throwing something across#the/DET person/NOUN start/VERB throw/VERB something/PRON across/ADP#0.0#0.0
+moving arms above head once.#move/VERB arm/NOUN above/ADP head/VERB once/ADV#0.0#0.0
+a person shakily throws with their right hand.#a/DET person/NOUN shakily/ADV throw/VERB with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0

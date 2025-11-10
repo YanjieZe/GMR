@@ -1,0 +1,3 @@
+person stomps their right foot once.#person/NOUN stomp/VERB their/DET right/ADJ foot/NOUN once/ADV#0.0#0.0
+person stomps their left foot.#person/NOUN stomp/VERB their/DET left/ADJ foot/NOUN#0.0#0.0
+person lifts right foot and stomps onto ground#person/NOUN lift/VERB right/ADJ foot/NOUN and/CCONJ stomp/NOUN onto/ADP ground/NOUN#0.0#0.0

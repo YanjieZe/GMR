@@ -1,0 +1,3 @@
+a person does jumping jacks.#a/DET person/NOUN does/AUX jump/VERB jack/NOUN#0.0#0.0
+a person does some jumping jacks.#a/DET person/NOUN does/AUX some/DET jump/VERB jack/NOUN#0.0#0.0
+a man does jumping jacks, hopping as he alternates between spreading his arms and legs wide and bringing them back in.#a/DET man/NOUN does/AUX jump/VERB jack/NOUN hop/VERB as/SCONJ he/PRON alternate/VERB between/ADP spread/VERB his/DET arm/NOUN and/CCONJ leg/NOUN wide/ADJ and/CCONJ bring/VERB them/PRON back/ADV in/ADV#0.0#0.0

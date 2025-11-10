@@ -1,0 +1,3 @@
+a person walks slowly on a balance beam while grasping the handrails.#a/DET person/NOUN walk/VERB slowly/ADV on/ADP a/DET balance/NOUN beam/NOUN while/SCONJ grasp/VERB the/DET handrail/NOUN#0.0#0.0
+a person walks forward while holding onto something with both hands.#a/DET person/NOUN walk/VERB forward/ADV while/SCONJ hold/VERB onto/ADP something/PRON with/ADP both/DET hand/NOUN#0.0#0.0
+walking forward with arms outstreched#walk/VERB forward/ADV with/ADP arm/NOUN outstreche/VERB#0.0#0.0

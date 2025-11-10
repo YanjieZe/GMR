@@ -1,0 +1,3 @@
+this person is running in place, moving his arms as he does so.#this/DET person/NOUN is/AUX run/VERB in/ADP place/NOUN move/VERB his/DET arm/NOUN as/SCONJ he/PRON does/AUX so/ADV#0.0#0.0
+a person ran in the place forward#a/DET person/NOUN run/VERB in/ADP the/DET place/NOUN forward/ADV#0.0#0.0
+a person runs in place#a/DET person/NOUN run/VERB in/ADP place/NOUN#0.0#0.0

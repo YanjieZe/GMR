@@ -1,0 +1,3 @@
+person is hopping from one spot to another.#person/NOUN is/AUX hop/VERB from/ADP one/NUM spot/NOUN to/ADP another/DET#0.0#0.0
+a person jumps forward, and lands on both of their feet.#a/DET person/NOUN jump/VERB forward/ADV and/CCONJ land/NOUN on/ADP both/DET of/ADP their/DET foot/NOUN#0.0#0.0
+a person squats and jumps forward in a straight line.#a/DET person/NOUN squat/VERB and/CCONJ jump/VERB forward/ADV in/ADP a/DET straight/ADJ line/NOUN#0.0#0.0

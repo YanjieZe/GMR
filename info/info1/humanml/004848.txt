@@ -1,0 +1,3 @@
+a person is walking forward and comes to a stop.#a/DET person/NOUN is/AUX walk/VERB forward/ADV and/CCONJ come/VERB to/ADP a/DET stop/NOUN#0.0#0.0
+a person moves his weight to his toes, bends forward, and walks forward on his toes.#a/DET person/NOUN move/VERB his/DET weight/NOUN to/ADP his/DET toe/NOUN bend/VERB forward/ADV and/CCONJ walk/VERB forward/ADV on/ADP his/DET toe/NOUN#0.0#0.0
+a person bends down halfway, then walks forward.#a/DET person/NOUN bend/VERB down/ADP halfway/ADV then/ADV walk/VERB forward/ADV#0.0#0.0

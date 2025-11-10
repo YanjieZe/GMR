@@ -1,0 +1,3 @@
+person raises right arm and bends twice to the left.#person/NOUN raise/VERB right/ADJ arm/NOUN and/CCONJ bend/VERB twice/ADV to/ADP the/DET left/NOUN#0.0#0.0
+the person is saluting someone.#the/DET person/NOUN is/AUX salute/VERB someone/PRON#0.0#0.0
+a person lifts right hand to head and lowers hand.#a/DET person/NOUN lift/VERB right/ADJ hand/NOUN to/PART head/VERB and/CCONJ lower/VERB hand/NOUN#0.0#0.0

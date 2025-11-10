@@ -1,0 +1,3 @@
+a person tosses out a small object to a crowd#a/DET person/NOUN toss/VERB out/ADP a/DET small/ADJ object/NOUN to/ADP a/DET crowd/NOUN#0.0#0.0
+moving arms in and out.#move/VERB arm/NOUN in/ADP and/CCONJ out/ADV#0.0#0.0
+moving hands and through some thing on the floor.#move/VERB hand/NOUN and/CCONJ through/ADP some/DET thing/NOUN on/ADP the/DET floor/NOUN#0.0#0.0

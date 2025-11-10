@@ -1,0 +1,3 @@
+a person claps at normal pace , pauses and starts to clap again#a/DET person/NOUN clap/VERB at/ADP normal/ADJ pace/NOUN pause/VERB and/CCONJ start/VERB to/PART clap/VERB again/ADV#0.0#0.0
+a person is standing up and strikes both hands together at neck level, repetitively.#a/DET person/NOUN is/AUX stand/VERB up/ADP and/CCONJ strike/VERB both/DET hand/NOUN together/ADV at/ADP neck/NOUN level/NOUN repetitively/ADV#0.0#0.0
+a person is standing and clapping his hands.#a/DET person/NOUN is/AUX stand/VERB and/CCONJ clap/VERB his/DET hand/NOUN#0.0#0.0

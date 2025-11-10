@@ -1,0 +1,3 @@
+a person leans on something to their left with their left hand and kicks out right leg.#a/DET person/NOUN lean/VERB on/ADP something/PRON to/ADP their/DET left/NOUN with/ADP their/DET left/ADJ hand/NOUN and/CCONJ kick/VERB out/ADP right/ADJ leg/NOUN#0.0#0.0
+a person walk forward, trips but catches their fall with a side step to the left#a/DET person/NOUN walk/VERB forward/ADV trip/NOUN but/CCONJ catch/VERB their/DET fall/NOUN with/ADP a/DET side/NOUN step/NOUN to/ADP the/DET left/NOUN#0.0#0.0
+a person kicked something with right leg#a/DET person/NOUN kick/VERB something/PRON with/ADP right/ADJ leg/NOUN#0.0#0.0

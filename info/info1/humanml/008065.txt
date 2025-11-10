@@ -1,0 +1,3 @@
+a person walks forward and effortlessly kicks something that is on the ground.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ effortlessly/ADV kick/VERB something/PRON that/DET is/AUX on/ADP the/DET ground/NOUN#0.0#0.0
+person moves forward and kicks left leg in front of them#person/NOUN move/VERB forward/ADV and/CCONJ kick/VERB left/VERB leg/NOUN in/ADP front/NOUN of/ADP them/PRON#0.0#0.0
+the person is kicking  with their left foot.#the/DET person/NOUN is/AUX kick/VERB with/ADP their/DET left/ADJ foot/NOUN#0.0#0.0

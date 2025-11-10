@@ -1,0 +1,3 @@
+he is running very fast.#he/PRON is/AUX run/VERB very/ADV fast/ADV#0.0#0.0
+someone begins jogging, then comes to a sudden halt.#someone/PRON begin/VERB jog/VERB then/ADV come/VERB to/ADP a/DET sudden/ADJ halt/NOUN#0.0#0.0
+a person runs forward while bending their arms at the elbow#a/DET person/NOUN run/VERB forward/ADV while/SCONJ bend/VERB their/DET arm/NOUN at/ADP the/DET elbow/NOUN#0.0#0.0

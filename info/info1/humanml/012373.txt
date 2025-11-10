@@ -1,0 +1,3 @@
+the sim appears to be cleaning an object like a car.#the/DET sim/PROPN appear/VERB to/PART be/AUX clean/VERB an/DET object/NOUN like/SCONJ a/DET car/NOUN#0.0#0.0
+a man steps to the side as if he is stepping in front of something such as a dog, and starts petting it.#a/DET man/NOUN step/VERB to/ADP the/DET side/NOUN as/SCONJ if/SCONJ he/PRON is/AUX step/VERB in/ADP front/NOUN of/ADP something/PRON such/ADJ as/SCONJ a/DET dog/NOUN and/CCONJ start/VERB pet/VERB it/PRON#0.0#0.0
+a person moves around an unseen object, and then uses something in their hands to wipe it down.#a/DET person/NOUN move/VERB around/ADP an/DET unseen/ADJ object/NOUN and/CCONJ then/ADV use/VERB something/PRON in/ADP their/DET hand/NOUN to/PART wipe/VERB it/PRON down/ADP#0.0#0.0

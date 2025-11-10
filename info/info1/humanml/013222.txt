@@ -1,0 +1,3 @@
+a person hops forward then turns around and hops back past where they started.#a/DET person/NOUN hop/VERB forward/ADV then/ADV turn/VERB around/ADP and/CCONJ hop/VERB back/ADV past/ADV where/ADV they/PRON start/VERB#0.0#0.0
+a person stepping in zig-zag like motion and hopping away while alternating legs#a/DET person/NOUN step/VERB in/ADP zigzag/PROPN like/SCONJ motion/NOUN and/CCONJ hop/VERB away/ADV while/SCONJ alternate/VERB leg/NOUN#0.0#0.0
+a person scampers forward and to his right, turns around, and scampers in the other direction.#a/DET person/NOUN scamper/VERB forward/ADV and/CCONJ to/ADP his/DET right/NOUN turn/VERB around/ADV and/CCONJ scamper/NOUN in/ADP the/DET other/ADJ direction/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+the man sits and stares#the/DET man/NOUN sit/VERB and/CCONJ stare/NOUN#0.0#0.0
+a person slowly stands up from their squatting position, both hands firmly resting on each knee, and the person slowly straightens their upper body.#a/DET person/NOUN slowly/ADV stand/VERB up/ADP from/ADP their/DET squat/VERB position/NOUN both/DET hand/NOUN firmly/ADV rest/VERB on/ADP each/DET knee/NOUN and/CCONJ the/DET person/NOUN slowly/ADV straighten/VERB their/DET upper/ADJ body/NOUN#0.0#0.0
+a person stands up from a squat and then leans forward and holds on to something.#a/DET person/NOUN stand/VERB up/ADP from/ADP a/DET squat/NOUN and/CCONJ then/ADV lean/VERB forward/ADV and/CCONJ hold/VERB on/ADP to/ADP something/PRON#0.0#0.0

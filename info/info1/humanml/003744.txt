@@ -1,0 +1,3 @@
+a person stands on one leg and grabs the opposite ankle to pull their leg back#a/DET person/NOUN stand/VERB on/ADP one/NUM leg/NOUN and/CCONJ grab/VERB the/DET opposite/ADJ ankle/NOUN to/PART pull/VERB their/DET leg/NOUN back/ADV#0.0#0.0
+a man stretches his leg.#a/DET man/NOUN stretch/VERB his/DET leg/NOUN#0.0#0.0
+person is doing quad stretch for left leg#person/NOUN is/AUX do/VERB quad/ADJ stretch/NOUN for/ADP left/ADJ leg/NOUN#0.0#0.0

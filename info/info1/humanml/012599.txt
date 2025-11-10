@@ -1,0 +1,3 @@
+a person jogs lightly in place.#a/DET person/NOUN jog/VERB lightly/ADV in/ADP place/NOUN#0.0#0.0
+a person fastly jogged forward#a/DET person/NOUN fastly/ADV jog/VERB forward/ADV#0.0#0.0
+a person jogs on the spot, and then makes a small jump.#a/DET person/NOUN jog/VERB on/ADP the/DET spot/NOUN and/CCONJ then/ADV make/VERB a/DET small/ADJ jump/NOUN#0.0#0.0

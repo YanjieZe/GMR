@@ -1,0 +1,3 @@
+a person dances and then runs backwards and forwards.#a/DET person/NOUN dance/VERB and/CCONJ then/ADV run/VERB backwards/ADV and/CCONJ forwards/ADV#0.0#0.0
+the person is dancing rumba.#the/DET person/NOUN is/AUX dance/VERB rumba/NOUN#0.0#0.0
+person shuffles forward while alternatly extending arms over head, drops arms and shuffle/jogs backwards, and then walks slowly back forwards.#person/NOUN shuffle/VERB forward/ADV while/SCONJ alternatly/ADV extend/VERB arm/NOUN over/ADP head/NOUN drop/VERB arm/NOUN and/CCONJ shuffle/NOUN jog/NOUN backwards/ADV and/CCONJ then/ADV walk/VERB slowly/ADV back/ADV forwards/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person leans forward and moves around.#a/DET person/NOUN lean/VERB forward/ADV and/CCONJ move/VERB around/ADV#0.0#0.0
+dodge left, right, then left again.#dodge/PROPN left/PROPN right/INTJ then/ADV left/VERB again/ADV#0.0#0.0
+this person steps and ducks then steps and ducks again.#this/DET person/NOUN step/VERB and/CCONJ duck/NOUN then/ADV step/VERB and/CCONJ duck/NOUN again/ADV#0.0#0.0

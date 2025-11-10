@@ -1,0 +1,3 @@
+person holds arms out together  meeting at the fingertips before moving them around side to side#person/NOUN hold/VERB arm/NOUN out/ADV together/ADV meeting/NOUN at/ADP the/DET fingertip/NOUN before/ADP move/VERB them/PRON around/ADP side/NOUN to/PART side/VERB#6.0#9.0
+a man moves his arms in a circle in front of him before lifting them up.#a/DET man/NOUN move/VERB his/DET arm/NOUN in/ADP a/DET circle/NOUN in/ADP front/NOUN of/ADP him/PRON before/ADP lift/VERB them/PRON up/ADP#0.0#0.0
+a person holds their arms in a circle shape and rocks them back and forth.#a/DET person/NOUN hold/VERB their/DET arm/NOUN in/ADP a/DET circle/NOUN shape/NOUN and/CCONJ rock/VERB them/PRON back/ADV and/CCONJ forth/ADV#0.0#0.0

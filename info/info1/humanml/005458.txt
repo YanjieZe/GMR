@@ -1,0 +1,3 @@
+walking forward turn around and then run back to starting place#walk/VERB forward/ADV turn/VERB around/ADP and/CCONJ then/ADV run/VERB back/ADV to/ADP start/VERB place/NOUN#0.0#0.0
+a person takes 3 steps forward then turns around and runs.#a/DET person/NOUN take/VERB step/NOUN forward/ADV then/ADV turn/VERB around/ADP and/CCONJ run/NOUN#0.0#0.0
+a person walks forward, arms unmoving then they run back.#a/DET person/NOUN walk/VERB forward/ADV arm/NOUN unmoving/ADJ then/ADV they/PRON run/VERB back/ADV#0.0#0.0

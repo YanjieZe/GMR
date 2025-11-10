@@ -1,0 +1,3 @@
+the person was laying down on their back.#the/DET person/NOUN was/AUX lay/VERB down/ADP on/ADP their/DET back/NOUN#0.0#0.0
+the man is laying down and getting up#the/DET man/NOUN is/AUX lay/VERB down/ADP and/CCONJ get/VERB up/ADP#0.0#0.0
+the man is sitting then lays down.#the/DET man/NOUN is/AUX sit/VERB then/ADV lay/VERB down/ADP#0.0#0.0

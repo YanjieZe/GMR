@@ -1,0 +1,3 @@
+a person is doing a dance#a/DET person/NOUN is/AUX do/VERB a/DET dance/NOUN#0.0#0.0
+the person is dancing.#the/DET person/NOUN is/AUX dance/VERB#0.0#0.0
+a person walks side to side and ballroom dances#a/DET person/NOUN walk/VERB side/NOUN to/PART side/VERB and/CCONJ ballroom/NOUN dance/NOUN#0.0#0.0

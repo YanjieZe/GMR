@@ -1,0 +1,3 @@
+a person dances with someone.#a/DET person/NOUN dance/VERB with/ADP someone/PRON#0.0#0.0
+a person waltzes back and forth with another person.#a/DET person/NOUN waltz/VERB back/ADV and/CCONJ forth/ADV with/ADP another/DET person/NOUN#0.0#0.0
+a person holds their arms up as if holding a dance partner's hand and back, then dances in a square pattern.#a/DET person/NOUN hold/VERB their/DET arm/NOUN up/ADP as/SCONJ if/SCONJ hold/VERB a/DET dance/NOUN partner/NOUN hand/NOUN and/CCONJ back/ADV then/ADV dance/VERB in/ADP a/DET square/ADJ pattern/NOUN#0.0#0.0

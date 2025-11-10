@@ -1,0 +1,3 @@
+a person grabbed something and sat somewhere and after get up#a/DET person/NOUN grab/VERB something/PRON and/CCONJ sit/VERB somewhere/ADV and/CCONJ after/ADV get/AUX up/ADP#0.0#0.0
+a person picks something up with their right hand and sits down to take a sip.#a/DET person/NOUN pick/VERB something/PRON up/ADP with/ADP their/DET right/ADJ hand/NOUN and/CCONJ sit/VERB down/ADP to/PART take/VERB a/DET sip/NOUN#0.0#0.0
+a person sits down for a moment to take a drink.#a/DET person/NOUN sit/VERB down/ADP for/ADP a/DET moment/NOUN to/PART take/VERB a/DET drink/NOUN#0.0#0.0

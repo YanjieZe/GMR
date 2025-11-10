@@ -1,0 +1,3 @@
+a figure is driving along.#a/DET figure/NOUN is/AUX drive/VERB along/ADV#0.0#0.0
+a person is motioning both their hands forward up and down#a/DET person/NOUN is/AUX motion/VERB both/CCONJ their/DET hand/NOUN forward/ADV up/ADP and/CCONJ down/ADV#0.0#0.0
+a person driving a car and taking a left turn#a/DET person/NOUN drive/VERB a/DET car/NOUN and/CCONJ take/VERB a/DET left/ADJ turn/NOUN#0.0#0.0

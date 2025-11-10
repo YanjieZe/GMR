@@ -1,0 +1,3 @@
+the person approaches and slowly walks around the back of a chair to their right then sits down.#the/DET person/NOUN approach/VERB and/CCONJ slowly/ADV walk/VERB around/ADP the/DET back/NOUN of/ADP a/DET chair/NOUN to/ADP their/DET right/NOUN then/ADV sit/VERB down/ADP#0.0#0.0
+a man standing with his arms outstretched, walks in a semi-circle to sit at an imaginary desk.#a/DET man/NOUN stand/VERB with/ADP his/DET arm/NOUN outstretche/VERB walk/VERB in/ADP a/DET semicircle/NOUN to/PART sit/VERB at/ADP an/DET imaginary/ADJ desk/NOUN#0.0#0.0
+a person walks in a dejected half circle, then sits down on a chair or bench.#a/DET person/NOUN walk/VERB in/ADP a/DET deject/VERB half/NOUN circle/NOUN then/ADV sit/VERB down/ADP on/ADP a/DET chair/NOUN or/CCONJ bench/NOUN#0.0#0.0

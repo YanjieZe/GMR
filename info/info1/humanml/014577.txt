@@ -1,0 +1,3 @@
+a person steps backward to their left before sitting down, and then stands back up.#a/DET person/NOUN step/VERB backward/ADV to/ADP their/DET left/NOUN before/ADP sit/VERB down/ADP and/CCONJ then/ADV stand/VERB back/ADV up/ADV#0.0#0.0
+a hunched figure turns his head to look behind him before taking a few steps backward and sitting in a chair.#a/DET hunch/VERB figure/NOUN turn/VERB his/DET head/NOUN to/PART look/VERB behind/ADP him/PRON before/ADP take/VERB a/DET few/ADJ step/NOUN backward/ADV and/CCONJ sit/VERB in/ADP a/DET chair/NOUN#0.0#0.0
+the person sat down to pose for a photograph.#the/DET person/NOUN sit/VERB down/ADP to/PART pose/VERB for/ADP a/DET photograph/NOUN#0.0#0.0

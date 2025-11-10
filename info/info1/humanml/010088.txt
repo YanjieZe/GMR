@@ -1,0 +1,3 @@
+a person shakes their right arm and then stretches to the left side.#a/DET person/NOUN shake/VERB their/DET right/ADJ arm/NOUN and/CCONJ then/ADV stretch/VERB to/ADP the/DET left/ADJ side/NOUN#0.0#0.0
+a person does a boxing maneuver.#a/DET person/NOUN does/AUX a/DET boxing/NOUN maneuver/NOUN#0.0#0.0
+looks like he is shaking dice in right hand and then raises that hand toward the left#look/VERB like/SCONJ he/PRON is/AUX shake/VERB dice/NOUN in/ADP right/ADJ hand/NOUN and/CCONJ then/ADV raise/VERB that/DET hand/NOUN toward/ADP the/DET left/NOUN#0.0#0.0

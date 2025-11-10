@@ -1,0 +1,3 @@
+a man stands over top of a building and takes his hands on the edge to look down.#a/DET man/NOUN stand/VERB over/ADP top/NOUN of/ADP a/DET building/NOUN and/CCONJ take/VERB his/DET hand/NOUN on/ADP the/DET edge/NOUN to/PART look/VERB down/ADV#0.0#0.0
+a person is standing upright and leans backwards with arm out in front of them.#a/DET person/NOUN is/AUX stand/VERB upright/ADV and/CCONJ lean/VERB backwards/ADV with/ADP arm/NOUN out/ADP in/ADP front/NOUN of/ADP them/PRON#0.0#0.0
+a person raises their hands forward, bows their head forward, before idling again.#a/DET person/NOUN raise/VERB their/DET hand/NOUN forward/ADV bow/VERB their/DET head/NOUN forward/ADV before/ADP idle/VERB again/ADV#0.0#0.0

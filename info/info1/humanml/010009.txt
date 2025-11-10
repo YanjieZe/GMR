@@ -1,0 +1,3 @@
+a person walks carefully on a rope and uses their hands against a wall to find balance.#a/DET person/NOUN walk/VERB carefully/ADV on/ADP a/DET rope/NOUN and/CCONJ use/VERB their/DET hand/NOUN against/ADP a/DET wall/NOUN to/PART find/VERB balance/NOUN#0.0#0.0
+a person walks straight forward, one foot in front of the other, while holding on to railing#a/DET person/NOUN walk/VERB straight/ADV forward/ADV one/NUM foot/NOUN in/ADP front/NOUN of/ADP the/DET other/ADJ while/SCONJ hold/VERB on/ADP to/ADP rail/VERB#0.0#0.0
+a person carefully walks on a straight line with balance.#a/DET person/NOUN carefully/ADV walk/VERB on/ADP a/DET straight/ADJ line/NOUN with/ADP balance/NOUN#0.0#0.0

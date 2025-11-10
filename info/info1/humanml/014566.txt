@@ -1,0 +1,3 @@
+walking backwards and then stopping.#walk/VERB backwards/ADV and/CCONJ then/ADV stop/VERB#0.0#0.0
+a person walks backwards before stopping in a standing position with their legs close together.#a/DET person/NOUN walk/VERB backwards/ADV before/ADP stop/VERB in/ADP a/DET standing/ADJ position/NOUN with/ADP their/DET leg/NOUN close/ADV together/ADV#0.0#0.0
+person is doing a backwards walk#person/NOUN is/AUX do/VERB a/DET backwards/ADJ walk/NOUN#0.0#0.0

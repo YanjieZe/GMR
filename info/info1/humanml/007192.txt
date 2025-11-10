@@ -1,0 +1,3 @@
+a person is punching the air with his right and left hand.#a/DET person/NOUN is/AUX punch/VERB the/DET air/NOUN with/ADP his/DET right/NOUN and/CCONJ left/VERB hand/NOUN#0.0#0.0
+moving and fighting like boxing.#move/VERB and/CCONJ fight/VERB like/SCONJ boxing/NOUN#0.0#0.0
+a person throws jab punches in combination.#a/DET person/NOUN throw/VERB jab/PROPN punch/NOUN in/ADP combination/NOUN#0.0#0.0

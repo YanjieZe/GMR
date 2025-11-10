@@ -1,0 +1,3 @@
+a person jumps upwards once#a/DET person/NOUN jump/VERB upwards/ADJ once/ADV#0.0#0.0
+a person standing then jumps once#a/DET person/NOUN stand/VERB then/ADV jump/VERB once/ADV#0.0#0.0
+a person jumps vertically once.#a/DET person/NOUN jump/VERB vertically/ADV once/ADV#0.0#0.0

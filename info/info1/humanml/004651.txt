@@ -1,0 +1,3 @@
+a person angrily walks forward and to the right#a/DET person/NOUN angrily/ADV walk/VERB forward/ADV and/CCONJ to/ADP the/DET right/NOUN#0.0#0.0
+a person looking down and walking forward#a/DET person/NOUN look/VERB down/ADP and/CCONJ walk/VERB forward/ADV#0.0#0.0
+person looks down and walks forward.#person/NOUN look/VERB down/ADP and/CCONJ walk/VERB forward/ADV#0.0#0.0

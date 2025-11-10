@@ -1,0 +1,3 @@
+a person walks bending towards his left#a/DET person/NOUN walk/VERB bend/VERB towards/ADP his/DET left/NOUN#0.0#5.0
+a person walks forward and to the left before coming to a stop.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ to/ADP the/DET left/NOUN before/ADP come/VERB to/ADP a/DET stop/NOUN#0.0#0.0
+moving left side on the floor.#move/VERB left/ADJ side/NOUN on/ADP the/DET floor/NOUN#0.0#0.0

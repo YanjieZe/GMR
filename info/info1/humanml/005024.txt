@@ -1,0 +1,3 @@
+a person runs forward with both arms swinging#a/DET person/NOUN run/VERB forward/ADV with/ADP both/DET arm/NOUN swinge/VERB#0.0#0.0
+a person moves chaotically with wide arms and legs.#a/DET person/NOUN move/VERB chaotically/ADV with/ADP wide/ADJ arm/NOUN and/CCONJ leg/NOUN#0.0#0.0
+a person faslty ran while dodging something#a/DET person/NOUN faslty/NOUN run/VERB while/SCONJ dodge/VERB something/PRON#0.0#0.0

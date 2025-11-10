@@ -1,0 +1,3 @@
+a person walking down in a straight line#a/DET person/NOUN walk/VERB down/ADP in/ADP a/DET straight/ADJ line/NOUN#0.0#0.0
+a man walks forward and comes to a stop.#a/DET man/NOUN walk/VERB forward/ADV and/CCONJ come/VERB to/ADP a/DET stop/NOUN#0.0#0.0
+a person walking forward in a straight line.#a/DET person/NOUN walk/VERB forward/ADV in/ADP a/DET straight/ADJ line/NOUN#0.0#0.0

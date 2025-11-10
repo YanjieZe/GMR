@@ -1,0 +1,3 @@
+a person walks forward and then runs back#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ then/ADV run/VERB back/ADV#0.0#0.0
+a person walks forward then runs back to their original position#a/DET person/NOUN walk/VERB forward/ADV then/ADV run/VERB back/ADV to/ADP their/DET original/ADJ position/NOUN#0.0#0.0
+person walks forward slowly pivots on leg then does quick steps forward before turning around#person/NOUN walk/VERB forward/ADV slowly/ADV pivot/NOUN on/ADP leg/NOUN then/ADV does/AUX quick/ADJ step/NOUN forward/ADV before/ADP turn/VERB around/ADV#0.0#0.0

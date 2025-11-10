@@ -1,0 +1,3 @@
+a man marches and sidesteps back and forth in multiple directions.#a/DET man/NOUN march/VERB and/CCONJ sidestep/VERB back/ADV and/CCONJ forth/ADV in/ADP multiple/ADJ direction/NOUN#0.0#0.0
+the man meanders around in circles.#the/DET man/NOUN meander/VERB around/ADV in/ADP circle/NOUN#0.0#0.0
+a person is walking around.#a/DET person/NOUN is/AUX walk/VERB around/ADV#0.0#0.0

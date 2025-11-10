@@ -1,0 +1,3 @@
+a man kicks the air in front of him, holding his arms up to guard his face.#a/DET man/NOUN kick/VERB the/DET air/NOUN in/ADP front/NOUN of/ADP him/PRON hold/VERB his/DET arm/NOUN up/ADP to/PART guard/VERB his/DET face/NOUN#0.0#0.0
+a person raises both arms towards their face and pushes one leg up and out.#a/DET person/NOUN raise/VERB both/DET arm/NOUN towards/ADP their/DET face/NOUN and/CCONJ push/VERB one/NUM leg/NOUN up/ADP and/CCONJ out/ADV#0.0#0.0
+a person raises their arms above their head kicks with their left leg.#a/DET person/NOUN raise/VERB their/DET arm/NOUN above/ADP their/DET head/NOUN kick/VERB with/ADP their/DET left/ADJ leg/NOUN#0.0#0.0

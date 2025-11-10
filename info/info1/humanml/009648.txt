@@ -1,0 +1,1 @@
+person walks forward slowly, turns around 180 degrees anti-clockwise, and then sprints forwards#person/NOUN walk/VERB forward/ADV slowly/ADV turn/VERB around/ADV degree/NOUN anticlockwise/NOUN and/CCONJ then/ADV sprint/VERB forwards/ADV#0.0#0.0

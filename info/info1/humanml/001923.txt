@@ -1,0 +1,3 @@
+a person raises their left arm in front of them.#a/DET person/NOUN raise/VERB their/DET left/ADJ arm/NOUN in/ADP front/NOUN of/ADP them/PRON#0.0#0.0
+someone lifts their left arm up to sniff their armpit, then lowers their arm.#someone/PRON lift/VERB their/DET left/ADJ arm/NOUN up/ADP to/PART sniff/VERB their/DET armpit/NOUN then/ADV lower/VERB their/DET arm/NOUN#0.0#0.0
+someone raises their left arm above their head and cocks their head to the left.#someone/PRON raise/VERB their/DET left/ADJ arm/NOUN above/ADP their/DET head/NOUN and/CCONJ cock/VERB their/DET head/NOUN to/ADP the/DET left/NOUN#0.0#0.0

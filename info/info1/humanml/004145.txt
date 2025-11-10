@@ -1,0 +1,3 @@
+takes one side step to the right.#take/VERB one/NUM side/NOUN step/NOUN to/ADP the/DET right/NOUN#0.0#0.0
+figure steps back and to the right.#figure/NOUN step/VERB back/ADV and/CCONJ to/ADP the/DET right/NOUN#0.0#0.0
+for a moment, a person stands stationary with their arms to at their side, and then suddenly steps sideways to the right.#for/ADP a/DET moment/NOUN a/DET person/NOUN stand/VERB stationary/ADJ with/ADP their/DET arm/NOUN to/ADP at/ADP their/DET side/NOUN and/CCONJ then/ADV suddenly/ADV step/VERB sideways/ADV to/ADP the/DET right/NOUN#0.0#5.0

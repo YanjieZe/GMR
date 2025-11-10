@@ -1,0 +1,3 @@
+a person crosses its arms while standing, then it unfolds them.#a/DET person/NOUN cross/VERB its/DET arm/NOUN while/SCONJ stand/VERB then/ADV it/PRON unfold/VERB them/PRON#0.0#0.0
+a person crosses and then uncrosses their arms#a/DET person/NOUN cross/VERB and/CCONJ then/ADV uncross/VERB their/DET arm/NOUN#0.0#0.0
+a person standing up folds arms by placing right arm over left.#a/DET person/NOUN stand/VERB up/ADP fold/NOUN arm/NOUN by/ADP place/VERB right/ADJ arm/NOUN over/ADP left/NOUN#0.0#0.0

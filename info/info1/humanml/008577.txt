@@ -1,0 +1,3 @@
+person takes a large step and staggers down walks forward and turns#person/NOUN take/VERB a/DET large/ADJ step/NOUN and/CCONJ stagger/NOUN down/ADP walk/VERB forward/ADV and/CCONJ turn/VERB#0.0#0.0
+a person walks around, stepping up and down multiple objects.#a/DET person/NOUN walk/VERB around/ADV step/VERB up/ADP and/CCONJ down/ADP multiple/ADJ object/NOUN#0.0#0.0
+a man walks up steps, then steps down as he walks to the right and then he makes a left turn and walks in that direction.#a/DET man/NOUN walk/VERB up/ADP step/NOUN then/ADV step/VERB down/ADP as/SCONJ he/PRON walk/VERB to/ADP the/DET right/NOUN and/CCONJ then/ADV he/PRON make/VERB a/DET left/ADJ turn/NOUN and/CCONJ walk/VERB in/ADP that/DET direction/NOUN#0.0#0.0

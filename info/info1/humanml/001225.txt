@@ -1,0 +1,3 @@
+person walks five steps forward whilst holding right hand extended to the right hand side holding onto something#person/NOUN walk/VERB five/NUM step/NOUN forward/ADV whilst/SCONJ hold/VERB right/ADJ hand/NOUN extend/VERB to/ADP the/DET right/ADJ hand/NOUN side/NOUN hold/VERB onto/ADP something/PRON#0.0#0.0
+person walks whilst grabbing onto a banister to help their balance.#person/NOUN walk/VERB whilst/SCONJ grab/VERB onto/ADP a/DET banister/NOUN to/PART help/VERB their/DET balance/NOUN#0.0#4.0
+a person walks forward with their right hand on a handrail.#a/DET person/NOUN walk/VERB forward/ADV with/ADP their/DET right/ADJ hand/NOUN on/ADP a/DET handrail/NOUN#0.0#0.0

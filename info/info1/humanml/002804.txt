@@ -1,0 +1,3 @@
+someone is doing a breakdance on the ground and then doing a pose#someone/PRON is/AUX do/VERB a/DET breakdance/NOUN on/ADP the/DET ground/NOUN and/CCONJ then/ADV do/VERB a/DET pose/NOUN#0.0#0.0
+a person walks forward and raises both arms up and then puts one foot in front of the other and walks forward like that#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ raise/VERB both/DET arm/NOUN up/ADV and/CCONJ then/ADV put/VERB one/NUM foot/NOUN in/ADP front/NOUN of/ADP the/DET other/ADJ and/CCONJ walk/VERB forward/ADV like/SCONJ that/DET#0.0#0.0
+person was circling then walking around.#person/NOUN was/AUX circle/VERB then/ADV walk/VERB around/ADV#0.0#0.0

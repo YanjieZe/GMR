@@ -1,0 +1,3 @@
+the man warms his hands and face at a fire.#the/DET man/NOUN warm/VERB his/DET hand/NOUN and/CCONJ face/VERB at/ADP a/DET fire/NOUN#0.0#0.0
+the person is but in their hands in front of their face and then back out then back in front of their face.#the/DET person/NOUN is/AUX but/CCONJ in/ADP their/DET hand/NOUN in/ADP front/NOUN of/ADP their/DET face/NOUN and/CCONJ then/ADV back/ADV out/ADP then/ADV back/ADV in/ADP front/NOUN of/ADP their/DET face/NOUN#0.0#0.0
+a person puts their arms out in front of them, then uses their hands to cover their face#a/DET person/NOUN put/VERB their/DET arm/NOUN out/ADP in/ADP front/NOUN of/ADP them/PRON then/ADV use/VERB their/DET hand/NOUN to/PART cover/VERB their/DET face/NOUN#0.0#0.0

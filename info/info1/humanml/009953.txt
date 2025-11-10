@@ -1,0 +1,3 @@
+a person stands upright and puts their hands in front of them, moving them apart a little, as if moving something apart,#a/DET person/NOUN stand/VERB upright/ADV and/CCONJ put/VERB their/DET hand/NOUN in/ADP front/NOUN of/ADP them/PRON move/VERB them/PRON apart/ADV a/DET little/ADJ as/SCONJ if/SCONJ move/VERB something/PRON apart/ADV#0.0#0.0
+a person is moving their arms to their chest, and away from their chest.#a/DET person/NOUN is/AUX move/VERB their/DET arm/NOUN to/ADP their/DET chest/NOUN and/CCONJ away/ADV from/ADP their/DET chest/NOUN#0.0#0.0
+a person is pretending to swim while stood up#a/DET person/NOUN is/AUX pretend/VERB to/PART swim/VERB while/SCONJ stand/VERB up/ADP#0.0#0.0

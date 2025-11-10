@@ -1,0 +1,3 @@
+a person walks up and forward while holding on to something#a/DET person/NOUN walk/VERB up/ADV and/CCONJ forward/ADV while/SCONJ hold/VERB on/ADP to/ADP something/PRON#0.0#0.0
+a man walks up some stairs, holding the handrail.#a/DET man/NOUN walk/VERB up/ADP some/DET stair/NOUN hold/VERB the/DET handrail/NOUN#0.0#0.0
+a person goes up some stairs holding onto the railing#a/DET person/NOUN go/VERB up/ADP some/DET stair/NOUN hold/VERB onto/ADP the/DET railing/NOUN#0.0#0.0

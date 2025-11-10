@@ -1,0 +1,3 @@
+person is sitting down leaving at someone with the right arm.#person/NOUN is/AUX sit/VERB down/ADP leave/VERB at/ADP someone/PRON with/ADP the/DET right/ADJ arm/NOUN#0.0#0.0
+a man lifts his right hand and taps something three times, puts his hand down, then lifts it again and taps once more.#a/DET man/NOUN lift/VERB his/DET right/ADJ hand/NOUN and/CCONJ tap/VERB something/PRON three/NUM time/NOUN put/VERB his/DET hand/NOUN down/ADP then/ADV lift/VERB it/PRON again/ADV and/CCONJ tap/NOUN once/ADV more/ADJ#0.0#0.0
+the figure is standing, liftig his [red] arm every few seconds.#the/DET figure/NOUN is/AUX stand/VERB liftig/VERB his/DET red/NOUN arm/NOUN every/DET few/ADJ second/NOUN#0.0#0.0

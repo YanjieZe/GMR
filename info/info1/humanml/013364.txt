@@ -1,0 +1,3 @@
+a person jogs in place using tiny steps.#a/DET person/NOUN jog/VERB in/ADP place/NOUN use/VERB tiny/ADJ step/NOUN#0.0#0.0
+person jogs in place for a short period of time.#person/NOUN jog/VERB in/ADP place/NOUN for/ADP a/DET short/ADJ period/NOUN of/ADP time/NOUN#0.0#0.0
+a person standing with his arms at this sides jogs in place and then stops.#a/DET person/NOUN stand/VERB with/ADP his/DET arm/NOUN at/ADP this/DET side/NOUN jog/VERB in/ADP place/NOUN and/CCONJ then/ADV stop/VERB#0.0#0.0

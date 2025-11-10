@@ -1,0 +1,3 @@
+a person walks up stairs#a/DET person/NOUN walk/VERB up/ADP stair/NOUN#0.0#0.0
+a man steps onto something then raises his right arms above his head and grabs an object.#a/DET man/NOUN step/VERB onto/ADP something/PRON then/ADV raise/VERB his/DET right/ADJ arm/NOUN above/ADP his/DET head/NOUN and/CCONJ grab/VERB an/DET object/NOUN#0.0#0.0
+this person moves as if stepping on a ladder and reaches with his right arm.#this/DET person/NOUN move/VERB as/SCONJ if/SCONJ step/VERB on/ADP a/DET ladder/NOUN and/CCONJ reach/VERB with/ADP his/DET right/ADJ arm/NOUN#0.0#0.0

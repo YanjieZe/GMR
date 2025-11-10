@@ -1,0 +1,3 @@
+person holds something in their hands and tilts that to the right then tilts it back to normal.#person/NOUN hold/VERB something/PRON in/ADP their/DET hand/NOUN and/CCONJ tilt/NOUN that/DET to/ADP the/DET right/NOUN then/ADV tilt/VERB it/PRON back/ADV to/ADP normal/ADJ#0.0#0.0
+a figure lifts something heavy then seems to pour it#a/DET figure/NOUN lift/VERB something/PRON heavy/ADJ then/ADV seem/VERB to/PART pour/VERB it/PRON#0.0#0.0
+a person lifts something up, pours it out, and sets it back down.#a/DET person/NOUN lift/VERB something/PRON up/ADP pour/VERB it/PRON out/ADP and/CCONJ set/VERB it/PRON back/ADV down/ADV#0.0#0.0

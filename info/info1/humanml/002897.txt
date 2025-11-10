@@ -1,0 +1,2 @@
+a person jauntily skips forward.#a/DET person/NOUN jauntily/ADV skip/VERB forward/ADV#0.0#0.0
+a person playfully walks forwards, hopping slightly with each step.#a/DET person/NOUN playfully/ADV walk/VERB forwards/ADV hop/VERB slightly/ADV with/ADP each/DET step/NOUN#0.0#0.0

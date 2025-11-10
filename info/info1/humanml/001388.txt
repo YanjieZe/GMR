@@ -1,0 +1,3 @@
+walking forward and getting pain in the left leg#walk/VERB forward/ADV and/CCONJ get/VERB pain/NOUN in/ADP the/DET left/ADJ leg/NOUN#0.0#0.0
+the person is walking then holds on to his left like as if its hurt.#the/DET person/NOUN is/AUX walk/VERB then/ADV hold/VERB on/ADP to/ADP his/DET left/NOUN like/INTJ as/SCONJ if/SCONJ its/DET hurt/NOUN#0.0#0.0
+she readies herself, then walks forward, then clutches her left thigh and limps for a moment, steadies herself and turns around.#she/PRON ready/VERB herself/PRON then/ADV walk/VERB forward/ADV then/ADV clutch/VERB her/PRON left/VERB thigh/NOUN and/CCONJ limp/NOUN for/ADP a/DET moment/NOUN steady/VERB herself/PRON and/CCONJ turn/VERB around/ADV#0.0#0.0

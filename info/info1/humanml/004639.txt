@@ -1,0 +1,3 @@
+a person shuffles his feet quickly and moves from side to side multiple times.#a/DET person/NOUN shuffle/VERB his/DET foot/NOUN quickly/ADV and/CCONJ move/NOUN from/ADP side/NOUN to/PART side/VERB multiple/ADJ time/NOUN#0.0#0.0
+preforming hockey warmups for a goalie#preforming/PROPN hockey/PROPN warmups/PROPN for/ADP a/DET goalie/NOUN#0.0#0.0
+at basketball practice, she makes lateral defensive moves, to the right, then left, then right and finally left.#at/ADP basketball/NOUN practice/NOUN she/PRON make/VERB lateral/ADJ defensive/ADJ move/NOUN to/ADP the/DET right/NOUN then/ADV left/VERB then/ADV right/INTJ and/CCONJ finally/ADV left/VERB#0.0#0.0

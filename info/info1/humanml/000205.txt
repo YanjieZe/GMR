@@ -1,0 +1,3 @@
+a person crosses their arms then moves their hands#a/DET person/NOUN cross/VERB their/DET arm/NOUN then/ADV move/VERB their/DET hand/NOUN#0.0#0.0
+person has their arms/hands touching something above their waist on the spot#person/NOUN has/AUX their/DET arm/NOUN hand/NOUN touch/VERB something/PRON above/ADP their/DET waist/NOUN on/ADP the/DET spot/NOUN#0.0#0.0
+a person gestures opening something and then raises their arm.#a/DET person/NOUN gesture/VERB open/VERB something/PRON and/CCONJ then/ADV raise/VERB their/DET arm/NOUN#0.0#0.0

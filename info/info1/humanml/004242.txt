@@ -1,0 +1,3 @@
+he walks forward and picks up tool box#he/PRON walk/VERB forward/ADV and/CCONJ pick/VERB up/ADP tool/NOUN box/NOUN#0.0#0.0
+someone walking across the room, picking something up, then waling back.#someone/PRON walk/VERB across/ADP the/DET room/NOUN pick/VERB something/PRON up/ADP then/ADV wale/VERB back/ADV#0.0#0.0
+a man walks forward, bends down to pick something up with his left hand, turns around, walks back and bends down to put down whatever he was holding.#a/DET man/NOUN walk/VERB forward/ADV bend/VERB down/ADP to/PART pick/VERB something/PRON up/ADP with/ADP his/DET left/ADJ hand/NOUN turn/VERB around/ADV walk/VERB back/ADV and/CCONJ bend/VERB down/ADP to/PART put/VERB down/ADP whatever/DET he/PRON was/AUX hold/VERB#0.0#0.0

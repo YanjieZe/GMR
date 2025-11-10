@@ -1,0 +1,3 @@
+a person slowly gets on their knees.#a/DET person/NOUN slowly/ADV get/VERB on/ADP their/DET knee/NOUN#0.0#0.0
+this person slowly moves to the floor to rest on both knees.#this/DET person/NOUN slowly/ADV move/VERB to/ADP the/DET floor/NOUN to/PART rest/VERB on/ADP both/DET knee/NOUN#0.0#0.0
+a person grabbed something with right hand and did something with left hand#a/DET person/NOUN grab/VERB something/PRON with/ADP right/ADJ hand/NOUN and/CCONJ did/AUX something/PRON with/ADP left/ADJ hand/NOUN#0.0#0.0

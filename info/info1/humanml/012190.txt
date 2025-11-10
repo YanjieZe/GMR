@@ -1,0 +1,3 @@
+a person lowers, then raises their right hand as if throwing something in the air.#a/DET person/NOUN lower/VERB then/ADV raise/VERB their/DET right/ADJ hand/NOUN as/SCONJ if/SCONJ throw/VERB something/PRON in/ADP the/DET air/NOUN#0.0#0.0
+the person is boxing up words with his right arm.#the/DET person/NOUN is/AUX box/VERB up/ADP word/NOUN with/ADP his/DET right/ADJ arm/NOUN#0.0#0.0
+a person raises their right arm.#a/DET person/NOUN raise/VERB their/DET right/ADJ arm/NOUN#0.0#0.0

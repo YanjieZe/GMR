@@ -1,0 +1,3 @@
+the person is walk in the street backwards.#the/DET person/NOUN is/AUX walk/NOUN in/ADP the/DET street/NOUN backwards/ADV#0.0#0.0
+simple stand quite like a doll#simple/ADJ stand/VERB quite/ADV like/SCONJ a/DET doll/NOUN#0.0#0.0
+not moving at all standing.#not/PART move/VERB at/ADV all/ADV stand/VERB#0.0#0.0

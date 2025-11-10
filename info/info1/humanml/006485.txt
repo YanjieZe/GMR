@@ -1,0 +1,3 @@
+the right hand goes to the chest and back down while walking then turns around to walk.#the/DET right/ADJ hand/NOUN go/VERB to/ADP the/DET chest/NOUN and/CCONJ back/ADV down/ADV while/SCONJ walk/VERB then/ADV turn/VERB around/ADP to/PART walk/VERB#0.0#0.0
+walking forward and then back.#walk/VERB forward/ADV and/CCONJ then/ADV back/ADV#0.0#0.0
+the toon walks to the end of the plane & makes a knocking motion before turning around and walking to the opposite of the plane.#the/DET toon/NOUN walk/VERB to/ADP the/DET end/NOUN of/ADP the/DET plane/NOUN make/VERB a/DET knocking/NOUN motion/NOUN before/ADP turn/VERB around/ADV and/CCONJ walk/VERB to/ADP the/DET opposite/NOUN of/ADP the/DET plane/NOUN#0.0#4.0

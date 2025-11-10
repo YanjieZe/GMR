@@ -1,0 +1,3 @@
+figure runs in place, stops, then touches opposite knee to elbow 6 times#figure/NOUN run/VERB in/ADP place/NOUN stop/NOUN then/ADV touch/VERB opposite/ADJ knee/NOUN to/PART elbow/VERB time/NOUN#0.0#0.0
+man stops jogging, and then continuously puts his knee to opposite elbow on both sides.#man/NOUN stop/VERB jog/VERB and/CCONJ then/ADV continuously/ADV put/VERB his/DET knee/NOUN to/ADP opposite/ADJ elbow/NOUN on/ADP both/DET side/NOUN#0.0#0.0
+the person dances by moving their right elbow to their left knee before swapping sides and so on#the/DET person/NOUN dance/VERB by/ADP move/VERB their/DET right/ADJ elbow/NOUN to/ADP their/DET left/ADJ knee/NOUN before/ADP swap/VERB side/NOUN and/CCONJ so/ADV on/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a sitting person uses their hands to help them stand up, turn around, then sit back down.#a/DET sit/VERB person/NOUN use/VERB their/DET hand/NOUN to/PART help/VERB them/PRON stand/VERB up/ADP turn/VERB around/ADP then/ADV sit/VERB back/ADV down/ADV#0.0#0.0
+a person stands up then sits back down.#a/DET person/NOUN stand/VERB up/ADP then/ADV sit/VERB back/ADV down/ADV#0.0#0.0
+man is sitting down, stands up and takes one step, turns around and sits down again.#man/NOUN is/AUX sit/VERB down/ADP stand/VERB up/ADV and/CCONJ take/VERB one/NUM step/NOUN turn/VERB around/ADV and/CCONJ sit/VERB down/ADP again/ADV#0.0#0.0

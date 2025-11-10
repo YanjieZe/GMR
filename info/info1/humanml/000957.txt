@@ -1,0 +1,2 @@
+someone is walking slowly to the right and then taking a bow, and then walking back, and taking a larger bow#someone/PRON is/AUX walk/VERB slowly/ADV to/ADP the/DET right/NOUN and/CCONJ then/ADV take/VERB a/DET bow/NOUN and/CCONJ then/ADV walk/VERB back/ADV and/CCONJ take/VERB a/DET larger/ADJ bow/NOUN#0.0#0.0
+the person is moving around.#the/DET person/NOUN is/AUX move/VERB around/ADV#0.0#0.0

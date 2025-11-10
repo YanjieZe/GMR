@@ -1,0 +1,3 @@
+a person walks forward very slowly.#a/DET person/NOUN walk/VERB forward/ADV very/ADV slowly/ADV#0.0#0.0
+a person walks slowly towards the camera slighty swaying side to side.#a/DET person/NOUN walk/VERB slowly/ADV towards/ADP the/DET camera/NOUN slighty/ADV sway/VERB side/NOUN to/ADP side/VERB#0.0#9.0
+a person takes very small steps forward.#a/DET person/NOUN take/VERB very/ADV small/ADJ step/NOUN forward/ADV#0.0#0.0

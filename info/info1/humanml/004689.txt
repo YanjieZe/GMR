@@ -1,0 +1,3 @@
+slightly hunched forward as the arms are moving slowly above the head in a ghostly manner.#slightly/ADV hunch/VERB forward/ADV as/SCONJ the/DET arm/NOUN are/AUX move/VERB slowly/ADV above/ADP the/DET head/NOUN in/ADP a/DET ghostly/ADJ manner/NOUN#0.0#0.0
+a person moving arms around in a floating motion , imitating a ghost or spirit.#a/DET person/NOUN move/VERB arm/NOUN around/ADV in/ADP a/DET floating/ADJ motion/NOUN imitate/VERB a/DET ghost/NOUN or/CCONJ spirit/NOUN#0.0#0.0
+the man moves both arms#the/DET man/NOUN move/VERB both/DET arm/NOUN#0.0#0.0

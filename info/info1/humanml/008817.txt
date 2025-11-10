@@ -1,0 +1,3 @@
+a person who seems to be mixing two different substances#a/DET person/NOUN who/PRON seem/VERB to/PART be/AUX mix/VERB two/NUM different/ADJ substance/NOUN#0.0#0.0
+a person pours something into an object then steps away#a/DET person/NOUN pour/VERB something/PRON into/ADP an/DET object/NOUN then/ADV step/VERB away/ADV#0.0#0.0
+a person rifht red arm shacking, while back up raising there left arm like they was reaching for something,before back up even more.#a/DET person/NOUN rifht/ADJ red/ADJ arm/NOUN shacking/NOUN while/SCONJ back/ADV up/ADV raise/VERB there/ADV left/ADJ arm/NOUN like/SCONJ they/PRON was/AUX reach/VERB for/ADP something/PRON before/ADP back/ADV up/ADV even/ADV more/ADV#0.0#0.0

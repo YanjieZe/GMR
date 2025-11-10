@@ -1,0 +1,3 @@
+a person stands relaxed seems to observe something#a/DET person/NOUN stand/VERB relaxed/ADJ seem/VERB to/PART observe/VERB something/PRON#0.0#0.0
+a person stands bent back nonchalant.#a/DET person/NOUN stand/VERB bent/ADJ back/ADV nonchalant/ADV#0.0#0.0
+a person stayed on the place#a/DET person/NOUN stay/VERB on/ADP the/DET place/NOUN#0.0#0.0

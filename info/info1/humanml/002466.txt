@@ -1,0 +1,3 @@
+a man is walking backwards.#a/DET man/NOUN is/AUX walk/VERB backwards/ADV#0.0#0.0
+a man slowly walks backwards before stopping.#a/DET man/NOUN slowly/ADV walk/VERB backwards/ADV before/ADP stop/VERB#0.0#0.0
+a person steps backwards then stands still.#a/DET person/NOUN step/VERB backwards/ADV then/ADV stand/VERB still/ADV#0.0#0.0

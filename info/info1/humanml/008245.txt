@@ -1,0 +1,3 @@
+the person gets down on all fours and starts crawling.#the/DET person/NOUN get/VERB down/ADV on/ADP all/DET four/NOUN and/CCONJ start/VERB crawl/VERB#0.0#0.0
+a person who is standing with his arms up and away from his sides bends over, gets down on his hands and then his knees and crawls forward.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP his/DET arm/NOUN up/ADP and/CCONJ away/ADV from/ADP his/DET side/NOUN bend/VERB over/ADP get/VERB down/ADV on/ADP his/DET hand/NOUN and/CCONJ then/ADV his/DET knee/NOUN and/CCONJ crawl/VERB forward/ADV#0.0#0.0
+a man gets down on all fours and crawls forward.#a/DET man/NOUN get/VERB down/ADP on/ADP all/DET four/NOUN and/CCONJ crawl/VERB forward/ADV#0.0#0.0

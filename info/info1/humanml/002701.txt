@@ -1,0 +1,3 @@
+the person is wipin or moving something.#the/DET person/NOUN is/AUX wipin/ADJ or/CCONJ move/VERB something/PRON#0.0#0.0
+a person in a squatting position moves his arms one at a time#a/DET person/NOUN in/ADP a/DET squat/VERB position/NOUN move/VERB his/DET arm/NOUN one/NUM at/ADP a/DET time/NOUN#0.0#0.0
+a man is sitting down while turning a steering wheel.#a/DET man/NOUN is/AUX sit/VERB down/ADP while/SCONJ turn/VERB a/DET steering/NOUN wheel/NOUN#0.0#0.0

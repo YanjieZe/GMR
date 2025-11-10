@@ -1,0 +1,3 @@
+the person is picking up and moving something.#the/DET person/NOUN is/AUX pick/VERB up/ADP and/CCONJ move/VERB something/PRON#0.0#0.0
+a person puts down a large object, then walks forwards.#a/DET person/NOUN put/VERB down/ADP a/DET large/ADJ object/NOUN then/ADV walk/VERB forwards/ADV#0.0#0.0
+person puts something on ground then takes 8 steps forward#person/NOUN put/VERB something/PRON on/ADP ground/NOUN then/ADV take/VERB step/NOUN forward/ADV#0.0#0.0

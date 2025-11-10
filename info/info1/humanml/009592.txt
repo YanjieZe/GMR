@@ -1,0 +1,3 @@
+a person checks what time it is on their watch.#a/DET person/NOUN check/VERB what/DET time/NOUN it/PRON is/AUX on/ADP their/DET watch/NOUN#0.0#0.0
+a person looks at their watch and checks the time.#a/DET person/NOUN look/VERB at/ADP their/DET watch/NOUN and/CCONJ check/VERB the/DET time/NOUN#0.0#0.0
+a person holding their left chest with their right arm#a/DET person/NOUN hold/VERB their/DET left/ADJ chest/NOUN with/ADP their/DET right/ADJ arm/NOUN#0.0#0.0

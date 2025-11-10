@@ -1,0 +1,3 @@
+a person is sitting and stands up.#a/DET person/NOUN is/AUX sit/VERB and/CCONJ stand/VERB up/ADP#0.0#0.0
+a person brings his hand towards self, then swings backhand out, stands and walks left.#a/DET person/NOUN bring/VERB his/DET hand/NOUN towards/ADP self/NOUN then/ADV swing/VERB backhand/ADV out/ADP stand/VERB and/CCONJ walk/VERB left/VERB#0.0#0.0
+a person gets up from a seated position#a/DET person/NOUN get/VERB up/ADV from/ADP a/DET seated/ADJ position/NOUN#0.0#0.0

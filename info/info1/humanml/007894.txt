@@ -1,0 +1,3 @@
+a man runs forward and then stops running towards the end.#a/DET man/NOUN run/VERB forward/ADV and/CCONJ then/ADV stop/VERB run/VERB towards/ADP the/DET end/NOUN#0.0#0.0
+a person runs forward and stops.#a/DET person/NOUN run/VERB forward/ADV and/CCONJ stop/NOUN#0.0#0.0
+a person fastly ran forward#a/DET person/NOUN fastly/ADV run/VERB forward/ADV#0.0#0.0

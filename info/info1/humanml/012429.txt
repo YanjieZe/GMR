@@ -1,0 +1,3 @@
+a person uses a run up to throw something#a/DET person/NOUN use/VERB a/DET run/NOUN up/ADP to/PART throw/VERB something/PRON#0.0#0.0
+a person bounces a ball, holds the ball, steps forward, leaps and throws the ball, then steps back.#a/DET person/NOUN bounce/VERB a/DET ball/NOUN hold/VERB the/DET ball/NOUN step/VERB forward/ADV leap/NOUN and/CCONJ throw/VERB the/DET ball/NOUN then/ADV step/VERB back/ADV#0.0#0.0
+the person is getting ready to volleyball.#the/DET person/NOUN is/AUX get/VERB ready/ADJ to/PART volleyball/VERB#0.0#0.0

@@ -1,0 +1,3 @@
+person is doing some dancing standing up.#person/NOUN is/AUX do/VERB some/DET dancing/NOUN stand/VERB up/ADP#0.0#0.0
+a figure is moving in a dancing motion with hands#a/DET figure/NOUN is/AUX move/VERB in/ADP a/DET dancing/NOUN motion/NOUN with/ADP hand/NOUN#0.0#0.0
+the person moves his arms around in a dancing motion.#the/DET person/NOUN move/VERB his/DET arm/NOUN around/ADV in/ADP a/DET dancing/NOUN motion/NOUN#0.0#0.0

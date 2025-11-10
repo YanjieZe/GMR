@@ -1,0 +1,3 @@
+a person slowly waled forward#a/DET person/NOUN slowly/ADV wale/VERB forward/ADV#0.0#0.0
+a person struts as they walk forward.#a/DET person/NOUN strut/VERB as/SCONJ they/PRON walk/VERB forward/ADV#0.0#0.0
+person is walking forward happily.#person/NOUN is/AUX walk/VERB forward/ADV happily/ADV#0.0#0.0

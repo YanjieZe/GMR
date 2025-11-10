@@ -1,0 +1,3 @@
+a person throws something with their right hand.#a/DET person/NOUN throw/VERB something/PRON with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+a person throwing something at shoulder height.#a/DET person/NOUN throw/VERB something/PRON at/ADP shoulder/NOUN height/NOUN#0.0#0.0
+a person swats the air with one hand.#a/DET person/NOUN swat/VERB the/DET air/NOUN with/ADP one/NUM hand/NOUN#0.0#0.0

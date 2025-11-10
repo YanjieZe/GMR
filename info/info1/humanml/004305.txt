@@ -1,0 +1,3 @@
+a person shuffles his feet while bending over and then olaces his arms crossed on the top of his legs.#a/DET person/NOUN shuffle/VERB his/DET foot/NOUN while/SCONJ bend/VERB over/ADV and/CCONJ then/ADV olace/VERB his/DET arm/NOUN cross/VERB on/ADP the/DET top/NOUN of/ADP his/DET leg/NOUN#0.0#0.0
+man standing then bends forward.#man/PROPN stand/VERB then/ADV bend/VERB forward/ADV#0.0#0.0
+a person hunches over, then puts their hands on their left leg.#a/DET person/NOUN hunch/VERB over/ADP then/ADV put/VERB their/DET hand/NOUN on/ADP their/DET left/ADJ leg/NOUN#0.0#0.0

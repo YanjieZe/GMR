@@ -1,0 +1,3 @@
+the person is doing the lambada dance.#the/DET person/NOUN is/AUX do/VERB the/DET lambada/PROPN dance/NOUN#0.0#0.0
+a person dances with an unseen partner while slowly moving forward.#a/DET person/NOUN dance/VERB with/ADP an/DET unseen/ADJ partner/NOUN while/SCONJ slowly/ADV move/VERB forward/ADV#0.0#0.0
+this person appears to be dancing.#this/DET person/NOUN appear/VERB to/PART be/AUX dance/VERB#0.0#0.0

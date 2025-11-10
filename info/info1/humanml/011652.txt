@@ -1,0 +1,3 @@
+a person jumps in the air, then abruptly stumbles to his left as if he had been pushed, and finally he regains his balance.#a/DET person/NOUN jump/VERB in/ADP the/DET air/NOUN then/ADV abruptly/ADV stumble/VERB to/ADP his/DET left/NOUN as/SCONJ if/SCONJ he/PRON had/AUX been/AUX push/VERB and/CCONJ finally/ADV he/PRON regain/VERB his/DET balance/NOUN#0.0#0.0
+taking a small hop and few steps to the left#take/VERB a/DET small/ADJ hop/NOUN and/CCONJ few/ADJ step/NOUN to/ADP the/DET left/NOUN#0.0#0.0
+a person jumps up once and then sidesteps left.#a/DET person/NOUN jump/VERB up/ADP once/ADV and/CCONJ then/ADV sidestep/VERB left/VERB#0.0#0.0

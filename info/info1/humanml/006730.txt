@@ -1,0 +1,3 @@
+a person squats picks something up then gets back up#a/DET person/NOUN squat/VERB pick/VERB something/PRON up/ADV then/ADV get/VERB back/ADV up/ADV#0.0#3.0
+a person does one deep squat, and then moves their arms in a relaxed way.#a/DET person/NOUN does/AUX one/NUM deep/ADJ squat/NOUN and/CCONJ then/ADV move/VERB their/DET arm/NOUN in/ADP a/DET relaxed/ADJ way/NOUN#0.0#0.0
+this person bends at the knees to pick up something.#this/DET person/NOUN bend/VERB at/ADP the/DET knee/NOUN to/PART pick/VERB up/ADP something/PRON#0.0#0.0

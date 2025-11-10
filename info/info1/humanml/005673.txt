@@ -1,0 +1,3 @@
+a man walks forward with a limp in his right leg and then walks in the other direction.#a/DET man/NOUN walk/VERB forward/ADV with/ADP a/DET limp/NOUN in/ADP his/DET right/ADJ leg/NOUN and/CCONJ then/ADV walk/VERB in/ADP the/DET other/ADJ direction/NOUN#0.0#0.0
+man pacing on uneven ground#man/NOUN pace/VERB on/ADP uneven/ADJ ground/NOUN#0.0#0.0
+a person walks forward one step at a time, leading with their left foot, then turns around and continues.#a/DET person/NOUN walk/VERB forward/ADV one/NUM step/NOUN at/ADP a/DET time/NOUN lead/VERB with/ADP their/DET left/ADJ foot/NOUN then/ADV turn/VERB around/ADV and/CCONJ continue/VERB#0.0#0.0

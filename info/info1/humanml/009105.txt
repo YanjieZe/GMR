@@ -1,0 +1,3 @@
+a person walks forward, spins around on his left leg anticlockwise, then walks back into the direction he came from#a/DET person/NOUN walk/VERB forward/ADV spin/VERB around/ADV on/ADP his/DET left/ADJ leg/NOUN anticlockwise/NOUN then/ADV walk/VERB back/ADV into/ADP the/DET direction/NOUN he/PRON come/VERB from/ADP#0.0#0.0
+a person walks forward then spins around and walks back#a/DET person/NOUN walk/VERB forward/ADV then/ADV spin/VERB around/ADV and/CCONJ walk/VERB back/ADV#0.0#0.0
+a man walks forward 2 steps then back to his original place.#a/DET man/NOUN walk/VERB forward/ADV step/NOUN then/ADV back/ADV to/ADP his/DET original/ADJ place/NOUN#0.0#0.0

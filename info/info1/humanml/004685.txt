@@ -1,0 +1,3 @@
+a person walks up to a door, knocks, and leaves.#a/DET person/NOUN walk/VERB up/ADP to/ADP a/DET door/NOUN knock/NOUN and/CCONJ leave/NOUN#0.0#0.0
+a person walks forward and knocks on a door, then walks back in a straight line.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ knock/VERB on/ADP a/DET door/NOUN then/ADV walk/VERB back/ADV in/ADP a/DET straight/ADJ line/NOUN#0.0#0.0
+a man walks forward and knocks before turning around and walking back.#a/DET man/NOUN walk/VERB forward/ADV and/CCONJ knock/NOUN before/ADP turn/VERB around/ADV and/CCONJ walk/VERB back/ADV#0.0#0.0

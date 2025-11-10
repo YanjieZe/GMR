@@ -1,0 +1,3 @@
+he stands to walk backwards#he/PRON stand/VERB to/PART walk/VERB backwards/ADV#0.0#0.0
+a individual walks backward a few steps.#a/DET individual/NOUN walk/VERB backward/ADV a/DET few/ADJ step/NOUN#0.0#4.0
+a person is waslking backwards#a/DET person/NOUN is/AUX waslke/VERB backwards/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a figure lifts his right arm and stretches it overhead#a/DET figure/NOUN lift/VERB his/DET right/ADJ arm/NOUN and/CCONJ stretch/VERB it/PRON overhead/ADV#0.0#0.0
+a person exercises by stretching their right arm over their head while leaning to the left.#a/DET person/NOUN exercise/VERB by/ADP stretch/VERB their/DET right/ADJ arm/NOUN over/ADP their/DET head/NOUN while/SCONJ lean/VERB to/ADP the/DET left/NOUN#0.0#0.0
+a person outstretches right hand over head and bends over to their left side#a/DET person/NOUN outstretche/VERB right/ADJ hand/NOUN over/ADP head/NOUN and/CCONJ bend/VERB over/ADP to/ADP their/DET left/ADJ side/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+person is standing and excercising arms.#person/NOUN is/AUX stand/VERB and/CCONJ excercise/VERB arm/NOUN#0.0#0.0
+a person moves their head in a circular motion many times.#a/DET person/NOUN move/VERB their/DET head/NOUN in/ADP a/DET circular/ADJ motion/NOUN many/ADJ time/NOUN#nan#0.0
+a man stands with his knees bent, lowers his outstretched arms, then raises them again.#a/DET man/NOUN stand/VERB with/ADP his/DET knee/NOUN bent/ADJ lower/VERB his/DET outstretched/ADJ arm/NOUN then/ADV raise/VERB them/PRON again/ADV#0.0#0.0

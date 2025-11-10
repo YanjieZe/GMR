@@ -1,0 +1,3 @@
+person walks in a full circle anti clockwise#person/NOUN walk/VERB in/ADP a/DET full/ADJ circle/NOUN anti/X clockwise/NOUN#0.0#0.0
+someone just walking around in circle's#someone/PRON just/ADV walk/VERB around/ADV in/ADP circle/NOUN#0.0#0.0
+leading with his left foot, the person walks counterclockwise in an oval pattern.#lead/VERB with/ADP his/DET left/ADJ foot/NOUN the/DET person/NOUN walk/VERB counterclockwise/NOUN in/ADP an/DET oval/ADJ pattern/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person bends over and flaps his arms.#a/DET person/NOUN bend/VERB over/ADP and/CCONJ flap/VERB his/DET arm/NOUN#0.0#0.0
+a person bent the body, and made swing with hands#a/DET person/NOUN bend/VERB the/DET body/NOUN and/CCONJ make/VERB swing/NOUN with/ADP hand/NOUN#0.0#0.0
+a person leans forward; facing the ground, and flaps their arms like a bird, then stands erect and back pedals.#a/DET person/NOUN lean/VERB forward/ADV face/VERB the/DET ground/NOUN and/CCONJ flap/VERB their/DET arm/NOUN like/SCONJ a/DET bird/NOUN then/ADV stand/VERB erect/NOUN and/CCONJ back/ADJ pedal/NOUN#0.0#0.0

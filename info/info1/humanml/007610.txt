@@ -1,0 +1,3 @@
+a person shakes their arms and shoulders and move backwards at the same time#a/DET person/NOUN shake/VERB their/DET arm/NOUN and/CCONJ shoulder/NOUN and/CCONJ move/VERB backwards/ADV at/ADP the/DET same/ADJ time/NOUN#0.0#0.0
+a person has a spasm on the spot.#a/DET person/NOUN has/AUX a/DET spasm/NOUN on/ADP the/DET spot/NOUN#0.0#0.0
+a person struggles to stand still and stumbles#a/DET person/NOUN struggle/VERB to/PART stand/VERB still/ADV and/CCONJ stumble/NOUN#0.0#0.0

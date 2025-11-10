@@ -1,0 +1,3 @@
+a person jumps up and down switching feet while swinging his arms#a/DET person/NOUN jump/VERB up/ADV and/CCONJ down/ADP switch/VERB foot/NOUN while/SCONJ swinge/VERB his/DET arm/NOUN#0.0#0.0
+the man is dancing happily#the/DET man/NOUN is/AUX dance/VERB happily/ADV#0.0#0.0
+this person exercises using long strides and then using elbow to knee.#this/DET person/NOUN exercise/VERB use/VERB long/ADJ stride/NOUN and/CCONJ then/ADV use/VERB elbow/NOUN to/PART knee/VERB#0.0#0.0

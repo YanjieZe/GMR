@@ -1,0 +1,3 @@
+a man steps forward in a zig-zagged pattern.#a/DET man/NOUN step/VERB forward/ADV in/ADP a/DET zigzagged/ADJ pattern/NOUN#0.0#0.0
+a person takes big steps while moving forward#a/DET person/NOUN take/VERB big/ADJ step/NOUN while/SCONJ move/VERB forward/ADV#0.0#0.0
+the person is walking on steppingstones forward.#the/DET person/NOUN is/AUX walk/VERB on/ADP steppingstone/NOUN forward/ADV#0.0#0.0

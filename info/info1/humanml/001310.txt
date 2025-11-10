@@ -1,0 +1,3 @@
+a person relaxes arms down to side of body, then makes a drinking motion with their right hand.#a/DET person/NOUN relax/VERB arm/NOUN down/ADV to/ADP side/NOUN of/ADP body/NOUN then/ADV make/VERB a/DET drinking/NOUN motion/NOUN with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+a person greets someone by raising their hand to their head.#a/DET person/NOUN greet/VERB someone/PRON by/ADP raise/VERB their/DET hand/NOUN to/ADP their/DET head/NOUN#0.0#0.0
+a person raises his hand to his head twice in an organized and stiff manner#a/DET person/NOUN raise/VERB his/DET hand/NOUN to/ADP his/DET head/NOUN twice/ADV in/ADP an/DET organized/ADJ and/CCONJ stiff/ADJ manner/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a man puts his hands up, steps back and then throws a punch.#a/DET man/NOUN put/VERB his/DET hand/NOUN up/ADP step/VERB back/ADV and/CCONJ then/ADV throw/VERB a/DET punch/NOUN#0.0#0.0
+a person catches a football then throws it back#a/DET person/NOUN catch/VERB a/DET football/NOUN then/ADV throw/VERB it/PRON back/ADV#0.0#0.0
+person holds up item and thrusts item upwards and forward and then steps back and throws item with right hand#person/NOUN hold/VERB up/ADP item/NOUN and/CCONJ thrust/NOUN item/NOUN upwards/ADV and/CCONJ forward/ADV and/CCONJ then/ADV step/VERB back/ADV and/CCONJ throw/VERB item/NOUN with/ADP right/ADJ hand/NOUN#0.0#0.0

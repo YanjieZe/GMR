@@ -1,0 +1,3 @@
+person runs backwards performing an a like pattern#person/NOUN run/VERB backwards/ADV perform/VERB an/DET a/DET like/ADJ pattern/NOUN#0.0#0.0
+a man moves backwards while sliding his feet.#a/DET man/NOUN move/VERB backwards/ADV while/SCONJ slide/VERB his/DET foot/NOUN#0.0#0.0
+a man energetically walks backwards in a counterclockwise circle, then turns sharply, and continues backpedalling.#a/DET man/NOUN energetically/ADV walk/VERB backwards/ADV in/ADP a/DET counterclockwise/ADJ circle/NOUN then/ADV turn/VERB sharply/ADV and/CCONJ continue/VERB backpedalling/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a man walks forward and few steps than turns around.#a/DET man/NOUN walk/VERB forward/ADV and/CCONJ few/ADJ step/NOUN than/SCONJ turn/VERB around/ADV#0.0#0.0
+a person walks forward, spins around then walks back.#a/DET person/NOUN walk/VERB forward/ADV spin/VERB around/ADV then/ADV walk/VERB back/ADV#0.0#0.0
+a person walks forward, then turns left to turn around and walk back to starting position#a/DET person/NOUN walk/VERB forward/ADV then/ADV turn/VERB left/VERB to/PART turn/VERB around/ADP and/CCONJ walk/VERB back/ADV to/ADP start/VERB position/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+person lifts right arm in front of them, bends arm and tilts wrist as if to look at a watch.#person/NOUN lift/VERB right/ADJ arm/NOUN in/ADP front/NOUN of/ADP them/PRON bend/VERB arm/NOUN and/CCONJ tilt/NOUN wrist/VERB as/SCONJ if/SCONJ to/PART look/VERB at/ADP a/DET watch/NOUN#0.0#0.0
+a person looks at his right hand.#a/DET person/NOUN look/VERB at/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+a body stands tall raises his right arm angled holds for 3 seconds & then releases.#a/DET body/NOUN stand/VERB tall/ADJ raise/VERB his/DET right/ADJ arm/NOUN angle/VERB hold/VERB for/ADP second/NOUN then/ADV release/NOUN#1.0#4.0

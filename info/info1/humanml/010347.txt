@@ -1,0 +1,3 @@
+a person waves with their left hand then makes a big wave with both hands.#a/DET person/NOUN wave/VERB with/ADP their/DET left/ADJ hand/NOUN then/ADV make/VERB a/DET big/ADJ wave/NOUN with/ADP both/DET hand/NOUN#0.0#0.0
+a person waves with there left hand, then waves with both.#a/DET person/NOUN wave/VERB with/ADP there/ADV left/ADJ hand/NOUN then/ADV wave/VERB with/ADP both/DET#0.0#0.0
+a person waves casually and gradually becomes more erractic.#a/DET person/NOUN wave/VERB casually/ADV and/CCONJ gradually/ADV become/VERB more/ADV erractic/ADJ#0.0#0.0

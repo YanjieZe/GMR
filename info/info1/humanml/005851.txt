@@ -1,0 +1,3 @@
+a person, standing, raises his right hand as if to check his watch and then lowers his hand back to his side.#a/DET person/NOUN standing/NOUN raise/VERB his/DET right/ADJ hand/NOUN as/SCONJ if/SCONJ to/PART check/VERB his/DET watch/NOUN and/CCONJ then/ADV lower/VERB his/DET hand/NOUN back/ADV to/ADP his/DET side/NOUN#0.0#0.0
+person is checking the time#person/NOUN is/AUX check/VERB the/DET time/NOUN#0.0#0.0
+a person touches his chest with his right hand and then lowers his hand.#a/DET person/NOUN touch/VERB his/DET chest/NOUN with/ADP his/DET right/ADJ hand/NOUN and/CCONJ then/ADV lower/VERB his/DET hand/NOUN#0.0#0.0

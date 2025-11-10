@@ -1,0 +1,3 @@
+person lifts both arms shoulder height once leading with right arm has a break then repeats once more#person/NOUN lift/VERB both/DET arm/NOUN shoulder/NOUN height/NOUN once/ADV lead/VERB with/ADP right/ADJ arm/NOUN has/AUX a/DET break/NOUN then/ADV repeat/VERB once/ADV more/ADJ#0.0#0.0
+a sitting person, with their hands resting on their knees, extend their arm out to their sides.#a/DET sit/VERB person/NOUN with/ADP their/DET hand/NOUN rest/VERB on/ADP their/DET knee/NOUN extend/VERB their/DET arm/NOUN out/ADP to/ADP their/DET side/NOUN#0.0#0.0
+a man seated stretches out his arms on each side and lowers them back down.#a/DET man/NOUN seat/VERB stretch/VERB out/ADP his/DET arm/NOUN on/ADP each/DET side/NOUN and/CCONJ lower/VERB them/PRON back/ADV down/ADP#0.0#0.0

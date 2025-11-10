@@ -1,0 +1,3 @@
+a person has his legs spread and arms crossed.#a/DET person/NOUN has/AUX his/DET leg/NOUN spread/VERB and/CCONJ arm/NOUN cross/VERB#0.0#0.0
+a person crosses his arms, uncrosses his arms, and crosses his arms again while sitting.#a/DET person/NOUN cross/VERB his/DET arm/NOUN uncross/VERB his/DET arm/NOUN and/CCONJ cross/VERB his/DET arm/NOUN again/ADV while/SCONJ sit/VERB#0.0#0.0
+a sitting person leans forward with their arms in their lap.#a/DET sit/VERB person/NOUN lean/VERB forward/ADV with/ADP their/DET arm/NOUN in/ADP their/DET lap/NOUN#0.0#0.0

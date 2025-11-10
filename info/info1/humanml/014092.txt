@@ -1,0 +1,3 @@
+a person swinging its right arm, while its left arm is slightly elevated.#a/DET person/NOUN swinge/VERB its/DET right/ADJ arm/NOUN while/SCONJ its/DET left/ADJ arm/NOUN is/AUX slightly/ADV elevate/VERB#0.0#0.0
+with the right hand, the person hits a drum they are holding in their left hand.#with/ADP the/DET right/ADJ hand/NOUN the/DET person/NOUN hit/VERB a/DET drum/NOUN they/PRON are/AUX hold/VERB in/ADP their/DET left/ADJ hand/NOUN#0.0#0.0
+a person uses their right hand to slap something several times with a rhythm of slow, slow, fast fast fast.#a/DET person/NOUN use/VERB their/DET right/ADJ hand/NOUN to/PART slap/VERB something/PRON several/ADJ time/NOUN with/ADP a/DET rhythm/NOUN of/ADP slow/ADJ slow/ADJ fast/ADV fast/ADV fast/ADV#0.0#0.0

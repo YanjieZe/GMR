@@ -1,0 +1,3 @@
+a person bends their arms at the elbows and paws at their face#a/DET person/NOUN bend/VERB their/DET arm/NOUN at/ADP the/DET elbow/NOUN and/CCONJ paw/NOUN at/ADP their/DET face/NOUN#0.0#0.0
+a man holds his hands in front of him like t-rex arms.#a/DET man/NOUN hold/VERB his/DET hand/NOUN in/ADP front/NOUN of/ADP him/PRON like/SCONJ trex/NOUN arm/NOUN#0.0#0.0
+someone who has no control of their arms#someone/PRON who/PRON has/AUX no/DET control/NOUN of/ADP their/DET arm/NOUN#0.0#0.0

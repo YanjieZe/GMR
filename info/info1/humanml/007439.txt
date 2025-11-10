@@ -1,0 +1,3 @@
+running in a circle.#run/VERB in/ADP a/DET circle/NOUN#0.0#0.0
+person running back and forth#person/NOUN run/VERB back/ADV and/CCONJ forth/ADV#0.0#0.0
+looking up at the figure as though below the ground the figure bounces around in a circle with arms in a running position as they alternate back in forth naturally with the bodies bouncing motion.#look/VERB up/ADP at/ADP the/DET figure/NOUN as/SCONJ though/SCONJ below/ADP the/DET ground/NOUN the/DET figure/NOUN bounce/VERB around/ADV in/ADP a/DET circle/NOUN with/ADP arm/NOUN in/ADP a/DET running/ADJ position/NOUN as/SCONJ they/PRON alternate/VERB back/ADV in/ADP forth/ADV naturally/ADV with/ADP the/DET body/NOUN bounce/VERB motion/NOUN#0.0#0.0

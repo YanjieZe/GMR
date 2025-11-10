@@ -1,0 +1,3 @@
+a person bent forward is walking backwards.#a/DET person/NOUN bent/ADJ forward/PROPN is/AUX walk/VERB backwards/ADV#0.0#0.0
+a person bends forward at the waist while walking backwards.#a/DET person/NOUN bend/VERB forward/ADV at/ADP the/DET waist/NOUN while/SCONJ walk/VERB backwards/ADV#0.0#0.0
+a person walks backwards slowly, bent forwards.#a/DET person/NOUN walk/VERB backwards/ADV slowly/ADV bent/ADJ forward/NOUN#0.0#0.0

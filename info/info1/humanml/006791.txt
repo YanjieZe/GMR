@@ -1,0 +1,3 @@
+the person is drinking a tall glass of water.#the/DET person/NOUN is/AUX drink/VERB a/DET tall/ADJ glass/NOUN of/ADP water/NOUN#0.0#0.0
+a person is stretching their arms. they raise their right arm above their head as their left arm goes out to the side, and then returns back to original position.#a/DET person/NOUN is/AUX stretch/VERB their/DET arm/NOUN they/PRON raise/VERB their/DET right/ADJ arm/NOUN above/ADP their/DET head/NOUN as/SCONJ their/DET left/ADJ arm/NOUN go/VERB out/ADP to/ADP the/DET side/NOUN and/CCONJ then/ADV return/VERB back/ADV to/ADP original/ADJ position/NOUN#0.0#7.0
+a person lifting his right arm up to have a drink#a/DET person/NOUN lift/VERB his/DET right/ADJ arm/NOUN up/ADP to/PART have/AUX a/DET drink/NOUN#0.0#0.0

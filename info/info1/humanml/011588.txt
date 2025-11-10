@@ -1,0 +1,3 @@
+arms to the side, moving up toward the head and back down.#arm/NOUN to/ADP the/DET side/NOUN move/VERB up/ADP toward/ADP the/DET head/NOUN and/CCONJ back/VERB down/ADV#0.0#3.0
+person holds arms out then down then pulls somthing apart.#person/NOUN hold/VERB arm/NOUN out/ADV then/ADV down/ADV then/ADV pull/VERB somthe/VERB apart/ADV#0.0#0.0
+a person stretches out an object, then proceeds to put it into a tube.#a/DET person/NOUN stretch/VERB out/ADP an/DET object/NOUN then/ADV proceed/VERB to/PART put/VERB it/PRON into/ADP a/DET tube/NOUN#0.0#0.0

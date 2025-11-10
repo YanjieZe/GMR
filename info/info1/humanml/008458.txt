@@ -1,0 +1,3 @@
+a person walks over something by standing on it, before continuing on their way.#a/DET person/NOUN walk/VERB over/ADP something/PRON by/ADP stand/VERB on/ADP it/PRON before/ADP continue/VERB on/ADP their/DET way/NOUN#0.0#0.0
+a person walks on unlevel ground.#a/DET person/NOUN walk/VERB on/ADP unlevel/ADJ ground/NOUN#0.0#0.0
+a man is walking forward then steps over an object then continues walking forward.#a/DET man/NOUN is/AUX walk/VERB forward/ADV then/ADV step/VERB over/ADP an/DET object/NOUN then/ADV continue/VERB walk/VERB forward/ADV#0.0#0.0

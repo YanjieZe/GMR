@@ -1,0 +1,3 @@
+person slightly takes a larger step whilst step to walk over something#person/NOUN slightly/ADV take/VERB a/DET larger/ADJ step/NOUN whilst/SCONJ step/NOUN to/PART walk/VERB over/ADP something/PRON#0.0#0.0
+someone walking down the street#someone/PRON walk/VERB down/ADP the/DET street/NOUN#0.0#0.0
+a person walks forward, slightly limping to the left.#a/DET person/NOUN walk/VERB forward/ADV slightly/ADV limp/VERB to/ADP the/DET left/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+starts running in place and then speeds up pace and slows back down.#start/VERB run/VERB in/ADP place/NOUN and/CCONJ then/ADV speed/VERB up/ADP pace/NOUN and/CCONJ slow/VERB back/ADV down/ADV#0.0#0.0
+person runs in place at various speeds#person/NOUN run/VERB in/ADP place/NOUN at/ADP various/ADJ speed/NOUN#0.0#0.0
+he runs over then stops#he/PRON run/VERB over/ADP then/ADV stop/VERB#0.0#0.0

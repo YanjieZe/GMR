@@ -1,0 +1,3 @@
+person grab the ball and he threw it across the field#person/NOUN grab/VERB the/DET ball/NOUN and/CCONJ he/PRON throw/VERB it/PRON across/ADP the/DET field/NOUN#0.0#0.0
+a figure winds up to throw a pitch#a/DET figure/NOUN wind/VERB up/ADP to/PART throw/VERB a/DET pitch/NOUN#0.0#0.0
+a person jogs to the side then lifts something and throws it#a/DET person/NOUN jog/VERB to/ADP the/DET side/NOUN then/ADV lift/VERB something/PRON and/CCONJ throw/VERB it/PRON#0.0#0.0

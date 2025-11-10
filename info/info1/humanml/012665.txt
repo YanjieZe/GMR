@@ -1,0 +1,3 @@
+this person moves both arms to the sides while being raised.#this/DET person/NOUN move/VERB both/DET arm/NOUN to/ADP the/DET side/NOUN while/SCONJ being/AUX raise/VERB#0.0#0.0
+the person uses their arms to pull open the drapes#the/DET person/NOUN use/VERB their/DET arm/NOUN to/PART pull/VERB open/ADJ the/DET drape/NOUN#0.0#0.0
+the person was doing a warm-up of his pectoral muscles.#the/DET person/NOUN was/AUX do/VERB a/DET warmup/NOUN of/ADP his/DET pectoral/ADJ muscle/NOUN#0.0#0.0

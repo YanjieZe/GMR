@@ -1,0 +1,3 @@
+a man stands with his arms at his sides, and sways slightly to his left.#a/DET man/NOUN stand/VERB with/ADP his/DET arm/NOUN at/ADP his/DET side/NOUN and/CCONJ sway/VERB slightly/ADV to/ADP his/DET left/NOUN#0.0#0.0
+person is being still and leaning slightly to their left#person/NOUN is/AUX being/AUX still/ADV and/CCONJ lean/VERB slightly/ADV to/ADP their/DET left/NOUN#0.0#0.0
+the person is standing completely still turning their head#the/DET person/NOUN is/AUX stand/VERB completely/ADV still/ADV turn/VERB their/DET head/NOUN#0.0#0.0

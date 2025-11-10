@@ -1,0 +1,3 @@
+a person is lifting dumbbell over their head#a/DET person/NOUN is/AUX lift/VERB dumbbell/NOUN over/ADP their/DET head/NOUN#0.0#0.0
+a person standing lifting arms up#a/DET person/NOUN stand/VERB lift/VERB arm/NOUN up/ADP#0.0#0.0
+a person who is holding his hands at the level of his head lifts both of his arms above his head two times.#a/DET person/NOUN who/PRON is/AUX hold/VERB his/DET hand/NOUN at/ADP the/DET level/NOUN of/ADP his/DET head/NOUN lift/VERB both/DET of/ADP his/DET arm/NOUN above/ADP his/DET head/NOUN two/NUM time/NOUN#0.0#0.0

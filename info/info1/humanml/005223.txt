@@ -1,0 +1,3 @@
+the person kicks up their leg a couple of times#the/DET person/NOUN kick/VERB up/ADP their/DET leg/NOUN a/DET couple/NOUN of/ADP time/NOUN#0.0#0.0
+standing person raises their right leg forward twice#stand/VERB person/NOUN raise/VERB their/DET right/ADJ leg/NOUN forward/ADV twice/ADV#0.0#0.0
+a man kicks his right leg and sets it back on the ground.#a/DET man/NOUN kick/VERB his/DET right/ADJ leg/NOUN and/CCONJ set/VERB it/PRON back/ADV on/ADP the/DET ground/NOUN#0.0#0.0

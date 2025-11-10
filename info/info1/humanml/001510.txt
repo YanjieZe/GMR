@@ -1,0 +1,3 @@
+a person stretches from side to side.#a/DET person/NOUN stretch/VERB from/ADP side/NOUN to/ADP side/NOUN#0.0#0.0
+a person is raising his left arm above the hand while lowering his right hand below the crotch, then repeats it with opposite hands.#a/DET person/NOUN is/AUX raise/VERB his/DET left/ADJ arm/NOUN above/ADP the/DET hand/NOUN while/SCONJ lower/VERB his/DET right/ADJ hand/NOUN below/ADP the/DET crotch/NOUN then/ADV repeat/VERB it/PRON with/ADP opposite/ADJ hand/NOUN#0.0#0.0
+a man raises one arm then lowers it and raises the other arm.#a/DET man/NOUN raise/VERB one/NUM arm/NOUN then/ADV lower/VERB it/PRON and/CCONJ raise/VERB the/DET other/ADJ arm/NOUN#0.0#0.0

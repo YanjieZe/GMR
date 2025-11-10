@@ -1,0 +1,3 @@
+a person takes steps backwards.#a/DET person/NOUN take/VERB step/NOUN backwards/ADV#0.0#0.0
+a person stands still and then steps back.#a/DET person/NOUN stand/VERB still/ADV and/CCONJ then/ADV step/VERB back/ADV#0.0#0.0
+person person is backing up from being pushed.#person/NOUN person/NOUN is/AUX back/VERB up/ADP from/ADP being/AUX push/VERB#0.0#0.0

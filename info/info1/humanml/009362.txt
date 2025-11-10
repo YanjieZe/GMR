@@ -1,0 +1,3 @@
+person took a medium hop forward.#person/NOUN take/VERB a/DET medium/ADJ hop/NOUN forward/ADV#0.0#0.0
+jump forward on the floor.#jump/VERB forward/ADV on/ADP the/DET floor/NOUN#0.0#0.0
+person hops forward on two feet#person/NOUN hop/VERB forward/ADV on/ADP two/NUM foot/NOUN#0.0#0.0

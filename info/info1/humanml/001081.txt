@@ -1,0 +1,3 @@
+a person walks and turns toward the right.#a/DET person/NOUN walk/VERB and/CCONJ turn/VERB toward/ADP the/DET right/NOUN#0.0#0.0
+a man walks in a wide arc to his right.#a/DET man/NOUN walk/VERB in/ADP a/DET wide/ADJ arc/NOUN to/ADP his/DET right/NOUN#0.0#0.0
+the person is walking four steps to the right.#the/DET person/NOUN is/AUX walk/VERB four/NUM step/NOUN to/ADP the/DET right/NOUN#0.0#0.0

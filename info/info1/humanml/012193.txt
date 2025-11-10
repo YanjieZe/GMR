@@ -1,0 +1,3 @@
+the person was lifting dumbbells with both arms.#the/DET person/NOUN was/AUX lift/VERB dumbbell/NOUN with/ADP both/DET arm/NOUN#0.0#0.0
+the sim is standing in a active pose, appearing to be squatting while holding a bar above their shoulders.#the/DET sim/PROPN is/AUX stand/VERB in/ADP a/DET active/ADJ pose/NOUN appear/VERB to/PART be/AUX squat/VERB while/SCONJ hold/VERB a/DET bar/NOUN above/ADP their/DET shoulder/NOUN#0.0#6.0
+a person who is standing with his arms up parallel to his head, squats and stands and then squats and stands again.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP his/DET arm/NOUN up/ADV parallel/NOUN to/ADP his/DET head/NOUN squat/NOUN and/CCONJ stand/VERB and/CCONJ then/ADV squat/VERB and/CCONJ stand/VERB again/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person who seems to be dancing in the style of waltz#a/DET person/NOUN who/PRON seem/VERB to/PART be/AUX dance/VERB in/ADP the/DET style/NOUN of/ADP waltz/PROPN#0.0#0.0
+a makes steps in circles of different size, in a counter-clockwise direction, his arms are raised as if he is performing a ballroom dance with a partner.#a/DET make/VERB step/NOUN in/ADP circle/NOUN of/ADP different/ADJ size/NOUN in/ADP a/DET counterclockwise/ADJ direction/NOUN his/DET arm/NOUN are/AUX raise/VERB as/SCONJ if/SCONJ he/PRON is/AUX perform/VERB a/DET ballroom/NOUN dance/NOUN with/ADP a/DET partner/NOUN#0.0#0.0
+a man does a waltz with his left hand lifted.#a/DET man/NOUN does/AUX a/DET waltz/NOUN with/ADP his/DET left/ADJ hand/NOUN lift/VERB#0.0#0.0

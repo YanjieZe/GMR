@@ -1,0 +1,3 @@
+a person walks forward, climbs a ladder, then climbs down#a/DET person/NOUN walk/VERB forward/ADV climb/VERB a/DET ladder/NOUN then/ADV climb/VERB down/ADP#0.0#0.0
+a person walks around to the left, climbs up a ladder, looks over something and then begins to climb back down the ladder.#a/DET person/NOUN walk/VERB around/ADV to/ADP the/DET left/NOUN climb/VERB up/ADP a/DET ladder/NOUN look/VERB over/ADP something/PRON and/CCONJ then/ADV begin/VERB to/PART climb/VERB back/ADV down/ADP the/DET ladder/NOUN#0.0#0.0
+a person walks to the right, then climbs something.#a/DET person/NOUN walk/VERB to/ADP the/DET right/NOUN then/ADV climb/VERB something/PRON#0.0#5.0

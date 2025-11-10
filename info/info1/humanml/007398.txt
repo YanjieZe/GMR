@@ -1,0 +1,3 @@
+a person hastily paces in an ovular shape.#a/DET person/NOUN hastily/ADV pace/VERB in/ADP an/DET ovular/ADJ shape/NOUN#0.0#0.0
+person walks in a full counter clockwise circle.#person/NOUN walk/VERB in/ADP a/DET full/ADJ counter/NOUN clockwise/NOUN circle/NOUN#0.0#0.0
+a person walks in a counter-clockwise circle.#a/DET person/NOUN walk/VERB in/ADP a/DET counterclockwise/ADJ circle/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person puts his right hand forward.#a/DET person/NOUN put/VERB his/DET right/ADJ hand/NOUN forward/ADV#0.0#0.0
+moving the right  hand on right side.#move/VERB the/DET right/ADJ hand/NOUN on/ADP right/ADJ side/NOUN#0.0#0.0
+a person opens up a sliding door.#a/DET person/NOUN open/VERB up/ADP a/DET slide/VERB door/NOUN#0.0#0.0

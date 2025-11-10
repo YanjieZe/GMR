@@ -1,0 +1,3 @@
+the person is doing the salsa dance.#the/DET person/NOUN is/AUX do/VERB the/DET salsa/NOUN dance/NOUN#0.0#0.0
+person shakes hips and shoulders, moving feet forward and back, then bends left elbow and makes a sweeping motion with right hand and right leg.#person/NOUN shake/VERB hip/NOUN and/CCONJ shoulder/NOUN move/VERB foot/NOUN forward/ADV and/CCONJ back/ADV then/ADV bend/VERB left/VERB elbow/PROPN and/CCONJ make/VERB a/DET sweeping/ADJ motion/NOUN with/ADP right/ADJ hand/NOUN and/CCONJ right/ADJ leg/NOUN#0.0#0.0
+the man is dancing around#the/DET man/NOUN is/AUX dance/VERB around/ADV#0.0#0.0

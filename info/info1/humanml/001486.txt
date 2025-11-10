@@ -1,0 +1,3 @@
+the person is picking up something.#the/DET person/NOUN is/AUX pick/VERB up/ADP something/PRON#0.0#0.0
+a person pokes their right hand along the ground, like they might be planting seeds.#a/DET person/NOUN poke/VERB their/DET right/ADJ hand/NOUN along/ADP the/DET ground/NOUN like/SCONJ they/PRON may/VERB be/AUX plant/VERB seed/NOUN#0.0#3.0
+using both hands, a person bends over to pat the ground.#use/VERB both/DET hand/NOUN a/DET person/NOUN bend/VERB over/ADP to/PART pat/VERB the/DET ground/NOUN#0.0#0.0

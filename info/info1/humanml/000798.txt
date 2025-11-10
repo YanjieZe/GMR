@@ -1,0 +1,3 @@
+the person is dancing by moving both his hands around#the/DET person/NOUN is/AUX dance/VERB by/ADP move/VERB both/DET his/DET hand/NOUN around/ADV#0.0#0.0
+a person waving his arms and bouncing at the knees as if dancing.#a/DET person/NOUN wave/VERB his/DET arm/NOUN and/CCONJ bounce/VERB at/ADP the/DET knee/NOUN as/SCONJ if/SCONJ dancing/NOUN#0.0#0.0
+a person dances in celebration, thrusting their arms in the air and moving side to side.#a/DET person/NOUN dance/VERB in/ADP celebration/NOUN thrust/VERB their/DET arm/NOUN in/ADP the/DET air/NOUN and/CCONJ move/VERB side/NOUN to/ADP side/VERB#0.0#0.0

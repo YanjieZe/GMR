@@ -1,0 +1,3 @@
+a person walks forward and slightly to his right at a normal pace.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ slightly/ADV to/ADP his/DET right/NOUN at/ADP a/DET normal/ADJ pace/NOUN#0.0#0.0
+walking forward in a diagonal line.#walk/VERB forward/ADV in/ADP a/DET diagonal/ADJ line/NOUN#0.0#0.0
+person is walking down a ramp or hill#person/NOUN is/AUX walk/VERB down/ADP a/DET ramp/NOUN or/CCONJ hill/NOUN#0.0#0.0

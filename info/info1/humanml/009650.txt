@@ -1,0 +1,3 @@
+someone climbs a step, walks and descends a step#someone/PRON climb/VERB a/DET step/NOUN walk/VERB and/CCONJ descend/VERB a/DET step/NOUN#0.0#0.0
+a person is stepping up, walking forward, and taking a step down.#a/DET person/NOUN is/AUX step/VERB up/ADP walk/VERB forward/ADV and/CCONJ take/VERB a/DET step/NOUN down/ADP#0.0#0.0
+the man takes a step up, walk forward, then takes a step down.#the/DET man/NOUN take/VERB a/DET step/NOUN up/ADP walk/VERB forward/ADV then/ADV take/VERB a/DET step/NOUN down/ADP#0.0#0.0

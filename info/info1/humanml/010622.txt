@@ -1,0 +1,3 @@
+a person jogs on the spot at a moderate pace.#a/DET person/NOUN jog/VERB on/ADP the/DET spot/NOUN at/ADP a/DET moderate/ADJ pace/NOUN#0.0#0.0
+a man jogs forwards slowly.#a/DET man/NOUN jog/VERB forward/VERB slowly/ADV#0.0#0.0
+a person is jogging in place.#a/DET person/NOUN is/AUX jog/VERB in/ADP place/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a man moves both of his arms in front of him.#a/DET man/NOUN move/VERB both/DET of/ADP his/DET arm/NOUN in/ADP front/NOUN of/ADP him/PRON#0.0#0.0
+a person is grabbing something from the front of them and moving/stacking something#a/DET person/NOUN is/AUX grab/VERB something/PRON from/ADP the/DET front/NOUN of/ADP them/PRON and/CCONJ move/VERB stack/VERB something/PRON#0.0#0.0
+person moves hands apart and then back together as if opening a door.#person/NOUN move/VERB hand/NOUN apart/ADV and/CCONJ then/ADV back/ADV together/ADV as/SCONJ if/SCONJ open/VERB a/DET door/NOUN#0.0#0.0

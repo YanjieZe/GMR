@@ -1,0 +1,3 @@
+a person steps back while shaking their shoulders and steps forward.#a/DET person/NOUN step/VERB back/ADV while/SCONJ shake/VERB their/DET shoulder/NOUN and/CCONJ step/NOUN forward/ADV#0.0#0.0
+the stick figure  walking backwards and back  like his having spasms.#the/DET stick/NOUN figure/NOUN walk/VERB backwards/ADV and/CCONJ back/ADV like/SCONJ his/DET have/VERB spasm/NOUN#0.0#0.0
+a person walks backwards shaking their left arm, and then stumbles forward with their hands raised in front of them.#a/DET person/NOUN walk/VERB backwards/ADV shake/VERB their/DET left/ADJ arm/NOUN and/CCONJ then/ADV stumble/VERB forward/ADV with/ADP their/DET hand/NOUN raise/VERB in/ADP front/NOUN of/ADP them/PRON#0.0#0.0

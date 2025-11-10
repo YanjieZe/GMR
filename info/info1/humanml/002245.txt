@@ -1,0 +1,3 @@
+person walks slowly forward with arms at sides.#person/NOUN walk/VERB slowly/ADV forward/ADV with/ADP arm/NOUN at/ADP side/NOUN#0.0#0.0
+a person taking slow steps forward.#a/DET person/NOUN take/VERB slow/ADJ step/NOUN forward/ADV#0.0#0.0
+a person walks forward. uses a fairly wide stance, looks aggressive and dominant#a/DET person/NOUN walk/VERB forward/ADV use/VERB a/DET fairly/ADV wide/ADJ stance/NOUN look/VERB aggressive/ADJ and/CCONJ dominant/ADJ#0.0#0.0

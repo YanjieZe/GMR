@@ -1,0 +1,3 @@
+a person slowly walks in a counter-clockwise circle and begins to climb something.#a/DET person/NOUN slowly/ADV walk/VERB in/ADP a/DET counterclockwise/ADJ circle/NOUN and/CCONJ begin/VERB to/PART climb/VERB something/PRON#0.0#0.0
+a person walks counterclockwise around a ladder and then steps on the first rung to climb it#a/DET person/NOUN walk/VERB counterclockwise/NOUN around/ADP a/DET ladder/NOUN and/CCONJ then/ADV step/VERB on/ADP the/DET first/ADJ rung/PROPN to/PART climb/VERB it/PRON#0.0#0.0
+someone is walking around in circles and then stepping on something.#someone/PRON is/AUX walk/VERB around/ADV in/ADP circle/NOUN and/CCONJ then/ADV step/VERB on/ADP something/PRON#0.0#0.0

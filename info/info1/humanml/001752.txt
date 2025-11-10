@@ -1,0 +1,3 @@
+a person stands still then they throw a football#a/DET person/NOUN stand/VERB still/ADV then/ADV they/PRON throw/VERB a/DET football/NOUN#0.0#0.0
+a person pitching a baseballl#a/DET person/NOUN pitch/VERB a/DET baseballl/NOUN#0.0#0.0
+a person carries something it their hands and then uses their right hand to throw it#a/DET person/NOUN carry/VERB something/PRON it/PRON their/DET hand/NOUN and/CCONJ then/ADV use/VERB their/DET right/ADJ hand/NOUN to/PART throw/VERB it/PRON#0.0#0.0

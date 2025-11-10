@@ -1,0 +1,3 @@
+the person takes a swing with the baseball bat#the/DET person/NOUN take/VERB a/DET swing/NOUN with/ADP the/DET baseball/NOUN bat/NOUN#0.0#0.0
+character is standing at an angular position making the motion as to be swinging a baseball bat.#character/NOUN is/AUX stand/VERB at/ADP an/DET angular/ADJ position/NOUN make/VERB the/DET motion/NOUN as/SCONJ to/PART be/AUX swinge/VERB a/DET baseball/NOUN bat/NOUN#0.0#9.0
+a person swings a bat to their right twice.#a/DET person/NOUN swing/VERB a/DET bat/NOUN to/ADP their/DET right/NOUN twice/ADV#0.0#0.0

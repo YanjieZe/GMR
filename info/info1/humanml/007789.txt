@@ -1,0 +1,3 @@
+a person lifts his arms and waves both of them left and right several times before lowering them.#a/DET person/NOUN lift/VERB his/DET arm/NOUN and/CCONJ wave/NOUN both/DET of/ADP them/PRON left/VERB and/CCONJ right/ADV several/ADJ time/NOUN before/ADP lower/VERB them/PRON#0.0#0.0
+a person raised the hands and made some movments#a/DET person/NOUN raise/VERB the/DET hand/NOUN and/CCONJ make/VERB some/DET movment/NOUN#0.0#0.0
+waving hands around near face.#wave/VERB hand/NOUN around/ADV near/SCONJ face/NOUN#0.0#0.0

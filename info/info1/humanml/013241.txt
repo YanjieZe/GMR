@@ -1,0 +1,3 @@
+a person claps once then walks forward then sits down.#a/DET person/NOUN clap/VERB once/ADV then/ADV walk/VERB forward/ADV then/ADV sit/VERB down/ADP#0.0#0.0
+a person their arms down from the side, closes theirs fists together, walks in a forward motion and sits down.#a/DET person/NOUN their/DET arm/NOUN down/ADV from/ADP the/DET side/NOUN close/VERB theirs/ADJ fist/NOUN together/ADV walk/VERB in/ADP a/DET forward/ADJ motion/NOUN and/CCONJ sit/VERB down/ADP#1.0#10.0
+a person had his arms out to the side and brought them together clapping.#a/DET person/NOUN had/AUX his/DET arm/NOUN out/SCONJ to/ADP the/DET side/NOUN and/CCONJ bring/VERB them/PRON together/ADV clap/VERB#0.0#0.0

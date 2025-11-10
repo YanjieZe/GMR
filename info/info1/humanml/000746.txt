@@ -1,0 +1,3 @@
+a person takes four steps turning 90 degrees to the left as they do so.#a/DET person/NOUN take/VERB four/NUM step/NOUN turn/VERB degree/NOUN to/ADP the/DET left/NOUN as/SCONJ they/PRON do/AUX so/ADV#nan#nan
+a man walks forward while gradually taking a turn to the left.#a/DET man/NOUN walk/VERB forward/ADV while/SCONJ gradually/ADV take/VERB a/DET turn/NOUN to/ADP the/DET left/NOUN#0.0#0.0
+a person walks forward then curves to the right and stops.#a/DET person/NOUN walk/VERB forward/ADV then/ADV curve/VERB to/ADP the/DET right/NOUN and/CCONJ stop/NOUN#0.0#0.0

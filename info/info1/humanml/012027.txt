@@ -1,0 +1,3 @@
+a person moves their right forearm around in a random pattern.#a/DET person/NOUN move/VERB their/DET right/ADJ forearm/NOUN around/ADV in/ADP a/DET random/ADJ pattern/NOUN#0.0#0.0
+a man extends and bends his right arm.#a/DET man/NOUN extend/VERB and/CCONJ bend/VERB his/DET right/ADJ arm/NOUN#0.0#0.0
+a man bends his right arm in different directions.#a/DET man/NOUN bend/VERB his/DET right/ADJ arm/NOUN in/ADP different/ADJ direction/NOUN#0.0#0.0

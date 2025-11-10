@@ -1,0 +1,3 @@
+someone walks and with his right hand seems to touch something#someone/PRON walk/VERB and/CCONJ with/ADP his/DET right/ADJ hand/NOUN seem/VERB to/PART touch/VERB something/PRON#0.0#0.0
+walking forward then to the side.#walk/VERB forward/ADV then/ADV to/ADP the/DET side/NOUN#0.0#0.0
+a person walks forwards and seems to run something along a tall surface.#a/DET person/NOUN walk/VERB forwards/ADV and/CCONJ seem/VERB to/PART run/VERB something/PRON along/ADP a/DET tall/ADJ surface/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+the person walked forward and then turn right.#the/DET person/NOUN walk/VERB forward/ADV and/CCONJ then/ADV turn/VERB right/ADV#0.0#0.0
+a person walks towards the right side.#a/DET person/NOUN walk/VERB towards/ADP the/DET right/ADJ side/NOUN#0.0#0.0
+walking ahead and to the right#walk/VERB ahead/ADV and/CCONJ to/ADP the/DET right/NOUN#0.0#0.0

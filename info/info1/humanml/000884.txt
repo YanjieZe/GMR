@@ -1,0 +1,3 @@
+person is always walking forwards form their perspective but turns their body so their path is clockwise.#person/NOUN is/AUX always/ADV walk/VERB forwards/ADP form/VERB their/DET perspective/NOUN but/CCONJ turn/VERB their/DET body/NOUN so/SCONJ their/DET path/NOUN is/AUX clockwise/ADJ#0.0#0.0
+a person walking forward, turns right then walks back.#a/DET person/NOUN walk/VERB forward/ADV turn/VERB right/ADV then/ADV walk/VERB back/ADV#0.0#0.0
+a person is walking in a counter clockwise direction.#a/DET person/NOUN is/AUX walk/VERB in/ADP a/DET counter/NOUN clockwise/NOUN direction/NOUN#0.0#0.0

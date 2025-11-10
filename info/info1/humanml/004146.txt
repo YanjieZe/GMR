@@ -1,0 +1,3 @@
+a person walks and turns left to walk back.#a/DET person/NOUN walk/VERB and/CCONJ turn/VERB left/VERB to/PART walk/VERB back/ADV#0.0#0.0
+a man walks forward then turns around and walks in the opposite direction.#a/DET man/NOUN walk/VERB forward/ADV then/ADV turn/VERB around/ADP and/CCONJ walk/VERB in/ADP the/DET opposite/ADJ direction/NOUN#0.0#0.0
+a person starts walking forward then turns left and walks back.#a/DET person/NOUN start/VERB walk/VERB forward/ADV then/ADV turn/VERB left/VERB and/CCONJ walk/VERB back/ADV#0.0#0.0

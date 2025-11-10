@@ -1,0 +1,3 @@
+the person if placing some thing from the left to the right.#the/DET person/NOUN if/SCONJ place/VERB some/DET thing/NOUN from/ADP the/DET left/NOUN to/ADP the/DET right/NOUN#0.0#0.0
+a person lifts an object with both hands, moves it to their right, and then sets it back down.#a/DET person/NOUN lift/VERB an/DET object/NOUN with/ADP both/DET hand/NOUN move/VERB it/PRON to/ADP their/DET right/NOUN and/CCONJ then/ADV set/VERB it/PRON back/ADV down/ADV#0.0#0.0
+a person is moving something with both hands.#a/DET person/NOUN is/AUX move/VERB something/PRON with/ADP both/DET hand/NOUN#0.0#0.0

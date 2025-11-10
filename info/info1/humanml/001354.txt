@@ -1,0 +1,3 @@
+a person waves with their left hand.#a/DET person/NOUN wave/VERB with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0
+a person who is pooring water over themselfs#a/DET person/NOUN who/PRON is/AUX poore/VERB water/NOUN over/ADP themselfs/PROPN#0.0#0.0
+a person uses their left hand to scratch their head.#a/DET person/NOUN use/VERB their/DET left/ADJ hand/NOUN to/PART scratch/VERB their/DET head/NOUN#0.0#3.0

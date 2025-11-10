@@ -1,0 +1,3 @@
+a person grabbed something with both hands and return#a/DET person/NOUN grab/VERB something/PRON with/ADP both/DET hand/NOUN and/CCONJ return/VERB#0.0#0.0
+person is cutting up a vegetable.#person/NOUN is/AUX cut/VERB up/ADP a/DET vegetable/NOUN#0.0#0.0
+person steps forward and makes motion like cutting with right hand then steps and puts something off to the right side.#person/NOUN step/VERB forward/ADV and/CCONJ make/VERB motion/NOUN like/SCONJ cut/VERB with/ADP right/ADJ hand/NOUN then/ADV step/VERB and/CCONJ put/VERB something/PRON off/ADP to/ADP the/DET right/ADJ side/NOUN#0.0#0.0

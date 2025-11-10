@@ -1,0 +1,3 @@
+a man walks to the left with his arm raised, lowers it and then raises it again,#a/DET man/NOUN walk/VERB to/ADP the/DET left/NOUN with/ADP his/DET arm/NOUN raise/VERB lower/VERB it/PRON and/CCONJ then/ADV raise/VERB it/PRON again/ADV#0.0#0.0
+the man picke up something walks forward places it on a shelf then moves it.#the/DET man/NOUN picke/VERB up/ADP something/PRON walk/VERB forward/ADV place/VERB it/PRON on/ADP a/DET shelf/NOUN then/ADV move/VERB it/PRON#0.0#0.0
+man turns to the right raises right arm points lowers arm pauses then raises right arm again and points#man/NOUN turn/VERB to/ADP the/DET right/NOUN raise/VERB right/ADJ arm/NOUN point/NOUN lowers/PROPN arm/NOUN pause/NOUN then/ADV raise/VERB right/ADJ arm/NOUN again/ADV and/CCONJ point/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+he holds something up to his face and looks around, then lets it down.#he/PRON hold/VERB something/PRON up/ADP to/ADP his/DET face/NOUN and/CCONJ look/VERB around/ADV then/ADV let/VERB it/PRON down/ADP#0.0#0.0
+a person pulls an item to their face, looks around and then puts it down#a/DET person/NOUN pull/VERB an/DET item/NOUN to/ADP their/DET face/NOUN look/VERB around/ADV and/CCONJ then/ADV put/VERB it/PRON down/ADP#0.0#0.0
+a man raises his right arm.#a/DET man/NOUN raise/VERB his/DET right/ADJ arm/NOUN#0.0#0.0

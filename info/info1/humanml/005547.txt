@@ -1,0 +1,3 @@
+waving hand over head then stopping.#wave/VERB hand/NOUN over/ADP head/NOUN then/ADV stop/VERB#0.0#0.0
+this person raises his left arm above his head as if to rub his hair.#this/DET person/NOUN raise/VERB his/DET left/ADJ arm/NOUN above/ADP his/DET head/NOUN as/SCONJ if/SCONJ to/PART rub/VERB his/DET hair/NOUN#0.0#0.0
+a man places his left hand on his head and removes his hand from his head repeatedly.#a/DET man/NOUN place/VERB his/DET left/ADJ hand/NOUN on/ADP his/DET head/NOUN and/CCONJ remove/VERB his/DET hand/NOUN from/ADP his/DET head/NOUN repeatedly/ADV#0.0#0.0

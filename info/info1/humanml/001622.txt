@@ -1,0 +1,3 @@
+a person walks forward slightly then kicks with their right leg, then walks backwards slightly.#a/DET person/NOUN walk/VERB forward/ADV slightly/ADV then/ADV kick/VERB with/ADP their/DET right/ADJ leg/NOUN then/ADV walk/VERB backwards/ADV slightly/ADV#0.0#0.0
+a figure makes a figure 8 motion with its legs as the "8" appears on the ground underneath him#a/DET figure/NOUN make/VERB a/DET figure/NOUN motion/NOUN with/ADP its/DET leg/NOUN as/SCONJ the/DET appear/VERB on/ADP the/DET ground/NOUN underneath/ADP him/PRON#0.0#0.0
+a person low kicking with their right foot#a/DET person/NOUN low/ADJ kick/VERB with/ADP their/DET right/ADJ foot/NOUN#0.0#0.0

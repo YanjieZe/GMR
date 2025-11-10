@@ -1,0 +1,3 @@
+the person bend down like catching something in both direction and then up and stop.#the/DET person/NOUN bend/VERB down/ADP like/SCONJ catch/VERB something/PRON in/ADP both/DET direction/NOUN and/CCONJ then/ADV up/ADV and/CCONJ stop/VERB#0.0#0.0
+a person tries to grab something cautiously.#a/DET person/NOUN try/VERB to/PART grab/VERB something/PRON cautiously/ADV#0.0#0.0
+a man lunges forward then moves an object with his hands then walks backwards.#a/DET man/NOUN lunge/VERB forward/ADV then/ADV move/VERB an/DET object/NOUN with/ADP his/DET hand/NOUN then/ADV walk/VERB backwards/ADV#0.0#0.0

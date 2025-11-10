@@ -1,0 +1,3 @@
+moving hands side to side.#move/VERB hand/NOUN side/VERB to/PART side/VERB#0.0#0.0
+a person grabbed something and put it somewhere#a/DET person/NOUN grab/VERB something/PRON and/CCONJ put/VERB it/PRON somewhere/ADV#0.0#0.0
+a person bends picks up something turns to the right then turns back bends again and puts it back down.#a/DET person/NOUN bend/VERB pick/VERB up/ADP something/PRON turn/VERB to/ADP the/DET right/NOUN then/ADV turn/VERB back/ADV bend/NOUN again/ADV and/CCONJ put/VERB it/PRON back/ADV down/ADP#0.0#0.0

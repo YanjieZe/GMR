@@ -1,0 +1,3 @@
+a walking man bumps something with his right leg then turns and walks in another direction.#a/DET walk/VERB man/NOUN bump/NOUN something/PRON with/ADP his/DET right/ADJ leg/NOUN then/ADV turn/VERB and/CCONJ walk/VERB in/ADP another/DET direction/NOUN#0.0#0.0
+figure appears to be showing pain in right leg#figure/NOUN appear/VERB to/PART be/AUX show/VERB pain/NOUN in/ADP right/ADJ leg/NOUN#0.0#0.0
+person walks forward and scratches leg#person/NOUN walk/VERB forward/ADV and/CCONJ scratch/VERB leg/PROPN#0.0#0.0

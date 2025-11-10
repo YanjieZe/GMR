@@ -1,0 +1,3 @@
+the person pull the book from the shelf.#the/DET person/NOUN pull/VERB the/DET book/NOUN from/ADP the/DET shelf/NOUN#0.0#0.0
+a person places or removes an object situated at shoulder height.#a/DET person/NOUN place/VERB or/CCONJ remove/VERB an/DET object/NOUN situate/VERB at/ADP shoulder/NOUN height/NOUN#0.0#0.0
+person pick up book from the shelf using his right hand.#person/NOUN pick/VERB up/ADP book/NOUN from/ADP the/DET shelf/NOUN use/VERB his/DET right/ADJ hand/NOUN#0.0#0.0

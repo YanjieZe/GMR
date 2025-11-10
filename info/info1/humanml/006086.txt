@@ -1,0 +1,3 @@
+the person is stretching his arms out wide#the/DET person/NOUN is/AUX stretch/VERB his/DET arm/NOUN out/ADV wide/ADV#0.0#0.0
+a person remains sitting down the entire time.#a/DET person/NOUN remain/VERB sit/VERB down/ADP the/DET entire/ADJ time/NOUN#0.0#0.0
+a person moves to put their hands on their thighs, then stretches their arms back out to the side.#a/DET person/NOUN move/VERB to/PART put/VERB their/DET hand/NOUN on/ADP their/DET thigh/NOUN then/ADV stretch/VERB their/DET arm/NOUN back/ADV out/SCONJ to/ADP the/DET side/NOUN#0.0#0.0

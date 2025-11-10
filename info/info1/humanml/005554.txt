@@ -1,0 +1,3 @@
+a man bends over an all fours and arches his back.#a/DET man/NOUN bend/VERB over/ADP an/DET all/DET four/NOUN and/CCONJ arch/VERB his/DET back/NOUN#0.0#0.0
+figure appears to be doing yoga#figure/NOUN appear/VERB to/PART be/AUX do/VERB yoga/NOUN#0.0#0.0
+a person lowers himself into a yoga position.#a/DET person/NOUN lower/VERB himself/PRON into/ADP a/DET yoga/NOUN position/NOUN#0.0#0.0

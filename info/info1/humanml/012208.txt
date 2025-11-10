@@ -1,0 +1,3 @@
+a man brings his arms up from his sides and crosses them over his chest, then lowers them to his sides.#a/DET man/NOUN bring/VERB his/DET arm/NOUN up/ADP from/ADP his/DET side/NOUN and/CCONJ cross/VERB them/PRON over/ADP his/DET chest/NOUN then/ADV lower/VERB them/PRON to/ADP his/DET side/NOUN#0.0#0.0
+a person crosses their arms then returns to a relaxed position.#a/DET person/NOUN cross/VERB their/DET arm/NOUN then/ADV return/VERB to/ADP a/DET relaxed/ADJ position/NOUN#0.0#0.0
+a person stands up, folds his arms and then unfolds them#a/DET person/NOUN stand/VERB up/ADP fold/VERB his/DET arm/NOUN and/CCONJ then/ADV unfold/VERB them/PRON#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks in a semi circle 5 steps, turns, and then returns to their starting position.#a/DET person/NOUN walk/VERB in/ADP a/DET semi/ADJ circle/NOUN step/NOUN turn/VERB and/CCONJ then/ADV return/VERB to/ADP their/DET start/VERB position/NOUN#0.0#0.0
+a person paces in a curved shape calmly.#a/DET person/NOUN pace/VERB in/ADP a/DET curved/ADJ shape/NOUN calmly/ADV#0.0#0.0
+a person walks in a large counter clockwise motion the stops halfway through and walks back in a clockwise motion.#a/DET person/NOUN walk/VERB in/ADP a/DET large/ADJ counter/NOUN clockwise/NOUN motion/NOUN the/DET stop/NOUN halfway/ADV through/ADV and/CCONJ walk/VERB back/ADV in/ADP a/DET clockwise/ADJ motion/NOUN#0.0#0.0

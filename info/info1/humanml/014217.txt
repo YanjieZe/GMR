@@ -1,0 +1,3 @@
+the man jumps twice i think#the/DET man/NOUN jump/VERB twice/ADV i/PRON think/VERB#0.0#0.0
+a person jumps up and down.#a/DET person/NOUN jump/VERB up/ADV and/CCONJ down/ADV#0.0#0.0
+a person jumps twice on the spot#a/DET person/NOUN jump/VERB twice/ADV on/ADP the/DET spot/NOUN#0.0#0.0

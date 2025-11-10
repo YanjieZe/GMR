@@ -1,0 +1,3 @@
+the man strolls forward with minimal movement of his hands.#the/DET man/NOUN stroll/VERB forward/ADV with/ADP minimal/ADJ movement/NOUN of/ADP his/DET hand/NOUN#0.0#0.0
+a person walks very slowly#a/DET person/NOUN walk/VERB very/ADV slowly/ADV#0.0#0.0
+a person walks slowly, with right leg first#a/DET person/NOUN walk/VERB slowly/ADV with/ADP right/ADJ leg/NOUN first/ADV#0.0#0.0

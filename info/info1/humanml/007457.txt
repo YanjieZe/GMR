@@ -1,0 +1,3 @@
+person is exercising arms in various movements#person/NOUN is/AUX exercise/VERB arm/NOUN in/ADP various/ADJ movement/NOUN#0.0#0.0
+a person moves their right arm in around in front of them as if completing a task.#a/DET person/NOUN move/VERB their/DET right/ADJ arm/NOUN in/ADV around/ADV in/ADP front/NOUN of/ADP them/PRON as/SCONJ if/SCONJ complete/VERB a/DET task/NOUN#0.0#0.0
+the person is arranging something in front of them and then move it to the right.#the/DET person/NOUN is/AUX arrange/VERB something/PRON in/ADP front/NOUN of/ADP them/PRON and/CCONJ then/ADV move/VERB it/PRON to/ADP the/DET right/NOUN#0.0#0.0

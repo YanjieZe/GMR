@@ -1,0 +1,3 @@
+the person was doing a warm up with his elbows.#the/DET person/NOUN was/AUX do/VERB a/DET warm/ADJ up/ADP with/ADP his/DET elbow/NOUN#0.0#0.0
+a person stretches their right arm upwards, then their left arm.#a/DET person/NOUN stretch/VERB their/DET right/ADJ arm/NOUN upwards/ADV then/ADV their/DET left/ADJ arm/NOUN#0.0#0.0
+a person waves above their head with both hands one at a time.#a/DET person/NOUN wave/VERB above/ADP their/DET head/NOUN with/ADP both/DET hand/NOUN one/NUM at/ADP a/DET time/NOUN#0.0#0.0

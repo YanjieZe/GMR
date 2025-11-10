@@ -1,0 +1,3 @@
+a person squats down and shakes their arms up toward the sky#a/DET person/NOUN squat/VERB down/ADP and/CCONJ shake/VERB their/DET arm/NOUN up/ADP toward/ADP the/DET sky/NOUN#0.0#0.0
+a squatting person is manipulating something in front of them with their arms.#a/DET squat/VERB person/NOUN is/AUX manipulate/VERB something/PRON in/ADP front/NOUN of/ADP them/PRON with/ADP their/DET arm/NOUN#0.0#0.0
+a person eats with their fingers.#a/DET person/NOUN eat/VERB with/ADP their/DET finger/NOUN#0.0#0.0

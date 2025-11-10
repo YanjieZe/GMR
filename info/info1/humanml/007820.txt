@@ -1,0 +1,3 @@
+a person jumps and spins 180 degrees.#a/DET person/NOUN jump/VERB and/CCONJ spin/VERB degree/NOUN#0.0#0.0
+person uses right side of their body to give them momentum to turn 180 degrees anticlockwise. appears to be energetic#person/NOUN use/VERB right/ADJ side/NOUN of/ADP their/DET body/NOUN to/PART give/VERB them/PRON momentum/NOUN to/PART turn/VERB degree/NOUN anticlockwise/NOUN appear/VERB to/PART be/AUX energetic/ADJ#0.0#0.0
+jumps up in a tight twirl.#jump/VERB up/ADP in/ADP a/DET tight/ADJ twirl/NOUN#0.0#0.0

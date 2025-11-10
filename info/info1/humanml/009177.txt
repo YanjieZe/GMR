@@ -1,0 +1,3 @@
+walking back and forth and swinging arms.#walk/VERB back/ADV and/CCONJ forth/ADV and/CCONJ swinge/VERB arm/NOUN#0.0#0.0
+a person appears to be laughing hysterically and slaps arms around.#a/DET person/NOUN appear/VERB to/PART be/AUX laugh/VERB hysterically/ADV and/CCONJ slap/VERB arm/NOUN around/ADV#0.0#0.0
+the person was laughing at a joke.#the/DET person/NOUN was/AUX laugh/VERB at/ADP a/DET joke/NOUN#0.0#0.0

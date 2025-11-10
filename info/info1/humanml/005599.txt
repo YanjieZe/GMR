@@ -1,0 +1,3 @@
+a person tosses and catches a football.#a/DET person/NOUN toss/VERB and/CCONJ catch/VERB a/DET football/NOUN#0.0#0.0
+the person is throwing something with his right hand#the/DET person/NOUN is/AUX throw/VERB something/PRON with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+user does a football throwing motion#user/NOUN does/AUX a/DET football/NOUN throwing/NOUN motion/NOUN#0.0#0.0

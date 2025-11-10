@@ -1,0 +1,3 @@
+a person leans forward on their left foot and then back.#a/DET person/NOUN lean/VERB forward/ADV on/ADP their/DET left/ADJ foot/NOUN and/CCONJ then/ADV back/ADV#0.0#0.0
+a person stretches leg and warms up.#a/DET person/NOUN stretch/VERB leg/NOUN and/CCONJ warm/VERB up/ADP#0.0#0.0
+this person sways side to side with arms bent out to the side.#this/DET person/NOUN sway/VERB side/NOUN to/PART side/VERB with/ADP arm/NOUN bend/VERB out/ADP to/ADP the/DET side/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+the person is walking with support.#the/DET person/NOUN is/AUX walk/VERB with/ADP support/NOUN#0.0#0.0
+a person walks forward and leans on a counter with their right hand.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ lean/VERB on/ADP a/DET counter/NOUN with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+person walks slowly swinging right arm before leaning into it#person/NOUN walk/VERB slowly/ADV swinge/VERB right/ADJ arm/NOUN before/ADP lean/VERB into/ADP it/PRON#0.0#0.0

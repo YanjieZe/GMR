@@ -1,0 +1,3 @@
+person walks forward and then jumps up into the air two times while punching their right arm into the air#person/NOUN walk/VERB forward/ADV and/CCONJ then/ADV jump/VERB up/ADP into/ADP the/DET air/NOUN two/NUM time/NOUN while/SCONJ punch/VERB their/DET right/ADJ arm/NOUN into/ADP the/DET air/NOUN#0.0#0.0
+the man jumps twice reaching for something with his right hand.#the/DET man/NOUN jump/VERB twice/ADV reach/VERB for/ADP something/PRON with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+this person jumps as if to touch something high.#this/DET person/NOUN jump/VERB as/SCONJ if/SCONJ to/PART touch/VERB something/PRON high/ADJ#0.0#0.0

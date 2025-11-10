@@ -1,0 +1,3 @@
+a man brings both hands up to come together over his head, then pushes them forward in an upward motion as though tossing something.#a/DET man/NOUN bring/VERB both/DET hand/NOUN up/ADP to/PART come/VERB together/ADV over/ADP his/DET head/NOUN then/ADV push/VERB them/PRON forward/ADV in/ADP an/DET upward/ADJ motion/NOUN as/SCONJ though/SCONJ toss/VERB something/PRON#0.0#0.0
+man raises arms above head and makes motion like shooting a basketball/#man/NOUN raise/VERB arm/NOUN above/ADP head/NOUN and/CCONJ make/VERB motion/NOUN like/SCONJ shoot/VERB a/DET#0.0#0.0
+raising hands above head.#raise/VERB hand/NOUN above/ADP head/NOUN#0.0#0.0

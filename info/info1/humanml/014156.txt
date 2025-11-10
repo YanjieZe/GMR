@@ -1,0 +1,3 @@
+the man walks forward swinging his arms turns and walks back.#the/DET man/NOUN walk/VERB forward/ADV swinge/VERB his/DET arm/NOUN turn/VERB and/CCONJ walk/VERB back/ADV#0.0#0.0
+a person walks while widely swing their arms, then turns and walks back.#a/DET person/NOUN walk/VERB while/SCONJ widely/ADV swing/VERB their/DET arm/NOUN then/ADV turn/VERB and/CCONJ walk/VERB back/ADV#0.0#0.0
+a person is walking straight while swinging their shoulders back and forth.#a/DET person/NOUN is/AUX walk/VERB straight/ADV while/SCONJ swinge/VERB their/DET shoulder/NOUN back/ADV and/CCONJ forth/ADV#0.0#0.0

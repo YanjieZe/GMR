@@ -1,0 +1,3 @@
+a person jumps and puts his hands in the air.#a/DET person/NOUN jump/VERB and/CCONJ put/VERB his/DET hand/NOUN in/ADP the/DET air/NOUN#0.0#0.0
+the toon is standing, then crouches down, moves into doing jumping jacks before standing still.#the/DET toon/NOUN is/AUX stand/VERB then/ADV crouch/VERB down/ADP move/NOUN into/ADP do/VERB jump/VERB jack/NOUN before/ADP stand/VERB still/ADV#0.0#8.0
+a peron jumping with hands up#a/DET peron/NOUN jump/VERB with/ADP hand/NOUN up/ADV#0.0#0.0

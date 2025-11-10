@@ -1,0 +1,3 @@
+a person wobbles while walking very narrowly.#a/DET person/NOUN wobble/VERB while/SCONJ walk/VERB very/ADV narrowly/ADV#0.0#0.0
+a person walks forward with their arms extended for balance.#a/DET person/NOUN walk/VERB forward/ADV with/ADP their/DET arm/NOUN extend/VERB for/ADP balance/NOUN#0.0#0.0
+a person walks forward while trying to balance on a straight line.#a/DET person/NOUN walk/VERB forward/ADV while/SCONJ try/VERB to/PART balance/VERB on/ADP a/DET straight/ADJ line/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person dances forward then twist and dances back to beginning space.#a/DET person/NOUN dance/VERB forward/ADV then/ADV twist/NOUN and/CCONJ dance/VERB back/ADV to/ADP begin/VERB space/NOUN#0.0#0.0
+a person dances forward, turns around, and then moves back to their start position.#a/DET person/NOUN dance/VERB forward/ADV turn/VERB around/ADV and/CCONJ then/ADV move/VERB back/ADV to/ADP their/DET start/NOUN position/NOUN#0.0#0.0
+the sim is dancing across the plane, from one end to the other shaking all of their limbs.#the/DET sim/PROPN is/AUX dance/VERB across/ADP the/DET plane/NOUN from/ADP one/NUM end/NOUN to/ADP the/DET other/ADJ shake/VERB all/DET of/ADP their/DET limb/NOUN#0.0#0.0

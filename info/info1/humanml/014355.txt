@@ -1,0 +1,3 @@
+the person starts lifting their arm up#the/DET person/NOUN start/VERB lift/VERB their/DET arm/NOUN up/ADP#0.0#0.0
+a person is waving both arms.#a/DET person/NOUN is/AUX wave/VERB both/DET arm/NOUN#0.0#0.0
+person stretches arms out and lifts them above shoulders repeatedly before letting them fall back down.#person/NOUN stretch/VERB arm/NOUN out/ADV and/CCONJ lift/VERB them/PRON above/ADP shoulder/NOUN repeatedly/ADV before/ADP let/VERB them/PRON fall/VERB back/ADV down/ADV#0.0#0.0

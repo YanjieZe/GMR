@@ -1,0 +1,3 @@
+a person is walking along a rocky path that is uneven.#a/DET person/NOUN is/AUX walk/VERB along/ADP a/DET rocky/ADJ path/NOUN that/DET is/AUX uneven/ADJ#0.0#0.0
+a person steps up two stairs onto the platform and skips to his left, steps forward, then skips to his right.#a/DET person/NOUN step/VERB up/ADV two/NUM stair/NOUN onto/ADP the/DET platform/NOUN and/CCONJ skip/VERB to/ADP his/DET left/NOUN step/VERB forward/ADV then/ADV skip/VERB to/ADP his/DET right/NOUN#0.0#0.0
+person walks up some steps then leeps to the other side and goes up a few more steps and jumps down#person/NOUN walk/VERB up/ADP some/DET step/NOUN then/ADV leep/VERB to/ADP the/DET other/ADJ side/NOUN and/CCONJ go/VERB up/ADP a/DET few/ADJ more/ADJ step/NOUN and/CCONJ jump/VERB down/ADP#0.0#0.0

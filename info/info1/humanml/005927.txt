@@ -1,0 +1,3 @@
+a person while standing in the same position swings his arms back and forth.#a/DET person/NOUN while/SCONJ stand/VERB in/ADP the/DET same/ADJ position/NOUN swing/VERB his/DET arm/NOUN back/ADV and/CCONJ forth/ADV#0.0#0.0
+a person swings both of their arms, bringing their hands together at the front and spreading them apart towards the back of the swing.#a/DET person/NOUN swing/VERB both/DET of/ADP their/DET arm/NOUN bring/VERB their/DET hand/NOUN together/ADV at/ADP the/DET front/NOUN and/CCONJ spread/VERB them/PRON apart/ADV towards/ADP the/DET back/NOUN of/ADP the/DET swing/NOUN#0.0#0.0
+a person moves arms in and out in front of his body.#a/DET person/NOUN move/VERB arm/NOUN in/ADP and/CCONJ out/ADV in/ADP front/NOUN of/ADP his/DET body/NOUN#0.0#0.0

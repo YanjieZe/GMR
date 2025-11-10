@@ -1,0 +1,3 @@
+he acts like a big dinosaur#he/PRON act/VERB like/SCONJ a/DET big/ADJ dinosaur/NOUN#0.0#0.0
+person appears to swing arms forward in a swimming motion.#person/NOUN appear/VERB to/PART swing/VERB arm/NOUN forward/ADV in/ADP a/DET swimming/NOUN motion/NOUN#0.0#0.0
+moving arms up and down slowly.#move/VERB arm/NOUN up/ADV and/CCONJ down/ADV slowly/ADV#0.0#0.0

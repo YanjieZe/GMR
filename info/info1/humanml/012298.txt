@@ -1,0 +1,3 @@
+this person shrugs shoulders then walks around to the right and sits.#this/DET person/NOUN shrug/VERB shoulder/NOUN then/ADV walk/VERB around/ADV to/ADP the/DET right/NOUN and/CCONJ sit/VERB#0.0#0.0
+a person paces across a room and has a seat.#a/DET person/NOUN pace/VERB across/ADP a/DET room/NOUN and/CCONJ has/AUX a/DET seat/NOUN#0.0#0.0
+a person walks and then sits down#a/DET person/NOUN walk/VERB and/CCONJ then/ADV sit/VERB down/ADP#0.0#0.0

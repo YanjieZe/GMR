@@ -1,0 +1,3 @@
+person drinks from a can#person/NOUN drink/VERB from/ADP a/DET can/NOUN#0.0#6.0
+a man pivots from side to side while holding his right hand towards his face.#a/DET man/NOUN pivot/VERB from/ADP side/NOUN to/PART side/NOUN while/SCONJ hold/VERB his/DET right/ADJ hand/NOUN towards/ADP his/DET face/NOUN#0.0#0.0
+a person slowly swings their body while their hand is on their head.#a/DET person/NOUN slowly/ADV swing/VERB their/DET body/NOUN while/SCONJ their/DET hand/NOUN is/AUX on/ADP their/DET head/NOUN#0.0#0.0

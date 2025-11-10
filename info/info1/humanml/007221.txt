@@ -1,0 +1,3 @@
+the person is putting his right arm on his head.#the/DET person/NOUN is/AUX put/VERB his/DET right/ADJ arm/NOUN on/ADP his/DET head/NOUN#0.0#0.0
+a person puts a hand to their head#a/DET person/NOUN put/VERB a/DET hand/NOUN to/ADP their/DET head/NOUN#0.0#0.0
+the person raises its red left arm and the video ends.#the/DET person/NOUN raise/VERB its/DET red/ADJ left/ADJ arm/NOUN and/CCONJ the/DET video/NOUN end/VERB#0.0#0.0

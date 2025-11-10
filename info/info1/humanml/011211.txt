@@ -1,0 +1,3 @@
+the man is using his arms and legs to propel him self forward in a running fashion.#the/DET man/NOUN is/AUX use/VERB his/DET arm/NOUN and/CCONJ leg/NOUN to/PART propel/VERB him/PRON self/NOUN forward/ADV in/ADP a/DET running/ADJ fashion/NOUN#0.0#0.0
+figure runs forward quickly in a diagonal direction.#figure/NOUN run/VERB forward/ADV quickly/ADV in/ADP a/DET diagonal/ADJ direction/NOUN#0.0#0.0
+a person runs from the top right to the bottom left of the screen.#a/DET person/NOUN run/VERB from/ADP the/DET top/ADJ right/NOUN to/ADP the/DET bottom/NOUN left/VERB of/ADP the/DET screen/NOUN#0.0#0.0

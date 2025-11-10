@@ -1,0 +1,3 @@
+the person got down on one bended knee.#the/DET person/NOUN get/VERB down/ADP on/ADP one/NUM bend/VERB knee/NOUN#0.0#0.0
+the man bends down on his left knee and then stands up he then bends down on his right knee then stance up#the/DET man/NOUN bend/VERB down/ADP on/ADP his/DET left/ADJ knee/NOUN and/CCONJ then/ADV stand/VERB up/ADP he/PRON then/ADV bend/VERB down/ADP on/ADP his/DET right/ADJ knee/NOUN then/ADV stance/VERB up/ADP#0.0#0.0
+man bend down on left knee, stand back up, then bend down with right knee to balance himself out.#man/NOUN bend/VERB down/ADP on/ADP left/ADJ knee/NOUN stand/VERB back/ADP up/ADP then/ADV bend/VERB down/ADP with/ADP right/ADJ knee/NOUN to/PART balance/VERB himself/PRON out/ADP#0.0#0.0

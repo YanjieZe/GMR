@@ -1,0 +1,3 @@
+person sprints forward three steps stops then sprints forward again#person/NOUN sprint/VERB forward/ADV three/NUM step/NOUN stop/NOUN then/ADV sprint/VERB forward/ADV again/ADV#0.0#0.0
+a person who came to a halt from running; started running again#a/DET person/NOUN who/PRON come/VERB to/ADP a/DET halt/NOUN from/ADP running/NOUN start/VERB run/VERB again/ADV#0.0#0.0
+person runs forward, pauses, then continues running.#person/NOUN run/VERB forward/ADV pause/NOUN then/ADV continue/VERB run/VERB#0.0#0.0

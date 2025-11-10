@@ -1,0 +1,3 @@
+a person slowly walks in a clockwise circle.#a/DET person/NOUN slowly/ADV walk/VERB in/ADP a/DET clockwise/ADJ circle/NOUN#0.0#0.0
+a person walks slowly, injured.#a/DET person/NOUN walk/VERB slowly/ADV injure/VERB#0.0#0.0
+a person is slowly walking in a clockwise circle#a/DET person/NOUN is/AUX slowly/ADV walk/VERB in/ADP a/DET clockwise/NOUN circle/NOUN#0.0#0.0

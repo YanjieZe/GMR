@@ -1,0 +1,3 @@
+man walks forward while upper body is leaning slightly to the left and steps are unbalanced and slow.#man/NOUN walk/VERB forward/ADV while/SCONJ upper/ADJ body/NOUN is/AUX lean/VERB slightly/ADV to/ADP the/DET left/NOUN and/CCONJ step/NOUN are/AUX unbalanced/ADJ and/CCONJ slow/ADJ#0.0#0.0
+person staggers side to side from a standing position#person/NOUN stagger/NOUN side/NOUN to/PART side/VERB from/ADP a/DET stand/VERB position/NOUN#0.0#0.0
+a person hobbles around trying to walk.#a/DET person/NOUN hobble/VERB around/ADV try/VERB to/PART walk/VERB#0.0#0.0

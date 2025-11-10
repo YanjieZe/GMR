@@ -1,0 +1,3 @@
+person is walking aroudn then running around.#person/NOUN is/AUX walk/VERB aroudn/NOUN then/ADV run/VERB around/ADV#0.0#0.0
+a person starts walking in anti clockwise direction and starts running and stops.#a/DET person/NOUN start/VERB walk/VERB in/ADP anti/ADJ clockwise/NOUN direction/NOUN and/CCONJ start/VERB running/NOUN and/CCONJ stop/NOUN#0.0#0.0
+person walking then running in a circle pattern.#person/NOUN walk/VERB then/ADV run/VERB in/ADP a/DET circle/NOUN pattern/NOUN#0.0#0.0

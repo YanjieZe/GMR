@@ -1,0 +1,3 @@
+this person paces the floor and then returns to their normal position.#this/DET person/NOUN pace/VERB the/DET floor/NOUN and/CCONJ then/ADV return/VERB to/ADP their/DET normal/ADJ position/NOUN#0.0#0.0
+a man walks to the left, then to the right and then sidesteps back to the left.#a/DET man/NOUN walk/VERB to/ADP the/DET left/NOUN then/ADV to/ADP the/DET right/NOUN and/CCONJ then/ADV sidestep/VERB back/ADV to/ADP the/DET left/NOUN#0.0#0.0
+person walks right then left then stops in middle#person/NOUN walk/VERB right/ADV then/ADV left/VERB then/ADV stop/VERB in/ADP middle/PROPN#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks diagonally left to right five paces in a karate fighting like motion then they take one step backwards.#a/DET person/NOUN walk/VERB diagonally/ADV left/VERB to/ADP right/ADJ five/NUM pace/NOUN in/ADP a/DET karate/NOUN fighting/NOUN like/SCONJ motion/NOUN then/ADV they/PRON take/VERB one/NUM step/NOUN backwards/ADV#0.0#10.0
+a man walks forward and then back in a boxing stance.#a/DET man/NOUN walk/VERB forward/ADV and/CCONJ then/ADV back/ADV in/ADP a/DET boxing/NOUN stance/NOUN#0.0#0.0
+a person is in a fighting stance and moves across the room.#a/DET person/NOUN is/AUX in/ADP a/DET fight/VERB stance/NOUN and/CCONJ move/NOUN across/ADP the/DET room/NOUN#0.0#0.0

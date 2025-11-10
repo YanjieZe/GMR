@@ -1,0 +1,3 @@
+the person was getting into a golf stance#the/DET person/NOUN was/AUX get/VERB into/ADP a/DET golf/NOUN stance/NOUN#0.0#0.0
+person bends down then proceeds to pretend throw something underhand#person/NOUN bend/VERB down/ADV then/ADV proceed/VERB to/ADP pretend/NOUN throw/VERB something/PRON underhand/ADJ#0.0#0.0
+a person lowers their arms and bends their knees while arching the back.#a/DET person/NOUN lower/VERB their/DET arm/NOUN and/CCONJ bend/VERB their/DET knee/NOUN while/SCONJ arch/VERB the/DET back/NOUN#0.0#3.0

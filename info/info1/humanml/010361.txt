@@ -1,0 +1,3 @@
+a person holding something seems to ring a doorbell, then hands someone something, then finally receives something and waves back to the giver.#a/DET person/NOUN hold/VERB something/PRON seem/VERB to/PART ring/VERB a/DET doorbell/NOUN then/ADV hand/VERB someone/PRON something/PRON then/ADV finally/ADV receive/VERB something/PRON and/CCONJ wave/NOUN back/ADV to/ADP the/DET giver/NOUN#0.0#0.0
+person gives someone a package#person/NOUN give/VERB someone/PRON a/DET package/NOUN#0.0#0.0
+the person is delivering pizza to someone.#the/DET person/NOUN is/AUX deliver/VERB pizza/NOUN to/ADP someone/PRON#0.0#0.0

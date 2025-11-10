@@ -1,0 +1,3 @@
+a person sit down on the floor#a/DET person/NOUN sit/VERB down/ADP on/ADP the/DET floor/NOUN#0.0#0.0
+a person moves from a standing to a squatting position and rests their right forearm on their thigh.#a/DET person/NOUN move/VERB from/ADP a/DET standing/NOUN to/ADP a/DET squat/VERB position/NOUN and/CCONJ rest/VERB their/DET right/ADJ forearm/NOUN on/ADP their/DET thigh/NOUN#0.0#0.0
+a person who is standing with his arms out from his sides bends his knees and sits down.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP his/DET arm/NOUN out/ADV from/ADP his/DET side/NOUN bend/VERB his/DET knee/NOUN and/CCONJ sit/VERB down/ADP#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks in a circular path and waves once with their right hand, takes a few steps and then waves with their left hand and continues walking.#a/DET person/NOUN walk/VERB in/ADP a/DET circular/ADJ path/NOUN and/CCONJ wave/NOUN once/ADV with/ADP their/DET right/ADJ hand/NOUN take/VERB a/DET few/ADJ step/NOUN and/CCONJ then/ADV wave/VERB with/ADP their/DET left/ADJ hand/NOUN and/CCONJ continue/VERB walk/VERB#0.0#0.0
+a person walks in a circular fashion while waving to people.#a/DET person/NOUN walk/VERB in/ADP a/DET circular/ADJ fashion/NOUN while/SCONJ wave/VERB to/ADP people/NOUN#0.0#0.0
+the person is looking around and waved to someone.#the/DET person/NOUN is/AUX look/VERB around/ADV and/CCONJ wave/VERB to/ADP someone/PRON#0.0#0.0

@@ -1,0 +1,3 @@
+the person slide left his right foot.#the/DET person/NOUN slide/NOUN left/VERB his/DET right/ADJ foot/NOUN#0.0#0.0
+a person steps to the left with right leg up and then steps back into position#a/DET person/NOUN step/VERB to/ADP the/DET left/NOUN with/ADP right/ADJ leg/NOUN up/ADP and/CCONJ then/ADV step/VERB back/ADV into/ADP position/NOUN#0.0#0.0
+a person leans forward and kicks lightly with their right foot.#a/DET person/NOUN lean/VERB forward/ADV and/CCONJ kick/VERB lightly/ADV with/ADP their/DET right/ADJ foot/NOUN#0.0#0.0

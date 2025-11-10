@@ -1,0 +1,3 @@
+person appears to flex his muscles as if they are a body builder.#person/NOUN appear/VERB to/PART flex/VERB his/DET muscle/NOUN as/SCONJ if/SCONJ they/PRON are/AUX a/DET body/NOUN builder/NOUN#0.0#0.0
+the person is flexing his muscles in a mirror.#the/DET person/NOUN is/AUX flex/VERB his/DET muscle/NOUN in/ADP a/DET mirror/NOUN#0.0#0.0
+a person is flexing multiple muscles.#a/DET person/NOUN is/AUX flex/VERB multiple/ADJ muscle/NOUN#0.0#0.0

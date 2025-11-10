@@ -1,0 +1,3 @@
+a figure slowly walks backward.#a/DET figure/NOUN slowly/ADV walk/VERB backward/ADJ#0.0#0.0
+a man walks backward slowly, starting with his right foot.#a/DET man/NOUN walk/VERB backward/ADV slowly/ADV start/VERB with/ADP his/DET right/ADJ foot/NOUN#0.0#0.0
+a person walks backwards up a ramp.#a/DET person/NOUN walk/VERB backwards/ADV up/ADP a/DET ramp/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person turns to the right whilst walking and then stops#a/DET person/NOUN turn/VERB to/ADP the/DET right/NOUN whilst/SCONJ walk/VERB and/CCONJ then/ADV stop/VERB#0.0#0.0
+stick figure stands still momentarily before walking a clockwise curve motion#stick/PROPN figure/NOUN stand/VERB still/ADV momentarily/ADV before/ADP walk/VERB a/DET clockwise/ADJ curve/NOUN motion/NOUN#1.0#5.0
+person walking and turn abruptly to the right and stops.#person/NOUN walk/VERB and/CCONJ turn/VERB abruptly/ADV to/ADP the/DET right/NOUN and/CCONJ stop/NOUN#0.0#0.0

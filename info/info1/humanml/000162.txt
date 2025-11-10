@@ -1,0 +1,3 @@
+a person is pretending to be a chicken#a/DET person/NOUN is/AUX pretend/VERB to/PART be/AUX a/DET chicken/NOUN#0.0#0.0
+the standing person brings their hands up to their armpits and flaps their elbows up and down repeatedly.#the/DET stand/VERB person/NOUN bring/VERB their/DET hand/NOUN up/ADP to/ADP their/DET armpit/NOUN and/CCONJ flap/VERB their/DET elbow/NOUN up/ADP and/CCONJ down/ADV repeatedly/ADV#0.0#0.0
+we have someone acting like a duck#we/PRON have/AUX someone/PRON act/VERB like/SCONJ a/DET duck/NOUN#0.0#0.0

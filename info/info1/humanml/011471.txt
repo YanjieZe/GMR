@@ -1,0 +1,3 @@
+a person sits on the ledge of something then gets off and walks away.#a/DET person/NOUN sit/VERB on/ADP the/DET ledge/NOUN of/ADP something/PRON then/ADV get/VERB off/ADV and/CCONJ walk/VERB away/ADV#0.0#0.0
+a person sitting on an elevated surface; then waving his or her left hand to someone and the proceeds to walk away#a/DET person/NOUN sit/VERB on/ADP an/DET elevated/ADJ surface/NOUN then/ADV wave/VERB his/DET or/CCONJ her/DET left/ADJ hand/NOUN to/ADP someone/PRON and/CCONJ the/DET proceed/NOUN to/PART walk/VERB away/ADV#0.0#0.0
+the person walked around inside of one oa barstool.#the/DET person/NOUN walk/VERB around/ADV inside/ADV of/ADP one/NUM oa/PROPN barstool/NOUN#0.0#0.0

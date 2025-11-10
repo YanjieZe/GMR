@@ -1,0 +1,3 @@
+a person throws an object with his right arm#a/DET person/NOUN throw/VERB an/DET object/NOUN with/ADP his/DET right/ADJ arm/NOUN#0.0#0.0
+a person throws something with their right hand.#a/DET person/NOUN throw/VERB something/PRON with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+a quarterback will throw a football to another team member in hopes to score a touchdown.#a/DET quarterback/NOUN will/VERB throw/VERB a/DET football/NOUN to/ADP another/DET team/NOUN member/NOUN in/ADP hope/NOUN to/PART score/VERB a/DET touchdown/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person plays the guitar, strumming with their left hand.#a/DET person/NOUN play/VERB the/DET guitar/NOUN strum/VERB with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0
+a person raises his right hand to shoulder height and raises his left hand and impersonates strumming a guitar#a/DET person/NOUN raise/VERB his/DET right/ADJ hand/NOUN to/ADP shoulder/NOUN height/NOUN and/CCONJ raise/VERB his/DET left/ADJ hand/NOUN and/CCONJ impersonate/VERB strum/VERB a/DET guitar/NOUN#0.0#0.0
+person is playing the guitar#person/NOUN is/AUX play/VERB the/DET guitar/NOUN#0.0#0.0

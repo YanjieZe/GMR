@@ -1,0 +1,3 @@
+a man is sitting and puts his hands on his knees.#a/DET man/NOUN is/AUX sit/VERB and/CCONJ put/VERB his/DET hand/NOUN on/ADP his/DET knee/NOUN#0.0#0.0
+a person sitting down has both arms rest on legs leans back and looks around#a/DET person/NOUN sit/VERB down/ADP has/AUX both/DET arm/NOUN rest/NOUN on/ADP leg/NOUN lean/VERB back/ADV and/CCONJ look/VERB around/ADV#0.0#0.0
+the man squats and balances.#the/DET man/NOUN squat/VERB and/CCONJ balance/NOUN#0.0#0.0

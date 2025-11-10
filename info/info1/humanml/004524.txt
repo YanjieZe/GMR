@@ -1,0 +1,3 @@
+a person takes a step to their left and then steps back.#a/DET person/NOUN take/VERB a/DET step/NOUN to/ADP their/DET left/NOUN and/CCONJ then/ADV step/VERB back/ADV#0.0#0.0
+a man steps to the left and then to the right.#a/DET man/NOUN step/VERB to/ADP the/DET left/NOUN and/CCONJ then/ADV to/ADP the/DET right/NOUN#0.0#0.0
+a person sidesteps back and forth#a/DET person/NOUN sidestep/VERB back/ADV and/CCONJ forth/ADV#0.0#0.0

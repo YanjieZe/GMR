@@ -1,0 +1,3 @@
+person is crawling around.#person/NOUN is/AUX crawl/VERB around/ADV#0.0#0.0
+a person turns to their left and crouches down to hands and knees. they crawl 4 steps to the left and then turn around to the opposite direction and crawl 3 steps.#a/DET person/NOUN turn/VERB to/ADP their/DET left/NOUN and/CCONJ crouch/NOUN down/ADP to/ADP hand/NOUN and/CCONJ knee/NOUN they/PRON crawl/VERB step/NOUN to/ADP the/DET left/NOUN and/CCONJ then/ADV turn/VERB around/ADP to/ADP the/DET opposite/ADJ direction/NOUN and/CCONJ crawl/NOUN step/NOUN#0.0#0.0
+a person walks on all fours to the right and then to the left.#a/DET person/NOUN walk/VERB on/ADP all/DET four/NOUN to/ADP the/DET right/NOUN and/CCONJ then/ADV to/ADP the/DET left/NOUN#0.0#0.0

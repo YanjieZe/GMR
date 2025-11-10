@@ -1,0 +1,3 @@
+a man dodges right and then left#a/DET man/NOUN dodge/VERB right/ADV and/CCONJ then/ADV left/VERB#0.0#0.0
+a person walks forward and pauses to dodge to the right and then the left as if avoiding something#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ pause/VERB to/PART dodge/VERB to/ADP the/DET right/NOUN and/CCONJ then/ADV the/DET left/NOUN as/SCONJ if/SCONJ avoid/VERB something/PRON#0.0#0.0
+a person lifting both arms together in front of them and then lift them back down,#a/DET person/NOUN lift/VERB both/DET arm/NOUN together/ADV in/ADP front/NOUN of/ADP them/PRON and/CCONJ then/ADV lift/VERB them/PRON back/ADV down/ADP#nan#0.0

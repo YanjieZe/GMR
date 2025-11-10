@@ -1,0 +1,3 @@
+a person has his right hand in the air.#a/DET person/NOUN has/AUX his/DET right/ADJ hand/NOUN in/ADP the/DET air/NOUN#0.0#0.0
+a person waved hands and then shaking while talking to the audience#a/DET person/NOUN wave/VERB hand/NOUN and/CCONJ then/ADV shake/VERB while/SCONJ talk/VERB to/ADP the/DET audience/NOUN#0.0#0.0
+person waves at someone, and then fidgets side-to-side.#person/NOUN wave/VERB at/ADP someone/PRON and/CCONJ then/ADV fidget/VERB sidetoside/VERB#0.0#0.0

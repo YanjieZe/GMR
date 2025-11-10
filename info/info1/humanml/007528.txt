@@ -1,0 +1,3 @@
+a man leans to his left then leans back to the original position.#a/DET man/NOUN lean/VERB to/ADP his/DET left/NOUN then/ADV lean/VERB back/ADV to/ADP the/DET original/ADJ position/NOUN#0.0#0.0
+this person is throwing something with his right arm.#this/DET person/NOUN is/AUX throw/VERB something/PRON with/ADP his/DET right/ADJ arm/NOUN#0.0#0.0
+a person swings forward with his right arm and stands on his left foot#a/DET person/NOUN swing/VERB forward/ADV with/ADP his/DET right/ADJ arm/NOUN and/CCONJ stand/VERB on/ADP his/DET left/ADJ foot/NOUN#0.0#0.0

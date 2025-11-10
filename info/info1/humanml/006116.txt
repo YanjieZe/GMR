@@ -1,0 +1,3 @@
+a person who is standing with his arms held head high lifts his arms above his head, twice.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP his/DET arm/NOUN hold/VERB head/VERB high/ADJ lift/VERB his/DET arm/NOUN above/ADP his/DET head/NOUN twice/ADV#0.0#0.0
+the man lifts a dumbell over his head#the/DET man/NOUN lift/VERB a/DET dumbell/NOUN over/ADP his/DET head/NOUN#0.0#0.0
+a person is performing a lifting motion over their head#a/DET person/NOUN is/AUX perform/VERB a/DET lifting/NOUN motion/NOUN over/ADP their/DET head/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person standing forward doing leg kicks.#a/DET person/NOUN stand/VERB forward/ADV do/VERB leg/NOUN kick/NOUN#0.0#0.0
+a person lifts their right leg and then left leg#a/DET person/NOUN lift/VERB their/DET right/ADJ leg/NOUN and/CCONJ then/ADV left/VERB leg/NOUN#0.0#0.0
+a person doing a forward kick with each leg.#a/DET person/NOUN do/VERB a/DET forward/ADJ kick/NOUN with/ADP each/DET leg/NOUN#0.0#0.0

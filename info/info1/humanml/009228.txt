@@ -1,0 +1,3 @@
+while walking forward, a person takes an extra long step with his right leg.#while/SCONJ walk/VERB forward/ADV a/DET person/NOUN take/VERB an/DET extra/ADJ long/ADJ step/NOUN with/ADP his/DET right/ADJ leg/NOUN#0.0#0.0
+someone walks two short steps forward, before doing one large step over something, and then continues with two more steps forward.#someone/PRON walk/VERB two/NUM short/ADJ step/NOUN forward/ADV before/ADP do/VERB one/NUM large/ADJ step/NOUN over/ADP something/PRON and/CCONJ then/ADV continue/VERB with/ADP two/NUM more/ADJ step/NOUN forward/ADV#0.0#0.0
+the man is doing a step over gap#the/DET man/NOUN is/AUX do/VERB a/DET step/NOUN over/ADP gap/NOUN#0.0#0.0

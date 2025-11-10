@@ -1,0 +1,3 @@
+person is doing some breakdancing.#person/NOUN is/AUX do/VERB some/DET breakdancing/NOUN#0.0#0.0
+a person shimmies back then starts breakdancing.#a/DET person/NOUN shimmy/VERB back/ADV then/ADV start/VERB breakdance/VERB#0.0#0.0
+a person dancing in a "break dancing" fashion.#a/DET person/NOUN dance/VERB in/ADP a/DET break/NOUN dancing/NOUN fashion/NOUN#0.0#0.0

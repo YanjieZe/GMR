@@ -1,0 +1,3 @@
+a person walks right, turns left and dunks and waves arms.#a/DET person/NOUN walk/VERB right/ADJ turn/VERB left/ADJ and/CCONJ dunk/NOUN and/CCONJ wave/VERB arm/NOUN#0.0#0.0
+person is walking then jumping and ducking around#person/NOUN is/AUX walk/VERB then/ADV jump/VERB and/CCONJ duck/VERB around/ADV#0.0#0.0
+a person walks a few feet, turns around and dodges as if someone is throwing punches at them, then returns to original position.#a/DET person/NOUN walk/VERB a/DET few/ADJ foot/NOUN turn/VERB around/ADV and/CCONJ dodge/VERB as/SCONJ if/SCONJ someone/PRON is/AUX throw/VERB punch/NOUN at/ADP them/PRON then/ADV return/VERB to/ADP original/ADJ position/NOUN#0.0#9.0

@@ -1,0 +1,3 @@
+the person is washing their hair.#the/DET person/NOUN is/AUX wash/VERB their/DET hair/NOUN#0.0#0.0
+person picks up rags and washes windows or wall#person/NOUN pick/VERB up/ADP rag/NOUN and/CCONJ wash/VERB window/NOUN or/CCONJ wall/NOUN#0.0#0.0
+a man lifts something up with his right arm and uses it to brush something above eye level to his right.#a/DET man/NOUN lift/VERB something/PRON up/ADP with/ADP his/DET right/ADJ arm/NOUN and/CCONJ use/VERB it/PRON to/PART brush/VERB something/PRON above/ADP eye/NOUN level/NOUN to/ADP his/DET right/NOUN#0.0#0.0

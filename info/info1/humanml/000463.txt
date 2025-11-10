@@ -1,0 +1,2 @@
+a person walks leisurely forward and then pivots to their right in a u-shape and then walking straight#a/DET person/NOUN walk/VERB leisurely/ADV forward/ADV and/CCONJ then/ADV pivot/NOUN to/ADP their/DET right/NOUN in/ADP a/DET ushape/NOUN and/CCONJ then/ADV walk/VERB straight/ADV#0.0#9.0
+a person walked forward, then turned right, then walked back diagonally.#a/DET person/NOUN walk/VERB forward/ADV then/ADV turn/VERB right/ADV then/ADV walk/VERB back/ADV diagonally/ADV#0.0#0.0

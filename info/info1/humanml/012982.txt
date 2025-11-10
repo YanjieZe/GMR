@@ -1,0 +1,3 @@
+person is looking around side to side and then nods.#person/NOUN is/AUX look/VERB around/ADP side/NOUN to/PART side/VERB and/CCONJ then/ADV nod/NOUN#0.0#0.0
+a person stands in a ready position and looks all around them.#a/DET person/NOUN stand/VERB in/ADP a/DET ready/ADJ position/NOUN and/CCONJ look/VERB all/ADV around/ADP them/PRON#0.0#0.0
+a figure stands tentatively, looking perhaps confused#a/DET figure/NOUN stand/VERB tentatively/ADV look/VERB perhaps/ADV confused/ADJ#0.0#0.0

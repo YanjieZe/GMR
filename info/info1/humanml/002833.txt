@@ -1,0 +1,3 @@
+motion of body moves to its left and then to its right.#motion/NOUN of/ADP body/NOUN move/VERB to/ADP its/DET left/NOUN and/CCONJ then/ADV to/ADP its/DET right/NOUN#0.0#0.0
+person is likely moving something around.#person/NOUN is/AUX likely/ADV move/VERB something/PRON around/ADV#0.0#0.0
+a person lifts something, moves it to the left, and then places it back.#a/DET person/NOUN lift/VERB something/PRON move/VERB it/PRON to/ADP the/DET left/NOUN and/CCONJ then/ADV place/VERB it/PRON back/ADV#0.0#0.0

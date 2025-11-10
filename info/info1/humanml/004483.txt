@@ -1,0 +1,3 @@
+a person marches in place, stands, and then runs in place#a/DET person/NOUN march/VERB in/ADP place/NOUN stand/VERB and/CCONJ then/ADV run/VERB in/ADP place/NOUN#0.0#0.0
+figure marches in place slowly, pauses, runs in place slightly forward, pauses, then runs in place at a faster pace slight forward and leftward.#figure/NOUN marche/NOUN in/ADP place/NOUN slowly/ADV pause/NOUN run/VERB in/ADP place/NOUN slightly/ADV forward/ADV pause/NOUN then/ADV run/VERB in/ADP place/NOUN at/ADP a/DET faster/ADJ pace/NOUN slight/ADJ forward/ADV and/CCONJ leftward/NOUN#0.0#0.0
+a person jogs in place.#a/DET person/NOUN jog/VERB in/ADP place/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person throws an object with their red hand while taking a step back with their red leg for extra momentum#a/DET person/NOUN throw/VERB an/DET object/NOUN with/ADP their/DET red/ADJ hand/NOUN while/SCONJ take/VERB a/DET step/NOUN back/ADV with/ADP their/DET red/ADJ leg/NOUN for/ADP extra/ADJ momentum/NOUN#0.0#0.0
+a figure steps forward with one leg and swings his arm over his head and diagonally across in a pitching motion.#a/DET figure/NOUN step/VERB forward/ADV with/ADP one/NUM leg/NOUN and/CCONJ swing/VERB his/DET arm/NOUN over/ADP his/DET head/NOUN and/CCONJ diagonally/ADV across/ADP in/ADP a/DET pitching/NOUN motion/NOUN#0.0#0.0
+the person is throwing with a right hand.#the/DET person/NOUN is/AUX throw/VERB with/ADP a/DET right/ADJ hand/NOUN#0.0#0.0

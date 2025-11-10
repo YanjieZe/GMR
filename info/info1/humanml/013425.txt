@@ -1,0 +1,3 @@
+the sim appears to be jogging in place.#the/DET sim/PROPN appear/VERB to/PART be/AUX jog/VERB in/ADP place/NOUN#0.0#4.0
+a person is running in place and stops.#a/DET person/NOUN is/AUX run/VERB in/ADP place/NOUN and/CCONJ stop/NOUN#0.0#0.0
+a person bounces up and down on each leg while moving arms slightly up and down at the same time.#a/DET person/NOUN bounce/VERB up/ADV and/CCONJ down/ADV on/ADP each/DET leg/NOUN while/SCONJ move/VERB arm/NOUN slightly/ADV up/ADP and/CCONJ down/ADV at/ADP the/DET same/ADJ time/NOUN#0.0#0.0

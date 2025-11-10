@@ -1,0 +1,3 @@
+the person having a conversation with someone.#the/DET person/NOUN have/VERB a/DET conversation/NOUN with/ADP someone/PRON#0.0#0.0
+the person has a conversation with a friend#the/DET person/NOUN has/AUX a/DET conversation/NOUN with/ADP a/DET friend/NOUN#0.0#0.0
+a person is having a conversation with another#a/DET person/NOUN is/AUX have/VERB a/DET conversation/NOUN with/ADP another/DET#0.0#0.0

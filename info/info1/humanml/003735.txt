@@ -1,0 +1,3 @@
+someone trying to catch an animal#someone/PRON try/VERB to/PART catch/VERB an/DET animal/NOUN#0.0#0.0
+a person slowly takes acoullensteps forward, stop, the slowly creeps down while moving for ward to catch a cat.#a/DET person/NOUN slowly/ADV take/VERB acoullenstep/NOUN forward/ADV stop/VERB the/DET slowly/ADV creep/VERB down/ADP while/SCONJ move/VERB for/ADP ward/PROPN to/PART catch/VERB a/DET cat/NOUN#0.0#0.0
+person moves forward slowly and bends forward two separate times then hops forward bent over#person/NOUN move/VERB forward/ADV slowly/ADV and/CCONJ bend/VERB forward/ADV two/NUM separate/ADJ time/NOUN then/ADV hop/VERB forward/ADV bent/ADJ over/ADV#0.0#0.0

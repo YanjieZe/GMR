@@ -1,0 +1,3 @@
+the person starts walking then something push them and they starts walking again#the/DET person/NOUN start/VERB walk/VERB then/ADV something/PRON push/VERB them/PRON and/CCONJ they/PRON start/VERB walk/VERB again/ADV#0.0#0.0
+walking forward and then back.#walk/VERB forward/ADV and/CCONJ then/ADV back/ADV#0.0#0.0
+the person was pushed from the right but did not fall down.#the/DET person/NOUN was/AUX push/VERB from/ADP the/DET right/NOUN but/CCONJ did/AUX not/PART fall/VERB down/ADP#0.0#0.0

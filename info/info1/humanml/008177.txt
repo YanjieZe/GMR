@@ -1,0 +1,3 @@
+a person in a sitting position wiggles around while remaining in that position.#a/DET person/NOUN in/ADP a/DET sit/VERB position/NOUN wiggle/VERB around/ADP while/SCONJ remain/VERB in/ADP that/DET position/NOUN#0.0#0.0
+while standing in a half-squat with hands on knees, person turns head side to side and then quickly turns body and head counterclockwise.#while/SCONJ stand/VERB in/ADP a/DET halfsquat/NOUN with/ADP hand/NOUN on/ADP knee/NOUN person/NOUN turn/VERB head/NOUN side/NOUN to/PART side/NOUN and/CCONJ then/ADV quickly/ADV turn/VERB body/NOUN and/CCONJ head/NOUN counterclockwise/NOUN#0.0#0.0
+person looks to his right, then to his left#person/NOUN look/VERB to/ADP his/DET right/NOUN then/ADV to/ADP his/DET left/NOUN#0.0#0.0

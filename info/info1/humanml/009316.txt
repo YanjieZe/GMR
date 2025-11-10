@@ -1,0 +1,3 @@
+a person sitting down and swinging back and forth.#a/DET person/NOUN sit/VERB down/ADP and/CCONJ swinge/VERB back/ADV and/CCONJ forth/ADV#0.0#0.0
+a person sits in a chair#a/DET person/NOUN sit/VERB in/ADP a/DET chair/NOUN#0.0#0.0
+a person sits down on something then rocks side to side on their hips#a/DET person/NOUN sit/VERB down/ADP on/ADP something/PRON then/ADV rock/VERB side/NOUN to/PART side/VERB on/ADP their/DET hip/NOUN#0.0#0.0

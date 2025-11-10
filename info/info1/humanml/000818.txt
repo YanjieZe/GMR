@@ -1,0 +1,3 @@
+a person is spinning and a circle and then kicks his red foot.#a/DET person/NOUN is/AUX spin/VERB and/CCONJ a/DET circle/NOUN and/CCONJ then/ADV kick/VERB his/DET red/ADJ foot/NOUN#0.0#0.0
+a man in spinning in circles and then stops.#a/DET man/NOUN in/ADP spin/VERB in/ADP circle/NOUN and/CCONJ then/ADV stop/VERB#0.0#0.0
+a person spins in circles and then kicks with their right leg.#a/DET person/NOUN spin/VERB in/ADP circle/NOUN and/CCONJ then/ADV kick/VERB with/ADP their/DET right/ADJ leg/NOUN#0.0#0.0

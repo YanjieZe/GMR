@@ -1,0 +1,3 @@
+walking forward then stopping.#walk/VERB forward/ADV then/ADV stop/VERB#0.0#0.0
+person takes five steps down steps from a height to ground level#person/NOUN take/VERB five/NUM step/NOUN down/ADP step/NOUN from/ADP a/DET height/NOUN to/PART ground/NOUN level/NOUN#0.0#0.0
+a person walks up really fast.#a/DET person/NOUN walk/VERB up/ADP really/ADV fast/ADV#0.0#0.0

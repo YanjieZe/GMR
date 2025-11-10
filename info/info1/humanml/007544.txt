@@ -1,0 +1,3 @@
+someone used his right hand to illustrate a hand to mouth motion, while in a squatting position.#someone/PRON use/VERB his/DET right/ADJ hand/NOUN to/PART illustrate/VERB a/DET hand/NOUN to/ADP mouth/NOUN motion/NOUN while/SCONJ in/ADP a/DET squat/VERB position/NOUN#0.0#0.0
+a person sit on something#a/DET person/NOUN sit/VERB on/ADP something/PRON#0.0#0.0
+a person sitting down, raises their right hand a few times.#a/DET person/NOUN sit/VERB down/ADP raise/VERB their/DET right/ADJ hand/NOUN a/DET few/ADJ time/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+person walking very slowly towards something#person/NOUN walk/VERB very/ADV slowly/ADV towards/ADP something/PRON#0.0#0.0
+a person walks forward.#a/DET person/NOUN walk/VERB forward/ADV#0.0#0.0
+a man walks forwards slowly for a few steps, allowing his arms to dangle loosely by his side, then stops.#a/DET man/NOUN walk/VERB forwards/ADV slowly/ADV for/ADP a/DET few/ADJ step/NOUN allow/VERB his/DET arm/NOUN to/PART dangle/VERB loosely/ADV by/ADP his/DET side/NOUN then/ADV stop/VERB#0.0#0.0

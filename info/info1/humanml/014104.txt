@@ -1,0 +1,3 @@
+a person is kicking their right leg into the air#a/DET person/NOUN is/AUX kick/VERB their/DET right/ADJ leg/NOUN into/ADP the/DET air/NOUN#0.0#0.0
+a person kicks his right foot.#a/DET person/NOUN kick/VERB his/DET right/ADJ foot/NOUN#0.0#0.0
+the person is front kicking with the right foot.#the/DET person/NOUN is/AUX front/ADJ kick/VERB with/ADP the/DET right/ADJ foot/NOUN#0.0#0.0

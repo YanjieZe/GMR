@@ -1,0 +1,3 @@
+a figure walks in a straight line down a path#a/DET figure/NOUN walk/VERB in/ADP a/DET straight/ADJ line/NOUN down/ADP a/DET path/NOUN#0.0#0.0
+a person who is standing with his hands by his sides confidently takes four steps forward.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP his/DET hand/NOUN by/ADP his/DET side/NOUN confidently/ADV take/VERB four/NUM step/NOUN forward/ADV#0.0#0.0
+person walks forward from back to front five steps#person/NOUN walk/VERB forward/ADV from/ADP back/ADV to/ADP front/ADJ five/NUM step/NOUN#0.0#0.0

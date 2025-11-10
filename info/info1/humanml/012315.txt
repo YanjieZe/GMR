@@ -1,0 +1,3 @@
+swinging their hands up to chest level the person jumps once.#swinge/VERB their/DET hand/NOUN up/ADP to/PART chest/NOUN level/NOUN the/DET person/NOUN jump/VERB once/ADV#0.0#0.0
+a person jumped on the place#a/DET person/NOUN jump/VERB on/ADP the/DET place/NOUN#0.0#0.0
+a man slightly crouches and then jumps, bringing his arms up as he does.#a/DET man/NOUN slightly/ADV crouch/NOUN and/CCONJ then/ADV jump/VERB bring/VERB his/DET arm/NOUN up/ADP as/SCONJ he/PRON does/AUX#0.0#0.0

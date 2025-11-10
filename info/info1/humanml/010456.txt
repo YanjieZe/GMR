@@ -1,0 +1,3 @@
+a man does a box step waltz backwards.#a/DET man/NOUN does/AUX a/DET box/NOUN step/NOUN waltz/NOUN backwards/ADV#0.0#0.0
+a person emulates the motions of a waltz dance by going forward to the side, backward, and to the side again in a box motion.#a/DET person/NOUN emulate/VERB the/DET motion/NOUN of/ADP a/DET waltz/NOUN dance/NOUN by/ADP go/VERB forward/ADV to/ADP the/DET side/NOUN backward/ADJ and/CCONJ to/ADP the/DET side/NOUN again/ADV in/ADP a/DET box/NOUN motion/NOUN#0.0#0.0
+a person dances in a simple waltz box pattern.#a/DET person/NOUN dance/VERB in/ADP a/DET simple/ADJ waltz/NOUN box/NOUN pattern/NOUN#0.0#0.0

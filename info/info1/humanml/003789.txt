@@ -1,0 +1,3 @@
+person is jumping on their toes. their heels never leave the floor.#person/NOUN is/AUX jump/VERB on/ADP their/DET toe/NOUN their/DET heel/NOUN never/ADV leave/VERB the/DET floor/NOUN#0.0#0.0
+a man stands with his legs shoulder width apart and bounces up and down without bending his knees; his toes stay on the ground.#a/DET man/NOUN stand/VERB with/ADP his/DET leg/NOUN shoulder/NOUN width/NOUN apart/ADV and/CCONJ bounce/VERB up/ADV and/CCONJ down/ADV without/ADP bend/VERB his/DET knee/NOUN his/DET toe/NOUN stay/VERB on/ADP the/DET ground/NOUN#0.0#0.0
+person is jumping in place.#person/NOUN is/AUX jump/VERB in/ADP place/NOUN#0.0#0.0

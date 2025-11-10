@@ -1,0 +1,3 @@
+a person kneels down firstly on his right, then his left.#a/DET person/NOUN kneel/VERB down/ADP firstly/ADV on/ADP his/DET right/NOUN then/ADV his/DET left/NOUN#0.0#0.0
+a man kneels down and braces himself on a stool with his right hand.#a/DET man/NOUN kneel/VERB down/ADP and/CCONJ brace/VERB himself/PRON on/ADP a/DET stool/NOUN with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+a person leans forward, extends his right arm to brace himself, gets down on both of his knees and picks something up with his right hand.#a/DET person/NOUN lean/VERB forward/ADV extend/VERB his/DET right/ADJ arm/NOUN to/PART brace/VERB himself/PRON get/VERB down/ADV on/ADP both/DET of/ADP his/DET knee/NOUN and/CCONJ pick/VERB something/PRON up/ADP with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0

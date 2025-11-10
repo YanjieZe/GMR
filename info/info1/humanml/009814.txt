@@ -1,0 +1,2 @@
+a man steps diagonally to his right,  then turns and steps diagonally backwards, then to his right again, and then back, as if he is dancing alone.#a/DET man/NOUN step/VERB diagonally/ADV to/ADP his/DET right/NOUN then/ADV turn/VERB and/CCONJ step/NOUN diagonally/ADV backwards/ADV then/ADV to/ADP his/DET right/NOUN again/ADV and/CCONJ then/ADV back/ADV as/SCONJ if/SCONJ he/PRON is/AUX dance/VERB alone/ADV#0.0#0.0
+he walks side ways slowly#he/PRON walk/VERB side/ADJ way/NOUN slowly/ADV#0.0#0.0

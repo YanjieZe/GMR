@@ -1,0 +1,3 @@
+walking backwards in one circle then turns to walk backwards the other way#walk/VERB backwards/ADV in/ADP one/NUM circle/NOUN then/ADV turn/VERB to/PART walk/VERB backwards/ADP the/DET other/ADJ way/NOUN#0.0#0.0
+a person is walking in a backwards circle.#a/DET person/NOUN is/AUX walk/VERB in/ADP a/DET backwards/ADJ circle/NOUN#0.0#0.0
+a man walks backwards in clockwise direction.#a/DET man/NOUN walk/VERB backwards/ADV in/ADP clockwise/ADJ direction/NOUN#0.0#0.0

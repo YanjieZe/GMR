@@ -1,0 +1,3 @@
+this person does a short sprint forward, holding their arms up to their chest level.#this/DET person/NOUN does/AUX a/DET short/ADJ sprint/NOUN forward/ADV hold/VERB their/DET arm/NOUN up/ADP to/ADP their/DET chest/NOUN level/NOUN#0.0#0.0
+the runner starts his course and then stops.#the/DET runner/NOUN start/VERB his/DET course/NOUN and/CCONJ then/ADV stop/VERB#0.0#0.0
+jogging forward in medium pace.#jog/VERB forward/ADV in/ADP medium/ADJ pace/NOUN#0.0#0.0

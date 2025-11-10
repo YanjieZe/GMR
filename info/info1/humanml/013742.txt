@@ -1,0 +1,3 @@
+a person runs forward in a  straight diagonal line#a/DET person/NOUN run/VERB forward/ADV in/ADP a/DET straight/ADJ diagonal/ADJ line/NOUN#0.0#0.0
+the man is running fast#the/DET man/NOUN is/AUX run/VERB fast/ADV#0.0#0.0
+the man runs forward as if his feet hurt.#the/DET man/NOUN run/VERB forward/ADV as/SCONJ if/SCONJ his/DET foot/NOUN hurt/VERB#0.0#0.0

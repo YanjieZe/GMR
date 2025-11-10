@@ -1,0 +1,3 @@
+at a sideways angle, a person walks foreward then backwards#at/ADP a/DET sideways/ADJ angle/NOUN a/DET person/NOUN walk/VERB foreward/NOUN then/ADV backwards/ADV#0.0#0.0
+a man takes two backwards steps to the right and turns to face the right side then takes 8 more backward steps in a straight line.#a/DET man/NOUN take/VERB two/NUM backwards/ADJ step/NOUN to/ADP the/DET right/NOUN and/CCONJ turn/VERB to/PART face/VERB the/DET right/ADJ side/NOUN then/ADV take/VERB more/ADV backward/ADJ step/NOUN in/ADP a/DET straight/ADJ line/NOUN#0.0#0.0
+a person is walking backwards.#a/DET person/NOUN is/AUX walk/VERB backwards/ADV#0.0#0.0

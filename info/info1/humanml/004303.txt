@@ -1,0 +1,3 @@
+a person lifts his right arm, then does a lunge with his left leg#a/DET person/NOUN lift/VERB his/DET right/ADJ arm/NOUN then/ADV does/AUX a/DET lunge/NOUN with/ADP his/DET left/ADJ leg/NOUN#0.0#0.0
+the man is moving his legs and hands#the/DET man/NOUN is/AUX move/VERB his/DET leg/NOUN and/CCONJ hand/NOUN#0.0#0.0
+person extends arms in the air as they wave#person/NOUN extend/VERB arm/NOUN in/ADP the/DET air/NOUN as/SCONJ they/PRON wave/VERB#0.0#0.0

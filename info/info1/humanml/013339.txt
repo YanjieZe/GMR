@@ -1,0 +1,3 @@
+a person raises both hands to chest level out in front of them makes a swatting motion with right hand for five seconds and then a single swatting motion with their right.#a/DET person/NOUN raise/VERB both/DET hand/NOUN to/PART chest/VERB level/NOUN out/ADV in/ADP front/NOUN of/ADP them/PRON make/VERB a/DET swatting/ADJ motion/NOUN with/ADP right/ADJ hand/NOUN for/ADP five/NUM second/NOUN and/CCONJ then/ADV a/DET single/ADJ swatting/NOUN motion/NOUN with/ADP their/DET right/NOUN#0.0#0.0
+the person is acting like a cat.#the/DET person/NOUN is/AUX act/VERB like/SCONJ a/DET cat/NOUN#0.0#0.0
+a person makes cat-like scratching motions with their hands.#a/DET person/NOUN make/VERB catlike/NOUN scratch/VERB motion/NOUN with/ADP their/DET hand/NOUN#0.0#0.0

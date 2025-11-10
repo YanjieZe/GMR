@@ -1,0 +1,3 @@
+he sits down on the floor, crossing his legs, then touches his knees and stands back up.#he/PRON sit/VERB down/ADP on/ADP the/DET floor/NOUN cross/VERB his/DET leg/NOUN then/ADV touch/VERB his/DET knee/NOUN and/CCONJ stand/VERB back/ADV up/ADV#0.0#0.0
+someone sits and later stands#someone/PRON sit/VERB and/CCONJ later/ADV stand/VERB#0.0#0.0
+a man lowers his outstreched arms, sits down, then gets back up.#a/DET man/NOUN lower/VERB his/DET outstreche/VERB arm/NOUN sit/VERB down/ADV then/ADV get/VERB back/ADV up/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person swims forward using breaststroke#a/DET person/NOUN swim/VERB forward/ADV use/VERB breaststroke/NOUN#0.0#0.0
+a person is swimming and performing the breaststroke.#a/DET person/NOUN is/AUX swim/VERB and/CCONJ perform/VERB the/DET breaststroke/NOUN#0.0#0.0
+a man is doing the breaststroke while swimming.#a/DET man/NOUN is/AUX do/VERB the/DET breaststroke/NOUN while/SCONJ swim/VERB#0.0#0.0

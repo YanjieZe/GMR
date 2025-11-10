@@ -1,0 +1,3 @@
+a person tip toeing in an l shape figure to the left.#a/DET person/NOUN tip/NOUN toe/VERB in/ADP an/DET l/NOUN shape/NOUN figure/NOUN to/ADP the/DET left/NOUN#0.0#0.0
+a man tiptoes forward and then towards the right.#a/DET man/NOUN tiptoe/VERB forward/ADV and/CCONJ then/ADV towards/ADP the/DET right/NOUN#0.0#0.0
+the person is sneaking around.#the/DET person/NOUN is/AUX sneak/VERB around/ADV#0.0#0.0

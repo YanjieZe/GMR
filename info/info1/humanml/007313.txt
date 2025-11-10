@@ -1,0 +1,3 @@
+a person appears to be swimming.#a/DET person/NOUN appear/VERB to/PART be/AUX swim/VERB#0.0#0.0
+the man lies on his stomach while thrusting his hips and windmilling his arms forward.#the/DET man/NOUN lie/VERB on/ADP his/DET stomach/NOUN while/SCONJ thrust/VERB his/DET hip/NOUN and/CCONJ windmille/VERB his/DET arm/NOUN forward/ADV#0.0#0.0
+a person swims in a fly stroke.#a/DET person/NOUN swim/VERB in/ADP a/DET fly/NOUN stroke/NOUN#0.0#0.0

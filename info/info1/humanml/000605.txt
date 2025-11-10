@@ -1,0 +1,3 @@
+a person walking forward, avoiding obstacles on the floor.#a/DET person/NOUN walk/VERB forward/ADV avoid/VERB obstacle/NOUN on/ADP the/DET floor/NOUN#0.0#0.0
+a person walks forward slowly, on a zig-zag trajectory.#a/DET person/NOUN walk/VERB forward/ADV slowly/ADV on/ADP a/DET zigzag/NOUN trajectory/NOUN#0.0#0.0
+a man takes some slow creeping steps forwards, then some further creeping steps slightly out to his front-left, and then to his front-right.#a/DET man/NOUN take/VERB some/DET slow/ADJ creeping/NOUN step/NOUN forwards/ADV then/ADV some/DET further/ADV creep/VERB step/NOUN slightly/ADV out/SCONJ to/ADP his/DET frontleft/NOUN and/CCONJ then/ADV to/ADP his/DET frontright/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a man stands facing forward, stretch both hands forward, he turned right walked a little turned left walked a little turned left walked.#a/DET man/NOUN stand/VERB face/VERB forward/ADV stretch/VERB both/DET hand/NOUN forward/ADV he/PRON turn/VERB right/ADV walk/VERB a/DET little/ADJ turned/ADJ left/NOUN walk/VERB a/DET little/ADJ turned/ADJ left/NOUN walk/VERB#0.0#0.0
+a person begins walking with both arms erect in front of them walking in a three-quarter square.#a/DET person/NOUN begin/VERB walk/VERB with/ADP both/DET arm/NOUN erect/NOUN in/ADP front/NOUN of/ADP them/PRON walk/VERB in/ADP a/DET threequarter/NOUN square/NOUN#0.0#0.0
+a man walks around like a zombie.#a/DET man/NOUN walk/VERB around/ADP like/SCONJ a/DET zombie/NOUN#0.0#0.0

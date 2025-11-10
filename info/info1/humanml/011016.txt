@@ -1,0 +1,3 @@
+a man runs in a semi circle then runs back to the original position.#a/DET man/NOUN run/VERB in/ADP a/DET semi/ADJ circle/NOUN then/ADV run/VERB back/ADV to/ADP the/DET original/ADJ position/NOUN#0.0#0.0
+a man runs in a semi-circle from left to right and back again.#a/DET man/NOUN run/VERB in/ADP a/DET semicircle/NOUN from/ADP left/VERB to/ADP right/NOUN and/CCONJ back/ADV again/ADV#0.0#0.0
+a person runs counter clock wise then turns and runs back, finally turning and walking counter clockwise again.#a/DET person/NOUN run/VERB counter/NOUN clock/PROPN wise/ADJ then/ADV turn/VERB and/CCONJ run/VERB back/ADV finally/ADV turn/VERB and/CCONJ walk/VERB counter/NOUN clockwise/NOUN again/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+the person is dancing around.#the/DET person/NOUN is/AUX dance/VERB around/ADV#0.0#0.0
+the person seems to be slow dancing with someone. he has the right hand held out in front as if embracing someone. he dances from side to side.#the/DET person/NOUN seem/VERB to/PART be/AUX slow/ADJ dancing/NOUN with/ADP someone/PRON he/PRON has/AUX the/DET right/ADJ hand/NOUN hold/VERB out/ADP in/ADP front/NOUN as/SCONJ if/SCONJ embrace/VERB someone/PRON he/PRON dance/VERB from/ADP side/NOUN to/ADP side/NOUN#0.0#0.0
+a person appears to be doing a dance.#a/DET person/NOUN appear/VERB to/PART be/AUX do/VERB a/DET dance/NOUN#0.0#0.0

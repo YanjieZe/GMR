@@ -1,0 +1,3 @@
+figure appears to be getting something out of a drawer#figure/NOUN appear/VERB to/PART be/AUX get/VERB something/PRON out/SCONJ of/ADP a/DET drawer/NOUN#0.0#0.0
+a person steps to the side, stumbles, recovers, turns to the left and then wipes an object with their right hand.#a/DET person/NOUN step/VERB to/ADP the/DET side/NOUN stumble/NOUN recover/NOUN turn/VERB to/ADP the/DET left/NOUN and/CCONJ then/ADV wipe/VERB an/DET object/NOUN with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+the person is walking like marcus adrian.#the/DET person/NOUN is/AUX walk/VERB like/SCONJ marcus/PROPN adrian/PROPN#0.0#0.0

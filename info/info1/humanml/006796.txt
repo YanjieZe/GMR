@@ -1,0 +1,3 @@
+the sim appears to be miskicking a hunter shooting a bow, then appears to be holding binoculars.#the/DET sim/PROPN appear/VERB to/PART be/AUX miskicke/VERB a/DET hunter/NOUN shoot/VERB a/DET bow/NOUN then/ADV appear/VERB to/PART be/AUX hold/VERB binocular/NOUN#0.0#0.0
+the person is doing a nursery ryhyne  cock robin.#the/DET person/NOUN is/AUX do/VERB a/DET nursery/NOUN ryhyne/NOUN cock/PROPN robin/NOUN#0.0#0.0
+a person raises right arm to head then raises both arms laterally, lowers arms then raises both arms in front of their face#a/DET person/NOUN raise/VERB right/ADJ arm/NOUN to/PART head/VERB then/ADV raise/VERB both/DET arm/NOUN laterally/ADV lower/VERB arm/NOUN then/ADV raise/VERB both/DET arm/NOUN in/ADP front/NOUN of/ADP their/DET face/NOUN#0.0#0.0

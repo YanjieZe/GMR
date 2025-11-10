@@ -1,0 +1,3 @@
+the person stands up while holding their left hand above their head.#the/DET person/NOUN stand/VERB up/ADP while/SCONJ hold/VERB their/DET left/ADJ hand/NOUN above/ADP their/DET head/NOUN#0.0#0.0
+the person is lifting something up.#the/DET person/NOUN is/AUX lift/VERB something/PRON up/ADP#0.0#0.0
+a person stands while lifting something.#a/DET person/NOUN stand/VERB while/SCONJ lift/VERB something/PRON#0.0#0.0

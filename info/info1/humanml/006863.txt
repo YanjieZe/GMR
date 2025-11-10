@@ -1,0 +1,3 @@
+a person walks left in a zigzag pattern appearing to be drunk.#a/DET person/NOUN walk/VERB left/VERB in/ADP a/DET zigzag/NOUN pattern/NOUN appear/VERB to/PART be/AUX drunk/ADJ#0.0#10.0
+the person is trying to play tennis.#the/DET person/NOUN is/AUX try/VERB to/PART play/VERB tennis/NOUN#0.0#0.0
+a person scampering from side to side while raising his hands above his head occasionally#a/DET person/NOUN scamper/VERB from/ADP side/NOUN to/ADP side/NOUN while/SCONJ raise/VERB his/DET hand/NOUN above/ADP his/DET head/NOUN occasionally/ADV#0.0#0.0

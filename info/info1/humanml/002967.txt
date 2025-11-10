@@ -1,0 +1,3 @@
+a man runs back and forth between two points#a/DET man/NOUN run/VERB back/ADV and/CCONJ forth/ADV between/ADP two/NUM point/NOUN#0.0#0.0
+a person runs to the left, the right, left and back to center.#a/DET person/NOUN run/VERB to/ADP the/DET left/NOUN the/DET right/NOUN left/VERB and/CCONJ back/ADV to/ADP center/NOUN#0.0#7.0
+a person runs back and forth#a/DET person/NOUN run/VERB back/ADV and/CCONJ forth/ADV#0.0#0.0

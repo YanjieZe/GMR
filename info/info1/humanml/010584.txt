@@ -1,0 +1,3 @@
+a person takes a large step diagonally with their left leg.#a/DET person/NOUN take/VERB a/DET large/ADJ step/NOUN diagonally/ADV with/ADP their/DET left/ADJ leg/NOUN#0.0#0.0
+person steps down to their left onto the platform.#person/NOUN step/VERB down/ADP to/ADP their/DET left/NOUN onto/ADP the/DET platform/NOUN#0.0#0.0
+a person takes a large sidestep towards the left and front.#a/DET person/NOUN take/VERB a/DET large/ADJ sidestep/NOUN towards/ADP the/DET left/ADJ and/CCONJ front/NOUN#0.0#0.0

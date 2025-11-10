@@ -1,0 +1,3 @@
+a man turns around counterclockwise, walks several steps, and then turns and walks back while hunched over and pushing his right hand forward.#a/DET man/NOUN turn/VERB around/ADP counterclockwise/NOUN walk/VERB several/ADJ step/NOUN and/CCONJ then/ADV turn/VERB and/CCONJ walk/VERB back/ADV while/SCONJ hunch/VERB over/ADV and/CCONJ push/VERB his/DET right/ADJ hand/NOUN forward/ADV#0.0#0.0
+a person walks, turns, bends and walks back.#a/DET person/NOUN walk/VERB turn/VERB bend/NOUN and/CCONJ walk/VERB back/ADV#0.0#0.0
+walking forward in a diagonal.#walk/VERB forward/ADV in/ADP a/DET diagonal/NOUN#0.0#0.0

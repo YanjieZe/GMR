@@ -1,0 +1,3 @@
+a person walks from side to side with their arms hanging loosely.#a/DET person/NOUN walk/VERB from/ADP side/NOUN to/PART side/VERB with/ADP their/DET arm/NOUN hang/VERB loosely/ADV#0.0#0.0
+a person paces back and forth#a/DET person/NOUN pace/VERB back/ADV and/CCONJ forth/ADV#0.0#0.0
+a person walks left and right as if they are nervously pacing.#a/DET person/NOUN walk/VERB left/VERB and/CCONJ right/ADV as/SCONJ if/SCONJ they/PRON are/AUX nervously/ADV pace/VERB#0.0#0.0

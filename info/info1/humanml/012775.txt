@@ -1,0 +1,2 @@
+this person walks from right to left, from back to front.#this/DET person/NOUN walk/VERB from/ADP right/NOUN to/ADP left/NOUN from/ADP back/ADV to/ADP front/NOUN#0.0#0.0
+a person walks in a curved line.#a/DET person/NOUN walk/VERB in/ADP a/DET curved/ADJ line/NOUN#0.0#0.0

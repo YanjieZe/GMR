@@ -1,0 +1,3 @@
+a person holds something up to their face with one hand, and then with both hands.#a/DET person/NOUN hold/VERB something/PRON up/ADP to/ADP their/DET face/NOUN with/ADP one/NUM hand/NOUN and/CCONJ then/ADV with/ADP both/DET hand/NOUN#0.0#0.0
+lowering hands then raising hands towards face.#lower/VERB hand/NOUN then/ADV raise/VERB hand/NOUN towards/ADP face/NOUN#0.0#0.0
+the person grabs cheeseburger and starts eating#the/DET person/NOUN grab/VERB cheeseburger/VERB and/CCONJ start/VERB eat/VERB#0.0#0.0

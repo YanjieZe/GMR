@@ -1,0 +1,3 @@
+a person moving arms around uncomfortably.#a/DET person/NOUN move/VERB arm/NOUN around/ADP uncomfortably/ADV#0.0#0.0
+a man puts outstretched arms down and then bends them towards his chest.#a/DET man/NOUN put/VERB outstretche/VERB arm/NOUN down/ADV and/CCONJ then/ADV bend/VERB them/PRON towards/ADP his/DET chest/NOUN#0.0#0.0
+a person lowers both his raised arms down to their sides slowly, then lifts his arms one by one upwards to their chest.#a/DET person/NOUN lower/VERB both/CCONJ his/DET raise/VERB arm/NOUN down/ADV to/ADP their/DET side/NOUN slowly/ADV then/ADV lift/VERB his/DET arm/NOUN one/NUM by/ADP one/NUM upwards/ADV to/ADP their/DET chest/NOUN#0.0#0.0

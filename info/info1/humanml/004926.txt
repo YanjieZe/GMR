@@ -1,0 +1,3 @@
+someone pulls their hair back#someone/PRON pull/VERB their/DET hair/NOUN back/ADV#0.0#0.0
+a person moves their hand as if they are fixing their hair#a/DET person/NOUN move/VERB their/DET hand/NOUN as/SCONJ if/SCONJ they/PRON are/AUX fix/VERB their/DET hair/NOUN#0.0#0.0
+from a standing position, the person gestures with a raised arm and hand while swaying back and forth on their feet#from/ADP a/DET standing/ADJ position/NOUN the/DET person/NOUN gesture/VERB with/ADP a/DET raise/VERB arm/NOUN and/CCONJ hand/NOUN while/SCONJ sway/VERB back/ADV and/CCONJ forth/ADV on/ADP their/DET foot/NOUN#0.0#0.0

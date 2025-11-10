@@ -1,0 +1,3 @@
+a man holds someone's hands as if greeting them and then shakes his left hand with someone#a/DET man/NOUN hold/VERB someone/PRON hand/NOUN as/SCONJ if/SCONJ greet/VERB them/PRON and/CCONJ then/ADV shake/VERB his/DET left/ADJ hand/NOUN with/ADP someone/PRON#0.0#0.0
+the man greets someone the shakes their hand.#the/DET man/NOUN greet/VERB someone/PRON the/DET shake/VERB their/DET hand/NOUN#0.0#0.0
+a person shakes hands using both hands.#a/DET person/NOUN shake/VERB hand/NOUN use/VERB both/DET hand/NOUN#0.0#0.0

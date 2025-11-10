@@ -1,0 +1,3 @@
+the person is pacing back-and-forth.#the/DET person/NOUN is/AUX pace/VERB backandforth/ADJ#0.0#0.0
+person walks to their right then left then slightly right and stands still#person/NOUN walk/VERB to/ADP their/DET right/NOUN then/ADV left/VERB then/ADV slightly/ADV right/INTJ and/CCONJ stand/VERB still/ADV#0.0#0.0
+a man walks from left to right with his hands loosely at his side.#a/DET man/NOUN walk/VERB from/ADP left/VERB to/ADP right/NOUN with/ADP his/DET hand/NOUN loosely/ADV at/ADP his/DET side/NOUN#0.0#0.0

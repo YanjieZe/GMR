@@ -1,0 +1,3 @@
+the person is bowing down and waving around.#the/DET person/NOUN is/AUX bow/VERB down/ADP and/CCONJ wave/VERB around/ADV#0.0#0.0
+a person standing with his hands up bends over and touches his toes, then straightens back up with a final twist to his left.#a/DET person/NOUN stand/VERB with/ADP his/DET hand/NOUN up/ADV bend/NOUN over/ADP and/CCONJ touch/VERB his/DET toe/NOUN then/ADV straighten/VERB back/ADV up/ADV with/ADP a/DET final/ADJ twist/NOUN to/ADP his/DET left/NOUN#0.0#0.0
+a person appears to be stretching his body.#a/DET person/NOUN appear/VERB to/PART be/AUX stretch/VERB his/DET body/NOUN#0.0#0.0

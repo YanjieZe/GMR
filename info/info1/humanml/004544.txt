@@ -1,0 +1,3 @@
+the man stretches side to side then touches his toes.#the/DET man/NOUN stretch/VERB side/NOUN to/PART side/VERB then/ADV touch/VERB his/DET toe/NOUN#0.0#0.0
+a man has his arms raised and twists his torso left and right and the back and forth and then lowers his arms.#a/DET man/NOUN has/AUX his/DET arm/NOUN raise/VERB and/CCONJ twist/VERB his/DET torso/NOUN left/VERB and/CCONJ right/INTJ and/CCONJ the/DET back/NOUN and/CCONJ forth/ADV and/CCONJ then/ADV lower/VERB his/DET arm/NOUN#0.0#0.0
+a person both his hands raised moving sideways and bends forward and touches his feet.#a/DET person/NOUN both/CCONJ his/DET hand/NOUN raise/VERB move/VERB sideways/ADV and/CCONJ bend/VERB forward/ADV and/CCONJ touch/VERB his/DET foot/NOUN#0.0#0.0

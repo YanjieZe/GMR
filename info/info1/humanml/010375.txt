@@ -1,0 +1,3 @@
+a person standing and then jumping up#a/DET person/NOUN stand/VERB and/CCONJ then/ADV jump/VERB up/ADP#0.0#0.0
+a person jumps up with one knee pulled to their torso and their arms raised to head level on either side of them. they land and clasp their hands above their head and saunters away.#a/DET person/NOUN jump/VERB up/ADP with/ADP one/NUM knee/NOUN pull/VERB to/ADP their/DET torso/NOUN and/CCONJ their/DET arm/NOUN raise/VERB to/PART head/VERB level/NOUN on/ADP either/DET side/NOUN of/ADP them/PRON they/PRON land/VERB and/CCONJ clasp/VERB their/DET hand/NOUN above/ADP their/DET head/NOUN and/CCONJ saunter/VERB away/ADV#0.0#0.0
+a person doing a jump pose.#a/DET person/NOUN do/VERB a/DET jump/NOUN pose/NOUN#0.0#0.0

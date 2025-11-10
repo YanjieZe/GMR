@@ -1,0 +1,3 @@
+a figure does the macarena dance#a/DET figure/NOUN does/AUX the/DET macarena/PROPN dance/PROPN#0.0#0.0
+the person practices doing the macarena#the/DET person/NOUN practice/VERB do/VERB the/DET macarena/PROPN#0.0#0.0
+person is doing a dance#person/NOUN is/AUX do/VERB a/DET dance/NOUN#0.0#0.0

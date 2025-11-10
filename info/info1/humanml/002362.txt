@@ -1,0 +1,3 @@
+a person begins walking and then quickly steps to the side.#a/DET person/NOUN begin/VERB walk/VERB and/CCONJ then/ADV quickly/ADV step/VERB to/ADP the/DET side/NOUN#0.0#0.0
+a stick figure takes a couple steps forward then swerves.#a/DET stick/NOUN figure/NOUN take/VERB a/DET couple/NOUN step/NOUN forward/ADV then/ADV swerve/NOUN#0.0#0.0
+a man walks forward and then quickly jerks to the left.#a/DET man/NOUN walk/VERB forward/ADV and/CCONJ then/ADV quickly/ADV jerk/VERB to/ADP the/DET left/NOUN#0.0#0.0

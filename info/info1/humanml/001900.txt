@@ -1,0 +1,3 @@
+a person lowering their arms from both being raised apart, then grabbing something on chest level height and placing it above then placing another item below.#a/DET person/NOUN lower/VERB their/DET arm/NOUN from/ADP both/DET being/AUX raise/VERB apart/ADV then/ADV grab/VERB something/PRON on/ADP chest/NOUN level/NOUN height/NOUN and/CCONJ place/VERB it/PRON above/ADV then/ADV place/VERB another/DET item/NOUN below/ADV#0.0#0.0
+raises arms and points forward#raise/VERB arm/NOUN and/CCONJ point/NOUN forward/ADV#0.0#0.0
+a person grabs multiple things off shelves.#a/DET person/NOUN grab/VERB multiple/ADJ thing/NOUN off/ADP shelf/NOUN#0.0#10.0

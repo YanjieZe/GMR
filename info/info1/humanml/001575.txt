@@ -1,0 +1,3 @@
+prson is shaking hands in front of themselves.#prson/PROPN is/AUX shake/VERB hand/NOUN in/ADP front/NOUN of/ADP themselves/PRON#0.0#0.0
+whoa buddy don't hurt me i don't want any problems#whoa/INTJ buddy/PROPN do/AUX hurt/VERB me/PRON i/PRON do/AUX want/VERB any/DET problem/NOUN#0.0#0.0
+a person raises their hands and waves with both.#a/DET person/NOUN raise/VERB their/DET hand/NOUN and/CCONJ wave/NOUN with/ADP both/DET#0.0#0.0

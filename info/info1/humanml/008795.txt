@@ -1,0 +1,3 @@
+a person steps downstairs while holding on to the rail with his left hand.#a/DET person/NOUN step/VERB downstairs/ADV while/SCONJ hold/VERB on/ADP to/ADP the/DET rail/NOUN with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0
+a man walks down a set of stairs.#a/DET man/NOUN walk/VERB down/ADP a/DET set/NOUN of/ADP stair/NOUN#0.0#0.0
+the man comes down four steps starting on his right leg.#the/DET man/NOUN come/VERB down/ADV four/NUM step/NOUN start/VERB on/ADP his/DET right/ADJ leg/NOUN#0.0#0.0

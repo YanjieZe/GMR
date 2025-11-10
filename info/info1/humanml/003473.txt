@@ -1,0 +1,3 @@
+a person lowers both of his raised hands.#a/DET person/NOUN lower/VERB both/DET of/ADP his/DET raise/VERB hand/NOUN#0.0#0.0
+from a crouched position with both arms raised to shoulder height, the person slowly lowers their arms, waits, and then slowly raises their arms again#from/ADP a/DET crouched/ADJ position/NOUN with/ADP both/DET arm/NOUN raise/VERB to/ADP shoulder/NOUN height/NOUN the/DET person/NOUN slowly/ADV lower/VERB their/DET arm/NOUN wait/NOUN and/CCONJ then/ADV slowly/ADV raise/VERB their/DET arm/NOUN again/ADV#0.0#0.0
+a person stands their squatting for a while, and then lifts their arms out.#a/DET person/NOUN stand/VERB their/DET squatting/NOUN for/ADP a/DET while/NOUN and/CCONJ then/ADV lift/VERB their/DET arm/NOUN out/ADP#0.0#0.0

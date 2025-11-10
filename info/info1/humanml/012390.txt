@@ -1,0 +1,3 @@
+the man walked up then started to crow.#the/DET man/NOUN walk/VERB up/ADP then/ADV start/VERB to/PART crow/VERB#0.0#0.0
+person walks straight than bands, reaches the floor where he keeps moving chaotically.#person/NOUN walk/VERB straight/ADV than/SCONJ band/NOUN reach/VERB the/DET floor/NOUN where/ADV he/PRON keep/VERB move/VERB chaotically/ADV#0.0#0.0
+a person walks forward and then leans into the water and moves their hands like a swimming breakstroke.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ then/ADV lean/VERB into/ADP the/DET water/NOUN and/CCONJ move/VERB their/DET hand/NOUN like/SCONJ a/DET swimming/NOUN breakstroke/NOUN#0.0#0.0

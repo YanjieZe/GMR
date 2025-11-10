@@ -1,0 +1,3 @@
+a person walks forward slowly, then takes two more slow and deliberate steps.#a/DET person/NOUN walk/VERB forward/ADV slowly/ADV then/ADV take/VERB two/NUM more/ADV slow/ADJ and/CCONJ deliberate/ADJ step/NOUN#0.0#0.0
+a man takes a step forward before stopping.#a/DET man/NOUN take/VERB a/DET step/NOUN forward/ADV before/ADP stop/VERB#0.0#0.0
+a person steps forward then slowly glides their left foot#a/DET person/NOUN step/VERB forward/ADV then/ADV slowly/ADV glide/VERB their/DET left/ADJ foot/NOUN#0.0#0.0

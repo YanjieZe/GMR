@@ -1,0 +1,3 @@
+gesturing with right hand to come here, then waving#gesture/VERB with/ADP right/ADJ hand/NOUN to/PART come/VERB here/ADV then/ADV wave/VERB#0.0#0.0
+person uses right arm in a beckoning motion, then waves, then beckons, waves and finally beckons again, while stood still.#person/NOUN use/VERB right/ADJ arm/NOUN in/ADP a/DET beckoning/ADJ motion/NOUN then/ADV wave/NOUN then/ADV beckon/NOUN wave/NOUN and/CCONJ finally/ADV beckon/NOUN again/ADV while/SCONJ stand/VERB still/ADV#0.0#0.0
+a person shakes their hand around#a/DET person/NOUN shake/VERB their/DET hand/NOUN around/ADV#0.0#0.0

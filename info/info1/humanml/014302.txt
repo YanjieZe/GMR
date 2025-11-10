@@ -1,0 +1,3 @@
+a person seeming to be squatting forward pushing a heavy object in front of them.#a/DET person/NOUN seeming/ADJ to/PART be/AUX squat/VERB forward/ADV push/VERB a/DET heavy/ADJ object/NOUN in/ADP front/NOUN of/ADP them/PRON#0.0#0.0
+a man is bending forward and after waiting, walks forward in staggered motion.#a/DET man/NOUN is/AUX bend/VERB forward/ADV and/CCONJ after/ADP wait/VERB walk/VERB forward/ADV in/ADP staggered/ADJ motion/NOUN#0.0#0.0
+a person bends over to push a heavy object using both hands, legs, and feet over the ground.#a/DET person/NOUN bend/VERB over/ADP to/PART push/VERB a/DET heavy/ADJ object/NOUN use/VERB both/DET hand/NOUN leg/NOUN and/CCONJ foot/NOUN over/ADP the/DET ground/NOUN#0.0#0.0

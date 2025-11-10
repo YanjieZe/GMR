@@ -1,0 +1,3 @@
+a person walks directly across a room.#a/DET person/NOUN walk/VERB directly/ADV across/ADP a/DET room/NOUN#0.0#0.0
+a person moves in a 90 degree arc clockwise.#a/DET person/NOUN move/VERB in/ADP a/DET degree/NOUN arc/NOUN clockwise/NOUN#0.0#0.0
+a person is walking in a curve to the right.#a/DET person/NOUN is/AUX walk/VERB in/ADP a/DET curve/NOUN to/ADP the/DET right/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+someone with his arms outstretched turns his hands#someone/PRON with/ADP his/DET arm/NOUN outstretche/VERB turn/VERB his/DET hand/NOUN#0.0#0.0
+a person raised both hands and did some jesture#a/DET person/NOUN raise/VERB both/DET hand/NOUN and/CCONJ did/AUX some/DET jesture/NOUN#0.0#0.0
+a person in a t pose is wiggling their hands, then bring their arms to their cheats.#a/DET person/NOUN in/ADP a/DET t/NOUN pose/NOUN is/AUX wiggle/VERB their/DET hand/NOUN then/ADV bring/VERB their/DET arm/NOUN to/ADP their/DET cheat/NOUN#0.0#7.0

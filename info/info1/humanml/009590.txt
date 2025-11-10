@@ -1,0 +1,3 @@
+the man is waiting for the bus#the/DET man/NOUN is/AUX wait/VERB for/ADP the/DET bus/NOUN#0.0#0.0
+a person stands, leaning and staring to their left, before looking at their watch and pacing#a/DET person/NOUN stand/VERB lean/VERB and/CCONJ stare/VERB to/ADP their/DET left/NOUN before/ADP look/VERB at/ADP their/DET watch/NOUN and/CCONJ pacing/NOUN#0.0#0.0
+the person is waiting for his ride.#the/DET person/NOUN is/AUX wait/VERB for/ADP his/DET ride/NOUN#0.0#0.0

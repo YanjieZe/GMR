@@ -1,0 +1,3 @@
+the person is preparing dough to make something to eat.#the/DET person/NOUN is/AUX prepare/VERB dough/NOUN to/PART make/VERB something/PRON to/PART eat/VERB#0.0#0.0
+a man takes a step forward to  pour something with his right armand then his left.#a/DET man/NOUN take/VERB a/DET step/NOUN forward/ADV to/ADP pour/VERB something/PRON with/ADP his/DET right/ADJ armand/NOUN then/ADV his/DET left/NOUN#0.0#0.0
+a person pours things into a vessel with each hand.#a/DET person/NOUN pour/VERB thing/NOUN into/ADP a/DET vessel/NOUN with/ADP each/DET hand/NOUN#0.0#0.0

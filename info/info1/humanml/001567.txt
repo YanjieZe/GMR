@@ -1,0 +1,3 @@
+a person throws their hands outwards then back in front of them.#a/DET person/NOUN throw/VERB their/DET hand/NOUN outward/NOUN then/ADV back/ADV in/ADP front/NOUN of/ADP them/PRON#0.0#0.0
+a person stretches their elbows behind them.#a/DET person/NOUN stretch/VERB their/DET elbow/NOUN behind/ADP them/PRON#0.0#0.0
+this person looks like he’s just moving his arms a little bit.#this/DET person/NOUN look/VERB like/SCONJ he/PRON just/ADV move/VERB his/DET arm/NOUN a/DET little/ADJ bit/NOUN#0.0#0.0

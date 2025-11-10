@@ -1,0 +1,3 @@
+a person looks at their right bicep as they flex it.#a/DET person/NOUN look/VERB at/ADP their/DET right/ADJ bicep/NOUN as/SCONJ they/PRON flex/VERB it/PRON#0.0#0.0
+a man does a bicep curl with his right arm then internally and externally rotates the arm.#a/DET man/NOUN does/AUX a/DET bicep/NOUN curl/NOUN with/ADP his/DET right/ADJ arm/NOUN then/ADV internally/ADV and/CCONJ externally/ADV rotate/VERB the/DET arm/NOUN#0.0#0.0
+a person raises their hand from their thigh to shoulder height, and then moves it left and right.#a/DET person/NOUN raise/VERB their/DET hand/NOUN from/ADP their/DET thigh/NOUN to/ADP shoulder/NOUN height/NOUN and/CCONJ then/ADV move/VERB it/PRON left/VERB and/CCONJ right/INTJ#0.0#0.0

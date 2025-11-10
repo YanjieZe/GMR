@@ -1,0 +1,3 @@
+a person walks forward and then looks like they walk up some stairs#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ then/ADV look/VERB like/SCONJ they/PRON walk/VERB up/ADP some/DET stair/NOUN#0.0#0.0
+someone walking forward then going upstairs#someone/PRON walk/VERB forward/ADV then/ADV go/VERB upstairs/ADV#0.0#0.0
+a person walks slowly forward then takes several steps upwards as if walking up stairs.#a/DET person/NOUN walk/VERB slowly/ADV forward/ADV then/ADV take/VERB several/ADJ step/NOUN upwards/ADV as/SCONJ if/SCONJ walk/VERB up/ADP stair/NOUN#0.0#0.0

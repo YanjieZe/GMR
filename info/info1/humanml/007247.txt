@@ -1,0 +1,3 @@
+a person is looking all over.#a/DET person/NOUN is/AUX look/VERB all/ADV over/ADV#0.0#0.0
+a person is twisting and turning to the right, leans more left, twists and turns even more to the right, and then twists and turns back to the front.#a/DET person/NOUN is/AUX twist/VERB and/CCONJ turn/VERB to/ADP the/DET right/NOUN lean/VERB more/ADV left/ADJ twist/NOUN and/CCONJ turn/VERB even/ADV more/ADJ to/ADP the/DET right/NOUN and/CCONJ then/ADV twist/VERB and/CCONJ turn/VERB back/ADV to/ADP the/DET front/NOUN#0.0#0.0
+a person looking to the left turns to the right looking over their shoulder.#a/DET person/NOUN look/VERB to/ADP the/DET left/NOUN turn/VERB to/ADP the/DET right/NOUN look/VERB over/ADP their/DET shoulder/NOUN#0.0#0.0

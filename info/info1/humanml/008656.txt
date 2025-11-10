@@ -1,0 +1,3 @@
+a man turn round and walks to other side and turn to the left.#a/DET man/NOUN turn/VERB round/ADV and/CCONJ walk/VERB to/ADP other/ADJ side/NOUN and/CCONJ turn/VERB to/ADP the/DET left/NOUN#0.0#0.0
+this person steps back, turns left, walks back as if a little confused.#this/DET person/NOUN step/VERB back/ADV turn/VERB left/VERB walk/VERB back/ADV as/SCONJ if/SCONJ a/DET little/ADJ confused/ADJ#0.0#0.0
+a person turns around, walks up a ramp, turns back around, and stops.#a/DET person/NOUN turn/VERB around/ADV walk/VERB up/ADP a/DET ramp/NOUN turn/VERB back/ADV around/ADV and/CCONJ stop/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person grabbed something with hands and start to play on it#a/DET person/NOUN grab/VERB something/PRON with/ADP hand/NOUN and/CCONJ start/VERB to/PART play/VERB on/ADP it/PRON#0.0#0.0
+person getures as if they are playing a guitar.#person/NOUN geture/VERB as/SCONJ if/SCONJ they/PRON are/AUX play/VERB a/DET guitar/NOUN#0.0#0.0
+a person is using their right arm up and down in front of their body, and holding something with their left arm, as if playing a guitar.#a/DET person/NOUN is/AUX use/VERB their/DET right/ADJ arm/NOUN up/ADV and/CCONJ down/ADP in/ADP front/NOUN of/ADP their/DET body/NOUN and/CCONJ hold/VERB something/PRON with/ADP their/DET left/ADJ arm/NOUN as/SCONJ if/SCONJ play/VERB a/DET guitar/NOUN#0.0#0.0

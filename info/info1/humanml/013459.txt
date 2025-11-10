@@ -1,0 +1,3 @@
+a person puts his hands together then puts them down again#a/DET person/NOUN put/VERB his/DET hand/NOUN together/ADV then/ADV put/VERB them/PRON down/ADP again/ADV#0.0#0.0
+a person raises their arms in front of them at shoulder hight with elbows to the sides.#a/DET person/NOUN raise/VERB their/DET arm/NOUN in/ADP front/NOUN of/ADP them/PRON at/ADP shoulder/NOUN hight/NOUN with/ADP elbow/NOUN to/ADP the/DET side/NOUN#0.0#0.0
+a person is standing, raises his hands and lowers them again#a/DET person/NOUN is/AUX stand/VERB raise/VERB his/DET hand/NOUN and/CCONJ lower/VERB them/PRON again/ADV#0.0#0.0

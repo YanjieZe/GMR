@@ -1,0 +1,3 @@
+a person is swinging both legs and arms.#a/DET person/NOUN is/AUX swinge/VERB both/DET leg/NOUN and/CCONJ arm/NOUN#0.0#0.0
+a person alternates steps between their left leg and right leg while also raising their arms in the same way.#a/DET person/NOUN alternate/VERB step/NOUN between/ADP their/DET left/ADJ leg/NOUN and/CCONJ right/ADJ leg/NOUN while/SCONJ also/ADV raise/VERB their/DET arm/NOUN in/ADP the/DET same/ADJ way/NOUN#0.0#0.0
+a person is running in place, then stops and starts doing leg curls.#a/DET person/NOUN is/AUX run/VERB in/ADP place/NOUN then/ADV stop/VERB and/CCONJ start/VERB do/VERB leg/NOUN curl/NOUN#0.0#0.0

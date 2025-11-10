@@ -1,0 +1,3 @@
+the person does a cool dance#the/DET person/NOUN does/AUX a/DET cool/ADJ dance/NOUN#0.0#0.0
+a person dances in place, kicking backwards.#a/DET person/NOUN dance/VERB in/ADP place/NOUN kick/VERB backwards/ADV#0.0#0.0
+a person leans forward and kicks backwards several times alternating feet, and also swings arms forward alternating#a/DET person/NOUN lean/VERB forward/ADV and/CCONJ kick/VERB backwards/ADP several/ADJ time/NOUN alternate/VERB foot/NOUN and/CCONJ also/ADV swing/VERB arm/NOUN forward/ADV alternate/VERB#0.0#0.0

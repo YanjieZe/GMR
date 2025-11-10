@@ -1,0 +1,3 @@
+a person sits eating sandwich with both hands.#a/DET person/NOUN sit/VERB eat/VERB sandwich/NOUN with/ADP both/DET hand/NOUN#0.0#0.0
+an animal squats down holding his prey ready to have a meal.#an/DET animal/NOUN squat/VERB down/ADP hold/VERB his/DET prey/NOUN ready/ADJ to/PART have/AUX a/DET meal/NOUN#0.0#0.0
+person is in a seating position and moved slowly towards the right turning head#person/NOUN is/AUX in/ADP a/DET seating/NOUN position/NOUN and/CCONJ move/VERB slowly/ADV towards/ADP the/DET right/ADJ turn/VERB head/NOUN#0.0#0.0

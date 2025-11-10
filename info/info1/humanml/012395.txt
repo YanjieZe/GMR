@@ -1,0 +1,3 @@
+a person is waving with his right hand then stops#a/DET person/NOUN is/AUX wave/VERB with/ADP his/DET right/ADJ hand/NOUN then/ADV stop/VERB#0.0#0.0
+a person waves his right hand.#a/DET person/NOUN wave/VERB his/DET right/ADJ hand/NOUN#0.0#0.0
+a person waves with their roght hand.#a/DET person/NOUN wave/VERB with/ADP their/DET roght/ADJ hand/NOUN#0.0#0.0

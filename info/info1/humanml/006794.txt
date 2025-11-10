@@ -1,0 +1,3 @@
+a person standing up and swaying#a/DET person/NOUN stand/VERB up/ADP and/CCONJ sway/VERB#0.0#0.0
+a person swings gently. a person swings with more force towards the right.#a/DET person/NOUN swing/VERB gently/ADV a/DET person/NOUN swing/VERB with/ADP more/ADJ force/NOUN towards/ADP the/DET right/NOUN#0.0#0.0
+person stands still swaying in wind slightly side to side#person/NOUN stand/VERB still/ADV sway/VERB in/ADP wind/NOUN slightly/ADV side/VERB to/PART side/VERB#0.0#0.0

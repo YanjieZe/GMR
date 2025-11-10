@@ -1,0 +1,3 @@
+the toon is standing still, raising their right arm in front of their chest.#the/DET toon/NOUN is/AUX stand/VERB still/ADV raise/VERB their/DET right/ADJ arm/NOUN in/ADP front/NOUN of/ADP their/DET chest/NOUN#0.0#2.0
+moving hand forward while standing still.#move/VERB hand/NOUN forward/ADV while/SCONJ stand/VERB still/ADV#0.0#0.0
+a person raises their right arm straight in front of them, then lowers their back to their side.#a/DET person/NOUN raise/VERB their/DET right/ADJ arm/NOUN straight/ADV in/ADP front/NOUN of/ADP them/PRON then/ADV lower/VERB their/DET back/NOUN to/ADP their/DET side/NOUN#0.0#0.0

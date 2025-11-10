@@ -1,0 +1,3 @@
+a person claps his hands in front of his chest.#a/DET person/NOUN clap/VERB his/DET hand/NOUN in/ADP front/NOUN of/ADP his/DET chest/NOUN#0.0#0.0
+stick figure is making a clapping motion#stick/PROPN figure/NOUN is/AUX make/VERB a/DET clapping/NOUN motion/NOUN#1.0#4.0
+a person slowly claps sarcastically#a/DET person/NOUN slowly/ADV clap/NOUN sarcastically/ADV#0.0#0.0

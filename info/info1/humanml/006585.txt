@@ -1,0 +1,3 @@
+a person walks up and down steps in a square pattern.#a/DET person/NOUN walk/VERB up/ADV and/CCONJ down/ADP step/NOUN in/ADP a/DET square/ADJ pattern/NOUN#0.0#0.0
+person steps upward, turns to their right and steps downwards, then proceeds to walk backwards.#person/NOUN step/VERB upward/ADV turn/VERB to/ADP their/DET right/NOUN and/CCONJ step/NOUN downwards/ADV then/ADV proceed/VERB to/PART walk/VERB backwards/ADV#0.0#0.0
+a person going up an elevated surface then descending an eleveated surface#a/DET person/NOUN go/VERB up/ADP an/DET elevated/ADJ surface/NOUN then/ADV descend/VERB an/DET eleveated/ADJ surface/NOUN#0.0#0.0

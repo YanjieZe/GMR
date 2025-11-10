@@ -1,0 +1,3 @@
+the person took a diagonal step forward and then just stood still.#the/DET person/NOUN take/VERB a/DET diagonal/ADJ step/NOUN forward/ADV and/CCONJ then/ADV just/ADV stand/VERB still/ADV#0.0#0.0
+a person takes two diagonal steps forward and to the right, then leans forward, then leans to the right side.#a/DET person/NOUN take/VERB two/NUM diagonal/ADJ step/NOUN forward/ADV and/CCONJ to/ADP the/DET right/NOUN then/ADV lean/VERB forward/ADV then/ADV lean/VERB to/ADP the/DET right/ADJ side/NOUN#0.0#0.0
+a person walks forwards then stares down.#a/DET person/NOUN walk/VERB forward/NOUN then/ADV stare/NOUN down/ADP#0.0#0.0

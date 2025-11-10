@@ -1,0 +1,3 @@
+a man lays down on his stomach and seems to be making paddling motions like he's swimming.#a/DET man/NOUN lay/VERB down/ADP on/ADP his/DET stomach/NOUN and/CCONJ seem/VERB to/PART be/AUX make/VERB paddle/VERB motion/NOUN like/SCONJ he/PRON swimming/NOUN#0.0#0.0
+acts out a swimming motion, both hands flipping back and forth while rest of body imitates those actions.#act/VERB out/ADP a/DET swimming/NOUN motion/NOUN both/DET hand/NOUN flip/VERB back/ADV and/CCONJ forth/ADV while/SCONJ rest/NOUN of/ADP body/NOUN imitate/VERB those/DET action/NOUN#0.0#0.0
+a man lays down and starts swimming.#a/DET man/NOUN lay/VERB down/ADP and/CCONJ start/VERB swimming/NOUN#0.0#0.0

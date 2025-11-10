@@ -1,0 +1,3 @@
+a person appears to setting things on shelfs in front of them#a/DET person/NOUN appear/VERB to/ADP set/VERB thing/NOUN on/ADP shelfs/PROPN in/ADP front/NOUN of/ADP them/PRON#0.0#0.0
+stick figure uses both hands to reach in front, then reaches to the left, then reaches to the right twice#stick/PROPN figure/NOUN use/VERB both/DET hand/NOUN to/PART reach/VERB in/ADP front/NOUN then/ADV reach/VERB to/ADP the/DET left/NOUN then/ADV reach/VERB to/ADP the/DET right/NOUN twice/ADV#0.0#0.0
+a person puts both arms forward then to his sides.#a/DET person/NOUN put/VERB both/DET arm/NOUN forward/ADV then/ADV to/ADP his/DET side/NOUN#0.0#0.0

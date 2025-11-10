@@ -1,0 +1,3 @@
+person is doing it right for hand hit .#person/NOUN is/AUX do/VERB it/PRON right/ADJ for/ADP hand/NOUN hit/NOUN#0.0#0.0
+a person swings around his right arm.#a/DET person/NOUN swing/VERB around/ADP his/DET right/ADJ arm/NOUN#0.0#0.0
+a person plays tennis with someone.#a/DET person/NOUN play/VERB tennis/NOUN with/ADP someone/PRON#0.0#0.0

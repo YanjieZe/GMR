@@ -1,0 +1,3 @@
+a person steps down some stairs.#a/DET person/NOUN step/VERB down/ADP some/DET stair/NOUN#0.0#0.0
+a man walking forward aggressively#a/DET man/NOUN walk/VERB forward/ADV aggressively/ADV#0.0#3.0
+a person stumbles forward, then regains their balance.#a/DET person/NOUN stumble/VERB forward/ADV then/ADV regain/VERB their/DET balance/NOUN#0.0#0.0

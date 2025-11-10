@@ -1,0 +1,3 @@
+a person looks at an object in their hand and touches it with their other hand.#a/DET person/NOUN look/VERB at/ADP an/DET object/NOUN in/ADP their/DET hand/NOUN and/CCONJ touch/VERB it/PRON with/ADP their/DET other/ADJ hand/NOUN#0.0#0.0
+a person grabs something a makes a chopping motion.#a/DET person/NOUN grab/VERB something/PRON a/DET make/VERB a/DET chopping/ADJ motion/NOUN#0.0#0.0
+this person walk forward move something and then step back.#this/DET person/NOUN walk/VERB forward/ADV move/VERB something/PRON and/CCONJ then/ADV step/VERB back/ADV#0.0#0.0

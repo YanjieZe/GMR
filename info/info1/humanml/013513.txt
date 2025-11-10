@@ -1,0 +1,3 @@
+a man walks in a circle then lays down and then gets back up and starts walking again.#a/DET man/NOUN walk/VERB in/ADP a/DET circle/NOUN then/ADV lay/VERB down/ADV and/CCONJ then/ADV get/VERB back/ADV up/ADV and/CCONJ start/VERB walk/VERB again/ADV#0.0#0.0
+a person walks angrily in a clockwise circle before lying down#a/DET person/NOUN walk/VERB angrily/ADV in/ADP a/DET clockwise/NOUN circle/NOUN before/ADP lie/VERB down/ADP#0.0#0.0
+a person walks in a circle and then lays down.#a/DET person/NOUN walk/VERB in/ADP a/DET circle/NOUN and/CCONJ then/ADV lay/VERB down/ADP#0.0#0.0

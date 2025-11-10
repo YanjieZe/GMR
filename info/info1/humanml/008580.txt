@@ -1,0 +1,3 @@
+a man walks forward, opens a door, then steps back.#a/DET man/NOUN walk/VERB forward/ADV open/VERB a/DET door/NOUN then/ADV step/VERB back/ADV#0.0#0.0
+the person walk forward and it’s mixing something in a bowl.#the/DET person/NOUN walk/VERB forward/ADV and/CCONJ it/PRON mix/VERB something/PRON in/ADP a/DET bowl/NOUN#0.0#0.0
+a person walking forward, grabbing something, then returning to original position.#a/DET person/NOUN walk/VERB forward/ADV grab/VERB something/PRON then/ADV return/VERB to/ADP original/ADJ position/NOUN#0.0#0.0

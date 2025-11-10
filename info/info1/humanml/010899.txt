@@ -1,0 +1,3 @@
+a man leans forward and brushes something with his right hand.#a/DET man/NOUN lean/VERB forward/ADV and/CCONJ brush/VERB something/PRON with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+a person makes circular motions with their right hand as if wiping something in front of them.#a/DET person/NOUN make/VERB circular/ADJ motion/NOUN with/ADP their/DET right/ADJ hand/NOUN as/SCONJ if/SCONJ wipe/VERB something/PRON in/ADP front/NOUN of/ADP them/PRON#0.0#0.0
+the person leans over something, making a circular wiping motion with their right hand.#the/DET person/NOUN lean/VERB over/ADP something/PRON make/VERB a/DET circular/ADJ wiping/ADJ motion/NOUN with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0

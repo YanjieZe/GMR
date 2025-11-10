@@ -1,0 +1,3 @@
+the person takes a shot with the shotgun#the/DET person/NOUN take/VERB a/DET shot/NOUN with/ADP the/DET shotgun/NOUN#0.0#0.0
+a man holds an object with his right hand with left hand on top and then puts his hands back down.#a/DET man/NOUN hold/VERB an/DET object/NOUN with/ADP his/DET right/ADJ hand/NOUN with/ADP left/ADJ hand/NOUN on/ADP top/NOUN and/CCONJ then/ADV put/VERB his/DET hand/NOUN back/ADV down/ADV#0.0#0.0
+a man pushes his left hand toward his right, then brings both arms up to shoulder height as though aiming a gun.#a/DET man/NOUN push/VERB his/DET left/ADJ hand/NOUN toward/ADP his/DET right/NOUN then/ADV bring/VERB both/DET arm/NOUN up/ADV to/ADP shoulder/NOUN height/NOUN as/SCONJ though/SCONJ aim/VERB a/DET gun/NOUN#0.0#0.0

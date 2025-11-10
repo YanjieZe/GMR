@@ -1,0 +1,3 @@
+a person walks back and forth, extending out their left and right arm before turning around to repeat.#a/DET person/NOUN walk/VERB back/ADV and/CCONJ forth/ADV extend/VERB out/ADP their/DET left/ADJ and/CCONJ right/ADJ arm/NOUN before/ADP turn/VERB around/ADP to/PART repeat/VERB#0.0#0.0
+a man who is dancing#a/DET man/NOUN who/PRON is/AUX dance/VERB#0.0#0.0
+a man twosteps left then right and left again then two steps forward#a/DET man/NOUN twosteps/PROPN left/VERB then/ADV right/ADV and/CCONJ left/VERB again/ADV then/ADV two/NUM step/NOUN forward/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+moving hands in a circular motion.#move/VERB hand/NOUN in/ADP a/DET circular/ADJ motion/NOUN#0.0#0.0
+a person raises and lowers their arms at their sides, and then circles them in front of themself.#a/DET person/NOUN raise/VERB and/CCONJ lower/VERB their/DET arm/NOUN at/ADP their/DET side/NOUN and/CCONJ then/ADV circle/VERB them/PRON in/ADP front/NOUN of/ADP themself/PRON#0.0#0.0
+the man has his arms straight out then drops them into circle motions.#the/DET man/NOUN has/AUX his/DET arm/NOUN straight/ADV out/ADV then/ADV drop/VERB them/PRON into/ADP circle/NOUN motion/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks while making a sweeping left turn.#a/DET person/NOUN walk/VERB while/SCONJ make/VERB a/DET sweeping/ADJ left/ADJ turn/NOUN#0.0#0.0
+someone walks straight forward then takes a sharp left and continues onward.#someone/PRON walk/VERB straight/ADV forward/ADV then/ADV take/VERB a/DET sharp/ADJ left/NOUN and/CCONJ continue/VERB onward/ADV#0.0#0.0
+a man walks down then turns right to keep on walking.#a/DET man/NOUN walk/VERB down/ADP then/ADV turn/VERB right/ADJ to/PART keep/VERB on/ADP walk/VERB#0.0#0.0

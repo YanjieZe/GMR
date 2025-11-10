@@ -1,0 +1,3 @@
+a person walks forward and raises their arms in victory.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ raise/VERB their/DET arm/NOUN in/ADP victory/NOUN#0.0#0.0
+a figure walks with their hands in the air.#a/DET figure/NOUN walk/VERB with/ADP their/DET hand/NOUN in/ADP the/DET air/NOUN#0.0#0.0
+a person walks over a beam#a/DET person/NOUN walk/VERB over/ADP a/DET beam/NOUN#0.0#0.0

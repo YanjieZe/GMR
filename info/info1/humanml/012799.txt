@@ -1,0 +1,3 @@
+a person is shooting a basketball with both hands.#a/DET person/NOUN is/AUX shoot/VERB a/DET basketball/NOUN with/ADP both/DET hand/NOUN#0.0#0.0
+a person throw something wth both hands#a/DET person/NOUN throw/VERB something/PRON wth/NOUN both/DET hand/NOUN#0.0#0.0
+a person who seems to take a free throw shot#a/DET person/NOUN who/PRON seem/VERB to/PART take/VERB a/DET free/ADJ throw/NOUN shot/NOUN#0.0#0.0

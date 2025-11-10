@@ -1,0 +1,3 @@
+the person is turning on the shower with her left arm.#the/DET person/NOUN is/AUX turn/VERB on/ADP the/DET shower/NOUN with/ADP her/DET left/ADJ arm/NOUN#0.0#0.0
+person picks something up with right then left hand then hovers right hand in front of body#person/NOUN pick/VERB something/PRON up/ADP with/ADP right/ADV then/ADV left/VERB hand/NOUN then/ADV hover/VERB right/ADJ hand/NOUN in/ADP front/NOUN of/ADP body/NOUN#0.0#0.0
+the man is showering his left arm#the/DET man/NOUN is/AUX shower/VERB his/DET left/ADJ arm/NOUN#0.0#0.0

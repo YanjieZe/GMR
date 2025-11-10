@@ -1,0 +1,3 @@
+a person paces from right to left and then back to their origin.#a/DET person/NOUN pace/VERB from/ADP right/NOUN to/ADP left/VERB and/CCONJ then/ADV back/ADV to/ADP their/DET origin/NOUN#0.0#0.0
+the guy was walking back and forth.#the/DET guy/NOUN was/AUX walk/VERB back/ADV and/CCONJ forth/ADV#0.0#0.0
+a person paces back and forth walking#a/DET person/NOUN pace/VERB back/ADV and/CCONJ forth/ADV walk/VERB#0.0#0.0

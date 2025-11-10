@@ -1,0 +1,3 @@
+person is reaching down.#person/NOUN is/AUX reach/VERB down/ADP#0.0#0.0
+a person starts with arms outstretched then places them on thighs for a few seconds then stretches back out.#a/DET person/NOUN start/VERB with/ADP arm/NOUN outstretche/VERB then/ADV place/VERB them/PRON on/ADP thigh/NOUN for/ADP a/DET few/ADJ second/NOUN then/ADV stretch/VERB back/ADV out/ADV#0.0#0.0
+a person moves from standing with arms outstretched to side and legs shoulder length apart, puts hands on hips and returns to original position.#a/DET person/NOUN move/VERB from/ADP stand/VERB with/ADP arm/NOUN outstretche/VERB to/PART side/VERB and/CCONJ leg/NOUN shoulder/NOUN length/NOUN apart/ADV put/VERB hand/NOUN on/ADP hip/NOUN and/CCONJ return/NOUN to/ADP original/ADJ position/NOUN#0.0#10.0

@@ -1,0 +1,3 @@
+a person pauses briefly then casually walks downward in a straight line, and stands in a relaxed pose.#a/DET person/NOUN pause/VERB briefly/ADV then/ADV casually/ADV walk/VERB downward/ADV in/ADP a/DET straight/ADJ line/NOUN and/CCONJ stand/VERB in/ADP a/DET relaxed/ADJ pose/NOUN#0.0#0.0
+a person casually takes a few steps forward before stopping.#a/DET person/NOUN casually/ADV take/VERB a/DET few/ADJ step/NOUN forward/ADV before/ADP stop/VERB#0.0#0.0
+a man takes 5 steps in a forward direction#a/DET man/NOUN take/VERB step/NOUN in/ADP a/DET forward/ADJ direction/NOUN#0.0#0.0

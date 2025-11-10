@@ -1,0 +1,3 @@
+a man walks in a slow clockwise circle, though he turns sharply to his right before the circle is complete, then turns again sharply to his left before stopping.#a/DET man/NOUN walk/VERB in/ADP a/DET slow/ADJ clockwise/NOUN circle/NOUN though/SCONJ he/PRON turn/VERB sharply/ADV to/ADP his/DET right/NOUN before/ADP the/DET circle/NOUN is/AUX complete/ADJ then/ADV turn/VERB again/ADV sharply/ADV to/ADP his/DET left/NOUN before/ADP stop/VERB#0.0#0.0
+a person slowaly walked forward and made a circle#a/DET person/NOUN slowaly/PROPN walk/VERB forward/ADV and/CCONJ make/VERB a/DET circle/NOUN#0.0#0.0
+a person is walking around the room.#a/DET person/NOUN is/AUX walk/VERB around/ADP the/DET room/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+he read a newspaper while squatting.#he/PRON read/VERB a/DET newspaper/NOUN while/SCONJ squat/VERB#0.0#0.0
+a person sits down and is trembling.#a/DET person/NOUN sit/VERB down/ADV and/CCONJ is/AUX tremble/VERB#0.0#0.0
+a person is bending their knee and trying to lift something off the ground#a/DET person/NOUN is/AUX bend/VERB their/DET knee/NOUN and/CCONJ try/VERB to/PART lift/VERB something/PRON off/ADP the/DET ground/NOUN#0.0#0.0

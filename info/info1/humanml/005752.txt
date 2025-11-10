@@ -1,0 +1,3 @@
+a person walks casually forward.#a/DET person/NOUN walk/VERB casually/ADV forward/ADV#0.0#0.0
+a person walks forward a few steps, moving slightly to the left, not quite in a straight line.#a/DET person/NOUN walk/VERB forward/ADV a/DET few/ADJ step/NOUN move/VERB slightly/ADV to/ADP the/DET left/NOUN not/PART quite/ADV in/ADP a/DET straight/ADJ line/NOUN#0.0#0.0
+a person walks forward at a normal pace.#a/DET person/NOUN walk/VERB forward/ADV at/ADP a/DET normal/ADJ pace/NOUN#0.0#0.0

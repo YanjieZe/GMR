@@ -1,0 +1,3 @@
+a person is walking like a mummy.#a/DET person/NOUN is/AUX walk/VERB like/SCONJ a/DET mummy/NOUN#0.0#0.0
+a person walks forward with both arms in front.#a/DET person/NOUN walk/VERB forward/ADV with/ADP both/DET arm/NOUN in/ADP front/NOUN#0.0#0.0
+a person walks forward just like a mummy#a/DET person/NOUN walk/VERB forward/ADV just/ADV like/SCONJ a/DET mummy/NOUN#0.0#0.0

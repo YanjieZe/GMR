@@ -1,0 +1,3 @@
+person is standing and does a left kick#person/NOUN is/AUX stand/VERB and/CCONJ does/AUX a/DET left/ADJ kick/NOUN#0.0#0.0
+a person lifts their left foot, shakes it, lowers it.#a/DET person/NOUN lift/VERB their/DET left/ADJ foot/NOUN shake/VERB it/PRON lower/VERB it/PRON#0.0#0.0
+a person leans to their right, then makes a small forward kick with their left leg.#a/DET person/NOUN lean/VERB to/ADP their/DET right/NOUN then/ADV make/VERB a/DET small/ADJ forward/ADJ kick/NOUN with/ADP their/DET left/ADJ leg/NOUN#0.0#0.0

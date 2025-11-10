@@ -1,0 +1,3 @@
+a person takes half a step forward and lifts both arms in a defensive stance, and then returns to a regular standing position.#a/DET person/NOUN take/VERB half/DET a/DET step/NOUN forward/ADV and/CCONJ lift/VERB both/DET arm/NOUN in/ADP a/DET defensive/ADJ stance/NOUN and/CCONJ then/ADV return/VERB to/ADP a/DET regular/ADJ standing/NOUN position/NOUN#0.0#0.0
+the person is saluting to someone.#the/DET person/NOUN is/AUX salute/VERB to/ADP someone/PRON#0.0#0.0
+walk forward with hands by face.#walk/VERB forward/ADV with/ADP hand/NOUN by/ADP face/NOUN#0.0#0.0

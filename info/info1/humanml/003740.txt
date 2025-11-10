@@ -1,0 +1,3 @@
+a person irregularly walks backwards, turns around, then continues in the opposite direction.#a/DET person/NOUN irregularly/ADV walk/VERB backwards/ADV turn/VERB around/ADV then/ADV continue/VERB in/ADP the/DET opposite/ADJ direction/NOUN#0.0#0.0
+stumbling backs a few steps, turned around taking more steps.#stumble/VERB back/VERB a/DET few/ADJ step/NOUN turn/VERB around/ADP take/VERB more/ADJ step/NOUN#0.0#0.0
+a person is pushed backwards and then turns around, with caution.#a/DET person/NOUN is/AUX push/VERB backwards/ADV and/CCONJ then/ADV turn/VERB around/ADP with/ADP caution/NOUN#0.0#0.0

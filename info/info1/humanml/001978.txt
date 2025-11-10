@@ -1,0 +1,3 @@
+a figure standing walks forward right foot first then left then right then left then right before coming to a standstill#a/DET figure/NOUN standing/NOUN walk/VERB forward/ADV right/ADJ foot/NOUN first/ADV then/ADV left/VERB then/ADV right/ADV then/ADV left/VERB then/ADV right/ADV before/ADP come/VERB to/ADP a/DET standstill/NOUN#0.0#0.0
+person walked straight from one side to the next.#person/NOUN walk/VERB straight/ADV from/ADP one/NUM side/NOUN to/ADP the/DET next/ADJ#0.0#0.0
+a person walks straight ahead then stops.#a/DET person/NOUN walk/VERB straight/ADV ahead/ADV then/ADV stop/VERB#0.0#0.0

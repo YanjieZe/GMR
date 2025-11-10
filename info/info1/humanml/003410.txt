@@ -1,0 +1,3 @@
+a person receives an impact on their right shoulder and stumbles backwards.#a/DET person/NOUN receive/VERB an/DET impact/NOUN on/ADP their/DET right/ADJ shoulder/NOUN and/CCONJ stumble/NOUN backwards/ADV#0.0#3.0
+a person that has tripped backwards but not fallen#a/DET person/NOUN that/DET has/AUX trip/VERB backwards/ADV but/CCONJ not/PART fall/VERB#0.0#0.0
+a person loses balance and trips backwards to the left.#a/DET person/NOUN lose/VERB balance/NOUN and/CCONJ trip/VERB backwards/ADV to/ADP the/DET left/NOUN#0.0#0.0

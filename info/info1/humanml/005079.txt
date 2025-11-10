@@ -1,0 +1,3 @@
+man lightly jumps from one side to the other#man/NOUN lightly/ADV jump/VERB from/ADP one/NUM side/NOUN to/ADP the/DET other/ADJ#0.0#0.0
+a person continually jumps from one foot to the other.#a/DET person/NOUN continually/ADV jump/VERB from/ADP one/NUM foot/NOUN to/ADP the/DET other/ADJ#3.0#6.0
+the person hops back and forth on each foot and moves their hands around.#the/DET person/NOUN hop/VERB back/ADV and/CCONJ forth/ADV on/ADP each/DET foot/NOUN and/CCONJ move/VERB their/DET hand/NOUN around/ADV#0.0#0.0

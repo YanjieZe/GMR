@@ -1,0 +1,3 @@
+a mans standing starts moving left arm then right, jumps up and moves legs.#a/DET mans/PROPN stand/VERB start/NOUN move/VERB left/ADJ arm/NOUN then/ADV right/INTJ jump/VERB up/ADP and/CCONJ move/VERB leg/NOUN#0.0#0.0
+a person does the wave with their arms, then jumps up and kicks at the ground.#a/DET person/NOUN does/AUX the/DET wave/NOUN with/ADP their/DET arm/NOUN then/ADV jump/VERB up/ADP and/CCONJ kick/NOUN at/ADP the/DET ground/NOUN#0.0#0.0
+a person is seen dancing and jumping using arms and legs#a/DET person/NOUN is/AUX see/VERB dance/VERB and/CCONJ jump/VERB use/VERB arm/NOUN and/CCONJ leg/NOUN#0.0#0.0

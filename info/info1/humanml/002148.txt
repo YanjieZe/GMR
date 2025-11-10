@@ -1,0 +1,3 @@
+a person walks in an arc#a/DET person/NOUN walk/VERB in/ADP an/DET arc/NOUN#0.0#0.0
+a person walks in a wide counter-clockwise one-half oval, with his/her arms bent slightly at the elbow and held mostly stationary, ending by facing the original starting position.#a/DET person/NOUN walk/VERB in/ADP a/DET wide/ADJ counterclockwise/NOUN onehalf/ADJ oval/NOUN with/ADP his/DET her/DET arm/NOUN bend/VERB slightly/ADV at/ADP the/DET elbow/NOUN and/CCONJ hold/VERB mostly/ADV stationary/ADJ end/VERB by/ADP face/VERB the/DET original/ADJ starting/NOUN position/NOUN#0.0#0.0
+a person walks slowly and comes to a stop.#a/DET person/NOUN walk/VERB slowly/ADV and/CCONJ come/VERB to/ADP a/DET stop/NOUN#0.0#0.0

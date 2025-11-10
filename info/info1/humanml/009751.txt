@@ -1,0 +1,3 @@
+a person hops a couple of times, steps backwards and hops again.#a/DET person/NOUN hop/VERB a/DET couple/NOUN of/ADP time/NOUN step/NOUN backwards/ADV and/CCONJ hop/VERB again/ADV#0.0#0.0
+the man jumps and walks backwards#the/DET man/NOUN jump/VERB and/CCONJ walk/VERB backwards/ADV#0.0#0.0
+a person jumps, moves around, and then jumps again.#a/DET person/NOUN jump/VERB move/VERB around/ADP and/CCONJ then/ADV jump/VERB again/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks forward. they swing both of their arms out, then swing their right arm out.#a/DET person/NOUN walk/VERB forward/ADV they/PRON swing/VERB both/DET of/ADP their/DET arm/NOUN out/ADV then/ADV swing/VERB their/DET right/ADJ arm/NOUN out/ADP#0.0#0.0
+a person recites a story whilst walking forward.#a/DET person/NOUN recite/VERB a/DET story/NOUN whilst/SCONJ walk/VERB forward/ADV#0.0#0.0
+walking and talking with hand gestures#walk/VERB and/CCONJ talk/VERB with/ADP hand/NOUN gesture/NOUN#0.0#0.0

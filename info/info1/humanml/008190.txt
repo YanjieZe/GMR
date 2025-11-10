@@ -1,0 +1,3 @@
+a person is dragging a something heavy around in a clock-wise circle.#a/DET person/NOUN is/AUX drag/VERB a/DET something/PRON heavy/ADJ around/ADV in/ADP a/DET clockwise/ADJ circle/NOUN#0.0#0.0
+walking to the side with arms near chest.#walk/VERB to/ADP the/DET side/NOUN with/ADP arm/NOUN near/SCONJ chest/NOUN#0.0#0.0
+a person is walking in a circle clockwise whilst pulling something with both hands#a/DET person/NOUN is/AUX walk/VERB in/ADP a/DET circle/NOUN clockwise/NOUN whilst/SCONJ pull/VERB something/PRON with/ADP both/DET hand/NOUN#0.0#0.0

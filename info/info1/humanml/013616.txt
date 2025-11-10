@@ -1,0 +1,3 @@
+a person stretches arms and walks while touching wall.#a/DET person/NOUN stretch/VERB arm/NOUN and/CCONJ walk/VERB while/SCONJ touch/VERB wall/NOUN#0.0#0.0
+a man walks forwards while holding a handrail.#a/DET man/NOUN walk/VERB forwards/ADV while/SCONJ hold/VERB a/DET handrail/NOUN#0.0#0.0
+the person holds on to the handrail while walking#the/DET person/NOUN hold/VERB on/ADP to/ADP the/DET handrail/NOUN while/SCONJ walk/VERB#0.0#0.0

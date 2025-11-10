@@ -1,0 +1,3 @@
+walking forward puts red leg quickly behind then back and walking forward then half way turns to turn aorund#walk/VERB forward/ADV put/VERB red/ADJ leg/NOUN quickly/ADV behind/ADV then/ADV back/ADV and/CCONJ walk/VERB forward/ADV then/ADV half/ADJ way/NOUN turn/VERB to/PART turn/VERB aorund/ADV#0.0#0.0
+a person walks slowly with their back hunched slightly, and they look uncomfortable.#a/DET person/NOUN walk/VERB slowly/ADV with/ADP their/DET back/NOUN hunch/VERB slightly/ADV and/CCONJ they/PRON look/VERB uncomfortable/ADJ#0.0#0.0
+a person walks slowly as if they are injured.#a/DET person/NOUN walk/VERB slowly/ADV as/SCONJ if/SCONJ they/PRON are/AUX injure/VERB#0.0#0.0

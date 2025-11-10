@@ -1,0 +1,3 @@
+a person takes several steps backward.#a/DET person/NOUN take/VERB several/ADJ step/NOUN backward/ADJ#0.0#0.0
+a man steps back slowly.#a/DET man/NOUN step/VERB back/ADV slowly/ADV#0.0#0.0
+a person walks backward up stairs#a/DET person/NOUN walk/VERB backward/ADV up/ADP stair/NOUN#0.0#0.0

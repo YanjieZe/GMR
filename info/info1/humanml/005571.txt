@@ -1,0 +1,3 @@
+the person is throwing a javelin.#the/DET person/NOUN is/AUX throw/VERB a/DET javelin/NOUN#0.0#0.0
+person takes a few steps forward and throws something with right arm twice#person/NOUN take/VERB a/DET few/ADJ step/NOUN forward/ADV and/CCONJ throw/VERB something/PRON with/ADP right/ADJ arm/NOUN twice/ADV#0.0#0.0
+the person moves their right hand in a throwing motion three times.#the/DET person/NOUN move/VERB their/DET right/ADJ hand/NOUN in/ADP a/DET throwing/NOUN motion/NOUN three/NUM time/NOUN#0.0#0.0

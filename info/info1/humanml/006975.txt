@@ -1,0 +1,3 @@
+walks forward, lifts object, turns around, trips#walk/VERB forward/ADV lift/NOUN object/NOUN turn/VERB around/ADV trip/NOUN#0.0#0.0
+a man walks forward,  opens a box on the ground, then walks away, losing balance.#a/DET man/NOUN walk/VERB forward/ADV open/VERB a/DET box/NOUN on/ADP the/DET ground/NOUN then/ADV walk/VERB away/ADV lose/VERB balance/NOUN#0.0#0.0
+a person walks forward and kneels down, stands up again, turns around and walks forward and stumbles#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ kneel/VERB down/ADP stand/VERB up/ADP again/ADV turn/VERB around/ADV and/CCONJ walk/VERB forward/ADV and/CCONJ stumble/NOUN#0.0#0.0

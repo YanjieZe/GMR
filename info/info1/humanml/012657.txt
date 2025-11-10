@@ -1,0 +1,3 @@
+kick left leg step back#kick/VERB left/ADJ leg/NOUN step/NOUN back/ADV#0.0#0.0
+the person steps forward and uses the left leg to kick something forward.#the/DET person/NOUN step/VERB forward/ADV and/CCONJ use/VERB the/DET left/ADJ leg/NOUN to/PART kick/VERB something/PRON forward/ADV#0.0#0.0
+a person who is standing with his hands by his sides steps forward with his right foot, kicks out with his left foot and then steps back to his original position.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP his/DET hand/NOUN by/ADP his/DET side/NOUN step/VERB forward/ADV with/ADP his/DET right/ADJ foot/NOUN kick/VERB out/ADP with/ADP his/DET left/ADJ foot/NOUN and/CCONJ then/ADV step/VERB back/ADV to/ADP his/DET original/ADJ position/NOUN#0.0#0.0

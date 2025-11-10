@@ -1,0 +1,3 @@
+a person uses both hands to wash his face and hair#a/DET person/NOUN use/VERB both/DET hand/NOUN to/PART wash/VERB his/DET face/NOUN and/CCONJ hair/NOUN#0.0#0.0
+the person is drying off his right arm.#the/DET person/NOUN is/AUX dry/VERB off/ADP his/DET right/ADJ arm/NOUN#0.0#0.0
+the person is counting their money#the/DET person/NOUN is/AUX count/VERB their/DET money/NOUN#0.0#0.0

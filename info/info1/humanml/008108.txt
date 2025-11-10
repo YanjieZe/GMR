@@ -1,0 +1,3 @@
+a person weaves back and forth as the jog.#a/DET person/NOUN weave/VERB back/ADV and/CCONJ forth/ADV as/SCONJ the/DET jog/NOUN#0.0#0.0
+a person runs to their right then the left then back to their original position.#a/DET person/NOUN run/VERB to/ADP their/DET right/NOUN then/ADV the/DET left/NOUN then/ADV back/ADV to/ADP their/DET original/ADJ position/NOUN#0.0#0.0
+a man runs right and the left multiple times.#a/DET man/NOUN run/VERB right/ADJ and/CCONJ the/DET left/ADJ multiple/ADJ time/NOUN#0.0#0.0

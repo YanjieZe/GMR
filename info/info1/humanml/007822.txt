@@ -1,0 +1,3 @@
+a person jumps from side to side left to right.#a/DET person/NOUN jump/VERB from/ADP side/NOUN to/PART side/NOUN left/ADV to/ADP right/ADJ#0.0#0.0
+a figure training for side to side speed, quite effectively.#a/DET figure/NOUN training/NOUN for/ADP side/NOUN to/PART side/VERB speed/NOUN quite/ADV effectively/ADV#0.0#10.0
+the sim takes a cross sideways step before crouching a bit sliding back and forth accross the plane.#the/DET sim/PROPN take/VERB a/DET cross/NOUN sideway/NOUN step/NOUN before/ADP crouch/VERB a/DET bit/NOUN slide/VERB back/ADV and/CCONJ forth/ADV accross/ADP the/DET plane/NOUN#0.0#10.0

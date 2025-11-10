@@ -1,0 +1,3 @@
+a person is swaying from left to right and then takes one step forward#a/DET person/NOUN is/AUX sway/VERB from/ADP left/VERB to/ADP right/NOUN and/CCONJ then/ADV take/VERB one/NUM step/NOUN forward/ADV#0.0#0.0
+this person is leaning towards his right and left.#this/DET person/NOUN is/AUX lean/VERB towards/ADP his/DET right/NOUN and/CCONJ left/VERB#0.0#0.0
+the person is leaning to the right and to the left.#the/DET person/NOUN is/AUX lean/VERB to/ADP the/DET right/NOUN and/CCONJ to/ADP the/DET left/NOUN#0.0#0.0

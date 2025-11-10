@@ -1,0 +1,3 @@
+a person walks a path that bends left.#a/DET person/NOUN walk/VERB a/DET path/NOUN that/DET bend/VERB left/VERB#0.0#0.0
+the person walks towards the viewer before veering off to the visual right and stopping, as if looking out a window.#the/DET person/NOUN walk/VERB towards/ADP the/DET viewer/NOUN before/ADP veer/VERB off/ADP to/ADP the/DET visual/ADJ right/NOUN and/CCONJ stop/VERB as/SCONJ if/SCONJ look/VERB out/ADP a/DET window/NOUN#0.0#0.0
+a person takes four steps moving to his left and stops.#a/DET person/NOUN take/VERB four/NUM step/NOUN move/VERB to/ADP his/DET left/NOUN and/CCONJ stop/NOUN#0.0#0.0

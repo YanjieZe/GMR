@@ -1,0 +1,3 @@
+a person sat in a seat repeatedly turns a steering wheel quickly.#a/DET person/NOUN sit/VERB in/ADP a/DET seat/NOUN repeatedly/ADV turn/VERB a/DET steering/NOUN wheel/NOUN quickly/ADV#0.0#0.0
+a sitting person gestures with both hands in front of them.#a/DET sit/VERB person/NOUN gesture/VERB with/ADP both/DET hand/NOUN in/ADP front/NOUN of/ADP them/PRON#0.0#0.0
+the person is trying to balance while sitting down..#the/DET person/NOUN is/AUX try/VERB to/PART balance/VERB while/SCONJ sit/VERB down/ADV#0.0#0.0

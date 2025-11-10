@@ -1,0 +1,3 @@
+a person turns around and looks to the left.#a/DET person/NOUN turn/VERB around/ADP and/CCONJ look/VERB to/ADP the/DET left/NOUN#0.0#0.0
+a person is wavering a bit, then turns around.#a/DET person/NOUN is/AUX waver/VERB a/DET bit/NOUN then/ADV turn/VERB around/ADV#0.0#0.0
+a person looks to the right then turns left to take a look left.#a/DET person/NOUN look/VERB to/ADP the/DET right/NOUN then/ADV turn/VERB left/VERB to/PART take/VERB a/DET look/NOUN left/VERB#0.0#0.0

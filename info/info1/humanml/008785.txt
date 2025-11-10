@@ -1,0 +1,3 @@
+a person walks forward, bends at the waist, picks up an object in bother hands and throws ti#a/DET person/NOUN walk/VERB forward/ADV bend/NOUN at/ADP the/DET waist/NOUN pick/VERB up/ADP an/DET object/NOUN in/ADP bother/NOUN hand/NOUN and/CCONJ throw/NOUN ti/ADP#0.0#0.0
+a person walks to the right, the bends down, then throws something.#a/DET person/NOUN walk/VERB to/ADP the/DET right/NOUN the/DET bend/NOUN down/ADP then/ADV throw/VERB something/PRON#0.0#0.0
+a person bends over to pick something up and throws it.#a/DET person/NOUN bend/VERB over/ADP to/PART pick/VERB something/PRON up/ADP and/CCONJ throw/VERB it/PRON#0.0#0.0

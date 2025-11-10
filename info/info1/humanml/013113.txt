@@ -1,0 +1,3 @@
+the person walks forward and turns and walks back to their original position.#the/DET person/NOUN walk/VERB forward/ADV and/CCONJ turn/VERB and/CCONJ walk/VERB back/ADV to/ADP their/DET original/ADJ position/NOUN#0.0#0.0
+a person walks forward, pivots on his left foot, and then walks back.#a/DET person/NOUN walk/VERB forward/ADV pivot/NOUN on/ADP his/DET left/ADJ foot/NOUN and/CCONJ then/ADV walk/VERB back/ADV#0.0#0.0
+coming front and turn back and wake on front.#come/VERB front/ADV and/CCONJ turn/VERB back/ADV and/CCONJ wake/VERB on/ADP front/NOUN#0.0#0.0

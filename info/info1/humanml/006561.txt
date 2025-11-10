@@ -1,0 +1,3 @@
+a person takes four steps forward.#a/DET person/NOUN take/VERB four/NUM step/NOUN forward/ADV#0.0#0.0
+a person walks forward and stops.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ stop/NOUN#0.0#0.0
+a person walks forward with both arms at their side and stops.#a/DET person/NOUN walk/VERB forward/ADV with/ADP both/DET arm/NOUN at/ADP their/DET side/NOUN and/CCONJ stop/NOUN#0.0#0.0

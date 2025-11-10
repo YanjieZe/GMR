@@ -1,0 +1,3 @@
+a person walks forward while twisting their torso side to side.#a/DET person/NOUN walk/VERB forward/ADV while/SCONJ twist/VERB their/DET torso/NOUN side/NOUN to/PART side/VERB#0.0#0.0
+walking while swinging both arms from left to right#walk/VERB while/SCONJ swinge/VERB both/DET arm/NOUN from/ADP left/VERB to/ADP right/ADJ#0.0#0.0
+a man walks forward while swinging his shoulders from side to side.#a/DET man/NOUN walk/VERB forward/ADV while/SCONJ swinge/VERB his/DET shoulder/NOUN from/ADP side/NOUN to/ADP side/NOUN#0.0#0.0

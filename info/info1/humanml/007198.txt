@@ -1,0 +1,3 @@
+person sits down putting arms on arm rests then stands back up#person/NOUN sit/VERB down/ADP put/VERB arm/NOUN on/ADP arm/NOUN rest/NOUN then/ADV stand/VERB back/ADV up/ADV#0.0#0.0
+a person carefully sits down backwards#a/DET person/NOUN carefully/ADV sit/VERB down/ADP backwards/ADV#0.0#0.0
+a person adjusts their stance to prepare to seat themselves. a person then sits down using both hands as foundation. a person then immediately stands up.#a/DET person/NOUN adjust/VERB their/DET stance/NOUN to/PART prepare/VERB to/PART seat/VERB themselves/PRON a/DET person/NOUN then/ADV sit/VERB down/ADP use/VERB both/DET hand/NOUN as/SCONJ foundation/NOUN a/DET person/NOUN then/ADV immediately/ADV stand/VERB up/ADP#0.0#0.0

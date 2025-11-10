@@ -1,0 +1,3 @@
+a man is curling weights with one in each hand.#a/DET man/NOUN is/AUX curl/VERB weight/NOUN with/ADP one/NUM in/ADP each/DET hand/NOUN#0.0#0.0
+a figure repeatedly curls both arms upward from waist to chest.#a/DET figure/NOUN repeatedly/ADV curl/VERB both/DET arm/NOUN upward/ADV from/ADP waist/NOUN to/ADP chest/NOUN#0.0#0.0
+a person stands still lifting their forearms as if lifting weights.#a/DET person/NOUN stand/VERB still/ADV lift/VERB their/DET forearm/NOUN as/SCONJ if/SCONJ lift/VERB weight/NOUN#0.0#0.0

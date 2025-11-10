@@ -1,0 +1,3 @@
+person is playing a brass instrument#person/NOUN is/AUX play/VERB a/DET brass/NOUN instrument/NOUN#0.0#5.0
+a person stayed on the place grabbed something and leaned it near to face#a/DET person/NOUN stay/VERB on/ADP the/DET place/NOUN grab/VERB something/PRON and/CCONJ lean/VERB it/PRON near/ADJ to/PART face/VERB#0.0#0.0
+the person brings both hands up to face holding something, then adjusts it with their right hand.#the/DET person/NOUN bring/VERB both/DET hand/NOUN up/ADP to/PART face/VERB hold/VERB something/PRON then/ADV adjust/VERB it/PRON with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0

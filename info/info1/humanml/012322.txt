@@ -1,0 +1,3 @@
+a person jumps at one place with both legs.#a/DET person/NOUN jump/VERB at/ADP one/NUM place/NOUN with/ADP both/DET leg/NOUN#0.0#0.0
+a person jumps on the spot.#a/DET person/NOUN jump/VERB on/ADP the/DET spot/NOUN#0.0#0.0
+a man jumps with arms loosely at his side.#a/DET man/NOUN jump/VERB with/ADP arm/NOUN loosely/ADV at/ADP his/DET side/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+person repeatedly moves left and right hand towards face.#person/NOUN repeatedly/ADV move/VERB left/VERB and/CCONJ right/ADJ hand/NOUN towards/ADP face/NOUN#0.0#0.0
+a person moving hands near face.#a/DET person/NOUN move/VERB hand/NOUN near/SCONJ face/NOUN#0.0#0.0
+a person is holding, examining and gently rubbing something.#a/DET person/NOUN is/AUX hold/VERB examine/VERB and/CCONJ gently/ADV rub/VERB something/PRON#0.0#0.0

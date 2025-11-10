@@ -1,0 +1,3 @@
+a person warms up and then starts jumping rope.#a/DET person/NOUN warm/VERB up/ADV and/CCONJ then/ADV start/VERB jump/VERB rope/NOUN#0.0#0.0
+the motion in the video is of someone jumping rope. the person steps forward first and then continues to start jumping rope#the/DET motion/NOUN in/ADP the/DET video/NOUN is/AUX of/ADP someone/PRON jump/VERB rope/NOUN the/DET person/NOUN step/VERB forward/ADV first/ADV and/CCONJ then/ADV continue/VERB to/PART start/VERB jump/VERB rope/NOUN#0.0#0.0
+a man getting ready to start jumroping with both hands and hopping up and down over the rope.#a/DET man/NOUN get/VERB ready/ADJ to/PART start/VERB jumrope/VERB with/ADP both/DET hand/NOUN and/CCONJ hop/VERB up/ADP and/CCONJ down/ADP over/ADP the/DET rope/NOUN#0.0#0.0

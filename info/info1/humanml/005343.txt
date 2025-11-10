@@ -1,0 +1,3 @@
+a person lifts an object up to his face using his right arm#a/DET person/NOUN lift/VERB an/DET object/NOUN up/ADP to/ADP his/DET face/NOUN use/VERB his/DET right/ADJ arm/NOUN#0.0#0.0
+the man scratches his head then looks at his hands.#the/DET man/NOUN scratch/VERB his/DET head/NOUN then/ADV look/VERB at/ADP his/DET hand/NOUN#0.0#0.0
+a person holds an object up to their ear#a/DET person/NOUN hold/VERB an/DET object/NOUN up/ADP to/ADP their/DET ear/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person raises their arms and zombie walks forward.#a/DET person/NOUN raise/VERB their/DET arm/NOUN and/CCONJ zombie/NOUN walk/VERB forward/ADV#0.0#0.0
+a mummy faces forward holding his arms straight in front of him and starts wobbling back in forth to move.#a/DET mummy/ADJ face/VERB forward/ADV hold/VERB his/DET arm/NOUN straight/ADV in/ADP front/NOUN of/ADP him/PRON and/CCONJ start/VERB wobble/VERB back/ADV in/ADP forth/ADV to/PART move/VERB#0.0#0.0
+a person raises both arms then staggers forward slowly with arms raised#a/DET person/NOUN raise/VERB both/DET arm/NOUN then/ADV stagger/VERB forward/ADV slowly/ADV with/ADP arm/NOUN raise/VERB#0.0#0.0

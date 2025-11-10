@@ -1,0 +1,3 @@
+the man is moving his hands#the/DET man/NOUN is/AUX move/VERB his/DET hand/NOUN#0.0#0.0
+the person is doing wrist exercises.#the/DET person/NOUN is/AUX do/VERB wrist/NOUN exercise/NOUN#0.0#0.0
+the person is demonstrating range of motion#the/DET person/NOUN is/AUX demonstrate/VERB range/NOUN of/ADP motion/NOUN#0.0#0.0

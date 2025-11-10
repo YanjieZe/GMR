@@ -1,0 +1,3 @@
+person swings arms from side to side and then shakes them up and down as if acting like a monkey#person/NOUN swing/VERB arm/NOUN from/ADP side/NOUN to/ADP side/NOUN and/CCONJ then/ADV shake/VERB them/PRON up/ADP and/CCONJ down/ADP as/ADV if/SCONJ act/VERB like/SCONJ a/DET monkey/NOUN#3.0#7.0
+a person acts out monkey movements.#a/DET person/NOUN act/VERB out/ADP monkey/NOUN movement/NOUN#0.0#0.0
+a person relaxes their arms and swings them around, hunched over.#a/DET person/NOUN relax/VERB their/DET arm/NOUN and/CCONJ swing/VERB them/PRON around/ADV hunch/VERB over/ADP#0.0#0.0

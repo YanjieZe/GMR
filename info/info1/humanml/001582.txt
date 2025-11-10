@@ -1,0 +1,3 @@
+man vegeta shrugs his arms#man/NOUN vegeta/PROPN shrug/VERB his/DET arm/NOUN#0.0#0.0
+person is tickling themselves standing up.#person/NOUN is/AUX tickle/VERB themselves/PRON stand/VERB up/ADP#0.0#0.0
+a person crosses their arms over one another in front of their body#a/DET person/NOUN cross/VERB their/DET arm/NOUN over/ADP one/NUM another/DET in/ADP front/NOUN of/ADP their/DET body/NOUN#0.0#0.0

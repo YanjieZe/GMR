@@ -1,0 +1,3 @@
+person spins around in a circle with their arms fully extended out to the sides.#person/NOUN spin/VERB around/ADV in/ADP a/DET circle/NOUN with/ADP their/DET arm/NOUN fully/ADV extend/VERB out/ADP to/ADP the/DET side/NOUN#0.0#0.0
+a person putting both arms in a t pose and spinning in circles#a/DET person/NOUN put/VERB both/DET arm/NOUN in/ADP a/DET t/NOUN pose/NOUN and/CCONJ spinning/NOUN in/ADP circle/NOUN#0.0#0.0
+a person spins around in circles while pacing.#a/DET person/NOUN spin/VERB around/ADV in/ADP circle/NOUN while/SCONJ pace/VERB#0.0#0.0

@@ -1,0 +1,3 @@
+a person is walking upstairs and climbing up the stairs.#a/DET person/NOUN is/AUX walk/VERB upstairs/ADV and/CCONJ climb/VERB up/ADP the/DET stair/NOUN#0.0#0.0
+a person reaches out to hold a rail, before climbing stairs#a/DET person/NOUN reach/VERB out/ADP to/PART hold/VERB a/DET rail/NOUN before/ADP climb/VERB stair/NOUN#0.0#0.0
+a person walks up stairs holding handrail with right hand.#a/DET person/NOUN walk/VERB up/ADP stair/NOUN hold/VERB handrail/NOUN with/ADP right/ADJ hand/NOUN#0.0#0.0

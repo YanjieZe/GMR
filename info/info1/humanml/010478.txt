@@ -1,0 +1,3 @@
+man right leg lift, foot turnt right then kicked out repeated again.#man/INTJ right/ADJ leg/NOUN lift/NOUN foot/NOUN turnt/VERB right/ADV then/ADV kick/VERB out/ADP repeat/VERB again/ADV#0.0#0.0
+a person lifts their right leg to stretch and shake it.#a/DET person/NOUN lift/VERB their/DET right/ADJ leg/NOUN to/PART stretch/VERB and/CCONJ shake/VERB it/PRON#0.0#0.0
+the person practices their yoga stance by moving their right leg#the/DET person/NOUN practice/VERB their/DET yoga/NOUN stance/NOUN by/ADP move/VERB their/DET right/ADJ leg/NOUN#0.0#0.0

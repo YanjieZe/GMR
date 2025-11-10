@@ -1,0 +1,3 @@
+the person was drying his right arm.#the/DET person/NOUN was/AUX dry/VERB his/DET right/ADJ arm/NOUN#0.0#0.0
+a person uses their right hand to pick up a sponge, then transfers it to their left and washes a car.#a/DET person/NOUN use/VERB their/DET right/ADJ hand/NOUN to/PART pick/VERB up/ADP a/DET sponge/NOUN then/ADV transfer/VERB it/PRON to/ADP their/DET left/NOUN and/CCONJ wash/VERB a/DET car/NOUN#0.0#0.0
+person lowers arms and picks something up with right hand and moves right hand up and to sides#person/NOUN lower/VERB arm/NOUN and/CCONJ pick/VERB something/PRON up/ADP with/ADP right/ADJ hand/NOUN and/CCONJ move/VERB right/ADJ hand/NOUN up/ADV and/CCONJ to/ADP side/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks across the room.#a/DET person/NOUN walk/VERB across/ADP the/DET room/NOUN#0.0#0.0
+a person walks swinging each arm opposite of their legs. at the end of the path they turn around and repeat walk back.#a/DET person/NOUN walk/VERB swinge/VERB each/DET arm/NOUN opposite/ADV of/ADP their/DET leg/NOUN at/ADP the/DET end/NOUN of/ADP the/DET path/NOUN they/PRON turn/VERB around/ADP and/CCONJ repeat/VERB walk/ADV back/ADV#0.0#0.0
+a person is walking in a straight line back and forth#a/DET person/NOUN is/AUX walk/VERB in/ADP a/DET straight/ADJ line/NOUN back/ADV and/CCONJ forth/ADV#0.0#0.0

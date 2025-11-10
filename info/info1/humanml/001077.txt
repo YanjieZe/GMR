@@ -1,0 +1,3 @@
+this person begins to run forward in a counterclockwise circle, and then, they quickly turn around to run in a clockwise circle.#this/DET person/NOUN begin/VERB to/PART run/VERB forward/ADV in/ADP a/DET counterclockwise/ADJ circle/NOUN and/CCONJ then/ADV they/PRON quickly/ADV turn/VERB around/ADP to/PART run/VERB in/ADP a/DET clockwise/ADJ circle/NOUN#0.0#0.0
+a person runs forward, then turns around to run in a circle.#a/DET person/NOUN run/VERB forward/ADV then/ADV turn/VERB around/ADP to/PART run/VERB in/ADP a/DET circle/NOUN#0.0#0.0
+person is running around in a circle.#person/NOUN is/AUX run/VERB around/ADV in/ADP a/DET circle/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person is standing still with both arms raised to their sides laterally at shoulder level.#a/DET person/NOUN is/AUX stand/VERB still/ADV with/ADP both/DET arm/NOUN raise/VERB to/ADP their/DET side/NOUN laterally/ADV at/ADP shoulder/NOUN level/NOUN#0.0#0.0
+a person raised the both hands#a/DET person/NOUN raise/VERB the/DET both/DET hand/NOUN#0.0#0.0
+person is doing a t pose.#person/NOUN is/AUX do/VERB a/DET t/NOUN pose/NOUN#0.0#0.0

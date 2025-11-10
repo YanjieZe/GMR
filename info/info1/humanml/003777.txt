@@ -1,0 +1,3 @@
+twirling with the arms loosely tuck in while going in a circle.#twirl/VERB with/ADP the/DET arm/NOUN loosely/ADV tuck/VERB in/ADP while/SCONJ go/VERB in/ADP a/DET circle/NOUN#0.0#0.0
+a person is moving in circles and making large movements with their arms.#a/DET person/NOUN is/AUX move/VERB in/ADP circle/NOUN and/CCONJ make/VERB large/ADJ movement/NOUN with/ADP their/DET arm/NOUN#0.0#0.0
+a person sways and dances around a small area, with a twirl toward the end.#a/DET person/NOUN sway/VERB and/CCONJ dance/VERB around/ADP a/DET small/ADJ area/NOUN with/ADP a/DET twirl/NOUN toward/ADP the/DET end/NOUN#0.0#0.0

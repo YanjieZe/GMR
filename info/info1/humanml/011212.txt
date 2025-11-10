@@ -1,0 +1,3 @@
+the person is swimming like a fly.#the/DET person/NOUN is/AUX swim/VERB like/SCONJ a/DET fly/NOUN#0.0#0.0
+a person is floating in the air while waving their arms and kicking their legs as if swimming.#a/DET person/NOUN is/AUX float/VERB in/ADP the/DET air/NOUN while/SCONJ wave/VERB their/DET arm/NOUN and/CCONJ kick/VERB their/DET leg/NOUN as/SCONJ if/SCONJ swimming/NOUN#0.0#0.0
+a person swang the hand, while swimming#a/DET person/NOUN swang/PROPN the/DET hand/NOUN while/SCONJ swim/VERB#0.0#9.0

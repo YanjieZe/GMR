@@ -1,0 +1,3 @@
+person opens drawer and takes something out#person/NOUN open/VERB drawer/NOUN and/CCONJ take/VERB something/PRON out/ADP#0.0#0.0
+he does a displace left to right#he/PRON does/AUX a/DET displace/NOUN left/VERB to/ADP right/ADJ#0.0#0.0
+the person pick something up from the lab them turned it to the right.#the/DET person/NOUN pick/VERB something/PRON up/ADP from/ADP the/DET lab/NOUN them/PRON turn/VERB it/PRON to/ADP the/DET right/NOUN#0.0#0.0

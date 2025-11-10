@@ -1,0 +1,3 @@
+a person walks up some stairs, reaching out for the handrail to pull themselves up the stairs.#a/DET person/NOUN walk/VERB up/ADP some/DET stair/NOUN reach/VERB out/ADP for/ADP the/DET handrail/NOUN to/PART pull/VERB themselves/PRON up/ADP the/DET stair/NOUN#0.0#0.0
+a person is holding something with right arm, and is going up the stairs#a/DET person/NOUN is/AUX hold/VERB something/PRON with/ADP right/ADJ arm/NOUN and/CCONJ is/AUX go/VERB up/ADP the/DET stair/NOUN#0.0#0.0
+walking forward up stairs.#walk/VERB forward/ADV up/ADP stair/NOUN#0.0#0.0

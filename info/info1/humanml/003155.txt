@@ -1,0 +1,3 @@
+someone is clapping their hands#someone/PRON is/AUX clap/VERB their/DET hand/NOUN#0.0#0.0
+a person lifts both arms and claps his hands together and then repeats the action several times.#a/DET person/NOUN lift/VERB both/CCONJ arm/NOUN and/CCONJ clap/VERB his/DET hand/NOUN together/ADV and/CCONJ then/ADV repeat/VERB the/DET action/NOUN several/ADJ time/NOUN#0.0#0.0
+the man begins standing straight. the man than picks up both hands and claps them nine times. the man than places both hands back at his sides.#the/DET man/NOUN begin/VERB stand/VERB straight/ADV the/DET man/NOUN than/SCONJ pick/VERB up/ADP both/DET hand/NOUN and/CCONJ clap/VERB them/PRON nine/NUM time/NOUN the/DET man/NOUN than/SCONJ place/VERB both/DET hand/NOUN back/ADV at/ADP his/DET side/NOUN#0.0#0.0

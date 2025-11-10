@@ -1,0 +1,3 @@
+a figure sneaks down the hall.#a/DET figure/NOUN sneak/VERB down/ADP the/DET hall/NOUN#0.0#0.0
+a person who is walking slowly as if he/she is sneaking#a/DET person/NOUN who/PRON is/AUX walk/VERB slowly/ADV as/SCONJ if/SCONJ he/PRON she/PRON is/AUX sneak/VERB#0.0#0.0
+a person slowly sneaks forward while slightly crouched#a/DET person/NOUN slowly/ADV sneak/VERB forward/ADP while/SCONJ slightly/ADV crouched/ADJ#0.0#0.0

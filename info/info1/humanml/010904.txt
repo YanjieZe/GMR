@@ -1,0 +1,3 @@
+the figure appears to be jumping in a vertical manner reaching for something#the/DET figure/NOUN appear/VERB to/PART be/AUX jump/VERB in/ADP a/DET vertical/ADJ manner/NOUN reach/VERB for/ADP something/PRON#0.0#0.0
+a man lowers his left arm, crouches, then jumps with his left arm up over his head, and repeats this action twice.#a/DET man/NOUN lower/VERB his/DET left/ADJ arm/NOUN crouch/NOUN then/ADV jump/VERB with/ADP his/DET left/ADJ arm/NOUN up/ADP over/ADP his/DET head/NOUN and/CCONJ repeat/VERB this/DET action/NOUN twice/ADV#0.0#0.0
+a man squats and jumps with his right arm raised.#a/DET man/NOUN squat/VERB and/CCONJ jump/VERB with/ADP his/DET right/ADJ arm/NOUN raise/VERB#4.0#5.0

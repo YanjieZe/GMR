@@ -1,0 +1,3 @@
+a person walks forwards and then balances on their left foot as if trying not to fall before continuing to step through with their right foot.#a/DET person/NOUN walk/VERB forwards/ADV and/CCONJ then/ADV balance/VERB on/ADP their/DET left/ADJ foot/NOUN as/SCONJ if/SCONJ try/VERB not/PART to/PART fall/VERB before/ADP continue/VERB to/PART step/VERB through/ADP with/ADP their/DET right/ADJ foot/NOUN#0.0#0.0
+a man steps almost falls stands on one leg the puts other leg down.#a/DET man/NOUN step/VERB almost/ADV fall/VERB stand/VERB on/ADP one/NUM leg/NOUN the/DET put/NOUN other/ADJ leg/NOUN down/ADP#0.0#0.0
+a person trying to avoid something on the floor.#a/DET person/NOUN try/VERB to/PART avoid/VERB something/PRON on/ADP the/DET floor/NOUN#0.0#0.0

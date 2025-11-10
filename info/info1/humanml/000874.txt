@@ -1,0 +1,3 @@
+a person cries into their hands.#a/DET person/NOUN cry/VERB into/ADP their/DET hand/NOUN#0.0#0.0
+a person standing in place holds head with both hands crying, then holds head with right hand and puts left hand on right elbow while being upset.#a/DET person/NOUN stand/VERB in/ADP place/NOUN hold/VERB head/NOUN with/ADP both/DET hand/NOUN cry/VERB then/ADV hold/VERB head/NOUN with/ADP right/ADJ hand/NOUN and/CCONJ put/VERB left/ADJ hand/NOUN on/ADP right/ADJ elbow/NOUN while/SCONJ being/AUX upset/VERB#0.0#0.0
+a figure gently sobbing whole hold both hands to its face#a/DET figure/NOUN gently/ADV sob/VERB whole/ADJ hold/NOUN both/DET hand/NOUN to/ADP its/DET face/NOUN#0.0#0.0

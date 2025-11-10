@@ -1,0 +1,3 @@
+person quickly puts something on the ground as if to catch something and then starts walking backward with the object#person/NOUN quickly/ADV put/VERB something/PRON on/ADP the/DET ground/NOUN as/SCONJ if/SCONJ to/PART catch/VERB something/PRON and/CCONJ then/ADV start/VERB walk/VERB backward/ADV with/ADP the/DET object/NOUN#0.0#0.0
+this person moves forward in a brisk way.#this/DET person/NOUN move/VERB forward/ADV in/ADP a/DET brisk/ADJ way/NOUN#0.0#0.0
+a person pushes and object forward.#a/DET person/NOUN push/VERB and/CCONJ object/VERB forward/ADV#0.0#0.0

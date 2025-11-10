@@ -1,0 +1,3 @@
+the man exercises both arms by bending them repeatedly.#the/DET man/NOUN exercise/VERB both/DET arm/NOUN by/ADP bend/VERB them/PRON repeatedly/ADV#0.0#0.0
+the person is doing arm exercises.#the/DET person/NOUN is/AUX do/VERB arm/NOUN exercise/NOUN#0.0#0.0
+a man thrust his shoulders back-and-forth three times in high position and three times in a low position#a/DET man/NOUN thrust/VERB his/DET shoulder/NOUN backandforth/NOUN three/NUM time/NOUN in/ADP high/ADJ position/NOUN and/CCONJ three/NUM time/NOUN in/ADP a/DET low/ADJ position/NOUN#0.0#5.0

@@ -1,0 +1,3 @@
+a person walks casually forward.#a/DET person/NOUN walk/VERB casually/ADV forward/ADV#0.0#0.0
+a person walks forward slowly.#a/DET person/NOUN walk/VERB forward/ADV slowly/ADV#0.0#0.0
+the person stopped over a big gap in the floor.#the/DET person/NOUN stop/VERB over/ADP a/DET big/ADJ gap/NOUN in/ADP the/DET floor/NOUN#0.0#0.0

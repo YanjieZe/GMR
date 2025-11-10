@@ -1,0 +1,3 @@
+a person jumps in place, walks backward and then forward.#a/DET person/NOUN jump/VERB in/ADP place/NOUN walk/VERB backward/ADV and/CCONJ then/ADV forward/ADV#0.0#0.0
+person moves forward jumps goes back then comes forward again and raises both arms shoulder height#person/NOUN move/VERB forward/ADV jumps/PROPN go/VERB back/ADV then/ADV come/VERB forward/ADV again/ADV and/CCONJ raise/VERB both/DET arm/NOUN shoulder/NOUN height/NOUN#0.0#0.0
+this person jumps high then walks backwards and forward.#this/DET person/NOUN jump/VERB high/ADJ then/ADV walk/VERB backwards/ADV and/CCONJ forward/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+robot was walking forward and turned back stared to run and turned back once again move his hands.#robot/PROPN was/AUX walk/VERB forward/ADV and/CCONJ turn/VERB back/ADV stare/VERB to/PART run/VERB and/CCONJ turn/VERB back/ADV once/ADV again/ADV move/VERB his/DET hand/NOUN#0.0#0.0
+a person walks slightly forward, then turns around and runs backward.#a/DET person/NOUN walk/VERB slightly/ADV forward/ADV then/ADV turn/VERB around/ADP and/CCONJ run/VERB backward/ADV#0.0#0.0
+a person makes small steps foward, turns around, makes quick small steps back, then stops and turns around.#a/DET person/NOUN make/VERB small/ADJ step/NOUN foward/ADJ turn/VERB around/ADV make/VERB quick/ADJ small/ADJ step/NOUN back/ADV then/ADV stop/VERB and/CCONJ turn/VERB around/ADV#0.0#0.0

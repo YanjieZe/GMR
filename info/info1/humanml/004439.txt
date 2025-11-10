@@ -1,0 +1,3 @@
+a person walks from the left hand side to the right hand side in a waving path and then stops while facing towards the right.#a/DET person/NOUN walk/VERB from/ADP the/DET left/ADJ hand/NOUN side/NOUN to/ADP the/DET right/ADJ hand/NOUN side/NOUN in/ADP a/DET wave/VERB path/NOUN and/CCONJ then/ADV stop/VERB while/SCONJ face/VERB towards/ADP the/DET right/NOUN#0.0#0.0
+a person walks in wavy motions.#a/DET person/NOUN walk/VERB in/ADP wavy/PROPN motion/NOUN#0.0#0.0
+a person walks around in an "s" shape.#a/DET person/NOUN walk/VERB around/ADV in/ADP an/DET s/PART shape/NOUN#0.0#0.0

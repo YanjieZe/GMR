@@ -1,0 +1,3 @@
+a person takes a step backwards.#a/DET person/NOUN take/VERB a/DET step/NOUN backwards/ADV#0.0#0.0
+a person takes a small step backwards.#a/DET person/NOUN take/VERB a/DET small/ADJ step/NOUN backwards/ADV#0.0#0.0
+a person is standing still then steps back#a/DET person/NOUN is/AUX stand/VERB still/ADV then/ADV step/VERB back/ADV#0.0#0.0

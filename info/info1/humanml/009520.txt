@@ -1,0 +1,3 @@
+a man moves back and forth in semi-circles with arms moving at his sides.#a/DET man/NOUN move/VERB back/ADV and/CCONJ forth/ADV in/ADP semicircle/NOUN with/ADP arm/NOUN move/VERB at/ADP his/DET side/NOUN#0.0#0.0
+a person walking backwards in a crescent pattern#a/DET person/NOUN walk/VERB backwards/ADV in/ADP a/DET crescent/ADJ pattern/NOUN#0.0#0.0
+a person walks side to side in a half circle path.#a/DET person/NOUN walk/VERB side/NOUN to/PART side/VERB in/ADP a/DET half/ADJ circle/NOUN path/NOUN#0.0#0.0

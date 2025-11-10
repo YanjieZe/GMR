@@ -1,0 +1,3 @@
+a person kicks with their left leg#a/DET person/NOUN kick/VERB with/ADP their/DET left/ADJ leg/NOUN#0.0#0.0
+person is kicking soccer ball.#person/NOUN is/AUX kick/VERB soccer/NOUN ball/NOUN#0.0#0.0
+a person kicks their right leg.#a/DET person/NOUN kick/VERB their/DET right/ADJ leg/NOUN#0.0#0.0

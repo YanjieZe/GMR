@@ -1,0 +1,3 @@
+someone tryiing to fight while moving his body#someone/PRON tryie/VERB to/PART fight/VERB while/SCONJ move/VERB his/DET body/NOUN#0.0#0.0
+a person is kick boxing and holding his arms in front of his chest.#a/DET person/NOUN is/AUX kick/NOUN box/VERB and/CCONJ hold/VERB his/DET arm/NOUN in/ADP front/NOUN of/ADP his/DET chest/NOUN#0.0#0.0
+a man throws a series of karate kicks.#a/DET man/NOUN throw/VERB a/DET series/NOUN of/ADP karate/PROPN kick/NOUN#0.0#0.0

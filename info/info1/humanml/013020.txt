@@ -1,0 +1,3 @@
+a person runs diagonally to the left side and stops#a/DET person/NOUN run/VERB diagonally/ADV to/ADP the/DET left/ADJ side/NOUN and/CCONJ stop/NOUN#0.0#0.0
+a person dashes across a room in defense.#a/DET person/NOUN dash/VERB across/ADP a/DET room/NOUN in/ADP defense/NOUN#0.0#0.0
+a person bends slightly at the knees and strafes forward at an angle with arms out to the side.#a/DET person/NOUN bend/VERB slightly/ADV at/ADP the/DET knee/NOUN and/CCONJ strafe/NOUN forward/ADV at/ADP an/DET angle/NOUN with/ADP arm/NOUN out/SCONJ to/ADP the/DET side/NOUN#0.0#0.0

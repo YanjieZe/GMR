@@ -1,0 +1,3 @@
+a person steps to the left then crouches down and gets back up#a/DET person/NOUN step/VERB to/ADP the/DET left/NOUN then/ADV crouch/VERB down/ADP and/CCONJ get/VERB back/ADV up/ADV#0.0#0.0
+a person crosses their legs and squats down.#a/DET person/NOUN cross/VERB their/DET leg/NOUN and/CCONJ squat/VERB down/ADP#0.0#0.0
+a person walks towards the left before crossing legs and crouching down and standing back up.#a/DET person/NOUN walk/VERB towards/ADP the/DET left/NOUN before/ADP cross/VERB leg/NOUN and/CCONJ crouch/VERB down/ADP and/CCONJ stand/VERB back/ADV up/ADV#0.0#0.0

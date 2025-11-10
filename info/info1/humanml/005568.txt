@@ -1,0 +1,3 @@
+a person is doing some quick warmup stretches/movements for their shoulders, chest, and back, swinging his arms front to back.#a/DET person/NOUN is/AUX do/VERB some/DET quick/ADJ warmup/PROPN stretch/NOUN movement/NOUN for/ADP their/DET shoulder/NOUN chest/NOUN and/CCONJ back/ADV swinge/VERB his/DET arm/NOUN front/NOUN to/ADP back/ADV#0.0#0.0
+a person is moving their arms around stretching.#a/DET person/NOUN is/AUX move/VERB their/DET arm/NOUN around/ADP stretch/VERB#0.0#0.0
+person is warming up chest muscles#person/NOUN is/AUX warm/VERB up/ADP chest/NOUN muscle/NOUN#0.0#0.0

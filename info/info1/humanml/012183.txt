@@ -1,0 +1,3 @@
+a person raises their left up then puts it down#a/DET person/NOUN raise/VERB their/DET left/VERB up/ADP then/ADV put/VERB it/PRON down/ADP#0.0#0.0
+a person grabbed something with hand and lean it near to face#a/DET person/NOUN grab/VERB something/PRON with/ADP hand/NOUN and/CCONJ lean/VERB it/PRON near/ADV to/PART face/VERB#0.0#0.0
+the figure appears to be shielding itself from a bright light, the right and left arms starting with the right trade places when shielding the figure.#the/DET figure/NOUN appear/VERB to/PART be/AUX shield/VERB itself/PRON from/ADP a/DET bright/ADJ light/NOUN the/DET right/ADJ and/CCONJ left/VERB arm/NOUN start/VERB with/ADP the/DET right/ADJ trade/NOUN place/NOUN when/ADV shield/VERB the/DET figure/NOUN#0.0#0.0

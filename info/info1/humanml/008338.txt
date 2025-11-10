@@ -1,0 +1,3 @@
+the man slowly walks forward and then suddenly turned left.#the/DET man/NOUN slowly/ADV walk/VERB forward/ADV and/CCONJ then/ADV suddenly/ADV turn/VERB left/ADV#0.0#0.0
+a person slides foot to the right and then walks in a circle.#a/DET person/NOUN slide/VERB foot/NOUN to/ADP the/DET right/NOUN and/CCONJ then/ADV walk/VERB in/ADP a/DET circle/NOUN#0.0#0.0
+this person shuffles right then walks forward and circles back.#this/DET person/NOUN shuffle/VERB right/ADV then/ADV walk/VERB forward/ADV and/CCONJ circle/VERB back/ADP#0.0#0.0

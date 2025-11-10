@@ -1,0 +1,3 @@
+raising hand then throwing something.#raise/VERB hand/NOUN then/ADV throw/VERB something/PRON#0.0#0.0
+person brings up their right hand before extending it forwards. they then bring both hands up to chest level.#person/NOUN bring/VERB up/ADP their/DET right/ADJ hand/NOUN before/ADP extend/VERB it/PRON forwards/ADV they/PRON then/ADV bring/VERB both/DET hand/NOUN up/ADP to/ADP chest/NOUN level/NOUN#0.0#0.0
+a person aised the right hand and made some jesture#a/DET person/NOUN aise/VERB the/DET right/ADJ hand/NOUN and/CCONJ make/VERB some/DET jesture/NOUN#0.0#0.0

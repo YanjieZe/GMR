@@ -1,0 +1,3 @@
+person runs downwards in a curve while swining his arms#person/NOUN run/VERB downwards/ADV in/ADP a/DET curve/NOUN while/SCONJ swine/VERB his/DET arm/NOUN#nan#0.0
+a person runs forward, initially veering to the left.#a/DET person/NOUN run/VERB forward/ADV initially/ADV veer/VERB to/ADP the/DET left/NOUN#0.0#0.0
+a person is running straight, while leaning to the left#a/DET person/NOUN is/AUX run/VERB straight/ADJ while/SCONJ lean/VERB to/ADP the/DET left/NOUN#0.0#0.0

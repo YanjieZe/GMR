@@ -1,0 +1,3 @@
+a person starts standing with knees slightly bent and arms held out to the side at shoulder level, drops both hands down to the knees and holds them there.#a/DET person/NOUN start/VERB stand/VERB with/ADP knee/NOUN slightly/ADV bent/ADJ and/CCONJ arm/NOUN hold/VERB out/ADP to/ADP the/DET side/NOUN at/ADP shoulder/NOUN level/NOUN drop/VERB both/DET hand/NOUN down/ADP to/ADP the/DET knee/NOUN and/CCONJ hold/VERB them/PRON there/ADV#0.0#0.0
+a man crouches and doesn't move#a/DET man/NOUN crouch/VERB and/CCONJ does/AUX move/VERB#0.0#0.0
+person stands with their knees bent, arms extended and drops hands back to their side#person/NOUN stand/VERB with/ADP their/DET knee/NOUN bent/ADJ arm/NOUN extend/VERB and/CCONJ drop/VERB hand/NOUN back/ADV to/ADP their/DET side/NOUN#0.0#0.0

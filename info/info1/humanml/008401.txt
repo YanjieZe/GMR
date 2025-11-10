@@ -1,0 +1,3 @@
+person squats then rotates a quarter of the way clockwise.#person/NOUN squat/VERB then/ADV rotate/VERB a/DET quarter/NOUN of/ADP the/DET way/NOUN clockwise/NOUN#0.0#1.0
+someone jumps, turns counter-clockwise, and stands straight up.#someone/PRON jump/VERB turn/VERB counterclockwise/NOUN and/CCONJ stand/VERB straight/ADV up/ADV#0.0#0.0
+the man is doing jump handsup#the/DET man/NOUN is/AUX do/VERB jump/NOUN handsup/PROPN#0.0#0.0

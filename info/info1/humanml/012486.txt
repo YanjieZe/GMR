@@ -1,0 +1,3 @@
+after standing a while, the person sidesteps to the right unsteadily.#after/ADP stand/VERB a/DET while/NOUN the/DET person/NOUN sidestep/VERB to/ADP the/DET right/NOUN unsteadily/ADV#0.0#0.0
+the person was pushed by something and slid to the right#the/DET person/NOUN was/AUX push/VERB by/ADP something/PRON and/CCONJ slide/VERB to/ADP the/DET right/NOUN#0.0#0.0
+a person rapidly sidesteps to the right.#a/DET person/NOUN rapidly/ADV sidestep/VERB to/ADP the/DET right/NOUN#0.0#0.0

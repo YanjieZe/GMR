@@ -1,0 +1,3 @@
+person is kicking an athletic ball#person/NOUN is/AUX kick/VERB an/DET athletic/ADJ ball/NOUN#0.0#0.0
+the person kicked something quickly.#the/DET person/NOUN kick/VERB something/PRON quickly/ADV#0.0#0.0
+moving arms around and standing on one leg.#move/VERB arm/NOUN around/ADV and/CCONJ stand/VERB on/ADP one/NUM leg/NOUN#0.0#0.0

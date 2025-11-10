@@ -1,0 +1,3 @@
+the person is going to take a vacation.#the/DET person/NOUN is/AUX go/VERB to/PART take/VERB a/DET vacation/NOUN#0.0#0.0
+a person raising their hand above their head, then rowing to each side, then making opening arms motion.#a/DET person/NOUN raise/VERB their/DET hand/NOUN above/ADP their/DET head/NOUN then/ADV row/VERB to/ADP each/DET side/NOUN then/ADV make/VERB open/VERB arm/NOUN motion/NOUN#0.0#0.0
+a person pauses for a moment then gestures to describe his view while canoeing through the mountains.#a/DET person/NOUN pause/VERB for/ADP a/DET moment/NOUN then/ADV gesture/VERB to/PART describe/VERB his/DET view/NOUN while/SCONJ canoe/VERB through/ADP the/DET mountain/NOUN#0.0#0.0

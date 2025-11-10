@@ -1,0 +1,3 @@
+person walks towards screen, then makes half circle to the right and stops.#person/NOUN walk/VERB towards/ADP screen/NOUN then/ADV make/VERB half/NOUN circle/NOUN to/ADP the/DET right/NOUN and/CCONJ stop/NOUN#0.0#0.0
+a person walks forward, turns right, and then walks some more and stops.#a/DET person/NOUN walk/VERB forward/ADV turn/VERB right/ADJ and/CCONJ then/ADV walk/VERB some/DET more/ADV and/CCONJ stop/NOUN#0.0#0.0
+a person walks forward, turns to their right, and begins to walk forward again.#a/DET person/NOUN walk/VERB forward/ADV turn/VERB to/ADP their/DET right/NOUN and/CCONJ begin/VERB to/PART walk/VERB forward/ADV again/ADV#0.0#0.0

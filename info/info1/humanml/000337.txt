@@ -1,0 +1,3 @@
+a person walks down stairs while holding a railing with his right hand.#a/DET person/NOUN walk/VERB down/ADP stair/NOUN while/SCONJ hold/VERB a/DET railing/NOUN with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+a man with outstretched arms drops them to his side, then start walking and places his right hand on top of two objects as he walks by.#a/DET man/NOUN with/ADP outstretche/VERB arm/NOUN drop/VERB them/PRON to/ADP his/DET side/NOUN then/ADV start/VERB walk/VERB and/CCONJ place/VERB his/DET right/ADJ hand/NOUN on/ADP top/NOUN of/ADP two/NUM object/NOUN as/SCONJ he/PRON walk/VERB by/ADV#0.0#0.0
+person walks forwards and uses their right arm as support#person/NOUN walk/VERB forwards/ADV and/CCONJ use/VERB their/DET right/ADJ arm/NOUN as/SCONJ support/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+the person is sewing something together.#the/DET person/NOUN is/AUX sew/VERB something/PRON together/ADV#0.0#0.0
+person is engaged in sewing motion#person/NOUN is/AUX engage/VERB in/ADP sewing/NOUN motion/NOUN#0.0#0.0
+a person is sewing carefully#a/DET person/NOUN is/AUX sew/VERB carefully/ADV#0.0#0.0

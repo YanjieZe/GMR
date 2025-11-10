@@ -1,0 +1,3 @@
+a man walks forwards for a few seconds.#a/DET man/NOUN walk/VERB forwards/ADJ for/ADP a/DET few/ADJ second/NOUN#0.0#0.0
+a figure walks forward at a normal pace.#a/DET figure/NOUN walk/VERB forward/ADV at/ADP a/DET normal/ADJ pace/NOUN#0.0#0.0
+a man is walking forwards#a/DET man/NOUN is/AUX walk/VERB forwards/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person jumping on the rope, while staying on the same place#a/DET person/NOUN jump/VERB on/ADP the/DET rope/NOUN while/SCONJ stay/VERB on/ADP the/DET same/ADJ place/NOUN#0.0#0.0
+a person is jump roping successfully.#a/DET person/NOUN is/AUX jump/NOUN rope/VERB successfully/ADV#0.0#0.0
+a person is jump roping#a/DET person/NOUN is/AUX jump/NOUN rope/VERB#0.0#0.0

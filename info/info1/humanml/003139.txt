@@ -1,0 +1,3 @@
+someone sits into a full squat, with arms on knees.#someone/PRON sit/VERB into/ADP a/DET full/ADJ squat/NOUN with/ADP arm/NOUN on/ADP knee/NOUN#0.0#0.0
+a person starting at a standing position then into a squat.#a/DET person/NOUN start/VERB at/ADP a/DET stand/VERB position/NOUN then/ADV into/ADP a/DET squat/NOUN#0.0#0.0
+a person lowers into a squatting position and holds this position.#a/DET person/NOUN lower/VERB into/ADP a/DET squat/VERB position/NOUN and/CCONJ hold/VERB this/DET position/NOUN#0.0#0.0

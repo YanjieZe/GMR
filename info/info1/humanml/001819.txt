@@ -1,0 +1,3 @@
+a man sits down cross-legged and stands back up again.#a/DET man/NOUN sit/VERB down/ADV crosslegged/ADJ and/CCONJ stand/VERB back/ADV up/ADV again/ADV#0.0#0.0
+a man bends down, contorting for a moment, before standing again.#a/DET man/NOUN bend/VERB down/ADP contort/VERB for/ADP a/DET moment/NOUN before/ADP stand/VERB again/ADV#0.0#0.0
+a man sits down on the ground and then stands back up.#a/DET man/NOUN sit/VERB down/ADP on/ADP the/DET ground/NOUN and/CCONJ then/ADV stand/VERB back/ADV up/ADV#0.0#0.0

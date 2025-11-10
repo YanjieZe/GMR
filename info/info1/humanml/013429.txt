@@ -1,0 +1,3 @@
+a person swings both arms, like hitting a golf ball.#a/DET person/NOUN swing/VERB both/DET arm/NOUN like/SCONJ hit/VERB a/DET golf/NOUN ball/NOUN#0.0#0.0
+a person demonstrates the general motions of a golfer as he or she tees up and drives the golf ball down the green.#a/DET person/NOUN demonstrate/VERB the/DET general/ADJ motion/NOUN of/ADP a/DET golfer/NOUN as/SCONJ he/PRON or/CCONJ she/PRON tee/VERB up/ADP and/CCONJ drive/VERB the/DET golf/NOUN ball/NOUN down/ADP the/DET green/NOUN#0.0#0.0
+swinging a golf club.#swinge/VERB a/DET golf/NOUN club/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+lift your leg and extend it about hip hieght then place your foot back on thr ground.#lift/VERB your/DET leg/NOUN and/CCONJ extend/VERB it/PRON about/ADP hip/NOUN hieght/INTJ then/ADV place/VERB your/DET foot/NOUN back/ADV on/ADP thr/ADJ ground/NOUN#0.0#0.0
+a person walks up stairs while holding the rail#a/DET person/NOUN walk/VERB up/ADP stair/NOUN while/SCONJ hold/VERB the/DET rail/NOUN#0.0#0.0
+a person walks up stairs, holding the rail with their right hand.#a/DET person/NOUN walk/VERB up/ADP stair/NOUN hold/VERB the/DET rail/NOUN with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0

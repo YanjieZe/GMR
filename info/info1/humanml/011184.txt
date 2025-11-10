@@ -1,0 +1,3 @@
+the person is running forward.#the/DET person/NOUN is/AUX run/VERB forward/ADV#0.0#0.0
+a person quickly jogs forward.#a/DET person/NOUN quickly/ADV jog/VERB forward/ADV#0.0#0.0
+the man does walking run#the/DET man/NOUN does/AUX walk/VERB run/VERB#0.0#0.0

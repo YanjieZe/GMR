@@ -1,0 +1,3 @@
+a person rocking back and forth in suspence.#a/DET person/NOUN rock/VERB back/ADV and/CCONJ forth/ADV in/ADP suspence/NOUN#0.0#0.0
+the person is looking around from left to right.#the/DET person/NOUN is/AUX look/VERB around/ADV from/ADP left/VERB to/ADP right/NOUN#0.0#0.0
+a person sways from left to right minimally, and then their upper body starts to slightly twist from side to side.#a/DET person/NOUN sway/VERB from/ADP left/VERB to/ADP right/ADV minimally/ADV and/CCONJ then/ADV their/DET upper/ADJ body/NOUN start/VERB to/PART slightly/ADV twist/VERB from/ADP side/NOUN to/ADP side/NOUN#0.0#0.0

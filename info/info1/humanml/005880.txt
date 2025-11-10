@@ -1,0 +1,3 @@
+a man walks first to the right backwards then forward to the right while both of its arms are straight up ahead.#a/DET man/NOUN walk/VERB first/ADV to/ADP the/DET right/NOUN backwards/ADV then/ADV forward/ADV to/ADP the/DET right/ADJ while/SCONJ both/DET of/ADP its/DET arm/NOUN are/AUX straight/ADV up/ADV ahead/ADV#0.0#0.0
+a person who seems to be dancing in the style of waltz#a/DET person/NOUN who/PRON seem/VERB to/PART be/AUX dance/VERB in/ADP the/DET style/NOUN of/ADP waltz/PROPN#0.0#0.0
+person is dancing the cha-cha#person/NOUN is/AUX dance/VERB the/DET chacha/NOUN#0.0#0.0

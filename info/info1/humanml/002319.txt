@@ -1,0 +1,3 @@
+a person who waved with there left arm#a/DET person/NOUN who/PRON wave/VERB with/ADP there/ADV left/ADJ arm/NOUN#0.0#0.0
+a person waving with left arm.#a/DET person/NOUN wave/VERB with/ADP left/ADJ arm/NOUN#0.0#0.0
+a person waves with their left hand.#a/DET person/NOUN wave/VERB with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0

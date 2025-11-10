@@ -1,0 +1,3 @@
+a person jumps up and down while moving his legs in and out and holds his arms up over his head and moves them back in forth to match his legs#a/DET person/NOUN jump/VERB up/ADV and/CCONJ down/ADV while/SCONJ move/VERB his/DET leg/NOUN in/ADP and/CCONJ out/ADV and/CCONJ hold/VERB his/DET arm/NOUN up/ADV over/ADP his/DET head/NOUN and/CCONJ move/VERB them/PRON back/ADV in/ADP forth/ADV to/PART match/VERB his/DET leg/NOUN#0.0#0.0
+he is doing jumping jack.#he/PRON is/AUX do/VERB jump/VERB jack/NOUN#0.0#0.0
+a person is doing jumping jacks.#a/DET person/NOUN is/AUX do/VERB jump/VERB jack/NOUN#0.0#0.0

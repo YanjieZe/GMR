@@ -1,0 +1,3 @@
+a person jogs at a consistently moderate pace, with the right arm working in tandem with the left leg, and vice versa.#a/DET person/NOUN jog/VERB at/ADP a/DET consistently/ADV moderate/ADJ pace/NOUN with/ADP the/DET right/ADJ arm/NOUN work/VERB in/ADP tandem/NOUN with/ADP the/DET left/ADJ leg/NOUN and/CCONJ vice/NOUN versa/ADV#0.0#0.0
+a person is jogging at a continuous pace without stopping.#a/DET person/NOUN is/AUX jog/VERB at/ADP a/DET continuous/ADJ pace/NOUN without/ADP stop/VERB#0.0#0.0
+a person lightly jogs in place like they are on a treadmill#a/DET person/NOUN lightly/ADV jog/VERB in/ADP place/NOUN like/SCONJ they/PRON are/AUX on/ADP a/DET treadmill/NOUN#0.0#0.0

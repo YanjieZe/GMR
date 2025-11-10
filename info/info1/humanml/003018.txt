@@ -1,0 +1,3 @@
+a person is standing the brings left and right hand forward.#a/DET person/NOUN is/AUX stand/VERB the/DET bring/NOUN left/VERB and/CCONJ right/ADJ hand/NOUN forward/ADV#0.0#0.0
+a person puts both hands on something and then dips their head into it.#a/DET person/NOUN put/VERB both/DET hand/NOUN on/ADP something/PRON and/CCONJ then/ADV dip/VERB their/DET head/NOUN into/ADP it/PRON#0.0#0.0
+a man raises each hand to his chest then bows his head.#a/DET man/NOUN raise/VERB each/DET hand/NOUN to/ADP his/DET chest/NOUN then/ADV bow/VERB his/DET head/NOUN#0.0#9.0

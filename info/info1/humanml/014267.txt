@@ -1,0 +1,3 @@
+a person runs back and forth while delivering various roundhouse kicks.#a/DET person/NOUN run/VERB back/ADV and/CCONJ forth/ADV while/SCONJ deliver/VERB various/ADJ roundhouse/NOUN kick/NOUN#0.0#0.0
+a person is performing various kicks while moving from one side to the other.#a/DET person/NOUN is/AUX perform/VERB various/ADJ kick/NOUN while/SCONJ move/VERB from/ADP one/NUM side/NOUN to/ADP the/DET other/ADJ#0.0#0.0
+the man is moving very fast kicking the air#the/DET man/NOUN is/AUX move/VERB very/ADV fast/ADV kick/VERB the/DET air/NOUN#0.0#0.0

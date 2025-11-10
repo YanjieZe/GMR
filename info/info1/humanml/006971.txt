@@ -1,0 +1,3 @@
+moving forward and jump on the front side on the floor.#move/VERB forward/ADV and/CCONJ jump/VERB on/ADP the/DET front/ADJ side/NOUN on/ADP the/DET floor/NOUN#0.0#0.0
+a person runs quickly then jumps.#a/DET person/NOUN run/VERB quickly/ADV then/ADV jump/VERB#0.0#0.0
+someone running forward with one leap#someone/PRON run/VERB forward/ADV with/ADP one/NUM leap/NOUN#0.0#0.0

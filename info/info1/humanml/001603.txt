@@ -1,0 +1,3 @@
+a person walks forward then upwards.#a/DET person/NOUN walk/VERB forward/ADV then/ADV upwards/ADV#0.0#0.0
+a person slowly walks forward and then up a flight of stairs#a/DET person/NOUN slowly/ADV walk/VERB forward/ADV and/CCONJ then/ADV up/ADP a/DET flight/NOUN of/ADP stair/NOUN#0.0#0.0
+a person walks forward and suddenly stops moving forward and stay at the same position while moving his feet.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ suddenly/ADV stop/VERB move/VERB forward/ADV and/CCONJ stay/VERB at/ADP the/DET same/ADJ position/NOUN while/SCONJ move/VERB his/DET foot/NOUN#0.0#0.0

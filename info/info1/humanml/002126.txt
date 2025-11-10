@@ -1,0 +1,3 @@
+robot on his keens, stretching his arms then stands up and move backwards.#robot/PROPN on/ADP his/DET keen/NOUN stretch/VERB his/DET arm/NOUN then/ADV stand/VERB up/ADP and/CCONJ move/VERB backwards/ADV#0.0#0.0
+person is getting up.#person/NOUN is/AUX get/VERB up/ADP#0.0#0.0
+the person gets up from being on his knees with his arms out at his size into a standing position.#the/DET person/NOUN get/VERB up/ADV from/ADP being/AUX on/ADP his/DET knee/NOUN with/ADP his/DET arm/NOUN out/ADV at/ADP his/DET size/NOUN into/ADP a/DET standing/ADJ position/NOUN#0.0#0.0

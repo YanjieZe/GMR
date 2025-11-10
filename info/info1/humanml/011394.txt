@@ -1,0 +1,3 @@
+the person is jumping up and down.#the/DET person/NOUN is/AUX jump/VERB up/ADP and/CCONJ down/ADV#0.0#0.0
+person is jumping up and down#person/NOUN is/AUX jump/VERB up/ADP and/CCONJ down/ADP#0.0#0.0
+a man jumps up multiple times.#a/DET man/NOUN jump/VERB up/ADP multiple/ADJ time/NOUN#0.0#0.0

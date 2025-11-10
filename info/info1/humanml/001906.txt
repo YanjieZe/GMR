@@ -1,0 +1,3 @@
+the person was laying  down and then they got up.#the/DET person/NOUN was/AUX lay/VERB down/ADP and/CCONJ then/ADV they/PRON get/VERB up/ADP#0.0#0.0
+the man is laying down and get up#the/DET man/NOUN is/AUX lay/VERB down/ADP and/CCONJ get/AUX up/ADP#0.0#0.0
+start in laying position, then get up.#start/VERB in/ADP lay/VERB position/NOUN then/ADV get/AUX up/ADP#0.0#0.0

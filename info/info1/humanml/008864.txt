@@ -1,0 +1,3 @@
+a person slowly sits down#a/DET person/NOUN slowly/ADV sit/VERB down/ADP#0.0#0.0
+a man sits down on something with his legs spread wide.#a/DET man/NOUN sit/VERB down/ADP on/ADP something/PRON with/ADP his/DET leg/NOUN spread/VERB wide/ADV#0.0#0.0
+a person sits carefully down on a chair.#a/DET person/NOUN sit/VERB carefully/ADV down/ADV on/ADP a/DET chair/NOUN#0.0#0.0

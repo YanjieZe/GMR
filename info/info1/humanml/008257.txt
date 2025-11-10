@@ -1,0 +1,3 @@
+person is clapping at something#person/NOUN is/AUX clap/VERB at/ADP something/PRON#0.0#0.0
+the person graciously claps their hands#the/DET person/NOUN graciously/ADV clap/VERB their/DET hand/NOUN#0.0#0.0
+a person claps their hands together in front of their face.#a/DET person/NOUN clap/VERB their/DET hand/NOUN together/ADV in/ADP front/NOUN of/ADP their/DET face/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person jogs right, left then back to where they started.#a/DET person/NOUN jog/VERB right/ADV left/VERB then/ADV back/ADV to/ADP where/ADV they/PRON start/VERB#0.0#0.0
+a person jogs to the right and then to the left#a/DET person/NOUN jog/VERB to/ADP the/DET right/NOUN and/CCONJ then/ADV to/ADP the/DET left/NOUN#0.0#0.0
+this person jogs right then left and right again.#this/DET person/NOUN jog/VERB right/ADV then/ADV left/VERB and/CCONJ right/ADV again/ADV#0.0#0.0

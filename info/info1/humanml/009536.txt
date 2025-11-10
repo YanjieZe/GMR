@@ -1,0 +1,3 @@
+a person walks forward and then slows down.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ then/ADV slow/VERB down/ADP#0.0#0.0
+a person walks at a moderate pace then takes 1 step slowly.#a/DET person/NOUN walk/VERB at/ADP a/DET moderate/ADJ pace/NOUN then/ADV take/VERB step/NOUN slowly/ADV#0.0#0.0
+a person walks forward slowly.#a/DET person/NOUN walk/VERB forward/ADV slowly/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+person brings arms down and stairs straight ahead#person/NOUN bring/VERB arm/NOUN down/ADP and/CCONJ stair/NOUN straight/ADV ahead/ADV#0.0#0.0
+a person looks down and to their right quickly, then stands up straight.#a/DET person/NOUN look/VERB down/ADP and/CCONJ to/ADP their/DET right/NOUN quickly/ADV then/ADV stand/VERB up/ADP straight/ADV#0.0#0.0
+a man lets his fall to his sides and slumps slightly to take a breath, and remains standing.#a/DET man/NOUN let/VERB his/DET fall/NOUN to/ADP his/DET side/NOUN and/CCONJ slump/VERB slightly/ADV to/PART take/VERB a/DET breath/NOUN and/CCONJ remain/VERB stand/VERB#0.0#0.0

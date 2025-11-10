@@ -1,0 +1,3 @@
+a person doing a spesific moves with legs and hands while doing boxing#a/DET person/NOUN do/VERB a/DET spesific/ADJ move/NOUN with/ADP leg/NOUN and/CCONJ hand/NOUN while/SCONJ do/VERB boxing/NOUN#0.0#10.0
+a person is boxing, throwing various combinations and demonstrating fighting footwork.#a/DET person/NOUN is/AUX box/VERB throw/VERB various/ADJ combination/NOUN and/CCONJ demonstrate/VERB fight/VERB footwork/NOUN#0.0#0.0
+he does boxing then stops#he/PRON does/AUX boxing/NOUN then/ADV stop/VERB#0.0#0.0

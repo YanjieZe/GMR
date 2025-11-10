@@ -1,0 +1,3 @@
+a person picks up an object and places it to their right.#a/DET person/NOUN pick/VERB up/ADP an/DET object/NOUN and/CCONJ place/VERB it/PRON to/ADP their/DET right/NOUN#0.0#0.0
+moving hands side to side.#move/VERB hand/NOUN side/VERB to/PART side/VERB#0.0#0.0
+person raises arms down and move them left pauses for a few moments then returns to original position#person/NOUN raise/VERB arm/NOUN down/ADP and/CCONJ move/VERB them/PRON left/VERB pause/NOUN for/ADP a/DET few/ADJ moment/NOUN then/ADV return/VERB to/ADP original/ADJ position/NOUN#0.0#0.0

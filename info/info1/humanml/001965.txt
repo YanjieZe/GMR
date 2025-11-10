@@ -1,0 +1,3 @@
+he jumps up then stop#he/PRON jump/VERB up/ADP then/ADV stop/VERB#0.0#0.0
+a person jumped once in same place.#a/DET person/NOUN jump/VERB once/ADV in/ADP same/ADJ place/NOUN#0.0#0.0
+a person jumps into the air.#a/DET person/NOUN jump/VERB into/ADP the/DET air/NOUN#0.0#0.0

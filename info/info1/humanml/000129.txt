@@ -1,0 +1,3 @@
+a man stands up, walks clock-wise in a circle, then sits back down.#a/DET man/NOUN stand/VERB up/ADP walk/VERB clockwise/NOUN in/ADP a/DET circle/NOUN then/ADV sit/VERB back/ADV down/ADV#0.0#0.0
+a person stands up from the ground, walks in a clockwise circle, and then sits back on the ground.#a/DET person/NOUN stand/VERB up/ADP from/ADP the/DET ground/NOUN walk/VERB in/ADP a/DET clockwise/NOUN circle/NOUN and/CCONJ then/ADV sit/VERB back/ADV on/ADP the/DET ground/NOUN#0.0#0.0
+person was sitting then got up and walked around in a circle then sat back in the same spot#person/NOUN was/AUX sit/VERB then/ADV get/VERB up/ADP and/CCONJ walk/VERB around/ADV in/ADP a/DET circle/NOUN then/ADV sit/VERB back/ADV in/ADP the/DET same/ADJ spot/NOUN#0.0#0.0

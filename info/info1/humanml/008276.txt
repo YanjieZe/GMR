@@ -1,0 +1,3 @@
+a person who is running#a/DET person/NOUN who/PRON is/AUX run/VERB#0.0#0.0
+a person runs forward fast.#a/DET person/NOUN run/VERB forward/ADV fast/ADV#0.0#0.0
+a person jogging forward whith their arms swinging#a/DET person/NOUN jog/VERB forward/ADV whith/VERB their/DET arm/NOUN swinge/VERB#0.0#0.0

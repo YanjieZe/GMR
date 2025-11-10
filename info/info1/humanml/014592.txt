@@ -1,0 +1,3 @@
+turning around and sitting in a chair.#turn/VERB around/ADV and/CCONJ sit/VERB in/ADP a/DET chair/NOUN#0.0#0.0
+a person sits down on a chair.#a/DET person/NOUN sit/VERB down/ADP on/ADP a/DET chair/NOUN#0.0#0.0
+a person sits down on an object and gets themselves situated.#a/DET person/NOUN sit/VERB down/ADP on/ADP an/DET object/NOUN and/CCONJ get/VERB themselves/PRON situate/VERB#0.0#0.0

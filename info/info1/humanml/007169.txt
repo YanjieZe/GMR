@@ -1,0 +1,3 @@
+a person walks forward while feeling for an object to his left#a/DET person/NOUN walk/VERB forward/ADV while/SCONJ feel/VERB for/ADP an/DET object/NOUN to/ADP his/DET left/NOUN#0.0#0.0
+a figure walks forward using a rail or wall to help it balance#a/DET figure/NOUN walk/VERB forward/ADV use/VERB a/DET rail/NOUN or/CCONJ wall/NOUN to/PART help/VERB it/PRON balance/VERB#0.0#0.0
+a person walks forward, appearing to be holding on to a table or bars.#a/DET person/NOUN walk/VERB forward/ADV appear/VERB to/PART be/AUX hold/VERB on/ADP to/ADP a/DET table/NOUN or/CCONJ bar/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks up the stairs.#a/DET person/NOUN walk/VERB up/ADP the/DET stair/NOUN#0.0#0.0
+a person walks forward and climbs on the stairs.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ climb/NOUN on/ADP the/DET stair/NOUN#0.0#0.0
+a person is walking forward one step, and then appears to walk up 5 steps in the same direction.#a/DET person/NOUN is/AUX walk/VERB forward/ADV one/NUM step/NOUN and/CCONJ then/ADV appear/VERB to/PART walk/VERB up/ADV step/NOUN in/ADP the/DET same/ADJ direction/NOUN#0.0#0.0

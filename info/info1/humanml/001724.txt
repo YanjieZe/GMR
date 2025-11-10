@@ -1,0 +1,3 @@
+a person moves a step to the left side from being pushed.#a/DET person/NOUN move/VERB a/DET step/NOUN to/ADP the/DET left/ADJ side/NOUN from/ADP being/AUX push/VERB#0.0#0.0
+a person standing still in once place is pushed to the right from the left and takes one step before stopping.#a/DET person/NOUN stand/VERB still/ADV in/ADP once/SCONJ place/NOUN is/AUX push/VERB to/ADP the/DET right/NOUN from/ADP the/DET left/NOUN and/CCONJ take/VERB one/NUM step/NOUN before/ADP stop/VERB#0.0#0.0
+a person steps quickly to the left.#a/DET person/NOUN step/VERB quickly/ADV to/ADP the/DET left/NOUN#0.0#0.0

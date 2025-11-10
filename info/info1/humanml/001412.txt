@@ -1,0 +1,3 @@
+a person jumps in the air and turns 90 degrees to the left.#a/DET person/NOUN jump/VERB in/ADP the/DET air/NOUN and/CCONJ turn/VERB degree/NOUN to/ADP the/DET left/NOUN#0.0#0.0
+a man jumps up and turns to the left.#a/DET man/NOUN jump/VERB up/ADP and/CCONJ turn/VERB to/ADP the/DET left/NOUN#0.0#0.0
+a person jumps and turns to the left#a/DET person/NOUN jump/VERB and/CCONJ turn/VERB to/ADP the/DET left/NOUN#0.0#0.0

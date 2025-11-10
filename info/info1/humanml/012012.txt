@@ -1,0 +1,3 @@
+the person is walking very fast around in a circle.#the/DET person/NOUN is/AUX walk/VERB very/ADV fast/ADV around/ADV in/ADP a/DET circle/NOUN#0.0#0.0
+a person walks in a circular motion quickly#a/DET person/NOUN walk/VERB in/ADP a/DET circular/ADJ motion/NOUN quickly/ADV#0.0#0.0
+a person walks briskly in clockwise circles.#a/DET person/NOUN walk/VERB briskly/ADV in/ADP clockwise/ADJ circle/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person who is poised to run, jogs a few steps forward, then pivots to his left and jogs five more steps.#a/DET person/NOUN who/PRON is/AUX poise/VERB to/PART run/VERB jog/VERB a/DET few/ADJ step/NOUN forward/ADV then/ADV pivot/NOUN to/ADP his/DET left/NOUN and/CCONJ jog/VERB five/NUM more/ADJ step/NOUN#0.0#0.0
+a person runs forward and then suddenly cuts right and keeps running.#a/DET person/NOUN run/VERB forward/ADV and/CCONJ then/ADV suddenly/ADV cut/VERB right/ADV and/CCONJ keep/VERB run/VERB#0.0#0.0
+a person runs forward, jukes to the right, then runs diagonally right.#a/DET person/NOUN run/VERB forward/ADV jukes/PROPN to/ADP the/DET right/NOUN then/ADV run/VERB diagonally/ADV right/ADV#0.0#0.0

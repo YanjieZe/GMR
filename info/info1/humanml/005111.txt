@@ -1,0 +1,3 @@
+this person moves his left arm as if to wipe a surface.#this/DET person/NOUN move/VERB his/DET left/ADJ arm/NOUN as/SCONJ if/SCONJ to/PART wipe/VERB a/DET surface/NOUN#0.0#0.0
+the man swirls something in front of him with his left hand.#the/DET man/NOUN swirls/PROPN something/PRON in/ADP front/NOUN of/ADP him/PRON with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0
+a person makes a clockwise wiping pattern with their left arm and hand, as if they were wiping a table or counter.#a/DET person/NOUN make/VERB a/DET clockwise/NOUN wipe/VERB pattern/NOUN with/ADP their/DET left/ADJ arm/NOUN and/CCONJ hand/NOUN as/SCONJ if/SCONJ they/PRON were/AUX wipe/VERB a/DET table/NOUN or/CCONJ counter/NOUN#0.0#0.0

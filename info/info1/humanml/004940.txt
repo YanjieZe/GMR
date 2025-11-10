@@ -1,0 +1,3 @@
+person puts both hands clasped together stomach height then puts both hands bent onto sides  of their body#person/NOUN put/VERB both/DET hand/NOUN clasp/VERB together/ADV stomach/NOUN height/NOUN then/ADV put/VERB both/DET hand/NOUN bent/ADJ onto/ADP side/NOUN of/ADP their/DET body/NOUN#0.0#0.0
+a person standing still holds their hands together out front, and then places both hands on their hips.#a/DET person/NOUN stand/VERB still/ADV hold/VERB their/DET hand/NOUN together/ADV out/SCONJ front/NOUN and/CCONJ then/ADV place/VERB both/DET hand/NOUN on/ADP their/DET hip/NOUN#0.0#0.0
+a person is standing still with their arms resting at their waist.#a/DET person/NOUN is/AUX stand/VERB still/ADV with/ADP their/DET arm/NOUN rest/VERB at/ADP their/DET waist/NOUN#0.0#0.0

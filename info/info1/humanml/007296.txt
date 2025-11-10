@@ -1,0 +1,3 @@
+a person steps down off of something.#a/DET person/NOUN step/VERB down/ADP off/ADP of/ADP something/PRON#0.0#0.0
+a person steps forward slightly to the left, first the left foot then the right foot follows stopping at a fixed spot.#a/DET person/NOUN step/VERB forward/ADV slightly/ADV to/ADP the/DET left/ADJ first/ADV the/DET left/ADJ foot/NOUN then/ADV the/DET right/ADJ foot/NOUN follow/VERB stop/VERB at/ADP a/DET fix/VERB spot/NOUN#0.0#0.0
+this person takes a large step as if to avoid a puddle.#this/DET person/NOUN take/VERB a/DET large/ADJ step/NOUN as/SCONJ if/SCONJ to/PART avoid/VERB a/DET puddle/NOUN#0.0#0.0

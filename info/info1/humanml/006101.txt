@@ -1,0 +1,3 @@
+a man paces back and forth.#a/DET man/NOUN pace/VERB back/ADV and/CCONJ forth/ADV#0.0#0.0
+a person walks diagonally to his left, turns around, and walks halfway in the other direction.#a/DET person/NOUN walk/VERB diagonally/ADV to/ADP his/DET left/NOUN turn/VERB around/ADV and/CCONJ walk/VERB halfway/ADV in/ADP the/DET other/ADJ direction/NOUN#0.0#0.0
+a person turns to their left, walks forward then turns back around and walks halfway back to their starting point before stopping.#a/DET person/NOUN turn/VERB to/ADP their/DET left/NOUN walk/VERB forward/ADV then/ADV turn/VERB back/ADV around/ADV and/CCONJ walk/VERB halfway/ADV back/ADV to/ADP their/DET starting/NOUN point/NOUN before/ADP stop/VERB#0.0#0.0

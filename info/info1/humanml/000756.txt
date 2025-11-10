@@ -1,0 +1,3 @@
+person dances slowly, undulating right arm, then left arm, turning left and right, then backing up.#person/NOUN dance/VERB slowly/ADV undulate/VERB right/ADJ arm/NOUN then/ADV left/VERB arm/NOUN turn/VERB left/ADV and/CCONJ right/INTJ then/ADV back/VERB up/ADP#0.0#0.0
+the person is dancing and moving around.#the/DET person/NOUN is/AUX dance/VERB and/CCONJ move/VERB around/ADV#0.0#0.0
+a person dancing similar to michael jackson.#a/DET person/NOUN dance/VERB similar/ADJ to/ADP michael/PROPN jackson/PROPN#0.0#0.0

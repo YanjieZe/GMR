@@ -1,0 +1,3 @@
+a person waves their right hand and then both arms get lifted beside them in a veritcal motion.#a/DET person/NOUN wave/VERB their/DET right/ADJ hand/NOUN and/CCONJ then/ADV both/DET arm/NOUN get/VERB lift/VERB beside/ADP them/PRON in/ADP a/DET veritcal/ADJ motion/NOUN#0.0#0.0
+he move his right hand to reach a few points then left up both arm.#he/PRON move/VERB his/DET right/ADJ hand/NOUN to/PART reach/VERB a/DET few/ADJ point/NOUN then/ADV left/VERB up/ADP both/DET arm/NOUN#0.0#0.0
+a person holds their arms out.#a/DET person/NOUN hold/VERB their/DET arm/NOUN out/ADP#0.0#0.0

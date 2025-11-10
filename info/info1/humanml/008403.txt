@@ -1,0 +1,3 @@
+person person is applauding someone.#person/NOUN person/NOUN is/AUX applaud/VERB someone/PRON#0.0#0.0
+a person is clapping their hands.#a/DET person/NOUN is/AUX clap/VERB their/DET hand/NOUN#0.0#0.0
+someone standing and claps the hands.#someone/PRON stand/VERB and/CCONJ clap/VERB the/DET hand/NOUN#0.0#0.0

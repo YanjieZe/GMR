@@ -1,0 +1,3 @@
+the man stands in front of his car and starts washing it in circular motions.#the/DET man/NOUN stand/VERB in/ADP front/NOUN of/ADP his/DET car/NOUN and/CCONJ start/VERB wash/VERB it/PRON in/ADP circular/ADJ motion/NOUN#0.0#0.0
+a person makes a circular wiping motion with one hand before stopping.#a/DET person/NOUN make/VERB a/DET circular/ADJ wiping/ADJ motion/NOUN with/ADP one/NUM hand/NOUN before/ADP stop/VERB#0.0#0.0
+this person appears to be wiping a surface with his left hand.#this/DET person/NOUN appear/VERB to/PART be/AUX wipe/VERB a/DET surface/NOUN with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0

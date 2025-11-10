@@ -1,0 +1,3 @@
+a man stretches his hands to the left picks something and tilts to the right and then places it there.#a/DET man/NOUN stretch/VERB his/DET hand/NOUN to/ADP the/DET left/ADJ pick/NOUN something/PRON and/CCONJ tilt/NOUN to/ADP the/DET right/NOUN and/CCONJ then/ADV place/VERB it/PRON there/ADV#0.0#0.0
+a person picking up an object, tilting it to the side, placing it back.#a/DET person/NOUN pick/VERB up/ADP an/DET object/NOUN tilt/VERB it/PRON to/ADP the/DET side/NOUN place/VERB it/PRON back/ADV#0.0#0.0
+a person moves something with both hands.#a/DET person/NOUN move/VERB something/PRON with/ADP both/DET hand/NOUN#0.0#0.0

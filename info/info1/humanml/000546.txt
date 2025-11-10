@@ -1,0 +1,3 @@
+a person walks forward then pauses and holds their left elbow with their right hand, then they continue walking and turn around.#a/DET person/NOUN walk/VERB forward/ADV then/ADV pause/VERB and/CCONJ hold/VERB their/DET left/ADJ elbow/NOUN with/ADP their/DET right/ADJ hand/NOUN then/ADV they/PRON continue/VERB walk/VERB and/CCONJ turn/VERB around/ADP#0.0#0.0
+a man turns to the side and then walks forward before turning around and walking back.#a/DET man/NOUN turn/VERB to/ADP the/DET side/NOUN and/CCONJ then/ADV walk/VERB forward/ADV before/ADP turn/VERB around/ADP and/CCONJ walk/VERB back/ADV#0.0#0.0
+a person walking with a hurt left arm#a/DET person/NOUN walk/VERB with/ADP a/DET hurt/NOUN left/NOUN arm/NOUN#0.0#0.0

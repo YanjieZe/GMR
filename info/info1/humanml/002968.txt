@@ -1,0 +1,3 @@
+a person folds both arms at chest level then puts them back down beside their legs.#a/DET person/NOUN fold/VERB both/DET arm/NOUN at/ADP chest/NOUN level/NOUN then/ADV put/VERB them/PRON back/ADV down/ADP beside/ADP their/DET leg/NOUN#0.0#0.0
+a person raises their arms and crosses them across their chest, and then lets their arms fall back to their side.#a/DET person/NOUN raise/VERB their/DET arm/NOUN and/CCONJ cross/VERB them/PRON across/ADP their/DET chest/NOUN and/CCONJ then/ADV let/VERB their/DET arm/NOUN fall/VERB back/ADV to/ADP their/DET side/NOUN#0.0#0.0
+a person standing with folding  both arms.#a/DET person/NOUN stand/VERB with/ADP fold/VERB both/DET arm/NOUN#2.0#3.0

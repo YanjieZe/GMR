@@ -1,0 +1,3 @@
+a person is on his knees and stands up.#a/DET person/NOUN is/AUX on/ADP his/DET knee/NOUN and/CCONJ stand/VERB up/ADP#0.0#0.0
+the body is on the knees as the right hands is used to push off the ground to stand back up.#the/DET body/NOUN is/AUX on/ADP the/DET knee/NOUN as/SCONJ the/DET right/ADJ hand/NOUN is/AUX use/VERB to/PART push/VERB off/ADP the/DET ground/NOUN to/PART stand/VERB back/ADP up/ADV#0.0#0.0
+a person on the ground with its knees, gets back up.#a/DET person/NOUN on/ADP the/DET ground/NOUN with/ADP its/DET knee/NOUN get/VERB back/ADV up/ADV#0.0#0.0

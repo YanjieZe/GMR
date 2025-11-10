@@ -1,0 +1,3 @@
+a person steps and almost falls backwards.#a/DET person/NOUN step/VERB and/CCONJ almost/ADV fall/VERB backwards/ADV#0.0#0.0
+a person takes a diagonal step.#a/DET person/NOUN take/VERB a/DET diagonal/ADJ step/NOUN#0.0#0.0
+person steps back one pace then stops this was a  step to the right rear#person/NOUN step/VERB back/ADV one/NUM pace/NOUN then/ADV stop/VERB this/DET was/AUX a/DET step/NOUN to/ADP the/DET right/ADJ rear/NOUN#0.0#0.0

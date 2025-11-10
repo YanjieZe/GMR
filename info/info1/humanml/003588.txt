@@ -1,0 +1,3 @@
+robot is definitely dancing and moving from right to left.#robot/PROPN is/AUX definitely/ADV dance/VERB and/CCONJ move/VERB from/ADP right/NOUN to/ADP left/NOUN#0.0#0.0
+while holding right arm across chest and left arm out to side person is doing the chacha dance#while/SCONJ hold/VERB right/ADJ arm/NOUN across/ADP chest/NOUN and/CCONJ left/VERB arm/NOUN out/ADP to/PART side/VERB person/NOUN is/AUX do/VERB the/DET chacha/ADJ dance/NOUN#0.0#0.0
+a person is dancing to the left and then the right and then back to the left.#a/DET person/NOUN is/AUX dance/VERB to/ADP the/DET left/NOUN and/CCONJ then/ADV the/DET right/NOUN and/CCONJ then/ADV back/ADV to/ADP the/DET left/NOUN#0.0#0.0

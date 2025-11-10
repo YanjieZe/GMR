@@ -1,0 +1,3 @@
+a person jogs side to side.#a/DET person/NOUN jog/VERB side/NOUN to/PART side/VERB#0.0#0.0
+a person who is jogging takes four steps to his right, reverses course, takes five steps in the other direction, reverses course and continues to jog.#a/DET person/NOUN who/PRON is/AUX jog/VERB take/VERB four/NUM step/NOUN to/ADP his/DET right/NOUN reverse/VERB course/NOUN take/VERB five/NUM step/NOUN in/ADP the/DET other/ADJ direction/NOUN reverse/VERB course/NOUN and/CCONJ continue/VERB to/ADP jog/PROPN#0.0#0.0
+a man runs foward to the right,makes a u turn and runs to the left and  then stops.#a/DET man/NOUN run/VERB foward/ADV to/ADP the/DET right/NOUN make/VERB a/DET u/NOUN turn/NOUN and/CCONJ run/VERB to/ADP the/DET left/NOUN and/CCONJ then/ADV stop/VERB#0.0#0.0

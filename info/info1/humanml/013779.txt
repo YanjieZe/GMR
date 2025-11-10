@@ -1,0 +1,3 @@
+a person being pushed from behind and then trying to recover#a/DET person/NOUN being/AUX push/VERB from/ADP behind/ADV and/CCONJ then/ADV try/VERB to/PART recover/VERB#0.0#0.0
+a man walks forward in a straight line.#a/DET man/NOUN walk/VERB forward/ADV in/ADP a/DET straight/ADJ line/NOUN#0.0#0.0
+a person walks forward while stumbling slightly.#a/DET person/NOUN walk/VERB forward/ADV while/SCONJ stumble/VERB slightly/ADV#0.0#0.0
