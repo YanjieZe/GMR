@@ -15,6 +15,16 @@ from general_motion_retargeting import RobotMotionViewer, load_robot_motion
 
 mp_context = mp.get_context("spawn")
 
+ANNOTATION_FILE = Path(__file__).resolve().parents[1] / "annotations.json"
+
+ABNORMAL_REASONS = [
+    "1. 与地形/场景存在交互",
+    "2. 穿模",
+    "3. 动作衔接异常",
+    "4. 重定向失败（奇怪姿势）",
+    "5. 其他",
+]
+
 
 class MotionLabelerApp:
     def __init__(self, robot_type: str, motion_folder: str, description_json: Optional[str] = None) -> None:
@@ -39,6 +49,8 @@ class MotionLabelerApp:
         self.viewer = None
         self.record_processes = []
         self._record_polling = False
+        self.annotations = self._load_annotations()
+        self.current_annotation = None
 
         self.viewer_overlay_title = "Motion"
         self.viewer_overlay_text = ""
@@ -51,6 +63,8 @@ class MotionLabelerApp:
         self.status_var = tk.StringVar(value="Ready")
         self.description_var = tk.StringVar(value="No description available.")
         self.frame_info_var = tk.StringVar(value="Frame: 0/0")
+        self.abnormal_reason_var = tk.StringVar()
+        self.custom_reason_var = tk.StringVar()
 
         default_font = font.nametofont("TkDefaultFont")
         default_font.configure(size=14)
@@ -58,6 +72,13 @@ class MotionLabelerApp:
         tktext_font.configure(size=14)
         fixed_font = font.nametofont("TkFixedFont")
         fixed_font.configure(size=14)
+
+        self.button_style = ttk.Style(self.root)
+        self.button_style.configure("Large.TButton", font=(default_font.actual("family"), 14), padding=12)
+        self.button_style.configure("LargeActiveNormal.TButton", font=(default_font.actual("family"), 14), padding=12, background="#1e8a2f")
+        self.button_style.map("LargeActiveNormal.TButton", background=[("!disabled", "#1e8a2f")], foreground=[("!disabled", "white")])
+        self.button_style.configure("LargeActiveAbnormal.TButton", font=(default_font.actual("family"), 14), padding=12, background="#c0392b")
+        self.button_style.map("LargeActiveAbnormal.TButton", background=[("!disabled", "#c0392b")], foreground=[("!disabled", "white")])
 
         self._build_gui()
         self._refresh_selection()
@@ -219,16 +240,78 @@ class MotionLabelerApp:
         button_frame = ttk.Frame(main_frame)
         button_frame.grid(row=1, column=2, sticky="nw", padx=(10, 0))
 
-        ttk.Button(button_frame, text="Prev", command=self._prev_motion).grid(row=0, column=0, pady=2, sticky="ew")
-        ttk.Button(button_frame, text="Next", command=self._next_motion).grid(row=1, column=0, pady=2, sticky="ew")
-        ttk.Button(button_frame, text="Pause/Resume", command=self._toggle_pause).grid(row=2, column=0, pady=2, sticky="ew")
-        ttk.Button(button_frame, text="Reopen Viewer", command=self._reopen_viewer).grid(row=3, column=0, pady=(10, 2), sticky="ew")
+        self.prev_button = ttk.Button(button_frame, text="Prev", command=self._prev_motion, style="Large.TButton")
+        self.prev_button.grid(row=0, column=0, columnspan=2, pady=4, sticky="ew")
+        self.next_button = ttk.Button(
+            button_frame,
+            text="Next",
+            command=self._next_motion,
+            style="Large.TButton",
+        )
+        self.next_button.grid(row=1, column=0, columnspan=2, pady=4, sticky="ew")
+        self.pause_button = ttk.Button(
+            button_frame,
+            text="Pause/Resume",
+            command=self._toggle_pause,
+            style="Large.TButton",
+        )
+        self.pause_button.grid(row=2, column=0, columnspan=2, pady=4, sticky="ew")
+        self.reopen_button = ttk.Button(
+            button_frame,
+            text="Reopen Viewer",
+            command=self._reopen_viewer,
+            style="Large.TButton",
+        )
+        self.reopen_button.grid(row=3, column=0, columnspan=2, pady=(10, 4), sticky="ew")
 
-        ttk.Label(button_frame, text="Label Actions (TODO)").grid(row=4, column=0, pady=(10, 2), sticky="w")
-        ttk.Button(button_frame, text="Mark Positive", command=lambda: self._record_label("positive", save_video=False)).grid(row=5, column=0, pady=2, sticky="ew")
-        ttk.Button(button_frame, text="Record Positive", command=lambda: self._record_label("positive", save_video=True)).grid(row=5, column=1, pady=2, sticky="ew", padx=(5, 0))
-        ttk.Button(button_frame, text="Mark Negative", command=lambda: self._record_label("negative", save_video=False)).grid(row=6, column=0, pady=2, sticky="ew")
-        ttk.Button(button_frame, text="Record Negative", command=lambda: self._record_label("negative", save_video=True)).grid(row=6, column=1, pady=2, sticky="ew", padx=(5, 0))
+        ttk.Label(button_frame, text="标记选项").grid(row=4, column=0, columnspan=2, pady=(10, 8), sticky="w")
+        button_frame.columnconfigure(0, weight=1)
+        button_frame.columnconfigure(1, weight=1)
+
+        self.mark_normal_button = ttk.Button(
+            button_frame,
+            text="标记正常",
+            style="Large.TButton",
+            command=self._mark_normal,
+        )
+        self.mark_normal_button.grid(row=5, column=0, columnspan=2, pady=4, sticky="ew")
+
+        self.mark_abnormal_button = ttk.Button(
+            button_frame,
+            text="标记异常",
+            style="Large.TButton",
+            command=self._mark_abnormal,
+        )
+        self.mark_abnormal_button.grid(row=6, column=0, columnspan=2, pady=4, sticky="ew")
+
+        ttk.Label(button_frame, text="异常原因：").grid(row=7, column=0, sticky="w", pady=(6, 2))
+        self.abnormal_reason_combo = ttk.Combobox(
+            button_frame,
+            textvariable=self.abnormal_reason_var,
+            values=ABNORMAL_REASONS,
+            state="readonly",
+        )
+        self.abnormal_reason_combo.grid(row=7, column=1, sticky="ew", pady=(6, 2))
+        self.abnormal_reason_combo.bind("<<ComboboxSelected>>", self._on_reason_change)
+
+        ttk.Label(button_frame, text="其他原因：").grid(row=8, column=0, sticky="w", pady=(4, 2))
+        self.custom_reason_entry = ttk.Entry(button_frame, textvariable=self.custom_reason_var)
+        self.custom_reason_entry.grid(row=8, column=1, sticky="ew", pady=(4, 2))
+        self.custom_reason_entry.configure(state="disabled")
+        self.custom_reason_entry.bind("<FocusOut>", self._on_custom_reason_change)
+
+        ttk.Button(
+            button_frame,
+            text="录制正常视频",
+            style="Large.TButton",
+            command=lambda: self._record_label("normal", reason=None, save_video=True),
+        ).grid(row=9, column=0, pady=(12, 4), sticky="ew")
+        ttk.Button(
+            button_frame,
+            text="录制异常视频",
+            style="Large.TButton",
+            command=lambda: self._record_label("abnormal", reason=self._get_abnormal_reason(), save_video=True),
+        ).grid(row=9, column=1, pady=(12, 4), sticky="ew", padx=(6, 0))
 
         desc_frame = ttk.Frame(main_frame)
         desc_frame.grid(row=7, column=0, columnspan=4, sticky="nsew", pady=(10, 0))
@@ -238,7 +321,7 @@ class MotionLabelerApp:
             textvariable=self.description_var,
             anchor="w",
             justify="left",
-            wraplength=600,
+            wraplength=900,
         )
         self.description_label.grid(row=1, column=0, columnspan=2, sticky="nsew")
         desc_frame.rowconfigure(1, weight=1)
@@ -257,6 +340,10 @@ class MotionLabelerApp:
 
         for idx, motion in enumerate(self.motion_dataset):
             self.listbox.insert(tk.END, motion["motion_file"])
+        if self.motion_dataset:
+            self.listbox.selection_set(0)
+            self.listbox.activate(0)
+            self._set_current_motion(0)
 
     def _on_select(self, event):
         selection = self.listbox.curselection()
@@ -274,7 +361,8 @@ class MotionLabelerApp:
             self.frame_idx = 0
             self.paused = False
         motion_file = self.motion_dataset[idx]["motion_file"]
-        self.status_var.set(f"Current: {motion_file}")
+        annotation = self.annotations.get(motion_file)
+        self._apply_annotation_state(motion_file, annotation)
         self._update_description_panel(motion_file)
 
     def _prev_motion(self):
@@ -300,7 +388,51 @@ class MotionLabelerApp:
             self.paused = not self.paused
         self.status_var.set(f"Paused" if self.paused else f"Playing: {self.motion_dataset[self.current_index]['motion_file']}")
 
-    def _record_label(self, label: str, save_video: bool = False):
+    def _mark_normal(self):
+        self._record_label("normal", reason=None, save_video=False)
+
+    def _get_abnormal_reason(self) -> str | None:
+        reason = self.abnormal_reason_var.get()
+        if not reason:
+            return None
+        if reason.startswith("5."):
+            custom = self.custom_reason_var.get().strip()
+            return custom or None
+        return reason
+
+    def _mark_abnormal(self):
+        reason = self._get_abnormal_reason()
+        if not reason:
+            messagebox.showwarning("提示", "请先选择异常原因后再标记异常。")
+            return
+        self._record_label("abnormal", reason=reason, save_video=False)
+
+    def _on_reason_change(self, event=None):
+        reason = self.abnormal_reason_var.get()
+        if reason and reason.startswith("5."):
+            self.custom_reason_entry.configure(state="normal")
+            if not self.custom_reason_var.get():
+                self.custom_reason_entry.focus_set()
+        else:
+            self.custom_reason_entry.configure(state="disabled")
+            self.custom_reason_var.set("")
+        if self.current_annotation and self.current_annotation.get("label") == "abnormal":
+            new_reason = self._get_abnormal_reason()
+            if new_reason:
+                motion = self.motion_dataset[self.current_index]
+                self._update_annotation(motion, "abnormal", new_reason)
+
+    def _on_custom_reason_change(self, event=None):
+        if not self.abnormal_reason_var.get().startswith("5."):
+            return
+        reason = self._get_abnormal_reason()
+        if not reason:
+            return
+        if self.current_annotation and self.current_annotation.get("label") == "abnormal":
+            motion = self.motion_dataset[self.current_index]
+            self._update_annotation(motion, "abnormal", reason)
+
+    def _record_label(self, label: str, reason: str | None = None, save_video: bool = False):
         motion = None
         with self.lock:
             if self.motion_dataset:
@@ -310,25 +442,42 @@ class MotionLabelerApp:
             return
 
         if save_video:
+            if label == "abnormal" and not reason:
+                messagebox.showwarning("提示", "请先选择异常原因后再录制异常视频。")
+                return
             if not messagebox.askyesno("Confirm", f"Record {label} video for {motion['motion_file']}?"):
                 return
-            self._start_video_recording(motion, label)
+            self._update_annotation(motion, label, reason)
+            self._start_video_recording(motion, label, reason=reason)
         else:
-            self._set_status(f"Marked {motion['motion_file']} as {label}")
+            if label == "normal":
+                self._set_status(f"标记为正常：{motion['motion_file']}")
+            else:
+                self._set_status(f"标记为异常（{reason}）：{motion['motion_file']}")
+            self._update_annotation(motion, label, reason)
 
-    def _start_video_recording(self, motion, label: str):
+    def _start_video_recording(self, motion, label: str, reason: str | None = None):
         video_dir = Path("/home/kai/GMR1/videos") / label
         video_dir.mkdir(parents=True, exist_ok=True)
         slug = motion["motion_file"].replace("/", "_").replace(".pkl", "")
         timestamp = datetime.now().strftime("%Y%m%d-%H%M%S")
-        video_path = video_dir / f"{slug}_{timestamp}.mp4"
+        reason_slug = ""
+        if label == "abnormal" and reason:
+            reason_slug = "_" + re.sub(r"[^0-9A-Za-z]+", "_", reason)
+        video_path = video_dir / f"{slug}{reason_slug}_{timestamp}.mp4"
 
         self._set_status(f"Recording {label} video...")
 
         motion_path = motion["motion_path"]
+        cam_state = None
+        with self.viewer_lock:
+            if self.viewer is not None:
+                if hasattr(self.viewer, "get_camera_state"):
+                    cam_state = self.viewer.get_camera_state()
+
         process = mp_context.Process(
             target=_record_video_worker,
-            args=(motion_path, self.robot_type, str(video_path)),
+            args=(motion_path, self.robot_type, str(video_path), cam_state),
             daemon=True,
         )
         process.start()
@@ -472,8 +621,78 @@ class MotionLabelerApp:
         key = re.sub(r"[^a-z0-9]", "", key)
         return key
 
+    def _load_annotations(self):
+        if not ANNOTATION_FILE.exists():
+            return {}
+        try:
+            with ANNOTATION_FILE.open("r", encoding="utf-8") as f:
+                annotations = json.load(f)
+            return annotations if isinstance(annotations, dict) else {}
+        except Exception as exc:
+            print(f"[WARN] Failed to load annotation file {ANNOTATION_FILE}: {exc}")
+            return {}
 
-def _record_video_worker(motion_path: str, robot_type: str, video_path: str):
+    def _save_annotations(self):
+        try:
+            ANNOTATION_FILE.parent.mkdir(parents=True, exist_ok=True)
+            with ANNOTATION_FILE.open("w", encoding="utf-8") as f:
+                json.dump(self.annotations, f, ensure_ascii=False, indent=2)
+        except Exception as exc:
+            print(f"[WARN] Failed to save annotations: {exc}")
+
+    def _update_annotation(self, motion, label: str, reason: str | None):
+        entry = {
+            "label": label,
+            "reason": reason,
+            "timestamp": datetime.now().isoformat(timespec="seconds"),
+            "motion_path": motion["motion_path"],
+        }
+        self.annotations[motion["motion_file"]] = entry
+        self._save_annotations()
+        self._apply_annotation_state(motion["motion_file"], entry)
+
+    def _apply_annotation_state(self, motion_file: str, annotation: dict | None):
+        self.current_annotation = annotation
+        if annotation is None:
+            self.mark_normal_button.configure(style="Large.TButton")
+            self.mark_abnormal_button.configure(style="Large.TButton")
+            self.abnormal_reason_var.set("")
+            self.custom_reason_var.set("")
+            self.custom_reason_entry.configure(state="disabled")
+            self.status_var.set(f"Current: {motion_file}")
+            return
+
+        label = annotation.get("label")
+        reason = annotation.get("reason")
+        timestamp = annotation.get("timestamp", "")
+
+        if label == "normal":
+            self.mark_normal_button.configure(style="LargeActiveNormal.TButton")
+            self.mark_abnormal_button.configure(style="Large.TButton")
+            self.abnormal_reason_var.set("")
+            self.custom_reason_var.set("")
+            self.custom_reason_entry.configure(state="disabled")
+            status = f"当前标记：正常"
+        else:
+            self.mark_normal_button.configure(style="Large.TButton")
+            self.mark_abnormal_button.configure(style="LargeActiveAbnormal.TButton")
+            if reason and reason in ABNORMAL_REASONS:
+                self.abnormal_reason_var.set(reason)
+                self.custom_reason_var.set("")
+                self.custom_reason_entry.configure(state="disabled")
+            else:
+                self.abnormal_reason_var.set("5. 其他")
+                self.custom_reason_var.set(reason or "")
+                self.custom_reason_entry.configure(state="normal")
+            status = f"当前标记：异常"
+            if reason:
+                status += f"（{reason}）"
+        if timestamp:
+            status += f"（{timestamp}）"
+        self.status_var.set(status)
+
+
+def _record_video_worker(motion_path: str, robot_type: str, video_path: str, cam_state=None):
     try:
         (
             _motion_data,
