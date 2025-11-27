@@ -34,6 +34,7 @@ class MotionLabelerApp:
         self.motion_dataset = self._load_motion_dataset(motion_folder)
         if not self.motion_dataset:
             raise FileNotFoundError(f"No .pkl files found in {motion_folder}")
+        self.motion_index_map = {motion["motion_file"]: idx for idx, motion in enumerate(self.motion_dataset)}
 
         (
             self.motion_info_map,
@@ -54,12 +55,21 @@ class MotionLabelerApp:
 
         self.viewer_overlay_title = "Motion"
         self.viewer_overlay_text = ""
+        self.playback_speed = 1.0
+        self.playback_accumulator = 0.0
+        self.playback_speed_options = [0.5, 1.0, 1.5, 2.0]
+        self.speed_buttons = {}
+        self.speed_button_default_bg = None
+        self._progress_dragging = False
 
         # Build GUI
         self.root = tk.Tk()
         self.root.title("Motion Labeler")
         self.root.protocol("WM_DELETE_WINDOW", self._on_close)
 
+        self.playback_speed_var = tk.StringVar(self.root, value="1.0x")
+        self.progress_var = tk.DoubleVar(self.root, value=0.0)
+        self.stats_var = tk.StringVar(self.root, value="")
         self.status_var = tk.StringVar(value="Ready")
         self.description_var = tk.StringVar(value="No description available.")
         self.frame_info_var = tk.StringVar(value="Frame: 0/0")
@@ -79,8 +89,11 @@ class MotionLabelerApp:
         self.button_style.map("LargeActiveNormal.TButton", background=[("!disabled", "#1e8a2f")], foreground=[("!disabled", "white")])
         self.button_style.configure("LargeActiveAbnormal.TButton", font=(default_font.actual("family"), 14), padding=12, background="#c0392b")
         self.button_style.map("LargeActiveAbnormal.TButton", background=[("!disabled", "#c0392b")], foreground=[("!disabled", "white")])
+        self.button_style.configure("LargeActiveDifficult.TButton", font=(default_font.actual("family"), 14), padding=12, background="#7e57c2")
+        self.button_style.map("LargeActiveDifficult.TButton", background=[("!disabled", "#7e57c2")], foreground=[("!disabled", "white")])
 
         self._build_gui()
+        self._update_stats()
         self._refresh_selection()
         # Kick off playback loop in Tk event loop
         self.root.after(0, self._playback_step)
@@ -226,45 +239,65 @@ class MotionLabelerApp:
         self.root.columnconfigure(0, weight=1)
         self.root.rowconfigure(0, weight=1)
 
-        ttk.Label(main_frame, text="Motion Files").grid(row=0, column=0, sticky="w")
+        # 统计信息显示在文件列表上方
+        ttk.Label(main_frame, textvariable=self.stats_var, anchor="w").grid(row=0, column=0, sticky="w", pady=(0, 5))
+        ttk.Label(main_frame, text="Motion Files").grid(row=1, column=0, sticky="w")
 
-        self.listbox = tk.Listbox(main_frame, height=20, width=40)
-        self.listbox.grid(row=1, column=0, rowspan=6, sticky="nsew")
+        self.listbox = tk.Listbox(main_frame, height=20, width=60)
+        self.listbox.grid(row=2, column=0, rowspan=5, sticky="nsew")
+        self.listbox_default_bg = self.listbox.cget("bg")
+        self.listbox_default_fg = self.listbox.cget("fg")
+        self.label_colors = {
+            "normal": "#fff59d",
+            "abnormal": "#ffcdd2",
+            "difficult": "#d1c4e9",
+        }
         self.listbox.bind("<<ListboxSelect>>", self._on_select)
         self.listbox.bind("<Double-Button-1>", self._on_double_click)
+        # Bind spacebar to listbox to override default behavior
+        # Use KeyPress event and ensure it takes priority
+        self.listbox.bind("<KeyPress-space>", self._on_space_key, add="+")
+        self.listbox.bind("<space>", self._on_space_key, add="+")
 
         scrollbar = ttk.Scrollbar(main_frame, orient="vertical", command=self.listbox.yview)
         self.listbox.configure(yscrollcommand=scrollbar.set)
-        scrollbar.grid(row=1, column=1, rowspan=6, sticky="ns")
+        scrollbar.grid(row=2, column=1, rowspan=5, sticky="ns")
 
         button_frame = ttk.Frame(main_frame)
-        button_frame.grid(row=1, column=2, sticky="nw", padx=(10, 0))
+        button_frame.grid(row=2, column=2, sticky="nw", padx=(10, 0))
 
-        self.prev_button = ttk.Button(button_frame, text="Prev", command=self._prev_motion, style="Large.TButton")
+        self.prev_button = ttk.Button(button_frame, text="上一个", command=self._prev_motion, style="Large.TButton")
         self.prev_button.grid(row=0, column=0, columnspan=2, pady=4, sticky="ew")
         self.next_button = ttk.Button(
             button_frame,
-            text="Next",
+            text="下一个",
             command=self._next_motion,
             style="Large.TButton",
         )
         self.next_button.grid(row=1, column=0, columnspan=2, pady=4, sticky="ew")
         self.pause_button = ttk.Button(
             button_frame,
-            text="Pause/Resume",
+            text="暂停/播放",
             command=self._toggle_pause,
             style="Large.TButton",
         )
         self.pause_button.grid(row=2, column=0, columnspan=2, pady=4, sticky="ew")
+        self.restart_button = ttk.Button(
+            button_frame,
+            text="重新播放",
+            command=self._restart_playback,
+            style="Large.TButton",
+        )
+        self.restart_button.grid(row=3, column=0, columnspan=2, pady=4, sticky="ew")
         self.reopen_button = ttk.Button(
             button_frame,
-            text="Reopen Viewer",
+            text="重新打开播放窗口",
             command=self._reopen_viewer,
             style="Large.TButton",
         )
-        self.reopen_button.grid(row=3, column=0, columnspan=2, pady=(10, 4), sticky="ew")
+        self.reopen_button.grid(row=4, column=0, columnspan=2, pady=(10, 4), sticky="ew")
 
-        ttk.Label(button_frame, text="标记选项").grid(row=4, column=0, columnspan=2, pady=(10, 8), sticky="w")
+        ttk.Label(button_frame, text="标记选项").grid(row=5, column=0, columnspan=2, pady=(10, 8), sticky="w")
         button_frame.columnconfigure(0, weight=1)
         button_frame.columnconfigure(1, weight=1)
 
@@ -274,7 +307,7 @@ class MotionLabelerApp:
             style="Large.TButton",
             command=self._mark_normal,
         )
-        self.mark_normal_button.grid(row=5, column=0, columnspan=2, pady=4, sticky="ew")
+        self.mark_normal_button.grid(row=6, column=0, columnspan=2, pady=4, sticky="ew")
 
         self.mark_abnormal_button = ttk.Button(
             button_frame,
@@ -282,21 +315,29 @@ class MotionLabelerApp:
             style="Large.TButton",
             command=self._mark_abnormal,
         )
-        self.mark_abnormal_button.grid(row=6, column=0, columnspan=2, pady=4, sticky="ew")
+        self.mark_abnormal_button.grid(row=7, column=0, columnspan=2, pady=4, sticky="ew")
 
-        ttk.Label(button_frame, text="异常原因：").grid(row=7, column=0, sticky="w", pady=(6, 2))
+        self.mark_difficult_button = ttk.Button(
+            button_frame,
+            text="标记困难",
+            style="Large.TButton",
+            command=self._mark_difficult,
+        )
+        self.mark_difficult_button.grid(row=8, column=0, columnspan=2, pady=4, sticky="ew")
+
+        ttk.Label(button_frame, text="异常原因：").grid(row=9, column=0, sticky="w", pady=(6, 2))
         self.abnormal_reason_combo = ttk.Combobox(
             button_frame,
             textvariable=self.abnormal_reason_var,
             values=ABNORMAL_REASONS,
             state="readonly",
         )
-        self.abnormal_reason_combo.grid(row=7, column=1, sticky="ew", pady=(6, 2))
+        self.abnormal_reason_combo.grid(row=9, column=1, sticky="ew", pady=(6, 2))
         self.abnormal_reason_combo.bind("<<ComboboxSelected>>", self._on_reason_change)
 
-        ttk.Label(button_frame, text="其他原因：").grid(row=8, column=0, sticky="w", pady=(4, 2))
+        ttk.Label(button_frame, text="其他原因：").grid(row=10, column=0, sticky="w", pady=(4, 2))
         self.custom_reason_entry = ttk.Entry(button_frame, textvariable=self.custom_reason_var)
-        self.custom_reason_entry.grid(row=8, column=1, sticky="ew", pady=(4, 2))
+        self.custom_reason_entry.grid(row=10, column=1, sticky="ew", pady=(4, 2))
         self.custom_reason_entry.configure(state="disabled")
         self.custom_reason_entry.bind("<FocusOut>", self._on_custom_reason_change)
 
@@ -305,13 +346,29 @@ class MotionLabelerApp:
             text="录制正常视频",
             style="Large.TButton",
             command=lambda: self._record_label("normal", reason=None, save_video=True),
-        ).grid(row=9, column=0, pady=(12, 4), sticky="ew")
+        ).grid(row=11, column=0, pady=(12, 4), sticky="ew")
         ttk.Button(
             button_frame,
             text="录制异常视频",
             style="Large.TButton",
             command=lambda: self._record_label("abnormal", reason=self._get_abnormal_reason(), save_video=True),
-        ).grid(row=9, column=1, pady=(12, 4), sticky="ew", padx=(6, 0))
+        ).grid(row=11, column=1, pady=(12, 4), sticky="ew", padx=(6, 0))
+        ttk.Label(button_frame, text="播放速度：").grid(row=12, column=0, sticky="w", pady=(6, 2))
+        speed_frame = ttk.Frame(button_frame)
+        speed_frame.grid(row=12, column=1, sticky="ew", pady=(6, 2))
+        for col, speed in enumerate(self.playback_speed_options):
+            btn = tk.Button(
+                speed_frame,
+                text=f"{speed}x",
+                width=5,
+                command=lambda s=speed: self._set_playback_speed(s),
+            )
+            btn.grid(row=0, column=col, padx=2)
+            self.speed_buttons[speed] = btn
+            if self.speed_button_default_bg is None:
+                self.speed_button_default_bg = btn.cget("bg") or btn.cget("background") or "#f0f0f0"
+            speed_frame.columnconfigure(col, weight=1)
+        self._update_speed_buttons()
 
         desc_frame = ttk.Frame(main_frame)
         desc_frame.grid(row=7, column=0, columnspan=4, sticky="nsew", pady=(10, 0))
@@ -329,10 +386,26 @@ class MotionLabelerApp:
         self.frame_info_label = ttk.Label(desc_frame, textvariable=self.frame_info_var, anchor="w")
         self.frame_info_label.grid(row=2, column=0, columnspan=2, sticky="ew", pady=(5, 0))
 
-        status_label = ttk.Label(main_frame, textvariable=self.status_var, relief="sunken", anchor="w")
-        status_label.grid(row=8, column=0, columnspan=4, sticky="ew", pady=(10, 0))
+        progress_frame = ttk.Frame(main_frame)
+        progress_frame.grid(row=8, column=0, columnspan=4, sticky="ew", pady=(10, 0))
+        ttk.Label(progress_frame, text="播放进度").grid(row=0, column=0, sticky="w")
+        self.progress_scale = ttk.Scale(
+            progress_frame,
+            from_=0,
+            to=1000,
+            orient="horizontal",
+            variable=self.progress_var,
+            command=self._on_progress_scale_change,
+        )
+        self.progress_scale.grid(row=0, column=1, sticky="ew", padx=(10, 0))
+        progress_frame.columnconfigure(1, weight=1)
+        self.progress_scale.bind("<ButtonPress-1>", self._on_progress_drag_start)
+        self.progress_scale.bind("<ButtonRelease-1>", self._on_progress_drag_end)
 
-        for i in range(1, 7):
+        status_label = ttk.Label(main_frame, textvariable=self.status_var, relief="sunken", anchor="w")
+        status_label.grid(row=9, column=0, columnspan=4, sticky="ew", pady=(10, 0))
+
+        for i in range(2, 7):
             main_frame.rowconfigure(i, weight=1)
         main_frame.rowconfigure(7, weight=2)
         main_frame.columnconfigure(0, weight=1)
@@ -344,6 +417,10 @@ class MotionLabelerApp:
             self.listbox.selection_set(0)
             self.listbox.activate(0)
             self._set_current_motion(0)
+        
+        # Bind keyboard shortcuts - bind to root for global capture
+        # Listbox binding will handle when listbox has focus
+        self.root.bind_all("<KeyPress-space>", self._on_space_key)
 
     def _on_select(self, event):
         selection = self.listbox.curselection()
@@ -360,10 +437,88 @@ class MotionLabelerApp:
             self.current_index = idx
             self.frame_idx = 0
             self.paused = False
+            self.playback_accumulator = 0.0
         motion_file = self.motion_dataset[idx]["motion_file"]
         annotation = self.annotations.get(motion_file)
         self._apply_annotation_state(motion_file, annotation)
         self._update_description_panel(motion_file)
+        total_frames = len(self.motion_dataset[idx]["motion_root_pos"])
+        self._update_progress_slider(0, total_frames)
+
+    def _set_playback_speed(self, speed: float):
+        speed = max(0.25, float(speed))
+        self.playback_speed = speed
+        self.playback_speed_var.set(f"{speed}x")
+        self.playback_accumulator = 0.0
+        self._update_speed_buttons()
+
+    def _update_speed_buttons(self):
+        if not self.speed_buttons:
+            return
+        for speed, btn in self.speed_buttons.items():
+            if abs(speed - self.playback_speed) < 1e-6:
+                btn.configure(relief=tk.SUNKEN, bg="#1976d2", fg="white")
+            else:
+                default_bg = self.speed_button_default_bg or btn.cget("bg") or "#f0f0f0"
+                btn.configure(relief=tk.RAISED, bg=default_bg, fg="black")
+
+    def _refresh_listbox_colors(self):
+        if not hasattr(self, "listbox"):
+            return
+        for idx, motion in enumerate(self.motion_dataset):
+            annotation = self.annotations.get(motion["motion_file"])
+            label = annotation.get("label") if annotation else None
+            self._set_listbox_item_highlight(idx, label)
+
+    def _set_listbox_item_highlight(self, idx: int, label: str | None):
+        if not hasattr(self, "listbox"):
+            return
+        if idx < 0 or idx >= self.listbox.size():
+            return
+        bg = self.label_colors.get(label, self.listbox_default_bg)
+        fg = self.listbox_default_fg
+        try:
+            self.listbox.itemconfig(idx, bg=bg, fg=fg)
+        except Exception:
+            pass
+
+    def _update_progress_slider(self, frame_idx: int, total_frames: int):
+        if total_frames <= 1:
+            value = 0.0
+        else:
+            value = (frame_idx / (total_frames - 1)) * 1000.0
+        if not self._progress_dragging:
+            self.progress_var.set(value)
+
+    def _on_progress_scale_change(self, value):
+        if not self._progress_dragging:
+            return
+        try:
+            scale_value = float(value)
+        except ValueError:
+            return
+        self._seek_to_progress(scale_value)
+
+    def _on_progress_drag_start(self, event):
+        self._progress_dragging = True
+
+    def _on_progress_drag_end(self, event):
+        self._progress_dragging = False
+        self._seek_to_progress(self.progress_var.get())
+
+    def _seek_to_progress(self, scale_value: float):
+        if not self.motion_dataset:
+            return
+        motion = self.motion_dataset[self.current_index]
+        total_frames = len(motion["motion_root_pos"])
+        if total_frames <= 1:
+            return
+        target_idx = int(max(0, min(999.0, scale_value)) / 1000.0 * (total_frames - 1))
+        with self.lock:
+            self.frame_idx = target_idx
+            self.playback_accumulator = 0.0
+        self._update_frame_info(target_idx + 1, total_frames)
+        self._update_progress_slider(target_idx, total_frames)
 
     def _prev_motion(self):
         if not self.motion_dataset:
@@ -388,6 +543,33 @@ class MotionLabelerApp:
             self.paused = not self.paused
         self.status_var.set(f"Paused" if self.paused else f"Playing: {self.motion_dataset[self.current_index]['motion_file']}")
 
+    def _on_space_key(self, event):
+        """Handle spacebar key press for pause/play"""
+        # Don't trigger if focus is on a text entry widget
+        focused_widget = self.root.focus_get()
+        widget_class = focused_widget.__class__.__name__ if focused_widget else None
+        
+        # Allow default behavior only for text entry widgets
+        if isinstance(focused_widget, (tk.Entry, ttk.Entry, tk.Text, tk.Spinbox)):
+            return None
+        
+        # For all other widgets (including listbox and buttons), handle pause/play
+        self._toggle_pause()
+        
+        # Always stop event propagation to prevent default behavior
+        return "break"
+
+    def _restart_playback(self):
+        """Restart playback from the beginning"""
+        with self.lock:
+            self.frame_idx = 0
+            self.paused = False
+            self.playback_accumulator = 0.0
+        motion = self.motion_dataset[self.current_index] if self.motion_dataset else None
+        if motion:
+            self.status_var.set(f"Playing: {motion['motion_file']}")
+            self._update_progress_slider(0, len(motion["motion_root_pos"]))
+
     def _mark_normal(self):
         self._record_label("normal", reason=None, save_video=False)
 
@@ -406,6 +588,9 @@ class MotionLabelerApp:
             messagebox.showwarning("提示", "请先选择异常原因后再标记异常。")
             return
         self._record_label("abnormal", reason=reason, save_video=False)
+
+    def _mark_difficult(self):
+        self._record_label("difficult", reason=None, save_video=False)
 
     def _on_reason_change(self, event=None):
         reason = self.abnormal_reason_var.get()
@@ -452,6 +637,8 @@ class MotionLabelerApp:
         else:
             if label == "normal":
                 self._set_status(f"标记为正常：{motion['motion_file']}")
+            elif label == "difficult":
+                self._set_status(f"标记为困难：{motion['motion_file']}")
             else:
                 self._set_status(f"标记为异常（{reason}）：{motion['motion_file']}")
             self._update_annotation(motion, label, reason)
@@ -518,6 +705,7 @@ class MotionLabelerApp:
             self.listbox.selection_set(0)
             self.listbox.activate(0)
             self._set_current_motion(0)
+            self._refresh_listbox_colors()
 
     def _playback_step(self):
         if self.stop_event.is_set():
@@ -528,7 +716,7 @@ class MotionLabelerApp:
             paused = self.paused
             frame_idx = self.frame_idx
 
-        if motion is None or paused:
+        if motion is None:
             self.root.after(30, self._playback_step)
             return
 
@@ -556,6 +744,8 @@ class MotionLabelerApp:
         self._update_description_panel(motion["motion_file"])
         self._update_frame_info(frame_idx + 1, total_frames)
 
+        self._update_progress_slider(frame_idx, total_frames)
+
         viewer = self._create_viewer(motion)
         if viewer is not None:
             try:
@@ -578,7 +768,37 @@ class MotionLabelerApp:
 
         with self.lock:
             if not self.paused and self.current_index is not None:
-                self.frame_idx = (self.frame_idx + 1) % total_frames
+                # Check if already at the end
+                if self.frame_idx >= total_frames - 1:
+                    # Auto pause when reaching the end
+                    self.frame_idx = total_frames - 1  # Ensure we're at the last frame
+                    self.paused = True
+                    self.status_var.set(f"Playback finished: {motion['motion_file']}")
+                    # Update progress slider to show completion
+                    self.root.after(0, lambda: self._update_progress_slider(total_frames - 1, total_frames))
+                else:
+                    self.playback_accumulator += self.playback_speed
+                    advance = 0
+                    if self.playback_speed >= 1.0:
+                        advance = int(self.playback_accumulator)
+                        if advance <= 0:
+                            advance = 1
+                        self.playback_accumulator = max(0.0, self.playback_accumulator - advance)
+                    else:
+                        if self.playback_accumulator >= 1.0:
+                            advance = int(self.playback_accumulator)
+                            self.playback_accumulator -= advance
+                    if advance > 0:
+                        new_frame_idx = self.frame_idx + advance
+                        # Stop at the last frame instead of looping
+                        if new_frame_idx >= total_frames:
+                            self.frame_idx = total_frames - 1
+                            self.paused = True
+                            self.status_var.set(f"Playback finished: {motion['motion_file']}")
+                            # Update progress slider to show completion
+                            self.root.after(0, lambda: self._update_progress_slider(total_frames - 1, total_frames))
+                        else:
+                            self.frame_idx = new_frame_idx
 
         self.root.after(1, self._playback_step)
 
@@ -650,31 +870,65 @@ class MotionLabelerApp:
         self.annotations[motion["motion_file"]] = entry
         self._save_annotations()
         self._apply_annotation_state(motion["motion_file"], entry)
+        self._update_stats()
+
+    def _update_stats(self):
+        total = len(self.motion_dataset)
+        normal = abnormal = difficult = labeled = 0
+        for motion in self.motion_dataset:
+            ann = self.annotations.get(motion["motion_file"])
+            if not ann:
+                continue
+            label = ann.get("label")
+            if not label:
+                continue
+            labeled += 1
+            if label == "normal":
+                normal += 1
+            elif label == "abnormal":
+                abnormal += 1
+            elif label == "difficult":
+                difficult += 1
+        summary = (
+            f"标记统计：总数 {total}，已标记 {labeled}，"
+            f"正常 {normal}，异常 {abnormal}，困难 {difficult}"
+        )
+        self.stats_var.set(summary)
 
     def _apply_annotation_state(self, motion_file: str, annotation: dict | None):
         self.current_annotation = annotation
+        idx = self.motion_index_map.get(motion_file)
+        self.mark_normal_button.configure(style="Large.TButton")
+        self.mark_abnormal_button.configure(style="Large.TButton")
+        self.mark_difficult_button.configure(style="Large.TButton")
+
         if annotation is None:
-            self.mark_normal_button.configure(style="Large.TButton")
-            self.mark_abnormal_button.configure(style="Large.TButton")
+            if idx is not None:
+                self._set_listbox_item_highlight(idx, None)
             self.abnormal_reason_var.set("")
             self.custom_reason_var.set("")
             self.custom_reason_entry.configure(state="disabled")
             self.status_var.set(f"Current: {motion_file}")
             return
-
         label = annotation.get("label")
+        if idx is not None:
+            self._set_listbox_item_highlight(idx, label)
         reason = annotation.get("reason")
         timestamp = annotation.get("timestamp", "")
 
         if label == "normal":
             self.mark_normal_button.configure(style="LargeActiveNormal.TButton")
-            self.mark_abnormal_button.configure(style="Large.TButton")
             self.abnormal_reason_var.set("")
             self.custom_reason_var.set("")
             self.custom_reason_entry.configure(state="disabled")
             status = f"当前标记：正常"
+        elif label == "difficult":
+            self.mark_difficult_button.configure(style="LargeActiveDifficult.TButton")
+            self.abnormal_reason_var.set("")
+            self.custom_reason_var.set("")
+            self.custom_reason_entry.configure(state="disabled")
+            status = f"当前标记：困难"
         else:
-            self.mark_normal_button.configure(style="Large.TButton")
             self.mark_abnormal_button.configure(style="LargeActiveAbnormal.TButton")
             if reason and reason in ABNORMAL_REASONS:
                 self.abnormal_reason_var.set(reason)
