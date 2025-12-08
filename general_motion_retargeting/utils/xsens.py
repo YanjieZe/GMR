@@ -56,12 +56,28 @@ def load_xsens_file(args):
         # that xsens may obtain are aligned with Lafan1
         if args.bvh_format == "3DSM" or args.bvh_format == "MB":
             result["LeftFootMod"] = (
-                result["LeftToe"][0],
-                result["LeftToe_end_site"][1],
+                np.array(
+                    [
+                        result["LeftAnkle"][0][0],
+                        result["LeftAnkle"][0][1],
+                        result["LeftAnkle"][0][2],
+                        # result["LeftToe"][0][2],
+                    ]
+                ),
+                result["LeftAnkle"][1],
+                # result["LeftToe_end_site"][1],
             )
             result["RightFootMod"] = (
-                result["RightToe"][0],
-                result["RightToe_end_site"][1],
+                np.array(
+                    [
+                        result["RightAnkle"][0][0],
+                        result["RightAnkle"][0][1],
+                        result["RightAnkle"][0][2],
+                        # result["RightToe"][0][2],
+                    ]
+                ),
+                result["RightAnkle"][1],
+                # result["RightToe_end_site"][1],
             )
 
             # result["Spine2"] = result.pop("Chest4")

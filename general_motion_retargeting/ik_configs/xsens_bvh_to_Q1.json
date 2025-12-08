@@ -6,21 +6,21 @@
     "use_ik_match_table1": true,
     "use_ik_match_table2": true,
     "human_scale_table": {
-        "Hips": 0.93,
+        "Hips": 1,
         "Chest4": 0.93,
         "LeftHip": 0.93,
         "RightHip": 0.93,
         "LeftKnee": 0.93,
         "RightKnee": 0.93,
-        "LeftFootMod": 0.93,
-        "RightFootMod": 0.93,
+        "LeftFootMod": 1.09,
+        "RightFootMod": 1.09,
 
-        "LeftShoulder":0.93,
-        "RightShoulder":0.93,
-        "LeftElbow":0.93,
-        "RightElbow":0.93,
-        "RightWrist":0.93,
-        "LeftWrist":0.93,
+        "LeftShoulder":0.85,
+        "RightShoulder":0.85,
+        "LeftElbow":1.0,
+        "RightElbow":1.0,
+        "RightWrist":1.05,
+        "LeftWrist":1.05,
 
         "Head":0.93
     },
@@ -205,11 +205,11 @@
         "L_elbow_link": [
             "LeftElbow",
             0,
-            10,
+            8,
             [
                 0.0,
-                0.0,
-                0.045
+                0.07,
+                0.0
             ],
             [
                 1.0,
@@ -221,11 +221,11 @@
         "R_elbow_link": [
             "RightElbow",
             0,
-            10,
+            8,
             [
                 0.0,
-                -0.0,
-                0.045
+                -0.07,
+                0.0
             ],
             [
                 1.0,
@@ -234,13 +234,13 @@
                 0.0
             ]
         ],
-        "L_wrist_yaw_link": [
+        "L_wrist_pitch_link": [
             "LeftWrist",
             0,
             10,
             [
                 0.0,
-                0.0,
+                0.07,
                 0.015
             ],
             [
@@ -250,13 +250,13 @@
                 0.0
             ]
         ],
-        "R_wrist_yaw_link": [
+        "R_wrist_pitch_link": [
             "RightWrist",
             0,
             10,
             [
                 0.0,
-                -0.0,
+                -0.03,
                 0.015
             ],
             [
@@ -318,7 +318,7 @@
         ],
         "L_hip_pitch_link": [
             "LeftHip",
-            10,
+            0,
             5,
             [
                 0.0,
@@ -334,7 +334,7 @@
         ],
         "R_hip_pitch_link": [
             "RightHip",
-            10,
+            0,
             5,
             [
                 0.0,
@@ -350,7 +350,7 @@
         ],
         "L_knee_link": [
             "LeftKnee",
-            10,
+            0,
             5,
             [
                 0.0,
@@ -366,7 +366,7 @@
         ],
         "R_knee_link": [
             "RightKnee",
-            10,
+            0,
             5,
             [
                 0.0,
@@ -414,7 +414,7 @@
         ],
         "L_shoulder_yaw_link": [
             "LeftShoulder",
-            10,
+            5,
             5,
             [
                 0.0,
@@ -430,7 +430,7 @@
         ],
         "R_shoulder_yaw_link": [
             "RightShoulder",
-            10,
+            5,
             5,
             [
                 0.0,
@@ -446,12 +446,12 @@
         ],
         "L_elbow_link": [
             "LeftElbow",
-            10,
+            0,
             1,
             [
                 0.0,
-                0.0,
-                0.045
+                0.07,
+                0.0
             ],
             [
                 1.0,
@@ -462,12 +462,12 @@
         ],
         "R_elbow_link": [
             "RightElbow",
-            10,
+            0,
             1,
             [
                 0.0,
-                -0.0,
-                0.045
+                -0.07,
+                0.0
             ],
             [
                 1.0,
@@ -476,13 +476,13 @@
                 0.0
             ]
         ],
-        "L_wrist_yaw_link": [
+        "L_wrist_pitch_link": [
             "LeftWrist",
             10,
             1,
             [
                 0.0,
-                0.0,
+                0.07,
                 0.015
             ],
             [
@@ -492,13 +492,13 @@
                 0.0
             ]
         ],
-        "R_wrist_yaw_link": [
+        "R_wrist_pitch_link": [
             "RightWrist",
             10,
             1,
             [
                 0.0,
-                -0.0,
+                -0.03,
                 0.015
             ],
             [

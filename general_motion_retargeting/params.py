@@ -23,7 +23,8 @@ ROBOT_XML_DICT = {
     "booster_k1": ASSET_ROOT / "booster_k1" / "K1_serial.xml",
     "pnd_adam_lite": ASSET_ROOT / "pnd_adam_lite" / "scene.xml",
     "tienkung": ASSET_ROOT / "tienkung" / "mjcf" / "tienkung.xml",
-    "Q1": ASSET_ROOT / "Q1" / "mjcf" / "Q1.xml",
+    "Q1": ASSET_ROOT / "Q1" / "mjcf" / "Q1_wo_hand.xml",
+    "X1": ASSET_ROOT / "huaqin_x1_v0_9_6" /  "x1_v0_9_6.xml",
 }
 
 IK_CONFIG_DICT = {
@@ -58,6 +59,7 @@ IK_CONFIG_DICT = {
         "unitree_g1": IK_CONFIG_ROOT / "xsens_bvh_to_g1.json",
         "unitree_h1_2": IK_CONFIG_ROOT / "xsens_bvh_to_h1_2.json",
         "Q1": IK_CONFIG_ROOT / "xsens_bvh_to_Q1.json",
+        "X1": IK_CONFIG_ROOT / "xsens_bvh_to_X1.json",
     },
     "fbx":{
         "unitree_g1": IK_CONFIG_ROOT / "fbx_to_g1.json",
@@ -87,6 +89,7 @@ ROBOT_BASE_DICT = {
     "pnd_adam_lite": "pelvis",
     "tienkung": "Base_link",
     "Q1": "torso_link",
+    "X1": "base_link",
 }
 
 VIEWER_CAM_DISTANCE_DICT = {
@@ -107,4 +110,5 @@ VIEWER_CAM_DISTANCE_DICT = {
     "pnd_adam_lite": 3.0,
     "tienkung": 3.0,
     "Q1": 3.0,
+    "X1": 3.0,
 }

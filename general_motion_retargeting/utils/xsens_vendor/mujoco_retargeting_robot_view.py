@@ -335,7 +335,7 @@ if __name__ == "__main__":
 
     robot_xml_file_name = (
         # "/home/hpx/HPX_LOCO_2/GMR/assets/unitree_h1_2/h1_2_handless.xml"
-        "/home/hpx/HPX_LOCO_2/GMR/assets/Q1P01/mjcf/Q1_02.xml"
+        "/home/hpx/HPX_LOCO_2/GMR/assets/Q1/mjcf/Q1_wo_hand.xml"
         # "/home/hpx/HPX_LOCO_2/GMR/assets/h1_2/h1_2_wo_hand.xml"
     )
 
@@ -344,10 +344,12 @@ if __name__ == "__main__":
         # "/home/hpx/HPX_LOCO_2/retargeting/retargeting_data/unitree_h1_2_xsens_jump_0917.pkl"
         # "/home/hpx/HPX_LOCO_2/GMR/retargeting_data/h1_2_slowly_walk_1011_test.pkl"
         "/home/hpx/HPX_LOCO_2/GMR/"
-        + "retargeting_data/Q1/251021/251021_03_saw_120Hz.pkl"
+        # + "retargeting_data/Q1/251021/251021_03_saw_120Hz.pkl"
+        + "retargeting_data/Q1/251021/251021_01_slowly_walk_120Hz.pkl"
+        # + "retargeting_data/Q1/251021/251021_05_xingyiquan_120Hz.pkl"
         # "/home/hpx/HPX_LOCO_2/retargeting/retargeting_data/unitree_h1_2_xsens_ground_0917.pkl"
     )
     # 7+27
     d = mujoco_displayanimanim(robot_xml_file_name, retargeting_data_file_name)
-    d.save_as_csv("lafan_Q1/251021/251021_03_saw_120Hz.csv")
+    d.save_as_csv("lafan_Q1/251021/251021_01_slowly_walk_120Hz.csv")
     d.animate_bvh()
