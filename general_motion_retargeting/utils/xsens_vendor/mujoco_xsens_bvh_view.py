@@ -148,7 +148,6 @@ class mujoco_displayanimanim:
                         )
                 self.data.qvel[:] = 0
                 time.sleep(frame_time)
-                print(self.data.qpos[3])
                 mujoco.mj_step(self.model, self.data)
                 # self.set_camera()
                 self.renderer.update_scene(

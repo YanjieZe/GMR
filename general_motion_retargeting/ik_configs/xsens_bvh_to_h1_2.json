@@ -7,22 +7,22 @@
     "use_ik_match_table2": true,
     "human_scale_table": {
         "Hips": 1.06,
-        "Spine2": 1.1,
+        "Chest4": 1.1,
 
-        "LeftUpLeg": 1,
-        "RightUpLeg": 1,
-        "LeftLeg": 1.1,
-        "RightLeg": 1.1,
+        "LeftHip": 1,
+        "RightHip": 1,
+        "LeftKnee": 1.1,
+        "RightKnee": 1.1,
         "LeftFootMod": 1.1,
         "RightFootMod": 1.1,
 
-        "LeftArm": 1.1,
-        "RightArm": 1.1,
-        "LeftForeArm": 0.95,
-        "RightForeArm": 0.95,
+        "LeftShoulder": 1.1,
+        "RightShoulder": 1.1,
+        "LeftElbow": 0.95,
+        "RightElbow": 0.95,
 
-        "RightHand": 1.123,
-        "LeftHand": 1.123
+        "RightWrist": 1.123,
+        "LeftWrist": 1.123
         
     },
 
@@ -44,7 +44,7 @@
             ]
         ],
         "left_hip_roll_link": [
-            "LeftUpLeg",
+            "LeftHip",
             0,
             10,
             [
@@ -60,7 +60,7 @@
             ]
         ],
         "left_knee_link": [
-            "LeftLeg",
+            "LeftKnee",
             0,
             10,
             [
@@ -92,7 +92,7 @@
             ]
         ],
         "right_hip_roll_link": [
-            "RightUpLeg",
+            "RightHip",
             0,
             10,
             [
@@ -108,7 +108,7 @@
             ]
         ],
         "right_knee_link": [
-            "RightLeg",
+            "RightKnee",
             0,
             10,
             [
@@ -140,7 +140,7 @@
             ]
         ],
         "torso_link": [
-            "Spine2",
+            "Chest4",
             0,
             10,
             [
@@ -156,7 +156,7 @@
             ]
         ],
         "left_shoulder_roll_link": [
-            "LeftArm",
+            "LeftShoulder",
             0,
             10,
             [
@@ -172,7 +172,7 @@
             ]
         ],
         "left_elbow_link": [
-            "LeftForeArm",
+            "LeftElbow",
             0,
             20,
             [
@@ -188,7 +188,7 @@
             ]
         ],
         "left_wrist_yaw_link": [
-            "LeftHand",
+            "LeftWrist",
             0,
             20,
             [
@@ -204,7 +204,7 @@
             ]
         ],
         "right_shoulder_roll_link": [
-            "RightArm",
+            "RightShoulder",
             0,
             10,
             [
@@ -220,7 +220,7 @@
             ]
         ],
         "right_elbow_link": [
-            "RightForeArm",
+            "RightElbow",
             0,
             20,
             [
@@ -236,7 +236,7 @@
             ]
         ],
         "right_wrist_yaw_link": [
-            "RightHand",
+            "RightWrist",
             0,
             20,
             [
@@ -270,7 +270,7 @@
             ]
         ],
         "left_hip_roll_link": [
-            "LeftUpLeg",
+            "LeftHip",
             10,
             5,
             [
@@ -287,7 +287,7 @@
 
         ],
         "left_knee_link": [
-            "LeftLeg",
+            "LeftKnee",
             10,
             5,
             [
@@ -319,7 +319,7 @@
             ]
         ],
         "right_hip_roll_link": [
-            "RightUpLeg",
+            "RightHip",
             10,
             5,
             [
@@ -335,7 +335,7 @@
             ]
         ],
         "right_knee_link": [
-            "RightLeg",
+            "RightKnee",
             10,
             5,
             [
@@ -367,7 +367,7 @@
             ]
         ],
         "torso_link": [
-            "Spine2",
+            "Chest4",
             0,
             0,
             [
@@ -383,7 +383,7 @@
             ]
         ],
         "left_shoulder_roll_link": [
-            "LeftArm",
+            "LeftShoulder",
             10,
             5,
             [
@@ -399,7 +399,7 @@
             ]
         ],
         "left_elbow_link": [
-            "LeftForeArm",
+            "LeftElbow",
             10,
             5,
             [
@@ -415,7 +415,7 @@
             ]
         ],
         "left_wrist_yaw_link": [
-            "LeftHand",
+            "LeftWrist",
             5,
             15,
             [
@@ -432,7 +432,7 @@
         ],
         
         "right_shoulder_roll_link": [
-            "RightArm",
+            "RightShoulder",
             10,
             5,
             [
@@ -448,7 +448,7 @@
             ]
         ],
         "right_elbow_link": [
-            "RightForeArm",
+            "RightElbow",
             10,
             5,
             [
@@ -464,7 +464,7 @@
             ]
         ],
         "right_wrist_yaw_link": [
-            "RightHand",
+            "RightWrist",
             5,
             15,
             [

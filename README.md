@@ -271,6 +271,11 @@ By default there is no visualization for batch retargeting.
 ```bash
 python general_motion_retargeting/utils/xsens_vendor/mujoco_xsens_bvh_view.py --bvh_file <path_to_dir_of_bvh_data> --scale <displacement scaling size> --reset_to_zero
 ```
+like
+```bash
+python general_motion_retargeting/utils/xsens_vendor/mujoco_xsens_bvh_view.py --scale 0.01 --bvh_file xsens_bvh_test/251021_04_boxing_120Hz_cm_3DsMax.bvh --reset_to_zero
+```
+
 - `--start` is used to specify the initial processing frame. If no input is given, processing will start from the first frame by default.
 
 - `--end` is used to specify the final processing frame. If not input, it will be processed by default to the last frame.
@@ -287,7 +292,10 @@ python general_motion_retargeting/utils/xsens_vendor/mujoco_xsens_bvh_view.py --
 # single motion
 python scripts/xsens_bvh_to_robot.py --bvh_file <path_to_bvh_data> --robot <path_to_robot_data> --save_path <path_to_save_robot_data.pkl> --rate_limit --start <number of the first frame> --scale <displacement scaling size> --reset_to_zero --bvh_format <exported bvh format>
 ```
-
+like
+```bash
+python scripts/xsens_bvh_to_robot.py  --robot unitree_h1_2 --scale 0.01 --reset_to_zero --bvh_format 3DSM --bvh_file xsens_bvh_test/251021_04_boxing_120Hz_cm_3DsMax.bvh --save_path retargeting_data/h1/251021_04_boxing_120Hz_cm_3DsMax.pkl
+```
 ##### By default you should see the visualization of the retargeted robot motion in a mujoco window. 
 - `--rate_limit` is used to limit the rate of the retargeted robot motion to keep the same as the human motion. If you want it as fast as possible, remove `--rate_limit`.
 
