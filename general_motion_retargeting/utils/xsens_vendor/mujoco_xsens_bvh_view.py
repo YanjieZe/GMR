@@ -7,19 +7,17 @@ from scipy.spatial.transform import Rotation
 import argparse
 from video_recorder import VideoRecorder
 
+
 class mujoco_displayanimanim:
     def __init__(self, _parser, _anim):
         self.scale = _parser.scale
         self.parser = _parser
         self.anim = _anim
-        self.global_data = quat_fk(
-                self.anim.quats, self.anim.pos, self.anim.parents
-            )
+        self.global_data = quat_fk(self.anim.quats, self.anim.pos, self.anim.parents)
 
     def _init_xml_data(self, save_flag=True):
         # 生成 MuJoCo XML
-        self.xml_content = self.parser.generate_mujoco_xml(frame_0=self.anim.pos[0, 0]
-        )
+        self.xml_content = self.parser.generate_mujoco_xml(frame_0=self.anim.pos[0, 0])
         # print(xml_content)
         xml_file_name = "human_skeleton.xml"
         if save_flag:
@@ -43,15 +41,19 @@ class mujoco_displayanimanim:
     ):
         # 添加X轴箭头（红色）
         i = self.viewer.user_scn.ngeom
-        from_pos = np.array(position + position_offset, dtype=np.float64).reshape(-1,1)
+        from_pos = np.array(position + position_offset, dtype=np.float64).reshape(-1, 1)
         if rotation_matrix is not None:
-            rotation_matrix = np.array(rotation_matrix, dtype=np.float64).reshape(9).reshape(-1,1)
+            rotation_matrix = (
+                np.array(rotation_matrix, dtype=np.float64).reshape(9).reshape(-1, 1)
+            )
         else:
-            rotation_matrix = np.eye(3).flatten().astype(np.float64).reshape(-1,1)  # 默认单位矩阵
+            rotation_matrix = (
+                np.eye(3).flatten().astype(np.float64).reshape(-1, 1)
+            )  # 默认单位矩阵
         rgba_list = [
-            np.array([1.0, 0.0, 0.0, 1.0], dtype=np.float32).reshape(-1,1),  # 红色
-            np.array([0.0, 1.0, 0.0, 1.0], dtype=np.float32).reshape(-1,1),  # 绿色
-            np.array([0.0, 0.0, 1.0, 1.0], dtype=np.float32).reshape(-1,1),  # 蓝色
+            np.array([1.0, 0.0, 0.0, 1.0], dtype=np.float32).reshape(-1, 1),  # 红色
+            np.array([0.0, 1.0, 0.0, 1.0], dtype=np.float32).reshape(-1, 1),  # 绿色
+            np.array([0.0, 0.0, 1.0, 1.0], dtype=np.float32).reshape(-1, 1),  # 蓝色
         ]
         for axis_idx in range(3):
             geom = self.viewer.user_scn.geoms[self.viewer.user_scn.ngeom]
@@ -63,13 +65,15 @@ class mujoco_displayanimanim:
             mujoco.mjv_initGeom(
                 geom,
                 type=mujoco.mjtGeom.mjGEOM_ARROW,
-                size= np.array([0.0, 0.0, 0.0], dtype=np.float64).reshape(-1,1),
+                size=np.array([0.0, 0.0, 0.0], dtype=np.float64).reshape(-1, 1),
                 pos=from_pos,
                 mat=rotation_matrix,
                 rgba=rgba_list[axis_idx],
             )
             fix = orientation_correction.as_matrix().astype(np.float64)
-            to_pos = from_pos + axis_length * (rotation_matrix.reshape(3, 3) @ fix)[:, axis_idx].reshape(-1,1)
+            to_pos = from_pos + axis_length * (rotation_matrix.reshape(3, 3) @ fix)[
+                :, axis_idx
+            ].reshape(-1, 1)
             # print("to_pos:\r\n\t",to_pos.shape,"\r\n\t",to_pos)
             mujoco.mjv_connector(
                 geom,
@@ -90,7 +94,7 @@ class mujoco_displayanimanim:
 
     def animate_bvh(self, scale=None):
         scale = self.scale if scale is None else 0.01
-        print("animate scale:",scale)
+        print("animate scale:", scale)
         # 动画播放
         frames_len = len(self.parser.frames)
         frame_time = self.parser.frame_time
@@ -125,8 +129,10 @@ class mujoco_displayanimanim:
                             self.global_data[1][frame_idx, idx],
                             rotation_matrix=Rotation.from_quat(
                                 self.global_data[0][frame_idx, idx], scalar_first=True
-                            ).as_matrix().flatten(),
-                            joint_name = name,
+                            )
+                            .as_matrix()
+                            .flatten(),
+                            joint_name=name,
                         )
                     else:
                         self.data.qpos[0:3] = self.anim.pos[frame_idx, 0, :]
@@ -135,8 +141,10 @@ class mujoco_displayanimanim:
                             self.global_data[1][frame_idx, idx],
                             rotation_matrix=Rotation.from_quat(
                                 self.global_data[0][frame_idx, idx], scalar_first=True
-                            ).as_matrix().flatten(),
-                            joint_name = name,
+                            )
+                            .as_matrix()
+                            .flatten(),
+                            joint_name=name,
                         )
                 self.data.qvel[:] = 0
                 time.sleep(frame_time)
@@ -174,21 +182,41 @@ if __name__ == "__main__":
         default=0.01,
         type=float,
     )
+
+    parser.add_argument(
+        "--start",
+        default=None,
+        type=int,
+        help="The sequence number of the first frame that you want to process",
+    )
+
+    parser.add_argument(
+        "--end",
+        default=None,
+        type=int,
+        help="The sequence number of the last frame that you want to process",
+    )
+
+    parser.add_argument(
+        "--reset_to_zero",
+        action="store_true",
+        default=False,
+        help="Set the displacement and Z-axis rotation to zero",
+    )
+
     args = parser.parse_args()
-    # bvh_file_name = "xsens_bvh/hpx_walk_3DSM_cm.bvh"
-    # bvh_file_name = "xsens_bvh/bj_jump_MB.bvh"
-    # bvh_file_name = "xsens_bvh/bj_jump_P6.bvh"
-    # bvh_file_name = "xsens_bvh/bj_jump_3DSM.bvh"
     bvh_file_name = args.bvh_file
     xml_file_name = "human_skeleton.xml"
-    # scale = 1
     scale = args.scale
-    parser = BVHParser('zxy', args.scale)
+    parser = BVHParser("zxy", args.scale)
     with open(args.bvh_file, "r") as f:
         bvh_text = f.read()
-        rotations, positions = parser.parse(bvh_text,start = 2,reset_to_zero=True)
+        rotations, positions = parser.parse(
+            bvh_text, start=args.start, end=args.end, reset_to_zero=args.reset_to_zero
+        )
     from PyQt6.QtWidgets import QApplication
     import sys
+
     app = QApplication(sys.argv)
     window = parser.bias_edit(rotations, positions)  # 假设rotations/positions预计算
     window.show()
