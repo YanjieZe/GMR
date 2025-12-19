@@ -6,6 +6,9 @@ import json
 from scipy.spatial.transform import Rotation as R
 from .params import ROBOT_XML_DICT, IK_CONFIG_DICT
 from rich import print
+# motion_retarget.py 상단 import 근처에 추가
+from mink.exceptions import TargetNotSet
+
 
 class GeneralMotionRetargeting:
     """General Motion Retargeting (GMR).
@@ -94,7 +97,9 @@ class GeneralMotionRetargeting:
 
         self.task_errors1 = {}
         self.task_errors2 = {}
-
+        # task -> human body mapping (중복 body_name 대응용)
+        self.task_to_human_body1 = {}
+        self.task_to_human_body2 = {}
         self.ik_limits = [mink.ConfigurationLimit(self.model)]
         if use_velocity_limit:
             VELOCITY_LIMITS = {k: 3*np.pi for k in self.robot_motor_names.keys()}
@@ -106,132 +111,210 @@ class GeneralMotionRetargeting:
 
     def setup_retarget_configuration(self):
         self.configuration = mink.Configuration(self.model)
-    
+
         self.tasks1 = []
         self.tasks2 = []
-        
+
+        # reset mappings
+        self.human_body_to_task1 = {}
+        self.human_body_to_task2 = {}
+        self.task_to_human_body1 = {}
+        self.task_to_human_body2 = {}
+
+        self.pos_offsets1 = {}
+        self.rot_offsets1 = {}
+        self.pos_offsets2 = {}
+        self.rot_offsets2 = {}
+
+        self.task_errors1 = {}
+        self.task_errors2 = {}
+
+        # table1
         for frame_name, entry in self.ik_match_table1.items():
             body_name, pos_weight, rot_weight, pos_offset, rot_offset = entry
-            if pos_weight != 0 or rot_weight != 0:
-                task = mink.FrameTask(
-                    frame_name=frame_name,
-                    frame_type="body",
-                    position_cost=pos_weight,
-                    orientation_cost=rot_weight,
-                    lm_damping=1,
-                )
-                self.human_body_to_task1[body_name] = task
-                self.pos_offsets1[body_name] = np.array(pos_offset) - self.ground
-                self.rot_offsets1[body_name] = R.from_quat(
-                    rot_offset, scalar_first=True
-                )
-                self.tasks1.append(task)
-                self.task_errors1[task] = []
-        
+            if pos_weight == 0 and rot_weight == 0:
+                continue
+
+            task = mink.FrameTask(
+                frame_name=frame_name,
+                frame_type="body",
+                position_cost=pos_weight,
+                orientation_cost=rot_weight,
+                lm_damping=1,
+            )
+
+            # NOTE: body_name 중복 가능 → dict에 덮어써져도 상관없게, task->body 매핑을 별도로 유지
+            self.human_body_to_task1[body_name] = task
+            self.task_to_human_body1[task] = body_name
+
+            self.pos_offsets1[body_name] = np.array(pos_offset) - self.ground
+            self.rot_offsets1[body_name] = R.from_quat(rot_offset, scalar_first=True)
+
+            self.tasks1.append(task)
+            self.task_errors1[task] = []
+
+        # table2
         for frame_name, entry in self.ik_match_table2.items():
             body_name, pos_weight, rot_weight, pos_offset, rot_offset = entry
-            if pos_weight != 0 or rot_weight != 0:
-                task = mink.FrameTask(
-                    frame_name=frame_name,
-                    frame_type="body",
-                    position_cost=pos_weight,
-                    orientation_cost=rot_weight,
-                    lm_damping=1,
-                )
-                self.human_body_to_task2[body_name] = task
-                self.pos_offsets2[body_name] = np.array(pos_offset) - self.ground
-                self.rot_offsets2[body_name] = R.from_quat(
-                    rot_offset, scalar_first=True
-                )
-                self.tasks2.append(task)
-                self.task_errors2[task] = []
+            if pos_weight == 0 and rot_weight == 0:
+                continue
 
-  
+            task = mink.FrameTask(
+                frame_name=frame_name,
+                frame_type="body",
+                position_cost=pos_weight,
+                orientation_cost=rot_weight,
+                lm_damping=1,
+            )
+
+            self.human_body_to_task2[body_name] = task
+            self.task_to_human_body2[task] = body_name
+
+            self.pos_offsets2[body_name] = np.array(pos_offset) - self.ground
+            self.rot_offsets2[body_name] = R.from_quat(rot_offset, scalar_first=True)
+
+            self.tasks2.append(task)
+            self.task_errors2[task] = []
+
+
     def update_targets(self, human_data, offset_to_ground=False):
-        # scale human data in local frame
+        # scale/offset human data
         human_data = self.to_numpy(human_data)
         human_data = self.scale_human_data(human_data, self.human_root_name, self.human_scale_table)
+
+        # table1 offset 적용 (pos_offsets1/rot_offsets1에 있는 body만)
         human_data = self.offset_human_data(human_data, self.pos_offsets1, self.rot_offsets1)
         human_data = self.apply_ground_offset(human_data)
+
         if offset_to_ground:
             human_data = self.offset_human_data_to_ground(human_data)
+
         self.scaled_human_data = human_data
 
+        # ✅ 핵심: tasks1 전체를 돌면서 task->body_name으로 target을 set
         if self.use_ik_match_table1:
-            for body_name in self.human_body_to_task1.keys():
-                task = self.human_body_to_task1[body_name]
+            for task in self.tasks1:
+                body_name = self.task_to_human_body1[task]
+                if body_name not in human_data:
+                    # 데이터에 없으면 target 못 세팅 → 경고만
+                    print(f"[WARN] human_data missing key for tasks1: {body_name}")
+                    continue
                 pos, rot = human_data[body_name]
                 task.set_target(mink.SE3.from_rotation_and_translation(mink.SO3(rot), pos))
-        
+
         if self.use_ik_match_table2:
-            for body_name in self.human_body_to_task2.keys():
-                task = self.human_body_to_task2[body_name]
+            for task in self.tasks2:
+                body_name = self.task_to_human_body2[task]
+                if body_name not in human_data:
+                    print(f"[WARN] human_data missing key for tasks2: {body_name}")
+                    continue
                 pos, rot = human_data[body_name]
                 task.set_target(mink.SE3.from_rotation_and_translation(mink.SO3(rot), pos))
-            
-            
+
+
     def retarget(self, human_data, offset_to_ground=False):
-        # Update the task targets
         self.update_targets(human_data, offset_to_ground)
 
-        if self.use_ik_match_table1:
-            # Solve the IK problem
+        dt = self.configuration.model.opt.timestep
+
+        if self.use_ik_match_table1 and len(self.tasks1) > 0:
             curr_error = self.error1()
-            dt = self.configuration.model.opt.timestep
+
             vel1 = mink.solve_ik(
-                self.configuration, self.tasks1, dt, self.solver, self.damping, self.ik_limits
+                self.configuration,
+                self.tasks1,
+                dt,
+                self.solver,
+                self.damping,
+                self.ik_limits,
             )
             self.configuration.integrate_inplace(vel1, dt)
+
             next_error = self.error1()
             num_iter = 0
-            while curr_error - next_error > 0.001 and num_iter < self.max_iter:
+            while (curr_error - next_error) > 0.001 and num_iter < self.max_iter:
                 curr_error = next_error
                 dt = self.configuration.model.opt.timestep
                 vel1 = mink.solve_ik(
-                    self.configuration, self.tasks1, dt, self.solver, self.damping, self.ik_limits
+                    self.configuration,
+                    self.tasks1,
+                    dt,
+                    self.solver,
+                    self.damping,
+                    self.ik_limits,
                 )
                 self.configuration.integrate_inplace(vel1, dt)
                 next_error = self.error1()
                 num_iter += 1
 
-        if self.use_ik_match_table2:
+        if self.use_ik_match_table2 and len(self.tasks2) > 0:
             curr_error = self.error2()
-            dt = self.configuration.model.opt.timestep
+
             vel2 = mink.solve_ik(
-                self.configuration, self.tasks2, dt, self.solver, self.damping, self.ik_limits
+                self.configuration,
+                self.tasks2,
+                dt,
+                self.solver,
+                self.damping,
+                self.ik_limits,
             )
             self.configuration.integrate_inplace(vel2, dt)
+
             next_error = self.error2()
             num_iter = 0
-            while curr_error - next_error > 0.001 and num_iter < self.max_iter:
+            while (curr_error - next_error) > 0.001 and num_iter < self.max_iter:
                 curr_error = next_error
-                # Solve the IK problem with the second task
                 dt = self.configuration.model.opt.timestep
                 vel2 = mink.solve_ik(
-                    self.configuration, self.tasks2, dt, self.solver, self.damping, self.ik_limits
+                    self.configuration,
+                    self.tasks2,
+                    dt,
+                    self.solver,
+                    self.damping,
+                    self.ik_limits,
                 )
                 self.configuration.integrate_inplace(vel2, dt)
-                
                 next_error = self.error2()
                 num_iter += 1
-                
-            
+
         return self.configuration.data.qpos.copy()
 
 
     def error1(self):
-        return np.linalg.norm(
-            np.concatenate(
-                [task.compute_error(self.configuration) for task in self.tasks1]
-            )
-        )
-    
+        errs = []
+        unset = []
+        for task in self.tasks1:
+            try:
+                errs.append(task.compute_error(self.configuration))
+            except TargetNotSet:
+                name = getattr(task, "frame_name", None) or getattr(task, "name", None) or task.__class__.__name__
+                unset.append(str(name))
+
+        if unset:
+            print(f"[WARN] FrameTask target not set (tasks1, skipped): {unset[:10]}{' ...' if len(unset) > 10 else ''}")
+
+        if len(errs) == 0:
+            return 0.0
+        return np.linalg.norm(np.concatenate(errs))
+
+
     def error2(self):
-        return np.linalg.norm(
-            np.concatenate(
-                [task.compute_error(self.configuration) for task in self.tasks2]
-            )
-        )
+        errs = []
+        unset = []
+        for task in self.tasks2:
+            try:
+                errs.append(task.compute_error(self.configuration))
+            except TargetNotSet:
+                name = getattr(task, "frame_name", None) or getattr(task, "name", None) or task.__class__.__name__
+                unset.append(str(name))
+
+        if unset:
+            print(f"[WARN] FrameTask target not set (tasks2, skipped): {unset[:10]}{' ...' if len(unset) > 10 else ''}")
+
+        if len(errs) == 0:
+            return 0.0
+        return np.linalg.norm(np.concatenate(errs))
+
 
 
     def to_numpy(self, human_data):
