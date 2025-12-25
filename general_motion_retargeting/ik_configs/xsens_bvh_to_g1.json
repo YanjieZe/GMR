@@ -186,7 +186,7 @@
             ]
         ],
         "left_wrist_yaw_link": [
-            "RightWrist",
+            "LeftWrist",
             0,
             10,
             [
@@ -234,7 +234,7 @@
             ]
         ],
         "right_wrist_yaw_link": [
-            "LeftWrist",
+            "RightWrist",
             0,
             10,
             [
@@ -412,7 +412,7 @@
             ]
         ],
         "left_wrist_yaw_link": [
-            "RightWrist",
+            "LeftWrist",
             10,
             5,
             [
@@ -460,7 +460,7 @@
             ]
         ],
         "right_wrist_yaw_link": [
-            "LeftWrist",
+            "RightWrist",
             10,
             5,
             [
