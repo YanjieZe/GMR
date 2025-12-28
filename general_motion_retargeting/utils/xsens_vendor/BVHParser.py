@@ -1,7 +1,6 @@
 import re
 import numpy as np
-from scipy.spatial.transform import Rotation
-
+from scipy.spatial.transform import Rotation as R
 
 class Anim(object):
     """
@@ -51,7 +50,7 @@ def euler_to_quat(euler):
     # Convert degrees to radians
     mujoco_euler_rad = np.deg2rad(np.array(euler))
     # mujoco_euler_rad = euler
-    rot = Rotation.from_euler("xyz", mujoco_euler_rad, degrees=False)
+    rot = R.from_euler("xyz", mujoco_euler_rad, degrees=False)
     quat = rot.as_quat(scalar_first=True)
     return quat
 
@@ -160,6 +159,7 @@ class BVHParser:
         self.channel_map = []  # 存储每个节点的通道索引
         self.axis_idx = [ordermap[ax] for ax in axis_order]
         self.scale = scale
+        self.r = 0.015
 
     def _HIERARCHY_paser(self, line_idx=-1):
         try:
@@ -528,11 +528,29 @@ class BVHParser:
                 xml += f'{spaces}  <joint name="floating_base_joint" type="free" limited="false" actuatorfrclimited="false"/>\n'
             else:
                 xml += f'{spaces}  <joint type="ball" name="{node.name}_joint"/>\n'
-            xml += (
-                f'{spaces}  <geom type="sphere" size="0.025" rgba="0.8 0.8 0.8 0.5"/>\n'
-            )
+            if node.name == "Hips":
+                xml += (
+                    f'{spaces}  <geom type="sphere" size="{str(self.r*1.5)}" rgba="0.5 0.0 1.0 0.5"/>\n'
+                )
+            elif node.name.endswith("_end_site"):
+                xml += (
+                    f'{spaces}  <geom type="sphere" size="{str(self.r*1.5)}" rgba="1.0 0.5 0.0 0.5"/>\n'
+                )
+            else:
+                xml += (
+                    f'{spaces}  <geom type="sphere" size="{str(self.r*1.5)}" rgba="0.8 0.8 0.8 0.5"/>\n'
+                )
             for child in node.children:
+                v = np.array(child.offset)
+                l = np.linalg.norm(v)
+                pos_str = " ".join(f"{x/2:.6f}" for x in child.offset)
+                q_xyzw = R.align_vectors([v/l], [[0,0,1]])[0].as_quat(scalar_first = True).tolist()
+                q_str = " ".join(f"{x/2}" for x in q_xyzw)
+                xml += (
+                    f'{spaces}  <geom type="capsule" size="{str(self.r)} {str(np.clip(l*0.5 - self.r*2,min=0)+1e-5)}" pos="{pos_str}"  quat="{q_str}"  rgba="1.0 0.5 1.0 0.5"/>\n'
+                )
                 xml += generate_xml(child, indent + 2)
+
             xml += f"{spaces}</body>\n"
             return xml
 
@@ -549,7 +567,6 @@ class BVHParser:
         body_xml = generate_xml(self.root, 4)
         scene = """
     <!-- setup scene -->
-  !-- setup scene -->
   <statistic center="1.0 0.7 1.0" extent="0.8"/>
     <visual>
         <headlight diffuse="0.6 0.6 0.6" ambient="0.1 0.1 0.1" specular="0.9 0.9 0.9"/>
@@ -557,7 +574,7 @@ class BVHParser:
         <global azimuth="-140" elevation="-20" offwidth="2080" offheight="1170"/>
     </visual>
     <asset>
-         <texture type="skybox" builtin="gradient" rgb1="1 1 1" rgb2="1 1 1" width="800" height="800"/>
+        <texture type="skybox" builtin="gradient" rgb1="1 1 1" rgb2="1 1 1" width="800" height="800"/>
     <texture type="2d" name="groundplane" builtin="checker" mark="edge" rgb1="1 1 1" rgb2="1 1 1" markrgb="0 0 0"
       width="300" height="300"/>
     <material name="groundplane" texture="groundplane" texuniform="true" texrepeat="5 5" reflectance="0"/>
