@@ -36,7 +36,16 @@ if __name__ == "__main__":
     
     parser.add_argument(
         "--robot",
-        choices=["unitree_g1", "unitree_g1_with_hands", "booster_t1", "stanford_toddy", "fourier_n1", "engineai_pm01", "pal_talos"],
+        choices=[
+            "unitree_g1",
+            "unitree_g1_with_hands",
+            "booster_t1",
+            "stanford_toddy",
+            "fourier_n1",
+            "engineai_pm01",
+            "pal_talos",
+            "skeleton",
+        ],
         default="unitree_g1",
     )
     
