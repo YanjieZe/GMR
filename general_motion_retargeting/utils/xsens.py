@@ -54,7 +54,7 @@ def load_xsens_file(args):
         # To make the config file more universal,
         # here the descriptions of the key points of the bvh file
         # that xsens may obtain are aligned with Lafan1
-        if args.bvh_format == "3DSM" or args.bvh_format == "MB":
+        if args.bvh_format == "3DSM":
             result["LeftFootMod"] = (
                 np.array(
                     [
@@ -82,20 +82,9 @@ def load_xsens_file(args):
 
             # result["Spine2"] = result.pop("Chest4")
 
-        else:
-            result["LeftFootMod"] = (result["LeftAnkle"][0], result["lToe"][1])
-            result["RightFootMod"] = (result["RightAnkle"][0], result["rToe"][1])
-            # result["Spine2"] = result.pop("Chest")
-
         frames.append(result)
 
     human_height = result["Head_end_site"][0][2] - min(
         result["LeftToe_end_site"][0][2], result["LeftToe_end_site"][0][2]
     )
-    # print(result["Head_end_site"][0][2] - min(
-    #     result["LeftToe_end_site"][0][2], result["LeftToe_end_site"][0][2]
-    # ))
-    # human_height = human_height + 0.2  # cm to m
-    # human_height = 1.75  # cm to m
-
     return frames, human_height, frame_time
