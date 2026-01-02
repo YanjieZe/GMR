@@ -110,6 +110,7 @@ xsens_bvh/*
 
 lafan_Q1/*
 lafan_h1_2/*
+lafan_bvh/*
 assets/Q1
 AMASS_SMPLX_G/*
 human_skeleton.xml

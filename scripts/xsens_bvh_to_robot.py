@@ -99,8 +99,6 @@ if __name__ == "__main__":
         type=str,
         choices=[
             "3DSM",
-            "MB",
-            "P6",
         ],
         help="The format of bvh files,3ds Max,MotionBuilder,and P6?",
     )
