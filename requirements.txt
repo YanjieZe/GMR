@@ -1,0 +1,2 @@
+--extra-index-url https://gitlab.inria.fr/api/v4/projects/18692/packages/pypi/simple
+fbxsdkpy==2020.1.post2

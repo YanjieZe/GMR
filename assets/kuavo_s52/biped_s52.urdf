@@ -1,0 +1,1043 @@
+<?xml version='1.0' encoding='utf-8'?>
+<robot name="biped_s52">
+  <mujoco>
+    <compiler meshdir="meshes/" balanceinertia="true" discardvisual="false" />
+  </mujoco>
+
+  <!-- Material definitions - Based on biped_s50 color scheme -->
+  <material name="base">
+    <color rgba="0.3 0.6 0.9 1" />
+  </material>
+  
+  <material name="waist">
+    <color rgba="0.4 0.5 0.9 1" />
+  </material>
+  
+  <!-- Leg colors -->
+  <material name="leg_l1">
+    <color rgba="0.2 0.8 0.4 1" />
+  </material>
+  
+  <material name="leg_l2">
+    <color rgba="0.3 0.9 0.5 1" />
+  </material>
+  
+  <material name="leg_l3">
+    <color rgba="0.4 0.8 0.3 1" />
+  </material>
+  
+  <material name="leg_l4">
+    <color rgba="0.5 0.9 0.2 1" />
+  </material>
+  
+  <material name="leg_l5">
+    <color rgba="0.6 0.8 0.1 1" />
+  </material>
+  
+  <material name="leg_l6">
+    <color rgba="0.7 0.9 0.3 1" />
+  </material>
+  
+  <material name="leg_r1">
+    <color rgba="0.2 0.8 0.4 1" />
+  </material>
+  
+  <material name="leg_r2">
+    <color rgba="0.3 0.9 0.5 1" />
+  </material>
+  
+  <material name="leg_r3">
+    <color rgba="0.4 0.8 0.3 1" />
+  </material>
+  
+  <material name="leg_r4">
+    <color rgba="0.5 0.9 0.2 1" />
+  </material>
+  
+  <material name="leg_r5">
+    <color rgba="0.6 0.8 0.1 1" />
+  </material>
+  
+  <material name="leg_r6">
+    <color rgba="0.7 0.9 0.3 1" />
+  </material>
+  
+  <!-- Arm colors -->
+  <material name="zarm_l1">
+    <color rgba="0.9 0.5 0.2 1" />
+  </material>
+  
+  <material name="zarm_l2">
+    <color rgba="0.8 0.6 0.3 1" />
+  </material>
+  
+  <material name="zarm_l3">
+    <color rgba="0.9 0.4 0.1 1" />
+  </material>
+  
+  <material name="zarm_l4">
+    <color rgba="0.8 0.5 0.2 1" />
+  </material>
+  
+  <material name="zarm_l5">
+    <color rgba="0.9 0.6 0.3 1" />
+  </material>
+  
+  <material name="zarm_l6">
+    <color rgba="0.8 0.7 0.4 1" />
+  </material>
+  
+  <material name="zarm_l7">
+    <color rgba="1.0 0.6 0.8 1" />
+  </material>
+  
+  <material name="zarm_r1">
+    <color rgba="0.9 0.5 0.2 1" />
+  </material>
+  
+  <material name="zarm_r2">
+    <color rgba="0.8 0.6 0.3 1" />
+  </material>
+  
+  <material name="zarm_r3">
+    <color rgba="0.9 0.4 0.1 1" />
+  </material>
+  
+  <material name="zarm_r4">
+    <color rgba="0.8 0.5 0.2 1" />
+  </material>
+  
+  <material name="zarm_r5">
+    <color rgba="0.9 0.6 0.3 1" />
+  </material>
+  
+  <material name="zarm_r6">
+    <color rgba="0.8 0.7 0.4 1" />
+  </material>
+  
+  <material name="zarm_r7">
+    <color rgba="1.0 0.6 0.8 1" />
+  </material>
+  
+  <!-- Head colors -->
+  <material name="zhead_1">
+    <color rgba="0.8 0.2 0.4 1" />
+  </material>
+  
+  <material name="zhead_2">
+    <color rgba="1.0 0.4 0.6 1" />
+  </material>
+  
+  <material name="camera">
+    <color rgba="1.0 0.0 0.0 1" />
+  </material>
+
+  <link name="base_link">
+    <inertial>
+      <origin xyz="-0.05051209 1.42e-06 -0.01248997" rpy="0 0 0" />
+      <mass value="6.53483928" />
+      <inertia ixx="0.06836878" ixy="1.858e-05" ixz="-0.0165872" iyy="0.04966552" iyz="-1.2e-05" izz="0.06645264" />
+    </inertial>
+    <visual>
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="meshes/torso.STL" />
+      </geometry>
+      <material name="base" />
+    </visual>
+    <!-- <collision>
+      <origin xyz="0.0 0.0 0.28" rpy="0.0 0.0 0.0"/>
+      <geometry>
+        <box size="0.29 0.32 0.4"/>
+      </geometry>
+    </collision> -->
+  </link>
+
+  <link name="leg_l1_link">
+    <inertial>
+      <origin xyz="-0.00558741 0.0001005 0.00069219" rpy="0 0 0" />
+      <mass value="1.63858534" />
+      <inertia ixx="0.00162115" ixy="-1.138e-05" ixz="-1.192e-05" iyy="0.00214632" iyz="1.03e-05" izz="0.0022122" />
+    </inertial>
+    <visual>
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="meshes/l_leg_roll.STL" />
+      </geometry>
+      <material name="leg_l1" />
+    </visual>
+  </link>
+  <joint name="leg_l1_joint" type="revolute">
+    <origin xyz="0.0 0.095075 -0.066" rpy="0 0 0" />
+    <parent link="base_link" />
+    <child link="leg_l1_link" />
+    <axis xyz="1 0 0" />
+    <limit lower="-0.314159265358979" upper="0.663225115757845" effort="180.0" velocity="23.55" />
+    <dynamics damping="0.2" friction="0.0" />
+  </joint>
+  <link name="leg_l2_link">
+    <inertial>
+      <origin xyz="0.00013508 -0.00098545 -0.09149892" rpy="0 0 0" />
+      <mass value="0.70575545" />
+      <inertia ixx="0.00323862" ixy="-7.7e-05" ixz="3.2e-05" iyy="0.00183633" iyz="-6.472e-05" izz="0.00219531" />
+    </inertial>
+    <visual>
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="meshes/l_leg_yaw.STL" />
+      </geometry>
+      <material name="leg_l2" />
+    </visual>
+  </link>
+  <joint name="leg_l2_joint" type="revolute">
+    <origin xyz="0 0 0" rpy="0 0 0" />
+    <parent link="leg_l1_link" />
+    <child link="leg_l2_link" />
+    <axis xyz="0 0 1" />
+    <limit lower="-0.872664625997165" upper="0.785398163397448" effort="100.0" velocity="41.3433333333333" />
+    <dynamics damping="0.2" friction="0.0" />
+  </joint>
+  <link name="leg_l3_link">
+    <inertial>
+      <origin xyz="0.00306476 0.00954886 -0.0778944" rpy="0 0 0" />
+      <mass value="5.93791258" />
+      <inertia ixx="0.05198316" ixy="2.637e-05" ixz="0.00155235" iyy="0.0492486" iyz="0.00371169" izz="0.01606721" />
+    </inertial>
+    <visual>
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="meshes/l_leg_pitch.STL" />
+      </geometry>
+      <material name="leg_l3" />
+    </visual>
+    <collision>
+      <origin xyz="0.0 0.0 -0.09" rpy="0.0 0.0 0.0"/>
+      <geometry>
+        <cylinder radius="0.075" length="0.28"/>
+        <!-- <box size="0.1 0.1 0.18"/> -->
+      </geometry>
+    </collision>
+  </link>
+  <joint name="leg_l3_joint" type="revolute">
+    <origin xyz="0 0 -0.1437" rpy="0 0 0" />
+    <parent link="leg_l2_link" />
+    <child link="leg_l3_link" />
+    <axis xyz="0 1 0" />
+    <limit lower="-2.00712863979348" upper="1.5707963267949" effort="100.0" velocity="41.3433333333333" />
+    <dynamics damping="0.2" friction="0.0" />
+  </joint>
+  <link name="leg_l4_link">
+    <inertial>
+      <origin xyz="0.00501956 -0.00014918 -0.16578654" rpy="0 0 0" />
+      <mass value="4.02498548" />
+      <inertia ixx="0.046032" ixy="1.89e-05" ixz="-0.00054405" iyy="0.04550638" iyz="0.00026629" izz="0.00356532" />
+    </inertial>
+    <visual>
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="meshes/l_knee.STL" />
+      </geometry>
+      <material name="leg_l4" />
+    </visual>
+    <collision>
+      <origin xyz="0.013 0.0 -0.22" rpy="0.0 0.0 0.0"/>
+      <geometry>
+        <cylinder radius="0.057" length="0.3"/>
+        <!-- <box size="0.08 0.08 0.24"/> -->
+      </geometry>
+    </collision>
+  </link>
+  <joint name="leg_l4_joint" type="revolute">
+    <origin xyz="0 0 -0.284" rpy="0 0 0" />
+    <parent link="leg_l3_link" />
+    <child link="leg_l4_link" />
+    <axis xyz="0 1 0" />
+    <limit lower="0.0" upper="2.53072741539178" effort="180.0" velocity="23.55" />
+    <dynamics damping="0.2" friction="0.0" />
+  </joint>
+  <link name="leg_l5_link">
+    <inertial>
+      <origin xyz="0.0 0.0 0.0" rpy="0 0 0" />
+      <mass value="0.07848005" />
+      <inertia ixx="7.6e-05" ixy="0.0" ixz="0.0" iyy="7.6e-05" iyz="0.0" izz="1.318e-05" />
+    </inertial>
+    <visual>
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="meshes/l_foot_pitch.STL" />
+      </geometry>
+      <material name="leg_l5" />
+    </visual>
+  </link>
+  <joint name="leg_l5_joint" type="revolute">
+    <origin xyz="0.002 0.0003 -0.416" rpy="0 0 0" />
+    <parent link="leg_l4_link" />
+    <child link="leg_l5_link" />
+    <axis xyz="0 1 0" />
+    <limit lower="-0.872664625997165" upper="0.349065850398866" effort="36.0" velocity="23.0266666666667" />
+    <dynamics damping="0.2" friction="0.0" />
+  </joint>
+  <link name="leg_l6_link">
+    <inertial>
+      <origin xyz="0.03128029 -2.11e-06 -0.03618572" rpy="0 0 0" />
+      <mass value="0.58491513" />
+      <inertia ixx="0.00046778" ixy="2e-05" ixz="0.00010442" iyy="0.00176376" iyz="0.0" izz="0.00188181" />
+    </inertial>
+    <visual>
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="meshes/l_foot_roll.STL" />
+      </geometry>
+      <material name="leg_l6" />
+    </visual>
+    <collision>
+      <origin rpy="0 0 0" xyz="0.05 0 -0.047" />
+      <geometry>
+        <!-- <mesh filename="meshes/l_foot_roll.obj" /> -->
+        <box size="0.23 0.11 0.025"/>
+      </geometry>
+    </collision>
+  </link>
+  <joint name="leg_l6_joint" type="revolute">
+    <origin xyz="0 0 0" rpy="0 0 0" />
+    <parent link="leg_l5_link" />
+    <child link="leg_l6_link" />
+    <axis xyz="1 0 0" />
+    <limit lower="-0.261799387799149" upper="0.261799387799149" effort="36.0" velocity="23.0266666666667" />
+    <dynamics damping="0.2" friction="0.0" />
+  </joint>
+  <!-- <link name="ll_foot_toe">
+    <collision>
+      <origin rpy="0 0 0" xyz="0 0 0" />
+      <geometry>
+        <sphere radius="0.005" />
+      </geometry>
+    </collision>
+  </link>
+  <joint name="ll_foot_toe_joint" type="fixed">
+    <origin xyz="0.17084 0.05 -0.0595" rpy="0 0 0" />
+    <parent link="leg_l6_link" />
+    <child link="ll_foot_toe" />
+  </joint>
+  <link name="ll_foot_heel">
+    <collision>
+      <origin rpy="0 0 0" xyz="0 0 0" />
+      <geometry>
+        <sphere radius="0.005" />
+      </geometry>
+    </collision>
+  </link>
+  <joint name="ll_foot_heel_joint" type="fixed">
+    <origin xyz="-0.073164 0.05 -0.0595" rpy="0 0 0" />
+    <parent link="leg_l6_link" />
+    <child link="ll_foot_heel" />
+  </joint>
+  <link name="lr_foot_toe">
+    <collision>
+      <origin rpy="0 0 0" xyz="0 0 0" />
+      <geometry>
+        <sphere radius="0.005" />
+      </geometry>
+    </collision>
+  </link>
+  <joint name="lr_foot_toe_joint" type="fixed">
+    <origin xyz="0.17084 -0.05 -0.0595" rpy="0 0 0" />
+    <parent link="leg_l6_link" />
+    <child link="lr_foot_toe" />
+  </joint>
+  <link name="lr_foot_heel">
+    <collision>
+      <origin rpy="0 0 0" xyz="0 0 0" />
+      <geometry>
+        <sphere radius="0.005" />
+      </geometry>
+    </collision>
+  </link>
+  <joint name="lr_foot_heel_joint" type="fixed">
+    <origin xyz="-0.073164 -0.05 -0.0595" rpy="0 0 0" />
+    <parent link="leg_l6_link" />
+    <child link="lr_foot_heel" />
+  </joint>
+  <link name="l_foot_toe">
+    <collision>
+      <origin rpy="0 0 0" xyz="0 0 0" />
+      <geometry>
+        <sphere radius="0.005" />
+      </geometry>
+    </collision>
+  </link>
+  <joint name="l_foot_toe_joint" type="fixed">
+    <origin xyz="0.17084 0.0 -0.0595" rpy="0 0 0" />
+    <parent link="leg_l6_link" />
+    <child link="l_foot_toe" />
+  </joint>
+  <link name="l_foot_heel">
+    <collision>
+      <origin rpy="0 0 0" xyz="0 0 0" />
+      <geometry>
+        <sphere radius="0.005" />
+      </geometry>
+    </collision>
+  </link>
+  <joint name="l_foot_heel_joint" type="fixed">
+    <origin xyz="-0.073164 0.0 -0.0595" rpy="0 0 0" />
+    <parent link="leg_l6_link" />
+    <child link="l_foot_heel" />
+  </joint> -->
+
+  <link name="leg_r1_link">
+    <inertial>
+      <origin xyz="-0.00553677 -0.00034203 0.0007206" rpy="0 0 0" />
+      <mass value="1.63861324" />
+      <inertia ixx="0.00163303" ixy="1.362e-05" ixz="-1.571e-05" iyy="0.00215111" iyz="7.4e-05" izz="0.00222063" />
+    </inertial>
+    <visual>
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="meshes/r_leg_roll.STL" />
+      </geometry>
+      <material name="leg_r1" />
+    </visual>
+  </link>
+  <joint name="leg_r1_joint" type="revolute">
+    <origin xyz="0.0 -0.095075 -0.066" rpy="0 0 0" />
+    <parent link="base_link" />
+    <child link="leg_r1_link" />
+    <axis xyz="1 0 0" />
+    <limit lower="-0.663225115757845" upper="0.314159265358979" effort="180.0" velocity="23.55" />
+    <dynamics damping="0.2" friction="0.0" />
+  </joint>
+  <link name="leg_r2_link">
+    <inertial>
+      <origin xyz="-0.00013508 0.00098545 -0.09149892" rpy="0 0 0" />
+      <mass value="0.70575545" />
+      <inertia ixx="0.00323862" ixy="-7.7e-05" ixz="-3.2e-05" iyy="0.00183633" iyz="6.472e-05" izz="0.00219531" />
+    </inertial>
+    <visual>
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="meshes/r_leg_yaw.STL" />
+      </geometry>
+      <material name="leg_r2" />
+    </visual>
+  </link>
+  <joint name="leg_r2_joint" type="revolute">
+    <origin xyz="0 0 0" rpy="0 0 0" />
+    <parent link="leg_r1_link" />
+    <child link="leg_r2_link" />
+    <axis xyz="0 0 1" />
+    <limit lower="-0.785398163397448" upper="0.872664625997165" effort="100.0" velocity="41.3433333333333" />
+    <dynamics damping="0.2" friction="0.0" />
+  </joint>
+  <link name="leg_r3_link">
+    <inertial>
+      <origin xyz="0.00305583 -0.0095594 -0.0778079" rpy="0 0 0" />
+      <mass value="5.93791831" />
+      <inertia ixx="0.05201926" ixy="-3.06e-05" ixz="0.00155202" iyy="0.049279" iyz="-0.00368824" izz="0.01607353" />
+    </inertial>
+    <visual>
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="meshes/r_leg_pitch.STL" />
+      </geometry>
+      <material name="leg_r3" />
+    </visual>
+    <collision>
+      <origin xyz="0.0 0.0 -0.09" rpy="0.0 0.0 0.0"/>
+      <geometry>
+        <cylinder radius="0.075" length="0.28"/>
+        <!-- <box size="0.1 0.1 0.18"/> -->
+      </geometry>
+    </collision>
+  </link>
+  <joint name="leg_r3_joint" type="revolute">
+    <origin xyz="0 0 -0.1437" rpy="0 0 0" />
+    <parent link="leg_r2_link" />
+    <child link="leg_r3_link" />
+    <axis xyz="0 1 0" />
+    <limit lower="-2.00712863979348" upper="1.5707963267949" effort="100.0" velocity="41.3433333333333" />
+    <dynamics damping="0.2" friction="0.0" />
+  </joint>
+  <link name="leg_r4_link">
+    <inertial>
+      <origin xyz="0.00501956 0.00014918 -0.16578654" rpy="0 0 0" />
+      <mass value="4.02498548" />
+      <inertia ixx="0.046032" ixy="1.89e-05" ixz="-0.00054405" iyy="0.04550638" iyz="0.00026629" izz="0.00356532" />
+    </inertial>
+    <visual>
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="meshes/r_knee.STL" />
+      </geometry>
+      <material name="leg_r4" />
+    </visual>
+    <collision>
+      <origin xyz="0.013 0.0 -0.22" rpy="0.0 0.0 0.0"/>
+      <geometry>
+        <cylinder radius="0.057" length="0.3"/>
+        <!-- <box size="0.08 0.08 0.24"/> -->
+      </geometry>
+    </collision>
+  </link>
+  <joint name="leg_r4_joint" type="revolute">
+    <origin xyz="0 0 -0.284" rpy="0 0 0" />
+    <parent link="leg_r3_link" />
+    <child link="leg_r4_link" />
+    <axis xyz="0 1 0" />
+    <limit lower="0.0" upper="2.53072741539178" effort="180.0" velocity="23.55" />
+    <dynamics damping="0.2" friction="0.0" />
+  </joint>
+  <link name="leg_r5_link">
+    <inertial>
+      <origin xyz="0.0 0.0 0.0" rpy="0 0 0" />
+      <mass value="0.07848005" />
+      <inertia ixx="7.6e-05" ixy="0.0" ixz="0.0" iyy="7.6e-05" iyz="0.0" izz="1.318e-05" />
+    </inertial>
+    <visual>
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="meshes/r_foot_pitch.STL" />
+      </geometry>
+      <material name="leg_r5" />
+    </visual>
+  </link>
+  <joint name="leg_r5_joint" type="revolute">
+    <origin xyz="0.00199999999983541 -0.000300000028212572 -0.415999999987417" rpy="0 0 0" />
+    <parent link="leg_r4_link" />
+    <child link="leg_r5_link" />
+    <axis xyz="0 1 0" />
+    <limit lower="-0.872664625997165" upper="0.349065850398866" effort="36.0" velocity="23.0266666666667" />
+    <dynamics damping="0.2" friction="0.0" />
+  </joint>
+  <link name="leg_r6_link">
+    <inertial>
+      <origin xyz="0.03128029 -2.11e-06 -0.03618572" rpy="0 0 0" />
+      <mass value="0.58491513" />
+      <inertia ixx="0.00046778" ixy="2e-05" ixz="0.00010442" iyy="0.00176376" iyz="0.0" izz="0.00188181" />
+    </inertial>
+    <visual>
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="meshes/r_foot_roll.STL" />
+      </geometry>
+      <material name="leg_r6" />
+    </visual>
+    <collision>
+      <origin rpy="0 0 0" xyz="0.05 0 -0.047" />
+      <geometry>
+        <!-- <mesh filename="meshes/l_foot_roll.obj" /> -->
+        <box size="0.23 0.11 0.025"/>
+      </geometry>
+    </collision>
+  </link>
+  <joint name="leg_r6_joint" type="revolute">
+    <origin xyz="0 0 0" rpy="0 0 0" />
+    <parent link="leg_r5_link" />
+    <child link="leg_r6_link" />
+    <axis xyz="1 0 0" />
+    <limit lower="-0.261799387799149" upper="0.261799387799149" effort="36.0" velocity="23.0266666666667" />
+    <dynamics damping="0.2" friction="0.0" />
+  </joint>
+  <!-- <link name="rl_foot_toe">
+    <collision>
+      <origin rpy="0 0 0" xyz="0 0 0" />
+      <geometry>
+        <sphere radius="0.005" />
+      </geometry>
+    </collision>
+  </link>
+  <joint name="rl_foot_toe_joint" type="fixed">
+    <origin xyz="0.17084 0.05 -0.0595" rpy="0 0 0" />
+    <parent link="leg_r6_link" />
+    <child link="rl_foot_toe" />
+  </joint>
+  <link name="rl_foot_heel">
+    <collision>
+      <origin rpy="0 0 0" xyz="0 0 0" />
+      <geometry>
+        <sphere radius="0.005" />
+      </geometry>
+    </collision>
+  </link>
+  <joint name="rl_foot_heel_joint" type="fixed">
+    <origin xyz="-0.073164 0.05 -0.0595" rpy="0 0 0" />
+    <parent link="leg_r6_link" />
+    <child link="rl_foot_heel" />
+  </joint>
+  <link name="rr_foot_toe">
+    <collision>
+      <origin rpy="0 0 0" xyz="0 0 0" />
+      <geometry>
+        <sphere radius="0.005" />
+      </geometry>
+    </collision>
+  </link>
+  <joint name="rr_foot_toe_joint" type="fixed">
+    <origin xyz="0.17084 -0.05 -0.0595" rpy="0 0 0" />
+    <parent link="leg_r6_link" />
+    <child link="rr_foot_toe" />
+  </joint>
+  <link name="rr_foot_heel">
+    <collision>
+      <origin rpy="0 0 0" xyz="0 0 0" />
+      <geometry>
+        <sphere radius="0.005" />
+      </geometry>
+    </collision>
+  </link>
+  <joint name="rr_foot_heel_joint" type="fixed">
+    <origin xyz="-0.073164 -0.05 -0.0595" rpy="0 0 0" />
+    <parent link="leg_r6_link" />
+    <child link="rr_foot_heel" />
+  </joint>
+  <link name="r_foot_toe">
+    <collision>
+      <origin rpy="0 0 0" xyz="0 0 0" />
+      <geometry>
+        <sphere radius="0.005" />
+      </geometry>
+    </collision>
+  </link>
+  <joint name="r_foot_toe_joint" type="fixed">
+    <origin xyz="0.17084 0.0 -0.0595" rpy="0 0 0" />
+    <parent link="leg_r6_link" />
+    <child link="r_foot_toe" />
+  </joint>
+  <link name="r_foot_heel">
+    <collision>
+      <origin rpy="0 0 0" xyz="0 0 0" />
+      <geometry>
+        <sphere radius="0.005" />
+      </geometry>
+    </collision>
+  </link>
+  <joint name="r_foot_heel_joint" type="fixed">
+    <origin xyz="-0.073164 0.0 -0.0595" rpy="0 0 0" />
+    <parent link="leg_r6_link" />
+    <child link="r_foot_heel" />
+  </joint> -->
+  <link name="waist_yaw">
+    <inertial>
+      <origin xyz="0.00089444 -0.00069446 0.16778314" rpy="0 0 0" />
+      <mass value="18.01415568" />
+      <inertia ixx="0.36258863" ixy="1.968e-05" ixz="0.00273234" iyy="0.27799251" iyz="0.00088683" izz="0.21591828" />
+    </inertial>
+    <visual>
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="meshes/waist_yaw.STL" />
+      </geometry>
+      <material name="waist" />
+    </visual>
+    <collision>
+      <origin xyz="0.0 0.0 0.18" rpy="0.0 0.0 0.0"/>
+      <geometry>
+        <box size="0.29 0.32 0.36"/>
+      </geometry>
+    </collision>
+  </link>
+  <joint name="waist_yaw_joint" type="revolute">
+    <origin xyz="0 0 0.1114" rpy="0 0 0" />
+    <parent link="base_link" />
+    <child link="waist_yaw" />
+    <axis xyz="0 0 1" />
+    <limit lower="-2.0943951023932" upper="2.0943951023932" effort="180.0" velocity="23.55" />
+  </joint>
+  <link name="zarm_l1_link">
+    <inertial>
+      <origin xyz="0.00166796 0.07275896 0.00012987" rpy="0 0 0" />
+      <mass value="0.91653322" />
+      <inertia ixx="0.00126587" ixy="1.362e-05" ixz="-2e-05" iyy="0.00086921" iyz="1e-05" izz="0.00124337" />
+    </inertial>
+    <visual>
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="meshes/l_arm_pitch.STL" />
+      </geometry>
+      <material name="zarm_l1" />
+    </visual>
+  </link>
+  <joint name="zarm_l1_joint" type="revolute">
+    <origin xyz="-0.003 0.1737 0.2831" rpy="0 0 0" />
+    <parent link="waist_yaw" />
+    <child link="zarm_l1_link" />
+    <axis xyz="0 1 0" />
+    <limit lower="-3.14159265358979" upper="1.5707963267949" effort="100.0" velocity="41.3433333333333" />
+    <dynamics damping="0.2" friction="0.0" />
+  </joint>
+  <link name="zarm_l2_link">
+    <inertial>
+      <origin xyz="-0.00080932 6.91e-06 -0.04651" rpy="0 0 0" />
+      <mass value="0.3876739" />
+      <inertia ixx="0.0008074" ixy="-1.1e-05" ixz="-2.196e-05" iyy="0.00116146" iyz="-1.4e-05" izz="0.00070225" />
+    </inertial>
+    <visual>
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="meshes/l_arm_roll.STL" />
+      </geometry>
+      <material name="zarm_l2" />
+    </visual>
+  </link>
+  <joint name="zarm_l2_joint" type="revolute">
+    <origin xyz="0 0.081 0" rpy="0 0 0" />
+    <parent link="zarm_l1_link" />
+    <child link="zarm_l2_link" />
+    <axis xyz="1 0 0" />
+    <limit lower="-0.349065850398866" upper="2.0943951023932" effort="50.0" velocity="8.37333333333333" />
+    <dynamics damping="0.2" friction="0.0" />
+  </joint>
+  <link name="zarm_l3_link">
+    <inertial>
+      <origin xyz="0.00943019 0.00343988 -0.11304538" rpy="0 0 0" />
+      <mass value="1.77926875" />
+      <inertia ixx="0.00992856" ixy="-7.192e-05" ixz="0.00107196" iyy="0.01004582" iyz="0.00040685" izz="0.00185422" />
+    </inertial>
+    <visual>
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="meshes/l_arm_yaw.STL" />
+      </geometry>
+      <material name="zarm_l3" />
+    </visual>
+  </link>
+  <joint name="zarm_l3_joint" type="revolute">
+    <origin xyz="0 0 -0.104" rpy="0 0 0" />
+    <parent link="zarm_l2_link" />
+    <child link="zarm_l3_link" />
+    <axis xyz="0 0 1" />
+    <limit lower="-1.5707963267949" upper="1.5707963267949" effort="36.0" velocity="9.94333333333333" />
+    <dynamics damping="0.2" friction="0.0" />
+  </joint>
+  <link name="zarm_l4_link">
+    <inertial>
+      <origin xyz="-0.01829932 0.00087167 -0.06936622" rpy="0 0 0" />
+      <mass value="0.58507821" />
+      <inertia ixx="0.00143291" ixy="-4.8e-05" ixz="-0.00011641" iyy="0.00125018" iyz="-2.018e-05" izz="0.00068356" />
+    </inertial>
+    <visual>
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="meshes/l_forearm.STL" />
+      </geometry>
+      <material name="zarm_l4" />
+    </visual>
+  </link>
+  <joint name="zarm_l4_joint" type="revolute">
+    <origin xyz="0.02 0 -0.1797" rpy="0 0 0" />
+    <parent link="zarm_l3_link" />
+    <child link="zarm_l4_link" />
+    <axis xyz="0 1 0" />
+    <limit lower="-2.61799387799149" upper="0.0" effort="50.0" velocity="8.37333333333333" />
+    <dynamics damping="0.2" friction="0.0" />
+  </joint>
+  <link name="zarm_l5_link">
+    <inertial>
+      <origin xyz="-0.0102609 1.322e-05 -0.06083944" rpy="0 0 0" />
+      <mass value="0.68679955" />
+      <inertia ixx="0.00086873" ixy="1.2e-05" ixz="-8.786e-05" iyy="0.00122518" iyz="-1.1e-05" izz="0.00066873" />
+    </inertial>
+    <visual>
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="meshes/l_hand_yaw.STL" />
+      </geometry>
+      <material name="zarm_l5" />
+    </visual>
+  </link>
+  <joint name="zarm_l5_joint" type="revolute">
+    <origin xyz="-0.02 0 -0.1195" rpy="0 0 0" />
+    <parent link="zarm_l4_link" />
+    <child link="zarm_l5_link" />
+    <axis xyz="0 0 1" />
+    <limit lower="-1.5707963267949" upper="1.5707963267949" effort="12.0" velocity="7.32666666666667" />
+    <dynamics damping="0.2" friction="0.0" />
+  </joint>
+  <link name="zarm_l6_link">
+    <inertial>
+      <origin xyz="0.00019162 0.00886363 -0.01747746" rpy="0 0 0" />
+      <mass value="0.39387181" />
+      <inertia ixx="0.00018535" ixy="7.5e-05" ixz="-4.6e-05" iyy="0.00019853" iyz="5e-05" izz="0.0002021" />
+    </inertial>
+    <visual>
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="meshes/l_hand_roll.STL" />
+      </geometry>
+      <material name="zarm_l6" />
+    </visual>
+  </link>
+  <joint name="zarm_l6_joint" type="revolute">
+    <origin xyz="0 0 -0.114" rpy="0 0 0" />
+    <parent link="zarm_l5_link" />
+    <child link="zarm_l6_link" />
+    <axis xyz="1 0 0" />
+    <limit lower="-1.30899693899575" upper="0.698131700797732" effort="12.0" velocity="7.32666666666667" />
+    <dynamics damping="0.2" friction="0.0" />
+  </joint>
+  <link name="zarm_l7_link">
+    <inertial>
+      <origin xyz="0.00326402 0.0057645 -0.12230994" rpy="0 0 0" />
+      <mass value="0.61537779" />
+      <inertia ixx="0.00161739" ixy="1.846e-05" ixz="4.975e-05" iyy="0.00155413" iyz="-9.681e-05" izz="0.00018354" />
+    </inertial>
+    <visual>
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="meshes/l_hand_pitch.STL" />
+      </geometry>
+      <material name="zarm_l7" />
+    </visual>
+  </link>
+  <joint name="zarm_l7_joint" type="revolute">
+    <origin xyz="-0.0002 0 -0.021" rpy="0 0 0" />
+    <parent link="zarm_l6_link" />
+    <child link="zarm_l7_link" />
+    <axis xyz="0 1 0" />
+    <limit lower="-0.698131700797732" upper="0.698131700797732" effort="12.0" velocity="7.32666666666667" />
+    <dynamics damping="0.2" friction="0.0" />
+  </joint>
+  <link name="zarm_l7_end_effector">
+    <collision>
+      <origin rpy="0 0 0" xyz="0 0 0" />
+      <geometry>
+        <sphere radius="0.005" />
+      </geometry>
+    </collision>
+  </link>
+  <joint name="zarm_l7_end_effector_joint" type="fixed">
+    <origin xyz="0 -0.03 -0.17" rpy="0 0 0" />
+    <parent link="zarm_l7_link" />
+    <child link="zarm_l7_end_effector" />
+  </joint>
+  <link name="zarm_r1_link">
+    <inertial>
+      <origin xyz="0.00166796 -0.07275896 0.00012987" rpy="0 0 0" />
+      <mass value="0.92062797" />
+      <inertia ixx="0.00126587" ixy="1.362e-05" ixz="-2e-05" iyy="0.00086921" iyz="1e-05" izz="0.00124337" />
+    </inertial>
+    <visual>
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="meshes/r_arm_pitch.STL" />
+      </geometry>
+      <material name="zarm_r1" />
+    </visual>
+  </link>
+  <joint name="zarm_r1_joint" type="revolute">
+    <origin xyz="-0.003 -0.1737 0.2831" rpy="0 0 0" />
+    <parent link="waist_yaw" />
+    <child link="zarm_r1_link" />
+    <axis xyz="0 1 0" />
+    <limit lower="-3.14159265358979" upper="1.5707963267949" effort="100.0" velocity="41.3433333333333" />
+    <dynamics damping="0.2" friction="0.0" />
+  </joint>
+  <link name="zarm_r2_link">
+    <inertial>
+      <origin xyz="-0.00080932 -6.91e-06 -0.04651" rpy="0 0 0" />
+      <mass value="0.38768053" />
+      <inertia ixx="0.0008074" ixy="-1.1e-05" ixz="-2.196e-05" iyy="0.00116146" iyz="-1.4e-05" izz="0.00070225" />
+    </inertial>
+    <visual>
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="meshes/r_arm_roll.STL" />
+      </geometry>
+      <material name="zarm_r2" />
+    </visual>
+  </link>
+  <joint name="zarm_r2_joint" type="revolute">
+    <origin xyz="0 -0.081 0" rpy="0 0 0" />
+    <parent link="zarm_r1_link" />
+    <child link="zarm_r2_link" />
+    <axis xyz="1 0 0" />
+    <limit lower="-2.0943951023932" upper="0.349065850398866" effort="50.0" velocity="8.37333333333333" />
+    <dynamics damping="0.2" friction="0.0" />
+  </joint>
+  <link name="zarm_r3_link">
+    <inertial>
+      <origin xyz="0.00933929 -0.00288519 -0.11324121" rpy="0 0 0" />
+      <mass value="1.77969208" />
+      <inertia ixx="0.00912947" ixy="5.935e-05" ixz="0.0010589" iyy="0.00911437" iyz="-0.0003408" izz="0.00118423" />
+    </inertial>
+    <visual>
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="meshes/r_arm_yaw.STL" />
+      </geometry>
+      <material name="zarm_r3" />
+    </visual>
+  </link>
+  <joint name="zarm_r3_joint" type="revolute">
+    <origin xyz="0 0 -0.104" rpy="0 0 0" />
+    <parent link="zarm_r2_link" />
+    <child link="zarm_r3_link" />
+    <axis xyz="0 0 1" />
+    <limit lower="-1.5707963267949" upper="1.5707963267949" effort="36.0" velocity="9.94333333333333" />
+    <dynamics damping="0.2" friction="0.0" />
+  </joint>
+  <link name="zarm_r4_link">
+    <inertial>
+      <origin xyz="-0.01829785 -0.00087299 -0.06936486" rpy="0 0 0" />
+      <mass value="0.58514611" />
+      <inertia ixx="0.00137872" ixy="4.8e-05" ixz="-0.00011643" iyy="0.00119519" iyz="1.985e-05" izz="0.00061317" />
+    </inertial>
+    <visual>
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="meshes/r_forearm.STL" />
+      </geometry>
+      <material name="zarm_r4" />
+    </visual>
+  </link>
+  <joint name="zarm_r4_joint" type="revolute">
+    <origin xyz="0.02 0 -0.1797" rpy="0 0 0" />
+    <parent link="zarm_r3_link" />
+    <child link="zarm_r4_link" />
+    <axis xyz="0 1 0" />
+    <limit lower="-2.61799387799149" upper="0.0" effort="50.0" velocity="8.37333333333333" />
+    <dynamics damping="0.2" friction="0.0" />
+  </joint>
+  <link name="zarm_r5_link">
+    <inertial>
+      <origin xyz="-0.01023461 -2.917e-05 -0.06078644" rpy="0 0 0" />
+      <mass value="0.68473867" />
+      <inertia ixx="0.00079741" ixy="-0.0001" ixz="-8.692e-05" iyy="0.00116896" iyz="9.7e-05" izz="0.00061233" />
+    </inertial>
+    <visual>
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="meshes/r_hand_yaw.STL" />
+      </geometry>
+      <material name="zarm_r5" />
+    </visual>
+  </link>
+  <joint name="zarm_r5_joint" type="revolute">
+    <origin xyz="-0.02 0 -0.1195" rpy="0 0 0" />
+    <parent link="zarm_r4_link" />
+    <child link="zarm_r5_link" />
+    <axis xyz="0 0 1" />
+    <limit lower="-1.5707963267949" upper="1.5707963267949" effort="12.0" velocity="7.32666666666667" />
+    <dynamics damping="0.2" friction="0.0" />
+  </joint>
+  <link name="zarm_r6_link">
+    <inertial>
+      <origin xyz="0.00019291 -0.0089543 -0.01746466" rpy="0 0 0" />
+      <mass value="0.39247462" />
+      <inertia ixx="0.00013001" ixy="-7.7e-05" ixz="-4.5e-05" iyy="0.00012773" iyz="-4.8e-05" izz="0.00014597" />
+    </inertial>
+    <visual>
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="meshes/r_hand_roll.STL" />
+      </geometry>
+      <material name="zarm_r6" />
+    </visual>
+  </link>
+  <joint name="zarm_r6_joint" type="revolute">
+    <origin xyz="0 0 -0.114" rpy="0 0 0" />
+    <parent link="zarm_r5_link" />
+    <child link="zarm_r6_link" />
+    <axis xyz="1 0 0" />
+    <limit lower="-0.698131700797732" upper="1.30899693899575" effort="12.0" velocity="7.32666666666667" />
+    <dynamics damping="0.2" friction="0.0" />
+  </joint>
+  <link name="zarm_r7_link">
+    <inertial>
+      <origin xyz="0.00330838 -0.00562282 -0.12209714" rpy="0 0 0" />
+      <mass value="0.61562202" />
+      <inertia ixx="0.00161739" ixy="-1.846e-05" ixz="4.975e-05" iyy="0.00155413" iyz="9.681e-05" izz="0.00018354" />
+    </inertial>
+    <visual>
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="meshes/r_hand_pitch.STL" />
+      </geometry>
+      <material name="zarm_r7" />
+    </visual>
+  </link>
+  <joint name="zarm_r7_joint" type="revolute">
+    <origin xyz="0 0 -0.022284" rpy="0 0 0" />
+    <parent link="zarm_r6_link" />
+    <child link="zarm_r7_link" />
+    <axis xyz="0 1 0" />
+    <limit lower="-0.698131700797732" upper="0.698131700797732" effort="12.0" velocity="7.32666666666667" />
+    <dynamics damping="0.2" friction="0.0" />
+  </joint>
+  <link name="zarm_r7_end_effector">
+    <collision>
+      <origin rpy="0 0 0" xyz="0 0 0" />
+      <geometry>
+        <sphere radius="0.005" />
+      </geometry>
+    </collision>
+  </link>
+  <joint name="zarm_r7_end_effector_joint" type="fixed">
+    <origin xyz="0 0.03 -0.17" rpy="0 0 0" />
+    <parent link="zarm_r7_link" />
+    <child link="zarm_r7_end_effector" />
+  </joint>
+  <link name="zhead_1_link">
+    <inertial>
+      <origin xyz="0.00031003 -0.00324665 0.0949507" rpy="0 0 0" />
+      <mass value="0.87117795" />
+      <inertia ixx="0.00204799" ixy="0" ixz="0" iyy="0.00196073" iyz="0" izz="0.0006154" />
+    </inertial>
+    <visual>
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="meshes/head_yaw.STL" />
+      </geometry>
+      <material name="zhead_1" />
+    </visual>
+  </link>
+  <joint name="zhead_1_joint" type="fixed">
+    <origin xyz="-0.003 0.0 0.3715" rpy="0 0 0" />
+    <parent link="waist_yaw" />
+    <child link="zhead_1_link" />
+    <axis xyz="0 0 1" />
+    <limit lower="-1.5707963267949" upper="1.5707963267949" effort="1.5" velocity="5.23" />
+    <dynamics damping="0.2" friction="0.0" />
+  </joint>
+  <link name="zhead_2_link">
+    <inertial>
+      <origin xyz="0.01886384 0.0 0.03217966" rpy="0 0 0" />
+      <mass value="0.80529305" />
+      <inertia ixx="0.0038885" ixy="0" ixz="0" iyy="0.00477347" iyz="0" izz="0.00489027" />
+    </inertial>
+    <visual>
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="meshes/head_pitch.STL" />
+      </geometry>
+      <material name="zhead_2" />
+    </visual>
+  </link>
+  <joint name="zhead_2_joint" type="fixed">
+    <origin xyz="0 0 0.137954074182872" rpy="0 0 0" />
+    <parent link="zhead_1_link" />
+    <child link="zhead_2_link" />
+    <axis xyz="0 1 0" />
+    <limit lower="-0.349065850398866" upper="0.785398163397448" effort="12.0" velocity="5.23" />
+    <dynamics damping="0.2" friction="0.0" />
+  </joint>
+  <link name="camera_base">
+    <inertial>
+      <origin xyz="-0.0109467295615343 -0.00025332024893314 0.000333522154238597" rpy="0 0 0" />
+      <mass value="0.0482361371130408" />
+      <inertia ixx="5.97804649866973E-05" ixy="0" ixz="0" iyy="5.8e-05" iyz="0" izz="5.92932584785117E-05" />
+    </inertial>
+    <!-- <visual>
+      <origin xyz="0 0 0" rpy="0 0 0" /> -->
+      <!-- <geometry>
+        <mesh filename="meshes/camera.STL" />
+      </geometry> -->
+      <!-- <material name="camera" />
+    </visual> -->
+  </link>
+  <joint name="camera_base" type="fixed">
+    <origin xyz="0.119717018973535 0.0237514612535074 0.0262044145991832" rpy="0 0.480224871300295 0" />
+    <parent link="zhead_2_link" />
+    <child link="camera_base" />
+  </joint>
+</robot>

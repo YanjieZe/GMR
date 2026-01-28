@@ -1,28 +1,28 @@
 {
     "robot_root_name": "pelvis_link",
     "human_root_name": "Hips",
-    "ground_height": -0.03,
-    "human_height_assumption": 1.78,
+    "ground_height": 0.0,
+    "human_height_assumption": 1.66,
     "use_ik_match_table1": true,
     "use_ik_match_table2": true,
     "human_scale_table": {
-        "Hips": 1,
-        "Chest4": 0.93,
-        "LeftHip": 0.93,
-        "RightHip": 0.93,
-        "LeftKnee": 0.93,
-        "RightKnee": 0.93,
-        "LeftFootMod": 1.09,
-        "RightFootMod": 1.09,
+        "Hips": 1.05,
+        "Chest4": 1.05,
+        "LeftHip": 1.05,
+        "RightHip": 1.05,
+        "LeftKnee": 1.05,
+        "RightKnee": 1.05,
+        "LeftFootMod": 1.05,
+        "RightFootMod": 1.05,
 
-        "LeftShoulder":0.85,
-        "RightShoulder":0.85,
-        "LeftElbow":1.0,
-        "RightElbow":1.0,
+        "LeftShoulder":1.05,
+        "RightShoulder":1.05,
+        "LeftElbow":1.05,
+        "RightElbow":1.05,
         "RightWrist":1.05,
         "LeftWrist":1.05,
 
-        "Head":0.93
+        "Head":1.05
     },
     "ik_match_table1": {
         "pelvis_link": [
@@ -202,7 +202,7 @@
                 0.0
             ]
         ],
-        "L_elbow_link": [
+        "L_forearm_yaw_link": [
             "LeftElbow",
             0,
             8,
@@ -218,7 +218,7 @@
                 0.0
             ]
         ],
-        "R_elbow_link": [
+        "R_forearm_yaw_link": [
             "RightElbow",
             0,
             8,
@@ -444,7 +444,7 @@
                 0.0
             ]
         ],
-        "L_elbow_link": [
+        "L_forearm_yaw_link": [
             "LeftElbow",
             0,
             1,
@@ -460,7 +460,7 @@
                 0.0
             ]
         ],
-        "R_elbow_link": [
+        "R_forearm_yaw_link": [
             "RightElbow",
             0,
             1,
