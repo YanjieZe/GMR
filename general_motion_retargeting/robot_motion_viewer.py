@@ -52,7 +52,9 @@ class RobotMotionViewer:
                 record_video=False,
                 video_path=None,
                 video_width=640,
-                video_height=480):
+                video_height=480,
+                keyboard_callback=None,
+                ):
         
         self.robot_type = robot_type
         self.xml_path = ROBOT_XML_DICT[robot_type]
@@ -72,7 +74,9 @@ class RobotMotionViewer:
             model=self.model,
             data=self.data,
             show_left_ui=False,
-            show_right_ui=False)      
+            show_right_ui=False, 
+            key_callback=keyboard_callback
+            )      
 
         self.viewer.opt.flags[mj.mjtVisFlag.mjVIS_TRANSPARENT] = transparent_robot
         

@@ -30,16 +30,13 @@
 
 This repo is licensed under the [MIT License](LICENSE).
 
-Starting from its release, **GMR** has been massively used by the community. See below for cool papers that use **GMR**:
-
-- [arXiv 2025.08](https://arxiv.org/abs/2508.21043), *HITTER: A HumanoId Table TEnnis Robot via Hierarchical Planning and Learning*
-- [arXiv 2025.08](https://arxiv.org/abs/2508.13444), *Switch4EAI: Leveraging Console Game Platform for Benchmarking Robotic Athletics*
-- [arXiv 2025.05](https://arxiv.org/abs/2505.02833), *TWIST: Teleoperated Whole-Body Imitation System*
-
-
 
 # News & Updates
-- **2025-10-15:** Now supporting [PAL Robotics' KANGAROO](https://pal-robotics.com/robot/kangaroo/), the 16th humanoid robot.
+- **2026-01-21:** GMR now supports [Xsens](https://www.xsens.com/) BVH offline data.
+- **2026-01-12:** GMR now supports [Fourier GR3](https://www.fftai.com/), the 17th humanoid robot in the repo.
+- **2025-12-02:** GMR now supports [TWIST2](https://yanjieze.com/TWIST2), which utilizes [XRoboToolkit SDK](https://github.com/XR-Robotics/XRoboToolkit-PC-Service).
+- **2025-11-17:** To join our community for discussions, you can add my WeChat contact [QR Code](https://yanjieze.com/TWIST2/images/my_wechat.jpg) with info like "[GMR] [Your Name] [Your Affiliation]".
+- **2025-11-08:** [MimicKit] from Jason Peng now supports GMR format. Check [here](https://github.com/xbpeng/MimicKit/tree/main/tools/gmr_to_mimickit).
 - **2025-10-15:** Now supporting [PAL Robotics' Talos](https://pal-robotics.com/robot/talos/), the 15th humanoid robot.
 - **2025-10-14:** Now supporting [Nokov](https://www.nokov.com/) BVH data.
 - **2025-10-14:** Add a doc on ik config. See [DOC.md](DOC.md)
@@ -63,83 +60,123 @@ Starting from its release, **GMR** has been massively used by the community. See
 
 ## Demos
 
-_**Demo 1:** Retargeting LAFAN1 dancing motion to 5 different robots (Unitree G1, Booster T1, Stanford ToddlerBot, Fourier N1, and ENGINEAI PM01)._
+<table>
+  <tr>
+    <td align="center" width="20%">
+      <b>Demo 1</b><br>
+      Retargeting LAFAN1 dancing motion to 5 robots.<br>
+      <video src="https://github.com/user-attachments/assets/23566fa5-6335-46b9-957b-4b26aed11b9e" width="200" controls></video>
+    </td>
+    <td align="center" width="20%">
+      <b>Demo 2</b><br>
+      Galexea R1 Pro robot (view 1).<br>
+      <video src="https://github.com/user-attachments/assets/903ed0b0-0ac5-4226-8f82-5a88631e9b7c" width="200" controls></video>
+    </td>
+    <td align="center" width="20%">
+      <b>Demo 3</b><br>
+      Galexea R1 Pro robot (view 2).<br>
+      <video src="https://github.com/user-attachments/assets/deea0e64-f1c6-41bc-8661-351682006d5d" width="200" controls></video>
+    </td>
+    <td align="center" width="20%">
+      <b>Demo 4</b><br>
+      Switching robots by changing one argument.<br>
+      <video src="https://github.com/user-attachments/assets/03f10902-c541-40b1-8104-715a5759fd5e" width="200" controls></video>
+    </td>
+    <td align="center" width="20%">
+      <b>Demo 5</b><br>
+      HighTorque robot doing a twist dance.<br>
+      <video src="https://github.com/user-attachments/assets/1d3e663b-f29e-41b1-8e15-5c0deb6a4a5c" width="200" controls></video>
+    </td>
+  </tr>
 
-https://github.com/user-attachments/assets/23566fa5-6335-46b9-957b-4b26aed11b9e
+  <tr>
+    <td align="center">
+      <b>Demo 6</b><br>
+      Kuavo robot picking up a box.<br>
+      <video src="https://github.com/user-attachments/assets/02fc8f41-c363-484b-a329-4f4e83ed5b80" width="200" controls></video>
+    </td>
+    <td align="center">
+      <b>Demo 7</b><br>
+      Unitree H1 robot doing a ChaCha dance.<br>
+      <video src="https://github.com/user-attachments/assets/28ee6f0f-be30-42bb-8543-cf1152d97724" width="200" controls></video>
+    </td>
+    <td align="center">
+      <b>Demo 8</b><br>
+      Booster T1 robot jumping (view 1).<br>
+      <video src="https://github.com/user-attachments/assets/2c75a146-e28f-4327-930f-5281bfc2ca9c" width="200" controls></video>
+    </td>
+    <td align="center">
+      <b>Demo 9</b><br>
+      Booster T1 robot jumping (view 2).<br>
+      <video src="https://github.com/user-attachments/assets/ff10c7ef-4357-4789-9219-23c6db8dba6d" width="200" controls></video>
+    </td>
+    <td align="center">
+      <b>Demo 10</b><br>
+      Unitree H1-2 robot jumping.<br>
+      <video src="https://github.com/user-attachments/assets/2382d8ce-7902-432f-ab45-348a11eeb312" width="200" controls></video>
+    </td>
+  </tr>
 
-_**Demo 2:** Galexea R1 Pro robot, a wheeled humanoid robot, doing human motions._
+  <tr>
+    <td align="center">
+      <b>Demo 11</b><br>
+      PND Adam Lite robot.<br>
+      <video src="https://github.com/user-attachments/assets/a8ef1409-88f1-4393-9cd0-d2b14216d2a4" width="200" controls></video>
+    </td>
+    <td align="center">
+      <b>Demo 12</b><br>
+      Tienkung robot walking.<br>
+      <video src="https://github.com/user-attachments/assets/7a775ecc-4254-450c-a3eb-49e843b8e331" width="200" controls></video>
+    </td>
+    <td align="center">
+      <b>Demo 13</b><br>
+      Extracting human pose (GVHMR + GMR).<br>
+      <a href="https://www.bilibili.com/video/BV1Tnpmz9EaE">▶ Watch on Bilibili</a>
+    </td>
+    <td align="center">
+      <b>Demo 14</b><br>
+      PAL Robotics’ Talos robot fighting.<br>
+      <video src="https://github.com/user-attachments/assets/3ec0bf80-80c1-4181-a623-dc2b072c2ca2" width="200" controls></video>
+    </td>
+    <td align="center">
+      <b>Demo 15</b><br>
+      (Optional placeholder if you add a new one later!)<br>
+      <i>Coming soon...</i>
+    </td>
+  </tr>
+</table>
 
-https://github.com/user-attachments/assets/903ed0b0-0ac5-4226-8f82-5a88631e9b7c
-
-https://github.com/user-attachments/assets/deea0e64-f1c6-41bc-8661-351682006d5d
-
-_**Demo 3:** Screen recording of my own command line usage. Switching robots just by changing an argument._
-
-https://github.com/user-attachments/assets/03f10902-c541-40b1-8104-715a5759fd5e
-
-_**Demo 4:** HighTorque robot doing a twist dance._
-
-https://github.com/user-attachments/assets/1d3e663b-f29e-41b1-8e15-5c0deb6a4a5c
-
-_**Demo 5:** Kuavo robot picking up a box._
-
-https://github.com/user-attachments/assets/02fc8f41-c363-484b-a329-4f4e83ed5b80
-
-_**Demo 6:** Unitree H1 robot doing a ChaCha dance._
-
-https://github.com/user-attachments/assets/28ee6f0f-be30-42bb-8543-cf1152d97724
-
-_**Demo 7:** Booster T1 23dof/29dof robot jumping._
-
-https://github.com/user-attachments/assets/2c75a146-e28f-4327-930f-5281bfc2ca9c
-
-https://github.com/user-attachments/assets/ff10c7ef-4357-4789-9219-23c6db8dba6d
-
-_**Demo 8:** Unitree H1 2 robot jumping._
-
-https://github.com/user-attachments/assets/2382d8ce-7902-432f-ab45-348a11eeb312
-
-_**Demo 9:** PND Adam lite robot._
-
-https://github.com/user-attachments/assets/a8ef1409-88f1-4393-9cd0-d2b14216d2a4
-
-_**Demo 10:** Tienkung robot walking._
-
-https://github.com/user-attachments/assets/7a775ecc-4254-450c-a3eb-49e843b8e331
-
-_**Demo 11:** Extracting human pose from monocular video with GVHMR and retarget with **GMR**._
-
-[Watch on Bilibili »](https://www.bilibili.com/video/BV1Tnpmz9EaE)
-
-_**Demo 10:** PAL Robotics' Talos robot fighting._
-
-https://github.com/user-attachments/assets/3ec0bf80-80c1-4181-a623-dc2b072c2ca2
 
 ## Supported Robots and Data Formats
 
-| Assigned ID | Robot/Data Format | Robot DoF | SMPLX ([AMASS](https://amass.is.tue.mpg.de/), [OMOMO](https://github.com/lijiaman/omomo_release)) | BVH [LAFAN1](https://github.com/ubisoft/ubisoft-laforge-animation-dataset)| FBX ([OptiTrack](https://www.optitrack.com/)) |  BVH [Nokov](https://www.nokov.com/) | More formats coming soon | 
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 0 | Unitree G1 `unitree_g1` | Leg (2\*6) + Waist (3) + Arm (2\*7) = 29 | ✅ | ✅ | ✅ |  ✅ |
-| 1 | Unitree G1 with Hands `unitree_g1_with_hands` | Leg (2\*6) + Waist (3) + Arm (2\*7) + Hand (2\*7) = 43 | ✅ | ✅ | ✅ | TBD |
-| 2 | Unitree H1 `unitree_h1` | Leg (2\*5) + Waist (1) + Arm (2\*4) = 19 | ✅ | TBD | TBD | TBD |
-| 3 | Unitree H1 2 `unitree_h1_2` | Leg (2\*6) + Waist (1) + Arm (2\*7) = 27 | ✅ | TBD | TBD | TBD |
-| 4 | Booster T1 `booster_t1` | TBD | ✅ |  TBD  | TBD |
-| 5 | Booster T1 29dof `booster_t1_29dof` | TBD | ✅ |  ✅  | TBD | 
-| 6 | Booster K1 `booster_k1` | Neck (2) + Arm (2\*4) + Leg (2\*6) = 22 | ✅ | TBD | TBD |
-| 7 | Stanford ToddlerBot `stanford_toddy` | TBD | ✅ | ✅ | TBD |
-| 8 | Fourier N1 `fourier_n1` | TBD | ✅ | ✅ | TBD |
-| 9 | ENGINEAI PM01 `engineai_pm01` | TBD | ✅ | ✅ | TBD |
-| 10 | HighTorque Hi `hightorque_hi` | Head (2) + Arm (2\*5) + Waist (1) + Leg (2\*6) = 25 | ✅ | TBD | TBD |
-| 11 | Galaxea R1 Pro `galaxea_r1pro` (this is a wheeled robot!) |  Base (6) + Torso (4) + Arm (2*7) = 24 | ✅ | TBD | TBD |
-| 12 | Kuavo `kuavo_s45` |  Head (2) + Arm (2\*7) + Leg (2\*6) = 28 | ✅ | TBD | TBD |
-| 13 | Berkeley Humanoid Lite `berkeley_humanoid_lite` (need further tuning) | Leg (2\*6) + Arm (2\*5) = 22 | ✅ | TBD | TBD |
-| 14 | PND Adam Lite `pnd_adam_lite`  | Leg (2\*6) + Waist (3) + Arm (2\*5) = 25 | ✅ | TBD | TBD |
-| 15 | Tienkung `tienkung`  | Leg (2\*6) + Arm (2\*4) = 20 | ✅ | TBD | TBD |
-| 16 | PAL Robotics' Talos `pal_talos`  | Head (2) + Arm (2\*7) + Waist (2) + Leg (2\*6) = 30 | ✅ | TBD | TBD |
-| 16 | PAL Robotics' KANGAROO `pal_kangaroo`  | Arm (2\*4) + Waist (2) + Leg (2\*6) = 22 | ✅ | TBD | TBD |
+
+
+| Assigned ID | Robot/Data Format | Robot DoF | SMPLX ([AMASS](https://amass.is.tue.mpg.de/), [OMOMO](https://github.com/lijiaman/omomo_release)) | BVH [LAFAN1](https://github.com/ubisoft/ubisoft-laforge-animation-dataset)| FBX ([OptiTrack](https://www.optitrack.com/)) |  BVH [Nokov](https://www.nokov.com/) | PICO ([XRoboToolkit](https://github.com/XR-Robotics/XRoboToolkit-PC-Service)) | More formats coming soon | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0 | Unitree G1 `unitree_g1` | Leg (2\*6) + Waist (3) + Arm (2\*7) = 29 | ✅ | ✅ | ✅ |  ✅ | ✅ |
+| 1 | Unitree G1 with Hands `unitree_g1_with_hands` | Leg (2\*6) + Waist (3) + Arm (2\*7) + Hand (2\*7) = 43 | ✅ | ✅ | ✅ | TBD | TBD |
+| 2 | Unitree H1 `unitree_h1` | Leg (2\*5) + Waist (1) + Arm (2\*4) = 19 | ✅ | TBD | TBD | TBD | TBD |
+| 3 | Unitree H1 2 `unitree_h1_2` | Leg (2\*6) + Waist (1) + Arm (2\*7) = 27 | ✅ | TBD | TBD | TBD | TBD |
+| 4 | Booster T1 `booster_t1` | TBD | ✅ |  TBD  | TBD | TBD |
+| 5 | Booster T1 29dof `booster_t1_29dof` | TBD | ✅ |  ✅  | TBD | TBD |
+| 6 | Booster K1 `booster_k1` | Neck (2) + Arm (2\*4) + Leg (2\*6) = 22 | ✅ | TBD | TBD | TBD |
+| 7 | Stanford ToddlerBot `stanford_toddy` | TBD | ✅ | ✅ | TBD | TBD |
+| 8 | Fourier N1 `fourier_n1` | TBD | ✅ | ✅ | TBD | TBD |
+| 9 | ENGINEAI PM01 `engineai_pm01` | TBD | ✅ | ✅ | TBD | TBD |
+| 10 | HighTorque Hi `hightorque_hi` | Head (2) + Arm (2\*5) + Waist (1) + Leg (2\*6) = 25 | ✅ | TBD | TBD | TBD |
+| 11 | Galaxea R1 Pro `galaxea_r1pro` (this is a wheeled robot!) |  Base (6) + Torso (4) + Arm (2*7) = 24 | ✅ | TBD | TBD | TBD |
+| 12 | Kuavo `kuavo_s45` |  Head (2) + Arm (2\*7) + Leg (2\*6) = 28 | ✅ | TBD | TBD | TBD |
+| 13 | Berkeley Humanoid Lite `berkeley_humanoid_lite` (need further tuning) | Leg (2\*6) + Arm (2\*5) = 22 | ✅ | TBD | TBD | TBD |
+| 14 | PND Adam Lite `pnd_adam_lite`  | Leg (2\*6) + Waist (3) + Arm (2\*5) = 25 | ✅ | TBD | TBD | TBD |
+| 15 | Tienkung `tienkung`  | Leg (2\*6) + Arm (2\*4) = 20 | ✅ | TBD | TBD | TBD |
+| 16 | PAL Robotics' Talos `pal_talos`  | Head (2) + Arm (2\*7) + Waist (2) + Leg (2\*6) = 30 | ✅ | TBD | TBD | TBD |
+| 17 | Fourier GR3 `fourier_gr3`  | Head (2) + Arm (2\*7) + Waist (3) + Leg (2\*6) = 31 | ✅ | TBD | TBD | TBD |
 | More robots coming soon ! |
-| 16 | AgiBot A2 `agibot_a2` | TBD | TBD | TBD | TBD |
-| 17 | OpenLoong `openloong` | TBD | TBD | TBD | TBD |
+| 18 | AgiBot A2 `agibot_a2` | TBD | TBD | TBD | TBD | TBD |
+| 19 | OpenLoong `openloong` | TBD | TBD | TBD | TBD | TBD |
+
+
+
 
 ## Installation
 
@@ -188,11 +225,58 @@ conda install -c conda-forge libstdcxx-ng -y
 
 To better use this library, you can first have an understanding of the human motion data we use and the robot motion data we obtain.
 
-Each frame of **human motion data** is formulated as a dict of (human_body_name, 3d global translation + global rotation).
+Each frame of **human motion data** is formulated as a dict of (human_body_name, 3d global translation + global rotation). The rotation is usually represented as quaternion (with wxyz order by default, to align with mujoco).
 
 Each frame of **robot motion data** can be understood as a tuple of (robot_base_translation, robot_base_rotation, robot_joint_positions).
 
 ## Usage
+
+### [NEW] PICO Streaming to Robot (TWIST2)
+
+Install PICO SDK:
+1. On your PICO, install PICO SDK: see [here](https://github.com/XR-Robotics/XRoboToolkit-Unity-Client/releases/).
+2. On your own PC, 
+    - Download [deb package for ubuntu 22.04](https://github.com/XR-Robotics/XRoboToolkit-PC-Service/releases/download/v1.0.0/XRoboToolkit_PC_Service_1.0.0_ubuntu_22.04_amd64.deb), or build from the [repo source](https://github.com/XR-Robotics/XRoboToolkit-PC-Service).
+    - To install, use command
+        ```bash
+        sudo dpkg -i XRoboToolkit_PC_Service_1.0.0_ubuntu_22.04_amd64.deb
+        ```
+        then you should see `xrobotoolkit-pc-service` in your APPs. remember to start this app before you do teleopperation.
+    - Build PICO PC Service SDK and Python SDK for PICO streaming:
+        ```bash
+        conda activate gmr
+
+        git clone https://github.com/YanjieZe/XRoboToolkit-PC-Service-Pybind.git
+        cd XRoboToolkit-PC-Service-Pybind
+
+        mkdir -p tmp
+        cd tmp
+        git clone https://github.com/XR-Robotics/XRoboToolkit-PC-Service.git
+        cd XRoboToolkit-PC-Service/RoboticsService/PXREARobotSDK 
+        bash build.sh
+        cd ../../../..
+        
+
+        mkdir -p lib
+        mkdir -p include
+        cp tmp/XRoboToolkit-PC-Service/RoboticsService/PXREARobotSDK/PXREARobotSDK.h include/
+        cp -r tmp/XRoboToolkit-PC-Service/RoboticsService/PXREARobotSDK/nlohmann include/nlohmann/
+        cp tmp/XRoboToolkit-PC-Service/RoboticsService/PXREARobotSDK/build/libPXREARobotSDK.so lib/
+        # rm -rf tmp
+
+        # Build the project
+        conda install -c conda-forge pybind11
+        pip uninstall -y xrobotoolkit_sdk
+        python setup.py install
+        ```
+
+You should be all set!
+
+To try it, check [this script from TWIST2](https://github.com/amazon-far/TWIST2/blob/master/teleop.sh):
+```bash
+bash teleop.sh
+```
+You should be able to see the retargeted robot motion in a mujoco window.
 
 ### Retargeting from SMPL-X (AMASS, OMOMO) to Robot
 
@@ -261,6 +345,83 @@ python scripts/bvh_to_robot_dataset.py --src_folder <path_to_dir_of_bvh_data> --
 
 By default there is no visualization for batch retargeting.
 
+
+
+## Retargeting from BVH (Xsens) to Robot
+
+#### Visualize bvh data using mujoco:
+
+Install PyQt6:
+```bash
+pip install PyQt6 PyQt6-Qt6 PyQt6-sip
+```
+
+
+```bash
+python general_motion_retargeting/utils/xsens_vendor/mujoco_xsens_bvh_view.py \
+  --bvh_file <path_to_dir_of_bvh_data> \
+  --scale <displacement scaling size> \
+  --reset_to_zero
+```
+like
+```bash
+python general_motion_retargeting/utils/xsens_vendor/mujoco_xsens_bvh_view.py \
+  --scale 0.01 \
+  --bvh_file assets/xsens_bvh_test/251021_04_boxing_120Hz_cm_3DsMax.bvh \
+  --reset_to_zero
+```
+
+- `--start` is used to specify the initial processing frame. If no input is given, processing will start from the first frame by default.
+
+- `--end` is used to specify the final processing frame. If not input, it will be processed by default to the last frame.
+
+- `--reset_to_zero` is used to reset the displacement and Z-axis rotation to zero.This function, when used in combination with `--start`, will set the data to the initial zero position very well.Because sometimes the first one or two frames of some datasets differ too much from the subsequent data, these data need to be discarded.
+
+- `--scale` is used to set the scaling value of the displacement, which depends on the relationship between the unit used for the displacement in the dataset and the meter.
+
+- ##### Before using it, you must install PyQt6. `pip install PyQt6`
+- ##### Upon executing this command, a UI interface will be launched, enabling you to adjust the angle values for each channel in the x, y, and z directions of every joint. After completing the adjustments, click the `"Apply and Preview"` button, which will generate an `offset.json` file locally and perform a MuJoCo visualization playback of the BVH file. When running `xsens_bvh_to_robot.py`, it will read the data from this JSON file. Therefore, you need to execute `mujoco_xsens_bvh_view.py` prior to using `xsens_bvh_to_robot.py` for motion retargeting, to ensure that the `offset.json` file exists locally.
+
+#### Retarget a single motion:
+```bash
+# single motion
+python scripts/xsens_bvh_to_robot.py \
+  --bvh_file <path_to_bvh_data> \
+  --robot <path_to_robot_data> \
+  --save_path <path_to_save_robot_data.pkl> \
+  --rate_limit \
+  --start <number of the first frame> \
+  --scale <displacement scaling size> \
+  --reset_to_zero \
+  --bvh_format <exported bvh format>
+```
+like
+```bash
+python scripts/xsens_bvh_to_robot.py  \
+  --robot unitree_h1_2 \
+  --scale 0.01 \
+  --reset_to_zero \
+  --bvh_format 3DSM \
+  --bvh_file assets/xsens_bvh_test/251021_04_boxing_120Hz_cm_3DsMax.bvh \
+  --save_path retargeting_data/h1/251021_04_boxing_120Hz_cm_3DsMax.pkl
+```
+##### By default you should see the visualization of the retargeted robot motion in a mujoco window. 
+- `--rate_limit` is used to limit the rate of the retargeted robot motion to keep the same as the human motion. If you want it as fast as possible, remove `--rate_limit`.
+
+- `--start` is used to specify the initial processing frame. If no input is given, processing will start from the first frame by default.
+
+- `--end` is used to specify the final processing frame. If not input, it will be processed by default to the last frame.
+
+- `--reset_to_zero` is used to reset the displacement and Z-axis rotation to zero.This function, when used in combination with `--start`, will set the data to the initial zero position very well.Because sometimes the first one or two frames of some datasets differ too much from the subsequent data, these data need to be discarded.
+
+- `--scale` is used to set the scaling value of the displacement, which depends on the relationship between the unit used for the displacement in the dataset and the meter.
+
+##### ！！！！！！！！！！！！！！！！！！ ATTENTION ！！！！！！！！！！！！！！！！！！！！
+- `--bvh_format` is used to set the format of the bvh being parsed. In the Xsens MVN software, BVH files in three formats can be exported. There will be some differences among BVH files in different formats. Here I recommend using the 3D Studio Max format.(In fact, I have not yet completed the parsing of data in other formats.)
+
+- The exported pkl file will represent quaternions in the `wxyz` format. ^ _ ^
+  
+
 ### Retargeting from FBX (OptiTrack) to Robot
 
 #### Offline FBX Files
@@ -309,11 +470,24 @@ You should see the visualization of the retargeted robot motion in a mujoco wind
 
 ### Visualize saved robot motion
 
+Visualize a single motions:
+
 ```bash
 python scripts/vis_robot_motion.py --robot <robot_name> --robot_motion_path <path_to_save_robot_data.pkl>
 ```
 
 If you want to record video, add `--record_video` and `--video_path <your_video_path,mp4>`.
+
+Visualize a folder of motions:
+
+```bash
+python scripts/vis_robot_motion_dataset.py --robot <robot_name> --robot_motion_folder <path_to_save_robot_data_folder>
+```
+
+After launching the MuJoCo visualization window and clicking on it, you can use the following keyboard controls::
+* `[`: play the previous motion
+* `]`: play the next motion
+* `space`: toggle play/pause
 
 ## Speed Benchmark
 
