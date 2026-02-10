@@ -1,7 +1,7 @@
 {
     "robot_root_name": "base_link",
     "human_root_name": "pelvis",
-    "ground_height": 0.0,
+    "ground_height": -0.05,
     "human_height_assumption": 1.8,
     "use_ik_match_table1": true,
     "use_ik_match_table2": true,
