@@ -21,7 +21,7 @@
 - **Multiple input formats** — SMPL-X (AMASS, OMOMO), BVH (LAFAN1, Nokov, Xsens), FBX (OptiTrack), PICO VR streaming
 - **RL-ready** — carefully tuned for downstream RL motion tracking policies
 
-> ![NOTE]
+> [!NOTE]
 > **Want support for a new robot or data format?** Send robot files (`.xml`, `.urdf`, meshes) or motion data to [Yanjie Ze](mailto:lastyanjieze@gmail.com) or [open an issue](https://github.com/YanjieZe/GMR/issues). Please ensure files can be open-sourced.
 
 ## Quick Start
@@ -37,7 +37,7 @@ pip install -e .
 conda install -c conda-forge libstdcxx-ng -y
 ```
 
-> ![NOTE]
+> [!NOTE]
 > After installing SMPL-X, change `ext` in `smplx/body_models.py` from `npz` to `pkl` if you are using SMPL-X pkl files.
 
 Then retarget your first motion:

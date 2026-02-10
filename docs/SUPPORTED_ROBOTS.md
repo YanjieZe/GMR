@@ -32,7 +32,7 @@ GMR currently supports **17 humanoid robots** and **6+ motion data formats**.
 | 18 | AgiBot A2 | `agibot_a2` |
 | 19 | OpenLoong | `openloong` |
 
-> ![NOTE]
+> [!NOTE]
 > **Want your robot here?** Send robot files (`.xml`, `.urdf`, meshes) to [Yanjie Ze](mailto:lastyanjieze@gmail.com) or [open an issue](https://github.com/YanjieZe/GMR/issues).
 
 ## Input Formats

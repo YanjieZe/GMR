@@ -1,6 +1,6 @@
 # Installation
 
-> ![NOTE]
+> [!NOTE]
 > Tested on Ubuntu 22.04 / 20.04.
 
 ## Base Install

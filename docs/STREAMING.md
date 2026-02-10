@@ -24,7 +24,7 @@ Install the PICO SDK from the [XRoboToolkit Unity Client releases](https://githu
    ```
    Or build from [source](https://github.com/XR-Robotics/XRoboToolkit-PC-Service).
 
-   > ![WARNING]
+   > [!WARNING]
    > Launch the `xrobotoolkit-pc-service` app before starting teleoperation.
 
 2. Build the Python SDK:
