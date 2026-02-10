@@ -81,66 +81,74 @@ Each frame is a tuple of `(robot_base_translation, robot_base_rotation, robot_jo
 
 ## Demos
 
-<details>
-<summary><b>Click to expand demo videos</b></summary>
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/23566fa5-6335-46b9-957b-4b26aed11b9e" width="600" controls></video>
+  <br><sub>One LAFAN1 dancing motion → 5 different robots, by changing a single argument</sub>
+</div>
 
+<br>
+
+<details>
+<summary><b>See all demos</b></summary>
+<br>
 <table>
   <tr>
-    <td align="center" width="20%">
-      <b>LAFAN1 → 5 robots</b><br>
-      <video src="https://github.com/user-attachments/assets/23566fa5-6335-46b9-957b-4b26aed11b9e" width="200" controls></video>
+    <td align="center" width="33%">
+      <video src="https://github.com/user-attachments/assets/1d3e663b-f29e-41b1-8e15-5c0deb6a4a5c" width="260" controls></video>
+      <br><sub><b>HighTorque Hi</b> — Twist dance</sub>
     </td>
-    <td align="center" width="20%">
-      <b>Galaxea R1 Pro</b><br>
-      <video src="https://github.com/user-attachments/assets/903ed0b0-0ac5-4226-8f82-5a88631e9b7c" width="200" controls></video>
+    <td align="center" width="33%">
+      <video src="https://github.com/user-attachments/assets/28ee6f0f-be30-42bb-8543-cf1152d97724" width="260" controls></video>
+      <br><sub><b>Unitree H1</b> — ChaCha dance</sub>
     </td>
-    <td align="center" width="20%">
-      <b>Switch robots in 1 arg</b><br>
-      <video src="https://github.com/user-attachments/assets/03f10902-c541-40b1-8104-715a5759fd5e" width="200" controls></video>
-    </td>
-    <td align="center" width="20%">
-      <b>HighTorque twist dance</b><br>
-      <video src="https://github.com/user-attachments/assets/1d3e663b-f29e-41b1-8e15-5c0deb6a4a5c" width="200" controls></video>
+    <td align="center" width="33%">
+      <video src="https://github.com/user-attachments/assets/3ec0bf80-80c1-4181-a623-dc2b072c2ca2" width="260" controls></video>
+      <br><sub><b>PAL Talos</b> — Fighting</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <b>Kuavo picking up box</b><br>
-      <video src="https://github.com/user-attachments/assets/02fc8f41-c363-484b-a329-4f4e83ed5b80" width="200" controls></video>
+      <video src="https://github.com/user-attachments/assets/2c75a146-e28f-4327-930f-5281bfc2ca9c" width="260" controls></video>
+      <br><sub><b>Booster T1</b> — Jumping (view 1)</sub>
     </td>
     <td align="center">
-      <b>Unitree H1 ChaCha</b><br>
-      <video src="https://github.com/user-attachments/assets/28ee6f0f-be30-42bb-8543-cf1152d97724" width="200" controls></video>
+      <video src="https://github.com/user-attachments/assets/ff10c7ef-4357-4789-9219-23c6db8dba6d" width="260" controls></video>
+      <br><sub><b>Booster T1</b> — Jumping (view 2)</sub>
     </td>
     <td align="center">
-      <b>Booster T1 jumping</b><br>
-      <video src="https://github.com/user-attachments/assets/2c75a146-e28f-4327-930f-5281bfc2ca9c" width="200" controls></video>
-    </td>
-    <td align="center">
-      <b>Unitree H1-2 jumping</b><br>
-      <video src="https://github.com/user-attachments/assets/2382d8ce-7902-432f-ab45-348a11eeb312" width="200" controls></video>
+      <video src="https://github.com/user-attachments/assets/2382d8ce-7902-432f-ab45-348a11eeb312" width="260" controls></video>
+      <br><sub><b>Unitree H1-2</b> — Jumping</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <b>PND Adam Lite</b><br>
-      <video src="https://github.com/user-attachments/assets/a8ef1409-88f1-4393-9cd0-d2b14216d2a4" width="200" controls></video>
+      <video src="https://github.com/user-attachments/assets/903ed0b0-0ac5-4226-8f82-5a88631e9b7c" width="260" controls></video>
+      <br><sub><b>Galaxea R1 Pro</b> — Wheeled retargeting (view 1)</sub>
     </td>
     <td align="center">
-      <b>Tienkung walking</b><br>
-      <video src="https://github.com/user-attachments/assets/7a775ecc-4254-450c-a3eb-49e843b8e331" width="200" controls></video>
+      <video src="https://github.com/user-attachments/assets/deea0e64-f1c6-41bc-8661-351682006d5d" width="260" controls></video>
+      <br><sub><b>Galaxea R1 Pro</b> — Wheeled retargeting (view 2)</sub>
     </td>
     <td align="center">
-      <b>GVHMR + GMR</b><br>
-      <a href="https://www.bilibili.com/video/BV1Tnpmz9EaE">▶ Watch on Bilibili</a>
+      <video src="https://github.com/user-attachments/assets/02fc8f41-c363-484b-a329-4f4e83ed5b80" width="260" controls></video>
+      <br><sub><b>Kuavo</b> — Picking up a box</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <video src="https://github.com/user-attachments/assets/a8ef1409-88f1-4393-9cd0-d2b14216d2a4" width="260" controls></video>
+      <br><sub><b>PND Adam Lite</b> — Retargeting</sub>
     </td>
     <td align="center">
-      <b>PAL Talos fighting</b><br>
-      <video src="https://github.com/user-attachments/assets/3ec0bf80-80c1-4181-a623-dc2b072c2ca2" width="200" controls></video>
+      <video src="https://github.com/user-attachments/assets/7a775ecc-4254-450c-a3eb-49e843b8e331" width="260" controls></video>
+      <br><sub><b>Tienkung</b> — Walking</sub>
+    </td>
+    <td align="center">
+      <a href="https://www.bilibili.com/video/BV1Tnpmz9EaE"><img src="https://img.shields.io/badge/▶_Watch-Bilibili-00A1D6?style=for-the-badge" alt="Bilibili"/></a>
+      <br><sub><b>GVHMR + GMR</b> — Video → Robot</sub>
     </td>
   </tr>
 </table>
-
 </details>
 
 ## Speed Benchmark
