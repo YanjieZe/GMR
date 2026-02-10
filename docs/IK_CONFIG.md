@@ -1,5 +1,7 @@
 # IK Config
-In our ik config such as `smplx_to_g1.json`, you might find following params. I add annotations here for your understanding.
+
+In our IK config such as `smplx_to_g1.json`, you might find following params. I add annotations here for your understanding.
+
 ```json
 "ik_match_table1": {
         "pelvis": [ # robot's body name
