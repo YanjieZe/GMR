@@ -96,11 +96,8 @@ ROBOT_BASE_DICT = {
     "pnd_adam_lite": "pelvis",
     "tienkung": "Base_link",
     "pal_talos": "base_link",
-<<<<<<< HEAD
     "pal_kangaroo": "base_link",
-=======
     "fourier_gr3": "base_link",
->>>>>>> origin/master
 }
 
 VIEWER_CAM_DISTANCE_DICT = {
@@ -121,9 +118,6 @@ VIEWER_CAM_DISTANCE_DICT = {
     "pnd_adam_lite": 3.0,
     "tienkung": 3.0,
     "pal_talos": 3.0,
-<<<<<<< HEAD
     "pal_kangaroo": 3.0,
-=======
     "fourier_gr3": 2.0,
->>>>>>> origin/master
 }
