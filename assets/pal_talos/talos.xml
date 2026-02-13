@@ -220,7 +220,6 @@
                           <geom class="collision" mesh="inner_single_collision"/>
                           <body name="gripper_left_fingertip_3_link" pos="0 -0.04589 -0.06553" quat="0 0 0 1">
                             <inertial pos="0 0.004604 -0.002537" quat="0.70316 -0.074603 0.074603 0.70316" mass="0.026301" diaginertia="8.99999e-06 8e-06 2e-06"/>
-                            <joint name="gripper_left_fingertip_3_joint" pos="0 0 0" axis="1 0 0" range="0 1.0472"/>
                             <geom class="visual" material="black" mesh="fingertip"/>
                             <geom class="collision" mesh="fingertip_collision"/>
                             <site name="left_palm" pos="0 -0.05 0"/>
