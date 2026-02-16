@@ -45,6 +45,7 @@ IK_CONFIG_DICT = {
         "booster_k1": IK_CONFIG_ROOT / "smplx_to_k1.json",
         "pnd_adam_lite": IK_CONFIG_ROOT / "smplx_to_adam.json",
         "tienkung": IK_CONFIG_ROOT / "smplx_to_tienkung.json",
+        "pal_kangaroo": IK_CONFIG_ROOT / "smplx_to_kangaroo.json",
         "fourier_gr3": IK_CONFIG_ROOT / "smplx_to_gr3.json",
     },
     "bvh_lafan1":{
