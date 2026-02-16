@@ -32,6 +32,7 @@ This repo is licensed under the [MIT License](LICENSE).
 
 
 # News & Updates
+- **2026-02-16:** GMR now supports [PAL Robotics' KANGAROO](https://pal-robotics.com/robot/kangaroo/), the 18th humanoid robot in the repo.
 - **2026-01-21:** GMR now supports [Xsens](https://www.xsens.com/) BVH offline data.
 - **2026-01-12:** GMR now supports [Fourier GR3](https://www.fftai.com/), the 17th humanoid robot in the repo.
 - **2025-12-02:** GMR now supports [TWIST2](https://yanjieze.com/TWIST2), which utilizes [XRoboToolkit SDK](https://github.com/XR-Robotics/XRoboToolkit-PC-Service).
@@ -171,9 +172,10 @@ This repo is licensed under the [MIT License](LICENSE).
 | 15 | Tienkung `tienkung`  | Leg (2\*6) + Arm (2\*4) = 20 | ✅ | TBD | TBD | TBD |
 | 16 | PAL Robotics' Talos `pal_talos`  | Head (2) + Arm (2\*7) + Waist (2) + Leg (2\*6) = 30 | ✅ | TBD | TBD | TBD |
 | 17 | Fourier GR3 `fourier_gr3`  | Head (2) + Arm (2\*7) + Waist (3) + Leg (2\*6) = 31 | ✅ | TBD | TBD | TBD |
+| 18 | PAL Robotics' KANGAROO `pal_kangaroo`  | Arm (2\*4) + Waist (2) + Leg (2\*7) = 24 | ✅ | ✅ | TBD | TBD |
 | More robots coming soon ! |
-| 18 | AgiBot A2 `agibot_a2` | TBD | TBD | TBD | TBD | TBD |
-| 19 | OpenLoong `openloong` | TBD | TBD | TBD | TBD | TBD |
+| 19 | AgiBot A2 `agibot_a2` | TBD | TBD | TBD | TBD | TBD |
+| 20 | OpenLoong `openloong` | TBD | TBD | TBD | TBD | TBD |
 
 
 
