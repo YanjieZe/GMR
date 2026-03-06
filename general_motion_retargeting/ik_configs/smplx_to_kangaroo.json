@@ -182,7 +182,7 @@
                 -0.5
             ]
         ],
-        "arm_left_5_link": [
+        "arm_left_tip_link": [
             "left_wrist",
             0,
             10,
@@ -230,7 +230,7 @@
                 0.5
             ]
         ],
-        "arm_right_5_link": [
+        "arm_right_tip_link": [
             "right_wrist",
             0,
             10,
@@ -408,7 +408,7 @@
                 -0.5
             ]
         ],
-        "arm_left_5_link": [
+        "arm_left_tip_link": [
             "left_wrist",
             10,
             5,
@@ -456,7 +456,7 @@
                 0.5
             ]
         ],
-        "arm_right_5_link": [
+        "arm_right_tip_link": [
             "right_wrist",
             10,
             5,
