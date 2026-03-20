@@ -1,5 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<mujoco model="actuator_head">
-    <position name = 'idx27_head_joint1_actuator' joint = 'idx27_head_joint1' kp = '100' ctrlrange = "-2.2 2.2" />
-    <position name = 'idx28_head_joint2_actuator' joint = 'idx28_head_joint2' kp = '100' ctrlrange = "-0.5 0.5" />
-</mujoco>

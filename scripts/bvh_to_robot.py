@@ -36,7 +36,7 @@ if __name__ == "__main__":
     
     parser.add_argument(
         "--robot",
-        choices=["unitree_g1", "unitree_g1_with_hands", "booster_t1", "stanford_toddy", "fourier_n1", "engineai_pm01", "pal_talos"],
+        choices=["unitree_g1", "unitree_g1_with_hands", "booster_t1", "stanford_toddy", "fourier_n1", "engineai_pm01", "tiekung_2_0", "pal_talos"],
         default="unitree_g1",
     )
     
@@ -70,6 +70,14 @@ if __name__ == "__main__":
         default=30,
         type=int,
     )
+
+    parser.add_argument(
+        "--ground_clearance",
+        default=None,
+        type=float,
+        help="Ground clearance (meters) when offset_to_ground is enabled. "
+             "If not set, tiekung_2_0 uses 0.16 by default.",
+    )
     
     args = parser.parse_args()
     
@@ -90,6 +98,11 @@ if __name__ == "__main__":
         tgt_robot=args.robot,
         actual_human_height=actual_human_height,
     )
+
+    if args.ground_clearance is not None:
+        retargeter.set_offset_to_ground_clearance(args.ground_clearance)
+    elif args.robot == "tiekung_2_0":
+        retargeter.set_offset_to_ground_clearance(0.16)
 
     motion_fps = args.motion_fps
     
@@ -135,7 +148,10 @@ if __name__ == "__main__":
         smplx_data = lafan1_data_frames[i]
 
         # retarget
-        qpos = retargeter.retarget(smplx_data)
+        qpos = retargeter.retarget(
+            smplx_data,
+            offset_to_ground=(args.robot == "tiekung_2_0"),
+        )
         
 
         # visualize

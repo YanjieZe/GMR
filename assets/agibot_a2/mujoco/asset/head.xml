@@ -1,5 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<mujoco model="asset_head">
-    <mesh name = "head-yaw" file = "../../meshes/public/head_link01.stl" />
-    <mesh name = "head-pitch" file = "../../meshes/public/head_link02.stl" />
-</mujoco>

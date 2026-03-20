@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<mujoco model="equality_ankle">
-    <connect name = 'left_toe_A_loop' body1 = 'left_toe_A_rod' body2 = 'left_toe_roll' solimp = '0.9999 0.9999 0.001 0.5 2' anchor = '-0.239 0 0' />
-    <connect name = 'left_toe_B_loop' body1 = 'left_toe_B_rod' body2 = 'left_toe_roll' solimp = '0.9999 0.9999 0.001 0.5 2' anchor = '-0.145 0 0' />
-    <connect name = 'right_toe_A_loop' body1 = 'right_toe_A_rod' body2 = 'right_toe_roll' solimp = '0.9999 0.9999 0.001 0.5 2' anchor = '-0.239 0 0' />
-    <connect name = 'right_toe_B_loop' body1 = 'right_toe_B_rod' body2 = 'right_toe_roll' solimp = '0.9999 0.9999 0.001 0.5 2' anchor = '-0.145 0 0' />
-</mujoco>

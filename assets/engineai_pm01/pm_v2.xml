@@ -1,4 +1,0 @@
-<mujoco model="global_model">
-    <include file="xml/serial_pm_v2.xml"/>
-    <include file="ground.xml"/>
-</mujoco>

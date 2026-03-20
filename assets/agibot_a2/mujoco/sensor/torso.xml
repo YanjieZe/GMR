@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<mujoco model="torso_sensor">
-    <framequat name="body-orientation" objtype="site" objname="imu" noise="0"/>
-    <gyro name="body-angular-velocity" site="imu" noise="0.001"/>
-    <framepos name="body-linear-pos" objtype="site" objname="imu"/>
-    <velocimeter name="body-linear-vel" site="imu"/>
-    <accelerometer name="body-linear-acceleration" site="imu" noise="0.001"/>
-</mujoco>
