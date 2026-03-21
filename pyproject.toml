@@ -33,5 +33,15 @@ dependencies = [
 [project.urls]
 Homepage = "https://github.com/YanjieZe/GMR"
 
+[tool.setuptools]
+include-package-data = true
+
 [tool.setuptools.packages.find]
 where = ["."]
+include = [
+  "general_motion_retargeting*",
+  "third_party*",
+  "scripts*",
+  "assets*",
+]
+namespaces = true
