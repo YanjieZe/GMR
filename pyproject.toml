@@ -1,0 +1,37 @@
+[build-system]
+requires = ["setuptools>=61", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "general_motion_retargeting"
+version = "0.2.0"
+description = "General Motion Retargeting (GMR) for Humanoid Robots"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [
+  { name = "Yanjie Ze", email = "lastyanjieze@gmail.com" },
+]
+dependencies = [
+  "loop_rate_limiters",
+  "mink",
+  "mujoco",
+  "numpy",
+  "scipy",
+  "qpsolvers[proxqp]",
+  "rich",
+  "tqdm",
+  "opencv-python",
+  "natsort",
+  "psutil",
+  "smplx @ git+https://github.com/vchoutas/smplx",
+  "protobuf",
+  "redis[hiredis]",
+  "imageio[ffmpeg]",
+]
+
+[project.urls]
+Homepage = "https://github.com/YanjieZe/GMR"
+
+[tool.setuptools.packages.find]
+where = ["."]
