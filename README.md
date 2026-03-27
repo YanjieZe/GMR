@@ -140,8 +140,8 @@ This repo is licensed under the [MIT License](LICENSE).
     </td>
     <td align="center">
       <b>Demo 15</b><br>
-      (Optional placeholder if you add a new one later!)<br>
-      <i>Coming soon...</i>
+      RobotEra L7 walking.<br>
+      <video src="https://github.com/user-attachments/assets/8de5c3e3-c2a4-4382-80e9-d66e9620affd" width="200" controls></video>
     </td>
   </tr>
 </table>
@@ -171,10 +171,10 @@ This repo is licensed under the [MIT License](LICENSE).
 | 15 | Tienkung `tienkung`  | Leg (2\*6) + Arm (2\*4) = 20 | ✅ | TBD | TBD | TBD |
 | 16 | PAL Robotics' Talos `pal_talos`  | Head (2) + Arm (2\*7) + Waist (2) + Leg (2\*6) = 30 | ✅ | TBD | TBD | TBD |
 | 17 | Fourier GR3 `fourier_gr3`  | Head (2) + Arm (2\*7) + Waist (3) + Leg (2\*6) = 31 | ✅ | TBD | TBD | TBD |
-| More robots coming soon ! |
 | 18 | AgiBot A2 `agibot_a2` | TBD | TBD | TBD | TBD | TBD |
 | 19 | OpenLoong `openloong` | TBD | TBD | TBD | TBD | TBD |
-
+| 20 | RobotEra L7 `robotera_l7`  | Leg (2\*6) + Waist (3) + Arm (2\*7) = 29 | ✅ | ✅ | TBD | TBD | TBD |
+| More robots coming soon ! |
 
 
 

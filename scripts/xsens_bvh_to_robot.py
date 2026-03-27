@@ -29,6 +29,7 @@ if __name__ == "__main__":
             "unitree_h1_2",
             "Q1",
             "X1",
+            "robotera_l7"
         ],
         default="unitree_h1_2",
     )

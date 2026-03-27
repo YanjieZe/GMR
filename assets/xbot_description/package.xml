@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package format="2">
+    <name>xbot_description</name>
+    <version>0.0.1</version>
+    <description>robotera robot description files</description>
+    <maintainer email="support@robotera.com">era</maintainer>
+    <license>BSD</license>
+    <author email="support@robotera.com">era</author>
+
+    <buildtool_depend>ament_cmake</buildtool_depend>
+
+    <exec_depend>xacro</exec_depend>
+
+    <export>
+        <build_type>ament_cmake</build_type>
+    </export>
+</package>
