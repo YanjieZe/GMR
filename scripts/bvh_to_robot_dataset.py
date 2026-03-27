@@ -7,8 +7,8 @@ from tqdm import tqdm
 import torch
 import pickle
 
-from general_motion_retargeting.utils.lafan1 import load_lafan1_file
-# from general_motion_retargeting.utils.lafan1 import  load_bvh_file
+# from general_motion_retargeting.utils.lafan1 import load_lafan1_file
+from general_motion_retargeting.utils.lafan1 import  load_bvh_file
 from general_motion_retargeting.kinematics_model import KinematicsModel
 from general_motion_retargeting import GeneralMotionRetargeting as GMR
 from rich import print
@@ -29,6 +29,11 @@ if __name__ == "__main__":
         "--tgt_folder",
         help="Folder to save the retargeted motion files.",
         default="../../motion_data/LAFAN1_g1_gmr"
+    )
+    parser.add_argument(
+        "--format",
+        choices=["lafan1", "nokov"],
+        default="lafan1",
     )
     parser.add_argument(
         "--robot",
@@ -73,7 +78,8 @@ if __name__ == "__main__":
             
             # Load LAFAN1 trajectory
             try:
-                lafan1_data_frames, actual_human_height = load_lafan1_file(bvh_file_path)
+                # lafan1_data_frames, actual_human_height = load_lafan1_file(bvh_file_path)
+                lafan1_data_frames, actual_human_height = load_bvh_file(bvh_file_path)
 
                 src_fps = 30  # LAFAN1 data is typically 30 FPS
             except Exception as e:
@@ -83,7 +89,8 @@ if __name__ == "__main__":
             
             # Initialize the retargeting system
             retarget = GMR(
-                src_human="bvh",
+                # src_human="bvh",
+                src_human=f"bvh_{args.format}",
                 tgt_robot=args.robot,
                 actual_human_height=actual_human_height,
             )
