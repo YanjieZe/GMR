@@ -74,7 +74,7 @@ if __name__ == "__main__":
             # Load LAFAN1 trajectory
             try:
                 lafan1_data_frames, actual_human_height = load_bvh_file(bvh_file_path)
-                src_fps = 30  # LAFAN1 data is typically 30 FPS
+                src_fps = 120  # LAFAN1 data is typically 30 FPS
             except Exception as e:
                 print(f"Error loading {bvh_file_path}: {e}")
                 continue
@@ -82,7 +82,7 @@ if __name__ == "__main__":
             
             # Initialize the retargeting system
             retarget = GMR(
-                src_human="bvh",
+                src_human="bvh_fzmotion",
                 tgt_robot=args.robot,
                 actual_human_height=actual_human_height,
             )
@@ -93,7 +93,7 @@ if __name__ == "__main__":
 
             # retarget to get all qpos
             qpos_list = []
-            for curr_frame in range(len(lafan1_data_frames)):
+            for curr_frame in tqdm(range(len(lafan1_data_frames))):
                 smplx_data = lafan1_data_frames[curr_frame]
                 
                 # Retarget till convergence
