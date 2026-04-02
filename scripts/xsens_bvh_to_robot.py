@@ -29,6 +29,7 @@ if __name__ == "__main__":
             "unitree_h1_2",
             "Q1",
             "X1",
+            "robotera_l7"
         ],
         default="unitree_h1_2",
     )
@@ -186,7 +187,9 @@ if __name__ == "__main__":
         import pickle
 
         root_pos = np.array([qpos[:3] for qpos in qpos_list])
-        root_rot = np.array([qpos[3:7] for qpos in qpos_list])
+        # root_rot = np.array([qpos[3:7] for qpos in qpos_list])
+        # save from wxyz to xyzw
+        root_rot = np.array([qpos[3:7][[1,2,3,0]] for qpos in qpos_list])        
         dof_pos = np.array([qpos[7:] for qpos in qpos_list])
         local_body_pos = None
         body_names = None
