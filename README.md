@@ -157,7 +157,7 @@ This repo is licensed under the [MIT License](LICENSE).
 | 1 | Unitree G1 with Hands `unitree_g1_with_hands` | Leg (2\*6) + Waist (3) + Arm (2\*7) + Hand (2\*7) = 43 | ✅ | ✅ | ✅ | TBD | TBD |
 | 2 | Unitree H1 `unitree_h1` | Leg (2\*5) + Waist (1) + Arm (2\*4) = 19 | ✅ | TBD | TBD | TBD | TBD |
 | 3 | Unitree H1 2 `unitree_h1_2` | Leg (2\*6) + Waist (1) + Arm (2\*7) = 27 | ✅ | TBD | TBD | TBD | TBD |
-| 4 | Booster T1 `booster_t1` | TBD | ✅ |  TBD  | TBD | TBD |
+| 4 | Booster T1 `booster_t1` | TBD | ✅ |  ✅  | TBD | TBD |
 | 5 | Booster T1 29dof `booster_t1_29dof` | TBD | ✅ |  ✅  | TBD | TBD |
 | 6 | Booster K1 `booster_k1` | Neck (2) + Arm (2\*4) + Leg (2\*6) = 22 | ✅ | TBD | TBD | TBD |
 | 7 | Stanford ToddlerBot `stanford_toddy` | TBD | ✅ | ✅ | TBD | TBD |
@@ -329,7 +329,7 @@ Retarget a single motion:
 
 ```bash
 # single motion
-python scripts/bvh_to_robot.py --bvh_file <path_to_bvh_data> --robot <path_to_robot_data> --save_path <path_to_save_robot_data.pkl> --rate_limit --format <format>
+python scripts/bvh_to_robot.py --bvh_file <path_to_bvh_data> --robot <robot_name> --save_path <path_to_save_robot_data.pkl> --rate_limit --format <format>
 ```
 
 By default you should see the visualization of the retargeted robot motion in a mujoco window. 
@@ -343,7 +343,7 @@ Retarget a folder of motions:
 python scripts/bvh_to_robot_dataset.py --src_folder <path_to_dir_of_bvh_data> --tgt_folder <path_to_dir_to_save_robot_data> --robot <robot_name>
 ```
 
-By default there is no visualization for batch retargeting.
+By default there is no visualization for batch retargeting. For LAFAN1 BVH inputs, batch retargeting now supports both `booster_t1` and `booster_t1_29dof`.
 
 
 
