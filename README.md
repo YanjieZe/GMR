@@ -485,7 +485,8 @@ python scripts/xsens_live_streaming.py
 
 Retarget a single motion:
 
-1. Install `fbx_sdk` by following [these instructions](https://github.com/nv-tlabs/ASE/tree/main/ase/poselib#importing-from-fbx) and [these instructions](https://github.com/nv-tlabs/ASE/issues/61#issuecomment-2670315114). You will probably need a new conda environment for this.
+1. Install `FBX Python SDK` by following [these instructions](https://github.com/nv-tlabs/ASE/tree/main/ase/poselib#importing-from-fbx). You will probably need a new conda environment for this.
+> [these instructions](https://github.com/nv-tlabs/ASE/issues/61#issuecomment-2670315114) may help you when you use fbx-python version < 3.7.
 
 2. Activate the conda environment where you installed `fbx_sdk`.
 Use the following command to extract motion data from your `.fbx` file:

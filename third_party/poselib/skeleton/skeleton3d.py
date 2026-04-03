@@ -621,7 +621,7 @@ class SkeletonState(Serializable):
             ]
         )
 
-    def to_retarget_motion_file(self, path: str) -> None:
+    def to_retarget_motion_file(self, path: str, fps:int) -> None:
         """
         Save the motion for the retargeting.
         """
@@ -636,16 +636,21 @@ class SkeletonState(Serializable):
 
         num_frames = global_positions.shape[0]
         num_joints = len(joint_names)
-        data = []
+        data = {
+            "frames": [],
+            "fps": fps
+        }
 
         for frame in range(num_frames):
             motion = {}
             for i in range(num_joints):
-                motion[joint_names[i].split('_')[1]] = [
+                key = joint_names[i].split('_', 1)
+                key = key[0] if len(key) == 1 else key[1]
+                motion[key] = [
                     global_positions[frame, i].tolist(),
                     global_quaternions[frame, i, [3, 0, 1, 2]].tolist()
                 ]
-            data.append(motion)
+            data["frames"].append(motion)
 
         with open(path, "wb") as f:
             pickle.dump(data, f)
@@ -1196,7 +1201,7 @@ class SkeletonMotion(SkeletonState):
         fbx_file_path,
         skeleton_tree=None,
         is_local=True,
-        fps=120,
+        fps=0,
         root_joint="",
         root_trans_index=0,
         *args,
@@ -1215,7 +1220,7 @@ class SkeletonMotion(SkeletonState):
         :param is_local: the state vector uses local or global rotation as the representation
         :type is_local: bool, optional, default=True
         :param fps: FPS of the FBX animation
-        :type fps: int, optional, default=120
+        :type fps: int, optional, default=0 means use fps in fbx
         :param root_joint: the name of the root joint for the skeleton
         :type root_joint: string, optional, default="" or the first node in the FBX scene with animation data
         :param root_trans_index: index of joint to extract root transform from

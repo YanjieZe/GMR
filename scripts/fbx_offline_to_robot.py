@@ -58,6 +58,13 @@ if __name__ == "__main__":
     )
 
     parser.add_argument(
+        "--fps",
+        type=int,
+        default=120,
+        help="Manually set fps, default 120"
+    )
+
+    parser.add_argument(
         "--rate_limit",
         action="store_true",
         default=False,
@@ -82,9 +89,16 @@ if __name__ == "__main__":
     
     # Load OptiTrack FMB motion trajectory
     print(f"Loading OptiTrack FBX motion file: {args.motion_file}")
-    data_frames = load_optitrack_fbx_motion_file(args.motion_file)
+    fbx_motion_data = load_optitrack_fbx_motion_file(args.motion_file)
+    motion_fps = 120 if args.fps == 0 else args.fps
+    if type(fbx_motion_data) == list:
+        data_frames = fbx_motion_data
+        fbx_fps = 120
+    else:
+        data_frames = fbx_motion_data["frames"]
+        fbx_fps = fbx_motion_data["fps"]
     print(f"Loaded {len(data_frames)} frames")
-    
+
     
     # Initialize the retargeting system with fbx configuration
     retargeter = GMR(
@@ -96,10 +110,9 @@ if __name__ == "__main__":
     height_offset = offset_to_ground(retargeter, data_frames)
     retargeter.set_ground_offset(height_offset)
 
-    motion_fps = 120
     
     robot_motion_viewer = RobotMotionViewer(robot_type=args.robot,
-                                            motion_fps=motion_fps,
+                                            motion_fps=fbx_fps,
                                             transparent_robot=1,
                                             record_video=args.record_video,
                                             video_path=args.video_path,
@@ -113,7 +126,8 @@ if __name__ == "__main__":
     fps_start_time = time.time()
     fps_display_interval = 2.0  # Display FPS every 2 seconds
     
-    print(f"mocap_frame_rate: {motion_fps}")
+    print(f"FPS render target: {motion_fps}")
+    print(f"FPS FBX motion: {fbx_fps}")
     
     # Create tqdm progress bar for the total number of frames
     pbar = tqdm(total=len(data_frames), desc="Retargeting OptiTrack motion")
@@ -166,7 +180,7 @@ if __name__ == "__main__":
         body_names = None
         
         motion_data = {
-            "fps": motion_fps,
+            "fps": fbx_fps,
             "root_pos": root_pos,
             "root_rot": root_rot,
             "dof_pos": dof_pos,
