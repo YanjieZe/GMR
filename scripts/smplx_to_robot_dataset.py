@@ -36,7 +36,24 @@ def check_memory(threshold_gb=30):  # adjust based on your available memory
 HERE = pathlib.Path(__file__).parent
 
 
-def process_file(smplx_file_path, tgt_file_path, tgt_robot, SMPLX_FOLDER, tgt_folder, total_files, verbose=False):
+def resolve_torch_device(requested_device: str) -> str:
+    if requested_device == "auto":
+        if torch.cuda.is_available():
+            try:
+                torch.zeros(1, device="cuda:0")
+                return "cuda:0"
+            except Exception as exc:
+                print(f"[WARNING] CUDA probe failed, falling back to CPU: {exc}")
+        return "cpu"
+    if requested_device.startswith("cuda"):
+        try:
+            torch.zeros(1, device=requested_device)
+        except Exception as exc:
+            raise RuntimeError(f"Requested CUDA device '{requested_device}' is not usable: {exc}") from exc
+    return requested_device
+
+
+def process_file(smplx_file_path, tgt_file_path, tgt_robot, SMPLX_FOLDER, tgt_folder, fk_device, total_files, verbose=False):
     def log_memory(message):
         if verbose:
             process = psutil.Process(os.getpid())
@@ -90,7 +107,7 @@ def process_file(smplx_file_path, tgt_file_path, tgt_robot, SMPLX_FOLDER, tgt_fo
 
     log_memory("After retargeting")
     
-    device = "cuda:0"
+    device = fk_device
     kinematics_model = KinematicsModel(retargeter.xml_file, device=device)
 
     try:
@@ -163,7 +180,8 @@ def process_file(smplx_file_path, tgt_file_path, tgt_robot, SMPLX_FOLDER, tgt_fo
         tracemalloc.stop()
         
     # clean cache
-    torch.cuda.empty_cache()
+    if str(device).startswith("cuda") and torch.cuda.is_available():
+        torch.cuda.empty_cache()
     gc.collect()
     
 
@@ -180,6 +198,7 @@ def main():
     
     parser.add_argument("--override", default=False, action="store_true")
     parser.add_argument("--num_cpus", default=4, type=int)
+    parser.add_argument("--device", default="auto", help="Forward-kinematics device: auto, cpu, cuda:0, ...")
     args = parser.parse_args()
     
     # print the total number of cpus and gpus
@@ -188,6 +207,8 @@ def main():
     
     src_folder = args.src_folder
     tgt_folder = args.tgt_folder
+    fk_device = resolve_torch_device(args.device)
+    print(f"Using FK device: {fk_device}")
 
     SMPLX_FOLDER = HERE / ".." / "assets" / "body_models"
     hard_motions_folder = HERE / ".." / "assets" / "hard_motions"
@@ -217,7 +238,7 @@ def main():
                 smplx_file_path = os.path.join(dirpath, filename)
                 tgt_file_path = smplx_file_path.replace(src_folder, tgt_folder).replace(".npz", ".pkl")
                 if not os.path.exists(tgt_file_path) or args.override:
-                    args_list.append((smplx_file_path, tgt_file_path, args.robot, SMPLX_FOLDER, tgt_folder))
+                    args_list.append((smplx_file_path, tgt_file_path, args.robot, SMPLX_FOLDER, tgt_folder, fk_device))
     print("full args_list:", len(args_list))
     
     # remove hard and infeasible motions
@@ -238,8 +259,14 @@ def main():
     
     total_files = len(args_list)
     print(f"Total number of files to process: {total_files}")
-    with mp.Pool(args.num_cpus) as pool:
-        pool.starmap(process_file, [args + (total_files, verbose) for args in args_list])
+    work_items = [args + (total_files, verbose) for args in args_list]
+    if args.num_cpus <= 1:
+        for work_item in work_items:
+            process_file(*work_item)
+    else:
+        pool_context = mp.get_context("spawn") if fk_device.startswith("cuda") else mp
+        with pool_context.Pool(args.num_cpus) as pool:
+            pool.starmap(process_file, work_items)
 
     print("Done. Saved to ", tgt_folder)
 
