@@ -1,0 +1,104 @@
+<!-- Right Inspire Hand Body Fragment
+     To be included under right_hand_link body in T1 robot.
+     Requires mesh assets to be defined in parent XML with "right_hand_" prefix.
+     
+     Coordinate transform: +90° rotation around X axis aligns Inspire's +Z (finger direction)
+     with T1's -Y (right arm extension direction), keeping palm facing down (-Z).
+-->
+<body name="right_inspire_hand" pos="0 0 0" quat="0.707107 0.707107 0 0">
+    <!-- Base link (wrist) -->
+    <geom type="mesh" contype="0" conaffinity="0" group="1" rgba="1 1 1 1" mesh="right_hand_base_link"/>
+    <geom pos="-0.00036819 0.012296 0.1196" quat="-2.59734e-06 -2.59735e-06 -0.707108 -0.707105" type="mesh" contype="0" conaffinity="0" group="1" rgba="0.411765 0.411765 0.411765 1" mesh="right_hand_palm_force_sensor"/>
+    
+    <!-- Thumb chain (4 joints) -->
+    <body name="right_thumb_1" pos="-0.0269 0.02101 0.0689">
+        <inertial pos="-0.02695 0.01478 0.07485" quat="0.873372 0.485276 0.0392668 0.0136907" mass="0.02407" diaginertia="3.05206e-06 2.64597e-06 1.21685e-06"/>
+        <joint name="right_thumb_1_joint" pos="0 0 0" axis="0 0 -1" range="0 1.1641"/>
+        <geom type="mesh" contype="0" conaffinity="0" group="1" rgba="1 1 1 1" mesh="right_hand_thumb_1"/>
+        <body name="right_thumb_2" pos="-0.0079252 0.0090599 0.0052" quat="0.0922934 0.0922938 0.701059 0.701056">
+            <inertial pos="-0.0457096 0.0237967 0.0822343" quat="0.718692 -0.245937 -0.0994951 0.642726" mass="0.02526" diaginertia="1.36266e-05 1.13383e-05 4.32519e-06"/>
+            <joint name="right_thumb_2_joint" pos="0 0 0" axis="0 0 1" range="0 0.5864"/>
+            <geom type="mesh" contype="0" conaffinity="0" group="1" rgba="1 1 1 1" mesh="right_hand_thumb_2"/>
+            <geom pos="0.0087121 0.026305 -0.0067115" quat="0.579327 -0.405437 -0.579328 -0.405439" type="mesh" contype="0" conaffinity="0" group="1" rgba="0.411765 0.411765 0.411765 1" mesh="right_hand_thumb_force_sensor_1"/>
+            <body name="right_thumb_3" pos="0.031403 0.021069 0.00095">
+                <inertial pos="-0.0690817 0.0295972 0.0903278" quat="0.662164 -0.370669 -0.0642837 0.648082" mass="0.01222" diaginertia="1.49343e-05 1.48658e-05 7.76979e-07"/>
+                <joint name="right_thumb_3_joint" pos="0 0 0" axis="0 0 1" range="0 0.5"/>
+                <geom type="mesh" contype="0" conaffinity="0" group="1" rgba="1 1 1 1" mesh="right_hand_thumb_3"/>
+                <geom pos="0.011771 0.01699 -0.0077514" quat="-0.562601 0.428173 0.562767 0.4283" type="mesh" contype="0" conaffinity="0" group="1" rgba="0.411765 0.411765 0.411765 1" mesh="right_hand_thumb_force_sensor_2"/>
+                <body name="right_thumb_4" pos="0.021903 0.012816 -0.0003">
+                    <inertial pos="-0.0934768 0.0366379 0.104826" quat="0.609148 -0.359083 0.609147 0.359081" mass="0.0209" diaginertia="3.77704e-05 3.73864e-05 1.38968e-06"/>
+                    <joint name="right_thumb_4_joint" pos="0 0 0" axis="0 0 1" range="0 3.14"/>
+                    <geom type="mesh" contype="0" conaffinity="0" group="1" rgba="1 1 1 1" mesh="right_hand_thumb_4"/>
+                    <geom pos="0.014598 0.01472 -0.0073103" quat="0.615658 -0.347798 -0.615661 -0.347797" type="mesh" contype="0" conaffinity="0" group="1" rgba="0.411765 0.411765 0.411765 1" mesh="right_hand_thumb_force_sensor_3"/>
+                    <geom pos="0.028987 0.017301 -0.0073512" quat="0.609148 -0.359083 0.609147 0.359081" type="mesh" contype="0" conaffinity="0" group="1" rgba="0.411765 0.411765 0.411765 1" mesh="right_hand_thumb_force_sensor_4"/>
+                    <site name="right_thumb_site" pos="0.028987 0.017301 -0.0073512" quat="0.609148 -0.359083 0.609147 0.359081" size="0.003" rgba="0 1 0 1"/>
+                </body>
+            </body>
+        </body>
+    </body>
+    
+    <!-- Index finger chain (2 joints) -->
+    <body name="right_index_1" pos="-0.038679 0.00056467 0.1564" quat="0.491197 0.508648 -0.50865 -0.491199">
+        <inertial pos="-0.0317278 0.00144578 0.15637" quat="0.997007 0.0140042 -0.0327588 -0.0686148" mass="0.02556" diaginertia="3.61289e-05 3.60333e-05 1.40028e-06"/>
+        <joint name="right_index_1_joint" pos="0 0 0" axis="0 0 1" range="0 1.4381"/>
+        <geom type="mesh" contype="0" conaffinity="0" group="1" rgba="1 1 1 1" mesh="right_hand_index_1"/>
+        <geom pos="-0.012046 0.019649 -0.006651" quat="0.704358 -0.0873853 -0.701686 -0.0622873" type="mesh" contype="0" conaffinity="0" group="1" rgba="0.411765 0.411765 0.411765 1" mesh="right_hand_index_force_sensor_1"/>
+        <body name="right_index_2" pos="-0.0034259 0.032596 -0.00055">
+            <inertial pos="-0.0086237 0.052572 -0.0060954" quat="0.66977 -0.257027 -0.658739 -0.226735" mass="0.0144" diaginertia="0.000115163 8.4966e-05 3.12092e-05"/>
+            <joint name="right_index_2_joint" pos="0 0 0" axis="0 0 1" range="0 3.14"/>
+            <geom type="mesh" contype="0" conaffinity="0" group="1" rgba="1 1 1 1" mesh="right_hand_index_2"/>
+            <geom pos="-0.0081655 0.037446 -0.0060795" quat="0.693985 0.109758 -0.698536 0.13559" type="mesh" contype="0" conaffinity="0" group="1" rgba="0.411765 0.411765 0.411765 1" mesh="right_hand_index_force_sensor_2"/>
+            <geom pos="-0.0086237 0.052572 -0.0060954" quat="0.66977 -0.257027 -0.658739 -0.226735" type="mesh" contype="0" conaffinity="0" group="1" rgba="0.411765 0.411765 0.411765 1" mesh="right_hand_index_force_sensor_3"/>
+            <site name="right_index_site" pos="-0.00862373 0.0525719 -0.00609539" quat="0.655775 -0.219109 -0.672303 -0.264497" size="0.003" rgba="0 1 0 1"/>
+        </body>
+    </body>
+    
+    <!-- Middle finger chain (2 joints) -->
+    <body name="right_middle_1" pos="-0.0171 0.00056467 0.157" quat="0.499998 0.5 -0.500002 -0.5">
+        <inertial pos="-0.0102141 -0.0152814 0.156476" quat="0.997088 0.0636663 0.0268311 -0.0322867" mass="0.02556" diaginertia="3.65679e-05 3.65086e-05 1.3696e-06"/>
+        <joint name="right_middle_1_joint" pos="0 0 0" axis="0 0 1" range="0 1.4381"/>
+        <geom type="mesh" contype="0" conaffinity="0" group="1" rgba="1 1 1 1" mesh="right_hand_middle_1"/>
+        <geom pos="-0.012046 0.019649 -0.006651" quat="-0.703076 0.0754056 0.703073 0.0754054" type="mesh" contype="0" conaffinity="0" group="1" rgba="0.411765 0.411765 0.411765 1" mesh="right_hand_middle_force_sensor_1"/>
+        <body name="right_middle_2" pos="-0.0034259 0.032596 -0.00055">
+            <inertial pos="-0.0111815 -0.0241105 0.184636" quat="0.967702 0.00736304 0.0323964 0.249898" mass="0.01499" diaginertia="8.89188e-05 8.63597e-05 2.97422e-06"/>
+            <joint name="right_middle_2_joint" pos="0 0 0" axis="0 0 1" range="0 3.14"/>
+            <geom type="mesh" contype="0" conaffinity="0" group="1" rgba="1 1 1 1" mesh="right_hand_middle_2"/>
+            <geom pos="-0.0090859 0.040963 -0.0061003" quat="-0.695008 -0.130248 0.695006 -0.130249" type="mesh" contype="0" conaffinity="0" group="1" rgba="0.411765 0.411765 0.411765 1" mesh="right_hand_middle_force_sensor_2"/>
+            <geom pos="-0.0098294 0.056051 -0.0061006" quat="-0.667101 0.234473 0.667099 0.234472" type="mesh" contype="0" conaffinity="0" group="1" rgba="0.411765 0.411765 0.411765 1" mesh="right_hand_middle_force_sensor_3"/>
+            <site name="right_middle_site" pos="-0.0098294 0.056051 -0.0061006" quat="-0.667101 0.234473 0.667099 0.234472" size="0.003" rgba="0 1 0 1"/>
+        </body>
+    </body>
+    
+    <!-- Ring finger chain (2 joints) -->
+    <body name="right_ring_1" pos="0.0045302 0.00056467 0.15683" quat="0.512925 0.48673 -0.486732 -0.512927">
+        <inertial pos="0.0103374 0.00122543 0.156707" quat="0.963831 0.0284422 0.0752752 0.254075" mass="0.02664" diaginertia="3.70127e-05 3.69351e-05 1.47026e-06"/>
+        <joint name="right_ring_1_joint" pos="0 0 0" axis="0 0 1" range="0 1.4381"/>
+        <geom type="mesh" contype="0" conaffinity="0" group="1" rgba="1 1 1 1" mesh="right_hand_ring_1"/>
+        <geom pos="-0.0120462 0.0196485 -0.00665098" quat="0.700879 -0.0559904 -0.704887 -0.0936441" type="mesh" contype="0" conaffinity="0" group="1" rgba="0.411765 0.411765 0.411765 1" mesh="right_hand_ring_force_sensor_1"/>
+        <body name="right_ring_2" pos="-0.0034259 0.032596 -0.00055">
+            <inertial pos="0.008117 0.0173512 0.163707" quat="0.995865 0.0470991 0.0744755 -0.0220734" mass="0.0144" diaginertia="0.000116844 8.66287e-05 3.18153e-05"/>
+            <joint name="right_ring_2_joint" pos="0 0 0" axis="0 0 1" range="0 3.14"/>
+            <geom type="mesh" contype="0" conaffinity="0" group="1" rgba="1 1 1 1" mesh="right_hand_ring_2"/>
+            <geom pos="-0.00816549 0.0374458 -0.00607949" quat="0.699529 0.14203 -0.692696 0.103242" type="mesh" contype="0" conaffinity="0" group="1" rgba="0.411765 0.411765 0.411765 1" mesh="right_hand_ring_force_sensor_2"/>
+            <geom pos="-0.00862373 0.0525719 -0.00609539" quat="0.655775 -0.219109 -0.672303 -0.264497" type="mesh" contype="0" conaffinity="0" group="1" rgba="0.411765 0.411765 0.411765 1" mesh="right_hand_ring_force_sensor_3"/>
+            <site name="right_ring_site" pos="-0.00862373 0.0525719 -0.00609539" quat="0.655775 -0.219109 -0.672303 -0.264497" size="0.003" rgba="0 1 0 1"/>
+        </body>
+    </body>
+    
+    <!-- Little finger chain (2 joints) -->
+    <body name="right_little_1" pos="0.025916 0.00056467 0.15365" quat="0.525476 0.473152 -0.473154 -0.525478">
+        <inertial pos="0.0311564 0.00137324 0.152805" quat="0.847563 0.0754309 0.114939 0.512578" mass="0.02556" diaginertia="3.73998e-05 3.72628e-05 1.53255e-06"/>
+        <joint name="right_little_1_joint" pos="0 0 0" axis="0 0 1" range="0 1.4381"/>
+        <geom type="mesh" contype="0" conaffinity="0" group="1" rgba="1 1 1 1" mesh="right_hand_little_1"/>
+        <geom pos="-0.0120462 0.0196485 -0.00665098" quat="0.698121 -0.0371013 -0.706133 -0.112372" type="mesh" contype="0" conaffinity="0" group="1" rgba="0.411765 0.411765 0.411765 1" mesh="right_hand_little_force_sensor_1"/>
+        <body name="right_little_2" pos="-0.0034259 0.032596 -0.00055">
+            <inertial pos="0.0296593 -0.0265762 0.167406" quat="0.959075 0.051164 0.11692 0.25276" mass="0.01172" diaginertia="7.75321e-05 7.61765e-05 1.66835e-06"/>
+            <joint name="right_little_2_joint" pos="0 0 0" axis="0 0 1" range="0 3.14"/>
+            <geom type="mesh" contype="0" conaffinity="0" group="1" rgba="1 1 1 1" mesh="right_hand_little_2"/>
+            <geom pos="-0.00645124 0.0276833 -0.00611719" quat="0.702403 0.158797 -0.689045 0.0814212" type="mesh" contype="0" conaffinity="0" group="1" rgba="0.411765 0.411765 0.411765 1" mesh="right_hand_little_force_sensor_2"/>
+            <geom pos="-0.00639723 0.0427069 -0.00611537" quat="0.645296 -0.19817 -0.67877 -0.289124" type="mesh" contype="0" conaffinity="0" group="1" rgba="0.411765 0.411765 0.411765 1" mesh="right_hand_little_force_sensor_3"/>
+            <site name="right_little_site" pos="-0.00639723 0.0427069 -0.00611537" quat="0.645296 -0.19817 -0.67877 -0.289124" size="0.003" rgba="0 1 0 1"/>
+        </body>
+    </body>
+</body>
+

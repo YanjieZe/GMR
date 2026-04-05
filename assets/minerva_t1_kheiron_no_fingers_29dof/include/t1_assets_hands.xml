@@ -1,0 +1,67 @@
+<mujoco>
+    <asset>
+        <!-- Left Inspire Hand -->
+        <mesh name="left_hand_base_link" file="../../hands/urdf_left_with_force_sensor/xml/base_link.STL"/>
+        <mesh name="left_hand_palm_force_sensor" file="../../hands/urdf_left_with_force_sensor/xml/palm_force_sensor.STL"/>
+        <mesh name="left_hand_thumb_1" file="../../hands/urdf_left_with_force_sensor/xml/left_thumb_1.STL"/>
+        <mesh name="left_hand_thumb_2" file="../../hands/urdf_left_with_force_sensor/xml/left_thumb_2.STL"/>
+        <mesh name="left_hand_thumb_3" file="../../hands/urdf_left_with_force_sensor/xml/left_thumb_3.STL"/>
+        <mesh name="left_hand_thumb_4" file="../../hands/urdf_left_with_force_sensor/xml/left_thumb_4.STL"/>
+        <mesh name="left_hand_thumb_force_sensor_1" file="../../hands/urdf_left_with_force_sensor/xml/thumb_force_sensor_1.STL"/>
+        <mesh name="left_hand_thumb_force_sensor_2" file="../../hands/urdf_left_with_force_sensor/xml/thumb_force_sensor_2.STL"/>
+        <mesh name="left_hand_thumb_force_sensor_3" file="../../hands/urdf_left_with_force_sensor/xml/thumb_force_sensor_3.STL"/>
+        <mesh name="left_hand_thumb_force_sensor_4" file="../../hands/urdf_left_with_force_sensor/xml/thumb_force_sensor_4.STL"/>
+        <mesh name="left_hand_index_1" file="../../hands/urdf_left_with_force_sensor/xml/left_index_1.STL"/>
+        <mesh name="left_hand_index_2" file="../../hands/urdf_left_with_force_sensor/xml/left_index_2.STL"/>
+        <mesh name="left_hand_index_force_sensor_1" file="../../hands/urdf_left_with_force_sensor/xml/index_force_sensor_1.STL"/>
+        <mesh name="left_hand_index_force_sensor_2" file="../../hands/urdf_left_with_force_sensor/xml/index_force_sensor_2.STL"/>
+        <mesh name="left_hand_index_force_sensor_3" file="../../hands/urdf_left_with_force_sensor/xml/index_force_sensor_3.STL"/>
+        <mesh name="left_hand_middle_1" file="../../hands/urdf_left_with_force_sensor/xml/left_middle_1.STL"/>
+        <mesh name="left_hand_middle_2" file="../../hands/urdf_left_with_force_sensor/xml/left_middle_2.STL"/>
+        <mesh name="left_hand_middle_force_sensor_1" file="../../hands/urdf_left_with_force_sensor/xml/middle_force_sensor_1.STL"/>
+        <mesh name="left_hand_middle_force_sensor_2" file="../../hands/urdf_left_with_force_sensor/xml/middle_force_sensor_2.STL"/>
+        <mesh name="left_hand_middle_force_sensor_3" file="../../hands/urdf_left_with_force_sensor/xml/middle_force_sensor_3.STL"/>
+        <mesh name="left_hand_ring_1" file="../../hands/urdf_left_with_force_sensor/xml/left_ring_1.STL"/>
+        <mesh name="left_hand_ring_2" file="../../hands/urdf_left_with_force_sensor/xml/left_ring_2.STL"/>
+        <mesh name="left_hand_ring_force_sensor_1" file="../../hands/urdf_left_with_force_sensor/xml/ring_force_sensor_1.STL"/>
+        <mesh name="left_hand_ring_force_sensor_2" file="../../hands/urdf_left_with_force_sensor/xml/ring_force_sensor_2.STL"/>
+        <mesh name="left_hand_ring_force_sensor_3" file="../../hands/urdf_left_with_force_sensor/xml/ring_force_sensor_3.STL"/>
+        <mesh name="left_hand_little_1" file="../../hands/urdf_left_with_force_sensor/xml/left_little_1.STL"/>
+        <mesh name="left_hand_little_2" file="../../hands/urdf_left_with_force_sensor/xml/left_little_2.STL"/>
+        <mesh name="left_hand_little_force_sensor_1" file="../../hands/urdf_left_with_force_sensor/xml/little_force_sensor_1.STL"/>
+        <mesh name="left_hand_little_force_sensor_2" file="../../hands/urdf_left_with_force_sensor/xml/little_force_sensor_2.STL"/>
+        <mesh name="left_hand_little_force_sensor_3" file="../../hands/urdf_left_with_force_sensor/xml/little_force_sensor_3.STL"/>
+
+        <!-- Right Inspire Hand -->
+        <mesh name="right_hand_base_link" file="../../hands/urdf_right_with_force_sensor/xml/base_link.STL"/>
+        <mesh name="right_hand_palm_force_sensor" file="../../hands/urdf_right_with_force_sensor/xml/palm_force_sensor.STL"/>
+        <mesh name="right_hand_thumb_1" file="../../hands/urdf_right_with_force_sensor/xml/right_thumb_1.STL"/>
+        <mesh name="right_hand_thumb_2" file="../../hands/urdf_right_with_force_sensor/xml/right_thumb_2.STL"/>
+        <mesh name="right_hand_thumb_3" file="../../hands/urdf_right_with_force_sensor/xml/right_thumb_3.STL"/>
+        <mesh name="right_hand_thumb_4" file="../../hands/urdf_right_with_force_sensor/xml/right_thumb_4.STL"/>
+        <mesh name="right_hand_thumb_force_sensor_1" file="../../hands/urdf_right_with_force_sensor/xml/thumb_force_sensor_1.STL"/>
+        <mesh name="right_hand_thumb_force_sensor_2" file="../../hands/urdf_right_with_force_sensor/xml/thumb_force_sensor_2.STL"/>
+        <mesh name="right_hand_thumb_force_sensor_3" file="../../hands/urdf_right_with_force_sensor/xml/thumb_force_sensor_3.STL"/>
+        <mesh name="right_hand_thumb_force_sensor_4" file="../../hands/urdf_right_with_force_sensor/xml/thumb_force_sensor_4.STL"/>
+        <mesh name="right_hand_index_1" file="../../hands/urdf_right_with_force_sensor/xml/right_index_1.STL"/>
+        <mesh name="right_hand_index_2" file="../../hands/urdf_right_with_force_sensor/xml/right_index_2.STL"/>
+        <mesh name="right_hand_index_force_sensor_1" file="../../hands/urdf_right_with_force_sensor/xml/index_force_sensor_1.STL"/>
+        <mesh name="right_hand_index_force_sensor_2" file="../../hands/urdf_right_with_force_sensor/xml/index_force_sensor_2.STL"/>
+        <mesh name="right_hand_index_force_sensor_3" file="../../hands/urdf_right_with_force_sensor/xml/index_force_sensor_3.STL"/>
+        <mesh name="right_hand_middle_1" file="../../hands/urdf_right_with_force_sensor/xml/right_middle_1.STL"/>
+        <mesh name="right_hand_middle_2" file="../../hands/urdf_right_with_force_sensor/xml/right_middle_2.STL"/>
+        <mesh name="right_hand_middle_force_sensor_1" file="../../hands/urdf_right_with_force_sensor/xml/middle_force_sensor_1.STL"/>
+        <mesh name="right_hand_middle_force_sensor_2" file="../../hands/urdf_right_with_force_sensor/xml/middle_force_sensor_2.STL"/>
+        <mesh name="right_hand_middle_force_sensor_3" file="../../hands/urdf_right_with_force_sensor/xml/middle_force_sensor_3.STL"/>
+        <mesh name="right_hand_ring_1" file="../../hands/urdf_right_with_force_sensor/xml/right_ring_1.STL"/>
+        <mesh name="right_hand_ring_2" file="../../hands/urdf_right_with_force_sensor/xml/right_ring_2.STL"/>
+        <mesh name="right_hand_ring_force_sensor_1" file="../../hands/urdf_right_with_force_sensor/xml/ring_force_sensor_1.STL"/>
+        <mesh name="right_hand_ring_force_sensor_2" file="../../hands/urdf_right_with_force_sensor/xml/ring_force_sensor_2.STL"/>
+        <mesh name="right_hand_ring_force_sensor_3" file="../../hands/urdf_right_with_force_sensor/xml/ring_force_sensor_3.STL"/>
+        <mesh name="right_hand_little_1" file="../../hands/urdf_right_with_force_sensor/xml/right_little_1.STL"/>
+        <mesh name="right_hand_little_2" file="../../hands/urdf_right_with_force_sensor/xml/right_little_2.STL"/>
+        <mesh name="right_hand_little_force_sensor_1" file="../../hands/urdf_right_with_force_sensor/xml/little_force_sensor_1.STL"/>
+        <mesh name="right_hand_little_force_sensor_2" file="../../hands/urdf_right_with_force_sensor/xml/little_force_sensor_2.STL"/>
+        <mesh name="right_hand_little_force_sensor_3" file="../../hands/urdf_right_with_force_sensor/xml/little_force_sensor_3.STL"/>
+    </asset>
+</mujoco>

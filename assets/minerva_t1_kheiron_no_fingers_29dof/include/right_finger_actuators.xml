@@ -1,0 +1,17 @@
+<!-- Right Inspire Hand Finger Actuators (Optional)
+     Include this in the <actuator> block to enable finger control.
+     12 joints total: 4 thumb + 2 index + 2 middle + 2 ring + 2 little
+-->
+<motor name="right_thumb_1" joint="right_thumb_1_joint" ctrlrange="-10 10" ctrllimited="true"/>
+<motor name="right_thumb_2" joint="right_thumb_2_joint" ctrlrange="-10 10" ctrllimited="true"/>
+<motor name="right_thumb_3" joint="right_thumb_3_joint" ctrlrange="-10 10" ctrllimited="true"/>
+<motor name="right_thumb_4" joint="right_thumb_4_joint" ctrlrange="-10 10" ctrllimited="true"/>
+<motor name="right_index_1" joint="right_index_1_joint" ctrlrange="-10 10" ctrllimited="true"/>
+<motor name="right_index_2" joint="right_index_2_joint" ctrlrange="-10 10" ctrllimited="true"/>
+<motor name="right_middle_1" joint="right_middle_1_joint" ctrlrange="-10 10" ctrllimited="true"/>
+<motor name="right_middle_2" joint="right_middle_2_joint" ctrlrange="-10 10" ctrllimited="true"/>
+<motor name="right_ring_1" joint="right_ring_1_joint" ctrlrange="-10 10" ctrllimited="true"/>
+<motor name="right_ring_2" joint="right_ring_2_joint" ctrlrange="-10 10" ctrllimited="true"/>
+<motor name="right_little_1" joint="right_little_1_joint" ctrlrange="-10 10" ctrllimited="true"/>
+<motor name="right_little_2" joint="right_little_2_joint" ctrlrange="-10 10" ctrllimited="true"/>
+

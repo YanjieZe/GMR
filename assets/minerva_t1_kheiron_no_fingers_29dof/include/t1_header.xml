@@ -1,0 +1,13 @@
+<mujoco>
+    <default>
+        <joint limited="true" damping="0.01" armature="0.01" frictionloss="0.0" />
+        <equality solref="0.001 2" />
+        <default class="visual">
+            <geom type="mesh" contype="0" conaffinity="0" group="2" density="0"/>
+        </default>
+        <default class="collision">
+            <geom group="3" material="transparent" priority="1" friction="1. 0.01 0.005"/>
+        </default>
+    </default>
+</mujoco>
+

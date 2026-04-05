@@ -1,0 +1,6 @@
+<mujoco>
+    <sensor>
+        <framequat name="orientation" objtype="site" objname="imu" />
+        <gyro name="angular-velocity" site="imu" />
+    </sensor>
+</mujoco>

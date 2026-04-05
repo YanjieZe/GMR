@@ -1,0 +1,21 @@
+<mujoco>
+    <actuator>
+        <motor name="AAHead_yaw" joint="AAHead_yaw" ctrlrange="-7.0 7.0" ctrllimited="true" />
+        <motor name="Head_pitch" joint="Head_pitch" ctrlrange="-7.0 7.0" ctrllimited="true" />
+        <motor name="Left_Shoulder_Pitch" joint="Left_Shoulder_Pitch" ctrlrange="-36.0 36.0" ctrllimited="true" />
+        <motor name="Left_Shoulder_Roll" joint="Left_Shoulder_Roll" ctrlrange="-36.0 36.0" ctrllimited="true" />
+        <motor name="Left_Elbow_Pitch" joint="Left_Elbow_Pitch" ctrlrange="-36.0 36.0" ctrllimited="true" />
+        <motor name="Left_Elbow_Yaw" joint="Left_Elbow_Yaw" ctrlrange="-36.0 36.0" ctrllimited="true" />
+        <motor name="Left_Wrist_Pitch" joint="Left_Wrist_Pitch" ctrlrange="-36.0 36.0" ctrllimited="true" />
+        <motor name="Left_Wrist_Yaw" joint="Left_Wrist_Yaw" ctrlrange="-7.0 7.0" ctrllimited="true" />
+        <motor name="Left_Hand_Roll" joint="Left_Hand_Roll" ctrlrange="-7.0 7.0" ctrllimited="true" />
+        <motor name="Right_Shoulder_Pitch" joint="Right_Shoulder_Pitch" ctrlrange="-36.0 36.0" ctrllimited="true" />
+        <motor name="Right_Shoulder_Roll" joint="Right_Shoulder_Roll" ctrlrange="-36.0 36.0" ctrllimited="true" />
+        <motor name="Right_Elbow_Pitch" joint="Right_Elbow_Pitch" ctrlrange="-36.0 36.0" ctrllimited="true" />
+        <motor name="Right_Elbow_Yaw" joint="Right_Elbow_Yaw" ctrlrange="-36.0 36.0" ctrllimited="true" />
+        <motor name="Right_Wrist_Pitch" joint="Right_Wrist_Pitch" ctrlrange="-36.0 36.0" ctrllimited="true" />
+        <motor name="Right_Wrist_Yaw" joint="Right_Wrist_Yaw" ctrlrange="-7.0 7.0" ctrllimited="true" />
+        <motor name="Right_Hand_Roll" joint="Right_Hand_Roll" ctrlrange="-7.0 7.0" ctrllimited="true" />
+        <motor name="Waist" joint="Waist" ctrlrange="-60.0 60.0" ctrllimited="true" />
+    </actuator>
+</mujoco>

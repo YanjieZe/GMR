@@ -1,0 +1,37 @@
+<mujoco>
+    <asset>
+        <texture type="skybox" builtin="gradient" rgb1="0.3 0.5 0.7" rgb2="0 0 0" width="512" height="512"/>
+        <texture name="texplane" type="2d" builtin="checker" rgb1=".2 .3 .4" rgb2=".1 0.15 0.2" width="512" height="512" mark="cross" markrgb=".8 .8 .8"/>
+        <material name="matplane" reflectance="0.3" texture="texplane" texrepeat="1 1" texuniform="true"/>
+        <mesh name="Trunk" file="Trunk.STL" />
+        <mesh name="H1" file="H1.STL" />
+        <mesh name="H2" file="H2.STL" />
+        <mesh name="AL1" file="AL1.STL" />
+        <mesh name="AL2" file="AL2.STL" />
+        <mesh name="AL3" file="AL3.STL" />
+        <mesh name="AL4" file="AL4.STL" />
+        <mesh name="AL5" file="AL5.STL" />
+        <mesh name="AL6" file="AL6.STL" />
+        <mesh name="AL7" file="AL7.STL" />
+        <mesh name="AR1" file="AR1.STL" />
+        <mesh name="AR2" file="AR2.STL" />
+        <mesh name="AR3" file="AR3.STL" />
+        <mesh name="AR4" file="AR4.STL" />
+        <mesh name="AR5" file="AR5.STL" />
+        <mesh name="AR6" file="AR6.STL" />
+        <mesh name="AR7" file="AR7.STL" />
+        <mesh name="Waist" file="Waist.STL" />
+        <mesh name="Hip_Pitch_Left" file="Hip_Pitch_Left.STL" />
+        <mesh name="Hip_Roll_Left" file="Hip_Roll_Left.STL" />
+        <mesh name="Hip_Yaw_Left" file="Hip_Yaw_Left.STL" />
+        <mesh name="Shank_Left" file="Shank_Left.STL" />
+        <mesh name="Ankle_Cross_Left" file="Ankle_Cross_Left.STL" />
+        <mesh name="left_foot_link" file="left_foot_link.STL" />
+        <mesh name="Hip_Pitch_Right" file="Hip_Pitch_Right.STL" />
+        <mesh name="Hip_Roll_Right" file="Hip_Roll_Right.STL" />
+        <mesh name="Hip_Yaw_Right" file="Hip_Yaw_Right.STL" />
+        <mesh name="Shank_Right" file="Shank_Right.STL" />
+        <mesh name="Ankle_Cross_Right" file="Ankle_Cross_Right.STL" />
+        <mesh name="right_foot_link" file="right_foot_link.STL" />
+    </asset>
+</mujoco>

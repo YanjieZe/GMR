@@ -7,6 +7,28 @@ from scipy.interpolate import interp1d
 
 import general_motion_retargeting.utils.lafan_vendor.utils as utils
 
+
+def _expand_betas_for_frames(betas, num_frames, num_betas):
+    betas = torch.tensor(betas).float()
+    if betas.ndim == 1:
+        current_dim = betas.shape[0]
+    elif betas.ndim == 2:
+        current_dim = betas.shape[1]
+    else:
+        raise ValueError(f"Unexpected betas rank: {betas.ndim}")
+    if current_dim > num_betas:
+        betas = betas[..., :num_betas]
+    elif current_dim < num_betas:
+        pad = torch.zeros((*betas.shape[:-1], num_betas - current_dim), dtype=betas.dtype)
+        betas = torch.cat((betas, pad), dim=-1)
+    if betas.ndim == 1:
+        betas = betas.view(1, -1).expand(num_frames, -1)
+    elif betas.ndim == 2 and betas.shape[0] == 1:
+        betas = betas.expand(num_frames, -1)
+    elif betas.ndim == 2 and betas.shape[0] != num_frames:
+        raise ValueError(f"Unexpected betas shape {tuple(betas.shape)} for num_frames={num_frames}")
+    return betas
+
 def load_smpl_file(smpl_file):
     smpl_data = np.load(smpl_file, allow_pickle=True)
     return smpl_data
@@ -26,7 +48,7 @@ def load_smplx_file(smplx_file, smplx_body_model_path):
     
     num_frames = smplx_data["pose_body"].shape[0]
     smplx_output = body_model(
-        betas=torch.tensor(smplx_data["betas"]).float().view(1, -1), # (16,)
+        betas=_expand_betas_for_frames(smplx_data["betas"], num_frames, body_model.num_betas),
         global_orient=torch.tensor(smplx_data["root_orient"]).float(), # (N, 3)
         body_pose=torch.tensor(smplx_data["pose_body"]).float(), # (N, 63)
         transl=torch.tensor(smplx_data["trans"]).float(), # (N, 3)
@@ -35,7 +57,7 @@ def load_smplx_file(smplx_file, smplx_body_model_path):
         jaw_pose=torch.zeros(num_frames, 3).float(),
         leye_pose=torch.zeros(num_frames, 3).float(),
         reye_pose=torch.zeros(num_frames, 3).float(),
-        # expression=torch.zeros(num_frames, 10).float(),
+        expression=torch.zeros(num_frames, 10).float(),
         return_full_pose=True,
     )
     
@@ -81,7 +103,7 @@ def load_gvhmr_pred_file(gvhmr_pred_file, smplx_body_model_path):
     
     num_frames = smpl_params_global['body_pose'].shape[0]
     smplx_output = body_model(
-        betas=torch.tensor(smplx_data["betas"]).float().view(1, -1), # (16,)
+        betas=_expand_betas_for_frames(smplx_data["betas"], num_frames, body_model.num_betas),
         global_orient=torch.tensor(smplx_data["root_orient"]).float(), # (N, 3)
         body_pose=torch.tensor(smplx_data["pose_body"]).float(), # (N, 63)
         transl=torch.tensor(smplx_data["trans"]).float(), # (N, 3)
@@ -90,7 +112,7 @@ def load_gvhmr_pred_file(gvhmr_pred_file, smplx_body_model_path):
         jaw_pose=torch.zeros(num_frames, 3).float(),
         leye_pose=torch.zeros(num_frames, 3).float(),
         reye_pose=torch.zeros(num_frames, 3).float(),
-        # expression=torch.zeros(num_frames, 10).float(),
+        expression=torch.zeros(num_frames, 10).float(),
         return_full_pose=True,
     )
     

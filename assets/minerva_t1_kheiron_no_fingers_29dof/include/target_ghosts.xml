@@ -1,0 +1,18 @@
+<!-- Target ghosts (GREEN) - freejoint bodies showing VR/mocap target poses.
+     These are visual-only bodies that can be positioned arbitrarily in world space
+     to show where the IK targets are. -->
+<mujocoinclude>
+    <!-- Trunk target ghost - at Trunk body origin, position computed dynamically -->
+    <body name="Trunk_ghost" pos="0 0 0.7" mocap="true">
+        <geom type="mesh" contype="0" conaffinity="0" group="1" rgba="0 0.8 0.2 0.3" mesh="Trunk" />
+    </body>
+
+    <!-- Head target ghost -->
+    <body name="H2_ghost" pos="0.0625 0 1.00485" mocap="true">
+        <geom type="mesh" contype="0" conaffinity="0" group="1" rgba="0 0.8 0.2 0.3" mesh="H2"/>
+    </body>
+
+    <!-- Left and right hand target ghosts with full finger visualization -->
+    <include file="../../hands/ghost_hand_left.xml"/>
+    <include file="../../hands/ghost_hand_right.xml"/>
+</mujocoinclude>
