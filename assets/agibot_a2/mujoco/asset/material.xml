@@ -1,5 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<mujoco model="asset_material">
-    <material name="metalic silver" rgba="0.59 0.59 0.65 1" metallic="0.85" roughness="0.8"/>
-    <material name="metalic black" rgba="0.235294118 0.235294118 0.235294118 1" metallic="0.85" roughness="0.8"/>
-</mujoco>

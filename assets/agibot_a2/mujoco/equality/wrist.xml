@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<mujoco model="equality_wrist">
-    <connect name = 'left_wrist_A_loop' body1 = 'left_wrist_rod_A' body2 = 'left-arm-link7' solimp = '0.9999 0.9999 0.001 0.5 2' anchor = '0 0 0' />
-    <connect name = 'left_wrist_B_loop' body1 = 'left_wrist_rod_B' body2 = 'left-arm-link7' solimp = '0.9999 0.9999 0.001 0.5 2' anchor = '0 0 0' />
-    <connect name = 'right_wrist_A_loop' body1 = 'right_wrist_rod_A' body2 = 'right-arm-link7' solimp = '0.9999 0.9999 0.001 0.5 2' anchor = '0 0 0' />
-    <connect name = 'right_wrist_B_loop' body1 = 'right_wrist_rod_B' body2 = 'right-arm-link7' solimp = '0.9999 0.9999 0.001 0.5 2' anchor = '0 0 0' />
-</mujoco>
