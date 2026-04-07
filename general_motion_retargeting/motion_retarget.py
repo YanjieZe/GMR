@@ -104,9 +104,44 @@ class GeneralMotionRetargeting:
         
         self.ground_offset = 0.0
 
+    def _equality_names(self, types=("connect", "weld"), include_unnamed=True):
+        """Return names of equalities matching types; synthesize names if missing."""
+        type_map = {
+            "connect": mj.mjtEq.mjEQ_CONNECT,
+            "weld": mj.mjtEq.mjEQ_WELD,
+            "joint": mj.mjtEq.mjEQ_JOINT,
+            "tendon": mj.mjtEq.mjEQ_TENDON,
+            "distance": mj.mjtEq.mjEQ_DISTANCE,
+        }
+        want = {type_map[t.lower()] for t in types if t.lower() in type_map}
+        out = []
+        for i in range(self.model.neq):
+            if self.model.eq_type[i] not in want:
+                continue
+            name = mj.mj_id2name(self.model, mj.mjtObj.mjOBJ_EQUALITY, i)
+            if not name and include_unnamed:
+                et = self.model.eq_type[i]
+                if et in (mj.mjtEq.mjEQ_CONNECT, mj.mjtEq.mjEQ_WELD):
+                    b1 = mj.mj_id2name(self.model, mj.mjtObj.mjOBJ_BODY, self.model.eq_obj1id[i]) or f"body#{self.model.eq_obj1id[i]}"
+                    b2 = mj.mj_id2name(self.model, mj.mjtObj.mjOBJ_BODY, self.model.eq_obj2id[i]) or f"body#{self.model.eq_obj2id[i]}"
+                    tname = "connect" if et == mj.mjtEq.mjEQ_CONNECT else "weld"
+                    name = f"{tname}:{b1}->{b2}[#{i}]"
+                else:
+                    name = f"equality#{i}"
+            if name:
+                out.append(name)
+        # de-dup preserve order
+        seen, uniq = set(), []
+        for n in out:
+            if n not in seen:
+                uniq.append(n); seen.add(n)
+        return uniq
+
     def setup_retarget_configuration(self):
         self.configuration = mink.Configuration(self.model)
     
+        self.closed_loop_equalities = self._equality_names(types=("connect", "weld"))
+
         self.tasks1 = []
         self.tasks2 = []
         
@@ -146,7 +181,22 @@ class GeneralMotionRetargeting:
                 self.tasks2.append(task)
                 self.task_errors2[task] = []
 
-  
+        if self.closed_loop_equalities:
+            eq_task1 = mink.EqualityConstraintTask(
+                model=self.model,
+                equalities=self.closed_loop_equalities,
+                cost=1e3,
+                lm_damping=1.0,
+            )
+            eq_task2 = mink.EqualityConstraintTask(
+                model=self.model,
+                equalities=self.closed_loop_equalities,
+                cost=1e3,
+                lm_damping=1.0,
+            )
+            self.tasks1.append(eq_task1)
+            self.tasks2.append(eq_task2)
+
     def update_targets(self, human_data, offset_to_ground=False):
         # scale human data in local frame
         human_data = self.to_numpy(human_data)
