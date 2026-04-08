@@ -16,7 +16,7 @@ setup(
     "mink",
     "mujoco",
     "numpy",
-    "scipy",
+    "scipy>=1.14",
     "qpsolvers[proxqp]",
     "rich",
     "tqdm",
