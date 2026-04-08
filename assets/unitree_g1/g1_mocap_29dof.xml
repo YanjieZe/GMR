@@ -163,7 +163,7 @@
               <geom size="0.03 0.025" pos="0 0.04 -0.01" quat="0.707107 0 0.707107 0" type="cylinder" rgba="0.7 0.7 0.7 1"/>
               <body name="left_shoulder_roll_link" pos="0 0.038 -0.013831" quat="0.990268 -0.139172 0 0">
                 <inertial pos="-0.000227 0.00727 -0.063243" quat="0.701256 -0.0196223 -0.00710317 0.712604" mass="0.643" diaginertia="0.000691311 0.000618011 0.000388977"/>
-                <joint name="left_shoulder_roll_joint" pos="0 0 0" axis="1 0 0" range="-0.6 2.2515" actuatorfrcrange="-25 25"/>
+                <joint name="left_shoulder_roll_joint" pos="0 0 0" axis="1 0 0" range="-0.6 1.77" actuatorfrcrange="-25 25"/>
                 <geom type="mesh" contype="0" conaffinity="0" group="1" density="0" rgba="0.7 0.7 0.7 1" mesh="left_shoulder_roll_link"/>
                 <geom size="0.03 0.015" pos="-0.004 0.006 -0.053" type="cylinder" rgba="0.7 0.7 0.7 1"/>
                 <body name="left_shoulder_yaw_link" pos="0 0.00624 -0.1032">
@@ -208,7 +208,7 @@
               <geom size="0.03 0.025" pos="0 -0.04 -0.01" quat="0.707107 0 0.707107 0" type="cylinder" rgba="0.7 0.7 0.7 1"/>
               <body name="right_shoulder_roll_link" pos="0 -0.038 -0.013831" quat="0.990268 0.139172 0 0">
                 <inertial pos="-0.000227 -0.00727 -0.063243" quat="0.712604 -0.00710317 -0.0196223 0.701256" mass="0.643" diaginertia="0.000691311 0.000618011 0.000388977"/>
-                <joint name="right_shoulder_roll_joint" pos="0 0 0" axis="1 0 0" range="-2.2515 0.6" actuatorfrcrange="-25 25"/>
+                <joint name="right_shoulder_roll_joint" pos="0 0 0" axis="1 0 0" range="-1.77 0.6" actuatorfrcrange="-25 25"/>
                 <geom type="mesh" contype="0" conaffinity="0" group="1" density="0" rgba="0.7 0.7 0.7 1" mesh="right_shoulder_roll_link"/>
                 <geom size="0.03 0.015" pos="-0.004 -0.006 -0.053" type="cylinder" rgba="0.7 0.7 0.7 1"/>
                 <body name="right_shoulder_yaw_link" pos="0 -0.00624 -0.1032">
