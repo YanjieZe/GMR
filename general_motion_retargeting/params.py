@@ -28,6 +28,7 @@ ROBOT_XML_DICT = {
 IK_CONFIG_DICT = {
     # offline data
     "smplx":{
+        "pal_talos": IK_CONFIG_ROOT / "smplx_to_talos.json",
         "unitree_g1": IK_CONFIG_ROOT / "smplx_to_g1.json",
         "unitree_g1_with_hands": IK_CONFIG_ROOT / "smplx_to_g1.json",
         "unitree_h1": IK_CONFIG_ROOT / "smplx_to_h1.json",
@@ -53,7 +54,7 @@ IK_CONFIG_DICT = {
         "fourier_n1": IK_CONFIG_ROOT / "bvh_lafan1_to_n1.json",
         "stanford_toddy": IK_CONFIG_ROOT / "bvh_lafan1_to_toddy.json",
         "engineai_pm01": IK_CONFIG_ROOT / "bvh_lafan1_to_pm01.json",
-        "pal_talos": IK_CONFIG_ROOT / "bvh_to_talos.json",
+        "pal_talos": IK_CONFIG_ROOT / "bvh_lafan1_to_talos.json",
     },
     "bvh_nokov":{
         "unitree_g1": IK_CONFIG_ROOT / "bvh_nokov_to_g1.json",
