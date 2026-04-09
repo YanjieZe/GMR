@@ -31,7 +31,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "--robot",
         choices=["unitree_g1", "unitree_g1_with_hands", "unitree_h1", "unitree_h1_2",
-                 "booster_t1", "booster_t1_29dof","stanford_toddy", "fourier_n1", 
+                 "booster_t1", "booster_t1_29dof", "minerva_t1_kheiron_no_fingers_29dof", "stanford_toddy", "fourier_n1", 
                 "engineai_pm01", "kuavo_s45", "hightorque_hi", "galaxea_r1pro", "berkeley_humanoid_lite", "booster_k1",
                 "pnd_adam_lite", "openloong", "tienkung", "fourier_gr3"],
         default="unitree_g1",
@@ -63,6 +63,11 @@ if __name__ == "__main__":
         action="store_true",
         help="Limit the rate of the retargeted robot motion to keep the same as the human motion.",
     )
+    parser.add_argument(
+        "--enable-foot-collision-avoidance",
+        action="store_true",
+        help="Enable collision-aware IK using robot-specific collision_avoidance config, e.g. T1 foot-foot avoidance.",
+    )
 
     args = parser.parse_args()
 
@@ -85,6 +90,7 @@ if __name__ == "__main__":
         actual_human_height=actual_human_height,
         src_human="smplx",
         tgt_robot=args.robot,
+        use_collision_avoidance=args.enable_foot_collision_avoidance,
     )
     
     robot_motion_viewer = RobotMotionViewer(robot_type=args.robot,

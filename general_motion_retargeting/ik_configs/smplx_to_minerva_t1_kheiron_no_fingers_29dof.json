@@ -72,8 +72,8 @@
         ],
         "left_foot_link": [
             "left_foot",
-            50,
-            10,
+            1,
+            2,
             [
                 0.0,
                 0.01,
@@ -120,8 +120,8 @@
         ],
         "right_foot_link": [
             "right_foot",
-            50,
-            10,
+            1,
+            2,
             [
                 0.0,
                 -0.01,
@@ -266,8 +266,8 @@
         ],
         "Hip_Yaw_Left": [
             "left_hip",
-            10,
-            5,
+            4,
+            2,
             [
                 0.0,
                 0.0,
@@ -282,8 +282,8 @@
         ],
         "Shank_Left": [
             "left_knee",
-            10,
-            5,
+            4,
+            2,
             [
                 0.0,
                 0.0,
@@ -298,8 +298,8 @@
         ],
         "left_foot_link": [
             "left_foot",
-            50,
-            10,
+            1,
+            2,
             [
                 0.0,
                 0.0,
@@ -314,8 +314,8 @@
         ],
         "Hip_Yaw_Right": [
             "right_hip",
-            10,
-            5,
+            4,
+            2,
             [
                 0.0,
                 0.0,
@@ -330,8 +330,8 @@
         ],
         "Shank_Right": [
             "right_knee",
-            10,
-            5,
+            4,
+            2,
             [
                 0.0,
                 0.0,
@@ -346,8 +346,8 @@
         ],
         "right_foot_link": [
             "right_foot",
-            50,
-            10,
+            1,
+            2,
             [
                 0.0,
                 0.0,
@@ -470,6 +470,55 @@
                 -0.5,
                 -0.5,
                 -0.5
+            ]
+        ]
+    },
+    "collision_avoidance": {
+        "enabled": true,
+        "gain": 0.85,
+        "minimum_distance": 0.10,
+        "detection_distance": 0.30,
+        "bound_relaxation": 0.0,
+        "geom_pairs": [
+            [
+                [
+                    "left_foot_collision"
+                ],
+                [
+                    "right_foot_collision"
+                ]
+            ],
+            [
+                [
+                    "left_foot_collision"
+                ],
+                [
+                    "right_shank_collision"
+                ]
+            ],
+            [
+                [
+                    "right_foot_collision"
+                ],
+                [
+                    "left_shank_collision"
+                ]
+            ],
+            [
+                [
+                    "left_foot_collision"
+                ],
+                [
+                    "right_thigh_collision"
+                ]
+            ],
+            [
+                [
+                    "right_foot_collision"
+                ],
+                [
+                    "left_thigh_collision"
+                ]
             ]
         ]
     }

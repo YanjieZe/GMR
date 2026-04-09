@@ -53,7 +53,7 @@ def resolve_torch_device(requested_device: str) -> str:
     return requested_device
 
 
-def process_file(smplx_file_path, tgt_file_path, tgt_robot, SMPLX_FOLDER, tgt_folder, fk_device, total_files, verbose=False):
+def process_file(smplx_file_path, tgt_file_path, tgt_robot, SMPLX_FOLDER, tgt_folder, fk_device, use_collision_avoidance, total_files, verbose=False):
     def log_memory(message):
         if verbose:
             process = psutil.Process(os.getpid())
@@ -97,6 +97,7 @@ def process_file(smplx_file_path, tgt_file_path, tgt_robot, SMPLX_FOLDER, tgt_fo
         src_human="smplx",
         tgt_robot=tgt_robot,
         actual_human_height=actual_human_height,
+        use_collision_avoidance=use_collision_avoidance,
     )
     qpos_list = []
     for smplx_frame_data in smplx_frame_data_list:
@@ -199,6 +200,11 @@ def main():
     parser.add_argument("--override", default=False, action="store_true")
     parser.add_argument("--num_cpus", default=4, type=int)
     parser.add_argument("--device", default="auto", help="Forward-kinematics device: auto, cpu, cuda:0, ...")
+    parser.add_argument(
+        "--enable-foot-collision-avoidance",
+        action="store_true",
+        help="Enable collision-aware IK using robot-specific collision_avoidance config, e.g. T1 foot-foot avoidance.",
+    )
     args = parser.parse_args()
     
     # print the total number of cpus and gpus
@@ -238,7 +244,15 @@ def main():
                 smplx_file_path = os.path.join(dirpath, filename)
                 tgt_file_path = smplx_file_path.replace(src_folder, tgt_folder).replace(".npz", ".pkl")
                 if not os.path.exists(tgt_file_path) or args.override:
-                    args_list.append((smplx_file_path, tgt_file_path, args.robot, SMPLX_FOLDER, tgt_folder, fk_device))
+                    args_list.append((
+                        smplx_file_path,
+                        tgt_file_path,
+                        args.robot,
+                        SMPLX_FOLDER,
+                        tgt_folder,
+                        fk_device,
+                        args.enable_foot_collision_avoidance,
+                    ))
     print("full args_list:", len(args_list))
     
     # remove hard and infeasible motions

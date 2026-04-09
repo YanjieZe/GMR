@@ -19,6 +19,7 @@ class GeneralMotionRetargeting:
         damping: float=5e-1, # change from 1e-1 to 1e-2.
         verbose: bool=True,
         use_velocity_limit: bool=False,
+        use_collision_avoidance: bool=False,
     ) -> None:
 
         # load the robot model
@@ -99,10 +100,36 @@ class GeneralMotionRetargeting:
         if use_velocity_limit:
             VELOCITY_LIMITS = {k: 3*np.pi for k in self.robot_motor_names.keys()}
             self.ik_limits.append(mink.VelocityLimit(self.model, VELOCITY_LIMITS)) 
+        if use_collision_avoidance:
+            collision_limit = self._build_collision_avoidance_limit(ik_config, verbose=verbose)
+            if collision_limit is not None:
+                self.ik_limits.append(collision_limit)
             
         self.setup_retarget_configuration()
         
         self.ground_offset = 0.0
+
+    def _build_collision_avoidance_limit(self, ik_config, verbose: bool = True):
+        collision_cfg = ik_config.get("collision_avoidance")
+        if not collision_cfg:
+            raise ValueError("Collision avoidance requested, but no collision_avoidance config was found.")
+        if not collision_cfg.get("enabled", False):
+            if verbose:
+                print("[GMR] Collision avoidance requested from CLI; enabling config-defined collision pairs.")
+        geom_pairs = collision_cfg.get("geom_pairs", [])
+        if not geom_pairs:
+            raise ValueError("Collision avoidance requested, but geom_pairs is empty.")
+        limit = mink.CollisionAvoidanceLimit(
+            self.model,
+            geom_pairs=geom_pairs,
+            gain=collision_cfg.get("gain", 0.85),
+            minimum_distance_from_collisions=collision_cfg.get("minimum_distance", 0.005),
+            collision_detection_distance=collision_cfg.get("detection_distance", 0.01),
+            bound_relaxation=collision_cfg.get("bound_relaxation", 0.0),
+        )
+        if verbose:
+            print("[GMR] Enabled collision avoidance with geom pairs:", geom_pairs)
+        return limit
 
     def setup_retarget_configuration(self):
         self.configuration = mink.Configuration(self.model)
@@ -179,7 +206,12 @@ class GeneralMotionRetargeting:
             curr_error = self.error1()
             dt = self.configuration.model.opt.timestep
             vel1 = mink.solve_ik(
-                self.configuration, self.tasks1, dt, self.solver, self.damping, self.ik_limits
+                self.configuration,
+                self.tasks1,
+                dt,
+                self.solver,
+                self.damping,
+                limits=self.ik_limits,
             )
             self.configuration.integrate_inplace(vel1, dt)
             next_error = self.error1()
@@ -188,7 +220,12 @@ class GeneralMotionRetargeting:
                 curr_error = next_error
                 dt = self.configuration.model.opt.timestep
                 vel1 = mink.solve_ik(
-                    self.configuration, self.tasks1, dt, self.solver, self.damping, self.ik_limits
+                    self.configuration,
+                    self.tasks1,
+                    dt,
+                    self.solver,
+                    self.damping,
+                    limits=self.ik_limits,
                 )
                 self.configuration.integrate_inplace(vel1, dt)
                 next_error = self.error1()
@@ -198,7 +235,12 @@ class GeneralMotionRetargeting:
             curr_error = self.error2()
             dt = self.configuration.model.opt.timestep
             vel2 = mink.solve_ik(
-                self.configuration, self.tasks2, dt, self.solver, self.damping, self.ik_limits
+                self.configuration,
+                self.tasks2,
+                dt,
+                self.solver,
+                self.damping,
+                limits=self.ik_limits,
             )
             self.configuration.integrate_inplace(vel2, dt)
             next_error = self.error2()
@@ -208,7 +250,12 @@ class GeneralMotionRetargeting:
                 # Solve the IK problem with the second task
                 dt = self.configuration.model.opt.timestep
                 vel2 = mink.solve_ik(
-                    self.configuration, self.tasks2, dt, self.solver, self.damping, self.ik_limits
+                    self.configuration,
+                    self.tasks2,
+                    dt,
+                    self.solver,
+                    self.damping,
+                    limits=self.ik_limits,
                 )
                 self.configuration.integrate_inplace(vel2, dt)
                 
@@ -271,6 +318,8 @@ class GeneralMotionRetargeting:
         for body_name in human_data.keys():
             pos, quat = human_data[body_name]
             offset_human_data[body_name] = [pos, quat]
+            if body_name not in pos_offsets or body_name not in rot_offsets:
+                continue
             # apply rotation offset first
             updated_quat = (R.from_quat(quat, scalar_first=True) * rot_offsets[body_name]).as_quat(scalar_first=True)
             offset_human_data[body_name][1] = updated_quat
