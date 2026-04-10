@@ -302,6 +302,65 @@ python scripts/smplx_to_robot_dataset.py --src_folder <path_to_dir_of_smplx_data
 
 By default there is no visualization for batch retargeting.
 
+### Packaging and Uploading a Retargeted Dataset
+
+If you want to train a downstream tracker or RL policy on a large retargeted dataset, the practical workflow is:
+
+1. retarget a source dataset into a folder of GMR `.pkl` files
+2. package the retargeted motions into a versioned dataset release
+3. archive the release directory
+4. upload the archive to Google Drive with `rclone`
+
+Example archive command:
+
+```bash
+tar --zstd -cf my_dataset_release.tar.zst <path_to_release_dir>
+```
+
+To upload automatically from CLI, install and configure `rclone` once:
+
+```bash
+sudo apt update
+sudo apt install -y rclone
+rclone config
+```
+
+When configuring Google Drive:
+
+- create a remote such as `gdrive`
+- use scope `drive`
+- use interactive OAuth login
+- if you hit shared-client rate limits, create your own Google Drive OAuth desktop client and reconfigure `client_id` / `client_secret`
+
+Then upload the archive:
+
+```bash
+rclone copy my_dataset_release.tar.zst "gdrive:<target_drive_folder>" -P --checkers 1 --transfers 1
+```
+
+Example:
+
+```bash
+rclone copy omomo_amass_kimodo_v001.tar.zst \
+  "gdrive:Minerva Humanoids/Technical/Software/ML ／ AI/MotionDatasets" \
+  -P --checkers 1 --transfers 1
+```
+
+And later download it on another machine with:
+
+```bash
+rclone copy "gdrive:<target_drive_folder>/my_dataset_release.tar.zst" . -P --checkers 1 --transfers 1
+tar --zstd -xf my_dataset_release.tar.zst
+```
+
+If you are using the Minerva downstream stack, one release-packaging workflow lives outside this repo at:
+
+```bash
+/home/mrahme/Minerva/holosoma-mnv/scripts/motion/package_t1_tracker_release.py
+```
+
+That script builds versioned manifests and caches for training from mixed retargeted sources such as AMASS, OMOMO, and Kimodo-generated motions.
+
 ### Retargeting from GVHMR to Robot
 
 First, install GVHMR by following [their official instructions](https://github.com/zju3dv/GVHMR/blob/main/docs/INSTALL.md).
