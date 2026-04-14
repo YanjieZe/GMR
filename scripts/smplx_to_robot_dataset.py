@@ -37,6 +37,19 @@ HERE = pathlib.Path(__file__).parent
 
 
 def process_file(smplx_file_path, tgt_file_path, tgt_robot, SMPLX_FOLDER, tgt_folder, total_files, verbose=False):
+    """Process a single SMPL-X file and retarget to robot.
+    
+    All exceptions are caught internally to prevent pickle serialization errors
+    in multiprocessing (e.g. mink's NotWithinConfigurationLimits cannot be pickled).
+    """
+    try:
+        return _process_file_impl(smplx_file_path, tgt_file_path, tgt_robot, SMPLX_FOLDER, tgt_folder, total_files, verbose)
+    except Exception as e:
+        print(f"[ERROR] Failed to process {smplx_file_path}: {type(e).__name__}: {e}")
+        return None
+
+
+def _process_file_impl(smplx_file_path, tgt_file_path, tgt_robot, SMPLX_FOLDER, tgt_folder, total_files, verbose=False):
     def log_memory(message):
         if verbose:
             process = psutil.Process(os.getpid())
@@ -80,6 +93,7 @@ def process_file(smplx_file_path, tgt_file_path, tgt_robot, SMPLX_FOLDER, tgt_fo
         src_human="smplx",
         tgt_robot=tgt_robot,
         actual_human_height=actual_human_height,
+        verbose=False,
     )
     qpos_list = []
     for smplx_frame_data in smplx_frame_data_list:
@@ -165,12 +179,24 @@ def process_file(smplx_file_path, tgt_file_path, tgt_robot, SMPLX_FOLDER, tgt_fo
     # clean cache
     torch.cuda.empty_cache()
     gc.collect()
-    
+
+
+def process_file_wrapper(args):
+    return process_file(*args)
+
+
+def build_motion_key(file_path, src_folder):
+    rel_path = os.path.relpath(file_path, src_folder)
+    rel_no_ext = os.path.splitext(rel_path)[0]
+    return rel_no_ext.replace(os.sep, "_")
 
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--robot", default="unitree_g1")
+    parser.add_argument(
+        "--robot",
+        default="unitree_g1_29dof",
+    )
     parser.add_argument("--src_folder", type=str,
                         required=True,
                         )
@@ -179,7 +205,7 @@ def main():
                         )
     
     parser.add_argument("--override", default=False, action="store_true")
-    parser.add_argument("--num_cpus", default=4, type=int)
+    parser.add_argument("--num_cpus", default=1, type=int)
     args = parser.parse_args()
     
     # print the total number of cpus and gpus
@@ -196,7 +222,7 @@ def main():
 
     hard_motions_paths = [hard_motions_folder / "0.txt", 
                           hard_motions_folder / "1.txt"]
-    hard_motions = []
+    hard_motions = set()
     for hard_motions_path in hard_motions_paths:
         with open(hard_motions_path, "r") as f:
             for line in f:
@@ -205,7 +231,7 @@ def main():
                 else:
                     continue
                 motion_path = motion_path.split(",")[0].strip().split(".")[0]
-                hard_motions.append(motion_path)
+                hard_motions.add(motion_path)
                 
                 
     args_list = []
@@ -221,25 +247,40 @@ def main():
     print("full args_list:", len(args_list))
     
     # remove hard and infeasible motions
-    exclude_file_content = ["BMLrub", "EKUT", "crawl", "_lie", "upstairs", "downstairs"]
+    exclude_file_content = ["BMLrub", "EKUT", "crawl", "_lie", "upstairs", "downstairs", "WalkingStraightBackwards08_stageii"]
+    exclude_file_content_lower = [item.lower() for item in exclude_file_content]
     
     new_args_list = []
+    hard_motion_skipped = 0
+    content_skipped = 0
     for arguments in args_list:
-        motion_name = arguments[0].split("/")[-1].split('.')[0]
-        if motion_name in hard_motions:
+        motion_key = build_motion_key(arguments[0], src_folder)
+        motion_key_lower = motion_key.lower()
+        if motion_key in hard_motions:
+            hard_motion_skipped += 1
             continue
-        if any(content in motion_name for content in exclude_file_content):
+        if any(content in motion_key_lower for content in exclude_file_content_lower):
+            content_skipped += 1
             continue
         new_args_list.append(arguments)
     args_list = new_args_list
     
     
     print("new args_list:", len(args_list))
+    print(f"filtered by hard_motions: {hard_motion_skipped}")
+    print(f"filtered by exclude_file_content: {content_skipped}")
     
     total_files = len(args_list)
     print(f"Total number of files to process: {total_files}")
+
+    worker_args = [args + (total_files, verbose) for args in args_list]
     with mp.Pool(args.num_cpus) as pool:
-        pool.starmap(process_file, [args + (total_files, verbose) for args in args_list])
+        for _ in tqdm(
+            pool.imap_unordered(process_file_wrapper, worker_args),
+            total=total_files,
+            desc="Retargeting files",
+        ):
+            pass
 
     print("Done. Saved to ", tgt_folder)
 
