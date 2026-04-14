@@ -51,10 +51,35 @@ Additional models retained in ROBOT_BASE_DICT for compatibility:
 ### Single Motion Retargeting
 ```bash
 # SMPL-X to robot
-python scripts/smplx_to_robot.py --smplx_file <path> --robot <robot_name> --save_path <output.pkl>
+python scripts/smplx_to_robot.py --smplx_file "dataset/amass/AMASS_Complete/ACCAD/Female1Running_c3d/C7 -  run backwards_poses.npz" --robot unitree_g1 --save_path dataset/amass/robot_motion/female1running_unitree_g1.pkl
+
+python scripts/smplx_to_robot_dataset.py --src_folder <path_to_dir_of_smplx_data> --tgt_folder <path_to_dir_to_save_robot_data> --robot <robot_name>
 
 # BVH to robot  
-python scripts/bvh_to_robot.py --bvh_file <path> --robot <robot_name> --save_path <output.pkl>
+python scripts/bvh_to_robot.py --bvh_file dataset/lafan1/BVH/fallAndGetUp1_subject1.bvh --robot unitree_g1 --save_path dataset/lafan1/robot_motion/fallAndGetUp1_subject1.pkl
+
+python scripts/bvh_to_robot.py --bvh_file dataset/lafan1/BVH/fallAndGetUp1_subject1.bvh --robot booster_k1 --save_path dataset/lafan1/robot_motion/booster_k1/fallAndGetUp1_subject1.pkl
+
+python scripts/bvh_to_robot.py --bvh_file dataset/lafan1/BVH/fallAndGetUp1_subject1.bvh --robot pnd_adam_lite --save_path dataset/lafan1/robot_motion/pnd_adam_lite/fallAndGetUp1_subject1.pkl
+
+# BVHs to robot dataset 
+python scripts/bvh_to_robot_dataset.py --src_folder dataset/lafan1/BVH --tgt_folder dataset/lafan1/robot_motion/unitree_g1 --robot unitree_g1
+
+python scripts/bvh_to_robot_dataset.py --src_folder dataset/lafan1/BVH --tgt_folder dataset/lafan1/robot_motion/unitree_h1_2 --robot unitree_h1_2
+python scripts/bvh_to_robot_dataset.py --src_folder dataset/lafan1/BVH --tgt_folder dataset/lafan1/robot_motion/booster_t1_29dof --robot booster_t1_29dof
+python scripts/bvh_to_robot_dataset.py --src_folder dataset/lafan1/BVH --tgt_folder dataset/lafan1/robot_motion/stanford_toddy --robot stanford_toddy
+python scripts/bvh_to_robot_dataset.py --src_folder dataset/lafan1/BVH --tgt_folder dataset/lafan1/robot_motion/fourier_n1 --robot fourier_n1
+python scripts/bvh_to_robot_dataset.py --src_folder dataset/lafan1/BVH --tgt_folder dataset/lafan1/robot_motion/pal_talos --robot pal_talos
+
+python scripts/bvh_to_robot_dataset.py --src_folder dataset/lafan1/BVH --tgt_folder dataset/lafan1/robot_motion/engineai_pm01 --robot engineai_pm01
+python scripts/bvh_to_robot_dataset.py --src_folder dataset/lafan1/BVH --tgt_folder dataset/lafan1/robot_motion/berkeley_humanoid_lite --robot berkeley_humanoid_lite
+python scripts/bvh_to_robot_dataset.py --src_folder dataset/lafan1/BVH --tgt_folder dataset/lafan1/robot_motion/unitree_h1 --robot unitree_h1
+python scripts/bvh_to_robot_dataset.py --src_folder dataset/lafan1/BVH --tgt_folder dataset/lafan1/robot_motion/booster_t1 --robot booster_t1
+python scripts/bvh_to_robot_dataset.py --src_folder dataset/lafan1/BVH --tgt_folder dataset/lafan1/robot_motion/hightorque_hi --robot hightorque_hi
+python scripts/bvh_to_robot_dataset.py --src_folder dataset/lafan1/BVH --tgt_folder dataset/lafan1/robot_motion/booster_k1 --robot booster_k1
+python scripts/bvh_to_robot_dataset.py --src_folder dataset/lafan1/BVH --tgt_folder dataset/lafan1/robot_motion/pnd_adam_lite --robot pnd_adam_lite
+python scripts/bvh_to_robot_dataset.py --src_folder dataset/lafan1/BVH --tgt_folder dataset/lafan1/robot_motion/tienkung --robot tienkung
+python scripts/bvh_to_robot_dataset.py --src_folder dataset/lafan1/BVH --tgt_folder dataset/lafan1/robot_motion/fourier_gr3 --robot fourier_gr3
 ```
 
 ### Batch Processing
@@ -67,7 +92,9 @@ python scripts/bvh_to_robot_dataset.py
 ### Visualization
 ```bash
 # Visualize saved robot motion
-python scripts/vis_robot_motion.py --robot <robot_name> --robot_motion_path <path.pkl>
+python scripts/vis_robot_motion.py --robot unitree_g1 --robot_motion_path dataset/lafan1/robot_motion/dance1_subject3.pkl
+
+python scripts/vis_robot_motion.py --robot fourier_gr3 --robot_motion_path dataset/lafan1/robot_motion/fourier_gr3/jumps1_subject2.pkl
 ```
 
 Add `--record_video --video_path <output.mp4>` to any visualization command to record video.

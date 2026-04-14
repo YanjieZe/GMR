@@ -130,19 +130,37 @@ class KinematicsModel:
                 if num_joints == 0:
                     curr_joint = Joint(name=body_name, dof_dim=0, axis=None)
                 elif num_joints == 1:
-                    _axis = np.fromstring(curr_joints[0].attrib.get("axis"), dtype=float, sep=" ")
+                    _axis = np.fromstring(curr_joints[0].attrib.get("axis", "0 0 1"), dtype=float, sep=" ")
                     axis = torch.from_numpy(_axis).to(self._device)
                     curr_joint = Joint(name=body_name, dof_dim=1, axis=axis)
-                    _dof_limits = np.fromstring(curr_joints[0].attrib.get("range"), dtype=float, sep=" ")
-                    self._dof_lower_limits.append(_dof_limits[0])
-                    self._dof_upper_limits.append(_dof_limits[1])
+                    range_attr = curr_joints[0].attrib.get("range", None)
+                    if range_attr is None:
+                        self._dof_lower_limits.append(-np.inf)
+                        self._dof_upper_limits.append(np.inf)
+                    else:
+                        _dof_limits = np.fromstring(range_attr, dtype=float, sep=" ")
+                        if _dof_limits.shape[0] >= 2:
+                            self._dof_lower_limits.append(_dof_limits[0])
+                            self._dof_upper_limits.append(_dof_limits[1])
+                        else:
+                            self._dof_lower_limits.append(-np.inf)
+                            self._dof_upper_limits.append(np.inf)
                 elif num_joints == 3:
                     axis = None
                     curr_joint = Joint(name=body_name, dof_dim=3, axis=axis)
                     for joint in curr_joints:
-                        _dof_limits = np.fromstring(joint.attrib.get("range"), dtype=float, sep=" ")
-                        self._dof_lower_limits.append(_dof_limits[0])
-                        self._dof_upper_limits.append(_dof_limits[1])
+                        range_attr = joint.attrib.get("range", None)
+                        if range_attr is None:
+                            self._dof_lower_limits.append(-np.inf)
+                            self._dof_upper_limits.append(np.inf)
+                        else:
+                            _dof_limits = np.fromstring(range_attr, dtype=float, sep=" ")
+                            if _dof_limits.shape[0] >= 2:
+                                self._dof_lower_limits.append(_dof_limits[0])
+                                self._dof_upper_limits.append(_dof_limits[1])
+                            else:
+                                self._dof_lower_limits.append(-np.inf)
+                                self._dof_upper_limits.append(np.inf)
                 else:
                     raise ValueError(f"Invalid number of joints: {num_joints} of body: {body_name}")
             
