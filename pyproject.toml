@@ -7,7 +7,7 @@ name = "general_motion_retargeting"
 version = "0.2.0"
 description = "General Motion Retargeting (GMR) for Humanoid Robots"
 readme = "README.md"
-requires-python = ">=3.10"
+requires-python = ">=3.8"
 license = { text = "MIT" }
 authors = [
   { name = "Yanjie Ze", email = "lastyanjieze@gmail.com" },
