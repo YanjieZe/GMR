@@ -79,6 +79,7 @@ class GeneralMotionRetargeting:
         self.use_ik_match_table2 = ik_config["use_ik_match_table2"]
         self.human_scale_table = ik_config["human_scale_table"]
         self.ground = ik_config["ground_height"] * np.array([0, 0, 1])
+        self.robot_init_qpos_table = ik_config.get("robot_initial_qpos", dict())
 
         self.max_iter = 10
 
@@ -105,7 +106,9 @@ class GeneralMotionRetargeting:
         self.ground_offset = 0.0
 
     def setup_retarget_configuration(self):
-        self.configuration = mink.Configuration(self.model)
+        # update the initial qpos if defined
+        qpos_new = self.get_updated_joint_qpos(self.robot_init_qpos_table)
+        self.configuration = mink.Configuration(self.model, q=qpos_new)
     
         self.tasks1 = []
         self.tasks2 = []
@@ -218,6 +221,40 @@ class GeneralMotionRetargeting:
             
         return self.configuration.data.qpos.copy()
 
+    def get_updated_joint_qpos(self, update_table):
+        """
+        Sets the generalized position (qpos) for a given joint.
+        
+        Args:
+            model: The MuJoCo model object.
+            update_table: a dictionary with the following key values
+                joint_name (str): Name of the target joint.
+                value: The value to set. Type depends on joint:
+                    - float for hinge/slide.
+                    - list/array of 4 for ball (quaternion).
+                    - list/array of 7 for free ([pos, quat]).
+        """
+        qpos = mj.MjData(self.model).qpos.copy()
+
+        for joint_name, value in update_table.items():
+            joint_id = mj.mj_name2id(self.model, mj.mjtObj.mjOBJ_JOINT, joint_name)
+            if joint_id == -1:
+                raise ValueError(f"Joint '{joint_name}' not found.")
+                
+            addr = self.model.jnt_qposadr[joint_id]
+            jnt_type = self.model.jnt_type[joint_id]
+            
+            if jnt_type == mj.mjtJoint.mjJNT_HINGE or jnt_type == mj.mjtJoint.mjJNT_SLIDE:
+                qpos[addr] = value
+            elif jnt_type == mj.mjtJoint.mjJNT_BALL:
+                qpos[addr:addr+4] = np.array(value).flatten() # Ensure it's a flat 4-element array
+            elif jnt_type == mj.mjtJoint.mjJNT_FREE:
+                qpos[addr:addr+7] = np.array(value).flatten() # Ensure it's a flat 7-element array
+            else:
+                raise ValueError("Unknown joint type.")
+        
+        return qpos
+        
 
     def error1(self):
         return np.linalg.norm(
