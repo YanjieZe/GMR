@@ -5,8 +5,6 @@
     "human_height_assumption": 1.7,
     "use_ik_match_table1": true,
     "use_ik_match_table2": true,
-    "_comment_rot_offsets": "Derived from bvh_lafan1_to_pm01.json by applying per-joint bridge quaternions q_bridge[j] = q_H_SOMA[j]^-1 * q_H_LAFAN1[j], extracted from the validated bvh_soma_to_g1.json and cleaned / symmetrised. LeftArm / RightArm are now tracked on *LINK_SHOULDER_YAW_L/R* (3 DoFs upstream: shoulder_pitch + roll + yaw) instead of *LINK_SHOULDER_ROLL_L/R* (2 DoFs), because A-pose-calibrated SOMA motions carry substantial humeral rotation that can only be matched with all three shoulder DoFs. Rest orientation is identical between the two links (yaw_joint = 0 at rest), so the existing rot_offset still applies. Shoulder rot_w reduced to 10 (LAFAN1/SMPLX convention). Ankle and torso adjustments carry over from bvh_soma_to_g1.json. Trunk rot_w lowered to 10 (matches the corresponding LAFAN1 config) so the torso isn't artificially held upright during motion.",
-    "_comment_scales": "Per-segment scales computed from robot rest-pose (pelvis 0.820 m, ankle 0.045 m) vs SOMA A-pose proportions (pelvis 1.010 m, ankle 0.07 m): Hips = robot_pelvis_z / soma_pelvis_z (lands SOMA pelvis at rest pelvis); legs = (robot_pelvis_z - robot_ankle_z) / (soma_pelvis_z - soma_ankle_z) (plants scaled feet at ground); arms scaled ~1.02x Hips to account for SOMA's drooping A-pose arm extension. Validated: walking / jumping / dancing clips keep feet at z>=0 with no NaNs.",
     "human_scale_table": {
         "Hips": 0.812,
         "Chest": 0.812,
