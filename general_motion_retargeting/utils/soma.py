@@ -214,8 +214,29 @@ def load_soma_bvh_file(bvh_file):
     # Forward kinematics to get global positions and orientations.
     global_quat, global_pos = fk_utils.quat_fk(local_quat, local_pos, parents)
 
-    # World-frame fix + cm -> m, matching the LAFAN1 / Nokov loader conventions.
-    rotation_matrix = np.array([[1, 0, 0], [0, 0, -1], [0, 1, 0]], dtype=np.float32)
+    # World-frame fix + cm -> m.
+    #
+    # SOMA BVHs use a right-handed Z-forward / Y-up MotionBuilder-style world
+    # frame where, for the character in its reference pose, BVH +Z is forward,
+    # BVH +Y is up and BVH +X is the *character's left* (verifiable from
+    # ``soma_zero_frame0.bvh``: the LeftHand bone extends along world +X while
+    # the character faces +Z).
+    #
+    # The LAFAN1 / Nokov loaders use ``[[1,0,0],[0,0,-1],[0,1,0]]``, which
+    # swaps Y and Z but leaves BVH +Z mapping onto GMR -Y. For SOMA that
+    # means the character would face GMR -Y while G1's rest pose faces GMR
+    # +X -- the 90 deg yaw mismatch that makes the retargeted robot walk
+    # sideways relative to its motion direction.
+    #
+    # The matrix below is ``Rz(+90 deg) @ (Y-up -> Z-up)``:
+    #   BVH +X (character left)    -> GMR +Y (world left)
+    #   BVH +Y (up)                -> GMR +Z (up)
+    #   BVH +Z (character forward) -> GMR +X (G1 forward)
+    # so the character's reference-pose forward direction coincides with G1's
+    # rest-pose forward axis. The ``rot_offset`` values in
+    # ``ik_configs/bvh_soma_to_g1.json`` are derived against this convention;
+    # changing this matrix requires recomputing all of them.
+    rotation_matrix = np.array([[0, 0, 1], [1, 0, 0], [0, 1, 0]], dtype=np.float32)
     rotation_quat = R.from_matrix(rotation_matrix).as_quat(scalar_first=True).astype(
         np.float32
     )
@@ -228,14 +249,16 @@ def load_soma_bvh_file(bvh_file):
             position = global_pos[frame, i] @ rotation_matrix.T / 100.0
             result[bone] = [position, orientation]
 
-        # Virtual "FootMod" targets, consistent with LAFAN1 / Nokov loaders:
-        # foot position, toe base orientation (SOMA uses LeftToeBase/RightToeBase).
-        if "LeftFoot" in result and "LeftToeBase" in result:
-            result["LeftFootMod"] = [result["LeftFoot"][0], result["LeftToeBase"][1]]
-        if "RightFoot" in result and "RightToeBase" in result:
-            result["RightFootMod"] = [result["RightFoot"][0], result["RightToeBase"][1]]
-
         frames.append(result)
+
+    # NOTE: unlike the LAFAN1 / Nokov loaders we do NOT synthesise a
+    # ``LeftFootMod`` / ``RightFootMod`` bone. That workaround exists because
+    # LAFAN1-style rigs bake per-joint axes into the hierarchy, leaving the
+    # ``LeftFoot`` local frame pointing down the shin rather than forward along
+    # the foot. SOMA (a Mixamo-style rig) keeps every bind-pose joint at
+    # identity, so ``LeftFoot`` / ``RightFoot`` already carry the correct
+    # ankle orientation and can be targeted directly -- this matches what
+    # soma-retargeter's own retargeter config does.
 
     # SOMA BVHs typically come from a uniform-proportion skeleton; 1.70 m matches
     # the model_height used by the NVIDIA soma-retargeter G1 config.
