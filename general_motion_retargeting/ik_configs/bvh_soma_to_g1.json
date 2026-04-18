@@ -6,7 +6,7 @@
     "use_ik_match_table1": true,
     "use_ik_match_table2": true,
 
-    "_comment_rot_offsets": "IMPORTANT: SOMA's identity-rotation bind pose is NOT a T-pose -- it is an 'axis-aligned' rigging artifact where every bone extends along its local +X axis. The real T-pose is encoded in the MOTION section of soma-retargeter/.../configs/soma/soma_zero_frame0.bvh (initialization pose). The rot_offsets below were computed as q_human_Tpose^-1 * q_G1_rest, i.e. the quaternion that maps the SOMA joint frame at T-pose onto the G1 link frame at rest. They are also tied to the world-frame convention used in utils/soma.py (Rz(+90 deg) composed with Y-up->Z-up), which rotates SOMA characters so their forward direction coincides with GMR +X -- recomputing either the world-frame matrix or the robot XML requires recomputing these values. Do NOT copy from bvh_lafan1_to_g1.json -- LAFAN1 uses a different skeleton-axis convention.",
+    "_comment_rot_offsets": "SOMA's identity-rotation bind pose is NOT a T-pose -- it is an 'axis-aligned' rigging artifact where every bone extends along its local +X axis. The real T-pose is encoded in the MOTION section of soma-retargeter/.../configs/soma/soma_zero_frame0.bvh (initialization frame), and in practice it is closer to an A-pose (arms hanging down ~80 deg off horizontal) than a true LAFAN1-style T-pose. The rot_offsets below were computed as q_human_Tpose^-1 * q_G1_rest (bringing the robot to its rest pose when the human is in its calibration pose) and then symmetrised / snapped to clean magnitudes (components smaller than 0.06 rounded to 0, near-equal magnitudes averaged) so they read cleanly -- the residual cleanup error is under 6 deg per joint and under 6 deg at the retargeted T-pose. They are also tied to the world-frame convention used in utils/soma.py (Rz(+90 deg) composed with Y-up->Z-up), which rotates SOMA characters so their forward direction coincides with GMR +X -- recomputing either the world-frame matrix or the robot XML requires recomputing these values. Do NOT copy from bvh_lafan1_to_g1.json -- LAFAN1 uses a different skeleton-axis convention (true T-pose, bone-local frames rotated).",
 
     "_comment_scales": "Per-segment scales are tuned so the SOMA T-pose collapses onto G1's rest pose: Hips -> 0.785 matches G1 pelvis height 0.793 m (SOMA T-pose pelvis 1.010 m), leg/foot -> 0.805 puts the SOMA ankle joint at G1's rest ankle height 0.036 m. SOMA's pelvis-to-ankle ratio (14.4) differs from G1's (22.0), so a single uniform scale cannot match both heights -- splitting root vs. limb scales is required. Using a flat 0.9 (as in bvh_lafan1_to_g1.json) leaves feet ~7 cm above the ground during walking because LAFAN1 and SOMA have different segment proportions.",
 
@@ -35,98 +35,98 @@
             0,
             10,
             [0.0, 0.0, 0.0],
-            [-0.49916833, -0.49916833, -0.50083029, -0.50083029]
+            [-0.5, -0.5, -0.5, -0.5]
         ],
         "left_hip_yaw_link": [
             "LeftLeg",
             0,
             10,
             [0.0, 0.0, 0.0],
-            [0.45442310, 0.45442310, -0.54175609, -0.54175606]
+            [0.45442310, 0.45442310, -0.54175608, -0.54175608]
         ],
         "left_knee_link": [
             "LeftShin",
             0,
             10,
             [0.0, 0.0, 0.0],
-            [0.49999709, 0.49999712, -0.50000293, -0.50000287]
+            [0.5, 0.5, -0.5, -0.5]
         ],
         "left_ankle_roll_link": [
             "LeftFoot",
             50,
             10,
             [0.0, 0.0, 0.0],
-            [0.69534997, 0.69534997, -0.12840721, -0.12840723]
+            [0.69534997, 0.69534997, -0.12840722, -0.12840722]
         ],
         "right_hip_yaw_link": [
             "RightLeg",
             0,
             10,
             [0.0, 0.0, 0.0],
-            [-0.54175607, -0.54175607, -0.45442314, -0.45442308]
+            [-0.54175608, -0.54175608, -0.45442310, -0.45442310]
         ],
         "right_knee_link": [
             "RightShin",
             0,
             10,
             [0.0, 0.0, 0.0],
-            [-0.50000292, -0.50000286, -0.49999711, -0.49999711]
+            [-0.5, -0.5, -0.5, -0.5]
         ],
         "right_ankle_roll_link": [
             "RightFoot",
             50,
             10,
             [0.0, 0.0, 0.0],
-            [-0.12840721, -0.12840721, -0.69534998, -0.69534998]
+            [-0.12840722, -0.12840722, -0.69534997, -0.69534997]
         ],
         "torso_link": [
             "Chest",
             0,
             100,
             [0.0, 0.0, 0.0],
-            [-0.49911486, -0.49911486, -0.50088357, -0.50088357]
+            [-0.5, -0.5, -0.5, -0.5]
         ],
         "left_shoulder_yaw_link": [
             "LeftArm",
             0,
             100,
             [0.0, 0.0, 0.0],
-            [0.45199432, -0.56585624, -0.51306387, 0.46073128]
+            [0.45637151, -0.56586704, -0.51307366, 0.45637151]
         ],
         "left_elbow_link": [
             "LeftForeArm",
             0,
             10,
             [0.0, 0.0, 0.0],
-            [0.64502291, -0.76361881, 0.01772480, 0.02275075]
+            [0.64529133, -0.76393658, 0.0, 0.0]
         ],
         "left_wrist_yaw_link": [
             "LeftHand",
             0,
             10,
             [0.0, 0.0, 0.0],
-            [0.69248383, -0.71948264, 0.02659078, 0.04586724]
+            [0.69345913, -0.72049596, 0.0, 0.0]
         ],
         "right_shoulder_yaw_link": [
             "RightArm",
             0,
             100,
             [0.0, 0.0, 0.0],
-            [-0.51306348, 0.46073143, -0.45199405, 0.56585668]
+            [-0.51307366, 0.45637151, -0.45637151, 0.56586704]
         ],
         "right_elbow_link": [
             "RightForeArm",
             0,
             10,
             [0.0, 0.0, 0.0],
-            [0.01772536, 0.02275101, -0.64502281, 0.76361887]
+            [0.0, 0.0, -0.64529133, 0.76393658]
         ],
         "right_wrist_yaw_link": [
             "RightHand",
             0,
             10,
             [0.0, 0.0, 0.0],
-            [0.02659075, 0.04586791, -0.69248369, 0.71948274]
+            [0.0, 0.0, -0.69345913, 0.72049596]
         ]
     },
     "ik_match_table2": {
@@ -135,98 +135,98 @@
             100,
             5,
             [0.0, 0.0, 0.0],
-            [-0.49916833, -0.49916833, -0.50083029, -0.50083029]
+            [-0.5, -0.5, -0.5, -0.5]
         ],
         "left_hip_yaw_link": [
             "LeftLeg",
             10,
             5,
             [0.0, 0.0, 0.0],
-            [0.45442310, 0.45442310, -0.54175609, -0.54175606]
+            [0.45442310, 0.45442310, -0.54175608, -0.54175608]
         ],
         "left_knee_link": [
             "LeftShin",
             10,
             5,
             [0.0, 0.0, 0.0],
-            [0.49999709, 0.49999712, -0.50000293, -0.50000287]
+            [0.5, 0.5, -0.5, -0.5]
         ],
         "left_ankle_roll_link": [
             "LeftFoot",
             50,
             10,
             [0.0, 0.0, 0.0],
-            [0.69534997, 0.69534997, -0.12840721, -0.12840723]
+            [0.69534997, 0.69534997, -0.12840722, -0.12840722]
         ],
         "right_hip_yaw_link": [
             "RightLeg",
             10,
             5,
             [0.0, 0.0, 0.0],
-            [-0.54175607, -0.54175607, -0.45442314, -0.45442308]
+            [-0.54175608, -0.54175608, -0.45442310, -0.45442310]
         ],
         "right_knee_link": [
             "RightShin",
             10,
             5,
             [0.0, 0.0, 0.0],
-            [-0.50000292, -0.50000286, -0.49999711, -0.49999711]
+            [-0.5, -0.5, -0.5, -0.5]
         ],
         "right_ankle_roll_link": [
             "RightFoot",
             50,
             10,
             [0.0, 0.0, 0.0],
-            [-0.12840721, -0.12840721, -0.69534998, -0.69534998]
+            [-0.12840722, -0.12840722, -0.69534997, -0.69534997]
         ],
         "torso_link": [
             "Chest",
             0,
             10,
             [0.0, 0.0, 0.0],
-            [-0.49911486, -0.49911486, -0.50088357, -0.50088357]
+            [-0.5, -0.5, -0.5, -0.5]
         ],
         "left_shoulder_yaw_link": [
             "LeftArm",
             5,
             100,
             [0.0, 0.0, 0.0],
-            [0.45199432, -0.56585624, -0.51306387, 0.46073128]
+            [0.45637151, -0.56586704, -0.51307366, 0.45637151]
         ],
         "left_elbow_link": [
             "LeftForeArm",
             10,
             5,
             [0.0, 0.0, 0.0],
-            [0.64502291, -0.76361881, 0.01772480, 0.02275075]
+            [0.64529133, -0.76393658, 0.0, 0.0]
         ],
         "left_wrist_yaw_link": [
             "LeftHand",
             10,
             5,
             [0.0, 0.0, 0.0],
-            [0.69248383, -0.71948264, 0.02659078, 0.04586724]
+            [0.69345913, -0.72049596, 0.0, 0.0]
         ],
         "right_shoulder_yaw_link": [
             "RightArm",
             5,
             100,
             [0.0, 0.0, 0.0],
-            [-0.51306348, 0.46073143, -0.45199405, 0.56585668]
+            [-0.51307366, 0.45637151, -0.45637151, 0.56586704]
         ],
         "right_elbow_link": [
             "RightForeArm",
             10,
             5,
             [0.0, 0.0, 0.0],
-            [0.01772536, 0.02275101, -0.64502281, 0.76361887]
+            [0.0, 0.0, -0.64529133, 0.76393658]
         ],
         "right_wrist_yaw_link": [
             "RightHand",
             10,
             5,
             [0.0, 0.0, 0.0],
-            [0.02659075, 0.04586791, -0.69248369, 0.71948274]
+            [0.0, 0.0, -0.69345913, 0.72049596]
         ]
     }
 }
