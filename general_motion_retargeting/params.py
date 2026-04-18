@@ -60,6 +60,10 @@ IK_CONFIG_DICT = {
     },
     "bvh_soma":{
         "unitree_g1": IK_CONFIG_ROOT / "bvh_soma_to_g1.json",
+        "booster_t1_29dof": IK_CONFIG_ROOT / "bvh_soma_to_t1_29dof.json",
+        "fourier_n1": IK_CONFIG_ROOT / "bvh_soma_to_n1.json",
+        "engineai_pm01": IK_CONFIG_ROOT / "bvh_soma_to_pm01.json",
+        "pnd_adam_lite": IK_CONFIG_ROOT / "bvh_soma_to_adam.json",
     },
     "bvh_xsens":{
         "unitree_g1": IK_CONFIG_ROOT / "bvh_xsens_to_g1.json",

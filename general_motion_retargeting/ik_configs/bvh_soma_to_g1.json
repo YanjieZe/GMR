@@ -5,11 +5,6 @@
     "human_height_assumption": 1.70,
     "use_ik_match_table1": true,
     "use_ik_match_table2": true,
-
-    "_comment_rot_offsets": "SOMA's identity-rotation bind pose is NOT a T-pose -- it is an 'axis-aligned' rigging artifact where every bone extends along its local +X axis. The real T-pose is encoded in the MOTION section of soma-retargeter/.../configs/soma/soma_zero_frame0.bvh (initialization frame), and in practice it is closer to an A-pose (arms hanging down ~80 deg off horizontal) than a true LAFAN1-style T-pose. The rot_offsets below were computed as q_human_Tpose^-1 * q_G1_rest (bringing the robot to its rest pose when the human is in its calibration pose) and then symmetrised / snapped to clean magnitudes (components smaller than 0.06 rounded to 0, near-equal magnitudes averaged) so they read cleanly -- the residual cleanup error is under 6 deg per joint and under 6 deg at the retargeted T-pose. They are also tied to the world-frame convention used in utils/soma.py (Rz(+90 deg) composed with Y-up->Z-up), which rotates SOMA characters so their forward direction coincides with GMR +X -- recomputing either the world-frame matrix or the robot XML requires recomputing these values. Do NOT copy from bvh_lafan1_to_g1.json -- LAFAN1 uses a different skeleton-axis convention (true T-pose, bone-local frames rotated).",
-
-    "_comment_scales": "Per-segment scales are tuned so the SOMA T-pose collapses onto G1's rest pose: Hips -> 0.785 matches G1 pelvis height 0.793 m (SOMA T-pose pelvis 1.010 m), leg/foot -> 0.805 puts the SOMA ankle joint at G1's rest ankle height 0.036 m. SOMA's pelvis-to-ankle ratio (14.4) differs from G1's (22.0), so a single uniform scale cannot match both heights -- splitting root vs. limb scales is required. Using a flat 0.9 (as in bvh_lafan1_to_g1.json) leaves feet ~7 cm above the ground during walking because LAFAN1 and SOMA have different segment proportions.",
-
     "human_scale_table": {
         "Hips": 0.785,
         "Chest": 0.785,
