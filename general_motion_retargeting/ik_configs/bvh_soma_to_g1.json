@@ -8,23 +8,25 @@
 
     "_comment_rot_offsets": "IMPORTANT: SOMA's identity-rotation bind pose is NOT a T-pose -- it is an 'axis-aligned' rigging artifact where every bone extends along its local +X axis. The real T-pose is encoded in the MOTION section of soma-retargeter/.../configs/soma/soma_zero_frame0.bvh (initialization pose). The rot_offsets below were computed as q_human_Tpose^-1 * q_G1_rest, i.e. the quaternion that maps the SOMA joint frame at T-pose onto the G1 link frame at rest. They are also tied to the world-frame convention used in utils/soma.py (Rz(+90 deg) composed with Y-up->Z-up), which rotates SOMA characters so their forward direction coincides with GMR +X -- recomputing either the world-frame matrix or the robot XML requires recomputing these values. Do NOT copy from bvh_lafan1_to_g1.json -- LAFAN1 uses a different skeleton-axis convention.",
 
+    "_comment_scales": "Per-segment scales are tuned so the SOMA T-pose collapses onto G1's rest pose: Hips -> 0.785 matches G1 pelvis height 0.793 m (SOMA T-pose pelvis 1.010 m), leg/foot -> 0.805 puts the SOMA ankle joint at G1's rest ankle height 0.036 m. SOMA's pelvis-to-ankle ratio (14.4) differs from G1's (22.0), so a single uniform scale cannot match both heights -- splitting root vs. limb scales is required. Using a flat 0.9 (as in bvh_lafan1_to_g1.json) leaves feet ~7 cm above the ground during walking because LAFAN1 and SOMA have different segment proportions.",
+
     "human_scale_table": {
-        "Hips": 0.9,
-        "Chest": 0.9,
+        "Hips": 0.785,
+        "Chest": 0.785,
 
-        "LeftLeg": 0.9,
-        "RightLeg": 0.9,
-        "LeftShin": 0.9,
-        "RightShin": 0.9,
-        "LeftFoot": 0.9,
-        "RightFoot": 0.9,
+        "LeftLeg": 0.805,
+        "RightLeg": 0.805,
+        "LeftShin": 0.805,
+        "RightShin": 0.805,
+        "LeftFoot": 0.805,
+        "RightFoot": 0.805,
 
-        "LeftArm": 0.75,
-        "RightArm": 0.75,
-        "LeftForeArm": 0.75,
-        "RightForeArm": 0.75,
-        "LeftHand": 0.75,
-        "RightHand": 0.75
+        "LeftArm": 0.80,
+        "RightArm": 0.80,
+        "LeftForeArm": 0.80,
+        "RightForeArm": 0.80,
+        "LeftHand": 0.80,
+        "RightHand": 0.80
     },
 
     "ik_match_table1": {
