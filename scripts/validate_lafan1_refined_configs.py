@@ -5,6 +5,7 @@ import pickle
 import numpy as np
 
 ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT))
 SRC_BVH = ROOT / 'dataset/lafan1/BVH/dance1_subject1.bvh'
 if not SRC_BVH.exists():
     SRC_BVH = Path('/home/xsuper/GMR/dataset/lafan1/BVH/dance1_subject1.bvh')

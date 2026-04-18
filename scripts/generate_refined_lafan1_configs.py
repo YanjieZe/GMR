@@ -1,9 +1,12 @@
 #!/usr/bin/env python3
 import json
+import sys
 from pathlib import Path
-from general_motion_retargeting.params import IK_CONFIG_DICT, IK_CONFIG_ROOT
 
 ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT))
+
+from general_motion_retargeting.params import IK_CONFIG_DICT, IK_CONFIG_ROOT
 OUT = ROOT / 'general_motion_retargeting' / 'ik_configs_refined'
 SEED_DIR = ROOT / 'general_motion_retargeting' / 'ik_configs_refined_seeds'
 OUT.mkdir(parents=True, exist_ok=True)

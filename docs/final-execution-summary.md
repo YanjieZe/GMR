@@ -20,6 +20,8 @@ Completed work:
 10. Ran final release-readiness audits:
    - `logs/lafan1_config_refresh_validation/selected_integrity_audit.json`
    - `logs/lafan1_config_refresh_validation/selected_smoke_all.json`
+11. Fixed script import resolution so generation/validation scripts always import the current worktree package first, then re-verified generator idempotency and a stronger 5-frame all-robot selected smoke:
+   - `logs/lafan1_config_refresh_validation/selected_smoke_all_5frames.json`
 
 ## Final decision summary
 

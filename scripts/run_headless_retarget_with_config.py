@@ -4,6 +4,9 @@ from pathlib import Path
 import numpy as np
 from tqdm import tqdm
 
+ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT))
+
 import general_motion_retargeting.motion_retarget as mr
 from general_motion_retargeting import GeneralMotionRetargeting as GMR
 from general_motion_retargeting.params import ROBOT_XML_DICT, IK_CONFIG_DICT
