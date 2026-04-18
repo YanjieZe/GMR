@@ -13,11 +13,26 @@ SELECTED_DIR.mkdir(parents=True, exist_ok=True)
 refined_manifest = json.load(open(REFINED_MANIFEST))
 summary_rows = {row['robot']: row for row in json.load(open(VALIDATION_SUMMARY))['rows']}
 
+
+def resolve_manifest_path(path_str: str) -> Path:
+    path = Path(path_str)
+    return path if path.is_absolute() else ROOT / path
+
+
+def portable_path(path: Path | None) -> str | None:
+    if path is None:
+        return None
+    path = path.resolve()
+    try:
+        return str(path.relative_to(ROOT))
+    except ValueError:
+        return str(path)
+
 selected = {}
 for robot, info in sorted(refined_manifest.items()):
     decision = 'baseline'
     reason = 'no validated improvement from template search yet'
-    source_path = Path(info['source'])
+    source_path = resolve_manifest_path(info['source'])
 
     if robot == 'agibot_a2':
         decision = 'blocked'
@@ -25,7 +40,7 @@ for robot, info in sorted(refined_manifest.items()):
     elif robot == 'unitree_g1_23dof':
         decision = 'refined'
         reason = 'special robot-specific tuned balance config validated'
-        source_path = Path('/home/xsuper/GMR/logs/g1_23_fine_torso_support/configs/elbow30_wrist20.json')
+        source_path = ROOT / 'general_motion_retargeting' / 'ik_configs_refined_seeds' / 'unitree_g1_23dof.elbow30_wrist20.json'
     elif robot == 'unitree_g1_29dof':
         decision = 'refined'
         reason = 'special conservative g1_29 config validated with positive score reduction'
@@ -44,14 +59,14 @@ for robot, info in sorted(refined_manifest.items()):
     if decision != 'blocked':
         target = SELECTED_DIR / f'bvh_lafan1_to_{robot}.selected.json'
         shutil.copyfile(source_path, target)
-        selected_path = str(target)
+        selected_path = portable_path(target)
     else:
         selected_path = None
 
     selected[robot] = {
         'decision': decision,
         'reason': reason,
-        'source_config': str(source_path),
+        'source_config': portable_path(source_path),
         'selected_config': selected_path,
     }
 
@@ -61,4 +76,4 @@ lines = ['# Final selected LAFAN1 config manifest', '', '| robot | decision | so
 for robot, info in selected.items():
     lines.append(f"| {robot} | {info['decision']} | `{info['source_config']}` | `{info['selected_config']}` | {info['reason']} |")
 FINAL_SELECTION_MD.write_text('\n'.join(lines) + '\n')
-print(json.dumps({'selected_manifest': str(SELECTED_DIR / 'manifest.json'), 'final_selection_md': str(FINAL_SELECTION_MD)}, indent=2))
+print(json.dumps({'selected_manifest': portable_path(SELECTED_DIR / 'manifest.json'), 'final_selection_md': portable_path(FINAL_SELECTION_MD)}, indent=2))

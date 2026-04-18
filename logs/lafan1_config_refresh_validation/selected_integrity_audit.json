@@ -1,0 +1,158 @@
+{
+  "rows": [
+    {
+      "robot": "agibot_a2",
+      "decision": "blocked",
+      "in_params": false,
+      "source_exists": true,
+      "selected_exists": false,
+      "params_path": null
+    },
+    {
+      "robot": "berkeley_humanoid_lite",
+      "decision": "refined",
+      "in_params": true,
+      "source_exists": true,
+      "selected_exists": true,
+      "params_path": "/home/xsuper/GMR-worktrees/master_lafan1_integration/general_motion_retargeting/ik_configs_selected/bvh_lafan1_to_berkeley_humanoid_lite.selected.json"
+    },
+    {
+      "robot": "booster_k1",
+      "decision": "baseline",
+      "in_params": true,
+      "source_exists": true,
+      "selected_exists": true,
+      "params_path": "/home/xsuper/GMR-worktrees/master_lafan1_integration/general_motion_retargeting/ik_configs_selected/bvh_lafan1_to_booster_k1.selected.json"
+    },
+    {
+      "robot": "booster_t1",
+      "decision": "baseline",
+      "in_params": true,
+      "source_exists": true,
+      "selected_exists": true,
+      "params_path": "/home/xsuper/GMR-worktrees/master_lafan1_integration/general_motion_retargeting/ik_configs_selected/bvh_lafan1_to_booster_t1.selected.json"
+    },
+    {
+      "robot": "booster_t1_29dof",
+      "decision": "baseline",
+      "in_params": true,
+      "source_exists": true,
+      "selected_exists": true,
+      "params_path": "/home/xsuper/GMR-worktrees/master_lafan1_integration/general_motion_retargeting/ik_configs_selected/bvh_lafan1_to_booster_t1_29dof.selected.json"
+    },
+    {
+      "robot": "engineai_pm01",
+      "decision": "baseline",
+      "in_params": true,
+      "source_exists": true,
+      "selected_exists": true,
+      "params_path": "/home/xsuper/GMR-worktrees/master_lafan1_integration/general_motion_retargeting/ik_configs_selected/bvh_lafan1_to_engineai_pm01.selected.json"
+    },
+    {
+      "robot": "fourier_gr3",
+      "decision": "baseline",
+      "in_params": true,
+      "source_exists": true,
+      "selected_exists": true,
+      "params_path": "/home/xsuper/GMR-worktrees/master_lafan1_integration/general_motion_retargeting/ik_configs_selected/bvh_lafan1_to_fourier_gr3.selected.json"
+    },
+    {
+      "robot": "fourier_n1",
+      "decision": "baseline",
+      "in_params": true,
+      "source_exists": true,
+      "selected_exists": true,
+      "params_path": "/home/xsuper/GMR-worktrees/master_lafan1_integration/general_motion_retargeting/ik_configs_selected/bvh_lafan1_to_fourier_n1.selected.json"
+    },
+    {
+      "robot": "hightorque_hi",
+      "decision": "baseline",
+      "in_params": true,
+      "source_exists": true,
+      "selected_exists": true,
+      "params_path": "/home/xsuper/GMR-worktrees/master_lafan1_integration/general_motion_retargeting/ik_configs_selected/bvh_lafan1_to_hightorque_hi.selected.json"
+    },
+    {
+      "robot": "kuavo_s45",
+      "decision": "baseline",
+      "in_params": true,
+      "source_exists": true,
+      "selected_exists": true,
+      "params_path": "/home/xsuper/GMR-worktrees/master_lafan1_integration/general_motion_retargeting/ik_configs_selected/bvh_lafan1_to_kuavo_s45.selected.json"
+    },
+    {
+      "robot": "openloong",
+      "decision": "refined",
+      "in_params": true,
+      "source_exists": true,
+      "selected_exists": true,
+      "params_path": "/home/xsuper/GMR-worktrees/master_lafan1_integration/general_motion_retargeting/ik_configs_selected/bvh_lafan1_to_openloong.selected.json"
+    },
+    {
+      "robot": "pal_talos",
+      "decision": "baseline",
+      "in_params": true,
+      "source_exists": true,
+      "selected_exists": true,
+      "params_path": "/home/xsuper/GMR-worktrees/master_lafan1_integration/general_motion_retargeting/ik_configs_selected/bvh_lafan1_to_pal_talos.selected.json"
+    },
+    {
+      "robot": "pnd_adam_lite",
+      "decision": "refined",
+      "in_params": true,
+      "source_exists": true,
+      "selected_exists": true,
+      "params_path": "/home/xsuper/GMR-worktrees/master_lafan1_integration/general_motion_retargeting/ik_configs_selected/bvh_lafan1_to_pnd_adam_lite.selected.json"
+    },
+    {
+      "robot": "stanford_toddy",
+      "decision": "baseline",
+      "in_params": true,
+      "source_exists": true,
+      "selected_exists": true,
+      "params_path": "/home/xsuper/GMR-worktrees/master_lafan1_integration/general_motion_retargeting/ik_configs_selected/bvh_lafan1_to_stanford_toddy.selected.json"
+    },
+    {
+      "robot": "tienkung",
+      "decision": "baseline",
+      "in_params": true,
+      "source_exists": true,
+      "selected_exists": true,
+      "params_path": "/home/xsuper/GMR-worktrees/master_lafan1_integration/general_motion_retargeting/ik_configs_selected/bvh_lafan1_to_tienkung.selected.json"
+    },
+    {
+      "robot": "unitree_g1_23dof",
+      "decision": "refined",
+      "in_params": true,
+      "source_exists": true,
+      "selected_exists": true,
+      "params_path": "/home/xsuper/GMR-worktrees/master_lafan1_integration/general_motion_retargeting/ik_configs_selected/bvh_lafan1_to_unitree_g1_23dof.selected.json"
+    },
+    {
+      "robot": "unitree_g1_29dof",
+      "decision": "refined",
+      "in_params": true,
+      "source_exists": true,
+      "selected_exists": true,
+      "params_path": "/home/xsuper/GMR-worktrees/master_lafan1_integration/general_motion_retargeting/ik_configs_selected/bvh_lafan1_to_unitree_g1_29dof.selected.json"
+    },
+    {
+      "robot": "unitree_h1",
+      "decision": "baseline",
+      "in_params": true,
+      "source_exists": true,
+      "selected_exists": true,
+      "params_path": "/home/xsuper/GMR-worktrees/master_lafan1_integration/general_motion_retargeting/ik_configs_selected/bvh_lafan1_to_unitree_h1.selected.json"
+    },
+    {
+      "robot": "unitree_h1_2",
+      "decision": "baseline",
+      "in_params": true,
+      "source_exists": true,
+      "selected_exists": true,
+      "params_path": "/home/xsuper/GMR-worktrees/master_lafan1_integration/general_motion_retargeting/ik_configs_selected/bvh_lafan1_to_unitree_h1_2.selected.json"
+    }
+  ],
+  "issues": [],
+  "selected_count": 18
+}

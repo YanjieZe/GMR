@@ -1,114 +1,114 @@
 {
   "berkeley_humanoid_lite": {
-    "source": "/home/xsuper/GMR/general_motion_retargeting/ik_configs/bvh_lafan1_to_bhl.json",
+    "source": "general_motion_retargeting/ik_configs/bvh_lafan1_to_bhl.json",
     "refined": "general_motion_retargeting/ik_configs_refined/bvh_lafan1_to_berkeley_humanoid_lite.refined.json",
     "profile": "single_stage_balanced",
     "use_stage2": false
   },
   "booster_k1": {
-    "source": "/home/xsuper/GMR/general_motion_retargeting/ik_configs/bvh_lafan1_to_k1.json",
+    "source": "general_motion_retargeting/ik_configs/bvh_lafan1_to_k1.json",
     "refined": "general_motion_retargeting/ik_configs_refined/bvh_lafan1_to_booster_k1.refined.json",
     "profile": "two_stage_medium_arm_conservative",
     "use_stage2": true
   },
   "booster_t1": {
-    "source": "/home/xsuper/GMR/general_motion_retargeting/ik_configs/bvh_lafan1_to_t1.json",
+    "source": "general_motion_retargeting/ik_configs/bvh_lafan1_to_t1.json",
     "refined": "general_motion_retargeting/ik_configs_refined/bvh_lafan1_to_booster_t1.refined.json",
     "profile": "two_stage_medium_arm_conservative",
     "use_stage2": true
   },
   "booster_t1_29dof": {
-    "source": "/home/xsuper/GMR/general_motion_retargeting/ik_configs/bvh_lafan1_to_t1_29dof.json",
+    "source": "general_motion_retargeting/ik_configs/bvh_lafan1_to_t1_29dof.json",
     "refined": "general_motion_retargeting/ik_configs_refined/bvh_lafan1_to_booster_t1_29dof.refined.json",
     "profile": "two_stage_full_arm_conservative",
     "use_stage2": true
   },
   "engineai_pm01": {
-    "source": "/home/xsuper/GMR/general_motion_retargeting/ik_configs/bvh_lafan1_to_pm01.json",
+    "source": "general_motion_retargeting/ik_configs/bvh_lafan1_to_pm01.json",
     "refined": "general_motion_retargeting/ik_configs_refined/bvh_lafan1_to_engineai_pm01.refined.json",
     "profile": "two_stage_full_arm_conservative",
     "use_stage2": true
   },
   "fourier_gr3": {
-    "source": "/home/xsuper/GMR/general_motion_retargeting/ik_configs/bvh_lafan1_to_gr3.json",
+    "source": "general_motion_retargeting/ik_configs/bvh_lafan1_to_gr3.json",
     "refined": "general_motion_retargeting/ik_configs_refined/bvh_lafan1_to_fourier_gr3.refined.json",
     "profile": "two_stage_full_arm_conservative",
     "use_stage2": true
   },
   "fourier_n1": {
-    "source": "/home/xsuper/GMR/general_motion_retargeting/ik_configs/bvh_lafan1_to_n1.json",
+    "source": "general_motion_retargeting/ik_configs/bvh_lafan1_to_n1.json",
     "refined": "general_motion_retargeting/ik_configs_refined/bvh_lafan1_to_fourier_n1.refined.json",
     "profile": "two_stage_full_arm_conservative",
     "use_stage2": true
   },
   "hightorque_hi": {
-    "source": "/home/xsuper/GMR/general_motion_retargeting/ik_configs/bvh_lafan1_to_hi.json",
+    "source": "general_motion_retargeting/ik_configs/bvh_lafan1_to_hi.json",
     "refined": "general_motion_retargeting/ik_configs_refined/bvh_lafan1_to_hightorque_hi.refined.json",
     "profile": "two_stage_full_arm_conservative",
     "use_stage2": true
   },
   "kuavo_s45": {
-    "source": "/home/xsuper/GMR/general_motion_retargeting/ik_configs/bvh_lafan1_to_kuavo.json",
+    "source": "general_motion_retargeting/ik_configs/bvh_lafan1_to_kuavo.json",
     "refined": "general_motion_retargeting/ik_configs_refined/bvh_lafan1_to_kuavo_s45.refined.json",
     "profile": "two_stage_full_arm_conservative",
     "use_stage2": true
   },
   "pal_talos": {
-    "source": "/home/xsuper/GMR/general_motion_retargeting/ik_configs/bvh_lafan1_to_talos.json",
+    "source": "general_motion_retargeting/ik_configs/bvh_lafan1_to_talos.json",
     "refined": "general_motion_retargeting/ik_configs_refined/bvh_lafan1_to_pal_talos.refined.json",
     "profile": "two_stage_partial_stage2",
     "use_stage2": true
   },
   "pnd_adam_lite": {
-    "source": "/home/xsuper/GMR/general_motion_retargeting/ik_configs/bvh_lafan1_to_adam.json",
+    "source": "general_motion_retargeting/ik_configs/bvh_lafan1_to_adam.json",
     "refined": "general_motion_retargeting/ik_configs_refined/bvh_lafan1_to_pnd_adam_lite.refined.json",
     "profile": "single_stage_balanced",
     "use_stage2": false
   },
   "stanford_toddy": {
-    "source": "/home/xsuper/GMR/general_motion_retargeting/ik_configs/bvh_lafan1_to_toddy.json",
+    "source": "general_motion_retargeting/ik_configs/bvh_lafan1_to_toddy.json",
     "refined": "general_motion_retargeting/ik_configs_refined/bvh_lafan1_to_stanford_toddy.refined.json",
     "profile": "two_stage_full_arm_conservative",
     "use_stage2": true
   },
   "tienkung": {
-    "source": "/home/xsuper/GMR/general_motion_retargeting/ik_configs/bvh_lafan1_to_tienkung.json",
+    "source": "general_motion_retargeting/ik_configs/bvh_lafan1_to_tienkung.json",
     "refined": "general_motion_retargeting/ik_configs_refined/bvh_lafan1_to_tienkung.refined.json",
     "profile": "two_stage_full_arm_conservative",
     "use_stage2": true
   },
   "unitree_g1_23dof": {
-    "source": "/home/xsuper/GMR/general_motion_retargeting/ik_configs/bvh_lafan1_to_g1_23dof.json",
+    "source": "general_motion_retargeting/ik_configs/bvh_lafan1_to_g1_23dof.json",
     "refined": "general_motion_retargeting/ik_configs_refined/bvh_lafan1_to_unitree_g1_23dof.refined.json",
     "profile": "special",
     "use_stage2": true
   },
   "unitree_g1_29dof": {
-    "source": "/home/xsuper/GMR/general_motion_retargeting/ik_configs/bvh_lafan1_to_g1.json",
+    "source": "general_motion_retargeting/ik_configs/bvh_lafan1_to_g1.json",
     "refined": "general_motion_retargeting/ik_configs_refined/bvh_lafan1_to_unitree_g1_29dof.refined.json",
     "profile": "special",
     "use_stage2": true
   },
   "unitree_h1": {
-    "source": "/home/xsuper/GMR/general_motion_retargeting/ik_configs/bvh_lafan1_to_h1.json",
+    "source": "general_motion_retargeting/ik_configs/bvh_lafan1_to_h1.json",
     "refined": "general_motion_retargeting/ik_configs_refined/bvh_lafan1_to_unitree_h1.refined.json",
     "profile": "two_stage_medium_arm_conservative",
     "use_stage2": true
   },
   "unitree_h1_2": {
-    "source": "/home/xsuper/GMR/general_motion_retargeting/ik_configs/bvh_lafan1_to_h1_2.json",
+    "source": "general_motion_retargeting/ik_configs/bvh_lafan1_to_h1_2.json",
     "refined": "general_motion_retargeting/ik_configs_refined/bvh_lafan1_to_unitree_h1_2.refined.json",
     "profile": "two_stage_full_arm_conservative",
     "use_stage2": true
   },
   "agibot_a2": {
-    "source": "/home/xsuper/GMR/general_motion_retargeting/ik_configs/bvh_lafan1_to_a2.json",
+    "source": "general_motion_retargeting/ik_configs/bvh_lafan1_to_a2.json",
     "refined": "general_motion_retargeting/ik_configs_refined/bvh_lafan1_to_agibot_a2.refined.json",
     "profile": "single_stage_balanced",
     "use_stage2": false
   },
   "openloong": {
-    "source": "/home/xsuper/GMR/general_motion_retargeting/ik_configs/bvh_lafan1_to_openloong.json",
+    "source": "general_motion_retargeting/ik_configs/bvh_lafan1_to_openloong.json",
     "refined": "general_motion_retargeting/ik_configs_refined/bvh_lafan1_to_openloong.refined.json",
     "profile": "single_stage_balanced",
     "use_stage2": false

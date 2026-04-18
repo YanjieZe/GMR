@@ -22,6 +22,11 @@ MANIFEST = json.load(open(REFINED_DIR / 'manifest.json'))
 RUNNER = ROOT / 'scripts/run_headless_retarget_with_config.py'
 
 
+def resolve_manifest_path(path_str: str) -> Path:
+    path = Path(path_str)
+    return path if path.is_absolute() else ROOT / path
+
+
 def load_motion(path: Path):
     with open(path, 'rb') as f:
         return pickle.load(f)
@@ -72,7 +77,7 @@ for robot, info in MANIFEST.items():
         if not baseline_output.exists():
             subprocess.run([
                 sys.executable, str(RUNNER), '--bvh_file', str(SRC_BVH), '--robot', robot,
-                '--config_path', info['source'], '--output_dir', str(base_dir), '--scheme_name', 'baseline_cfg'
+                '--config_path', str(resolve_manifest_path(info['source'])), '--output_dir', str(base_dir), '--scheme_name', 'baseline_cfg'
             ], check=True)
         baseline_eval, detector_cfg = evaluate_motion(baseline_output, robot, None)
         (base_dir / 'evaluation.json').write_text(json.dumps(baseline_eval, indent=2))
@@ -81,7 +86,7 @@ for robot, info in MANIFEST.items():
             if not refined_output.exists():
                 subprocess.run([
                     sys.executable, str(RUNNER), '--bvh_file', str(SRC_BVH), '--robot', robot,
-                    '--config_path', info['refined'], '--output_dir', str(refined_dir), '--scheme_name', 'refined_cfg'
+                    '--config_path', str(resolve_manifest_path(info['refined'])), '--output_dir', str(refined_dir), '--scheme_name', 'refined_cfg'
                 ], check=True)
             refined_eval, _ = evaluate_motion(refined_output, robot, detector_cfg)
             (refined_dir / 'evaluation.json').write_text(json.dumps(refined_eval, indent=2))

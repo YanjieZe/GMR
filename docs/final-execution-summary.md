@@ -16,6 +16,10 @@ Completed work:
 8. Verified that `bvh_lafan1_selected` can instantiate GMR successfully for both:
    - a robot that truly uses a refined config (`unitree_g1_23dof`)
    - a robot whose selected config intentionally falls back to baseline (`booster_k1`)
+9. Removed stale worktree-bound absolute paths from the generated manifests and vendored the `unitree_g1_23dof` special seed so the selected/refined manifests remain portable inside the repository
+10. Ran final release-readiness audits:
+   - `logs/lafan1_config_refresh_validation/selected_integrity_audit.json`
+   - `logs/lafan1_config_refresh_validation/selected_smoke_all.json`
 
 ## Final decision summary
 

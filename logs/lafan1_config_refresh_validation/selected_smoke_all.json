@@ -1,0 +1,157 @@
+{
+  "results": [
+    {
+      "robot": "agibot_a2",
+      "decision": "blocked",
+      "ok": false,
+      "reason": "asset mesh missing in current environment"
+    },
+    {
+      "robot": "berkeley_humanoid_lite",
+      "decision": "refined",
+      "ok": true,
+      "error1_frame0": 4.311308645809662,
+      "error2_frame0": 0.0,
+      "config": "/home/xsuper/GMR-worktrees/master_lafan1_integration/general_motion_retargeting/ik_configs_selected/bvh_lafan1_to_berkeley_humanoid_lite.selected.json"
+    },
+    {
+      "robot": "booster_k1",
+      "decision": "baseline",
+      "ok": true,
+      "error1_frame0": 0.6345762506601395,
+      "error2_frame0": 0.6345762506601395,
+      "config": "/home/xsuper/GMR-worktrees/master_lafan1_integration/general_motion_retargeting/ik_configs_selected/bvh_lafan1_to_booster_k1.selected.json"
+    },
+    {
+      "robot": "booster_t1",
+      "decision": "baseline",
+      "ok": true,
+      "error1_frame0": 0.589947562199907,
+      "error2_frame0": 0.589947562199907,
+      "config": "/home/xsuper/GMR-worktrees/master_lafan1_integration/general_motion_retargeting/ik_configs_selected/bvh_lafan1_to_booster_t1.selected.json"
+    },
+    {
+      "robot": "booster_t1_29dof",
+      "decision": "baseline",
+      "ok": true,
+      "error1_frame0": 0.7320126525135155,
+      "error2_frame0": 0.7320126525135155,
+      "config": "/home/xsuper/GMR-worktrees/master_lafan1_integration/general_motion_retargeting/ik_configs_selected/bvh_lafan1_to_booster_t1_29dof.selected.json"
+    },
+    {
+      "robot": "engineai_pm01",
+      "decision": "baseline",
+      "ok": true,
+      "error1_frame0": 0.5508647817507056,
+      "error2_frame0": 0.5508647817507056,
+      "config": "/home/xsuper/GMR-worktrees/master_lafan1_integration/general_motion_retargeting/ik_configs_selected/bvh_lafan1_to_engineai_pm01.selected.json"
+    },
+    {
+      "robot": "fourier_gr3",
+      "decision": "baseline",
+      "ok": true,
+      "error1_frame0": 0.9001858234332618,
+      "error2_frame0": 0.9001858234332618,
+      "config": "/home/xsuper/GMR-worktrees/master_lafan1_integration/general_motion_retargeting/ik_configs_selected/bvh_lafan1_to_fourier_gr3.selected.json"
+    },
+    {
+      "robot": "fourier_n1",
+      "decision": "baseline",
+      "ok": true,
+      "error1_frame0": 0.6571459657523298,
+      "error2_frame0": 0.6571459657523298,
+      "config": "/home/xsuper/GMR-worktrees/master_lafan1_integration/general_motion_retargeting/ik_configs_selected/bvh_lafan1_to_fourier_n1.selected.json"
+    },
+    {
+      "robot": "hightorque_hi",
+      "decision": "baseline",
+      "ok": true,
+      "error1_frame0": 1.2250081659553649,
+      "error2_frame0": 1.2250081659553649,
+      "config": "/home/xsuper/GMR-worktrees/master_lafan1_integration/general_motion_retargeting/ik_configs_selected/bvh_lafan1_to_hightorque_hi.selected.json"
+    },
+    {
+      "robot": "kuavo_s45",
+      "decision": "baseline",
+      "ok": true,
+      "error1_frame0": 0.826754583136793,
+      "error2_frame0": 0.826754583136793,
+      "config": "/home/xsuper/GMR-worktrees/master_lafan1_integration/general_motion_retargeting/ik_configs_selected/bvh_lafan1_to_kuavo_s45.selected.json"
+    },
+    {
+      "robot": "openloong",
+      "decision": "refined",
+      "ok": true,
+      "error1_frame0": 2.251437178937881,
+      "error2_frame0": 0.0,
+      "config": "/home/xsuper/GMR-worktrees/master_lafan1_integration/general_motion_retargeting/ik_configs_selected/bvh_lafan1_to_openloong.selected.json"
+    },
+    {
+      "robot": "pal_talos",
+      "decision": "baseline",
+      "ok": true,
+      "error1_frame0": 1.455856998389888,
+      "error2_frame0": 0.22276929262818834,
+      "config": "/home/xsuper/GMR-worktrees/master_lafan1_integration/general_motion_retargeting/ik_configs_selected/bvh_lafan1_to_pal_talos.selected.json"
+    },
+    {
+      "robot": "pnd_adam_lite",
+      "decision": "refined",
+      "ok": true,
+      "error1_frame0": 0.9140028699131024,
+      "error2_frame0": 0.0,
+      "config": "/home/xsuper/GMR-worktrees/master_lafan1_integration/general_motion_retargeting/ik_configs_selected/bvh_lafan1_to_pnd_adam_lite.selected.json"
+    },
+    {
+      "robot": "stanford_toddy",
+      "decision": "baseline",
+      "ok": true,
+      "error1_frame0": 0.7421805531291191,
+      "error2_frame0": 0.7421805531291191,
+      "config": "/home/xsuper/GMR-worktrees/master_lafan1_integration/general_motion_retargeting/ik_configs_selected/bvh_lafan1_to_stanford_toddy.selected.json"
+    },
+    {
+      "robot": "tienkung",
+      "decision": "baseline",
+      "ok": true,
+      "error1_frame0": 1.0084109238606913,
+      "error2_frame0": 1.0084109238606913,
+      "config": "/home/xsuper/GMR-worktrees/master_lafan1_integration/general_motion_retargeting/ik_configs_selected/bvh_lafan1_to_tienkung.selected.json"
+    },
+    {
+      "robot": "unitree_g1_23dof",
+      "decision": "refined",
+      "ok": true,
+      "error1_frame0": 1.000762383644617,
+      "error2_frame0": 1.000762383644617,
+      "config": "/home/xsuper/GMR-worktrees/master_lafan1_integration/general_motion_retargeting/ik_configs_selected/bvh_lafan1_to_unitree_g1_23dof.selected.json"
+    },
+    {
+      "robot": "unitree_g1_29dof",
+      "decision": "refined",
+      "ok": true,
+      "error1_frame0": 0.7478504589644319,
+      "error2_frame0": 0.7478504589644319,
+      "config": "/home/xsuper/GMR-worktrees/master_lafan1_integration/general_motion_retargeting/ik_configs_selected/bvh_lafan1_to_unitree_g1_29dof.selected.json"
+    },
+    {
+      "robot": "unitree_h1",
+      "decision": "baseline",
+      "ok": true,
+      "error1_frame0": 0.6851074324336638,
+      "error2_frame0": 0.6851074324336638,
+      "config": "/home/xsuper/GMR-worktrees/master_lafan1_integration/general_motion_retargeting/ik_configs_selected/bvh_lafan1_to_unitree_h1.selected.json"
+    },
+    {
+      "robot": "unitree_h1_2",
+      "decision": "baseline",
+      "ok": true,
+      "error1_frame0": 0.6369130737014622,
+      "error2_frame0": 0.6369130737014622,
+      "config": "/home/xsuper/GMR-worktrees/master_lafan1_integration/general_motion_retargeting/ik_configs_selected/bvh_lafan1_to_unitree_h1_2.selected.json"
+    }
+  ],
+  "ok_count": 18,
+  "fail_count": 0,
+  "blocked_count": 1
+}

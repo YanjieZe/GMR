@@ -3,8 +3,18 @@ import json
 from pathlib import Path
 from general_motion_retargeting.params import IK_CONFIG_DICT, IK_CONFIG_ROOT
 
-OUT = Path('general_motion_retargeting/ik_configs_refined')
+ROOT = Path(__file__).resolve().parents[1]
+OUT = ROOT / 'general_motion_retargeting' / 'ik_configs_refined'
+SEED_DIR = ROOT / 'general_motion_retargeting' / 'ik_configs_refined_seeds'
 OUT.mkdir(parents=True, exist_ok=True)
+
+
+def portable_path(path: Path) -> str:
+    path = path.resolve()
+    try:
+        return str(path.relative_to(ROOT))
+    except ValueError:
+        return str(path)
 
 # explicit extras not currently wired in params for bvh_lafan1 mapping
 EXTRA = {
@@ -65,8 +75,8 @@ def load_json(path):
     with open(path) as f:
         return json.load(f)
 
-G1_23_BEST = load_json(Path('/home/xsuper/GMR/logs/g1_23_fine_torso_support/configs/elbow30_wrist20.json'))
-G1_29_CONSERVATIVE = load_json(Path('/home/xsuper/GMR/general_motion_retargeting/ik_configs/bvh_lafan1_to_g1.json'))
+G1_23_BEST = load_json(SEED_DIR / 'unitree_g1_23dof.elbow30_wrist20.json')
+G1_29_CONSERVATIVE = load_json(ROOT / 'general_motion_retargeting' / 'ik_configs' / 'bvh_lafan1_to_g1.json')
 # conservative 29dof refresh philosophy: light stage1 position, stage2 torso support and moderate shoulder conflict reduction
 for table in ['ik_match_table1','ik_match_table2']:
     pass
@@ -139,7 +149,12 @@ for robot, path in mapping.items():
             profile = 'two_stage_medium_arm_conservative'
     out_path = OUT / f'bvh_lafan1_to_{robot}.refined.json'
     out_path.write_text(json.dumps(new_cfg, indent=2))
-    manifest[robot] = {'source': str(path), 'refined': str(out_path), 'profile': profile, 'use_stage2': bool(new_cfg.get('use_ik_match_table2', False))}
+    manifest[robot] = {
+        'source': portable_path(path),
+        'refined': portable_path(out_path),
+        'profile': profile,
+        'use_stage2': bool(new_cfg.get('use_ik_match_table2', False)),
+    }
 
 (OUT / 'manifest.json').write_text(json.dumps(manifest, indent=2))
-print(json.dumps({'count': len(manifest), 'out_dir': str(OUT), 'manifest': str(OUT/'manifest.json')}, indent=2))
+print(json.dumps({'count': len(manifest), 'out_dir': portable_path(OUT), 'manifest': portable_path(OUT/'manifest.json')}, indent=2))
