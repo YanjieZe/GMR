@@ -1,0 +1,251 @@
+{
+  "robot_root_name": "torso",
+  "human_root_name": "Hips",
+  "ground_height": 0.0,
+  "human_height_assumption": 1.8,
+  "use_ik_match_table1": true,
+  "use_ik_match_table2": false,
+  "human_scale_table": {
+    "Hips": 0.9,
+    "Spine2": 0.9,
+    "LeftUpLeg": 0.9,
+    "RightUpLeg": 0.9,
+    "LeftLeg": 0.9,
+    "RightLeg": 0.9,
+    "LeftFootMod": 0.9,
+    "RightFootMod": 0.9,
+    "LeftArm": 0.75,
+    "RightArm": 0.75,
+    "LeftForeArm": 0.75,
+    "RightForeArm": 0.75,
+    "LeftHand": 0.75,
+    "RightHand": 0.75
+  },
+  "ik_match_table1": {
+    "torso": [
+      "Hips",
+      100,
+      10,
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    ],
+    "left_hip_pitch": [
+      "LeftUpLeg",
+      3,
+      10,
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        -0.5,
+        0.5,
+        0.5,
+        -0.5
+      ]
+    ],
+    "left_tarsus": [
+      "LeftLeg",
+      3,
+      10,
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        -0.5,
+        0.5,
+        0.5,
+        -0.5
+      ]
+    ],
+    "left_toe_roll": [
+      "LeftFootMod",
+      60,
+      10,
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        -0.70710678,
+        0.70710678,
+        0.0,
+        0.0
+      ]
+    ],
+    "right_hip_pitch": [
+      "RightUpLeg",
+      3,
+      10,
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        -0.5,
+        0.5,
+        0.5,
+        -0.5
+      ]
+    ],
+    "right_tarsus": [
+      "RightLeg",
+      3,
+      10,
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        -0.5,
+        0.5,
+        0.5,
+        -0.5
+      ]
+    ],
+    "right_toe_roll": [
+      "RightFootMod",
+      60,
+      10,
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        -0.70710678,
+        0.70710678,
+        0.0,
+        0.0
+      ]
+    ],
+    "left-arm-link2": [
+      "LeftArm",
+      5,
+      60,
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.5,
+        0.5,
+        -0.5,
+        -0.5
+      ]
+    ],
+    "left-arm-link4": [
+      "LeftForeArm",
+      3,
+      10,
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.70710678,
+        0.70710678,
+        0.0,
+        0.0
+      ]
+    ],
+    "left-arm-link7": [
+      "LeftHand",
+      3,
+      10,
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.70710678,
+        0.70710678,
+        0.0,
+        0.0
+      ]
+    ],
+    "right-arm-link2": [
+      "RightArm",
+      5,
+      60,
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.5,
+        0.5,
+        -0.5,
+        -0.5
+      ]
+    ],
+    "right-arm-link4": [
+      "RightForeArm",
+      3,
+      10,
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.70710678,
+        0.70710678,
+        0.0,
+        0.0
+      ]
+    ],
+    "right-arm-link7": [
+      "RightHand",
+      3,
+      10,
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.70710678,
+        0.70710678,
+        0.0,
+        0.0
+      ]
+    ],
+    "head_pitch": [
+      "Spine2",
+      3,
+      70,
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    ]
+  },
+  "ik_match_table2": {}
+}

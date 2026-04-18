@@ -1,0 +1,116 @@
+{
+  "agibot_a2": {
+    "decision": "blocked",
+    "reason": "asset mesh missing in current environment",
+    "source_config": "/home/xsuper/GMR/general_motion_retargeting/ik_configs/bvh_lafan1_to_a2.json",
+    "selected_config": null
+  },
+  "berkeley_humanoid_lite": {
+    "decision": "refined",
+    "reason": "single-stage mid template improved representative validation",
+    "source_config": "/home/xsuper/GMR-worktrees/lafan1_config_refresh/logs/profile_tuning_v2/configs/berkeley_humanoid_lite.single_stage.mid.json",
+    "selected_config": "/home/xsuper/GMR-worktrees/lafan1_config_refresh/general_motion_retargeting/ik_configs_selected/bvh_lafan1_to_berkeley_humanoid_lite.selected.json"
+  },
+  "booster_k1": {
+    "decision": "baseline",
+    "reason": "no validated improvement from template search yet",
+    "source_config": "/home/xsuper/GMR/general_motion_retargeting/ik_configs/bvh_lafan1_to_k1.json",
+    "selected_config": "/home/xsuper/GMR-worktrees/lafan1_config_refresh/general_motion_retargeting/ik_configs_selected/bvh_lafan1_to_booster_k1.selected.json"
+  },
+  "booster_t1": {
+    "decision": "baseline",
+    "reason": "no validated improvement from template search yet",
+    "source_config": "/home/xsuper/GMR/general_motion_retargeting/ik_configs/bvh_lafan1_to_t1.json",
+    "selected_config": "/home/xsuper/GMR-worktrees/lafan1_config_refresh/general_motion_retargeting/ik_configs_selected/bvh_lafan1_to_booster_t1.selected.json"
+  },
+  "booster_t1_29dof": {
+    "decision": "baseline",
+    "reason": "no validated improvement from template search yet",
+    "source_config": "/home/xsuper/GMR/general_motion_retargeting/ik_configs/bvh_lafan1_to_t1_29dof.json",
+    "selected_config": "/home/xsuper/GMR-worktrees/lafan1_config_refresh/general_motion_retargeting/ik_configs_selected/bvh_lafan1_to_booster_t1_29dof.selected.json"
+  },
+  "engineai_pm01": {
+    "decision": "baseline",
+    "reason": "no validated improvement from template search yet",
+    "source_config": "/home/xsuper/GMR/general_motion_retargeting/ik_configs/bvh_lafan1_to_pm01.json",
+    "selected_config": "/home/xsuper/GMR-worktrees/lafan1_config_refresh/general_motion_retargeting/ik_configs_selected/bvh_lafan1_to_engineai_pm01.selected.json"
+  },
+  "fourier_gr3": {
+    "decision": "baseline",
+    "reason": "no validated improvement from template search yet",
+    "source_config": "/home/xsuper/GMR/general_motion_retargeting/ik_configs/bvh_lafan1_to_gr3.json",
+    "selected_config": "/home/xsuper/GMR-worktrees/lafan1_config_refresh/general_motion_retargeting/ik_configs_selected/bvh_lafan1_to_fourier_gr3.selected.json"
+  },
+  "fourier_n1": {
+    "decision": "baseline",
+    "reason": "no validated improvement from template search yet",
+    "source_config": "/home/xsuper/GMR/general_motion_retargeting/ik_configs/bvh_lafan1_to_n1.json",
+    "selected_config": "/home/xsuper/GMR-worktrees/lafan1_config_refresh/general_motion_retargeting/ik_configs_selected/bvh_lafan1_to_fourier_n1.selected.json"
+  },
+  "hightorque_hi": {
+    "decision": "baseline",
+    "reason": "no validated improvement from template search yet",
+    "source_config": "/home/xsuper/GMR/general_motion_retargeting/ik_configs/bvh_lafan1_to_hi.json",
+    "selected_config": "/home/xsuper/GMR-worktrees/lafan1_config_refresh/general_motion_retargeting/ik_configs_selected/bvh_lafan1_to_hightorque_hi.selected.json"
+  },
+  "kuavo_s45": {
+    "decision": "baseline",
+    "reason": "no validated improvement from template search yet",
+    "source_config": "/home/xsuper/GMR/general_motion_retargeting/ik_configs/bvh_lafan1_to_kuavo.json",
+    "selected_config": "/home/xsuper/GMR-worktrees/lafan1_config_refresh/general_motion_retargeting/ik_configs_selected/bvh_lafan1_to_kuavo_s45.selected.json"
+  },
+  "openloong": {
+    "decision": "refined",
+    "reason": "single-stage mid template improved representative validation",
+    "source_config": "/home/xsuper/GMR-worktrees/lafan1_config_refresh/logs/profile_tuning_v2/configs/openloong.single_stage.mid.json",
+    "selected_config": "/home/xsuper/GMR-worktrees/lafan1_config_refresh/general_motion_retargeting/ik_configs_selected/bvh_lafan1_to_openloong.selected.json"
+  },
+  "pal_talos": {
+    "decision": "baseline",
+    "reason": "no validated improvement from template search yet",
+    "source_config": "/home/xsuper/GMR/general_motion_retargeting/ik_configs/bvh_lafan1_to_talos.json",
+    "selected_config": "/home/xsuper/GMR-worktrees/lafan1_config_refresh/general_motion_retargeting/ik_configs_selected/bvh_lafan1_to_pal_talos.selected.json"
+  },
+  "pnd_adam_lite": {
+    "decision": "refined",
+    "reason": "single-stage mid template improved representative validation",
+    "source_config": "/home/xsuper/GMR-worktrees/lafan1_config_refresh/logs/profile_tuning_v2/configs/pnd_adam_lite.single_stage.mid.json",
+    "selected_config": "/home/xsuper/GMR-worktrees/lafan1_config_refresh/general_motion_retargeting/ik_configs_selected/bvh_lafan1_to_pnd_adam_lite.selected.json"
+  },
+  "stanford_toddy": {
+    "decision": "baseline",
+    "reason": "no validated improvement from template search yet",
+    "source_config": "/home/xsuper/GMR/general_motion_retargeting/ik_configs/bvh_lafan1_to_toddy.json",
+    "selected_config": "/home/xsuper/GMR-worktrees/lafan1_config_refresh/general_motion_retargeting/ik_configs_selected/bvh_lafan1_to_stanford_toddy.selected.json"
+  },
+  "tienkung": {
+    "decision": "baseline",
+    "reason": "no validated improvement from template search yet",
+    "source_config": "/home/xsuper/GMR/general_motion_retargeting/ik_configs/bvh_lafan1_to_tienkung.json",
+    "selected_config": "/home/xsuper/GMR-worktrees/lafan1_config_refresh/general_motion_retargeting/ik_configs_selected/bvh_lafan1_to_tienkung.selected.json"
+  },
+  "unitree_g1_23dof": {
+    "decision": "refined",
+    "reason": "special robot-specific tuned balance config validated",
+    "source_config": "/home/xsuper/GMR/logs/g1_23_fine_torso_support/configs/elbow30_wrist20.json",
+    "selected_config": "/home/xsuper/GMR-worktrees/lafan1_config_refresh/general_motion_retargeting/ik_configs_selected/bvh_lafan1_to_unitree_g1_23dof.selected.json"
+  },
+  "unitree_g1_29dof": {
+    "decision": "refined",
+    "reason": "special conservative g1_29 config validated with positive score reduction",
+    "source_config": "/home/xsuper/GMR-worktrees/lafan1_config_refresh/general_motion_retargeting/ik_configs_refined/bvh_lafan1_to_unitree_g1_29dof.refined.json",
+    "selected_config": "/home/xsuper/GMR-worktrees/lafan1_config_refresh/general_motion_retargeting/ik_configs_selected/bvh_lafan1_to_unitree_g1_29dof.selected.json"
+  },
+  "unitree_h1": {
+    "decision": "baseline",
+    "reason": "no validated improvement from template search yet",
+    "source_config": "/home/xsuper/GMR/general_motion_retargeting/ik_configs/bvh_lafan1_to_h1.json",
+    "selected_config": "/home/xsuper/GMR-worktrees/lafan1_config_refresh/general_motion_retargeting/ik_configs_selected/bvh_lafan1_to_unitree_h1.selected.json"
+  },
+  "unitree_h1_2": {
+    "decision": "baseline",
+    "reason": "no validated improvement from template search yet",
+    "source_config": "/home/xsuper/GMR/general_motion_retargeting/ik_configs/bvh_lafan1_to_h1_2.json",
+    "selected_config": "/home/xsuper/GMR-worktrees/lafan1_config_refresh/general_motion_retargeting/ik_configs_selected/bvh_lafan1_to_unitree_h1_2.selected.json"
+  }
+}

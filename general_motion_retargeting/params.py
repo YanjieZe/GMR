@@ -4,6 +4,20 @@ HERE = pathlib.Path(__file__).parent
 IK_CONFIG_ROOT = HERE / "ik_configs"
 ASSET_ROOT = HERE / ".." / "assets"
 
+IK_CONFIG_REFINED_ROOT = HERE / "ik_configs_refined"
+IK_CONFIG_SELECTED_ROOT = HERE / "ik_configs_selected"
+
+def _build_optional_lafan1_mapping(root_dir):
+    if not root_dir.exists():
+        return {}
+    mapping = {}
+    for path in sorted(root_dir.glob('bvh_lafan1_to_*.json')):
+        stem = path.stem
+        robot = stem[len('bvh_lafan1_to_'):-len('.selected')] if stem.endswith('.selected') else stem[len('bvh_lafan1_to_'):-len('.refined')] if stem.endswith('.refined') else stem[len('bvh_lafan1_to_'):]
+        mapping[robot] = path
+    return mapping
+
+
 ROBOT_XML_DICT = {
     "agibot_a2": ASSET_ROOT / "agibot_a2" / "mujoco" / "model.xml",
     "berkeley_humanoid_lite": ASSET_ROOT / "berkeley_humanoid_lite" / "berkeley_humanoid_lite.xml",
@@ -153,3 +167,10 @@ VIEWER_CAM_DISTANCE_DICT = {
     "unitree_h1": 3.0,
     "unitree_h1_2": 3.0,
 }
+
+
+# Optional generated mappings for LAFAN1 config refresh workflows.
+if 'bvh_lafan1_refined' not in IK_CONFIG_DICT:
+    IK_CONFIG_DICT['bvh_lafan1_refined'] = _build_optional_lafan1_mapping(IK_CONFIG_REFINED_ROOT)
+if 'bvh_lafan1_selected' not in IK_CONFIG_DICT:
+    IK_CONFIG_DICT['bvh_lafan1_selected'] = _build_optional_lafan1_mapping(IK_CONFIG_SELECTED_ROOT)

@@ -113,3 +113,22 @@ yaml_to_flat_csv.py
 
 compute_rotation.py
 .omx/
+
+# Generated validation artifacts (reproducible; do not commit raw outputs)
+logs/lafan1_config_refresh_validation/*/baseline/output.pkl
+logs/lafan1_config_refresh_validation/*/baseline/telemetry.json
+logs/lafan1_config_refresh_validation/*/baseline/manifest.json
+logs/lafan1_config_refresh_validation/*/baseline/evaluation.json
+logs/lafan1_config_refresh_validation/*/refined/output.pkl
+logs/lafan1_config_refresh_validation/*/refined/telemetry.json
+logs/lafan1_config_refresh_validation/*/refined/manifest.json
+logs/lafan1_config_refresh_validation/*/refined/evaluation.json
+logs/profile_tuning_v2/results_a/*/output.pkl
+logs/profile_tuning_v2/results_a/*/telemetry.json
+logs/profile_tuning_v2/results_a/*/manifest.json
+logs/profile_tuning_v2/results_b/*/output.pkl
+logs/profile_tuning_v2/results_b/*/telemetry.json
+logs/profile_tuning_v2/results_b/*/manifest.json
+logs/profile_tuning_v3/results/*/output.pkl
+logs/profile_tuning_v3/results/*/telemetry.json
+logs/profile_tuning_v3/results/*/manifest.json

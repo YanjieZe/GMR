@@ -1,0 +1,479 @@
+{
+    "robot_root_name": "base_link",
+    "human_root_name": "Hips",
+    "ground_height": 0.0,
+    "human_height_assumption": 1.8,
+    "use_ik_match_table1": true,
+    "use_ik_match_table2": true,
+    "human_scale_table": {
+        "Hips": 0.8,
+        "Spine2": 0.8,
+
+        "LeftUpLeg": 0.8,
+        "RightUpLeg": 0.8,
+        "LeftLeg": 0.8,
+        "RightLeg": 0.8,
+        "LeftFootMod": 0.8,
+        "RightFootMod": 0.8,
+
+        "LeftArm": 0.8,
+        "RightArm": 0.8,
+        "LeftForeArm": 0.8,
+        "RightForeArm": 0.8,
+        "LeftHand": 0.8,
+        "RightHand": 0.8
+    },
+
+    "ik_match_table1": {
+        "base_link": [
+            "Hips",
+            50,
+            10,
+            [
+                0.0,
+                0.0,
+                0.0
+            ],
+            [
+                0.5,
+                0.5,
+                0.5,
+                0.5
+            ]
+        ],
+        "left_thigh_roll_link": [
+            "LeftUpLeg",
+            0,
+            10,
+            [
+                0.0,
+                0.0,
+                0.0
+            ],
+            [
+                -0.5,
+                0.5,
+                0.5,
+                -0.5
+            ]
+        ],
+        "left_shank_pitch_link": [
+            "LeftLeg",
+            0,
+            10,
+            [
+                0.0,
+                0.0,
+                0.0
+            ],
+            [
+                -0.5,
+                0.5,
+                0.5,
+                -0.5
+            ]
+        ],
+        "left_foot_pitch_link": [
+            "LeftFootMod",
+            100,
+            50,
+            [
+                0.0,
+                0.0,
+                0.0
+            ],
+            [
+                -0.70710678,
+                0.70710678,
+                0.0,
+                0.0
+            ]
+        ],
+        "right_thigh_roll_link": [
+            "RightUpLeg",
+            0,
+            10,
+            [
+                0.0,
+                0.0,
+                0.0
+            ],
+            [
+                -0.5,
+                0.5,
+                0.5,
+                -0.5
+            ]
+        ],
+        "right_shank_pitch_link": [
+            "RightLeg",
+            0,
+            10,
+            [
+                0.0,
+                0.0,
+                0.0
+            ],
+            [
+                -0.5,
+                0.5,
+                0.5,
+                -0.5
+            ]
+        ],
+        "right_foot_pitch_link": [
+            "RightFootMod",
+            100,
+            50,
+            [
+                0.0,
+                0.0,
+                0.0
+            ],
+            [
+                -0.70710678,
+                0.70710678,
+                0.0,
+                0.0
+            ]
+        ],
+        "torso_link": [
+            "Spine2",
+            0,
+            10,
+            [
+                0.0,
+                0.0,
+                0.0
+            ],
+            [
+                0.5,
+                0.5,
+                0.5,
+                0.5
+            ]
+        ],
+        "left_upper_arm_roll_link": [
+            "LeftArm",
+            0,
+            10,
+            [
+                0.0,
+                0.0,
+                0.0
+            ],
+            [
+                0.5,
+                0.5,
+                -0.5,
+                -0.5
+            ]
+        ],
+        "left_lower_arm_pitch_link": [
+            "LeftForeArm",
+            0,
+            10,
+            [
+                0.0,
+                0.0,
+                0.0
+            ],
+            [
+                -0.5,
+                -0.5,
+                0.5,
+                0.5
+            ]
+        ],
+        "left_end_effector_link": [
+            "LeftHand",
+            0,
+            10,
+            [
+                0.0,
+                0.0,
+                0.0
+            ],
+            [
+                -0.5,
+                -0.5,
+                0.5,
+                0.5
+            ]
+        ],
+        "right_upper_arm_roll_link": [
+            "RightArm",
+            0,
+            10,
+            [
+                0.0,
+                0.0,
+                0.0
+            ],
+            [
+                0.5,
+                0.5,
+                -0.5,
+                -0.5
+            ]
+        ],
+        "right_lower_arm_pitch_link": [
+            "RightForeArm",
+            0,
+            10,
+            [
+                0.0,
+                0.0,
+                0.0
+            ],
+            [
+                -0.5,
+                -0.5,
+                0.5,
+                0.5
+            ]
+        ],
+        "right_end_effector_link": [
+            "RightHand",
+            0,
+            10,
+            [
+                0.0,
+                0.0,
+                0.0
+            ],
+            [
+                -0.5,
+                -0.5,
+                0.5,
+                0.5
+            ]
+        ]
+    },
+    "ik_match_table2": {
+        "base_link": [
+            "Hips",
+            10,
+            5,
+            [
+                0.0,
+                0.0,
+                0.0
+            ],
+            [
+                0.5,
+                0.5,
+                0.5,
+                0.5
+            ]
+        ],
+        "left_thigh_roll_link": [
+            "LeftUpLeg",
+            10,
+            5,
+            [
+                0.0,
+                0.0,
+                0.0
+            ],
+            [
+                -0.5,
+                0.5,
+                0.5,
+                -0.5
+            ]
+        ],
+        "left_shank_pitch_link": [
+            "LeftLeg",
+            10,
+            5,
+            [
+                0.0,
+                0.0,
+                0.0
+            ],
+            [
+                -0.5,
+                0.5,
+                0.5,
+                -0.5
+            ]
+        ],
+        "left_foot_pitch_link": [
+            "LeftFootMod",
+            100,
+            50,
+            [
+                0.0,
+                0.0,
+                0.0
+            ],
+            [
+                -0.70710678,
+                0.70710678,
+                0.0,
+                0.0
+            ]
+        ],
+        "right_thigh_roll_link": [
+            "RightUpLeg",
+            10,
+            5,
+            [
+                0.0,
+                0.0,
+                0.0
+            ],
+            [
+                -0.5,
+                0.5,
+                0.5,
+                -0.5
+            ]
+        ],
+        "right_shank_pitch_link": [
+            "RightLeg",
+            10,
+            5,
+            [
+                0.0,
+                0.0,
+                0.0
+            ],
+            [
+                -0.5,
+                0.5,
+                0.5,
+                -0.5
+            ]
+        ],
+        "right_foot_pitch_link": [
+            "RightFootMod",
+            100,
+            50,
+            [
+                0.0,
+                0.0,
+                0.0
+            ],
+            [
+                -0.70710678,
+                0.70710678,
+                0.0,
+                0.0
+            ]
+        ],
+        "torso_link": [
+            "Spine2",
+            0,
+            10,
+            [
+                0.0,
+                0.0,
+                0.0
+            ],
+            [
+                0.5,
+                0.5,
+                0.5,
+                0.5
+            ]
+        ],
+        "left_upper_arm_roll_link": [
+            "LeftArm",
+            5,
+            10,
+            [
+                0.0,
+                0.0,
+                0.0
+            ],
+            [
+                0.5,
+                0.5,
+                -0.5,
+                -0.5
+            ]
+        ],
+        "left_lower_arm_pitch_link": [
+            "LeftForeArm",
+            10,
+            5,
+            [
+                0.0,
+                0.0,
+                0.0
+            ],
+            [
+                -0.5,
+                -0.5,
+                0.5,
+                0.5
+            ]
+        ],
+        "left_end_effector_link": [
+            "LeftHand",
+            10,
+            5,
+            [
+                0.0,
+                0.0,
+                0.0
+            ],
+            [
+                -0.5,
+                -0.5,
+                0.5,
+                0.5
+            ]
+        ],
+        "right_upper_arm_roll_link": [
+            "RightArm",
+            5,
+            10,
+            [
+                0.0,
+                0.0,
+                0.0
+            ],
+            [
+                0.5,
+                0.5,
+                -0.5,
+                -0.5
+            ]
+        ],
+        "right_lower_arm_pitch_link": [
+            "RightForeArm",
+            10,
+            5,
+            [
+                0.0,
+                0.0,
+                0.0
+            ],
+            [
+                -0.5,
+                -0.5,
+                0.5,
+                0.5
+            ]
+        ],
+        "right_end_effector_link": [
+            "RightHand",
+            10,
+            5,
+            [
+                0.0,
+                0.0,
+                0.0
+            ],
+            [
+                -0.5,
+                -0.5,
+                0.5,
+                0.5
+            ]
+        ]
+    }
+}

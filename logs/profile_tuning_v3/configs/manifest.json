@@ -1,0 +1,86 @@
+{
+  "booster_k1.two_stage_medium.v3.lite.json": {
+    "robot": "booster_k1",
+    "group": "two_stage_medium",
+    "level": "lite",
+    "source": "/home/xsuper/GMR-worktrees/lafan1_config_refresh/general_motion_retargeting/ik_configs/bvh_lafan1_to_k1.json"
+  },
+  "booster_k1.two_stage_medium.v3.mid.json": {
+    "robot": "booster_k1",
+    "group": "two_stage_medium",
+    "level": "mid",
+    "source": "/home/xsuper/GMR-worktrees/lafan1_config_refresh/general_motion_retargeting/ik_configs/bvh_lafan1_to_k1.json"
+  },
+  "booster_t1.two_stage_medium.v3.lite.json": {
+    "robot": "booster_t1",
+    "group": "two_stage_medium",
+    "level": "lite",
+    "source": "/home/xsuper/GMR-worktrees/lafan1_config_refresh/general_motion_retargeting/ik_configs/bvh_lafan1_to_t1.json"
+  },
+  "booster_t1.two_stage_medium.v3.mid.json": {
+    "robot": "booster_t1",
+    "group": "two_stage_medium",
+    "level": "mid",
+    "source": "/home/xsuper/GMR-worktrees/lafan1_config_refresh/general_motion_retargeting/ik_configs/bvh_lafan1_to_t1.json"
+  },
+  "unitree_h1.two_stage_medium.v3.lite.json": {
+    "robot": "unitree_h1",
+    "group": "two_stage_medium",
+    "level": "lite",
+    "source": "/home/xsuper/GMR-worktrees/lafan1_config_refresh/general_motion_retargeting/ik_configs/bvh_lafan1_to_h1.json"
+  },
+  "unitree_h1.two_stage_medium.v3.mid.json": {
+    "robot": "unitree_h1",
+    "group": "two_stage_medium",
+    "level": "mid",
+    "source": "/home/xsuper/GMR-worktrees/lafan1_config_refresh/general_motion_retargeting/ik_configs/bvh_lafan1_to_h1.json"
+  },
+  "engineai_pm01.two_stage_full.v3.lite.json": {
+    "robot": "engineai_pm01",
+    "group": "two_stage_full",
+    "level": "lite",
+    "source": "/home/xsuper/GMR-worktrees/lafan1_config_refresh/general_motion_retargeting/ik_configs/bvh_lafan1_to_pm01.json"
+  },
+  "engineai_pm01.two_stage_full.v3.mid.json": {
+    "robot": "engineai_pm01",
+    "group": "two_stage_full",
+    "level": "mid",
+    "source": "/home/xsuper/GMR-worktrees/lafan1_config_refresh/general_motion_retargeting/ik_configs/bvh_lafan1_to_pm01.json"
+  },
+  "stanford_toddy.two_stage_full.v3.lite.json": {
+    "robot": "stanford_toddy",
+    "group": "two_stage_full",
+    "level": "lite",
+    "source": "/home/xsuper/GMR-worktrees/lafan1_config_refresh/general_motion_retargeting/ik_configs/bvh_lafan1_to_toddy.json"
+  },
+  "stanford_toddy.two_stage_full.v3.mid.json": {
+    "robot": "stanford_toddy",
+    "group": "two_stage_full",
+    "level": "mid",
+    "source": "/home/xsuper/GMR-worktrees/lafan1_config_refresh/general_motion_retargeting/ik_configs/bvh_lafan1_to_toddy.json"
+  },
+  "unitree_h1_2.two_stage_full.v3.lite.json": {
+    "robot": "unitree_h1_2",
+    "group": "two_stage_full",
+    "level": "lite",
+    "source": "/home/xsuper/GMR-worktrees/lafan1_config_refresh/general_motion_retargeting/ik_configs/bvh_lafan1_to_h1_2.json"
+  },
+  "unitree_h1_2.two_stage_full.v3.mid.json": {
+    "robot": "unitree_h1_2",
+    "group": "two_stage_full",
+    "level": "mid",
+    "source": "/home/xsuper/GMR-worktrees/lafan1_config_refresh/general_motion_retargeting/ik_configs/bvh_lafan1_to_h1_2.json"
+  },
+  "pal_talos.two_stage_partial.v3.lite.json": {
+    "robot": "pal_talos",
+    "group": "two_stage_partial",
+    "level": "lite",
+    "source": "/home/xsuper/GMR-worktrees/lafan1_config_refresh/general_motion_retargeting/ik_configs/bvh_lafan1_to_talos.json"
+  },
+  "pal_talos.two_stage_partial.v3.mid.json": {
+    "robot": "pal_talos",
+    "group": "two_stage_partial",
+    "level": "mid",
+    "source": "/home/xsuper/GMR-worktrees/lafan1_config_refresh/general_motion_retargeting/ik_configs/bvh_lafan1_to_talos.json"
+  }
+}

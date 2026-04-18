@@ -1,0 +1,217 @@
+{
+  "robot_root_name": "pelvis",
+  "human_root_name": "Hips",
+  "ground_height": -0.05,
+  "human_height_assumption": 1.8,
+  "use_ik_match_table1": true,
+  "use_ik_match_table2": false,
+  "human_scale_table": {
+    "Hips": 1.1,
+    "Spine2": 1.1,
+    "LeftUpLeg": 1.1,
+    "RightUpLeg": 1.1,
+    "LeftLeg": 1.1,
+    "RightLeg": 1.1,
+    "LeftFootMod": 1.1,
+    "RightFootMod": 1.1,
+    "LeftArm": 1.1,
+    "RightArm": 1.1,
+    "LeftForeArm": 1.1,
+    "RightForeArm": 1.1
+  },
+  "ik_match_table1": {
+    "pelvis": [
+      "Hips",
+      100,
+      10,
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    ],
+    "hipRollLeft": [
+      "LeftUpLeg",
+      2,
+      10,
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.426776,
+        -0.426776,
+        -0.563793,
+        0.563793
+      ]
+    ],
+    "shinLeft": [
+      "LeftLeg",
+      2,
+      10,
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.5,
+        -0.5,
+        -0.5,
+        0.5
+      ]
+    ],
+    "toeLeft": [
+      "LeftFootMod",
+      100,
+      10,
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.707107,
+        -0.707107,
+        0.0,
+        0.0
+      ]
+    ],
+    "hipRollRight": [
+      "RightUpLeg",
+      2,
+      10,
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.426776,
+        -0.426776,
+        -0.563793,
+        0.563793
+      ]
+    ],
+    "shinRight": [
+      "RightLeg",
+      2,
+      10,
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.5,
+        -0.5,
+        -0.5,
+        0.5
+      ]
+    ],
+    "toeRight": [
+      "RightFootMod",
+      100,
+      10,
+      [
+        -0.0,
+        -0.0,
+        0.0
+      ],
+      [
+        0.707107,
+        -0.707107,
+        0.0,
+        0.0
+      ]
+    ],
+    "torso": [
+      "Spine2",
+      2,
+      80,
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    ],
+    "shoulderRollLeft": [
+      "LeftArm",
+      3,
+      70,
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.5,
+        0.5,
+        -0.5,
+        -0.5
+      ]
+    ],
+    "elbowLeft": [
+      "LeftForeArm",
+      2,
+      10,
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        -0.5,
+        -0.5,
+        0.5,
+        0.5
+      ]
+    ],
+    "shoulderRollRight": [
+      "RightArm",
+      3,
+      70,
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.5,
+        0.5,
+        -0.5,
+        -0.5
+      ]
+    ],
+    "elbowRight": [
+      "RightForeArm",
+      2,
+      10,
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.5,
+        0.5,
+        -0.5,
+        -0.5
+      ]
+    ]
+  },
+  "ik_match_table2": {}
+}

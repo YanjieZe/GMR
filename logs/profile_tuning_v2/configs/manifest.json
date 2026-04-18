@@ -1,0 +1,122 @@
+{
+  "berkeley_humanoid_lite.single_stage.light.json": {
+    "robot": "berkeley_humanoid_lite",
+    "group": "single_stage",
+    "level": "light",
+    "source": "/home/xsuper/GMR-worktrees/lafan1_config_refresh/general_motion_retargeting/ik_configs/bvh_lafan1_to_bhl.json"
+  },
+  "berkeley_humanoid_lite.single_stage.mid.json": {
+    "robot": "berkeley_humanoid_lite",
+    "group": "single_stage",
+    "level": "mid",
+    "source": "/home/xsuper/GMR-worktrees/lafan1_config_refresh/general_motion_retargeting/ik_configs/bvh_lafan1_to_bhl.json"
+  },
+  "pnd_adam_lite.single_stage.light.json": {
+    "robot": "pnd_adam_lite",
+    "group": "single_stage",
+    "level": "light",
+    "source": "/home/xsuper/GMR-worktrees/lafan1_config_refresh/general_motion_retargeting/ik_configs/bvh_lafan1_to_adam.json"
+  },
+  "pnd_adam_lite.single_stage.mid.json": {
+    "robot": "pnd_adam_lite",
+    "group": "single_stage",
+    "level": "mid",
+    "source": "/home/xsuper/GMR-worktrees/lafan1_config_refresh/general_motion_retargeting/ik_configs/bvh_lafan1_to_adam.json"
+  },
+  "openloong.single_stage.light.json": {
+    "robot": "openloong",
+    "group": "single_stage",
+    "level": "light",
+    "source": "/home/xsuper/GMR-worktrees/lafan1_config_refresh/general_motion_retargeting/ik_configs/bvh_lafan1_to_openloong.json"
+  },
+  "openloong.single_stage.mid.json": {
+    "robot": "openloong",
+    "group": "single_stage",
+    "level": "mid",
+    "source": "/home/xsuper/GMR-worktrees/lafan1_config_refresh/general_motion_retargeting/ik_configs/bvh_lafan1_to_openloong.json"
+  },
+  "booster_k1.two_stage_medium.light.json": {
+    "robot": "booster_k1",
+    "group": "two_stage_medium",
+    "level": "light",
+    "source": "/home/xsuper/GMR-worktrees/lafan1_config_refresh/general_motion_retargeting/ik_configs/bvh_lafan1_to_k1.json"
+  },
+  "booster_k1.two_stage_medium.mid.json": {
+    "robot": "booster_k1",
+    "group": "two_stage_medium",
+    "level": "mid",
+    "source": "/home/xsuper/GMR-worktrees/lafan1_config_refresh/general_motion_retargeting/ik_configs/bvh_lafan1_to_k1.json"
+  },
+  "booster_t1.two_stage_medium.light.json": {
+    "robot": "booster_t1",
+    "group": "two_stage_medium",
+    "level": "light",
+    "source": "/home/xsuper/GMR-worktrees/lafan1_config_refresh/general_motion_retargeting/ik_configs/bvh_lafan1_to_t1.json"
+  },
+  "booster_t1.two_stage_medium.mid.json": {
+    "robot": "booster_t1",
+    "group": "two_stage_medium",
+    "level": "mid",
+    "source": "/home/xsuper/GMR-worktrees/lafan1_config_refresh/general_motion_retargeting/ik_configs/bvh_lafan1_to_t1.json"
+  },
+  "unitree_h1.two_stage_medium.light.json": {
+    "robot": "unitree_h1",
+    "group": "two_stage_medium",
+    "level": "light",
+    "source": "/home/xsuper/GMR-worktrees/lafan1_config_refresh/general_motion_retargeting/ik_configs/bvh_lafan1_to_h1.json"
+  },
+  "unitree_h1.two_stage_medium.mid.json": {
+    "robot": "unitree_h1",
+    "group": "two_stage_medium",
+    "level": "mid",
+    "source": "/home/xsuper/GMR-worktrees/lafan1_config_refresh/general_motion_retargeting/ik_configs/bvh_lafan1_to_h1.json"
+  },
+  "engineai_pm01.two_stage_full.light.json": {
+    "robot": "engineai_pm01",
+    "group": "two_stage_full",
+    "level": "light",
+    "source": "/home/xsuper/GMR-worktrees/lafan1_config_refresh/general_motion_retargeting/ik_configs/bvh_lafan1_to_pm01.json"
+  },
+  "engineai_pm01.two_stage_full.mid.json": {
+    "robot": "engineai_pm01",
+    "group": "two_stage_full",
+    "level": "mid",
+    "source": "/home/xsuper/GMR-worktrees/lafan1_config_refresh/general_motion_retargeting/ik_configs/bvh_lafan1_to_pm01.json"
+  },
+  "stanford_toddy.two_stage_full.light.json": {
+    "robot": "stanford_toddy",
+    "group": "two_stage_full",
+    "level": "light",
+    "source": "/home/xsuper/GMR-worktrees/lafan1_config_refresh/general_motion_retargeting/ik_configs/bvh_lafan1_to_toddy.json"
+  },
+  "stanford_toddy.two_stage_full.mid.json": {
+    "robot": "stanford_toddy",
+    "group": "two_stage_full",
+    "level": "mid",
+    "source": "/home/xsuper/GMR-worktrees/lafan1_config_refresh/general_motion_retargeting/ik_configs/bvh_lafan1_to_toddy.json"
+  },
+  "unitree_h1_2.two_stage_full.light.json": {
+    "robot": "unitree_h1_2",
+    "group": "two_stage_full",
+    "level": "light",
+    "source": "/home/xsuper/GMR-worktrees/lafan1_config_refresh/general_motion_retargeting/ik_configs/bvh_lafan1_to_h1_2.json"
+  },
+  "unitree_h1_2.two_stage_full.mid.json": {
+    "robot": "unitree_h1_2",
+    "group": "two_stage_full",
+    "level": "mid",
+    "source": "/home/xsuper/GMR-worktrees/lafan1_config_refresh/general_motion_retargeting/ik_configs/bvh_lafan1_to_h1_2.json"
+  },
+  "pal_talos.two_stage_partial.light.json": {
+    "robot": "pal_talos",
+    "group": "two_stage_partial",
+    "level": "light",
+    "source": "/home/xsuper/GMR-worktrees/lafan1_config_refresh/general_motion_retargeting/ik_configs/bvh_lafan1_to_talos.json"
+  },
+  "pal_talos.two_stage_partial.mid.json": {
+    "robot": "pal_talos",
+    "group": "two_stage_partial",
+    "level": "mid",
+    "source": "/home/xsuper/GMR-worktrees/lafan1_config_refresh/general_motion_retargeting/ik_configs/bvh_lafan1_to_talos.json"
+  }
+}

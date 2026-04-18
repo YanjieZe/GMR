@@ -1,0 +1,1 @@
+ValueError: Error opening file '/home/xsuper/GMR/assets/agibot_a2/meshes/public/left_toe_B_rod.stl'
