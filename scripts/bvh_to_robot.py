@@ -8,6 +8,9 @@ from rich import print
 from tqdm import tqdm
 import os
 import numpy as np
+import torch
+import mujoco as mj
+from general_motion_retargeting.kinematics_model import KinematicsModel
 
 if __name__ == "__main__":
     
@@ -115,7 +118,11 @@ if __name__ == "__main__":
     # Start the viewer
     i = 0
     
-
+    # Init KinematicsModel
+    if args.save_path is not None:
+        device = "cuda:0" if torch.cuda.is_available() else "cpu"
+        print(f"Using device: {device} for kinematics computation")
+        kinematics_model = KinematicsModel(retargeter.xml_file, device=device)
 
     while True:
         
@@ -162,21 +169,41 @@ if __name__ == "__main__":
     
     if args.save_path is not None:
         import pickle
-        root_pos = np.array([qpos[:3] for qpos in qpos_list])
+        qpos_array = np.array(qpos_list)
+        root_pos = qpos_array[:, :3]
+        root_rot = qpos_array[:, 3:7]
         # save from wxyz to xyzw
-        root_rot = np.array([qpos[3:7][[1,2,3,0]] for qpos in qpos_list])
-        dof_pos = np.array([qpos[7:] for qpos in qpos_list])
-        local_body_pos = None
-        body_names = None
+        root_rot_xyzw = root_rot[:, [1, 2, 3, 0]]
+        dof_pos = qpos_array[:, 7:]
+        num_frames = root_pos.shape[0]
         
+        print("Computing local body positions...")
+        identity_root_pos = torch.zeros((num_frames, 3), device=device)
+        identity_root_rot = torch.zeros((num_frames, 4), device=device)
+        identity_root_rot[:, -1] = 1.0  # w=1.0 for identity rotation
+        
+        local_body_pos, _ = kinematics_model.forward_kinematics(
+            identity_root_pos, 
+            identity_root_rot, 
+            torch.from_numpy(dof_pos).to(device=device, dtype=torch.float)
+        )
+        body_names = kinematics_model.body_names
+        
+        # for match xml used in twist(23 dof)
+        # exclude 19-21 26-28
+        # dof_pos = np.hstack((qpos_list[:, 7:26], qpos_list[:, 29:33]))
+        if ("nokov" == args.format):
+            dof_pos = np.hstack((dof_pos[:, 0:19], dof_pos[:, 22:26]))
+            
         motion_data = {
             "fps": motion_fps,
             "root_pos": root_pos,
-            "root_rot": root_rot,
+            "root_rot": root_rot_xyzw, 
             "dof_pos": dof_pos,
-            "local_body_pos": local_body_pos,
+            "local_body_pos": local_body_pos.detach().cpu().numpy(),
             "link_body_list": body_names,
         }
+        
         with open(args.save_path, "wb") as f:
             pickle.dump(motion_data, f)
         print(f"Saved to {args.save_path}")
@@ -185,4 +212,3 @@ if __name__ == "__main__":
     pbar.close()
     
     robot_motion_viewer.close()
-       
