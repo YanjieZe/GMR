@@ -1,0 +1,3 @@
+a person swings their left hand forward then swipes with it.#a/DET person/NOUN swing/VERB their/DET left/ADJ hand/NOUN forward/ADV then/ADV swipe/VERB with/ADP it/PRON#0.0#0.0
+he stirs with his left hand#he/PRON stir/VERB with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0
+a man lifts and bends his left arm in front of him, and rotates it clockwise in a stirring motion.#a/DET man/NOUN lift/VERB and/CCONJ bend/VERB his/DET left/ADJ arm/NOUN in/ADP front/NOUN of/ADP him/PRON and/CCONJ rotate/VERB it/PRON clockwise/VERB in/ADP a/DET stirring/ADJ motion/NOUN#0.0#0.0

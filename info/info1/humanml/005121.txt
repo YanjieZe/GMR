@@ -1,0 +1,3 @@
+a person punches upwards with left hand.#a/DET person/NOUN punch/VERB upwards/ADV with/ADP left/ADJ hand/NOUN#0.0#0.0
+person throws upper-cut punch with left hand#person/NOUN throw/VERB uppercut/PROPN punch/NOUN with/ADP left/ADJ hand/NOUN#0.0#0.0
+a person raises both their arms.#a/DET person/NOUN raise/VERB both/CCONJ their/DET arm/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person is throwing an object up... as in a kid tosses a ball into the air before swinging it's bat.#a/DET person/NOUN is/AUX throw/VERB an/DET object/NOUN up/ADV as/SCONJ in/ADP a/DET kid/NOUN toss/VERB a/DET ball/NOUN into/ADP the/DET air/NOUN before/ADP swinge/VERB it/PRON bat/NOUN#0.0#0.0
+the sim is making punching motions upward.#the/DET sim/PROPN is/AUX make/VERB punching/NOUN motion/NOUN upward/ADV#0.0#0.0
+the man is boxing upwards#the/DET man/NOUN is/AUX box/VERB upwards/ADV#0.0#0.0

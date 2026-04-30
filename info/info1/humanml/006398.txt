@@ -1,0 +1,3 @@
+person walks slow while balancing and holding onto something with their right hand.#person/NOUN walk/VERB slow/ADJ while/SCONJ balance/VERB and/CCONJ hold/VERB onto/ADP something/PRON with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+this person walks carefully forward as if he is scared.#this/DET person/NOUN walk/VERB carefully/ADV forward/ADV as/SCONJ if/SCONJ he/PRON is/AUX scared/ADJ#0.0#0.0
+a person slowly takes steps forward while holding onto something with their hands for balance.#a/DET person/NOUN slowly/ADV take/VERB step/NOUN forward/ADV while/SCONJ hold/VERB onto/ADP something/PRON with/ADP their/DET hand/NOUN for/ADP balance/NOUN#0.0#0.0

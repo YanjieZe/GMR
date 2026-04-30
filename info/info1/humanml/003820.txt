@@ -1,0 +1,3 @@
+a person bends their knees and then jumps forward.#a/DET person/NOUN bend/VERB their/DET knee/NOUN and/CCONJ then/ADV jump/VERB forward/ADV#0.0#0.0
+a person taking a huge jump forward#a/DET person/NOUN take/VERB a/DET huge/ADJ jump/NOUN forward/ADV#0.0#0.0
+the man does a long jump forward.#the/DET man/NOUN does/AUX a/DET long/ADJ jump/NOUN forward/ADV#0.0#0.0

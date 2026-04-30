@@ -1,0 +1,3 @@
+a person walks forward while intermediatly touching the ground.#a/DET person/NOUN walk/VERB forward/ADV while/SCONJ intermediatly/ADV touch/VERB the/DET ground/NOUN#0.5#4.0
+person is picking up or moving things.#person/NOUN is/AUX pick/VERB up/ADP or/CCONJ move/VERB thing/NOUN#0.0#0.0
+the person picks a few objects up in random spots, and puts them into some sort of bin.#the/DET person/NOUN pick/VERB a/DET few/ADJ object/NOUN up/ADP in/ADP random/ADJ spot/NOUN and/CCONJ put/VERB them/PRON into/ADP some/DET sort/NOUN of/ADP bin/NOUN#0.0#0.0

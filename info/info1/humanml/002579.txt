@@ -1,0 +1,3 @@
+person walks to the left, opens something and then walks back#person/NOUN walk/VERB to/ADP the/DET left/NOUN open/VERB something/PRON and/CCONJ then/ADV walk/VERB back/ADV#0.0#0.0
+a person walks, reaches out and grabs something and then walks back.#a/DET person/NOUN walk/VERB reach/VERB out/ADP and/CCONJ grab/NOUN something/PRON and/CCONJ then/ADV walk/VERB back/ADV#0.0#0.0
+a person walks in a straight line, reaches out and grabs something, before turning back and walking down the line#a/DET person/NOUN walk/VERB in/ADP a/DET straight/ADJ line/NOUN reach/VERB out/ADP and/CCONJ grab/NOUN something/PRON before/ADP turn/VERB back/ADV and/CCONJ walk/VERB down/ADP the/DET line/NOUN#0.0#0.0

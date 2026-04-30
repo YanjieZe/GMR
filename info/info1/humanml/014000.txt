@@ -1,0 +1,3 @@
+a person walking strait with its legs in front of the other like a feminine walk and arms on its side swinging to it's movement#a/DET person/NOUN walk/VERB strait/PROPN with/ADP its/DET leg/NOUN in/ADP front/NOUN of/ADP the/DET other/ADJ like/SCONJ a/DET feminine/ADJ walk/NOUN and/CCONJ arm/NOUN on/ADP its/DET side/NOUN swinge/VERB to/ADP it/PRON movement/NOUN#0.0#0.0
+the person walks straight forward while slowly moving their hips#the/DET person/NOUN walk/VERB straight/ADV forward/ADV while/SCONJ slowly/ADV move/VERB their/DET hip/NOUN#0.0#0.0
+a figure walks forward slowly, strutting sexily#a/DET figure/NOUN walk/VERB forward/ADV slowly/ADV strut/VERB sexily/ADV#0.0#0.0

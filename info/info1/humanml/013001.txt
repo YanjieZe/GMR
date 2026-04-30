@@ -1,0 +1,3 @@
+a man raises his right arm three times while sitting on a chair.#a/DET man/NOUN raise/VERB his/DET right/ADJ arm/NOUN three/NUM time/NOUN while/SCONJ sit/VERB on/ADP a/DET chair/NOUN#0.0#0.0
+a man seated lifts his right hand multiple times.#a/DET man/NOUN seat/VERB lift/VERB his/DET right/ADJ hand/NOUN multiple/NOUN time/NOUN#0.0#0.0
+person in a deep squat raises right arms in a waving motion places it down and does it again#person/NOUN in/ADP a/DET deep/ADJ squat/NOUN raise/VERB right/ADJ arm/NOUN in/ADP a/DET waving/ADJ motion/NOUN place/VERB it/PRON down/ADP and/CCONJ does/AUX it/PRON again/ADV#0.0#0.0

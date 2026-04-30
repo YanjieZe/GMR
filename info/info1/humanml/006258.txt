@@ -1,0 +1,3 @@
+the man moves to the side#the/DET man/NOUN move/VERB to/ADP the/DET side/NOUN#0.0#0.0
+person stands and folds arms in front of their body#person/NOUN stand/VERB and/CCONJ fold/VERB arm/NOUN in/ADP front/NOUN of/ADP their/DET body/NOUN#0.0#0.0
+an individal takes side steps, crosses arms,  thenbsteps back to original poaition in-crossinf arms in pocess.#an/DET individal/NOUN take/VERB side/ADJ step/NOUN cross/VERB arm/NOUN thenbstep/VERB back/ADP to/ADP original/ADJ poaition/NOUN incrossinf/NOUN arm/NOUN in/ADP pocess/NOUN#0.0#0.0

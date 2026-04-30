@@ -1,0 +1,3 @@
+the man walks forward at a medium pace#the/DET man/NOUN walk/VERB forward/ADV at/ADP a/DET medium/ADJ pace/NOUN#0.0#0.0
+a person walks forward at an average pace#a/DET person/NOUN walk/VERB forward/ADV at/ADP an/DET average/ADJ pace/NOUN#0.0#0.0
+a person quickly advancing up a few steps.#a/DET person/NOUN quickly/ADV advance/VERB up/ADP a/DET few/ADJ step/NOUN#0.0#0.0

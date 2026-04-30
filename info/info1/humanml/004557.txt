@@ -1,0 +1,3 @@
+the man takes a step and raises his left hand.#the/DET man/NOUN take/VERB a/DET step/NOUN and/CCONJ raise/VERB his/DET left/ADJ hand/NOUN#0.0#0.0
+a man raises his right arm.#a/DET man/NOUN raise/VERB his/DET right/ADJ arm/NOUN#0.0#0.0
+raising arm and posing.#raise/VERB arm/NOUN and/CCONJ posing/NOUN#0.0#0.0

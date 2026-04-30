@@ -1,0 +1,3 @@
+a person skipping across a room.#a/DET person/NOUN skip/VERB across/ADP a/DET room/NOUN#0.0#0.0
+a person dances to the right, then left, then right again.#a/DET person/NOUN dance/VERB to/ADP the/DET right/NOUN then/ADV left/VERB then/ADV right/ADV again/ADV#0.0#0.0
+an individual eagerly runs forward in a fashion similar to launching a kite.#an/DET individual/ADJ eagerly/ADV run/VERB forward/ADV in/ADP a/DET fashion/NOUN similar/ADJ to/ADP launch/VERB a/DET kite/NOUN#0.0#0.0

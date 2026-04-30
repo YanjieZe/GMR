@@ -1,0 +1,3 @@
+a person side skips back and forth then walks.#a/DET person/NOUN side/NOUN skip/VERB back/ADV and/CCONJ forth/ADV then/ADV walk/VERB#0.0#0.0
+a person shuffles right, shuffles left, shuffles right, and then walks to the left.#a/DET person/NOUN shuffle/VERB right/ADV shuffle/NOUN left/VERB shuffle/NOUN right/ADV and/CCONJ then/ADV walk/VERB to/ADP the/DET left/NOUN#0.0#0.0
+a person strides back and forth from their right to left side, walking back on the final stride to their starting position.#a/DET person/NOUN stride/VERB back/ADV and/CCONJ forth/ADV from/ADP their/DET right/NOUN to/ADP left/ADJ side/NOUN walk/VERB back/ADV on/ADP the/DET final/ADJ stride/NOUN to/ADP their/DET start/VERB position/NOUN#0.0#0.0

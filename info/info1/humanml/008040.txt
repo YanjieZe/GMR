@@ -1,0 +1,3 @@
+a person raised the left hand and pull it down#a/DET person/NOUN raise/VERB the/DET left/ADJ hand/NOUN and/CCONJ pull/VERB it/PRON down/ADP#0.0#0.0
+a man lifts his arm to his head as if looking at a watch#a/DET man/NOUN lift/VERB his/DET arm/NOUN to/ADP his/DET head/NOUN as/SCONJ if/SCONJ look/VERB at/ADP a/DET watch/NOUN#0.0#0.0
+a figure smells their left armpit#a/DET figure/NOUN smell/VERB their/DET left/ADJ armpit/NOUN#0.0#0.0

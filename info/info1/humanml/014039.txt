@@ -1,0 +1,3 @@
+a person either pleading or praying with their hands folded in front of them.#a/DET person/NOUN either/CCONJ plead/VERB or/CCONJ pray/VERB with/ADP their/DET hand/NOUN fold/VERB in/ADP front/NOUN of/ADP them/PRON#0.0#0.0
+a person holds their hands up toward their chest as if begging.#a/DET person/NOUN hold/VERB their/DET hand/NOUN up/ADP toward/ADP their/DET chest/NOUN as/SCONJ if/SCONJ beg/VERB#0.0#0.0
+a person grabbed the hands and made some jesture#a/DET person/NOUN grab/VERB the/DET hand/NOUN and/CCONJ make/VERB some/DET jesture/NOUN#0.0#0.0

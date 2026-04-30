@@ -1,0 +1,3 @@
+a person squats twice while facing forward without moving.#a/DET person/NOUN squat/VERB twice/ADV while/SCONJ face/VERB forward/ADV without/ADP move/VERB#0.0#0.0
+a person squats down and rises twice.#a/DET person/NOUN squat/VERB down/ADP and/CCONJ rise/VERB twice/ADV#0.0#0.0
+a person performs squats with arms outstretched.#a/DET person/NOUN perform/VERB squat/NOUN with/ADP arm/NOUN outstretche/VERB#0.0#0.0

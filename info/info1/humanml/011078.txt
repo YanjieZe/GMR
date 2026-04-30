@@ -1,0 +1,3 @@
+a person stands on his left leg and hops up and down.#a/DET person/NOUN stand/VERB on/ADP his/DET left/ADJ leg/NOUN and/CCONJ hop/VERB up/ADV and/CCONJ down/ADV#0.0#0.0
+a person is jumping on his left leg in one place.#a/DET person/NOUN is/AUX jump/VERB on/ADP his/DET left/ADJ leg/NOUN in/ADP one/NUM place/NOUN#0.0#0.0
+a person hops on their left foot.#a/DET person/NOUN hop/VERB on/ADP their/DET left/ADJ foot/NOUN#0.0#0.0

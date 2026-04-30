@@ -1,0 +1,3 @@
+person seems to be driving#person/NOUN seem/VERB to/PART be/AUX drive/VERB#0.0#0.0
+a person crouching down with his elbow sprain which is up with his right and then his left#a/DET person/NOUN crouch/VERB down/ADP with/ADP his/DET elbow/NOUN sprain/NOUN which/DET is/AUX up/ADP with/ADP his/DET right/NOUN and/CCONJ then/ADV his/DET left/NOUN#0.0#0.0
+person is in a wide squatting position and is raising one arm at a time over their head in a rhythmic way.#person/NOUN is/AUX in/ADP a/DET wide/ADJ squat/VERB position/NOUN and/CCONJ is/AUX raise/VERB one/NUM arm/NOUN at/ADP a/DET time/NOUN over/ADP their/DET head/NOUN in/ADP a/DET rhythmic/ADJ way/NOUN#0.0#0.0

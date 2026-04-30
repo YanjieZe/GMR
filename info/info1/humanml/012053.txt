@@ -1,0 +1,3 @@
+the person is lifting a dumbbell with their left hand.#the/DET person/NOUN is/AUX lift/VERB a/DET dumbbell/NOUN with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0
+the man lifts something with his left hand.#the/DET man/NOUN lift/VERB something/PRON with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0
+a person raises their left arm up and down.#a/DET person/NOUN raise/VERB their/DET left/ADJ arm/NOUN up/ADV and/CCONJ down/ADV#0.0#0.0

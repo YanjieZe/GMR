@@ -1,0 +1,3 @@
+a person makes pantomime gestures with his hands.#a/DET person/NOUN make/VERB pantomime/ADJ gesture/NOUN with/ADP his/DET hand/NOUN#0.0#0.0
+someone moves their hands along a surface, searching.#someone/PRON move/VERB their/DET hand/NOUN along/ADP a/DET surface/NOUN search/VERB#0.0#0.0
+a person acting as a mime#a/DET person/NOUN act/VERB as/SCONJ a/DET mime/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+the person slightly stumbles backwards#the/DET person/NOUN slightly/ADV stumble/VERB backwards/ADV#0.0#0.0
+a person stumbles backwards a few steps#a/DET person/NOUN stumble/VERB backwards/ADV a/DET few/ADJ step/NOUN#0.0#0.0
+a person is shoved backwards.#a/DET person/NOUN is/AUX shove/VERB backwards/ADV#0.0#0.0

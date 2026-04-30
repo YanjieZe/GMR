@@ -1,0 +1,3 @@
+a figure hi fives#a/DET figure/NOUN hi/INTJ five/NOUN#0.0#0.0
+a person who threw something and then caught it back#a/DET person/NOUN who/PRON throw/VERB something/PRON and/CCONJ then/ADV catch/VERB it/PRON back/ADV#0.0#0.0
+person is playing catch with someone#person/NOUN is/AUX play/VERB catch/NOUN with/ADP someone/PRON#0.0#0.0

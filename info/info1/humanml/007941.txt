@@ -1,0 +1,3 @@
+moving the left hand on stand.#move/VERB the/DET left/ADJ hand/NOUN on/ADP stand/NOUN#0.0#0.0
+person is pulling a book from the shelf.#person/NOUN is/AUX pull/VERB a/DET book/NOUN from/ADP the/DET shelf/NOUN#0.0#0.0
+a person slightly raises their left hand in front of them.#a/DET person/NOUN slightly/ADV raise/VERB their/DET left/ADJ hand/NOUN in/ADP front/NOUN of/ADP them/PRON#0.0#0.0

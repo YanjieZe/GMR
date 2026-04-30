@@ -1,0 +1,3 @@
+the person does a quick dance.#the/DET person/NOUN does/AUX a/DET quick/ADJ dance/NOUN#0.0#0.0
+man hops back and forth on his feet, then goes into a breakdance on the floor, spinning twice, then stands back up#man/NOUN hop/VERB back/ADV and/CCONJ forth/ADV on/ADP his/DET foot/NOUN then/ADV go/VERB into/ADP a/DET breakdance/NOUN on/ADP the/DET floor/NOUN spin/VERB twice/ADV then/ADV stand/VERB back/ADV up/ADV#0.0#0.0
+person jumps around then does a spinning dance move on the floor.#person/NOUN jump/VERB around/ADP then/ADV does/AUX a/DET spin/VERB dance/NOUN move/NOUN on/ADP the/DET floor/NOUN#0.0#0.0

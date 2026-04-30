@@ -1,0 +1,3 @@
+a person jogs forward, stops and gets into a sideways fighting stance.#a/DET person/NOUN jog/VERB forward/ADV stop/VERB and/CCONJ get/VERB into/ADP a/DET sideways/NOUN fight/VERB stance/NOUN#0.0#0.0
+the person is running very steadily forward.#the/DET person/NOUN is/AUX run/VERB very/ADV steadily/ADV forward/ADV#0.0#0.0
+a person runs forward and then enters a fighting stance.#a/DET person/NOUN run/VERB forward/ADV and/CCONJ then/ADV enter/VERB a/DET fight/VERB stance/NOUN#0.0#0.0

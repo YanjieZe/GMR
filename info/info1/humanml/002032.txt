@@ -1,0 +1,3 @@
+the person is moving around in slow motion.#the/DET person/NOUN is/AUX move/VERB around/ADV in/ADP slow/ADJ motion/NOUN#0.0#0.0
+a person wiggles their torso back and forth, clasping their hands above their head.#a/DET person/NOUN wiggle/VERB their/DET torso/NOUN back/ADV and/CCONJ forth/ADV clasp/VERB their/DET hand/NOUN above/ADP their/DET head/NOUN#0.0#0.0
+a person is slithering like a snake.#a/DET person/NOUN is/AUX slither/VERB like/SCONJ a/DET snake/NOUN#0.0#0.0

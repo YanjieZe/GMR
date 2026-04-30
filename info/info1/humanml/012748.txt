@@ -1,0 +1,3 @@
+person jumps in 360 degree motion#person/NOUN jump/VERB in/ADP degree/NOUN motion/NOUN#0.0#0.0
+a man jumps and spins around.#a/DET man/NOUN jump/VERB and/CCONJ spin/VERB around/ADV#0.0#0.0
+a person spins clockwise while jumping.#a/DET person/NOUN spin/VERB clockwise/NOUN while/SCONJ jump/VERB#0.0#0.0

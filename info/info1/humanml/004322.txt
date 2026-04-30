@@ -1,0 +1,3 @@
+a person walks forward then turns around to walk back.#a/DET person/NOUN walk/VERB forward/ADV then/ADV turn/VERB around/ADP to/PART walk/VERB back/ADV#0.0#0.0
+person is walking down then around.#person/NOUN is/AUX walk/VERB down/ADP then/ADV around/ADV#0.0#0.0
+a person takes one step, pivots around counter-clockwise with the left foot on the second step, keeping the right foot up, then takes three more steps.#a/DET person/NOUN take/VERB one/NUM step/NOUN pivot/NOUN around/ADP counterclockwise/NOUN with/ADP the/DET left/ADJ foot/NOUN on/ADP the/DET second/ADJ step/NOUN keep/VERB the/DET right/ADJ foot/NOUN up/ADP then/ADV take/VERB three/NUM more/ADJ step/NOUN#0.0#0.0

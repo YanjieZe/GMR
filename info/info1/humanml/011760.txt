@@ -1,0 +1,3 @@
+a person falty jumped few times#a/DET person/NOUN falty/NOUN jump/VERB few/ADJ time/NOUN#0.0#0.0
+light jumping in place repeatedly#light/ADJ jump/VERB in/ADP place/NOUN repeatedly/ADV#0.0#0.0
+the guys takes 3 quick hops simultaneously.#the/DET guy/NOUN take/VERB quick/ADJ hop/NOUN simultaneously/ADV#0.0#0.0

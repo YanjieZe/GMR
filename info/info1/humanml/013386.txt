@@ -1,0 +1,3 @@
+a person stand up from the knee#a/DET person/NOUN stand/VERB up/ADP from/ADP the/DET knee/NOUN#0.0#0.0
+using their right arm for balance, the person gets up from off their knees#use/VERB their/DET right/ADJ arm/NOUN for/ADP balance/NOUN the/DET person/NOUN get/VERB up/ADV from/ADP off/ADP their/DET knee/NOUN#0.0#0.0
+a man is on his knees with his arms stretched out to either side, before he pushes himself up to his feet using his left hand.#a/DET man/NOUN is/AUX on/ADP his/DET knee/NOUN with/ADP his/DET arm/NOUN stretch/VERB out/ADP to/ADP either/DET side/NOUN before/ADP he/PRON push/VERB himself/PRON up/ADP to/ADP his/DET foot/NOUN use/VERB his/DET left/ADJ hand/NOUN#0.0#0.0

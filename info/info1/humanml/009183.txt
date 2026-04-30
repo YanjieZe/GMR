@@ -1,0 +1,3 @@
+the person is walking back-and-forth sideways.#the/DET person/NOUN is/AUX walk/VERB backandforth/PROPN sideway/NOUN#0.0#0.0
+moving size to side and spinning around#move/VERB size/NOUN to/ADP side/NOUN and/CCONJ spin/VERB around/ADV#0.0#0.0
+a person jumping from the center to the right side and left in diagonal motion.#a/DET person/NOUN jump/VERB from/ADP the/DET center/NOUN to/ADP the/DET right/ADJ side/NOUN and/CCONJ left/VERB in/ADP diagonal/ADJ motion/NOUN#0.0#0.0

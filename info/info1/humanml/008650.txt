@@ -1,0 +1,3 @@
+figure moves around a circlular object off of a higher flat surface than its center.#figure/VERB move/VERB around/ADP a/DET circlular/ADJ object/NOUN off/ADP of/ADP a/DET higher/ADJ flat/ADJ surface/NOUN than/SCONJ its/DET center/NOUN#0.0#2.0
+person moves left arms right to left in a happy motion#person/NOUN move/VERB left/VERB arm/NOUN right/ADV to/ADP left/VERB in/ADP a/DET happy/ADJ motion/NOUN#0.0#0.0
+a person stirs with the left hand.#a/DET person/NOUN stir/VERB with/ADP the/DET left/ADJ hand/NOUN#0.0#0.0

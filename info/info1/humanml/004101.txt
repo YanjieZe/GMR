@@ -1,0 +1,3 @@
+a man stands up whilst raising his hands in turn and pointing with them#a/DET man/NOUN stand/VERB up/ADP whilst/SCONJ raise/VERB his/DET hand/NOUN in/ADP turn/NOUN and/CCONJ point/VERB with/ADP them/PRON#0.0#0.0
+he does a gesture directly#he/PRON does/AUX a/DET gesture/NOUN directly/ADV#0.0#0.0
+a person standing is gesturing something with his left arm and then with his right arm.#a/DET person/NOUN stand/VERB is/AUX gesture/VERB something/PRON with/ADP his/DET left/ADJ arm/NOUN and/CCONJ then/ADV with/ADP his/DET right/ADJ arm/NOUN#nan#0.0

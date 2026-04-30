@@ -1,0 +1,3 @@
+person steps forwards and reaches out with both hands to grab something, then raises both hands to mouth with the grabbed item.#person/NOUN step/VERB forwards/ADV and/CCONJ reach/VERB out/ADP with/ADP both/DET hand/NOUN to/PART grab/VERB something/PRON then/ADV raise/VERB both/DET hand/NOUN to/ADP mouth/NOUN with/ADP the/DET grabbed/ADJ item/NOUN#0.0#0.0
+person take a drink with two hands and drinks it#person/NOUN take/VERB a/DET drink/NOUN with/ADP two/NUM hand/NOUN and/CCONJ drink/VERB it/PRON#0.0#0.0
+person takes a drink of something while holding the container with both hands#person/NOUN take/VERB a/DET drink/NOUN of/ADP something/PRON while/SCONJ hold/VERB the/DET container/NOUN with/ADP both/DET hand/NOUN#0.0#0.0

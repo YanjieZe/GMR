@@ -1,0 +1,3 @@
+a person raises their left arm up, while slightly moving their right arm.#a/DET person/NOUN raise/VERB their/DET left/ADJ arm/NOUN up/ADP while/SCONJ slightly/ADV move/VERB their/DET right/ADJ arm/NOUN#0.0#0.0
+a person stretches their left arm up and their right arm down and back.#a/DET person/NOUN stretch/VERB their/DET left/ADJ arm/NOUN up/ADP and/CCONJ their/DET right/ADJ arm/NOUN down/ADP and/CCONJ back/ADV#0.0#0.0
+a figure pumps its left arm above its head#a/DET figure/NOUN pump/VERB its/DET left/ADJ arm/NOUN above/ADP its/DET head/NOUN#0.0#0.0

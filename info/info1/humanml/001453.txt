@@ -1,0 +1,3 @@
+quickly waving arms above head and then clapping while looking around.#quickly/ADV wave/VERB arm/NOUN above/ADP head/NOUN and/CCONJ then/ADV clap/VERB while/SCONJ look/VERB around/ADV#0.0#0.0
+a man waves with both hands, puts them to the side, then claps.#a/DET man/NOUN wave/VERB with/ADP both/DET hand/NOUN put/VERB them/PRON to/ADP the/DET side/NOUN then/ADV clap/NOUN#0.0#0.0
+waving the arms above the head fast then come back down to clap the hands.#wave/VERB the/DET arm/NOUN above/ADP the/DET head/NOUN fast/ADV then/ADV come/VERB back/ADV down/ADV to/PART clap/VERB the/DET hand/NOUN#0.0#0.0

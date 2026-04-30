@@ -1,0 +1,3 @@
+a standing person holding their hands in front of their face bend to the left trying to dodge something.#a/DET stand/VERB person/NOUN hold/VERB their/DET hand/NOUN in/ADP front/NOUN of/ADP their/DET face/NOUN bend/NOUN to/ADP the/DET left/NOUN try/VERB to/PART dodge/VERB something/PRON#0.0#0.0
+a person leans back to the left side.#a/DET person/NOUN lean/VERB back/ADV to/ADP the/DET left/ADJ side/NOUN#0.0#4.0
+a person in defensive pose evades hit.#a/DET person/NOUN in/ADP defensive/ADJ pose/NOUN evade/NOUN hit/VERB#0.0#0.0

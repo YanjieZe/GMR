@@ -1,0 +1,3 @@
+this person runs forward from right to left.#this/DET person/NOUN run/VERB forward/ADV from/ADP right/NOUN to/ADP left/NOUN#0.0#0.0
+the person is running towards the left.#the/DET person/NOUN is/AUX run/VERB towards/ADP the/DET left/NOUN#0.0#0.0
+a person sprints diagonally to his left#a/DET person/NOUN sprint/VERB diagonally/ADV to/ADP his/DET left/NOUN#0.0#0.0

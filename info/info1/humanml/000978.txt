@@ -1,0 +1,3 @@
+the person walks forward and turns around.#the/DET person/NOUN walk/VERB forward/ADV and/CCONJ turn/VERB around/ADV#0.0#0.0
+this person walk forward then turn and walk back facing backwards/#this/DET person/NOUN walk/VERB forward/ADV then/ADV turn/VERB and/CCONJ walk/VERB back/ADV face/VERB#0.0#0.0
+the person takes two steps forward, pivots on his left leg to face the opposite direction and takes to steps.#the/DET person/NOUN take/VERB two/NUM step/NOUN forward/ADV pivot/NOUN on/ADP his/DET left/ADJ leg/NOUN to/PART face/VERB the/DET opposite/ADJ direction/NOUN and/CCONJ take/VERB to/ADP step/NOUN#0.0#0.0

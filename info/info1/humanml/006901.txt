@@ -1,0 +1,3 @@
+hey bent over person walks backwards primarily to the left behind them#hey/INTJ bend/VERB over/ADP person/NOUN walk/VERB backwards/ADV primarily/ADV to/ADP the/DET left/NOUN behind/ADP them/PRON#0.0#0.0
+a person is walking backwards while being crouched.#a/DET person/NOUN is/AUX walk/VERB backwards/ADV while/SCONJ being/AUX crouch/VERB#0.0#0.0
+this person bends forward then walks slowly backwards.#this/DET person/NOUN bend/VERB forward/ADV then/ADV walk/VERB slowly/ADV backwards/ADV#0.0#0.0

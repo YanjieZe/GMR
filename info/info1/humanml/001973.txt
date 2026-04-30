@@ -1,0 +1,3 @@
+a person is walking and is shy#a/DET person/NOUN is/AUX walk/VERB and/CCONJ is/AUX shy/ADJ#0.0#0.0
+person walks moving feet inwards like a penguin 12 steps then stands side on#person/NOUN walk/VERB move/VERB foot/NOUN inward/NOUN like/SCONJ a/DET penguin/NOUN step/NOUN then/ADV stand/VERB side/NOUN on/ADP#0.0#0.0
+a person acts in a shy way while walking.#a/DET person/NOUN act/VERB in/ADP a/DET shy/ADJ way/NOUN while/SCONJ walk/VERB#0.0#0.0

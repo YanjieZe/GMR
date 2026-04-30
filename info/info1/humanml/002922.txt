@@ -1,0 +1,3 @@
+someone completes a full jumping jack before stopping.#someone/PRON complete/VERB a/DET full/ADJ jumping/NOUN jack/NOUN before/ADP stop/VERB#0.0#0.0
+a person does a jumping jack.#a/DET person/NOUN does/AUX a/DET jumping/ADJ jack/NOUN#0.0#0.0
+a person is doing a jumping jack.#a/DET person/NOUN is/AUX do/VERB a/DET jump/VERB jack/NOUN#0.0#0.0

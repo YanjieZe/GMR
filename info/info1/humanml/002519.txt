@@ -1,0 +1,3 @@
+a person picks something up with right hand, puts it down then picks it up.#a/DET person/NOUN pick/VERB something/PRON up/ADP with/ADP right/ADJ hand/NOUN put/VERB it/PRON down/ADP then/ADV pick/VERB it/PRON up/ADP#0.0#0.0
+a man raises his right arm foward ,bends foward  nearly touching the ground twice and then stands up with his right arm on the hips.#a/DET man/NOUN raise/VERB his/DET right/ADJ arm/NOUN foward/NOUN bend/VERB foward/ADJ nearly/ADV touch/VERB the/DET ground/NOUN twice/ADV and/CCONJ then/ADV stand/VERB up/ADP with/ADP his/DET right/ADJ arm/NOUN on/ADP the/DET hip/NOUN#0.0#0.0
+the man pretends to pick something up#the/DET man/NOUN pretend/VERB to/PART pick/VERB something/PRON up/ADP#0.0#0.0

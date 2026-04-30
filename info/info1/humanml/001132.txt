@@ -1,0 +1,3 @@
+a man steps forward with his right foot.#a/DET man/NOUN step/VERB forward/ADV with/ADP his/DET right/ADJ foot/NOUN#0.0#0.0
+a person who seems to have stumbled forward#a/DET person/NOUN who/PRON seem/VERB to/PART have/AUX stumble/VERB forward/ADV#0.0#0.0
+figure steps forward with both legs in a quick manner.#figure/NOUN step/VERB forward/ADV with/ADP both/DET leg/NOUN in/ADP a/DET quick/ADJ manner/NOUN#0.0#0.0

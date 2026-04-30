@@ -1,0 +1,3 @@
+shaking hand side to side.#shake/VERB hand/NOUN side/NOUN to/PART side/VERB#0.0#0.0
+the person is standing still, holding something with their left hand & using their right hand to mix whatever it is.#the/DET person/NOUN is/AUX stand/VERB still/ADV hold/VERB something/PRON with/ADP their/DET left/ADJ hand/NOUN use/VERB their/DET right/ADJ hand/NOUN to/PART mix/VERB whatever/DET it/PRON is/AUX#0.0#10.0
+the man is moving his hands in a motion as to stir a cup or pour something.#the/DET man/NOUN is/AUX move/VERB his/DET hand/NOUN in/ADP a/DET motion/NOUN as/SCONJ to/PART stir/VERB a/DET cup/NOUN or/CCONJ pour/VERB something/PRON#0.0#0.0

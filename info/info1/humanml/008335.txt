@@ -1,0 +1,3 @@
+a person shakes something in their right hand, takes a few steps, then sets the object down.#a/DET person/NOUN shake/VERB something/PRON in/ADP their/DET right/ADJ hand/NOUN take/VERB a/DET few/ADJ step/NOUN then/ADV set/VERB the/DET object/NOUN down/ADP#0.0#0.0
+figure appears to be washing something#figure/NOUN appear/VERB to/PART be/AUX wash/VERB something/PRON#0.0#0.0
+he washes his head then stops#he/PRON wash/VERB his/DET head/NOUN then/ADV stop/VERB#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks in a full clockwise circle.#a/DET person/NOUN walk/VERB in/ADP a/DET full/ADJ clockwise/NOUN circle/NOUN#0.0#0.0
+person walks in a clockwise circle at medium speed.#person/NOUN walk/VERB in/ADP a/DET clockwise/ADJ circle/NOUN at/ADP medium/ADJ speed/NOUN#0.0#8.0
+the man walks in a clockwise#the/DET man/NOUN walk/VERB in/ADP a/DET clockwise/NOUN#0.0#0.0

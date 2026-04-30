@@ -1,0 +1,3 @@
+the person is walking down the steps.#the/DET person/NOUN is/AUX walk/VERB down/ADP the/DET step/NOUN#0.0#0.0
+a person walks down the stairs#a/DET person/NOUN walk/VERB down/ADP the/DET stair/NOUN#0.0#0.0
+a person grabs something to his left and then steps forward several syeps into a grey box.#a/DET person/NOUN grab/VERB something/PRON to/ADP his/DET left/NOUN and/CCONJ then/ADV step/VERB forward/ADV several/ADJ syep/NOUN into/ADP a/DET grey/NOUN box/NOUN#0.0#0.0

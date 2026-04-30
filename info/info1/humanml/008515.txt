@@ -1,0 +1,3 @@
+the person walks straight then turns left#the/DET person/NOUN walk/VERB straight/ADV then/ADV turn/VERB left/ADV#0.0#0.0
+he bends left then stops#he/PRON bend/VERB left/VERB then/ADV stop/VERB#0.0#0.0
+a person walks forward then makes a left turn and stops#a/DET person/NOUN walk/VERB forward/ADV then/ADV make/VERB a/DET left/ADJ turn/NOUN and/CCONJ stop/NOUN#0.0#0.0

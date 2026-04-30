@@ -1,0 +1,3 @@
+a person is walking forward and then has a misstep.#a/DET person/NOUN is/AUX walk/VERB forward/ADV and/CCONJ then/ADV has/AUX a/DET misstep/NOUN#0.0#0.0
+a person pacing hastily.#a/DET person/NOUN pace/VERB hastily/ADV#0.0#0.0
+person is walking up something.#person/NOUN is/AUX walk/VERB up/ADP something/PRON#0.0#0.0

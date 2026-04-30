@@ -1,0 +1,3 @@
+a person hops up and allows their arms to swing gently.#a/DET person/NOUN hop/VERB up/ADV and/CCONJ allow/VERB their/DET arm/NOUN to/PART swing/VERB gently/ADV#0.0#0.0
+a person jumps  up and swings his arms in a circle#a/DET person/NOUN jump/VERB up/ADP and/CCONJ swing/VERB his/DET arm/NOUN in/ADP a/DET circle/NOUN#0.0#0.0
+jumping up and down waving arms.#jump/VERB up/ADP and/CCONJ down/ADP wave/VERB arm/NOUN#0.0#0.0

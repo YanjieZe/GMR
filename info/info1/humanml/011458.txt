@@ -1,0 +1,3 @@
+a man repeatedly uses his right arm to reach for something slightly in front of him, back again, then looks to be stirring something.#a/DET man/NOUN repeatedly/ADV use/VERB his/DET right/ADJ arm/NOUN to/PART reach/VERB for/ADP something/PRON slightly/ADV in/ADP front/NOUN of/ADP him/PRON back/ADV again/ADV then/ADV look/VERB to/PART be/AUX stir/VERB something/PRON#0.0#0.0
+the person is making dough.#the/DET person/NOUN is/AUX make/VERB dough/NOUN#0.0#0.0
+a man appears to be mixing something.#a/DET man/NOUN appear/VERB to/PART be/AUX mix/VERB something/PRON#0.0#0.0

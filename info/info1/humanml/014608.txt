@@ -1,0 +1,3 @@
+a man appears to be dancing and waving his arms and then does the wave through his legs, then returns to the arms once more.#a/DET man/NOUN appear/VERB to/PART be/AUX dance/VERB and/CCONJ wave/VERB his/DET arm/NOUN and/CCONJ then/ADV does/AUX the/DET wave/NOUN through/ADP his/DET leg/NOUN then/ADV return/VERB to/ADP the/DET arm/NOUN once/ADV more/ADV#0.0#0.0
+a man standing and dancing and moving his arms.#a/DET man/NOUN stand/VERB and/CCONJ dance/VERB and/CCONJ move/VERB his/DET arm/NOUN#0.0#0.0
+a person start to raise the swift every part of the body#a/DET person/NOUN start/VERB to/PART raise/VERB the/DET swift/NOUN every/DET part/NOUN of/ADP the/DET body/NOUN#0.0#10.0

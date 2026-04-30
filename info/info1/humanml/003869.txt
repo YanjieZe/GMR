@@ -1,0 +1,3 @@
+a person leans to the right in athletic position.#a/DET person/NOUN lean/VERB to/ADP the/DET right/NOUN in/ADP athletic/ADJ position/NOUN#0.0#0.0
+a person is doing a lunge stretch to the right with their leg bent.#a/DET person/NOUN is/AUX do/VERB a/DET lunge/NOUN stretch/NOUN to/ADP the/DET right/NOUN with/ADP their/DET leg/NOUN bent/ADJ#0.0#0.0
+a man leans to the left.#a/DET man/NOUN lean/VERB to/ADP the/DET left/NOUN#0.0#0.0

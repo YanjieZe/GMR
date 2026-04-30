@@ -1,0 +1,3 @@
+a person is walking while pushing something#a/DET person/NOUN is/AUX walk/VERB while/SCONJ push/VERB something/PRON#0.0#0.0
+walking in a diagonal line with arms outstretched.#walk/VERB in/ADP a/DET diagonal/ADJ line/NOUN with/ADP arm/NOUN outstretche/VERB#0.0#0.0
+person goes side to side with both hands in the air right arm lower and staying still#person/NOUN go/VERB side/NOUN to/PART side/VERB with/ADP both/DET hand/NOUN in/ADP the/DET air/NOUN right/ADJ arm/NOUN lower/ADV and/CCONJ stay/VERB still/ADV#0.0#0.0

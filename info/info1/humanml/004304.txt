@@ -1,0 +1,3 @@
+a man slowly walks backwards, lifting his feet as if they are stuck in something, before finally stopping.#a/DET man/NOUN slowly/ADV walk/VERB backwards/ADV lift/VERB his/DET foot/NOUN as/SCONJ if/SCONJ they/PRON are/AUX stick/VERB in/ADP something/PRON before/ADP finally/ADV stop/VERB#0.0#0.0
+a person walks backwards down stairs.#a/DET person/NOUN walk/VERB backwards/ADV down/ADP stair/NOUN#0.0#0.0
+he walks backward directly than stops#he/PRON walk/VERB backward/ADV directly/ADV than/SCONJ stop/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a man rotates his hips with his arms bent, and then alternates leaning toward each side as he stretches.#a/DET man/NOUN rotate/VERB his/DET hip/NOUN with/ADP his/DET arm/NOUN bent/NOUN and/CCONJ then/ADV alternate/NOUN lean/VERB toward/ADP each/DET side/NOUN as/SCONJ he/PRON stretch/VERB#0.0#0.0
+the person is doing upper body stretches.#the/DET person/NOUN is/AUX do/VERB upper/ADJ body/NOUN stretch/NOUN#0.0#0.0
+a person does body twists left to right and then leans from side to side.#a/DET person/NOUN does/AUX body/NOUN twist/NOUN left/VERB to/ADP right/NOUN and/CCONJ then/ADV lean/VERB from/ADP side/NOUN to/ADP side/NOUN#0.0#0.0

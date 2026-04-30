@@ -1,0 +1,3 @@
+the man is making gestures#the/DET man/NOUN is/AUX make/VERB gesture/NOUN#0.0#0.0
+a person dances to the right, with their arms up, bending at the elbows. they turn around and dance back to the left with their right arm higher than the left.#a/DET person/NOUN dance/VERB to/ADP the/DET right/NOUN with/ADP their/DET arm/NOUN up/ADV bend/VERB at/ADP the/DET elbow/NOUN they/PRON turn/VERB around/ADP and/CCONJ dance/VERB back/ADV to/ADP the/DET left/NOUN with/ADP their/DET right/ADJ arm/NOUN higher/ADJ than/SCONJ the/DET left/NOUN#0.0#0.0
+walking forward with hands toward face.#walk/VERB forward/ADV with/ADP hand/NOUN toward/ADP face/NOUN#0.0#0.0

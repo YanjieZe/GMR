@@ -1,0 +1,3 @@
+a person turns while walking backwards.#a/DET person/NOUN turn/VERB while/SCONJ walk/VERB backwards/ADV#0.0#0.0
+a figure moves its hips sexily while walking backward#a/DET figure/NOUN move/VERB its/DET hip/NOUN sexily/ADV while/SCONJ walk/VERB backward/ADV#0.0#0.0
+a person walks backwards while dragging their toes along the ground#a/DET person/NOUN walk/VERB backwards/ADV while/SCONJ drag/VERB their/DET toe/NOUN along/ADP the/DET ground/NOUN#0.0#0.0

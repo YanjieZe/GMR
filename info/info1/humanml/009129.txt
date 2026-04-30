@@ -1,0 +1,3 @@
+person person was walking over a balance beam.#person/NOUN person/NOUN was/AUX walk/VERB over/ADP a/DET balance/NOUN beam/NOUN#0.0#0.0
+a person holds their arms out to their side and walks forward trying to balance.#a/DET person/NOUN hold/VERB their/DET arm/NOUN out/ADP to/ADP their/DET side/NOUN and/CCONJ walk/VERB forward/ADV try/VERB to/PART balance/VERB#0.0#0.0
+person does a line test.#person/NOUN does/AUX a/DET line/NOUN test/NOUN#0.0#0.0

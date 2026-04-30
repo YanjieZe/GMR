@@ -1,0 +1,3 @@
+person is lifting his left hand in not very wide range with his entire body standing strong on the floor with his legs on the lenghth of the shoulders.#person/NOUN is/AUX lift/VERB his/DET left/ADJ hand/NOUN in/ADP not/PART very/ADV wide/ADJ range/NOUN with/ADP his/DET entire/ADJ body/NOUN stand/VERB strong/ADJ on/ADP the/DET floor/NOUN with/ADP his/DET leg/NOUN on/ADP the/DET lenghth/NOUN of/ADP the/DET shoulder/NOUN#0.0#0.0
+a person is moving his left hand up and down above his head#a/DET person/NOUN is/AUX move/VERB his/DET left/ADJ hand/NOUN up/ADP and/CCONJ down/ADP above/ADP his/DET head/NOUN#0.0#0.0
+waving hand in the air.#wave/VERB hand/NOUN in/ADP the/DET air/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+he casually walk which a vivid arm swing.#he/PRON casually/ADV walk/VERB which/DET a/DET vivid/ADJ arm/NOUN swing/NOUN#0.0#0.0
+a person walking from one end to the other.#a/DET person/NOUN walk/VERB from/ADP one/NUM end/NOUN to/ADP the/DET other/ADJ#0.0#0.0
+walking forward in a diagonal line.#walk/VERB forward/ADV in/ADP a/DET diagonal/ADJ line/NOUN#0.0#0.0

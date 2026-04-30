@@ -1,0 +1,3 @@
+the person is sitting down eating a hamburger.#the/DET person/NOUN is/AUX sit/VERB down/ADP eat/VERB a/DET hamburger/NOUN#0.0#0.0
+a person is squatting and eating.#a/DET person/NOUN is/AUX squat/VERB and/CCONJ eat/VERB#0.0#0.0
+figure is squatting on the ground and is only slightly moving their hands.#figure/NOUN is/AUX squat/VERB on/ADP the/DET ground/NOUN and/CCONJ is/AUX only/ADV slightly/ADV move/VERB their/DET hand/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person steps forward with right leg and then swings right arm trying to throw a ball underhanded.#a/DET person/NOUN step/VERB forward/ADV with/ADP right/ADJ leg/NOUN and/CCONJ then/ADV swing/VERB right/ADJ arm/NOUN try/VERB to/PART throw/VERB a/DET ball/NOUN underhanded/ADJ#0.0#7.0
+a person throws underhand with left hand.#a/DET person/NOUN throw/VERB underhand/ADJ with/ADP left/ADJ hand/NOUN#0.0#0.0
+a person throwing a pitch with left arm.#a/DET person/NOUN throw/VERB a/DET pitch/NOUN with/ADP left/ADJ arm/NOUN#0.0#0.0

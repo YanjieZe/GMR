@@ -1,0 +1,3 @@
+a figure walks foreward slowly with shoulders slightly hunched#a/DET figure/NOUN walk/VERB foreward/NOUN slowly/ADV with/ADP shoulder/NOUN slightly/ADV hunch/VERB#0.0#0.0
+a person walks forward several steps.#a/DET person/NOUN walk/VERB forward/ADV several/ADJ step/NOUN#0.0#0.0
+the person is walking add a medium speed.#the/DET person/NOUN is/AUX walk/VERB add/VERB a/DET medium/ADJ speed/NOUN#0.0#0.0

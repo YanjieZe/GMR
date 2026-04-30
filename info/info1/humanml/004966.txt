@@ -1,0 +1,3 @@
+the figure is jogging forward with purpose.#the/DET figure/NOUN is/AUX jog/VERB forward/ADV with/ADP purpose/NOUN#0.0#0.0
+running forward at a fast pace.#run/VERB forward/ADV at/ADP a/DET fast/ADJ pace/NOUN#0.0#0.0
+a person is running forward, slightly curving to the left at the end.#a/DET person/NOUN is/AUX run/VERB forward/ADV slightly/ADV curve/VERB to/ADP the/DET left/NOUN at/ADP the/DET end/NOUN#0.0#0.0

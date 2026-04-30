@@ -1,0 +1,3 @@
+the person took a small jump forward.#the/DET person/NOUN take/VERB a/DET small/ADJ jump/NOUN forward/ADV#0.0#0.0
+a person jumps with both feet a small distance forward and lands on both feet at the same time.#a/DET person/NOUN jump/VERB with/ADP both/DET foot/NOUN a/DET small/ADJ distance/NOUN forward/ADV and/CCONJ land/VERB on/ADP both/DET foot/NOUN at/ADP the/DET same/ADJ time/NOUN#0.0#0.0
+a person jumps over something.#a/DET person/NOUN jump/VERB over/ADP something/PRON#0.0#0.0

@@ -1,0 +1,3 @@
+a person begins walking and then turn right at 180 degrees and starts walking back where they come form.#a/DET person/NOUN begin/VERB walk/VERB and/CCONJ then/ADV turn/VERB right/ADV at/ADP degree/NOUN and/CCONJ start/VERB walk/VERB back/ADV where/ADV they/PRON come/VERB form/NOUN#0.0#0.0
+a person walks forward and then spins to the back on their left foot.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ then/ADV spin/VERB to/ADP the/DET back/NOUN on/ADP their/DET left/ADJ foot/NOUN#0.0#0.0
+this person walks forward then quickly swings right to walk back.#this/DET person/NOUN walk/VERB forward/ADV then/ADV quickly/ADV swing/VERB right/ADJ to/PART walk/VERB back/ADV#0.0#0.0

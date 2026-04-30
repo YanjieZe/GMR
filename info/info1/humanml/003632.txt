@@ -1,0 +1,3 @@
+a person starts running softly in place, then speeds up dramatically.#a/DET person/NOUN start/VERB run/VERB softly/ADV in/ADP place/NOUN then/ADV speed/VERB up/ADP dramatically/ADV#0.0#0.0
+a person running in the same spot.#a/DET person/NOUN run/VERB in/ADP the/DET same/ADJ spot/NOUN#0.0#0.0
+a person in neutral position appears to start off in a slow jog (in place), accelerating his speed to a full sprint (in place).#a/DET person/NOUN in/ADP neutral/ADJ position/NOUN appear/VERB to/PART start/VERB off/ADP in/ADP a/DET slow/ADJ jog/NOUN in/ADP place/NOUN accelerate/VERB his/DET speed/NOUN to/ADP a/DET full/ADJ sprint/NOUN in/ADP place/NOUN#0.0#10.0

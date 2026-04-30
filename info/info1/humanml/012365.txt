@@ -1,0 +1,3 @@
+trips backwards slightly while leading with right foot.#trip/NOUN backwards/ADV slightly/ADV while/SCONJ lead/VERB with/ADP right/ADJ foot/NOUN#0.0#0.0
+the person was pushed backwards but did not fall down.#the/DET person/NOUN was/AUX push/VERB backwards/ADV but/CCONJ did/AUX not/PART fall/VERB down/ADP#0.0#0.0
+person stumbles back and regains balance#person/NOUN stumble/VERB back/ADV and/CCONJ regain/VERB balance/NOUN#0.0#0.0

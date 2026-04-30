@@ -1,0 +1,3 @@
+a person hops on their right foot, jumps with both feet wide apart then jumps again with their feet closer together#a/DET person/NOUN hop/VERB on/ADP their/DET right/ADJ foot/NOUN jump/VERB with/ADP both/DET foot/NOUN wide/ADJ apart/ADV then/ADV jump/VERB again/ADV with/ADP their/DET foot/NOUN closer/ADV together/ADV#0.0#0.0
+a person jumps foreward like playing hopscotch, then jumps while turning around.#a/DET person/NOUN jump/VERB foreward/NOUN like/SCONJ play/VERB hopscotch/NOUN then/ADV jump/VERB while/SCONJ turn/VERB around/ADV#0.0#0.0
+a figure plays hopscotch begore turning 180 degrees#a/DET figure/NOUN play/VERB hopscotch/NOUN begore/NOUN turn/VERB degree/NOUN#0.0#0.0

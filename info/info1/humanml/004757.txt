@@ -1,0 +1,3 @@
+the human is running forward briskly#the/DET human/NOUN is/AUX run/VERB forward/ADV briskly/ADV#0.0#0.0
+someone runs down to the other side and stops.#someone/PRON run/VERB down/ADP to/ADP the/DET other/ADJ side/NOUN and/CCONJ stop/NOUN#0.0#0.0
+a person raises arms to waist height and jogs forward.#a/DET person/NOUN raise/VERB arm/NOUN to/ADP waist/NOUN height/NOUN and/CCONJ jog/VERB forward/ADV#0.0#0.0

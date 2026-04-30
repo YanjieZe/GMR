@@ -1,0 +1,3 @@
+this person with arms out to his sides lowers them and raises them again.#this/DET person/NOUN with/ADP arm/NOUN out/SCONJ to/ADP his/DET side/NOUN lower/VERB them/PRON and/CCONJ raise/VERB them/PRON again/ADV#0.0#0.0
+a person who is standing with his arms stretched out from his sides drops his arms, then raises his arms straight out again,#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP his/DET arm/NOUN stretch/VERB out/ADP from/ADP his/DET side/NOUN drop/VERB his/DET arm/NOUN then/ADV raise/VERB his/DET arm/NOUN straight/ADV out/ADV again/ADV#0.0#0.0
+a sitting person sits slouched.#a/DET sit/VERB person/NOUN sit/VERB slouch/VERB#0.0#0.0

@@ -1,0 +1,3 @@
+a person puts left arm in sweater, then right arm, then buttons sweater.#a/DET person/NOUN put/VERB left/ADJ arm/NOUN in/ADP sweater/NOUN then/ADV right/ADJ arm/NOUN then/ADV button/NOUN sweater/NOUN#0.0#0.0
+a person puts on a coat then buttons it#a/DET person/NOUN put/VERB on/ADP a/DET coat/NOUN then/ADV button/VERB it/PRON#0.0#0.0
+someone putting a jacket slowly#someone/PRON put/VERB a/DET jacket/NOUN slowly/ADV#0.0#0.0

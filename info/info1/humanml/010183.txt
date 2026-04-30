@@ -1,0 +1,3 @@
+figure appears to be carrying an itemm (large item)#figure/NOUN appear/VERB to/PART be/AUX carry/VERB an/DET itemm/ADJ large/ADJ item/NOUN#0.0#0.0
+person picks something up and walks with it over head in a circular motion#person/NOUN pick/VERB something/PRON up/ADP and/CCONJ walk/VERB with/ADP it/PRON over/ADP head/NOUN in/ADP a/DET circular/ADJ motion/NOUN#0.0#0.0
+he starts to walk slowly#he/PRON start/VERB to/PART walk/VERB slowly/ADV#0.0#0.0

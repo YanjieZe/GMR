@@ -1,0 +1,3 @@
+a person in a standing position jumps straight up and down once.#a/DET person/NOUN in/ADP a/DET standing/ADJ position/NOUN jump/VERB straight/ADV up/ADV and/CCONJ down/ADV once/ADV#0.0#0.0
+a person squats at the knees jumping up in the air and landing to stand upright without moving their arms.#a/DET person/NOUN squat/VERB at/ADP the/DET knee/NOUN jump/VERB up/ADP in/ADP the/DET air/NOUN and/CCONJ landing/NOUN to/PART stand/VERB upright/ADJ without/ADP move/VERB their/DET arm/NOUN#0.0#0.0
+a person squats, jumps and lands in standing position#a/DET person/NOUN squat/VERB jumps/PROPN and/CCONJ land/NOUN in/ADP stand/VERB position/NOUN#0.0#0.0

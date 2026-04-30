@@ -1,0 +1,3 @@
+a person raises their right and and then their left#a/DET person/NOUN raise/VERB their/DET right/NOUN and/CCONJ and/CCONJ then/ADV their/DET left/NOUN#0.0#0.0
+a person stretching out their arms.#a/DET person/NOUN stretch/VERB out/ADP their/DET arm/NOUN#0.0#0.0
+the man raises one hand int eh air and shakes it then does the same with the other hand.#the/DET man/NOUN raise/VERB one/NUM hand/NOUN int/INTJ eh/INTJ air/NOUN and/CCONJ shake/VERB it/PRON then/ADV does/AUX the/DET same/ADJ with/ADP the/DET other/ADJ hand/NOUN#0.0#0.0

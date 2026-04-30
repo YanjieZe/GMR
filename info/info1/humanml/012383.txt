@@ -1,0 +1,3 @@
+a man is holding something in both hands and his right arm starts moving.#a/DET man/NOUN is/AUX hold/VERB something/PRON in/ADP both/DET hand/NOUN and/CCONJ his/DET right/ADJ arm/NOUN start/VERB move/VERB#0.0#0.0
+a man stands, bends foward looking down and then moves his right hand trying to scratch his body.#a/DET man/NOUN stand/VERB bend/VERB foward/ADJ look/VERB down/ADP and/CCONJ then/ADV move/VERB his/DET right/ADJ hand/NOUN try/VERB to/PART scratch/VERB his/DET body/NOUN#0.0#0.0
+a person standing bends over and scratches#a/DET person/NOUN stand/VERB bend/NOUN over/ADP and/CCONJ scratch/NOUN#0.0#0.0

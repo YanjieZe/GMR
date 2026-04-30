@@ -1,0 +1,3 @@
+a person raised the hands grabbed something and made some jesture#a/DET person/NOUN raise/VERB the/DET hand/NOUN grab/VERB something/PRON and/CCONJ make/VERB some/DET jesture/NOUN#0.0#0.0
+spinning hands in a circle near chest.#spin/VERB hand/NOUN in/ADP a/DET circle/NOUN near/SCONJ chest/NOUN#0.0#0.0
+a person signals with their hands by moving in a circular motion.#a/DET person/NOUN signal/VERB with/ADP their/DET hand/NOUN by/ADP move/VERB in/ADP a/DET circular/ADJ motion/NOUN#0.0#0.0

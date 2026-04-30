@@ -1,0 +1,3 @@
+a person swipes at something that is around their head.#a/DET person/NOUN swipe/VERB at/ADP something/PRON that/DET is/AUX around/ADP their/DET head/NOUN#0.0#0.0
+a person swats at a bug in front of their face.#a/DET person/NOUN swat/VERB at/ADP a/DET bug/NOUN in/ADP front/NOUN of/ADP their/DET face/NOUN#0.0#0.0
+a person raised the right hand and did something#a/DET person/NOUN raise/VERB the/DET right/ADJ hand/NOUN and/CCONJ did/AUX something/PRON#0.0#0.0

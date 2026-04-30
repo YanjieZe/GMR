@@ -1,0 +1,3 @@
+from a standing position a person sits down#from/ADP a/DET standing/ADJ position/NOUN a/DET person/NOUN sit/VERB down/ADP#0.0#0.0
+he sits in a chair while shaking his hands#he/PRON sit/VERB in/ADP a/DET chair/NOUN while/SCONJ shake/VERB his/DET hand/NOUN#0.0#0.0
+the person takes a sit in a chair#the/DET person/NOUN take/VERB a/DET sit/NOUN in/ADP a/DET chair/NOUN#0.0#0.0

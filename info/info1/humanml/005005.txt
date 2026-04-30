@@ -1,0 +1,3 @@
+a person is sitting with his hands resting on his thighs.#a/DET person/NOUN is/AUX sit/VERB with/ADP his/DET hand/NOUN rest/VERB on/ADP his/DET thigh/NOUN#0.0#0.0
+a person is sitting down still.#a/DET person/NOUN is/AUX sit/VERB down/ADV still/ADV#0.0#0.0
+a man holds a static squat position, with his knees bent, feet pointing outwards, and his hands at his thighs.#a/DET man/NOUN hold/VERB a/DET static/ADJ squat/NOUN position/NOUN with/ADP his/DET knee/NOUN bent/ADJ foot/NOUN point/VERB outward/NOUN and/CCONJ his/DET hand/NOUN at/ADP his/DET thigh/NOUN#0.0#0.0

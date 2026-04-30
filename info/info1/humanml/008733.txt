@@ -1,0 +1,3 @@
+a person dancing like a ballerina.#a/DET person/NOUN dance/VERB like/SCONJ a/DET ballerina/NOUN#0.0#0.0
+your son is doing an arabesque dance#your/DET son/NOUN is/AUX do/VERB an/DET arabesque/NOUN dance/NOUN#0.0#0.0
+a man shakes his wrists, jumps backwards with a spin, and then finishes by spreading his arms.#a/DET man/NOUN shake/VERB his/DET wrist/NOUN jump/VERB backwards/ADV with/ADP a/DET spin/NOUN and/CCONJ then/ADV finish/VERB by/ADP spread/VERB his/DET arm/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+the person lifted a weight with his left hand.#the/DET person/NOUN lift/VERB a/DET weight/NOUN with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0
+a person swing one arm out to the side after the other#a/DET person/NOUN swe/VERB one/NUM arm/NOUN out/ADP to/ADP the/DET side/NOUN after/ADP the/DET other/ADJ#0.0#0.0
+moving arms to the side then back.#move/VERB arm/NOUN to/ADP the/DET side/NOUN then/ADV back/ADV#0.0#0.0

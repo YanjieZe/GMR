@@ -1,0 +1,3 @@
+the person reached over and grab some thing from the right.#the/DET person/NOUN reach/VERB over/ADP and/CCONJ grab/VERB some/DET thing/NOUN from/ADP the/DET right/NOUN#0.0#0.0
+the sim moves from side to side, crouching making a grab action as to be in a exercise routine.#the/DET sim/ADJ move/VERB from/ADP side/NOUN to/ADP side/NOUN crouch/VERB make/VERB a/DET grab/NOUN action/NOUN as/SCONJ to/PART be/AUX in/ADP a/DET exercise/NOUN routine/NOUN#0.0#0.0
+a person side lunges to the right, stands up straight, then side lunges to the left#a/DET person/NOUN side/NOUN lunge/VERB to/ADP the/DET right/NOUN stand/VERB up/ADP straight/ADV then/ADV side/NOUN lunge/VERB to/ADP the/DET left/NOUN#0.0#0.0

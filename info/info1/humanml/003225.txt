@@ -1,0 +1,3 @@
+a person takes a couple steps forward with good posture and then stops#a/DET person/NOUN take/VERB a/DET couple/NOUN step/NOUN forward/ADV with/ADP good/ADJ posture/NOUN and/CCONJ then/ADV stop/VERB#0.0#0.0
+a person walking crookedly.#a/DET person/NOUN walk/VERB crookedly/ADV#0.0#0.0
+a person walks forward and then stops.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ then/ADV stop/VERB#0.0#0.0

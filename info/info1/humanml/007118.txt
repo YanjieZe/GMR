@@ -1,0 +1,3 @@
+the driver waits at the door to deliver the pizza#the/DET driver/NOUN wait/VERB at/ADP the/DET door/NOUN to/PART deliver/VERB the/DET pizza/NOUN#0.0#0.0
+stumbles forward with arms curled in close to the side and then the right hand goes up and down.#stumble/NOUN forward/ADV with/ADP arm/NOUN curl/VERB in/ADP close/ADV to/ADP the/DET side/NOUN and/CCONJ then/ADV the/DET right/ADJ hand/NOUN go/VERB up/ADP and/CCONJ down/ADV#0.0#0.0
+a person is carrying something and then opens a door.#a/DET person/NOUN is/AUX carry/VERB something/PRON and/CCONJ then/ADV open/VERB a/DET door/NOUN#0.0#0.0

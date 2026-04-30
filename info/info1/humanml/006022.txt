@@ -1,0 +1,3 @@
+someone runs backwards in a counterclockwise motion.#someone/PRON run/VERB backwards/ADV in/ADP a/DET counterclockwise/ADJ motion/NOUN#0.0#0.0
+a person appears to be moving backwards in a circle.#a/DET person/NOUN appear/VERB to/PART be/AUX move/VERB backwards/ADV in/ADP a/DET circle/NOUN#0.0#0.0
+the girl moved her right hand forward to reach out for the paper slowly.#the/DET girl/NOUN move/VERB her/DET right/ADJ hand/NOUN forward/ADV to/PART reach/VERB out/ADP for/ADP the/DET paper/NOUN slowly/ADV#0.0#0.0

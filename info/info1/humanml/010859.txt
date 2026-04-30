@@ -1,0 +1,3 @@
+a person folds their arms across their chest.#a/DET person/NOUN fold/VERB their/DET arm/NOUN across/ADP their/DET chest/NOUN#0.0#0.0
+a man standing with arms folded then puts them down to side.#a/DET man/NOUN stand/VERB with/ADP arm/NOUN fold/VERB then/ADV put/VERB them/PRON down/ADP to/ADP side/VERB#0.0#0.0
+a person crossing their arms#a/DET person/NOUN cross/VERB their/DET arm/NOUN#0.0#0.0

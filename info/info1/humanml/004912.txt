@@ -1,0 +1,3 @@
+a person moves their arms forward then around in opposite circles#a/DET person/NOUN move/VERB their/DET arm/NOUN forward/ADV then/ADV around/ADV in/ADP opposite/ADJ circle/NOUN#0.0#0.0
+a man pushes his arms forward together, then outward in opposite directions.#a/DET man/NOUN push/VERB his/DET arm/NOUN forward/ADV together/ADV then/ADV outward/ADV in/ADP opposite/ADJ direction/NOUN#0.0#0.0
+a figure moves arms both from the center to the outwards and back to the center four strokes.#a/DET figure/NOUN move/VERB arm/NOUN both/DET from/ADP the/DET center/NOUN to/ADP the/DET outward/NOUN and/CCONJ back/ADV to/ADP the/DET center/ADJ four/NUM stroke/NOUN#0.0#0.0

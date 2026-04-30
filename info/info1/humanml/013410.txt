@@ -1,0 +1,3 @@
+the person was running to head of all the cut down on his knees.#the/DET person/NOUN was/AUX run/VERB to/PART head/NOUN of/ADP all/DET the/DET cut/NOUN down/ADP on/ADP his/DET knee/NOUN#0.0#0.0
+a person running to the right at a 45 degree angle, sliding on the right foot while forward of the left foot. back up and repeat the same slide two more times.#a/DET person/NOUN run/VERB to/ADP the/DET right/NOUN at/ADP a/DET degree/NOUN angle/NOUN slide/VERB on/ADP the/DET right/ADJ foot/NOUN while/SCONJ forward/ADV of/ADP the/DET left/ADJ foot/NOUN back/ADV up/ADV and/CCONJ repeat/VERB the/DET same/ADJ slide/NOUN two/NUM more/ADJ time/NOUN#0.0#0.0
+person is practicing tennis moves#person/NOUN is/AUX practice/VERB tennis/NOUN move/NOUN#0.0#0.0

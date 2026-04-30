@@ -1,0 +1,3 @@
+moving the left hand and touch the head and stomach finally moving the both the hand and  stand.#move/VERB the/DET left/ADJ hand/NOUN and/CCONJ touch/VERB the/DET head/NOUN and/CCONJ stomach/NOUN finally/ADV move/VERB the/DET both/CCONJ the/DET hand/NOUN and/CCONJ stand/VERB#0.0#0.0
+a person zips up their jacket then spreads their arms out.#a/DET person/NOUN zip/VERB up/ADP their/DET jacket/NOUN then/ADV spread/VERB their/DET arm/NOUN out/ADP#0.0#0.0
+person raises right arms and moves arm around circular before placing down and raising both arms to shoulder height#person/NOUN raise/VERB right/ADJ arm/NOUN and/CCONJ move/NOUN arm/NOUN around/ADP circular/ADJ before/ADP place/VERB down/ADP and/CCONJ raise/VERB both/DET arm/NOUN to/ADP shoulder/NOUN height/NOUN#0.0#0.0

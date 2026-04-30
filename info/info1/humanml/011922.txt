@@ -1,0 +1,3 @@
+the person turns around and sits on the ground and then stands back up.#the/DET person/NOUN turn/VERB around/ADP and/CCONJ sit/VERB on/ADP the/DET ground/NOUN and/CCONJ then/ADV stand/VERB back/ADV up/ADV#0.0#0.0
+this person walks to the left then sits down and gets back up to continue walking.#this/DET person/NOUN walk/VERB to/ADP the/DET left/NOUN then/ADV sit/VERB down/ADP and/CCONJ get/VERB back/ADV up/ADV to/PART continue/VERB walk/VERB#0.0#0.0
+a man walks in a quater circle, sits down, then gets back up again#a/DET man/NOUN walk/VERB in/ADP a/DET quater/NOUN circle/NOUN sit/VERB down/ADV then/ADV get/VERB back/ADV up/ADV again/ADV#0.0#0.0

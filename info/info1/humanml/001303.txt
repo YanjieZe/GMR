@@ -1,0 +1,3 @@
+a person completes 5 sets of jumping jacks.#a/DET person/NOUN complete/VERB set/NOUN of/ADP jump/VERB jack/NOUN#0.0#0.0
+someone standing jumping up and down with both hands and legs extended trying to do a jumping jack.#someone/PRON stand/VERB jump/VERB up/ADP and/CCONJ down/ADP with/ADP both/DET hand/NOUN and/CCONJ leg/NOUN extend/VERB try/VERB to/PART do/AUX a/DET jumping/ADJ jack/NOUN#0.0#0.0
+a person doing jumping jacks.#a/DET person/NOUN do/VERB jump/VERB jack/NOUN#0.0#0.0

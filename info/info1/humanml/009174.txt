@@ -1,0 +1,3 @@
+a person quietly walks forward and then normally walks back.#a/DET person/NOUN quietly/ADV walk/VERB forward/ADV and/CCONJ then/ADV normally/ADV walk/VERB back/ADV#0.0#0.0
+person walks forward, turns around and walks back#person/NOUN walk/VERB forward/ADV turn/VERB around/ADV and/CCONJ walk/VERB back/ADV#0.0#0.0
+a person creeps forward, turns around and walks back.#a/DET person/NOUN creep/VERB forward/ADV turn/VERB around/ADV and/CCONJ walk/VERB back/ADV#0.0#0.0

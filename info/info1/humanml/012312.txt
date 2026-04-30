@@ -1,0 +1,3 @@
+person stands with both arms up then moves legs and arms side to side#person/NOUN stand/VERB with/ADP both/DET arm/NOUN up/ADV then/ADV move/VERB leg/NOUN and/CCONJ arm/NOUN side/NOUN to/PART side/VERB#0.0#0.0
+a person swings their arms around, and steps, posing.#a/DET person/NOUN swing/VERB their/DET arm/NOUN around/ADV and/CCONJ step/NOUN pose/VERB#0.0#0.0
+a person sways side to side cheerfully, then yawns.#a/DET person/NOUN sway/VERB side/NOUN to/PART side/VERB cheerfully/ADV then/ADV yawn/NOUN#0.0#0.0

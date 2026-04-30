@@ -1,0 +1,3 @@
+person walking with a limp.#person/NOUN walk/VERB with/ADP a/DET limp/NOUN#0.0#0.0
+a stick oerson taking a step to the side, turning backwards walking a line and repeating the motion.#a/DET stick/PROPN oerson/NOUN take/VERB a/DET step/NOUN to/ADP the/DET side/NOUN turn/VERB backwards/ADV walk/VERB a/DET line/NOUN and/CCONJ repeat/VERB the/DET motion/NOUN#0.0#0.0
+looks like a person trying to walk in high heels, but unable to do so steadily.#look/VERB like/SCONJ a/DET person/NOUN try/VERB to/PART walk/VERB in/ADP high/ADJ heel/NOUN but/CCONJ unable/ADJ to/PART do/AUX so/ADV steadily/ADV#0.0#0.0

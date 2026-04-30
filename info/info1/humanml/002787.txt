@@ -1,0 +1,3 @@
+a person shifts on his feet and then walks up stairs.#a/DET person/NOUN shift/VERB on/ADP his/DET foot/NOUN and/CCONJ then/ADV walk/VERB up/ADP stair/NOUN#0.0#0.0
+a person navigates going up a set of stairs#a/DET person/NOUN navigate/VERB go/VERB up/ADP a/DET set/NOUN of/ADP stair/NOUN#0.0#0.0
+a man is standing still and then starts to follow a wiggly blue line along the floor, appearing to step up#a/DET man/NOUN is/AUX stand/VERB still/ADV and/CCONJ then/ADV start/VERB to/PART follow/VERB a/DET wiggly/ADV blue/ADJ line/NOUN along/ADP the/DET floor/NOUN appear/VERB to/PART step/VERB up/ADP#0.0#0.0

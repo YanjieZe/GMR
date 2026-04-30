@@ -1,0 +1,3 @@
+a person is doing jumping jacks.#a/DET person/NOUN is/AUX do/VERB jump/VERB jack/NOUN#0.0#0.0
+a man makes small jumps while widening his legs slightly, and throwing his arms up sidewards towards his head.#a/DET man/NOUN make/VERB small/ADJ jump/NOUN while/SCONJ widen/VERB his/DET leg/NOUN slightly/ADV and/CCONJ throw/VERB his/DET arm/NOUN up/ADP sideward/NOUN towards/ADP his/DET head/NOUN#0.0#0.0
+a man jumps up and down with his legs apart and the raised arms clapping together.#a/DET man/NOUN jump/VERB up/ADV and/CCONJ down/ADP with/ADP his/DET leg/NOUN apart/ADV and/CCONJ the/DET raise/VERB arm/NOUN clap/VERB together/ADV#0.0#0.0

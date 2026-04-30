@@ -1,0 +1,2 @@
+the person did a wonderful cart wheel.#the/DET person/NOUN did/AUX a/DET wonderful/ADJ cart/NOUN wheel/NOUN#0.0#0.0
+a person does a cartwheel, stops, then does another cartwheel#a/DET person/NOUN does/AUX a/DET cartwheel/NOUN stop/VERB then/ADV does/AUX another/DET cartwheel/NOUN#0.0#0.0

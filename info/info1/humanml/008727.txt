@@ -1,0 +1,3 @@
+a person is struggling to screw the top off of something.#a/DET person/NOUN is/AUX struggle/VERB to/PART screw/VERB the/DET top/NOUN off/ADP of/ADP something/PRON#0.0#0.0
+the person was loosening a bolt with wrench.#the/DET person/NOUN was/AUX loosen/VERB a/DET bolt/NOUN with/ADP wrench/NOUN#0.0#0.0
+a man holds and untwists something at his right hip.#a/DET man/NOUN hold/VERB and/CCONJ untwist/VERB something/PRON at/ADP his/DET right/ADJ hip/NOUN#0.0#0.0

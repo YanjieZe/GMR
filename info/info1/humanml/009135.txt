@@ -1,0 +1,3 @@
+a person walks in a counter clockwise circle then sits down.#a/DET person/NOUN walk/VERB in/ADP a/DET counter/NOUN clockwise/NOUN circle/NOUN then/ADV sit/VERB down/ADP#0.0#0.0
+a person walks in a counter-clockwise circle, and then lays down on the grownd.#a/DET person/NOUN walk/VERB in/ADP a/DET counterclockwise/ADJ circle/NOUN and/CCONJ then/ADV lay/VERB down/ADP on/ADP the/DET grownd/NOUN#0.0#0.0
+person walks in a 3/4 circle then squats and then lays with the back on the floor.#person/NOUN walk/VERB in/ADP a/DET circle/NOUN then/ADV squat/VERB and/CCONJ then/ADV lay/VERB with/ADP the/DET back/NOUN on/ADP the/DET floor/NOUN#0.0#0.0

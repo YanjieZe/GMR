@@ -1,0 +1,3 @@
+bending down and moving arms to the side.#bend/VERB down/ADP and/CCONJ move/VERB arm/NOUN to/ADP the/DET side/NOUN#0.0#0.0
+a figure lifts something below waist height on the left then places it around shoulder height on a shelf to the right#a/DET figure/NOUN lift/VERB something/PRON below/ADP waist/ADJ height/NOUN on/ADP the/DET left/NOUN then/ADV place/VERB it/PRON around/ADP shoulder/NOUN height/NOUN on/ADP a/DET shelf/NOUN to/ADP the/DET right/NOUN#0.0#0.0
+the person placed something on its side.#the/DET person/NOUN place/VERB something/PRON on/ADP its/DET side/NOUN#0.0#0.0

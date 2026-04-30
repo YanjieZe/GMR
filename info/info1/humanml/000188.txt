@@ -1,0 +1,3 @@
+someone flexes their right arm in different positions for several seconds.#someone/PRON flex/VERB their/DET right/ADJ arm/NOUN in/ADP different/ADJ position/NOUN for/ADP several/ADJ second/NOUN#0.0#0.0
+a person is waving his arm and hand back and fourth and side to side.#a/DET person/NOUN is/AUX wave/VERB his/DET arm/NOUN and/CCONJ hand/VERB back/ADV and/CCONJ fourth/ADJ and/CCONJ side/NOUN to/PART side/VERB#0.0#0.0
+someone's right hand is up as if reading a book, as well as stretching his elbow in a back and forth motion#someone/PRON right/ADJ hand/NOUN is/AUX up/ADV as/SCONJ if/SCONJ read/VERB a/DET book/NOUN as/ADV well/ADV as/SCONJ stretch/VERB his/DET elbow/NOUN in/ADP a/DET back/NOUN and/CCONJ forth/ADJ motion/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person leans over to touch the ground with right hand and left arm raised.#a/DET person/NOUN lean/VERB over/ADP to/PART touch/VERB the/DET ground/NOUN with/ADP right/ADJ hand/NOUN and/CCONJ left/ADJ arm/NOUN raise/VERB#0.0#0.0
+the person is  stretching.#the/DET person/NOUN is/AUX stretch/VERB#0.0#0.0
+person reaches down to touch the right side of foot#person/NOUN reach/VERB down/ADP to/PART touch/VERB the/DET right/ADJ side/NOUN of/ADP foot/NOUN#0.0#0.0

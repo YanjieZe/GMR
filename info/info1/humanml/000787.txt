@@ -1,0 +1,3 @@
+a person takes a step forward, moves to theor right, them continues foward with their right hand on a rail.#a/DET person/NOUN take/VERB a/DET step/NOUN forward/ADV move/NOUN to/ADP theor/PROPN right/INTJ them/PRON continue/VERB foward/ADJ with/ADP their/DET right/ADJ hand/NOUN on/ADP a/DET rail/NOUN#0.0#0.0
+a person walks steadily along a path while holding onto rails to keep balance.#a/DET person/NOUN walk/VERB steadily/ADV along/ADP a/DET path/NOUN while/SCONJ hold/VERB onto/ADP rail/NOUN to/PART keep/VERB balance/NOUN#0.0#0.0
+a person walks forward carefully with arms extended.#a/DET person/NOUN walk/VERB forward/ADV carefully/ADV with/ADP arm/NOUN extend/VERB#0.0#0.0

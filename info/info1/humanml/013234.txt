@@ -1,0 +1,3 @@
+person is using touch screen#person/NOUN is/AUX use/VERB touch/NOUN screen/NOUN#0.0#0.0
+figure appears to be placing items on a shelf#figure/NOUN appear/VERB to/PART be/AUX place/VERB item/NOUN on/ADP a/DET shelf/NOUN#0.0#0.0
+the man lowers his arms then pokes at things with his right hand then his left.#the/DET man/NOUN lower/VERB his/DET arm/NOUN then/ADV poke/VERB at/ADP thing/NOUN with/ADP his/DET right/ADJ hand/NOUN then/ADV his/DET left/NOUN#0.0#0.0

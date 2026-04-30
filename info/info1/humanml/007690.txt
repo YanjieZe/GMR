@@ -1,0 +1,3 @@
+person is trying to sit down but gets back up instead#person/NOUN is/AUX try/VERB to/PART sit/VERB down/ADP but/CCONJ get/VERB back/ADV up/ADV instead/ADV#0.0#0.0
+a man crouches with his right hand on the ground then gets back up again.#a/DET man/NOUN crouch/VERB with/ADP his/DET right/ADJ hand/NOUN on/ADP the/DET ground/NOUN then/ADV get/VERB back/ADV up/ADV again/ADV#0.0#0.0
+person leans down and places right hand on ground, getting down towards the ground, shifting around, before standing back up.#person/NOUN lean/VERB down/ADP and/CCONJ place/VERB right/ADJ hand/NOUN on/ADP ground/NOUN get/VERB down/ADP towards/ADP the/DET ground/NOUN shift/VERB around/ADP before/ADP stand/VERB back/ADV up/ADV#0.0#0.0

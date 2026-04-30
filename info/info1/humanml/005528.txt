@@ -1,0 +1,3 @@
+a person i walking forward and slightly to the right when the abruptly move to the left and then continue walking back forwards to the right.#a/DET person/NOUN i/PRON walk/VERB forward/ADV and/CCONJ slightly/ADV to/ADP the/DET right/NOUN when/ADV the/DET abruptly/ADV move/VERB to/ADP the/DET left/NOUN and/CCONJ then/ADV continue/VERB walk/VERB back/ADV forwards/ADV to/ADP the/DET right/NOUN#0.0#0.0
+a person gets pushed from the right while they're walking.#a/DET person/NOUN get/VERB push/VERB from/ADP the/DET right/ADJ while/SCONJ they/PRON walk/VERB#0.0#0.0
+the person is walking like they are drunk.#the/DET person/NOUN is/AUX walk/VERB like/SCONJ they/PRON are/AUX drunk/ADJ#0.0#0.0

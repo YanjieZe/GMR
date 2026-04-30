@@ -1,0 +1,3 @@
+a person folding their arms#a/DET person/NOUN fold/VERB their/DET arm/NOUN#0.0#0.0
+someone folds their arms akimbo, hands in the crook of their elbows.#someone/PRON fold/VERB their/DET arm/NOUN akimbo/NOUN hand/NOUN in/ADP the/DET crook/NOUN of/ADP their/DET elbow/NOUN#0.0#0.0
+a person crosses their arms in front of them#a/DET person/NOUN cross/VERB their/DET arm/NOUN in/ADP front/NOUN of/ADP them/PRON#0.0#0.0

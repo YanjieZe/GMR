@@ -1,0 +1,3 @@
+the man bends at his knees and uses his leg muscles to propel himself slightly off the ground.#the/DET man/NOUN bend/VERB at/ADP his/DET knee/NOUN and/CCONJ use/VERB his/DET leg/NOUN muscle/NOUN to/PART propel/VERB himself/PRON slightly/ADV off/ADP the/DET ground/NOUN#0.0#0.0
+the person is jumping up and down.#the/DET person/NOUN is/AUX jump/VERB up/ADP and/CCONJ down/ADV#0.0#0.0
+a standing person jumps up and down twice.#a/DET stand/VERB person/NOUN jump/VERB up/ADV and/CCONJ down/ADV twice/ADV#0.0#0.0

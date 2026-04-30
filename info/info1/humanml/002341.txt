@@ -1,0 +1,3 @@
+a person walks diagonal in a forward motion then turns on left foot to face backward then stops.#a/DET person/NOUN walk/VERB diagonal/ADJ in/ADP a/DET forward/ADJ motion/NOUN then/ADV turn/VERB on/ADP left/ADJ foot/NOUN to/PART face/VERB backward/ADV then/ADV stop/VERB#0.0#7.0
+a person walking in a fashion similar to a model on a runway, full of confidence.#a/DET person/NOUN walk/VERB in/ADP a/DET fashion/NOUN similar/ADJ to/ADP a/DET model/NOUN on/ADP a/DET runway/NOUN full/ADJ of/ADP confidence/NOUN#0.0#0.0
+the person is walking around.#the/DET person/NOUN is/AUX walk/VERB around/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person sits down, turns to their right, then stands.#a/DET person/NOUN sit/VERB down/ADV turn/VERB to/ADP their/DET right/NOUN then/ADV stand/VERB#0.0#0.0
+a person sits in a chair, turns to their right, then stands up.#a/DET person/NOUN sit/VERB in/ADP a/DET chair/NOUN turn/VERB to/ADP their/DET right/NOUN then/ADV stand/VERB up/ADP#0.0#0.0
+a man sits on something and holds it with both hands and then stands up.#a/DET man/NOUN sit/VERB on/ADP something/PRON and/CCONJ hold/VERB it/PRON with/ADP both/DET hand/NOUN and/CCONJ then/ADV stand/VERB up/ADP#0.0#0.0

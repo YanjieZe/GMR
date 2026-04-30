@@ -1,0 +1,3 @@
+a person throws and object and then catches another object#a/DET person/NOUN throw/VERB and/CCONJ object/NOUN and/CCONJ then/ADV catch/VERB another/DET object/NOUN#0.0#0.0
+a person throws with right hand and catches with both hands.#a/DET person/NOUN throw/VERB with/ADP right/ADJ hand/NOUN and/CCONJ catch/NOUN with/ADP both/DET hand/NOUN#0.0#0.0
+a person puts their right arm out infront of them and pushes. both arms are then held in a boxing pose, with fingers exposed.#a/DET person/NOUN put/VERB their/DET right/ADJ arm/NOUN out/ADP infront/ADV of/ADP them/PRON and/CCONJ push/VERB both/DET arm/NOUN are/AUX then/ADV hold/VERB in/ADP a/DET boxing/NOUN pose/NOUN with/ADP finger/NOUN expose/VERB#0.0#0.0

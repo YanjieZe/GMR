@@ -1,0 +1,3 @@
+a persons throws 2 uppercuts and 2 jabs with the left hand.#a/DET person/NOUN throw/VERB uppercut/NOUN and/CCONJ jab/NOUN with/ADP the/DET left/ADJ hand/NOUN#0.0#0.0
+a person swings his right arm toward himself, then thrusts it out away from his body a couple times.#a/DET person/NOUN swing/VERB his/DET right/ADJ arm/NOUN toward/ADP himself/PRON then/ADV thrust/VERB it/PRON out/ADP away/ADV from/ADP his/DET body/NOUN a/DET couple/NOUN time/NOUN#0.0#0.0
+person is punching with their right arms whilst their left arm is stationary by their side#person/NOUN is/AUX punch/VERB with/ADP their/DET right/ADJ arm/NOUN whilst/SCONJ their/DET left/ADJ arm/NOUN is/AUX stationary/ADJ by/ADP their/DET side/NOUN#0.0#0.0

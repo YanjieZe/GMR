@@ -1,0 +1,3 @@
+a person takes big steps/lunges starting in a leftwards motion beginning to make a square shape#a/DET person/NOUN take/VERB big/ADJ step/NOUN lunge/NOUN start/VERB in/ADP a/DET leftwards/ADJ motion/NOUN begin/VERB to/PART make/VERB a/DET square/ADJ shape/NOUN#0.0#0.0
+person is walking around leaping over something.#person/NOUN is/AUX walk/VERB around/ADV leap/VERB over/ADP something/PRON#0.0#0.0
+a person walks up a slope and then goes down it.#a/DET person/NOUN walk/VERB up/ADP a/DET slope/NOUN and/CCONJ then/ADV go/VERB down/ADP it/PRON#0.0#0.0

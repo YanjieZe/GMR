@@ -1,0 +1,3 @@
+stretching arms while standing.#stretch/VERB arm/NOUN while/SCONJ stand/VERB#0.0#0.0
+a person who is standing with his hands by his sides raises both arms above his head while taking one step to his left.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP his/DET hand/NOUN by/ADP his/DET side/NOUN raise/VERB both/DET arm/NOUN above/ADP his/DET head/NOUN while/SCONJ take/VERB one/NUM step/NOUN to/ADP his/DET left/NOUN#0.0#0.0
+a person stretches out arms and legs#a/DET person/NOUN stretch/VERB out/ADP arm/NOUN and/CCONJ leg/NOUN#0.0#0.0

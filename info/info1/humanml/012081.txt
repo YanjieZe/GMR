@@ -1,0 +1,3 @@
+a man walks in a winding path, making semicircular unclosed loops and keeping his hands low at his sides.#a/DET man/NOUN walk/VERB in/ADP a/DET winding/NOUN path/NOUN make/VERB semicircular/ADJ unclosed/ADJ loop/NOUN and/CCONJ keep/VERB his/DET hand/NOUN low/ADJ at/ADP his/DET side/NOUN#0.0#0.0
+a person walks to the left then right, making a "u" pattern.#a/DET person/NOUN walk/VERB to/ADP the/DET left/NOUN then/ADV right/INTJ make/VERB a/DET u/NOUN pattern/NOUN#0.0#0.0
+a person walks in a zig-zag pattern while looking slightly down.#a/DET person/NOUN walk/VERB in/ADP a/DET zigzag/NOUN pattern/NOUN while/SCONJ look/VERB slightly/ADV down/ADV#0.0#0.0

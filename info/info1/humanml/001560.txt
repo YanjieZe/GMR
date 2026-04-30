@@ -1,0 +1,3 @@
+a person sat on the floor, by crossing his legs and after stand up#a/DET person/NOUN sit/VERB on/ADP the/DET floor/NOUN by/ADP cross/VERB his/DET leg/NOUN and/CCONJ after/ADP stand/VERB up/ADP#0.0#0.0
+person crosses feet sits down then moves legs apart and stands up#person/NOUN cross/VERB foot/NOUN sit/VERB down/ADV then/ADV move/VERB leg/NOUN apart/ADV and/CCONJ stand/VERB up/ADP#0.0#0.0
+someone sits on the floor and gets up again#someone/PRON sit/VERB on/ADP the/DET floor/NOUN and/CCONJ get/VERB up/ADP again/ADV#0.0#0.0

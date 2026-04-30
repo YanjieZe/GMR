@@ -1,0 +1,3 @@
+a person walking forward and stumbling for a moment before regaining their composure#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ stumble/VERB for/ADP a/DET moment/NOUN before/ADP regain/VERB their/DET composure/NOUN#0.0#0.0
+person is  is walking then maybe almost lost balance.#person/NOUN is/AUX is/AUX walk/VERB then/ADV maybe/ADV almost/ADV lose/VERB balance/NOUN#0.0#0.0
+a person is walking heel to toe, then stumbles slightly before catching themselves.#a/DET person/NOUN is/AUX walk/VERB heel/NOUN to/ADP toe/NOUN then/ADV stumble/VERB slightly/ADV before/ADP catch/VERB themselves/PRON#0.0#0.0

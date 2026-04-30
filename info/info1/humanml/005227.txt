@@ -1,0 +1,3 @@
+a person standing leans slightly to their left and starts swatting frustratedly at a fly, finally swatting in one short motion forward.#a/DET person/NOUN stand/VERB lean/NOUN slightly/ADV to/ADP their/DET left/NOUN and/CCONJ start/VERB swat/VERB frustratedly/ADV at/ADP a/DET fly/NOUN finally/ADV swat/VERB in/ADP one/NUM short/ADJ motion/NOUN forward/ADV#0.0#0.0
+a person brushes away fly from face with right hand.#a/DET person/NOUN brush/VERB away/ADV fly/VERB from/ADP face/NOUN with/ADP right/ADJ hand/NOUN#0.0#0.0
+a person swatting a something in air#a/DET person/NOUN swat/VERB a/DET something/PRON in/ADP air/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a figure seems to jog on a treadmill#a/DET figure/NOUN seem/VERB to/PART jog/PROPN on/ADP a/DET treadmill/NOUN#0.0#0.0
+person is running on treadmill#person/NOUN is/AUX run/VERB on/ADP treadmill/NOUN#0.0#0.0
+person is jogging with arms bent at elbows#person/NOUN is/AUX jog/VERB with/ADP arm/NOUN bent/NOUN at/ADP elbow/NOUN#0.0#0.0

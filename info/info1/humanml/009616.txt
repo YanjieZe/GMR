@@ -1,0 +1,3 @@
+a person standing seems to be moving their arm in a circular motions forward and backwards.#a/DET person/NOUN stand/VERB seem/VERB to/PART be/AUX move/VERB their/DET arm/NOUN in/ADP a/DET circular/ADJ motion/NOUN forward/ADV and/CCONJ backwards/ADV#0.0#0.0
+a person swings left hand forwards then swings it backwards#a/DET person/NOUN swing/VERB left/VERB hand/NOUN forwards/ADV then/ADV swing/VERB it/PRON backwards/ADV#0.0#0.0
+a person windmills one arm one way, before stopping and repeating the motion backwards.#a/DET person/NOUN windmill/VERB one/NUM arm/VERB one/NUM way/NOUN before/ADP stop/VERB and/CCONJ repeat/VERB the/DET motion/NOUN backwards/ADV#0.0#0.0

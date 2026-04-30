@@ -1,0 +1,3 @@
+a person jumps forward with both feet.#a/DET person/NOUN jump/VERB forward/ADV with/ADP both/DET foot/NOUN#0.0#0.0
+jumping forward one time slowly.#jump/VERB forward/ADV one/NUM time/NOUN slowly/ADV#0.0#0.0
+a person take a big leap forward#a/DET person/NOUN take/VERB a/DET big/ADJ leap/NOUN forward/ADV#0.0#0.0

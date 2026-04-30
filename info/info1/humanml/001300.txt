@@ -1,0 +1,3 @@
+a person standing with legs apart, swats, bending at the knees and holding arms forward.#a/DET person/NOUN stand/VERB with/ADP leg/NOUN apart/ADV swat/NOUN bend/VERB at/ADP the/DET knee/NOUN and/CCONJ hold/VERB arm/NOUN forward/ADV#0.0#0.0
+a figure squatting whilst hold both arms out towards the front#a/DET figure/NOUN squat/VERB whilst/SCONJ hold/VERB both/DET arm/NOUN out/ADP towards/ADP the/DET front/NOUN#0.0#0.0
+a person is doing squads.#a/DET person/NOUN is/AUX do/VERB squad/NOUN#0.0#0.0

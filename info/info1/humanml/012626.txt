@@ -1,0 +1,3 @@
+a person reading a book#a/DET person/NOUN read/VERB a/DET book/NOUN#0.0#0.0
+a person grabbed something with hands, and made some jesture#a/DET person/NOUN grab/VERB something/PRON with/ADP hand/NOUN and/CCONJ make/VERB some/DET jesture/NOUN#0.0#0.0
+a person brings his hands close and emulates using a cell phone or tablet, tapping the area near his left hand with his right hand.#a/DET person/NOUN bring/VERB his/DET hand/NOUN close/ADJ and/CCONJ emulate/VERB use/VERB a/DET cell/NOUN phone/NOUN or/CCONJ tablet/NOUN tap/VERB the/DET area/NOUN near/SCONJ his/DET left/ADJ hand/NOUN with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0

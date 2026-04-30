@@ -1,0 +1,3 @@
+the person is singing in the rain.#the/DET person/NOUN is/AUX singe/VERB in/ADP the/DET rain/NOUN#0.0#0.0
+a man is heel tapping in mid air.#a/DET man/NOUN is/AUX heel/NOUN tap/VERB in/ADP mid/ADJ air/NOUN#0.0#0.0
+a person touches their face then runs forwards and does two heel clicks. then turns around and does two running heel clicks back to where he started.#a/DET person/NOUN touch/VERB their/DET face/NOUN then/ADV run/VERB forwards/ADV and/CCONJ does/AUX two/NUM heel/NOUN click/NOUN then/ADV turn/VERB around/ADV and/CCONJ does/AUX two/NUM run/VERB heel/NOUN click/NOUN back/ADV to/ADP where/ADV he/PRON start/VERB#0.0#0.0

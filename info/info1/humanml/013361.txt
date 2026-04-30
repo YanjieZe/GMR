@@ -1,0 +1,3 @@
+the person is doing a right arm upper body stretch.#the/DET person/NOUN is/AUX do/VERB a/DET right/ADJ arm/NOUN upper/ADJ body/NOUN stretch/NOUN#0.0#0.0
+figure appears to be stretching#figure/NOUN appear/VERB to/PART be/AUX stretch/VERB#0.0#0.0
+the man laced his fingers together and raised them above his head.#the/DET man/NOUN lace/VERB his/DET finger/NOUN together/ADV and/CCONJ raise/VERB them/PRON above/ADP his/DET head/NOUN#0.0#0.0

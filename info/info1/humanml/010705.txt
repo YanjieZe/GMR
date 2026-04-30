@@ -1,0 +1,3 @@
+a person moves arms down; right hand picks up something; left hand grabs it and sits it down.#a/DET person/NOUN move/VERB arm/NOUN down/ADV right/ADJ hand/NOUN pick/VERB up/ADP something/PRON left/VERB hand/NOUN grab/NOUN it/PRON and/CCONJ sit/VERB it/PRON down/ADP#0.0#0.0
+a person standing in a t pose then putting both hands back together#a/DET person/NOUN stand/VERB in/ADP a/DET t/NOUN pose/NOUN then/ADV put/VERB both/DET hand/NOUN back/ADV together/ADV#0.0#0.0
+the person is picking something up with his right hand.#the/DET person/NOUN is/AUX pick/VERB something/PRON up/ADP with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0

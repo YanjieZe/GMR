@@ -1,0 +1,3 @@
+the person is walking then jump and continues to walk#the/DET person/NOUN is/AUX walk/VERB then/ADV jump/NOUN and/CCONJ continue/VERB to/PART walk/VERB#0.0#0.0
+a man walks forward then jumps high whilst waving his arms out then continues walking.#a/DET man/NOUN walk/VERB forward/ADV then/ADV jump/VERB high/ADV whilst/SCONJ wave/VERB his/DET arm/NOUN out/ADV then/ADV continue/VERB walk/VERB#0.0#0.0
+a person walks forward while swing their arms and jumps in the air.#a/DET person/NOUN walk/VERB forward/ADV while/SCONJ swe/VERB their/DET arm/NOUN and/CCONJ jump/NOUN in/ADP the/DET air/NOUN#0.0#0.0

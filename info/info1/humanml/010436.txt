@@ -1,0 +1,3 @@
+the man raises his right hand twice.#the/DET man/NOUN raise/VERB his/DET right/ADJ hand/NOUN twice/ADV#0.0#0.0
+a man lifts an object twice with his right arm.#a/DET man/NOUN lift/VERB an/DET object/NOUN twice/ADV with/ADP his/DET right/ADJ arm/NOUN#0.0#0.0
+leaning in a little he does two curls with a dumbbell, using his right arm#lean/VERB in/ADP a/DET little/ADJ he/PRON does/AUX two/NUM curl/NOUN with/ADP a/DET dumbbell/NOUN use/VERB his/DET right/ADJ arm/NOUN#0.0#0.0

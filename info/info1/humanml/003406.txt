@@ -1,0 +1,3 @@
+the man is using the guitar#the/DET man/NOUN is/AUX use/VERB the/DET guitar/NOUN#0.0#0.0
+someone playing the guitar or small string instrument#someone/PRON play/VERB the/DET guitar/NOUN or/CCONJ small/ADJ string/NOUN instrument/NOUN#0.0#0.0
+a person strums a guitar/banjo with their right hand while holding the neck in their left.#a/DET person/NOUN strum/VERB a/DET guitar/NOUN banjo/NOUN with/ADP their/DET right/ADJ hand/NOUN while/SCONJ hold/VERB the/DET neck/NOUN in/ADP their/DET left/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person waves with both arms above head.#a/DET person/NOUN wave/VERB with/ADP both/DET arm/NOUN above/ADP head/NOUN#0.0#0.0
+a person standing waves arms once above his head so others can find him.#a/DET person/NOUN stand/VERB wave/NOUN arm/NOUN once/ADV above/ADP his/DET head/NOUN so/SCONJ other/NOUN can/VERB find/VERB him/PRON#0.0#0.0
+a person lifts both hands above their head, moves both hands rapidly outwards and back to above their head, then lowers both arms.#a/DET person/NOUN lift/VERB both/DET hand/NOUN above/ADP their/DET head/NOUN move/VERB both/DET hand/NOUN rapidly/ADV outward/NOUN and/CCONJ back/ADV to/ADP above/ADP their/DET head/NOUN then/ADV lower/VERB both/DET arm/NOUN#0.0#0.0

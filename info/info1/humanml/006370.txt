@@ -1,0 +1,2 @@
+the person walks diagonally towards right side.#the/DET person/NOUN walk/VERB diagonally/ADV towards/ADP right/ADJ side/NOUN#0.0#0.0
+the person is walking around the bend to the right.#the/DET person/NOUN is/AUX walk/VERB around/ADP the/DET bend/NOUN to/ADP the/DET right/NOUN#0.0#0.0

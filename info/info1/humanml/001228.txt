@@ -1,0 +1,3 @@
+a person holds onto something while walking up and down stairs.#a/DET person/NOUN hold/VERB onto/ADP something/PRON while/SCONJ walk/VERB up/ADP and/CCONJ down/ADP stair/NOUN#0.0#0.0
+a person walking up stairs and back down#a/DET person/NOUN walk/VERB up/ADP stair/NOUN and/CCONJ back/VERB down/ADV#0.0#0.0
+a person walks up and down a set of stairs while holding a rail.#a/DET person/NOUN walk/VERB up/ADV and/CCONJ down/ADP a/DET set/NOUN of/ADP stair/NOUN while/SCONJ hold/VERB a/DET rail/NOUN#0.0#0.0

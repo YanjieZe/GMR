@@ -1,0 +1,3 @@
+a man walks quickly from the back of the platform to the front, then stops.#a/DET man/NOUN walk/VERB quickly/ADV from/ADP the/DET back/NOUN of/ADP the/DET platform/NOUN to/ADP the/DET front/NOUN then/ADV stop/VERB#0.0#0.0
+person person walked forward 4 steps.#person/NOUN person/NOUN walk/VERB forward/ADV step/NOUN#0.0#0.0
+person walks five steps forward in a straight line#person/NOUN walk/VERB five/NUM step/NOUN forward/ADV in/ADP a/DET straight/ADJ line/NOUN#0.0#0.0

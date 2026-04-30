@@ -1,0 +1,3 @@
+a person walks forward quickly.#a/DET person/NOUN walk/VERB forward/ADV quickly/ADV#0.0#0.0
+person walks forward in a speedy fashion#person/NOUN walk/VERB forward/ADV in/ADP a/DET speedy/ADJ fashion/NOUN#0.0#0.0
+a person walks forward quickly for a few steps.#a/DET person/NOUN walk/VERB forward/ADV quickly/ADV for/ADP a/DET few/ADJ step/NOUN#0.0#0.0

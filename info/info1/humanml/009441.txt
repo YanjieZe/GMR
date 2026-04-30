@@ -1,0 +1,3 @@
+a person is doing jumping jacks.#a/DET person/NOUN is/AUX do/VERB jump/VERB jack/NOUN#0.0#0.0
+a person does jumping jacks.#a/DET person/NOUN does/AUX jump/VERB jack/NOUN#0.0#0.0
+the figure completes three jumping jacks while facing the viewer.#the/DET figure/NOUN complete/VERB three/NUM jump/VERB jack/NOUN while/SCONJ face/VERB the/DET viewer/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a figure rapidly spins then moves forward to the left#a/DET figure/NOUN rapidly/ADV spin/VERB then/ADV move/VERB forward/ADV to/ADP the/DET left/NOUN#0.0#0.0
+person shakes violently for a brief second then walks away#person/NOUN shake/VERB violently/ADV for/ADP a/DET brief/ADJ second/NOUN then/ADV walk/VERB away/ADV#0.0#0.0
+the gentleman enjoyed a brisk hike on a sunny day in the mountains.#the/DET gentleman/PROPN enjoy/VERB a/DET brisk/ADJ hike/NOUN on/ADP a/DET sunny/ADJ day/NOUN in/ADP the/DET mountain/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+the man walks up 3 steps then down and forward.#the/DET man/NOUN walk/VERB up/ADV step/NOUN then/ADV down/ADV and/CCONJ forward/ADV#0.0#0.0
+person walks up three steps and then down three steps#person/NOUN walk/VERB up/ADP three/NUM step/NOUN and/CCONJ then/ADV down/ADV three/NUM step/NOUN#0.0#0.0
+that person is walking up and down stairs.#that/DET person/NOUN is/AUX walk/VERB up/ADP and/CCONJ down/ADP stair/NOUN#0.0#0.0

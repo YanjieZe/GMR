@@ -1,0 +1,3 @@
+a person carefully sits down on the ground and crosses their legs.#a/DET person/NOUN carefully/ADV sit/VERB down/ADP on/ADP the/DET ground/NOUN and/CCONJ cross/VERB their/DET leg/NOUN#0.0#0.0
+a figure bends down to sit on the floor slowly and cross-legged#a/DET figure/NOUN bend/VERB down/ADP to/PART sit/VERB on/ADP the/DET floor/NOUN slowly/ADV and/CCONJ crosslegge/VERB#0.0#0.0
+a person sit on the floor, while cross both legs#a/DET person/NOUN sit/VERB on/ADP the/DET floor/NOUN while/SCONJ cross/VERB both/DET leg/NOUN#0.0#0.0

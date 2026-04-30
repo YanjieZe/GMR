@@ -1,0 +1,3 @@
+a person standing uses their left hand to touch something on their head and then lowers it.#a/DET person/NOUN stand/VERB use/VERB their/DET left/ADJ hand/NOUN to/PART touch/VERB something/PRON on/ADP their/DET head/NOUN and/CCONJ then/ADV lower/VERB it/PRON#0.0#0.0
+a man lifts an object to his face with his left hand.#a/DET man/NOUN lift/VERB an/DET object/NOUN to/ADP his/DET face/NOUN with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0
+a man lifts his left arm up and appears to be taking a drink of something.#a/DET man/NOUN lift/VERB his/DET left/ADJ arm/NOUN up/ADP and/CCONJ appear/VERB to/PART be/AUX take/VERB a/DET drink/NOUN of/ADP something/PRON#0.0#0.0

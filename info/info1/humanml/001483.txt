@@ -1,0 +1,3 @@
+someone rubs their belly with their left hand and rubs their head with their right hand at the same time.#someone/PRON rub/VERB their/DET belly/NOUN with/ADP their/DET left/ADJ hand/NOUN and/CCONJ rub/VERB their/DET head/NOUN with/ADP their/DET right/ADJ hand/NOUN at/ADP the/DET same/ADJ time/NOUN#0.0#0.0
+a person rubs head with right hand and rubs belly with left hand.#a/DET person/NOUN rub/VERB head/NOUN with/ADP right/ADJ hand/NOUN and/CCONJ rub/VERB belly/NOUN with/ADP left/ADJ hand/NOUN#0.0#0.0
+a man rubs his stomach and his head simultaneously.#a/DET man/NOUN rub/VERB his/DET stomach/NOUN and/CCONJ his/DET head/NOUN simultaneously/ADV#0.0#0.0

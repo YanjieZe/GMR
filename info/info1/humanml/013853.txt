@@ -1,0 +1,3 @@
+a person appears to be throwing an object with their right arm.#a/DET person/NOUN appear/VERB to/PART be/AUX throw/VERB an/DET object/NOUN with/ADP their/DET right/ADJ arm/NOUN#0.0#0.0
+a person slaps something out of another persons hands.#a/DET person/NOUN slap/VERB something/PRON out/SCONJ of/ADP another/DET person/NOUN hand/NOUN#0.0#0.0
+a person swats with their right hand while shifting slightly from side to side.#a/DET person/NOUN swat/VERB with/ADP their/DET right/ADJ hand/NOUN while/SCONJ shift/VERB slightly/ADV from/ADP side/NOUN to/ADP side/NOUN#1.0#7.0

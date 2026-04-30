@@ -1,0 +1,3 @@
+a person plays a guitar and lowers their arms.#a/DET person/NOUN play/VERB a/DET guitar/NOUN and/CCONJ lower/VERB their/DET arm/NOUN#0.0#0.0
+person strums a guitar for a brief second#person/NOUN strum/VERB a/DET guitar/NOUN for/ADP a/DET brief/ADJ second/NOUN#0.0#0.0
+a figure seems to strum a guitar#a/DET figure/NOUN seem/VERB to/PART strum/VERB a/DET guitar/NOUN#0.0#0.0

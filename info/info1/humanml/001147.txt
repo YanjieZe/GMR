@@ -1,0 +1,3 @@
+he kneels down with stool#he/PRON kneel/VERB down/ADP with/ADP stool/NOUN#0.0#0.0
+a person kneels down on their knees.#a/DET person/NOUN kneel/VERB down/ADP on/ADP their/DET knee/NOUN#0.0#0.0
+a man slowly kneeling with his left knee first#a/DET man/NOUN slowly/ADV kneel/VERB with/ADP his/DET left/ADJ knee/NOUN first/ADV#0.0#0.0

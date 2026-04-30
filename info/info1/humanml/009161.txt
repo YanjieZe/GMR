@@ -1,0 +1,3 @@
+a person walks forward from one end to the other.#a/DET person/NOUN walk/VERB forward/ADV from/ADP one/NUM end/NOUN to/ADP the/DET other/ADJ#0.0#0.0
+a person walks while slowly swaying their hands and arms.#a/DET person/NOUN walk/VERB while/SCONJ slowly/ADV sway/VERB their/DET hand/NOUN and/CCONJ arm/NOUN#0.0#0.0
+a person walks forward six steps sluggishly.#a/DET person/NOUN walk/VERB forward/ADV six/NUM step/NOUN sluggishly/ADV#0.0#0.0

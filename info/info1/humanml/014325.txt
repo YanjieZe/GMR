@@ -1,0 +1,3 @@
+a person spins maybe a water bottle as they drink it with both hands.#a/DET person/NOUN spin/VERB maybe/ADV a/DET water/NOUN bottle/NOUN as/SCONJ they/PRON drink/VERB it/PRON with/ADP both/DET hand/NOUN#0.0#0.0
+a person is trying to move something up a wall with their hands.#a/DET person/NOUN is/AUX try/VERB to/PART move/VERB something/PRON up/ADP a/DET wall/NOUN with/ADP their/DET hand/NOUN#0.0#0.0
+a person has both hands together and lifts them up.#a/DET person/NOUN has/AUX both/DET hand/NOUN together/ADV and/CCONJ lift/VERB them/PRON up/ADP#0.0#0.0

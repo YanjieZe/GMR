@@ -1,0 +1,3 @@
+a person performs three jumping jacks.#a/DET person/NOUN perform/VERB three/NUM jump/VERB jack/NOUN#0.0#0.0
+a person performing star jumps#a/DET person/NOUN perform/VERB star/NOUN jump/VERB#0.0#0.0
+a person who is standing with his arms by his sides does three straight jumping jacks and returns to standing with his arms by his sides.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP his/DET arm/NOUN by/ADP his/DET side/NOUN does/AUX three/NUM straight/ADJ jump/VERB jack/NOUN and/CCONJ return/NOUN to/ADP stand/VERB with/ADP his/DET arm/NOUN by/ADP his/DET side/NOUN#0.0#0.0

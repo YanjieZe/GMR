@@ -1,0 +1,3 @@
+the person brings their hands up in front of them as if opening something, and then ends in a t-pose.#the/DET person/NOUN bring/VERB their/DET hand/NOUN up/ADP in/ADP front/NOUN of/ADP them/PRON as/SCONJ if/SCONJ open/VERB something/PRON and/CCONJ then/ADV end/VERB in/ADP a/DET tpose/NOUN#0.0#0.0
+a person raised the noth hand and pull it down#a/DET person/NOUN raise/VERB the/DET noth/ADJ hand/NOUN and/CCONJ pull/VERB it/PRON down/ADP#0.0#0.0
+a person looks to get hung by their hands and then be lifted up.#a/DET person/NOUN look/VERB to/PART get/AUX hang/VERB by/ADP their/DET hand/NOUN and/CCONJ then/ADV be/AUX lift/VERB up/ADP#0.0#0.0

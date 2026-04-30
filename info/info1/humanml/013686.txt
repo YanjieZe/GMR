@@ -1,0 +1,3 @@
+a standing person sways from their hips left to right in three cycles.#a/DET stand/VERB person/NOUN sway/VERB from/ADP their/DET hip/NOUN left/VERB to/ADP right/ADV in/ADP three/NUM cycle/NOUN#0.0#0.0
+a person sways from left to right.#a/DET person/NOUN sway/VERB from/ADP left/VERB to/ADP right/NOUN#0.0#0.0
+the person was standing still been leaning slightly#the/DET person/NOUN was/AUX stand/VERB still/ADV been/AUX lean/VERB slightly/ADV#0.0#0.0

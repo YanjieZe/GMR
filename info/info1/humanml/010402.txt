@@ -1,0 +1,3 @@
+this person walks forward but catches himself after stumbling.#this/DET person/NOUN walk/VERB forward/ADV but/CCONJ catch/VERB himself/PRON after/ADP stumble/VERB#0.0#0.0
+the man walks he is turn in his left and walk.#the/DET man/NOUN walk/VERB he/PRON is/AUX turn/NOUN in/ADP his/DET left/NOUN and/CCONJ walk/VERB#0.0#0.0
+a person walking forward is shoved mid step, he recovers his balance#a/DET person/NOUN walk/VERB forward/ADV is/AUX shove/VERB mid/ADJ step/NOUN he/PRON recover/VERB his/DET balance/NOUN#0.0#0.0

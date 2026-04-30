@@ -1,0 +1,3 @@
+a person jogs and throws an object#a/DET person/NOUN jog/VERB and/CCONJ throw/VERB an/DET object/NOUN#0.0#0.0
+the figure jogs in place, then runs forward and thrusts a javelin forward with its right arm.#the/DET figure/NOUN jog/VERB in/ADP place/NOUN then/ADV run/VERB forward/ADV and/CCONJ thrust/VERB a/DET javelin/NOUN forward/ADV with/ADP its/DET right/ADJ arm/NOUN#0.0#0.0
+a person jogs in place then throws an item as if it is a javelin.#a/DET person/NOUN jog/VERB in/ADP place/NOUN then/ADV throw/VERB an/DET item/NOUN as/SCONJ if/SCONJ it/PRON is/AUX a/DET javelin/NOUN#0.0#0.0

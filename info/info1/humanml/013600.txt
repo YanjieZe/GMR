@@ -1,0 +1,3 @@
+walking forward then crouching then running.#walk/VERB forward/ADV then/ADV crouch/VERB then/ADV run/VERB#0.0#0.0
+a person walks forward triumphantly, then gets scared and turns around and runs away with a goofy, dramatic attitude.#a/DET person/NOUN walk/VERB forward/ADV triumphantly/ADV then/ADV get/VERB scare/VERB and/CCONJ turn/VERB around/ADV and/CCONJ run/VERB away/ADV with/ADP a/DET goofy/ADJ dramatic/ADJ attitude/NOUN#0.0#0.0
+the man is walking forward#the/DET man/NOUN is/AUX walk/VERB forward/ADV#0.0#0.0

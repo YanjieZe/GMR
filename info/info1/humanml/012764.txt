@@ -1,0 +1,3 @@
+person walks down then grabs something from their left with both hands and moves it to their right.#person/NOUN walk/VERB down/ADV then/ADV grab/VERB something/PRON from/ADP their/DET left/NOUN with/ADP both/DET hand/NOUN and/CCONJ move/VERB it/PRON to/ADP their/DET right/NOUN#0.0#0.0
+the person is picking something up and carrying it .#the/DET person/NOUN is/AUX pick/VERB something/PRON up/ADV and/CCONJ carry/VERB it/PRON#0.0#0.0
+a figure walks forward and bends down to lift a bowl#a/DET figure/NOUN walk/VERB forward/ADV and/CCONJ bend/VERB down/ADP to/PART lift/VERB a/DET bowl/NOUN#0.0#0.0

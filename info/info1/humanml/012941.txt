@@ -1,0 +1,3 @@
+person stands still with arms bent forwards, as if gripping some handlebars.#person/NOUN stand/VERB still/ADV with/ADP arm/NOUN bent/ADJ forwards/ADV as/SCONJ if/SCONJ grip/VERB some/DET handlebar/NOUN#0.0#0.0
+a person is in a motorcycle pose#a/DET person/NOUN is/AUX in/ADP a/DET motorcycle/NOUN pose/NOUN#0.0#0.0
+a person stands as if putting hands on handlebars.#a/DET person/NOUN stand/VERB as/SCONJ if/SCONJ put/VERB hand/NOUN on/ADP handlebar/NOUN#0.0#0.0

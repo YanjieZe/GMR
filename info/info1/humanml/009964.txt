@@ -1,0 +1,3 @@
+a person raises their right hand and scratches their head#a/DET person/NOUN raise/VERB their/DET right/ADJ hand/NOUN and/CCONJ scratch/VERB their/DET head/NOUN#0.0#0.0
+a person scratches their right hand over their head.#a/DET person/NOUN scratch/VERB their/DET right/ADJ hand/NOUN over/ADP their/DET head/NOUN#0.0#0.0
+a person who seems to be drinking something#a/DET person/NOUN who/PRON seem/VERB to/PART be/AUX drink/VERB something/PRON#0.0#0.0

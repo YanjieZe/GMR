@@ -1,0 +1,3 @@
+a person squats down multiple times.#a/DET person/NOUN squat/VERB down/ADP multiple/ADJ time/NOUN#0.0#0.0
+a person squats multiple times.#a/DET person/NOUN squat/VERB multiple/ADJ time/NOUN#0.0#0.0
+someone crouches, bending their knees and their hands meeting in front of them continuously.#someone/PRON crouch/NOUN bend/VERB their/DET knee/NOUN and/CCONJ their/DET hand/NOUN meet/VERB in/ADP front/NOUN of/ADP them/PRON continuously/ADV#0.0#0.0

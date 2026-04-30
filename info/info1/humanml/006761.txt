@@ -1,0 +1,3 @@
+person jumps 180 degrees once#person/NOUN jump/VERB degree/NOUN once/ADV#0.0#0.0
+a person hops and turns completely around.#a/DET person/NOUN hop/VERB and/CCONJ turn/VERB completely/ADV around/ADV#0.0#0.0
+a person jumps and turns around in the air to face behind him.#a/DET person/NOUN jump/VERB and/CCONJ turn/VERB around/ADP in/ADP the/DET air/NOUN to/PART face/VERB behind/ADP him/PRON#0.0#0.0

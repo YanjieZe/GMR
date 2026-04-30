@@ -1,0 +1,3 @@
+a person walks forward and stumbles to their right a bit, then the person turns around and walks forward and stumbles to the left a bit.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ stumble/NOUN to/ADP their/DET right/ADJ a/DET bit/NOUN then/ADV the/DET person/NOUN turn/VERB around/ADP and/CCONJ walk/VERB forward/ADV and/CCONJ stumble/NOUN to/ADP the/DET left/ADJ a/DET bit/NOUN#0.0#0.0
+a person is stumbling around.#a/DET person/NOUN is/AUX stumble/VERB around/ADV#0.0#0.0
+the person takes a few steps, stumbles, turns around and walks back, but stumbles at the end.#the/DET person/NOUN take/VERB a/DET few/ADJ step/NOUN stumble/NOUN turn/VERB around/ADV and/CCONJ walk/VERB back/ADV but/CCONJ stumble/NOUN at/ADP the/DET end/NOUN#0.0#0.0

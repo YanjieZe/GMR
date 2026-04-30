@@ -1,0 +1,3 @@
+bending down and then again.#bend/VERB down/ADP and/CCONJ then/ADV again/ADV#0.0#0.0
+a person puts their hands together and bows.#a/DET person/NOUN put/VERB their/DET hand/NOUN together/ADV and/CCONJ bow/NOUN#0.0#4.0
+he does a greeting halamada#he/PRON does/AUX a/DET greeting/NOUN halamada/NOUN#0.0#0.0

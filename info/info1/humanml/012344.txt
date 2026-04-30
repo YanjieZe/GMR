@@ -1,0 +1,3 @@
+a person runs diagonally.#a/DET person/NOUN run/VERB diagonally/ADV#0.0#0.0
+a man runs quickly from his left side to his right.#a/DET man/NOUN run/VERB quickly/ADV from/ADP his/DET left/ADJ side/NOUN to/ADP his/DET right/NOUN#0.0#0.0
+a person takes a quick jab step to his left with his left foot and then he sprints at a right diagonal.#a/DET person/NOUN take/VERB a/DET quick/ADJ jab/ADJ step/NOUN to/ADP his/DET left/NOUN with/ADP his/DET left/ADJ foot/NOUN and/CCONJ then/ADV he/PRON sprint/VERB at/ADP a/DET right/ADJ diagonal/NOUN#0.0#0.0

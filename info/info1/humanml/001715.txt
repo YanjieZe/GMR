@@ -1,0 +1,3 @@
+a person who is stepping in the shape of a square#a/DET person/NOUN who/PRON is/AUX step/VERB in/ADP the/DET shape/NOUN of/ADP a/DET square/NOUN#0.0#0.0
+person standing steps in a square formation starting with right foot#person/NOUN stand/VERB step/NOUN in/ADP a/DET square/ADJ formation/NOUN start/VERB with/ADP right/ADJ foot/NOUN#0.0#0.0
+a man steps forward and then backward repeatedly.#a/DET man/NOUN step/VERB forward/ADV and/CCONJ then/ADV backward/ADV repeatedly/ADV#0.0#0.0

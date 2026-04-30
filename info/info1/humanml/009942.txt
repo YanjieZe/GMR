@@ -1,0 +1,3 @@
+the person is pouring some thing.#the/DET person/NOUN is/AUX pour/VERB some/DET thing/NOUN#0.0#0.0
+a person with his right arm is ordering something, then pick something up from the ground#a/DET person/NOUN with/ADP his/DET right/ADJ arm/NOUN is/AUX order/VERB something/PRON then/ADV pick/VERB something/PRON up/ADP from/ADP the/DET ground/NOUN#0.0#0.0
+a person raised the right hand and pull it down#a/DET person/NOUN raise/VERB the/DET right/ADJ hand/NOUN and/CCONJ pull/VERB it/PRON down/ADP#0.0#0.0

@@ -1,0 +1,3 @@
+a man raises its right arm.#a/DET man/NOUN raise/VERB its/DET right/ADJ arm/NOUN#0.0#0.0
+a person with his right arm down raises only the forearm to the height of his neck.#a/DET person/NOUN with/ADP his/DET right/ADJ arm/NOUN down/ADV raise/VERB only/ADV the/DET forearm/NOUN to/ADP the/DET height/NOUN of/ADP his/DET neck/NOUN#0.0#0.0
+a person raises their right hand.#a/DET person/NOUN raise/VERB their/DET right/ADJ hand/NOUN#0.0#0.0

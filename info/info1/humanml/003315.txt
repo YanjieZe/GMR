@@ -1,0 +1,3 @@
+the motion seems similar to an axel twist in ice skating#the/DET motion/NOUN seem/VERB similar/ADJ to/ADP an/DET axel/ADJ twist/NOUN in/ADP ice/NOUN skating/NOUN#0.0#0.0
+a person steps to the left and jumps while turning in a full circle.#a/DET person/NOUN step/VERB to/ADP the/DET left/NOUN and/CCONJ jump/VERB while/SCONJ turn/VERB in/ADP a/DET full/ADJ circle/NOUN#0.0#0.0
+someone does a spinning jump before crossing back to their starting position.#someone/PRON does/AUX a/DET spinning/ADJ jump/NOUN before/ADP cross/VERB back/ADV to/ADP their/DET starting/NOUN position/NOUN#0.0#0.0

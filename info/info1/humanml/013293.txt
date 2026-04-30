@@ -1,0 +1,3 @@
+the worker uses their arms to guide the airplane#the/DET worker/NOUN use/VERB their/DET arm/NOUN to/PART guide/VERB the/DET airplane/NOUN#0.0#0.0
+a person waves both hands at their side several times.#a/DET person/NOUN wave/VERB both/DET hand/NOUN at/ADP their/DET side/NOUN several/ADJ time/NOUN#0.0#0.0
+a man with both of his hands raised waves them then puts them at his side#a/DET man/NOUN with/ADP both/DET of/ADP his/DET hand/NOUN raise/VERB wave/NOUN them/PRON then/ADV put/VERB them/PRON at/ADP his/DET side/NOUN#0.0#0.0

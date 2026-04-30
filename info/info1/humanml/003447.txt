@@ -1,0 +1,3 @@
+a person walks, turns to the left, walks, and turns to the left again.#a/DET person/NOUN walk/VERB turn/VERB to/ADP the/DET left/NOUN walk/VERB and/CCONJ turn/VERB to/ADP the/DET left/NOUN again/ADV#0.0#0.0
+a person unsteadily walks in a small, counterclockwise circle, then suddenly veers off behind the circle and turns to the left.#a/DET person/NOUN unsteadily/ADV walk/VERB in/ADP a/DET small/ADJ counterclockwise/ADJ circle/NOUN then/ADV suddenly/ADV veer/VERB off/ADV behind/ADP the/DET circle/NOUN and/CCONJ turn/VERB to/ADP the/DET left/NOUN#0.0#10.0
+person walks fast forward then back on him self with arms out to side#person/NOUN walk/VERB fast/ADV forward/ADV then/ADV back/ADV on/ADP him/PRON self/NOUN with/ADP arm/NOUN out/ADV to/PART side/VERB#0.0#0.0

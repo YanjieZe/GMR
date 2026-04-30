@@ -1,0 +1,3 @@
+a person stretching their left arm over their head, bending their body during the motion.#a/DET person/NOUN stretch/VERB their/DET left/ADJ arm/NOUN over/ADP their/DET head/NOUN bend/VERB their/DET body/NOUN during/ADP the/DET motion/NOUN#0.0#0.0
+a figure does a stretch to get ready for exercising.#a/DET figure/NOUN does/AUX a/DET stretch/NOUN to/PART get/AUX ready/ADJ for/ADP exercise/VERB#0.0#0.0
+a person does a stretch#a/DET person/NOUN does/AUX a/DET stretch/NOUN#0.0#0.0

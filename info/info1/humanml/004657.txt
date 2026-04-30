@@ -1,0 +1,3 @@
+a person picks up something with his right hand, then raises it slightly several times.#a/DET person/NOUN pick/VERB up/ADP something/PRON with/ADP his/DET right/ADJ hand/NOUN then/ADV raise/VERB it/PRON slightly/ADV several/ADJ time/NOUN#0.0#0.0
+person moves right hand down to right to pick something up then moves item with right hand up and down a few times#person/NOUN move/VERB right/ADJ hand/NOUN down/ADP to/ADP right/NOUN to/PART pick/VERB something/PRON up/ADP then/ADV move/VERB item/NOUN with/ADP right/ADJ hand/NOUN up/ADP and/CCONJ down/ADP a/DET few/ADJ time/NOUN#0.0#0.0
+a man picks something up and then puts it down.#a/DET man/NOUN pick/VERB something/PRON up/ADP and/CCONJ then/ADV put/VERB it/PRON down/ADP#0.0#0.0

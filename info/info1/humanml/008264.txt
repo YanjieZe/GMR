@@ -1,0 +1,3 @@
+a person approaches an object, then adjusts the object, then turns around and walks away#a/DET person/NOUN approach/VERB an/DET object/NOUN then/ADV adjust/VERB the/DET object/NOUN then/ADV turn/VERB around/ADV and/CCONJ walk/VERB away/ADV#0.0#0.0
+a person walks forward picks up something puts it down and walks back#a/DET person/NOUN walk/VERB forward/ADV pick/VERB up/ADP something/PRON put/VERB it/PRON down/ADP and/CCONJ walk/VERB back/ADV#0.0#0.0
+a person walks forward with confidence, bends over to rearrange something, and then turns around and walks back.#a/DET person/NOUN walk/VERB forward/ADV with/ADP confidence/NOUN bend/VERB over/ADP to/PART rearrange/VERB something/PRON and/CCONJ then/ADV turn/VERB around/ADV and/CCONJ walk/VERB back/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person jumps backwards twice, trying to dodge something#a/DET person/NOUN jump/VERB backwards/ADV twice/ADV try/VERB to/PART dodge/VERB something/PRON#0.0#0.0
+person is dodging something three times#person/NOUN is/AUX dodge/VERB something/PRON three/NUM time/NOUN#0.0#0.0
+a man slides to the side to dodge something and goes back into place, then he slides to dodge again.#a/DET man/NOUN slide/VERB to/ADP the/DET side/NOUN to/PART dodge/VERB something/PRON and/CCONJ go/VERB back/ADV into/ADP place/NOUN then/ADV he/PRON slide/VERB to/PART dodge/VERB again/ADV#0.0#0.0

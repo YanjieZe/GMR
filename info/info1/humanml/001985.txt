@@ -1,0 +1,3 @@
+the person is walking forward then turning around.#the/DET person/NOUN is/AUX walk/VERB forward/ADV then/ADV turn/VERB around/ADV#0.0#0.0
+a person walking a few steps, and then swinging around using his right leg for support.#a/DET person/NOUN walk/VERB a/DET few/ADJ step/NOUN and/CCONJ then/ADV swinge/VERB around/ADP use/VERB his/DET right/ADJ leg/NOUN for/ADP support/NOUN#0.0#0.0
+a person walks two steps forward turns and walks back to beginning#a/DET person/NOUN walk/VERB two/NUM step/NOUN forward/ADV turn/VERB and/CCONJ walk/VERB back/ADV to/ADP begin/VERB#0.0#5.0

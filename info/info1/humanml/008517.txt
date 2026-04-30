@@ -1,0 +1,3 @@
+a person moves an object from a position on his left to a position to his right.#a/DET person/NOUN move/VERB an/DET object/NOUN from/ADP a/DET position/NOUN on/ADP his/DET left/NOUN to/ADP a/DET position/NOUN to/ADP his/DET right/NOUN#0.0#0.0
+this person uses both hands to lift an item that appears to be slightly heavy.#this/DET person/NOUN use/VERB both/DET hand/NOUN to/PART lift/VERB an/DET item/NOUN that/DET appear/VERB to/PART be/AUX slightly/ADV heavy/ADJ#0.0#0.0
+moving hands from side to side.#move/VERB hand/NOUN from/ADP side/NOUN to/ADP side/NOUN#0.0#0.0

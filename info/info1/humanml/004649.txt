@@ -1,0 +1,3 @@
+the person is taking several steps to their right, without crossing legs.#the/DET person/NOUN is/AUX take/VERB several/ADJ step/NOUN to/ADP their/DET right/NOUN without/ADP cross/VERB leg/NOUN#0.0#0.0
+strathing from left to right#strathe/VERB from/ADP left/VERB to/ADP right/ADJ#0.0#0.0
+he walks sideways forward then stops#he/PRON walk/VERB sideways/ADV forward/ADV then/ADV stop/VERB#0.0#0.0

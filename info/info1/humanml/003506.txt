@@ -1,0 +1,3 @@
+a person trips over something on his left leg and stumbles forward.#a/DET person/NOUN trip/VERB over/ADP something/PRON on/ADP his/DET left/ADJ leg/NOUN and/CCONJ stumble/NOUN forward/ADV#0.0#0.0
+person is stepping forward.#person/NOUN is/AUX step/VERB forward/ADV#0.0#0.0
+a person trips and stumbles forward.#a/DET person/NOUN trip/VERB and/CCONJ stumble/NOUN forward/ADV#0.0#0.0

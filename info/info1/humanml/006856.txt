@@ -1,0 +1,3 @@
+the person standing on his left leg twisting his right leg.#the/DET person/NOUN stand/VERB on/ADP his/DET left/ADJ leg/NOUN twist/VERB his/DET right/ADJ leg/NOUN#0.0#0.0
+person stands on left leg and lifts right leg bending it at the knee.#person/NOUN stand/VERB on/ADP left/ADJ leg/NOUN and/CCONJ lift/VERB right/ADJ leg/NOUN bend/VERB it/PRON at/ADP the/DET knee/NOUN#0.0#0.0
+a person raised the right leg and started to warm up#a/DET person/NOUN raise/VERB the/DET right/ADJ leg/NOUN and/CCONJ start/VERB to/PART warm/VERB up/ADP#0.0#0.0

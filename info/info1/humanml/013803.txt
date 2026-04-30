@@ -1,0 +1,3 @@
+moving hands to the side then towards chest.#move/VERB hand/NOUN to/ADP the/DET side/NOUN then/ADV towards/ADP chest/NOUN#0.0#0.0
+a man grabs something with his left arm, and his right hand untwists the top, holds it out to his side, then returns to retwist it back on.#a/DET man/NOUN grab/VERB something/PRON with/ADP his/DET left/ADJ arm/NOUN and/CCONJ his/DET right/ADJ hand/NOUN untwist/VERB the/DET top/NOUN hold/VERB it/PRON out/ADP to/ADP his/DET side/NOUN then/ADV return/VERB to/PART retwist/VERB it/PRON back/ADV on/ADP#0.0#0.0
+a person grabbed something with right hand and put it somewhere#a/DET person/NOUN grab/VERB something/PRON with/ADP right/ADJ hand/NOUN and/CCONJ put/VERB it/PRON somewhere/ADV#0.0#0.0

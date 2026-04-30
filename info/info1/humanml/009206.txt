@@ -1,0 +1,3 @@
+a person who seems to be shouting out#a/DET person/NOUN who/PRON seem/VERB to/PART be/AUX shout/VERB out/ADP#0.0#0.0
+raising hands towards face.#raise/VERB hand/NOUN towards/ADP face/NOUN#0.0#0.0
+the person is taking a picture of something.#the/DET person/NOUN is/AUX take/VERB a/DET picture/NOUN of/ADP something/PRON#0.0#0.0

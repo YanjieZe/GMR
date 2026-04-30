@@ -1,0 +1,3 @@
+sway your hips from side to side.#sway/VERB your/DET hip/NOUN from/ADP side/NOUN to/ADP side/NOUN#0.0#0.0
+someone moves from right to left, then puts their hands on the waist#someone/PRON move/VERB from/ADP right/NOUN to/ADP left/NOUN then/ADV put/VERB their/DET hand/NOUN on/ADP the/DET waist/NOUN#0.0#0.0
+the person is swaying back-and-forth.#the/DET person/NOUN is/AUX sway/VERB backandforth/PROPN#0.0#0.0

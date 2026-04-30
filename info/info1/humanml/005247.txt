@@ -1,0 +1,3 @@
+a person is pushed forward a step.#a/DET person/NOUN is/AUX push/VERB forward/ADV a/DET step/NOUN#0.0#0.0
+person standing stumbles two steps forward#person/NOUN stand/VERB stumble/NOUN two/NUM step/NOUN forward/ADV#0.0#0.0
+a person falls forwards and then recovers#a/DET person/NOUN fall/VERB forwards/ADV and/CCONJ then/ADV recover/NOUN#0.0#0.0

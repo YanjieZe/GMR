@@ -1,0 +1,2 @@
+someones walking and swaying there arms#someone/NOUN walk/VERB and/CCONJ sway/VERB there/ADJ arm/NOUN#0.0#0.0
+a person goes in a 45 degree right angle forward while using handrails on both sides.#a/DET person/NOUN go/VERB in/ADP a/DET degree/NOUN right/ADJ angle/NOUN forward/ADV while/SCONJ use/VERB handrail/NOUN on/ADP both/DET side/NOUN#0.0#0.0

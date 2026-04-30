@@ -1,0 +1,3 @@
+person quickly takes one step forward#person/NOUN quickly/ADV take/VERB one/NUM step/NOUN forward/ADV#0.0#0.0
+a person pauses but then walks forward three steps.#a/DET person/NOUN pause/VERB but/CCONJ then/ADV walk/VERB forward/ADV three/NUM step/NOUN#0.0#0.0
+the human is stepping forward abruptly#the/DET human/NOUN is/AUX step/VERB forward/ADV abruptly/ADV#0.0#0.0

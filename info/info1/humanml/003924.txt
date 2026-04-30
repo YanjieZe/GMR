@@ -1,0 +1,3 @@
+a man crouches completely still before lowering his right arm.#a/DET man/NOUN crouch/NOUN completely/ADV still/ADV before/ADP lower/VERB his/DET right/ADJ arm/NOUN#0.0#0.0
+a man holds his right arm out, lowers it, and then raises both arms.#a/DET man/NOUN hold/VERB his/DET right/ADJ arm/NOUN out/ADP lower/VERB it/PRON and/CCONJ then/ADV raise/VERB both/DET arm/NOUN#0.0#0.0
+a person holds their right arm out, lowers it, then flaps their arms#a/DET person/NOUN hold/VERB their/DET right/ADJ arm/NOUN out/ADP lower/VERB it/PRON then/ADV flap/VERB their/DET arm/NOUN#0.0#0.0

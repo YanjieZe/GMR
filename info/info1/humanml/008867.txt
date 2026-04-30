@@ -1,0 +1,3 @@
+this person stands and sways around as if to be social in a crowd.#this/DET person/NOUN stand/VERB and/CCONJ sway/VERB around/ADV as/SCONJ if/SCONJ to/PART be/AUX social/ADJ in/ADP a/DET crowd/NOUN#0.0#0.0
+a figure slaps downward to the left.#a/DET figure/NOUN slap/VERB downward/ADV to/ADP the/DET left/NOUN#0.0#0.0
+the figure looks like it is saying hello to others#the/DET figure/NOUN look/VERB like/SCONJ it/PRON is/AUX say/VERB hello/INTJ to/ADP other/NOUN#0.0#0.0

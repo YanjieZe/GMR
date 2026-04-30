@@ -1,0 +1,3 @@
+a man walks forward while swaying his feet in a zig-zag path.#a/DET man/NOUN walk/VERB forward/ADV while/SCONJ sway/VERB his/DET foot/NOUN in/ADP a/DET zigzag/PROPN path/NOUN#0.0#0.0
+a person steps over an object/puddle while walking.#a/DET person/NOUN step/VERB over/ADP an/DET object/NOUN puddle/NOUN while/SCONJ walk/VERB#0.0#0.0
+a person is walking in a line.#a/DET person/NOUN is/AUX walk/VERB in/ADP a/DET line/NOUN#0.0#0.0

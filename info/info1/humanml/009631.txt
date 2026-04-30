@@ -1,0 +1,3 @@
+a person lifts something with their right arm, shakes something with both arms, then does a quick shake of something with only the right arm.#a/DET person/NOUN lift/VERB something/PRON with/ADP their/DET right/ADJ arm/NOUN shake/VERB something/PRON with/ADP both/DET arm/NOUN then/ADV does/AUX a/DET quick/ADJ shake/NOUN of/ADP something/PRON with/ADP only/ADV the/DET right/ADJ arm/NOUN#0.0#4.0
+a figure marks a center on a map.#a/DET figure/NOUN mark/VERB a/DET center/NOUN on/ADP a/DET map/NOUN#0.0#0.0
+the person is sitting down doing an experiment.#the/DET person/NOUN is/AUX sit/VERB down/ADP do/VERB an/DET experiment/NOUN#0.0#0.0

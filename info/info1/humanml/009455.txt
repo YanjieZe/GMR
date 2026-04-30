@@ -1,0 +1,3 @@
+person checking the time on his right wrist#person/NOUN check/VERB the/DET time/NOUN on/ADP his/DET right/ADJ wrist/NOUN#0.0#0.0
+the man is looking at his watch on his right wrist#the/DET man/NOUN is/AUX look/VERB at/ADP his/DET watch/NOUN on/ADP his/DET right/ADJ wrist/NOUN#0.0#0.0
+a person raises their right hand then places it back down.#a/DET person/NOUN raise/VERB their/DET right/ADJ hand/NOUN then/ADV place/VERB it/PRON back/ADV down/ADV#0.0#0.0

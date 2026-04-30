@@ -1,0 +1,3 @@
+a person is standing but motions as if they are swimming.#a/DET person/NOUN is/AUX stand/VERB but/CCONJ motion/NOUN as/SCONJ if/SCONJ they/PRON are/AUX swim/VERB#0.0#0.0
+the person stand with their arms stretched outward, then brings them down and moves as if they are swimming#the/DET person/NOUN stand/VERB with/ADP their/DET arm/NOUN stretch/VERB outward/ADV then/ADV bring/VERB them/PRON down/ADP and/CCONJ move/VERB as/SCONJ if/SCONJ they/PRON are/AUX swim/VERB#0.0#0.0
+a person begins stance with arms outstretched on either side, then makes swimming motions with his hands.#a/DET person/NOUN begin/VERB stance/NOUN with/ADP arm/NOUN outstretche/VERB on/ADP either/DET side/NOUN then/ADV make/VERB swimming/NOUN motion/NOUN with/ADP his/DET hand/NOUN#0.0#0.0

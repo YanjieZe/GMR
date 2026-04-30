@@ -1,0 +1,3 @@
+a person is standing then pushes something with their right should and finally stands still.#a/DET person/NOUN is/AUX stand/VERB then/ADV push/VERB something/PRON with/ADP their/DET right/NOUN should/VERB and/CCONJ finally/ADV stand/VERB still/ADV#0.0#0.0
+a man is pushed forward slightly.#a/DET man/NOUN is/AUX push/VERB forward/ADV slightly/ADV#0.0#0.0
+a person stumbles forward as if they are under the influence.#a/DET person/NOUN stumble/VERB forward/ADV as/SCONJ if/SCONJ they/PRON are/AUX under/ADP the/DET influence/NOUN#0.0#0.0

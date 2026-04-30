@@ -1,0 +1,3 @@
+sit on the floor and through some thing.#sit/VERB on/ADP the/DET floor/NOUN and/CCONJ through/ADP some/DET thing/NOUN#0.0#0.0
+a man sits down on the ground cross-legged and throws an object with his right hand.#a/DET man/NOUN sit/VERB down/ADP on/ADP the/DET ground/NOUN crosslegge/VERB and/CCONJ throw/VERB an/DET object/NOUN with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+the figure takes a seat, appears to make a throwing motion, and then stands up.#the/DET figure/NOUN take/VERB a/DET seat/NOUN appear/VERB to/PART make/VERB a/DET throwing/NOUN motion/NOUN and/CCONJ then/ADV stand/VERB up/ADP#0.0#0.0

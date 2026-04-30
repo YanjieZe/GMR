@@ -1,0 +1,3 @@
+the toon bends down to pick something up before stepping backward slightly.#the/DET toon/NOUN bend/VERB down/ADP to/PART pick/VERB something/PRON up/ADP before/ADP step/VERB backward/ADV slightly/ADV#0.0#4.0
+the person reach down to pick something up.#the/DET person/NOUN reach/VERB down/ADP to/PART pick/VERB something/PRON up/ADP#0.0#0.0
+a person reaches down with their right arm to the ground, bending as necessary and supporting themselves with their left arm.#a/DET person/NOUN reach/VERB down/ADP with/ADP their/DET right/ADJ arm/NOUN to/ADP the/DET ground/NOUN bend/VERB as/ADV necessary/ADJ and/CCONJ support/VERB themselves/PRON with/ADP their/DET left/ADJ arm/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks in a wide counter-clockwise circle.#a/DET person/NOUN walk/VERB in/ADP a/DET wide/ADJ counterclockwise/NOUN circle/NOUN#0.0#0.0
+a person walks in a circle normally with arms swinging#a/DET person/NOUN walk/VERB in/ADP a/DET circle/NOUN normally/ADV with/ADP arm/NOUN swinge/VERB#0.0#0.0
+person walked in a circle.#person/NOUN walk/VERB in/ADP a/DET circle/NOUN#0.0#10.0

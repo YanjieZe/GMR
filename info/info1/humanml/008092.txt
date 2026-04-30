@@ -1,0 +1,3 @@
+the person is marching and then going backwards and walking forwards.#the/DET person/NOUN is/AUX march/VERB and/CCONJ then/ADV go/VERB backwards/ADV and/CCONJ walk/VERB forwards/ADV#0.0#0.0
+a person who walks in one spot and then walks in a circle#a/DET person/NOUN who/PRON walk/VERB in/ADP one/NUM spot/NOUN and/CCONJ then/ADV walk/VERB in/ADP a/DET circle/NOUN#0.0#0.0
+a person walks in circles.#a/DET person/NOUN walk/VERB in/ADP circle/NOUN#0.0#0.0

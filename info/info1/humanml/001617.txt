@@ -1,0 +1,3 @@
+a person walking one way and then increasing pace running back#a/DET person/NOUN walk/VERB one/NUM way/NOUN and/CCONJ then/ADV increase/VERB pace/NOUN run/VERB back/ADV#0.0#0.0
+a person walks straight forward, turns, then runs back#a/DET person/NOUN walk/VERB straight/ADV forward/ADV turn/VERB then/ADV run/VERB back/ADV#0.0#0.0
+a man walks forward before turning around and running back.#a/DET man/NOUN walk/VERB forward/ADV before/ADP turn/VERB around/ADV and/CCONJ run/VERB back/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+the person is playing peekaboo.#the/DET person/NOUN is/AUX play/VERB peekaboo/PROPN#0.0#0.0
+a person holding their hands to their face and suddenly letting go; peek a boo motion#a/DET person/NOUN hold/VERB their/DET hand/NOUN to/ADP their/DET face/NOUN and/CCONJ suddenly/ADV let/VERB go/VERB peek/VERB a/DET boo/NOUN motion/NOUN#0.0#0.0
+a person puts both hands to his face.#a/DET person/NOUN put/VERB both/DET hand/NOUN to/ADP his/DET face/NOUN#0.0#0.0

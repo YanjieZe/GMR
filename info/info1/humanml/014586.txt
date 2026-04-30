@@ -1,0 +1,3 @@
+a man walks up a round curve a stairs.#a/DET man/NOUN walk/VERB up/ADP a/DET round/ADJ curve/NOUN a/DET stair/NOUN#0.0#0.0
+a person appears to step down from left to right, before turning around and beginning to step back up.#a/DET person/NOUN appear/VERB to/PART step/VERB down/ADP from/ADP left/VERB to/ADP right/NOUN before/ADP turn/VERB around/ADV and/CCONJ begin/VERB to/PART step/VERB back/ADV up/ADV#0.0#0.0
+a person slowly moved downstairs and returned#a/DET person/NOUN slowly/ADV move/VERB downstairs/ADV and/CCONJ return/VERB#0.0#0.0

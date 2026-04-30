@@ -1,0 +1,3 @@
+a person  threw some thing with his right hand.#a/DET person/NOUN throw/VERB some/DET thing/NOUN with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+a person raises their right hand and slaps it on  something in front of them.#a/DET person/NOUN raise/VERB their/DET right/ADJ hand/NOUN and/CCONJ slap/VERB it/PRON on/ADP something/PRON in/ADP front/NOUN of/ADP them/PRON#0.0#0.0
+a man throws an object with his right hand.#a/DET man/NOUN throw/VERB an/DET object/NOUN with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0

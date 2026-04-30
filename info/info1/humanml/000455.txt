@@ -1,0 +1,3 @@
+a person turns clockwise while standing in place then slowly stretches arms outward to their side.#a/DET person/NOUN turn/VERB clockwise/NOUN while/SCONJ stand/VERB in/ADP place/NOUN then/ADV slowly/ADV stretch/VERB arm/NOUN outward/ADV to/ADP their/DET side/NOUN#0.0#0.0
+a person slowly turns then raises their arms#a/DET person/NOUN slowly/ADV turn/VERB then/ADV raise/VERB their/DET arm/NOUN#0.0#0.0
+a person carefully steps in a circular motion looking downward and then raises their arms outwards.#a/DET person/NOUN carefully/ADV step/VERB in/ADP a/DET circular/ADJ motion/NOUN look/VERB downward/ADV and/CCONJ then/ADV raise/VERB their/DET arm/NOUN outward/NOUN#0.0#0.0

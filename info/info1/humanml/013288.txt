@@ -1,0 +1,3 @@
+the person is jiggling on their toes with her hands up.#the/DET person/NOUN is/AUX jiggle/VERB on/ADP their/DET toe/NOUN with/ADP her/DET hand/NOUN up/ADP#0.0#0.0
+person is on tippy toes with hands up#person/NOUN is/AUX on/ADP tippy/ADJ toe/NOUN with/ADP hand/NOUN up/ADV#0.0#0.0
+as a person bounces repeatedly on their toes, they lift their hands to the sides and overhead, palms wide.#as/SCONJ a/DET person/NOUN bounce/VERB repeatedly/ADV on/ADP their/DET toe/NOUN they/PRON lift/VERB their/DET hand/NOUN to/ADP the/DET side/NOUN and/CCONJ overhead/ADV palm/NOUN wide/ADJ#0.0#0.0

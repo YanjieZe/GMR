@@ -1,0 +1,3 @@
+person is trying to get someone to stop#person/NOUN is/AUX try/VERB to/PART get/AUX someone/PRON to/PART stop/VERB#0.0#0.0
+a man holds his hand out, steps forward, then holds them back and takes a step back.#a/DET man/NOUN hold/VERB his/DET hand/NOUN out/ADP step/VERB forward/ADV then/ADV hold/VERB them/PRON back/ADV and/CCONJ take/VERB a/DET step/NOUN back/ADV#0.0#0.0
+a   man is holdin   something  and move#a/DET man/NOUN is/AUX holdin/PROPN something/PRON and/CCONJ move/VERB#0.0#0.0

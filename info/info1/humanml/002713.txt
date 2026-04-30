@@ -1,0 +1,3 @@
+a person lifts their hands over their heads and bounces slightly on their toes#a/DET person/NOUN lift/VERB their/DET hand/NOUN over/ADP their/DET head/NOUN and/CCONJ bounce/VERB slightly/ADV on/ADP their/DET toe/NOUN#0.0#0.0
+a person raises both hands above head looks like they are about to receive a catch of sorts from something#a/DET person/NOUN raise/VERB both/DET hand/NOUN above/ADP head/NOUN look/VERB like/SCONJ they/PRON are/AUX about/ADJ to/PART receive/VERB a/DET catch/NOUN of/ADP sort/NOUN from/ADP something/PRON#0.0#0.0
+a person raises their hands above their head and bounces on their toes.#a/DET person/NOUN raise/VERB their/DET hand/NOUN above/ADP their/DET head/NOUN and/CCONJ bounce/NOUN on/ADP their/DET toe/NOUN#0.0#0.0

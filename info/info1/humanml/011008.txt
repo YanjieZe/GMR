@@ -1,0 +1,3 @@
+a man runs straight forward#a/DET man/NOUN run/VERB straight/ADV forward/ADV#0.0#0.0
+person jogs for a second and stops#person/NOUN jog/VERB for/ADP a/DET second/ADJ and/CCONJ stop/NOUN#0.0#0.0
+person jogs forward at an angle.#person/NOUN jog/VERB forward/ADV at/ADP an/DET angle/NOUN#0.0#0.0

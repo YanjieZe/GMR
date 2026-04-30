@@ -1,0 +1,3 @@
+the person turns around and starts to walk backwards towards the screen. he then faces us and walks backwards#the/DET person/NOUN turn/VERB around/ADP and/CCONJ start/VERB to/PART walk/VERB backwards/ADV towards/ADP the/DET screen/NOUN he/PRON then/ADV face/VERB us/PRON and/CCONJ walk/VERB backwards/ADV#0.0#0.0
+a person turns, walks backwards, then turns and walks backwards#a/DET person/NOUN turn/VERB walk/VERB backwards/ADV then/ADV turn/VERB and/CCONJ walk/VERB backwards/ADV#0.0#0.0
+a man turns around and proceeds to take steps backwards.#a/DET man/NOUN turn/VERB around/ADP and/CCONJ proceed/VERB to/PART take/VERB step/NOUN backwards/ADV#0.0#0.0

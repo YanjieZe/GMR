@@ -1,0 +1,3 @@
+a person feeling around , as if they are unable to see.#a/DET person/NOUN feel/VERB around/ADV as/SCONJ if/SCONJ they/PRON are/AUX unable/ADJ to/PART see/VERB#0.0#0.0
+a person standing still and moving both hands in a synchronized motion.#a/DET person/NOUN stand/VERB still/ADV and/CCONJ move/VERB both/DET hand/NOUN in/ADP a/DET synchronized/ADJ motion/NOUN#0.0#0.0
+a person pats something in front of them repeatedly with both hands.#a/DET person/NOUN pat/VERB something/PRON in/ADP front/NOUN of/ADP them/PRON repeatedly/ADV with/ADP both/DET hand/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person staggers while walking.#a/DET person/NOUN stagger/VERB while/SCONJ walk/VERB#0.0#0.0
+a person walks forward several steps.#a/DET person/NOUN walk/VERB forward/ADV several/ADJ step/NOUN#0.0#0.0
+person looks like a model walking the runway.#person/NOUN look/VERB like/SCONJ a/DET model/NOUN walk/VERB the/DET runway/NOUN#1.0#4.0

@@ -1,0 +1,3 @@
+a person slowly walks in a half circle clockwise.#a/DET person/NOUN slowly/ADV walk/VERB in/ADP a/DET half/ADJ circle/NOUN clockwise/NOUN#0.0#0.0
+with their head pointed toward the ground, a person walks slowly in a cirlce motion#with/ADP their/DET head/NOUN point/VERB toward/ADP the/DET ground/NOUN a/DET person/NOUN walk/VERB slowly/ADV in/ADP a/DET cirlce/NOUN motion/NOUN#0.0#0.0
+a figure mopes in a room.#a/DET figure/NOUN mope/NOUN in/ADP a/DET room/NOUN#0.0#0.0

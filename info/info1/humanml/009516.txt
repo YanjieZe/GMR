@@ -1,0 +1,3 @@
+the person walked four steps forward.#the/DET person/NOUN walk/VERB four/NUM step/NOUN forward/ADV#0.0#0.0
+a person walks forward from one end to the other while slightly leans left.#a/DET person/NOUN walk/VERB forward/ADV from/ADP one/NUM end/NOUN to/ADP the/DET other/ADJ while/SCONJ slightly/ADV lean/VERB left/ADV#0.0#0.0
+a man with his arms to his sides takes four steps forward and stops.#a/DET man/NOUN with/ADP his/DET arm/NOUN to/ADP his/DET side/NOUN take/VERB four/NUM step/NOUN forward/ADV and/CCONJ stop/NOUN#0.0#0.0

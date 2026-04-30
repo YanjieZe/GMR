@@ -1,0 +1,3 @@
+a person steps forward, moves something diagonally back from right to left, then steps back.#a/DET person/NOUN step/VERB forward/ADV move/VERB something/PRON diagonally/ADV back/ADV from/ADP right/NOUN to/ADP left/NOUN then/ADV step/VERB back/ADV#0.0#0.0
+a person picks something up with their left hand and sets it down to their side.#a/DET person/NOUN pick/VERB something/PRON up/ADP with/ADP their/DET left/ADJ hand/NOUN and/CCONJ set/VERB it/PRON down/ADP to/ADP their/DET side/NOUN#0.0#0.0
+a person walks forward and touches something with his left hand.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ touch/VERB something/PRON with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0

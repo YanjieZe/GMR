@@ -1,0 +1,3 @@
+a person steps backwards, sits, then stands and steps forward.#a/DET person/NOUN step/VERB backwards/ADV sit/VERB then/ADV stand/VERB and/CCONJ step/VERB forward/ADV#0.0#0.0
+a man steps backwards and the leans on an object.#a/DET man/NOUN step/VERB backwards/ADV and/CCONJ the/DET lean/NOUN on/ADP an/DET object/NOUN#0.0#0.0
+a man walking with cuatious#a/DET man/NOUN walk/VERB with/ADP cuatious/ADJ#2.0#4.0

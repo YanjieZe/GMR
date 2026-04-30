@@ -1,0 +1,3 @@
+a person stands stationary, lifts something up with thier right arm, pauses, and then sets the object on a surface and lowers their arm.#a/DET person/NOUN stand/VERB stationary/ADJ lift/VERB something/PRON up/ADP with/ADP thier/ADJ right/ADJ arm/NOUN pause/NOUN and/CCONJ then/ADV set/VERB the/DET object/NOUN on/ADP a/DET surface/NOUN and/CCONJ lower/VERB their/DET arm/NOUN#0.0#0.0
+a person picks up something, drinks, and then puts it back down.#a/DET person/NOUN pick/VERB up/ADP something/PRON drink/NOUN and/CCONJ then/ADV put/VERB it/PRON back/ADV down/ADP#0.0#0.0
+the person holds their right arm still to salute to salute goodbye#the/DET person/NOUN hold/VERB their/DET right/ADJ arm/NOUN still/ADV to/PART salute/VERB to/ADP salute/PROPN goodbye/NOUN#0.0#0.0

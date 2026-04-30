@@ -1,0 +1,3 @@
+person falls forward one step#person/NOUN fall/VERB forward/ADV one/NUM step/NOUN#0.0#0.0
+a person is pushed forward one step.#a/DET person/NOUN is/AUX push/VERB forward/ADV one/NUM step/NOUN#0.0#0.0
+the person was pushed from behind.#the/DET person/NOUN was/AUX push/VERB from/ADP behind/ADV#0.0#0.0

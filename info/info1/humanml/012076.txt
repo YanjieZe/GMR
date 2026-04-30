@@ -1,0 +1,3 @@
+a man stands straight up with his arms to his sides, then begins the evenly walk forwards and to the right then stops facing the right.#a/DET man/NOUN stand/VERB straight/ADV up/ADV with/ADP his/DET arm/NOUN to/ADP his/DET side/NOUN then/ADV begin/VERB the/DET evenly/ADJ walk/NOUN forwards/ADV and/CCONJ to/ADP the/DET right/NOUN then/ADV stop/VERB face/VERB the/DET right/NOUN#0.0#0.0
+the man is bending to the right#the/DET man/NOUN is/AUX bend/VERB to/ADP the/DET right/NOUN#0.0#0.0
+a person walks in a forward-rightward diagnol.#a/DET person/NOUN walk/VERB in/ADP a/DET forwardrightward/NOUN diagnol/NOUN#0.0#0.0

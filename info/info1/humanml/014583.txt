@@ -1,0 +1,2 @@
+a woman rotates her pelvis to pick up an item off the ground and place on a shelf.#a/DET woman/NOUN rotate/VERB her/DET pelvi/NOUN to/PART pick/VERB up/ADP an/DET item/NOUN off/ADP the/DET ground/NOUN and/CCONJ place/NOUN on/ADP a/DET shelf/NOUN#0.0#0.0
+the person reaches for something twice and places it on the floor#the/DET person/NOUN reach/VERB for/ADP something/PRON twice/ADJ and/CCONJ place/VERB it/PRON on/ADP the/DET floor/NOUN#0.0#0.0

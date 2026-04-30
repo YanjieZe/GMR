@@ -1,0 +1,3 @@
+the person is rasiing a hand.#the/DET person/NOUN is/AUX rasie/VERB a/DET hand/NOUN#0.0#0.0
+a man leans to the right and slighlty elevates his left heel, while touching his forehead with his left hand.#a/DET man/NOUN lean/VERB to/ADP the/DET right/NOUN and/CCONJ slighlty/NOUN elevate/VERB his/DET left/ADJ heel/NOUN while/SCONJ touch/VERB his/DET forehead/NOUN with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0
+a person leans to the right while lifting their left hand toward their face.#a/DET person/NOUN lean/VERB to/ADP the/DET right/NOUN while/SCONJ lift/VERB their/DET left/ADJ hand/NOUN toward/ADP their/DET face/NOUN#0.0#0.0

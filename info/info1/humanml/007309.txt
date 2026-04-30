@@ -1,0 +1,3 @@
+a person, slightly bent over, takes five steps forward.#a/DET person/NOUN slightly/ADV bent/ADJ over/ADP take/VERB five/NUM step/NOUN forward/ADV#0.0#0.0
+a mans walking forward slowly.#a/DET mans/PROPN walk/VERB forward/ADV slowly/ADV#0.0#0.0
+a person walks forward and stops in the center.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ stop/NOUN in/ADP the/DET center/NOUN#0.0#0.0

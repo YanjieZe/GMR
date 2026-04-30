@@ -1,0 +1,3 @@
+a person stand still water fishing#a/DET person/NOUN stand/VERB still/ADV water/NOUN fishing/NOUN#0.0#0.0
+a person is using a fishing motion and reeling the line in.#a/DET person/NOUN is/AUX use/VERB a/DET fishing/NOUN motion/NOUN and/CCONJ reel/VERB the/DET line/NOUN in/ADP#0.0#0.0
+a persons is fishing with a rod#a/DET person/NOUN is/AUX fish/VERB with/ADP a/DET rod/NOUN#0.0#0.0

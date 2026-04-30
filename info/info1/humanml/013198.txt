@@ -1,0 +1,3 @@
+a person dances extremely erratically#a/DET person/NOUN dance/VERB extremely/ADV erratically/ADV#0.0#0.0
+a person does a modern pop  dance.#a/DET person/NOUN does/AUX a/DET modern/ADJ pop/NOUN dance/NOUN#0.0#0.0
+a person stands still, then hops and jumps around dancing with their feet#a/DET person/NOUN stand/VERB still/ADV then/ADV hop/VERB and/CCONJ jump/VERB around/ADP dance/VERB with/ADP their/DET foot/NOUN#0.0#0.0

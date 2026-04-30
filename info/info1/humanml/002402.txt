@@ -1,0 +1,3 @@
+the person is standing then then looks like excercising.#the/DET person/NOUN is/AUX stand/VERB then/ADV then/ADV look/VERB like/SCONJ excercise/VERB#0.0#0.0
+a person shakes a bit before exercising, knee to elbows.#a/DET person/NOUN shake/VERB a/DET bit/NOUN before/ADP exercise/VERB knee/NOUN to/ADP elbow/NOUN#0.0#0.0
+a person touches left elbow to right knee; puts knee down and touches right elbow to left knee. 2 times on each side.#a/DET person/NOUN touch/VERB left/VERB elbow/VERB to/ADP right/ADJ knee/NOUN put/VERB knee/VERB down/ADP and/CCONJ touch/VERB right/ADV elbow/ADJ to/PART left/ADJ knee/NOUN time/NOUN on/ADP each/DET side/NOUN#0.0#0.5

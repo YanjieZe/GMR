@@ -1,0 +1,3 @@
+a person saunters forward.#a/DET person/NOUN saunter/VERB forward/ADV#0.0#0.0
+the person is walking very fast forward#the/DET person/NOUN is/AUX walk/VERB very/ADV fast/ADV forward/ADV#0.0#0.0
+the person quickly walks forward.#the/DET person/NOUN quickly/ADV walk/VERB forward/ADV#0.0#0.0

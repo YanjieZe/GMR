@@ -1,0 +1,3 @@
+a person winds up his arm and then pitches a ball.#a/DET person/NOUN wind/VERB up/ADP his/DET arm/NOUN and/CCONJ then/ADV pitch/VERB a/DET ball/NOUN#0.0#0.0
+the person threw some thing forward.#the/DET person/NOUN throw/VERB some/DET thing/NOUN forward/ADV#0.0#0.0
+person is throwing a ball or other object#person/NOUN is/AUX throw/VERB a/DET ball/NOUN or/CCONJ other/ADJ object/NOUN#0.0#0.0

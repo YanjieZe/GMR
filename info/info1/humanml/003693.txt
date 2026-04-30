@@ -1,0 +1,3 @@
+a person reaches forward with both arms and waves them around.#a/DET person/NOUN reach/VERB forward/ADV with/ADP both/DET arm/NOUN and/CCONJ wave/VERB them/PRON around/ADV#0.0#0.0
+a person standing straight and shaking his arms.#a/DET person/NOUN stand/VERB straight/ADV and/CCONJ shake/VERB his/DET arm/NOUN#0.0#0.0
+a person shakes arms either side of body.#a/DET person/NOUN shake/VERB arm/NOUN either/CCONJ side/NOUN of/ADP body/NOUN#0.0#0.0

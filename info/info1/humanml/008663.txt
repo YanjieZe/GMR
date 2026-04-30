@@ -1,0 +1,3 @@
+jumping forward then stopping.#jump/VERB forward/ADV then/ADV stop/VERB#0.0#0.0
+person stands still then jumps forward both legs thrusting together whilst arms pushing forward#person/NOUN stand/VERB still/ADV then/ADV jump/VERB forward/ADV both/DET leg/NOUN thrust/VERB together/ADV whilst/SCONJ arm/NOUN push/VERB forward/ADV#0.0#0.0
+a man crouches down and jumps forward with his arms swinging.#a/DET man/NOUN crouch/VERB down/ADP and/CCONJ jump/VERB forward/ADV with/ADP his/DET arm/NOUN swinge/VERB#0.0#0.0

@@ -1,0 +1,3 @@
+the person nearly stumbles while walking#the/DET person/NOUN nearly/ADV stumble/VERB while/SCONJ walk/VERB#0.0#0.0
+person walks straight, stumbles to the left, regains balance#person/NOUN walk/VERB straight/ADV stumble/NOUN to/ADP the/DET left/NOUN regain/VERB balance/NOUN#0.0#0.0
+a man walks forward, trips to the right and then comes back to the center.#a/DET man/NOUN walk/VERB forward/ADV trip/VERB to/ADP the/DET right/NOUN and/CCONJ then/ADV come/VERB back/ADV to/ADP the/DET center/NOUN#0.0#0.0

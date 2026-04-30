@@ -1,0 +1,3 @@
+a person stand up, and bend the knee#a/DET person/NOUN stand/VERB up/ADP and/CCONJ bend/VERB the/DET knee/NOUN#0.0#0.0
+the man looks for something on the ground stands ans backs up then seems to see it.#the/DET man/NOUN look/VERB for/ADP something/PRON on/ADP the/DET ground/NOUN stand/VERB ans/PROPN back/VERB up/ADP then/ADV seem/VERB to/PART see/VERB it/PRON#0.0#0.0
+a person kneels down on the ground, stands up while, goes backwards and goes back to the grounds touching it with both hands#a/DET person/NOUN kneel/VERB down/ADP on/ADP the/DET ground/NOUN stand/VERB up/ADP while/SCONJ go/VERB backwards/ADV and/CCONJ go/VERB back/ADV to/ADP the/DET ground/NOUN touch/VERB it/PRON with/ADP both/DET hand/NOUN#0.0#0.0

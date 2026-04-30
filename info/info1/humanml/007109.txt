@@ -1,0 +1,3 @@
+running and doing a summersault.#run/VERB and/CCONJ do/VERB a/DET summersault/NOUN#0.0#0.0
+a person rolls on the ground, gets up and starts to run to the right.#a/DET person/NOUN roll/VERB on/ADP the/DET ground/NOUN get/VERB up/ADV and/CCONJ start/VERB to/PART run/VERB to/ADP the/DET right/NOUN#0.0#0.0
+a person rolls and tumbles and then starts running veering to their right.#a/DET person/NOUN roll/VERB and/CCONJ tumble/NOUN and/CCONJ then/ADV start/VERB run/VERB veer/VERB to/ADP their/DET right/NOUN#0.0#0.0

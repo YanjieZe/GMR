@@ -1,0 +1,3 @@
+a man steps backward slowly with arms curved at his sides.#a/DET man/NOUN step/VERB backward/ADV slowly/ADV with/ADP arm/NOUN curve/VERB at/ADP his/DET side/NOUN#0.0#0.0
+a person carefully takes many small steps backwards.#a/DET person/NOUN carefully/ADV take/VERB many/ADJ small/ADJ step/NOUN backwards/ADV#0.0#0.0
+a hunter may cautiously back away from a threatening predator in the wild.#a/DET hunter/NOUN may/VERB cautiously/ADV back/VERB away/ADV from/ADP a/DET threaten/VERB predator/NOUN in/ADP the/DET wild/NOUN#0.0#0.0

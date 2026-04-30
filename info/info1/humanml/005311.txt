@@ -1,0 +1,3 @@
+a person picks something up with both hands.#a/DET person/NOUN pick/VERB something/PRON up/ADP with/ADP both/DET hand/NOUN#0.0#0.0
+band and take something on the hand.#band/VERB and/CCONJ take/VERB something/PRON on/ADP the/DET hand/NOUN#0.0#0.0
+a person bends down to pick something up and carries it in place.#a/DET person/NOUN bend/VERB down/ADP to/PART pick/VERB something/PRON up/ADP and/CCONJ carry/VERB it/PRON in/ADP place/NOUN#0.0#0.0

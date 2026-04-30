@@ -1,0 +1,3 @@
+the person is squatting down to pose.#the/DET person/NOUN is/AUX squat/VERB down/ADP to/ADP pose/VERB#0.0#0.0
+a person sits down slowly on their left leg.#a/DET person/NOUN sit/VERB down/ADP slowly/ADV on/ADP their/DET left/ADJ leg/NOUN#0.0#0.0
+the man is sitting down#the/DET man/NOUN is/AUX sit/VERB down/ADP#0.0#0.0

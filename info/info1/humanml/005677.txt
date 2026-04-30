@@ -1,0 +1,3 @@
+a person shuffles to the side, then walks forward and nearly misses tripping.#a/DET person/NOUN shuffle/VERB to/ADP the/DET side/NOUN then/ADV walk/VERB forward/ADV and/CCONJ nearly/ADV miss/VERB tripping/NOUN#0.0#0.0
+a person has a leg injury while walking#a/DET person/NOUN has/AUX a/DET leg/NOUN injury/NOUN while/SCONJ walk/VERB#0.0#0.0
+a person walks forward and stumbles on something on the ground.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ stumble/NOUN on/ADP something/PRON on/ADP the/DET ground/NOUN#0.0#0.0

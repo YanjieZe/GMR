@@ -1,0 +1,3 @@
+a person walks while using a hand rail#a/DET person/NOUN walk/VERB while/SCONJ use/VERB a/DET hand/NOUN rail/NOUN#0.0#0.0
+a figure walks forward unsteadily, using their left arm to brace themselves on a wall#a/DET figure/NOUN walk/VERB forward/ADV unsteadily/ADV use/VERB their/DET left/ADJ arm/NOUN to/PART brace/VERB themselves/PRON on/ADP a/DET wall/NOUN#0.0#0.0
+a person walks forward while leaning against something.#a/DET person/NOUN walk/VERB forward/ADV while/SCONJ lean/VERB against/ADP something/PRON#0.0#0.0

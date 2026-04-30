@@ -1,0 +1,3 @@
+a person shifts both of their hands to the right then drops them down.#a/DET person/NOUN shift/VERB both/DET of/ADP their/DET hand/NOUN to/ADP the/DET right/NOUN then/ADV drop/VERB them/PRON down/ADP#0.0#0.0
+a person is moving something with both hands.#a/DET person/NOUN is/AUX move/VERB something/PRON with/ADP both/DET hand/NOUN#0.0#0.0
+a person picks up something to his left from about waist high and tilts it to the right as if to remove its contents.#a/DET person/NOUN pick/VERB up/ADP something/PRON to/ADP his/DET left/NOUN from/ADP about/ADP waist/NOUN high/ADV and/CCONJ tilt/VERB it/PRON to/ADP the/DET right/NOUN as/SCONJ if/SCONJ to/PART remove/VERB its/DET content/NOUN#0.0#0.0

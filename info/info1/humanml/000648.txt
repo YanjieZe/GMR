@@ -1,0 +1,3 @@
+a person leans forward while holding their right hand out in front of them#a/DET person/NOUN lean/VERB forward/ADV while/SCONJ hold/VERB their/DET right/ADJ hand/NOUN out/ADP in/ADP front/NOUN of/ADP them/PRON#0.0#0.0
+a person is holding something up in his right hand, he shifts his body to the left#a/DET person/NOUN is/AUX hold/VERB something/PRON up/ADP in/ADP his/DET right/ADJ hand/NOUN he/PRON shift/VERB his/DET body/NOUN to/ADP the/DET left/NOUN#0.0#0.0
+a person has his right hand in the air.#a/DET person/NOUN has/AUX his/DET right/ADJ hand/NOUN in/ADP the/DET air/NOUN#0.0#0.0

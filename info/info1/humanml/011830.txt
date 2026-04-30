@@ -1,0 +1,3 @@
+a person walks briskly forwards#a/DET person/NOUN walk/VERB briskly/ADV forwards/ADV#0.0#0.0
+a pwerson walks forward fast.#a/DET pwerson/NOUN walk/VERB forward/ADV fast/ADV#0.0#0.0
+a person walks forward confidently.#a/DET person/NOUN walk/VERB forward/ADV confidently/ADV#0.0#0.0

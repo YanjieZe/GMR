@@ -1,0 +1,3 @@
+she carefully sliced some of the zucchini and then backed away from the table.#she/PRON carefully/ADV slice/VERB some/DET of/ADP the/DET zucchini/NOUN and/CCONJ then/ADV back/VERB away/ADV from/ADP the/DET table/NOUN#0.0#0.0
+a man walks forward and picks up an item with his right hand.#a/DET man/NOUN walk/VERB forward/ADV and/CCONJ pick/VERB up/ADP an/DET item/NOUN with/ADP his/DET right/ADJ hand/NOUN#0.0#2.0
+person cuts something then sets it aside#person/NOUN cut/VERB something/PRON then/ADV set/VERB it/PRON aside/ADV#0.0#0.0

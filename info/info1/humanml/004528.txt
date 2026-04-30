@@ -1,0 +1,3 @@
+a person walks using both legs, but kicks the ground with their right leg on each step with the right leg#a/DET person/NOUN walk/VERB use/VERB both/DET leg/NOUN but/CCONJ kick/VERB the/DET ground/NOUN with/ADP their/DET right/ADJ leg/NOUN on/ADP each/DET step/NOUN with/ADP the/DET right/ADJ leg/NOUN#0.0#0.0
+person bounces whilst walking everytime it reaches their right leg#person/NOUN bounce/VERB whilst/SCONJ walk/VERB everytime/ADV it/PRON reach/VERB their/DET right/ADJ leg/NOUN#0.0#0.0
+person walks with a limp in right leg and with very little bend in left leg.#person/NOUN walk/VERB with/ADP a/DET limp/NOUN in/ADP right/ADJ leg/NOUN and/CCONJ with/ADP very/ADV little/ADJ bend/NOUN in/ADP left/ADJ leg/NOUN#0.0#0.0

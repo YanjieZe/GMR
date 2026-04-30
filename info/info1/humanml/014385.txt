@@ -1,0 +1,3 @@
+a person skips to the left, skips to the right and back to the left.#a/DET person/NOUN skip/VERB to/ADP the/DET left/NOUN skip/VERB to/ADP the/DET right/NOUN and/CCONJ back/ADV to/ADP the/DET left/NOUN#0.0#0.0
+a person strafes to the left, then right, then left one last time#a/DET person/NOUN strafe/VERB to/ADP the/DET left/NOUN then/ADV right/INTJ then/ADV left/VERB one/NUM last/ADJ time/NOUN#0.0#0.0
+a person takes two lateral skips to her left, four to her right, and another two to her left.#a/DET person/NOUN take/VERB two/NUM lateral/ADJ skip/NOUN to/ADP her/DET left/NOUN four/NUM to/ADP her/PRON right/NOUN and/CCONJ another/DET two/NUM to/ADP her/DET left/NOUN#0.0#0.0

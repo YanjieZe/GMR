@@ -1,0 +1,3 @@
+a person walks up some stairs, turns around, and walks back down them.#a/DET person/NOUN walk/VERB up/ADP some/DET stair/NOUN turn/VERB around/ADV and/CCONJ walk/VERB back/ADV down/ADP them/PRON#0.0#0.0
+a person uses a hand rail while walking up and then down a flight of stairs.#a/DET person/NOUN use/VERB a/DET hand/NOUN rail/NOUN while/SCONJ walk/VERB up/ADP and/CCONJ then/ADV down/ADP a/DET flight/NOUN of/ADP stair/NOUN#0.0#0.0
+a man holds a railing to his right while walking up stairs.#a/DET man/NOUN hold/VERB a/DET railing/NOUN to/ADP his/DET right/NOUN while/SCONJ walk/VERB up/ADP stair/NOUN#0.0#0.0

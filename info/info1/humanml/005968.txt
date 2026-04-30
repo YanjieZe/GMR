@@ -1,0 +1,2 @@
+a person steps backwards quickly, shakes their hands out by their side, then walks forward.#a/DET person/NOUN step/VERB backwards/ADV quickly/ADV shake/VERB their/DET hand/NOUN out/ADP by/ADP their/DET side/NOUN then/ADV walk/VERB forward/ADV#0.0#7.0
+the person backed up and is walking diagonally.#the/DET person/NOUN back/VERB up/ADP and/CCONJ is/AUX walk/VERB diagonally/ADV#0.0#0.0

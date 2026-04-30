@@ -1,0 +1,3 @@
+the person is holding their head while walking.#the/DET person/NOUN is/AUX hold/VERB their/DET head/NOUN while/SCONJ walk/VERB#0.0#0.0
+a person has both of their hands holding where their head would be and frantically jogs around.#a/DET person/NOUN has/AUX both/DET of/ADP their/DET hand/NOUN hold/VERB where/ADV their/DET head/NOUN would/VERB be/AUX and/CCONJ frantically/ADV jog/VERB around/ADV#0.0#0.0
+a person walks to the right holding object on head.#a/DET person/NOUN walk/VERB to/ADP the/DET right/ADJ hold/VERB object/NOUN on/ADP head/NOUN#0.0#0.0

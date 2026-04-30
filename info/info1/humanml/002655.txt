@@ -1,0 +1,3 @@
+a man folds his arms in front of him.#a/DET man/NOUN fold/VERB his/DET arm/NOUN in/ADP front/NOUN of/ADP him/PRON#0.0#0.0
+a person crosses their arms at their chest and then puts them back down.#a/DET person/NOUN cross/VERB their/DET arm/NOUN at/ADP their/DET chest/NOUN and/CCONJ then/ADV put/VERB them/PRON back/ADV down/ADP#0.0#0.0
+he folds his hands in front of himself.#he/PRON fold/VERB his/DET hand/NOUN in/ADP front/NOUN of/ADP himself/PRON#0.0#0.0

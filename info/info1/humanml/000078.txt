@@ -1,0 +1,3 @@
+individual appears to be in a constant flrx.#individual/ADJ appear/VERB to/PART be/AUX in/ADP a/DET constant/ADJ flrx/NOUN#5.0#7.0
+a person stands still with their hands on their legs, then moves their arms#a/DET person/NOUN stand/VERB still/ADV with/ADP their/DET hand/NOUN on/ADP their/DET leg/NOUN then/ADV move/VERB their/DET arm/NOUN#0.0#0.0
+a person is standing with both hands in front of them, then raises both arms up at the shoulder.#a/DET person/NOUN is/AUX stand/VERB with/ADP both/DET hand/NOUN in/ADP front/NOUN of/ADP them/PRON then/ADV raise/VERB both/DET arm/NOUN up/ADV at/ADP the/DET shoulder/NOUN#0.0#0.0

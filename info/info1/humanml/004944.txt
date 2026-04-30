@@ -1,0 +1,3 @@
+the person raises arms overhead and then kicks alternating legs back while moving backwards.#the/DET person/NOUN raise/VERB arm/NOUN overhead/ADV and/CCONJ then/ADV kick/VERB alternate/VERB leg/NOUN back/ADV while/SCONJ move/VERB backwards/ADV#0.0#0.0
+a person dodges hits from attacker.#a/DET person/NOUN dodge/VERB hit/NOUN from/ADP attacker/PROPN#0.0#0.0
+the man is moving backwards left and right#the/DET man/NOUN is/AUX move/VERB backwards/ADV left/ADJ and/CCONJ right/ADJ#0.0#0.0

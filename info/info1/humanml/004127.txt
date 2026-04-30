@@ -1,0 +1,3 @@
+seated driver puts on seatbelt while holding steering wheel#seat/VERB driver/NOUN put/VERB on/ADP seatbelt/NOUN while/SCONJ hold/VERB steering/NOUN wheel/NOUN#1.0#4.0
+a squatting person raises their left hand, then does a swooping motion with their right.#a/DET squat/VERB person/NOUN raise/VERB their/DET left/ADJ hand/NOUN then/ADV does/AUX a/DET swooping/NOUN motion/NOUN with/ADP their/DET right/NOUN#0.0#0.0
+he moves his hands around#he/PRON move/VERB his/DET hand/NOUN around/ADV#0.0#0.0

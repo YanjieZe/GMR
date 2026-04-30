@@ -1,0 +1,3 @@
+a person moves his hands around the air and then puts his hands on his laps.#a/DET person/NOUN move/VERB his/DET hand/NOUN around/ADP the/DET air/NOUN and/CCONJ then/ADV put/VERB his/DET hand/NOUN on/ADP his/DET lap/NOUN#0.0#0.0
+a man hunched over, messing around with is hands#a/DET man/NOUN hunch/VERB over/ADV mess/VERB around/ADP with/ADP is/AUX hand/NOUN#0.0#0.0
+a man shakes something next to his head with his hands.#a/DET man/NOUN shake/VERB something/PRON next/ADJ to/ADP his/DET head/NOUN with/ADP his/DET hand/NOUN#0.0#0.0

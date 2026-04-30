@@ -1,0 +1,3 @@
+person is walking at a normal pace in random directions#person/NOUN is/AUX walk/VERB at/ADP a/DET normal/ADJ pace/NOUN in/ADP random/ADJ direction/NOUN#0.0#0.0
+someone is walking around thinking#someone/PRON is/AUX walk/VERB around/ADP think/VERB#0.0#0.0
+a person walks back and forth down a stretch, but it largely moves to the right overall.#a/DET person/NOUN walk/VERB back/ADV and/CCONJ forth/ADV down/ADP a/DET stretch/NOUN but/CCONJ it/PRON largely/ADV move/VERB to/ADP the/DET right/ADJ overall/NOUN#0.0#0.0

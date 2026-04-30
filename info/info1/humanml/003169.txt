@@ -1,0 +1,3 @@
+person bends down, then stracthes right elbow and right side of head#person/NOUN bend/VERB down/ADP then/ADV stracthe/VERB right/ADV elbow/NOUN and/CCONJ right/ADJ side/NOUN of/ADP head/NOUN#0.0#0.0
+a person who is posing and drinking a beverage, with his left arm.#a/DET person/NOUN who/PRON is/AUX pose/VERB and/CCONJ drink/VERB a/DET beverage/NOUN with/ADP his/DET left/ADJ arm/NOUN#0.0#0.0
+a person stands up from a bent over position then scratches their right arm then their head.#a/DET person/NOUN stand/VERB up/ADP from/ADP a/DET bent/NOUN over/ADP position/NOUN then/ADV scratch/VERB their/DET right/ADJ arm/NOUN then/ADV their/DET head/NOUN#0.0#0.0

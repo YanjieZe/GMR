@@ -1,0 +1,3 @@
+the person is focused on walkind and pacing around.#the/DET person/NOUN is/AUX focus/VERB on/ADP walkind/NOUN and/CCONJ pace/VERB around/ADV#0.0#0.0
+a person leaping forward over something.#a/DET person/NOUN leap/VERB forward/ADV over/ADP something/PRON#0.0#0.0
+a person jumps over something, then turns around and jumps back over it.#a/DET person/NOUN jump/VERB over/ADP something/PRON then/ADV turn/VERB around/ADV and/CCONJ jump/VERB back/ADV over/ADP it/PRON#0.0#0.0

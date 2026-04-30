@@ -1,0 +1,3 @@
+a person stretches their arms above their head#a/DET person/NOUN stretch/VERB their/DET arm/NOUN above/ADP their/DET head/NOUN#0.0#0.0
+a man stands and stretches his arms upward, then outward, and then bend slightly at the ways to stretch his legs.#a/DET man/NOUN stand/VERB and/CCONJ stretch/VERB his/DET arm/NOUN upward/ADV then/ADV outward/ADV and/CCONJ then/ADV bend/VERB slightly/ADV at/ADP the/DET way/NOUN to/PART stretch/VERB his/DET leg/NOUN#0.0#0.0
+a person stretches arms upward and outward and then leans to stretch leg.#a/DET person/NOUN stretch/VERB arm/NOUN upward/ADV and/CCONJ outward/ADV and/CCONJ then/ADV lean/VERB to/PART stretch/VERB leg/NOUN#0.0#0.0

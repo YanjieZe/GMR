@@ -1,0 +1,3 @@
+a person urgently motions for somebody to go away with their left hand.#a/DET person/NOUN urgently/ADV motion/NOUN for/ADP somebody/PRON to/PART go/VERB away/ADV with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0
+this person is waving quickly with his left arm then with both arms.#this/DET person/NOUN is/AUX wave/VERB quickly/ADV with/ADP his/DET left/ADJ arm/NOUN then/ADV with/ADP both/DET arm/NOUN#0.0#0.0
+a person is waving a lot with its left hand, then starts to wave with both hands.#a/DET person/NOUN is/AUX wave/VERB a/DET lot/NOUN with/ADP its/DET left/ADJ hand/NOUN then/ADV start/VERB to/PART wave/VERB with/ADP both/DET hand/NOUN#0.0#0.0

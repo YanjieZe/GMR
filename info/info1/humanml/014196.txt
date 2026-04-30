@@ -1,0 +1,3 @@
+a person walks forward dragging his right leg behind him.#a/DET person/NOUN walk/VERB forward/ADV drag/VERB his/DET right/ADJ leg/NOUN behind/ADP him/PRON#0.0#0.0
+a person is walking while dragging his right foot.#a/DET person/NOUN is/AUX walk/VERB while/SCONJ drag/VERB his/DET right/ADJ foot/NOUN#0.0#0.0
+someone injured dragging their right leg while walking#someone/PRON injure/VERB drag/VERB their/DET right/ADJ leg/NOUN while/SCONJ walk/VERB#0.0#0.0

@@ -1,0 +1,3 @@
+a person sloppily walks forwards diagonally to the right and then turns around and walks forward on the same path.#a/DET person/NOUN sloppily/ADV walk/VERB forwards/ADV diagonally/ADV to/ADP the/DET right/NOUN and/CCONJ then/ADV turn/VERB around/ADV and/CCONJ walk/VERB forward/ADV on/ADP the/DET same/ADJ path/NOUN#0.0#0.0
+robot started to move forward slowly and turned back and again started to walk slowly.#robot/PROPN start/VERB to/PART move/VERB forward/ADV slowly/ADV and/CCONJ turn/VERB back/ADV and/CCONJ again/ADV start/VERB to/PART walk/VERB slowly/ADV#0.0#0.0
+a person walks slowly forward.#a/DET person/NOUN walk/VERB slowly/ADV forward/ADV#0.0#0.0

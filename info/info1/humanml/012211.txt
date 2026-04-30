@@ -1,0 +1,3 @@
+someone is sitting, then goes on the phone with their left hand.#someone/PRON is/AUX sit/VERB then/ADV go/VERB on/ADP the/DET phone/NOUN with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0
+a person sits on the ground, shivering, and then stands, still shivering, as though very afraid#a/DET person/NOUN sit/VERB on/ADP the/DET ground/NOUN shivering/NOUN and/CCONJ then/ADV stand/VERB still/ADV shiver/VERB as/SCONJ though/SCONJ very/ADV afraid/ADJ#0.0#0.0
+a person is on their phone while parking their car, and then gets out.#a/DET person/NOUN is/AUX on/ADP their/DET phone/NOUN while/SCONJ park/VERB their/DET car/NOUN and/CCONJ then/ADV get/VERB out/ADP#0.0#0.0

@@ -1,0 +1,3 @@
+a person takes a few steps with his arms held at his sides and limping slightly, before ending in a standing position.#a/DET person/NOUN take/VERB a/DET few/ADJ step/NOUN with/ADP his/DET arm/NOUN hold/VERB at/ADP his/DET side/NOUN and/CCONJ limp/VERB slightly/ADV before/ADP end/VERB in/ADP a/DET standing/ADJ position/NOUN#0.0#0.0
+stick figure stands still before walking forward and sort of stumbling#stick/PROPN figure/NOUN stand/VERB still/ADV before/ADP walk/VERB forward/ADV and/CCONJ sort/ADV of/ADV stumble/VERB#0.0#7.0
+a person walks forward then stands still for a few seconds.#a/DET person/NOUN walk/VERB forward/ADV then/ADV stand/VERB still/ADV for/ADP a/DET few/ADJ second/NOUN#0.0#0.0

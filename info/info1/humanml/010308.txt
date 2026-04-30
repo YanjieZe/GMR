@@ -1,0 +1,3 @@
+he starts digging a hole#he/PRON start/VERB dig/VERB a/DET hole/NOUN#0.0#0.0
+a person is digging a hole with a shovel.#a/DET person/NOUN is/AUX dig/VERB a/DET hole/NOUN with/ADP a/DET shovel/NOUN#0.0#0.0
+a person is digging into the ground and tossing the dirt over their shoulder.#a/DET person/NOUN is/AUX dig/VERB into/ADP the/DET ground/NOUN and/CCONJ toss/VERB the/DET dirt/NOUN over/ADP their/DET shoulder/NOUN#0.0#0.0

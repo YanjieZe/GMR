@@ -1,0 +1,3 @@
+a person leans down with their hands in front of their head, trying to dodge something#a/DET person/NOUN lean/VERB down/ADP with/ADP their/DET hand/NOUN in/ADP front/NOUN of/ADP their/DET head/NOUN try/VERB to/PART dodge/VERB something/PRON#0.0#0.0
+a person standing in a wide stance with bent arms in front in a blocking position ducks to his right#a/DET person/NOUN stand/VERB in/ADP a/DET wide/ADJ stance/NOUN with/ADP bent/ADJ arm/NOUN in/ADP front/NOUN in/ADP a/DET block/VERB position/NOUN duck/NOUN to/ADP his/DET right/NOUN#0.0#0.0
+the figure looks like he is dodging something.#the/DET figure/NOUN look/VERB like/SCONJ he/PRON is/AUX dodge/VERB something/PRON#0.0#0.0

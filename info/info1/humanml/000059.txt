@@ -1,0 +1,3 @@
+a man like figure walks in an elongated circular motion and then returns to where he started.#a/DET man/NOUN like/SCONJ figure/NOUN walk/VERB in/ADP an/DET elongated/ADJ circular/ADJ motion/NOUN and/CCONJ then/ADV return/VERB to/ADP where/ADV he/PRON start/VERB#0.0#0.0
+a person thoughtfully paces in a circle path#a/DET person/NOUN thoughtfully/ADV pace/VERB in/ADP a/DET circle/NOUN path/NOUN#0.0#0.0
+a person casually walks in a figure 8 pattern#a/DET person/NOUN casually/ADV walk/VERB in/ADP a/DET figure/NOUN pattern/NOUN#0.0#0.0

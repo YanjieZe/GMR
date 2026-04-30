@@ -1,0 +1,3 @@
+the person sat down in a chair.#the/DET person/NOUN sit/VERB down/ADP in/ADP a/DET chair/NOUN#0.0#0.0
+a person sat on something and after get up#a/DET person/NOUN sit/VERB on/ADP something/PRON and/CCONJ after/ADV get/AUX up/ADP#0.0#0.0
+the man steps back and sits in a chair then gets up and steps forward.#the/DET man/NOUN step/VERB back/ADV and/CCONJ sit/VERB in/ADP a/DET chair/NOUN then/ADV get/VERB up/ADV and/CCONJ step/NOUN forward/ADV#0.0#0.0

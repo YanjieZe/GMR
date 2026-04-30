@@ -1,0 +1,3 @@
+a person does one squat with arms straight out in front.#a/DET person/NOUN does/AUX one/NUM squat/VERB with/ADP arm/NOUN straight/ADV out/ADV in/ADP front/NOUN#0.0#0.0
+a man performs a squat and raises both arms forward.#a/DET man/NOUN perform/VERB a/DET squat/NOUN and/CCONJ raise/VERB both/DET arm/NOUN forward/ADV#0.0#0.0
+a person bends down at knees and brings both arms out extended in front of him and returns to standing position.#a/DET person/NOUN bend/VERB down/ADP at/ADP knee/NOUN and/CCONJ bring/VERB both/DET arm/NOUN out/ADV extend/VERB in/ADP front/NOUN of/ADP him/PRON and/CCONJ return/NOUN to/ADP standing/NOUN position/NOUN#0.0#5.0

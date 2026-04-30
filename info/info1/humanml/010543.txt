@@ -1,0 +1,3 @@
+person moves left hand over head while bending on right side#person/NOUN move/VERB left/VERB hand/NOUN over/ADP head/NOUN while/SCONJ bend/VERB on/ADP right/ADJ side/NOUN#0.0#0.0
+a person stretches their right arm up and stretches it over their head.#a/DET person/NOUN stretch/VERB their/DET right/ADJ arm/NOUN up/ADP and/CCONJ stretch/VERB it/PRON over/ADP their/DET head/NOUN#0.0#0.0
+a person is stretching their right arm over their head while bending to the left.#a/DET person/NOUN is/AUX stretch/VERB their/DET right/ADJ arm/NOUN over/ADP their/DET head/NOUN while/SCONJ bend/VERB to/ADP the/DET left/NOUN#0.0#0.0

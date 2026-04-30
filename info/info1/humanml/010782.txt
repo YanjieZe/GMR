@@ -1,0 +1,3 @@
+a person walks forward at a medium speed.#a/DET person/NOUN walk/VERB forward/ADV at/ADP a/DET medium/ADJ speed/NOUN#0.0#0.0
+person is speedily walking forward#person/NOUN is/AUX speedily/ADV walk/VERB forward/ADV#0.0#0.0
+a figure walks at a normal speed in a straight line#a/DET figure/NOUN walk/VERB at/ADP a/DET normal/ADJ speed/NOUN in/ADP a/DET straight/ADJ line/NOUN#0.0#0.0

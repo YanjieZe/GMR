@@ -1,0 +1,3 @@
+the figure squats while simultaneously bending its arms as if using dumbells, it repeats this motion twice.#the/DET figure/NOUN squat/VERB while/SCONJ simultaneously/ADV bend/VERB its/DET arm/NOUN as/SCONJ if/SCONJ use/VERB dumbell/NOUN it/PRON repeat/VERB this/DET motion/NOUN twice/ADV#0.0#0.0
+a person lifts dumbells above their head, while bending the knees to squat at the same time.#a/DET person/NOUN lift/VERB dumbell/VERB above/ADP their/DET head/NOUN while/SCONJ bend/VERB the/DET knee/NOUN to/PART squat/VERB at/ADP the/DET same/ADJ time/NOUN#0.0#0.0
+a man performs two squats while also raising his arms over his head.#a/DET man/NOUN perform/VERB two/NUM squat/NOUN while/SCONJ also/ADV raise/VERB his/DET arm/NOUN over/ADP his/DET head/NOUN#0.0#0.0

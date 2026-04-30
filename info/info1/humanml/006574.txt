@@ -1,0 +1,3 @@
+the person is walking in a zig zag .#the/DET person/NOUN is/AUX walk/VERB in/ADP a/DET zig/NOUN zag/X#0.0#0.0
+a person who walked in a zig zag pattern#a/DET person/NOUN who/PRON walk/VERB in/ADP a/DET zig/NOUN zag/X pattern/NOUN#0.0#0.0
+person hobbles forward and to the right.#person/NOUN hobble/VERB forward/ADV and/CCONJ to/ADP the/DET right/NOUN#0.0#0.0

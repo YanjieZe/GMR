@@ -1,0 +1,3 @@
+person moves to side and climbs some steps#person/NOUN move/VERB to/PART side/VERB and/CCONJ climb/VERB some/DET step/NOUN#0.0#0.0
+walked right then went up  ladder, holding on with both arms then reached with right arm to grab something#walk/VERB right/ADV then/ADV go/VERB up/ADP ladder/NOUN hold/VERB on/ADP with/ADP both/DET arm/NOUN then/ADV reach/VERB with/ADP right/ADJ arm/NOUN to/PART grab/VERB something/PRON#0.0#10.0
+a person walks towards a ladder then climbs it when he reaches the top he picks up a object with his right hand#a/DET person/NOUN walk/VERB towards/ADP a/DET ladder/NOUN then/ADV climb/VERB it/PRON when/ADV he/PRON reach/VERB the/DET top/NOUN he/PRON pick/VERB up/ADP a/DET object/NOUN with/ADP his/DET right/ADJ hand/NOUN#0.0#1.0

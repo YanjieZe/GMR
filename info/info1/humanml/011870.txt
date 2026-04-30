@@ -1,0 +1,3 @@
+a person appears to hold an object with their left hand while stroking it with their right hand. they then turn around with said object.#a/DET person/NOUN appear/VERB to/PART hold/VERB an/DET object/NOUN with/ADP their/DET left/ADJ hand/NOUN while/SCONJ stroke/VERB it/PRON with/ADP their/DET right/ADJ hand/NOUN they/PRON then/ADV turn/VERB around/ADP with/ADP said/ADJ object/NOUN#0.0#0.0
+a person is moving his right arm around.#a/DET person/NOUN is/AUX move/VERB his/DET right/ADJ arm/NOUN around/ADV#0.0#0.0
+a person lets their arm drift then raises them to clean off something.#a/DET person/NOUN let/VERB their/DET arm/NOUN drift/NOUN then/ADV raise/VERB them/PRON to/PART clean/VERB off/ADP something/PRON#0.0#0.0

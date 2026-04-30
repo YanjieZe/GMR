@@ -1,0 +1,3 @@
+a person holding a fighting pose takes an uppercut swing with his left hand.#a/DET person/NOUN hold/VERB a/DET fighting/NOUN pose/NOUN take/VERB an/DET uppercut/NOUN swing/NOUN with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0
+a person makes a swooping gesture up and to their right with their left arm.#a/DET person/NOUN make/VERB a/DET swooping/NOUN gesture/NOUN up/ADP and/CCONJ to/ADP their/DET right/NOUN with/ADP their/DET left/ADJ arm/NOUN#0.0#0.0
+a person performing an odd uppercut#a/DET person/NOUN perform/VERB an/DET odd/ADJ uppercut/NOUN#0.0#0.0

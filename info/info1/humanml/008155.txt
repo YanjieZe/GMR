@@ -1,0 +1,3 @@
+a man walks up stairs with his right arm out.#a/DET man/NOUN walk/VERB up/ADP stair/NOUN with/ADP his/DET right/ADJ arm/NOUN out/ADP#0.0#0.0
+the sim uses their right hand to grab a rail before climbing stairs.#the/DET sim/PROPN use/VERB their/DET right/ADJ hand/NOUN to/PART grab/VERB a/DET rail/NOUN before/ADP climb/VERB stair/NOUN#0.0#6.0
+the person is walking upstairs.#the/DET person/NOUN is/AUX walk/VERB upstairs/ADV#0.0#0.0

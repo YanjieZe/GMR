@@ -1,0 +1,3 @@
+a person throwing and catching something with their right hand.#a/DET person/NOUN throw/VERB and/CCONJ catch/VERB something/PRON with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+person turns around and makes hand gestures#person/NOUN turn/VERB around/ADV and/CCONJ make/VERB hand/NOUN gesture/NOUN#0.0#0.0
+the person turn around to do some thing.#the/DET person/NOUN turn/VERB around/ADP to/PART do/AUX some/DET thing/NOUN#0.0#0.0

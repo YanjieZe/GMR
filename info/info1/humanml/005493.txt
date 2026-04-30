@@ -1,0 +1,3 @@
+someone steps to the left and then recovers there original position by steping to the right.#someone/PRON step/VERB to/ADP the/DET left/NOUN and/CCONJ then/ADV recover/NOUN there/ADV original/ADJ position/NOUN by/ADP step/VERB to/ADP the/DET right/NOUN#0.0#0.0
+a person steps forward to the left.#a/DET person/NOUN step/VERB forward/ADV to/ADP the/DET left/NOUN#0.0#0.0
+a person steps to the right, takes a half step back with their left foot and then steps back to the left.#a/DET person/NOUN step/VERB to/ADP the/DET right/NOUN take/VERB a/DET half/ADJ step/NOUN back/ADV with/ADP their/DET left/ADJ foot/NOUN and/CCONJ then/ADV step/VERB back/ADV to/ADP the/DET left/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person is staggering backwards then forward.#a/DET person/NOUN is/AUX staggering/ADJ backwards/ADV then/ADV forward/ADV#0.0#0.0
+a person stumbles with slightly bent knees back to the left, then turns and stumbles to the right#a/DET person/NOUN stumble/VERB with/ADP slightly/ADV bent/ADJ knee/NOUN back/ADV to/ADP the/DET left/NOUN then/ADV turn/VERB and/CCONJ stumble/VERB to/ADP the/DET right/NOUN#0.0#0.0
+a person stumbles forward due to exhaustion.#a/DET person/NOUN stumble/VERB forward/ADV due/ADP to/ADP exhaustion/NOUN#0.0#0.0

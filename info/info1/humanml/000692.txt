@@ -1,0 +1,3 @@
+a person walks slowly down and then back up like a window shopper#a/DET person/NOUN walk/VERB slowly/ADV down/ADP and/CCONJ then/ADV back/ADV up/ADP like/SCONJ a/DET window/NOUN shopper/NOUN#0.0#0.0
+a person walks angrily forward, turns around, and walks back.#a/DET person/NOUN walk/VERB angrily/ADV forward/ADV turn/VERB around/ADV and/CCONJ walk/VERB back/ADV#0.0#0.0
+a person walking forward and backward.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ backward/ADV#0.0#0.0

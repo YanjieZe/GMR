@@ -1,0 +1,3 @@
+a person throws an uppercut with the right hand.#a/DET person/NOUN throw/VERB an/DET uppercut/NOUN with/ADP the/DET right/ADJ hand/NOUN#0.0#0.0
+a figure makes a "roll the dice" gesture with its right hand, then swings its whole body across and forward toward the left, extending the left hand up and above the head.#a/DET figure/NOUN make/VERB a/DET roll/VERB the/DET dice/NOUN gesture/NOUN with/ADP its/DET right/ADJ hand/NOUN then/ADV swing/VERB its/DET whole/ADJ body/NOUN across/ADP and/CCONJ forward/ADV toward/ADP the/DET left/NOUN extend/VERB the/DET left/ADJ hand/NOUN up/ADP and/CCONJ above/ADP the/DET head/NOUN#0.0#0.0
+a person swings their arm into the air#a/DET person/NOUN swing/VERB their/DET arm/NOUN into/ADP the/DET air/NOUN#0.0#0.0

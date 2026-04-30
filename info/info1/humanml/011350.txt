@@ -1,0 +1,3 @@
+person takes two steps forward then swings right leg around and walks back#person/NOUN take/VERB two/NUM step/NOUN forward/ADV then/ADV swing/VERB right/ADJ leg/NOUN around/ADV and/CCONJ walk/VERB back/ADV#0.0#0.0
+person is walking forward turning left.#person/NOUN is/AUX walk/VERB forward/ADV turn/VERB left/ADV#0.0#0.0
+a figure walks forward then spins jauntily on its heel to walk back#a/DET figure/NOUN walk/VERB forward/ADV then/ADV spin/VERB jauntily/ADV on/ADP its/DET heel/NOUN to/PART walk/VERB back/ADV#0.0#0.0

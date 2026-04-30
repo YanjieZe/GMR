@@ -1,0 +1,3 @@
+a person, in a fighting pose, backs up, then punches while moving forward, before backing up and kicking.#a/DET person/NOUN in/ADP a/DET fighting/NOUN pose/NOUN back/VERB up/ADP then/ADV punch/NOUN while/SCONJ move/VERB forward/ADV before/ADP back/VERB up/ADP and/CCONJ kick/VERB#0.0#0.0
+walking to the side and punching hands.#walk/VERB to/ADP the/DET side/NOUN and/CCONJ punching/NOUN hand/NOUN#0.0#0.0
+he is moving back and forth while practicing his kick boxing.#he/PRON is/AUX move/VERB back/ADV and/CCONJ forth/ADV while/SCONJ practice/VERB his/DET kick/NOUN boxing/NOUN#0.0#0.0

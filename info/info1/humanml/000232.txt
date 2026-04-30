@@ -1,0 +1,3 @@
+a person jumps backwards slowly.#a/DET person/NOUN jump/VERB backwards/ADV slowly/ADV#0.0#0.0
+someone jumps backward with both feet.#someone/PRON jump/VERB backward/ADV with/ADP both/DET foot/NOUN#0.0#5.0
+a person jumps backwards as a crack forms in the ground underneath them.#a/DET person/NOUN jump/VERB backwards/ADV as/SCONJ a/DET crack/NOUN form/NOUN in/ADP the/DET ground/NOUN underneath/ADP them/PRON#0.0#0.0

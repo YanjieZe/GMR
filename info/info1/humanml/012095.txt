@@ -1,0 +1,3 @@
+a man swings his arms forward  then runs towards the right side.#a/DET man/NOUN swing/VERB his/DET arm/NOUN forward/ADV then/ADV run/VERB towards/ADP the/DET right/ADJ side/NOUN#0.0#0.0
+a person playing basketball fakes right and then keep dribbles#a/DET person/NOUN play/VERB basketball/NOUN fake/VERB right/ADJ and/CCONJ then/ADV keep/VERB dribble/NOUN#0.0#1.0
+the man is feinting to the right#the/DET man/NOUN is/AUX feint/VERB to/ADP the/DET right/NOUN#nan#0.0

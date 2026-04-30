@@ -1,0 +1,3 @@
+a man walks forward, makes a half-turn to the right, and walks forward again#a/DET man/NOUN walk/VERB forward/ADV make/VERB a/DET halfturn/NOUN to/ADP the/DET right/NOUN and/CCONJ walk/VERB forward/ADV again/ADV#0.0#0.0
+person walks two steps forward then does a full turn#person/NOUN walk/VERB two/NUM step/NOUN forward/ADV then/ADV does/AUX a/DET full/ADJ turn/NOUN#0.0#0.0
+a person walks straight spins to the right then walks back#a/DET person/NOUN walk/VERB straight/ADJ spin/NOUN to/ADP the/DET right/NOUN then/ADV walk/VERB back/ADV#0.0#0.0

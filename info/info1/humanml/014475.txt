@@ -1,0 +1,3 @@
+person appears to be directing traffic with both hands.#person/NOUN appear/VERB to/PART be/AUX direct/VERB traffic/NOUN with/ADP both/DET hand/NOUN#0.0#0.0
+the person is directing something to go different directions.#the/DET person/NOUN is/AUX direct/VERB something/PRON to/PART go/VERB different/ADJ direction/NOUN#0.0#0.0
+person moves both arms from left to right, then turns around moves hands forward and signals to come towards him or herself.#person/NOUN move/VERB both/DET arm/NOUN from/ADP left/VERB to/ADP right/NOUN then/ADV turn/VERB around/ADP move/NOUN hand/NOUN forward/ADV and/CCONJ signal/VERB to/PART come/VERB towards/ADP him/PRON or/CCONJ herself/PRON#0.0#0.0

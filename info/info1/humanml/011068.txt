@@ -1,0 +1,3 @@
+facing forward, a man remains still for 4 seconds and then quickly side-steps to the left.#face/VERB forward/ADV a/DET man/NOUN remain/VERB still/ADV for/ADP second/NOUN and/CCONJ then/ADV quickly/ADV sidestep/VERB to/ADP the/DET left/NOUN#0.0#0.0
+person takes one step to the right#person/NOUN take/VERB one/NUM step/NOUN to/ADP the/DET right/NOUN#0.0#0.0
+moving right side on the floor.#move/VERB right/ADJ side/NOUN on/ADP the/DET floor/NOUN#0.0#0.0

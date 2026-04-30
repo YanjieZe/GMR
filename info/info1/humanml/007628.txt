@@ -1,0 +1,3 @@
+person moves forward two steps then does a full turn and faces opposite direction#person/NOUN move/VERB forward/ADV two/NUM step/NOUN then/ADV does/AUX a/DET full/ADJ turn/NOUN and/CCONJ face/VERB opposite/ADJ direction/NOUN#0.0#0.0
+the person work for you turn right and walk back#the/DET person/NOUN work/VERB for/ADP you/PRON turn/VERB right/ADV and/CCONJ walk/VERB back/ADV#0.0#0.0
+a person takes two steps forward, the pivots on their right foot, turning 180 degrees to the right and returning to their starting point.#a/DET person/NOUN take/VERB two/NUM step/NOUN forward/ADV the/DET pivot/NOUN on/ADP their/DET right/ADJ foot/NOUN turn/VERB degree/NOUN to/ADP the/DET right/NOUN and/CCONJ return/VERB to/ADP their/DET starting/NOUN point/NOUN#0.0#0.0

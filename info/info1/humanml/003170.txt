@@ -1,0 +1,3 @@
+he is looking around as if he is confused or searching for something.#he/PRON is/AUX look/VERB around/ADV as/SCONJ if/SCONJ he/PRON is/AUX confused/ADJ or/CCONJ search/VERB for/ADP something/PRON#0.0#0.0
+a person takes one step forward and uses their neck to look around carefully.#a/DET person/NOUN take/VERB one/NUM step/NOUN forward/ADV and/CCONJ use/VERB their/DET neck/NOUN to/PART look/VERB around/ADV carefully/ADV#0.0#0.0
+a person takes small steps forward and slightly turns from side to side.#a/DET person/NOUN take/VERB small/ADJ step/NOUN forward/ADV and/CCONJ slightly/ADV turn/VERB from/ADP side/NOUN to/ADP side/NOUN#0.0#0.0

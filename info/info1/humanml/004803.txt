@@ -1,0 +1,3 @@
+a man walks in an clockwise circle with a holding a heavy object on their head then turns and walks back anti clockwise a little.#a/DET man/NOUN walk/VERB in/ADP an/DET clockwise/ADJ circle/NOUN with/ADP a/DET hold/VERB a/DET heavy/ADJ object/NOUN on/ADP their/DET head/NOUN then/ADV turn/VERB and/CCONJ walk/VERB back/ADV anti/ADJ clockwise/VERB a/DET little/ADJ#0.0#0.0
+a person is walking around with luggage on their head#a/DET person/NOUN is/AUX walk/VERB around/ADP with/ADP luggage/NOUN on/ADP their/DET head/NOUN#0.0#0.0
+the man moves in circular motion holding his head#the/DET man/NOUN move/VERB in/ADP circular/ADJ motion/NOUN hold/VERB his/DET head/NOUN#0.0#0.0

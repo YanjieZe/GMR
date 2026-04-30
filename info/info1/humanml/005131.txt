@@ -1,0 +1,3 @@
+person jumps up in the air#person/NOUN jump/VERB up/ADP in/ADP the/DET air/NOUN#0.0#0.0
+a man performs one quick jump into the air and lands on his feet.#a/DET man/NOUN perform/VERB one/NUM quick/ADJ jump/NOUN into/ADP the/DET air/NOUN and/CCONJ land/NOUN on/ADP his/DET foot/NOUN#0.0#0.0
+a person jumps forward once.#a/DET person/NOUN jump/VERB forward/ADV once/ADV#0.0#0.0

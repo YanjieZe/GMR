@@ -1,0 +1,3 @@
+moving forward in a crawl position, then gets back up jogging backwards then walks forward.#move/VERB forward/ADV in/ADP a/DET crawl/ADJ position/NOUN then/ADV get/VERB back/ADV up/ADV jog/VERB backwards/ADV then/ADV walk/VERB forward/ADV#0.0#0.0
+a person crawls forward then stands up and runs backwards.#a/DET person/NOUN crawl/VERB forward/ADV then/ADV stand/VERB up/ADP and/CCONJ run/VERB backwards/ADV#0.0#0.0
+someone is on all fours.#someone/PRON is/AUX on/ADP all/DET four/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person doing jumping jacks and then running on the spot#a/DET person/NOUN do/VERB jump/VERB jack/NOUN and/CCONJ then/ADV run/VERB on/ADP the/DET spot/NOUN#0.0#0.0
+a person is doing jumping jacks, then starts jogging in place.#a/DET person/NOUN is/AUX do/VERB jump/VERB jack/NOUN then/ADV start/VERB jog/VERB in/ADP place/NOUN#0.0#0.0
+a person does four jumping jacks then three front lunges.#a/DET person/NOUN does/AUX four/NUM jump/VERB jack/NOUN then/ADV three/NUM front/ADJ lunge/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person shakes their arms in a downward motion#a/DET person/NOUN shake/VERB their/DET arm/NOUN in/ADP a/DET downward/ADJ motion/NOUN#0.0#0.0
+the man is shaking his arms#the/DET man/NOUN is/AUX shake/VERB his/DET arm/NOUN#0.0#0.0
+a person shakes out their arms#a/DET person/NOUN shake/VERB out/ADP their/DET arm/NOUN#0.0#0.0

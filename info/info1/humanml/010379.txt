@@ -1,0 +1,3 @@
+a figure seems to pet an animal#a/DET figure/NOUN seem/VERB to/PART pet/VERB an/DET animal/NOUN#0.0#0.0
+person is acting like an animal#person/NOUN is/AUX act/VERB like/SCONJ an/DET animal/NOUN#0.0#0.0
+a person is pretending to be a mouse#a/DET person/NOUN is/AUX pretend/VERB to/PART be/AUX a/DET mouse/NOUN#0.0#0.0

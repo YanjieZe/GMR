@@ -1,0 +1,3 @@
+a person slightly bent down walks backwards in a circle.#a/DET person/NOUN slightly/ADV bend/VERB down/ADP walk/VERB backwards/ADV in/ADP a/DET circle/NOUN#0.0#0.0
+a person stealthily walks backward in a counterclockwise circle.#a/DET person/NOUN stealthily/ADV walk/VERB backward/ADV in/ADP a/DET counterclockwise/ADJ circle/NOUN#0.0#0.0
+someone is walking backwards in a creepy fashion#someone/PRON is/AUX walk/VERB backwards/ADV in/ADP a/DET creepy/NOUN fashion/NOUN#0.0#0.0

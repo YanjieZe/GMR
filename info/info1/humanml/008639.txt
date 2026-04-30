@@ -1,0 +1,3 @@
+a person start to dig something#a/DET person/NOUN start/VERB to/PART dig/VERB something/PRON#0.0#0.0
+a figure is digging with a shovel#a/DET figure/NOUN is/AUX dig/VERB with/ADP a/DET shovel/NOUN#0.0#0.0
+a person digging and throwing dirt over his left shoulder#a/DET person/NOUN dig/VERB and/CCONJ throw/VERB dirt/NOUN over/ADP his/DET left/ADJ shoulder/NOUN#1.0#10.0

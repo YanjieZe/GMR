@@ -1,0 +1,3 @@
+this person walks forward turns right to walk back.#this/DET person/NOUN walk/VERB forward/ADV turn/VERB right/ADJ to/PART walk/VERB back/ADV#0.0#0.0
+a person takes several smooth steps forward before turning to their left and walking back to the start point#a/DET person/NOUN take/VERB several/ADJ smooth/ADJ step/NOUN forward/ADV before/ADP turn/VERB to/ADP their/DET left/NOUN and/CCONJ walk/VERB back/ADV to/ADP the/DET start/NOUN point/NOUN#0.0#0.0
+person walks forward and takes a few steps and then turns around and takes more steps then stops.#person/NOUN walk/VERB forward/ADV and/CCONJ take/VERB a/DET few/ADJ step/NOUN and/CCONJ then/ADV turn/VERB around/ADV and/CCONJ take/VERB more/ADJ step/NOUN then/ADV stop/VERB#0.0#0.0

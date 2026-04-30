@@ -1,0 +1,3 @@
+person opens a bottle and drinks from it#person/NOUN open/VERB a/DET bottle/NOUN and/CCONJ drink/NOUN from/ADP it/PRON#0.0#0.0
+someone opening up a soda drinking it#someone/PRON open/VERB up/ADP a/DET soda/NOUN drink/VERB it/PRON#0.0#0.0
+a man opens a beverage with right hand and drinks it from his left hand.#a/DET man/NOUN open/VERB a/DET beverage/NOUN with/ADP right/ADJ hand/NOUN and/CCONJ drink/VERB it/PRON from/ADP his/DET left/ADJ hand/NOUN#0.0#0.0

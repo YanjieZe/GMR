@@ -1,0 +1,3 @@
+a person crosses their arms then un-cross it.#a/DET person/NOUN cross/VERB their/DET arm/NOUN then/ADV uncross/VERB it/PRON#0.0#0.0
+a person crosses his arms and sctatches his right arm.#a/DET person/NOUN cross/VERB his/DET arm/NOUN and/CCONJ sctatche/VERB his/DET right/ADJ arm/NOUN#0.0#0.0
+a person crosses arms left over right#a/DET person/NOUN cross/VERB arm/NOUN left/VERB over/ADP right/ADV#0.0#0.0

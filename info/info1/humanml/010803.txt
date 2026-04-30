@@ -1,0 +1,3 @@
+a sitting person sits very still.#a/DET sit/VERB person/NOUN sit/VERB very/ADV still/ADV#0.0#0.0
+the man is standing still like a statue.#the/DET man/NOUN is/AUX stand/VERB still/ADV like/SCONJ a/DET statue/NOUN#0.0#0.0
+a person standing in a strange posture#a/DET person/NOUN stand/VERB in/ADP a/DET strange/ADJ posture/NOUN#0.0#0.0

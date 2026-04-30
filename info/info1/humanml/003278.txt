@@ -1,0 +1,3 @@
+a person marches forward aggressively than turns around and does the same.#a/DET person/NOUN march/VERB forward/ADV aggressively/ADV than/SCONJ turn/VERB around/ADV and/CCONJ does/AUX the/DET same/ADJ#0.0#0.0
+a man begins to walk down a ramp, swinging his arms forward and backward and when he gets sto the bottom he walks back up again.#a/DET man/NOUN begin/VERB to/PART walk/VERB down/ADP a/DET ramp/NOUN swinge/VERB his/DET arm/NOUN forward/ADV and/CCONJ backward/ADV and/CCONJ when/ADV he/PRON get/VERB sto/VERB the/DET bottom/NOUN he/PRON walk/VERB back/ADV up/ADV again/ADV#0.0#10.0
+person walked from one side to the other.#person/NOUN walk/VERB from/ADP one/NUM side/NOUN to/ADP the/DET other/ADJ#0.0#0.0

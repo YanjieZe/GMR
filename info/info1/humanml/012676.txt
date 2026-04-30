@@ -1,0 +1,3 @@
+walking forward and then back.#walk/VERB forward/ADV and/CCONJ then/ADV back/ADV#0.0#0.0
+a figure walks forward then spins on their heel to return#a/DET figure/NOUN walk/VERB forward/ADV then/ADV spin/VERB on/ADP their/DET heel/NOUN to/PART return/VERB#0.0#0.0
+a person walks forward, turns around to their left, and walks back to where they began.#a/DET person/NOUN walk/VERB forward/ADV turn/VERB around/ADP to/ADP their/DET left/NOUN and/CCONJ walk/VERB back/ADV to/ADP where/ADV they/PRON begin/VERB#0.0#0.0

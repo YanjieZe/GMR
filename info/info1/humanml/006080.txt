@@ -1,0 +1,3 @@
+a person walks forwards, sidesteps right, then backwards and to their original spot.#a/DET person/NOUN walk/VERB forwards/ADV sidestep/VERB right/ADV then/ADV backwards/ADV and/CCONJ to/ADP their/DET original/ADJ spot/NOUN#0.0#0.0
+person walked forward, side to side, backwards and diagonally.#person/NOUN walk/VERB forward/ADV side/NOUN to/PART side/VERB backwards/ADV and/CCONJ diagonally/ADV#0.0#0.0
+the person is side stepping then walking back and forward to the starting point.#the/DET person/NOUN is/AUX side/NOUN step/VERB then/ADV walk/VERB back/ADV and/CCONJ forward/ADV to/ADP the/DET starting/NOUN point/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+moving hand around near chest.#move/VERB hand/NOUN around/ADP near/SCONJ chest/NOUN#0.0#0.0
+the person is moving his right arm in front of him.#the/DET person/NOUN is/AUX move/VERB his/DET right/ADJ arm/NOUN in/ADP front/NOUN of/ADP him/PRON#0.0#0.0
+a man raises his right arm, makes a motion, and lowers his right hand.#a/DET man/NOUN raise/VERB his/DET right/ADJ arm/NOUN make/VERB a/DET motion/NOUN and/CCONJ lower/VERB his/DET right/ADJ hand/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+the person went to make a shot but faith that and then ran away dribbling the ball.#the/DET person/NOUN go/VERB to/PART make/VERB a/DET shot/NOUN but/CCONJ faith/NOUN that/DET and/CCONJ then/ADV run/VERB away/ADV dribble/VERB the/DET ball/NOUN#0.0#0.0
+the man fakes a shot then fast breaks to the right.#the/DET man/NOUN fake/VERB a/DET shot/NOUN then/ADV fast/VERB break/NOUN to/ADP the/DET right/NOUN#0.0#0.0
+a person picks something up, then runs#a/DET person/NOUN pick/VERB something/PRON up/ADP then/ADV run/VERB#0.0#0.0

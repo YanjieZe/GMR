@@ -1,0 +1,3 @@
+man stands in one position roll neck around and rotate right arm continuously.#man/NOUN stand/VERB in/ADP one/NUM position/NOUN roll/NOUN neck/NOUN around/ADV and/CCONJ rotate/VERB right/ADJ arm/NOUN continuously/ADV#0.0#0.0
+a person moves their head around in a circle, then their right arm.#a/DET person/NOUN move/VERB their/DET head/NOUN around/ADV in/ADP a/DET circle/NOUN then/ADV their/DET right/ADJ arm/NOUN#0.0#0.0
+a person rolls his head and neck clockwise and then makes a large, frontward, circular motion with his arm.#a/DET person/NOUN roll/VERB his/DET head/NOUN and/CCONJ neck/NOUN clockwise/NOUN and/CCONJ then/ADV make/VERB a/DET large/ADJ frontward/ADJ circular/ADJ motion/NOUN with/ADP his/DET arm/NOUN#0.0#0.0

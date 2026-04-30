@@ -1,0 +1,3 @@
+person stands still for a few moments and then walks forward#person/NOUN stand/VERB still/ADV for/ADP a/DET few/ADJ moment/NOUN and/CCONJ then/ADV walk/VERB forward/ADV#0.0#0.0
+the man pauses then steps forward gingerly.#the/DET man/NOUN pause/VERB then/ADV step/VERB forward/ADV gingerly/ADV#0.0#0.0
+the man us standing still#the/DET man/NOUN us/PRON stand/VERB still/ADV#0.0#0.0

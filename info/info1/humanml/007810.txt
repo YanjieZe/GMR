@@ -1,0 +1,3 @@
+moving hands towards chest then spinning them.#move/VERB hand/NOUN towards/ADP chest/NOUN then/ADV spin/VERB them/PRON#0.0#0.0
+a person is holding their hands right over left, and is moving as if to play drums and cymbals.#a/DET person/NOUN is/AUX hold/VERB their/DET hand/NOUN right/ADV over/ADP left/ADV and/CCONJ is/AUX move/VERB as/SCONJ if/SCONJ to/PART play/VERB drum/NOUN and/CCONJ cymbal/NOUN#0.0#0.0
+this person appears to be organizing items.#this/DET person/NOUN appear/VERB to/PART be/AUX organize/VERB item/NOUN#0.0#0.0

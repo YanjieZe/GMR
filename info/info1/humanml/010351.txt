@@ -1,0 +1,3 @@
+a person jumping in place.#a/DET person/NOUN jump/VERB in/ADP place/NOUN#0.0#0.0
+a person jumps in place four times.#a/DET person/NOUN jump/VERB in/ADP place/NOUN four/NUM time/NOUN#0.0#0.0
+a man hops up and down on his toes four times.#a/DET man/NOUN hop/VERB up/ADV and/CCONJ down/ADV on/ADP his/DET toe/NOUN four/NUM time/NOUN#0.0#0.0

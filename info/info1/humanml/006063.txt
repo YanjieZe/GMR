@@ -1,0 +1,3 @@
+a person who seems to clean a surface and then throw the dirt#a/DET person/NOUN who/PRON seem/VERB to/PART clean/VERB a/DET surface/NOUN and/CCONJ then/ADV throw/VERB the/DET dirt/NOUN#0.0#0.0
+a person sways their arm in front of them to gesture, then walks in an arc to grab something. after doing so they walk back to their original position.#a/DET person/NOUN sway/VERB their/DET arm/NOUN in/ADP front/NOUN of/ADP them/PRON to/PART gesture/VERB then/ADV walk/VERB in/ADP an/DET arc/NOUN to/PART grab/VERB something/PRON after/ADP do/VERB so/ADV they/PRON walk/VERB back/ADV to/ADP their/DET original/ADJ position/NOUN#0.0#0.0
+moving arm side to side and walking forward.#move/VERB arm/NOUN side/NOUN to/PART side/VERB and/CCONJ walk/VERB forward/ADV#0.0#0.0

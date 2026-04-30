@@ -1,0 +1,3 @@
+the person was walking forward pushing something.#the/DET person/NOUN was/AUX walk/VERB forward/ADV push/VERB something/PRON#0.0#0.0
+a person pushes an object forward in a curved line and then takes a step back when done#a/DET person/NOUN push/VERB an/DET object/NOUN forward/ADV in/ADP a/DET curved/ADJ line/NOUN and/CCONJ then/ADV take/VERB a/DET step/NOUN back/ADV when/ADV do/VERB#0.0#0.0
+a person is pushing something towards the left up a against something.#a/DET person/NOUN is/AUX push/VERB something/PRON towards/ADP the/DET left/NOUN up/ADP a/DET against/ADP something/PRON#0.0#0.0

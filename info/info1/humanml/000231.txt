@@ -1,0 +1,2 @@
+a person starts off in a jogging motion and then slows to a walk.#a/DET person/NOUN start/VERB off/ADP in/ADP a/DET jogging/NOUN motion/NOUN and/CCONJ then/ADV slow/VERB to/ADP a/DET walk/NOUN#0.0#0.0
+a person jogs forward and changes into a walk.#a/DET person/NOUN jog/VERB forward/ADV and/CCONJ change/VERB into/ADP a/DET walk/NOUN#0.0#0.0

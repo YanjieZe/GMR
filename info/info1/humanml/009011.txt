@@ -1,0 +1,3 @@
+hi cindy drinking a bottle with his left hand.#hi/INTJ cindy/PROPN drink/VERB a/DET bottle/NOUN with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0
+a person raises something to their face with their left hand.#a/DET person/NOUN raise/VERB something/PRON to/ADP their/DET face/NOUN with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0
+a person drinks a beverage using his left hand#a/DET person/NOUN drink/VERB a/DET beverage/NOUN use/VERB his/DET left/ADJ hand/NOUN#0.0#0.0

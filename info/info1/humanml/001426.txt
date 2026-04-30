@@ -1,0 +1,3 @@
+a figure walks to diagonal to the left turns around an walks up to the right and then back to quarter to the forward.#a/DET figure/NOUN walk/VERB to/PART diagonal/VERB to/ADP the/DET left/NOUN turn/VERB around/ADP an/DET walk/NOUN up/ADP to/ADP the/DET right/NOUN and/CCONJ then/ADV back/ADV to/ADP quarter/NOUN to/ADP the/DET forward/NOUN#0.0#0.0
+a person walks to the right and then walks back to the left.#a/DET person/NOUN walk/VERB to/ADP the/DET right/NOUN and/CCONJ then/ADV walk/VERB back/ADV to/ADP the/DET left/NOUN#0.0#0.0
+a person walks back and forth#a/DET person/NOUN walk/VERB back/ADV and/CCONJ forth/ADV#0.0#0.0

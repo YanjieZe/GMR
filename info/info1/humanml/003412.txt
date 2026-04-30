@@ -1,0 +1,3 @@
+a person stretches both arms above their head.#a/DET person/NOUN stretch/VERB both/DET arm/NOUN above/ADP their/DET head/NOUN#0.0#0.0
+a man is standing still before he stretches both arms up into the air#a/DET man/NOUN is/AUX stand/VERB still/ADV before/ADP he/PRON stretch/VERB both/DET arm/NOUN up/ADP into/ADP the/DET air/NOUN#0.0#0.0
+a person initially standing still, then extends both arms over head in stretching motion, then returns to original position.#a/DET person/NOUN initially/ADV stand/VERB still/ADV then/ADV extend/VERB both/DET arm/NOUN over/ADP head/NOUN in/ADP stretch/VERB motion/NOUN then/ADV return/VERB to/ADP original/ADJ position/NOUN#0.0#0.0

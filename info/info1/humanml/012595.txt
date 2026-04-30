@@ -1,0 +1,3 @@
+the person is walking straight backwards.#the/DET person/NOUN is/AUX walk/VERB straight/ADV backwards/ADV#0.0#0.0
+as the title suggests, the person is walking straight backwards.#as/SCONJ the/DET title/NOUN suggest/VERB the/DET person/NOUN is/AUX walk/VERB straight/ADV backwards/ADV#0.0#0.0
+a man walks backwards for a few steps.#a/DET man/NOUN walk/VERB backwards/ADV for/ADP a/DET few/ADJ step/NOUN#0.0#0.0

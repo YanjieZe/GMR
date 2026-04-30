@@ -1,0 +1,3 @@
+a figure walks down and right to stare at a wall#a/DET figure/NOUN walk/VERB down/ADV and/CCONJ right/ADV to/PART stare/VERB at/ADP a/DET wall/NOUN#0.0#0.0
+person walks forward and to the left#person/NOUN walk/VERB forward/ADV and/CCONJ to/ADP the/DET left/NOUN#0.0#0.0
+a person casually walks, curving to the left.#a/DET person/NOUN casually/ADV walk/VERB curve/VERB to/ADP the/DET left/NOUN#0.0#0.0

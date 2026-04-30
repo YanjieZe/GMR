@@ -1,0 +1,3 @@
+a person side steps to the right 5 times then side steps to the left 3 times.#a/DET person/NOUN side/NOUN step/NOUN to/ADP the/DET right/ADJ time/NOUN then/ADV side/NOUN step/NOUN to/ADP the/DET left/ADJ time/NOUN#0.0#0.0
+a person takes 5 side steps right then 3 side steps back left.#a/DET person/NOUN take/VERB side/NOUN step/NOUN right/ADV then/ADV side/NOUN step/NOUN back/ADV left/ADV#0.0#0.0
+walking side to side.#walk/VERB side/NOUN to/ADP side/VERB#0.0#0.0

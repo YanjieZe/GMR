@@ -1,0 +1,3 @@
+a person picks up something and pours the liquid in another object. then leaves it back, picks up another object and repeats the process again.#a/DET person/NOUN pick/VERB up/ADP something/PRON and/CCONJ pour/VERB the/DET liquid/NOUN in/ADP another/DET object/NOUN then/ADV leave/VERB it/PRON back/ADP pick/VERB up/ADP another/DET object/NOUN and/CCONJ repeat/VERB the/DET process/NOUN again/ADV#0.0#0.0
+a person is mixing something#a/DET person/NOUN is/AUX mix/VERB something/PRON#0.0#0.0
+he does double pour directally#he/PRON does/AUX double/ADJ pour/VERB directally/ADV#0.0#0.0

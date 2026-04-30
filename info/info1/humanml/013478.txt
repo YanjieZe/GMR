@@ -1,0 +1,3 @@
+a person uses their right hand to wipe down something.#a/DET person/NOUN use/VERB their/DET right/ADJ hand/NOUN to/PART wipe/VERB down/ADP something/PRON#0.0#0.0
+a person standing up rasies their hand moving their hand up and down while their body leads from their left to right#a/DET person/NOUN stand/VERB up/ADP rasie/VERB their/DET hand/NOUN move/VERB their/DET hand/NOUN up/ADP and/CCONJ down/ADV while/SCONJ their/DET body/NOUN lead/VERB from/ADP their/DET left/NOUN to/ADP right/ADJ#0.0#0.0
+a person is washing windows#a/DET person/NOUN is/AUX wash/VERB window/NOUN#0.0#0.0

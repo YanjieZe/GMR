@@ -1,0 +1,3 @@
+a person is very cold, and is shivering.#a/DET person/NOUN is/AUX very/ADV cold/ADJ and/CCONJ is/AUX shiver/VERB#0.0#0.0
+a person puts both his hands together.#a/DET person/NOUN put/VERB both/CCONJ his/DET hand/NOUN together/ADV#0.0#0.0
+a person is holding their arms and hands together to keep warm.#a/DET person/NOUN is/AUX hold/VERB their/DET arm/NOUN and/CCONJ hand/NOUN together/ADV to/PART keep/VERB warm/ADJ#0.0#0.0

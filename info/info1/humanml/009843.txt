@@ -1,0 +1,3 @@
+the person is warming up their wrists and ankles.#the/DET person/NOUN is/AUX warm/VERB up/ADP their/DET wrist/NOUN and/CCONJ ankle/NOUN#0.0#0.0
+a man circles his weight about his right ankle.#a/DET man/NOUN circle/VERB his/DET weight/NOUN about/ADP his/DET right/ADJ ankle/NOUN#1.0#4.0
+a man dances by himself using both arms and legs.#a/DET man/NOUN dance/VERB by/ADP himself/PRON use/VERB both/DET arm/NOUN and/CCONJ leg/NOUN#0.0#0.0

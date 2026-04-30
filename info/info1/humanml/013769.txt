@@ -1,0 +1,3 @@
+a person hugs themselves while rocking side to side then rubs their hands together in front of their face#a/DET person/NOUN hug/VERB themselves/PRON while/SCONJ rock/VERB side/NOUN to/PART side/VERB then/ADV rub/VERB their/DET hand/NOUN together/ADV in/ADP front/NOUN of/ADP their/DET face/NOUN#0.0#0.0
+a person crosses their arms, then rubs their hands together while rocking from side to side.#a/DET person/NOUN cross/VERB their/DET arm/NOUN then/ADV rub/VERB their/DET hand/NOUN together/ADV while/SCONJ rock/VERB from/ADP side/NOUN to/ADP side/NOUN#0.0#0.0
+figure appears to be getting ready for something#figure/NOUN appear/VERB to/PART be/AUX get/VERB ready/ADJ for/ADP something/PRON#0.0#0.0

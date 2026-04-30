@@ -1,0 +1,3 @@
+the man washes his right hand.#the/DET man/NOUN wash/VERB his/DET right/ADJ hand/NOUN#0.0#0.0
+a man turns to the side and rubs something with his hand.#a/DET man/NOUN turn/VERB to/ADP the/DET side/NOUN and/CCONJ rub/VERB something/PRON with/ADP his/DET hand/NOUN#0.0#0.0
+a person picks something up and moves their hand over it#a/DET person/NOUN pick/VERB something/PRON up/ADP and/CCONJ move/VERB their/DET hand/NOUN over/ADP it/PRON#0.0#0.0

@@ -1,0 +1,3 @@
+a person doing the dancing in the rain dance.#a/DET person/NOUN do/VERB the/DET dancing/NOUN in/ADP the/DET rain/NOUN dance/NOUN#0.0#0.0
+the person is dancing in the rain.#the/DET person/NOUN is/AUX dance/VERB in/ADP the/DET rain/NOUN#0.0#0.0
+figure appears to be dancing in joy#figure/NOUN appear/VERB to/PART be/AUX dance/VERB in/ADP joy/NOUN#0.0#0.0

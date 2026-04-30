@@ -1,0 +1,3 @@
+a person walking forward, turning around, and walking back.#a/DET person/NOUN walk/VERB forward/ADV turn/VERB around/ADP and/CCONJ walk/VERB back/ADV#0.0#0.0
+a figure walks forward then spins on their heel sloppily before walking back#a/DET figure/NOUN walk/VERB forward/ADV then/ADV spin/VERB on/ADP their/DET heel/NOUN sloppily/ADV before/ADP walk/VERB back/ADV#0.0#0.0
+the person is walking turning right.#the/DET person/NOUN is/AUX walk/VERB turn/VERB right/ADV#0.0#0.0

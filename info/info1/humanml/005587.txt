@@ -1,0 +1,3 @@
+a man has his arms raised then jumps, walking up the stairs.#a/DET man/NOUN has/AUX his/DET arm/NOUN raise/VERB then/ADV jump/VERB walk/VERB up/ADP the/DET stair/NOUN#0.0#6.0
+a person who is standing with is hands raised head high drops his hands, jumps in place, climbs up five steps while reaching to his right and touching something with his right hand.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP is/AUX hand/NOUN raise/VERB head/NOUN high/ADV drop/VERB his/DET hand/NOUN jump/VERB in/ADP place/NOUN climb/VERB up/ADV five/NUM step/NOUN while/SCONJ reach/VERB to/ADP his/DET right/NOUN and/CCONJ touch/VERB something/PRON with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+in this one a person is stand#in/ADP this/DET one/NOUN a/DET person/NOUN is/AUX stand/VERB#1.0#6.0

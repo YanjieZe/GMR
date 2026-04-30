@@ -1,0 +1,3 @@
+a person makes a scratching motion with both hands quickly alternating, stops hand movement, bends down, and wiggles the head; these motions are repeated two more times.#a/DET person/NOUN make/VERB a/DET scratching/NOUN motion/NOUN with/ADP both/DET hand/NOUN quickly/ADV alternate/VERB stop/VERB hand/NOUN movement/NOUN bend/VERB down/ADP and/CCONJ wiggle/VERB the/DET head/NOUN these/DET motion/NOUN are/AUX repeat/VERB two/NUM more/ADJ time/NOUN#0.0#0.0
+a person hunches their shoulders and paws at the air in front of them#a/DET person/NOUN hunch/VERB their/DET shoulder/NOUN and/CCONJ paw/NOUN at/ADP the/DET air/NOUN in/ADP front/NOUN of/ADP them/PRON#0.0#0.0
+person is climbing up a pole .#person/NOUN is/AUX climb/VERB up/ADP a/DET pole/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks in a clockwise circle with arms and hand above their head#a/DET person/NOUN walk/VERB in/ADP a/DET clockwise/NOUN circle/NOUN with/ADP arm/NOUN and/CCONJ hand/NOUN above/ADP their/DET head/NOUN#0.0#0.0
+person carries something above head balancing on their heaed and they walk in a full circle and a half in a clockwise direction#person/NOUN carry/VERB something/PRON above/ADP head/NOUN balance/VERB on/ADP their/DET heaed/NOUN and/CCONJ they/PRON walk/VERB in/ADP a/DET full/ADJ circle/NOUN and/CCONJ a/DET half/NOUN in/ADP a/DET clockwise/ADJ direction/NOUN#0.0#0.0
+a person walking in a circle with their hands up.#a/DET person/NOUN walk/VERB in/ADP a/DET circle/NOUN with/ADP their/DET hand/NOUN up/ADP#0.0#10.0

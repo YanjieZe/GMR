@@ -1,0 +1,3 @@
+a person kicking/ swinging legs from side to side.#a/DET person/NOUN swinge/VERB leg/NOUN from/ADP side/NOUN to/ADP side/NOUN#0.0#0.0
+the left knee goes towards the chest, then right knee goes towards the chest, and then left knee towards the chest again.#the/DET left/ADJ knee/NOUN go/VERB towards/ADP the/DET chest/NOUN then/ADV right/INTJ knee/NOUN go/VERB towards/ADP the/DET chest/NOUN and/CCONJ then/ADV left/VERB knee/NOUN towards/ADP the/DET chest/NOUN again/ADV#0.0#0.0
+a person swings his legs from side-to-side.#a/DET person/NOUN swing/VERB his/DET leg/NOUN from/ADP sidetoside/NOUN#0.0#0.0

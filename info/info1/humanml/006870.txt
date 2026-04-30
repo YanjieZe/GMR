@@ -1,0 +1,3 @@
+the body walks in a slight bend right to left.#the/DET body/NOUN walk/VERB in/ADP a/DET slight/ADJ bend/NOUN right/ADV to/ADP left/NOUN#0.0#0.0
+a person facing forward begins to walk slowly taking four steps in a gentle curve to his left and stops.#a/DET person/NOUN face/VERB forward/ADV begin/VERB to/PART walk/VERB slowly/ADV take/VERB four/NUM step/NOUN in/ADP a/DET gentle/ADJ curve/NOUN to/ADP his/DET left/NOUN and/CCONJ stop/NOUN#0.0#0.0
+the person walks forward with a path that turns to their left.#the/DET person/NOUN walk/VERB forward/ADV with/ADP a/DET path/NOUN that/DET turn/VERB to/ADP their/DET left/NOUN#0.0#0.0

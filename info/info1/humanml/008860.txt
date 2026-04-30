@@ -1,0 +1,3 @@
+the person is walking backwards straight and then back again.#the/DET person/NOUN is/AUX walk/VERB backwards/ADV straight/ADV and/CCONJ then/ADV back/ADV again/ADV#0.0#0.0
+a man walks backwards, turns around and walks backwards again in a counterclockwise circle.#a/DET man/NOUN walk/VERB backwards/ADV turn/VERB around/ADV and/CCONJ walk/VERB backwards/ADV again/ADV in/ADP a/DET counterclockwise/ADJ circle/NOUN#0.0#0.0
+person is walking backwards randomly in a circle#person/NOUN is/AUX walk/VERB backwards/ADV randomly/ADV in/ADP a/DET circle/NOUN#0.0#0.0

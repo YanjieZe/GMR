@@ -1,0 +1,3 @@
+the man shifts his weight between his feet while lifting his right arm to his face.#the/DET man/NOUN shift/VERB his/DET weight/NOUN between/ADP his/DET foot/NOUN while/SCONJ lift/VERB his/DET right/ADJ arm/NOUN to/ADP his/DET face/NOUN#0.0#0.0
+a person, opened something with both hand and after opened it with left hand, and drinked it#a/DET person/NOUN open/VERB something/PRON with/ADP both/DET hand/NOUN and/CCONJ after/ADV open/VERB it/PRON with/ADP left/ADJ hand/NOUN and/CCONJ drink/VERB it/PRON#0.0#0.0
+the  person is having a cold drink using his right hand.#the/DET person/NOUN is/AUX have/VERB a/DET cold/ADJ drink/NOUN use/VERB his/DET right/ADJ hand/NOUN#0.0#0.0

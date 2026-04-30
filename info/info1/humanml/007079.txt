@@ -1,0 +1,3 @@
+in this one a person is stand#in/ADP this/DET one/NOUN a/DET person/NOUN is/AUX stand/VERB#1.0#4.0
+a person jumps in the air arms and legs apart then turns around on himself.#a/DET person/NOUN jump/VERB in/ADP the/DET air/NOUN arm/NOUN and/CCONJ leg/NOUN apart/ADV then/ADV turn/VERB around/ADP on/ADP himself/PRON#0.0#0.0
+a person who is standing does two jumping jacks, turns 180 degrees, takes one step, turns 180 degrees and stops.#a/DET person/NOUN who/PRON is/AUX stand/VERB does/AUX two/NUM jump/VERB jack/NOUN turn/VERB degree/NOUN take/VERB one/NUM step/NOUN turn/VERB degree/NOUN and/CCONJ stop/NOUN#0.0#0.0

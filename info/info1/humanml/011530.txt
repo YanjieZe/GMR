@@ -1,0 +1,3 @@
+a person grabed with left hand his right hand, and done some jesture with both hands#a/DET person/NOUN grab/VERB with/ADP left/ADJ hand/NOUN his/DET right/ADJ hand/NOUN and/CCONJ do/VERB some/DET jesture/NOUN with/ADP both/DET hand/NOUN#0.0#0.0
+a person is moving their hands randomly around while walking slightly back and forth.#a/DET person/NOUN is/AUX move/VERB their/DET hand/NOUN randomly/ADV around/ADV while/SCONJ walk/VERB slightly/ADV back/ADV and/CCONJ forth/ADV#0.0#0.0
+someone seems to be giving instruction with their hands#someone/PRON seem/VERB to/PART be/AUX give/VERB instruction/NOUN with/ADP their/DET hand/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a man jumping and raising arms.#a/DET man/NOUN jump/VERB and/CCONJ raise/VERB arm/NOUN#0.0#0.0
+a person does jumping jacks.#a/DET person/NOUN does/AUX jump/VERB jack/NOUN#0.0#0.0
+a person does a variation of the standard jumping jack where they pause their hands in a t pose for a step before bringing them all the way up on the next jump#a/DET person/NOUN does/AUX a/DET variation/NOUN of/ADP the/DET standard/ADJ jumping/NOUN jack/NOUN where/ADV they/PRON pause/VERB their/DET hand/NOUN in/ADP a/DET t/NOUN pose/NOUN for/ADP a/DET step/NOUN before/ADP bring/VERB them/PRON all/DET the/DET way/NOUN up/ADP on/ADP the/DET next/ADJ jump/NOUN#0.0#0.0

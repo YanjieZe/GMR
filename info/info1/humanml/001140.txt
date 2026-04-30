@@ -1,0 +1,3 @@
+a person waits for music to begin, then starts dancing.#a/DET person/NOUN wait/VERB for/ADP music/NOUN to/PART begin/VERB then/ADV start/VERB dancing/NOUN#0.0#0.0
+a person dancing sometype of dancing style#a/DET person/NOUN dance/VERB sometype/NOUN of/ADP dancing/NOUN style/NOUN#0.0#10.0
+a person stands still for two seconds then dances from side to side#a/DET person/NOUN stand/VERB still/ADV for/ADP two/NUM second/NOUN then/ADV dance/VERB from/ADP side/NOUN to/ADP side/VERB#0.0#10.0

@@ -1,0 +1,3 @@
+from a standstill position, a person seems to make the motion of throwing a ball with their right hand.#from/ADP a/DET standstill/ADJ position/NOUN a/DET person/NOUN seem/VERB to/PART make/VERB the/DET motion/NOUN of/ADP throw/VERB a/DET ball/NOUN with/ADP their/DET right/ADJ hand/NOUN#0.0#3.0
+a person throws something with their right arm.#a/DET person/NOUN throw/VERB something/PRON with/ADP their/DET right/ADJ arm/NOUN#0.0#0.0
+pushing hand forward to throw something.#push/VERB hand/NOUN forward/ADV to/PART throw/VERB something/PRON#0.0#0.0

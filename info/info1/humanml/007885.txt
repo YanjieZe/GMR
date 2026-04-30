@@ -1,0 +1,3 @@
+after five seconds a person lifts his left hand to his chin.#after/ADP five/NUM second/NOUN a/DET person/NOUN lift/VERB his/DET left/ADJ hand/NOUN to/ADP his/DET chin/NOUN#0.0#0.0
+person puts left hand under chin and shifts upper body as if admiring themselves in a mirror.#person/NOUN put/VERB left/ADJ hand/NOUN under/ADP chin/NOUN and/CCONJ shift/VERB upper/ADJ body/NOUN as/SCONJ if/SCONJ admire/VERB themselves/PRON in/ADP a/DET mirror/NOUN#0.0#0.0
+a person standing still raises their left hand to their face.#a/DET person/NOUN stand/VERB still/ADV raise/VERB their/DET left/ADJ hand/NOUN to/ADP their/DET face/NOUN#0.0#0.0

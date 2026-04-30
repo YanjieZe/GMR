@@ -1,0 +1,3 @@
+person stoops down then creeps forward and walks backward to where they started.#person/NOUN stoop/VERB down/ADP then/ADV creep/VERB forward/ADV and/CCONJ walk/VERB backward/ADV to/ADP where/ADV they/PRON start/VERB#0.0#0.0
+a person walking forward in lunges#a/DET person/NOUN walk/VERB forward/ADV in/ADP lunge/NOUN#0.0#0.0
+a person crouches down to the ground, takes several awkwardly crouched steps forward, then stands and walks backward.#a/DET person/NOUN crouch/VERB down/ADP to/ADP the/DET ground/NOUN take/VERB several/ADJ awkwardly/ADV crouched/ADJ step/NOUN forward/ADV then/ADV stand/VERB and/CCONJ walk/VERB backward/ADV#0.0#0.0

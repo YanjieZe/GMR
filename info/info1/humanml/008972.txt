@@ -1,0 +1,3 @@
+a person seems to be looking for something on the ground, then walks and stands#a/DET person/NOUN seem/VERB to/PART be/AUX look/VERB for/ADP something/PRON on/ADP the/DET ground/NOUN then/ADV walk/VERB and/CCONJ stand/VERB#0.0#0.0
+a person walks and looks around.#a/DET person/NOUN walk/VERB and/CCONJ look/VERB around/ADV#0.0#0.0
+a person looks around for a few seconds, then starts walking forward.#a/DET person/NOUN look/VERB around/ADP for/ADP a/DET few/ADJ second/NOUN then/ADV start/VERB walk/VERB forward/ADV#0.0#0.0

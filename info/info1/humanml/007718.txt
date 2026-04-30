@@ -1,0 +1,3 @@
+a man walks with arms switching from side to side.#a/DET man/NOUN walk/VERB with/ADP arm/NOUN switch/VERB from/ADP side/NOUN to/ADP side/NOUN#0.0#0.0
+a figure runs forward, jumps, and steps back#a/DET figure/NOUN run/VERB forward/ADV jumps/PROPN and/CCONJ step/VERB back/ADV#0.0#0.0
+a person goes backwards, and then crouches forward, then jumps#a/DET person/NOUN go/VERB backwards/ADV and/CCONJ then/ADV crouch/VERB forward/ADV then/ADV jump/VERB#0.0#0.0

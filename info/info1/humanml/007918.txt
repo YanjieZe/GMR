@@ -1,0 +1,3 @@
+this person is sitting on a swivel chair with arms raised as if playing an instrument.#this/DET person/NOUN is/AUX sit/VERB on/ADP a/DET swivel/ADJ chair/NOUN with/ADP arm/NOUN raise/VERB as/SCONJ if/SCONJ play/VERB an/DET instrument/NOUN#0.0#0.0
+person appears to be sitting while moving left arm rapidly in a sawing motion.#person/NOUN appear/VERB to/PART be/AUX sit/VERB while/SCONJ move/VERB left/ADJ arm/NOUN rapidly/ADV in/ADP a/DET sawing/NOUN motion/NOUN#0.0#0.0
+a figure in a sitting position has its right arm folded inward as if reeling something in#a/DET figure/NOUN in/ADP a/DET sit/VERB position/NOUN has/AUX its/DET right/ADJ arm/NOUN fold/VERB inward/ADV as/SCONJ if/SCONJ reel/VERB something/PRON in/ADP#0.0#0.0

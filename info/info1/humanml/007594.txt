@@ -1,0 +1,3 @@
+person is running straight ahead#person/NOUN is/AUX run/VERB straight/ADV ahead/ADV#0.0#0.0
+a man jogs forward a few steps, before ending in a standing pose with his arms at his sides.#a/DET man/NOUN jog/VERB forward/ADV a/DET few/ADJ step/NOUN before/ADP end/VERB in/ADP a/DET standing/NOUN pose/NOUN with/ADP his/DET arm/NOUN at/ADP his/DET side/NOUN#0.0#0.0
+a man is going out for a jog.#a/DET man/NOUN is/AUX go/VERB out/ADP for/ADP a/DET jog/NOUN#0.0#2.0

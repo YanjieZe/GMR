@@ -1,0 +1,3 @@
+a person sits and makes small random rotary motions with both hands.#a/DET person/NOUN sit/VERB and/CCONJ make/VERB small/ADJ random/ADJ rotary/ADJ motion/NOUN with/ADP both/DET hand/NOUN#0.0#0.0
+a man seated moves his hands around an object.#a/DET man/NOUN seat/VERB move/VERB his/DET hand/NOUN around/ADP an/DET object/NOUN#0.0#0.0
+person is seated with knees bent and hands in front, elbows bent, moving hands in a counter clockwise then clockwise circle.#person/NOUN is/AUX seat/VERB with/ADP knee/NOUN bent/ADJ and/CCONJ hand/NOUN in/ADP front/NOUN elbow/NOUN bent/ADJ move/VERB hand/NOUN in/ADP a/DET counter/NOUN clockwise/NOUN then/ADV clockwise/VERB circle/NOUN#0.0#0.0

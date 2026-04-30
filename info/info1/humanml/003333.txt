@@ -1,0 +1,3 @@
+a person jogs in a clockwise motion, and upon reaching his original starting point, poceeds to jog in a forward motion.#a/DET person/NOUN jog/VERB in/ADP a/DET clockwise/ADJ motion/NOUN and/CCONJ upon/SCONJ reach/VERB his/DET original/ADJ starting/NOUN point/NOUN poceed/VERB to/ADP jog/PROPN in/ADP a/DET forward/ADJ motion/NOUN#0.0#0.0
+the person is running around in a 8 figurel ike circle.#the/DET person/NOUN is/AUX run/VERB around/ADV in/ADP a/DET figurel/NOUN ike/PROPN circle/NOUN#0.0#0.0
+a person jogs drawing the top part of an eight figure#a/DET person/NOUN jog/VERB draw/VERB the/DET top/ADJ part/NOUN of/ADP an/DET eight/NUM figure/NOUN#0.0#0.0

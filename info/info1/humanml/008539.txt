@@ -1,0 +1,3 @@
+a person squatting slightly , then lifting both right and left arms above them.#a/DET person/NOUN squat/VERB slightly/ADV then/ADV lift/VERB both/CCONJ right/ADJ and/CCONJ left/VERB arm/NOUN above/ADP them/PRON#0.0#0.0
+a man crouches in a crouch.#a/DET man/NOUN crouch/VERB in/ADP a/DET crouch/NOUN#0.0#0.0
+person is doing arm lifts up and down.#person/NOUN is/AUX do/VERB arm/NOUN lift/VERB up/ADV and/CCONJ down/ADV#0.0#0.0

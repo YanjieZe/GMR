@@ -1,0 +1,3 @@
+a person high kicks with his right leg twice and then high kicks with their left leg twice.#a/DET person/NOUN high/ADJ kick/NOUN with/ADP his/DET right/ADJ leg/NOUN twice/ADV and/CCONJ then/ADV high/ADJ kick/NOUN with/ADP their/DET left/ADJ leg/NOUN twice/ADV#0.0#0.0
+a person kicks two times on his right then kicks forward two times#a/DET person/NOUN kick/VERB two/NUM time/NOUN on/ADP his/DET right/NOUN then/ADV kick/VERB forward/ADV two/NUM time/NOUN#0.0#10.0
+a person kicks forward, then to their right twice, then forward, takes a step forward, then kicks forward.#a/DET person/NOUN kick/VERB forward/ADV then/ADV to/ADP their/DET right/NOUN twice/ADV then/ADV forward/ADV take/VERB a/DET step/NOUN forward/ADV then/ADV kick/VERB forward/ADV#0.0#0.0

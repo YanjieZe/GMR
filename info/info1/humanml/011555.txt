@@ -1,0 +1,3 @@
+the person is doing a casual quick walk.#the/DET person/NOUN is/AUX do/VERB a/DET casual/ADJ quick/ADJ walk/NOUN#0.0#0.0
+a person walks forward, swaying their hips.#a/DET person/NOUN walk/VERB forward/ADV sway/VERB their/DET hip/NOUN#0.0#0.0
+a person spins to their left, appears to look around, walks quickly up a hill, then turns back around to their right.#a/DET person/NOUN spin/VERB to/ADP their/DET left/NOUN appear/VERB to/PART look/VERB around/ADV walk/VERB quickly/ADV up/ADP a/DET hill/NOUN then/ADV turn/VERB back/ADV around/ADV to/ADP their/DET right/NOUN#0.0#0.0

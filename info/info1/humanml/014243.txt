@@ -1,0 +1,3 @@
+a person throws and object with their right hand#a/DET person/NOUN throw/VERB and/CCONJ object/NOUN with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+a person throws something carelessly in front of them with frustration.#a/DET person/NOUN throw/VERB something/PRON carelessly/ADV in/ADP front/NOUN of/ADP them/PRON with/ADP frustration/NOUN#0.0#0.0
+the person is doing a throw the ball movement#the/DET person/NOUN is/AUX do/VERB a/DET throw/VERB the/DET ball/NOUN movement/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+person kicks out with their right foot, but stays standing in place. person seems both frustrated and dejected.#person/NOUN kick/VERB out/ADP with/ADP their/DET right/ADJ foot/NOUN but/CCONJ stay/VERB stand/VERB in/ADP place/NOUN person/NOUN seem/VERB both/CCONJ frustrated/ADJ and/CCONJ deject/VERB#0.0#0.0
+a person stands in place and kicks with their right foot.#a/DET person/NOUN stand/VERB in/ADP place/NOUN and/CCONJ kick/NOUN with/ADP their/DET right/ADJ foot/NOUN#0.0#0.0
+the person kicks something with his foot.#the/DET person/NOUN kick/VERB something/PRON with/ADP his/DET foot/NOUN#0.0#0.0

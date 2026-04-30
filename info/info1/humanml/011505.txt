@@ -1,0 +1,3 @@
+a person gets pushed to the right and remains standing#a/DET person/NOUN get/VERB push/VERB to/ADP the/DET right/NOUN and/CCONJ remain/VERB stand/VERB#0.0#0.0
+a person is stumbles to the right after being pushed.#a/DET person/NOUN is/AUX stumble/NOUN to/ADP the/DET right/NOUN after/ADP being/AUX push/VERB#0.0#0.0
+a person quickly slides to their right.#a/DET person/NOUN quickly/ADV slide/VERB to/ADP their/DET right/NOUN#0.0#0.0

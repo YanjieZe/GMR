@@ -1,0 +1,3 @@
+the person takes a big step left with its red leg.#the/DET person/NOUN take/VERB a/DET big/ADJ step/NOUN left/VERB with/ADP its/DET red/ADJ leg/NOUN#0.0#0.0
+a person slowly moved forward in right direction#a/DET person/NOUN slowly/ADV move/VERB forward/ADV in/ADP right/ADJ direction/NOUN#0.0#0.0
+a person takes a step to his right.#a/DET person/NOUN take/VERB a/DET step/NOUN to/ADP his/DET right/NOUN#0.0#0.0

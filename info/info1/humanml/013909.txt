@@ -1,0 +1,3 @@
+a person walks straight ahead.#a/DET person/NOUN walk/VERB straight/ADV ahead/ADV#0.0#0.0
+walking straight forward then stopping.#walk/VERB straight/ADV forward/ADV then/ADV stop/VERB#0.0#0.0
+person is walking straight ahead#person/NOUN is/AUX walk/VERB straight/ADV ahead/ADV#0.0#0.0

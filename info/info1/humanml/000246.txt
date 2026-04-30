@@ -1,0 +1,3 @@
+a person cautiously walks in an arc#a/DET person/NOUN cautiously/ADV walk/VERB in/ADP an/DET arc/NOUN#0.0#0.0
+a person walks slowly to the right and stops facing away.#a/DET person/NOUN walk/VERB slowly/ADV to/ADP the/DET right/NOUN and/CCONJ stop/VERB face/VERB away/ADV#0.0#0.0
+person is walking cautiously like they're sneaking around#person/NOUN is/AUX walk/VERB cautiously/ADV like/SCONJ they/PRON sneak/VERB around/ADV#0.0#0.0

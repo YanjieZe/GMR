@@ -1,0 +1,3 @@
+a person squats down then jumps forward.#a/DET person/NOUN squat/VERB down/ADP then/ADV jump/VERB forward/ADV#0.0#0.0
+a person squats deeply and then leaps forward, straightening their body.#a/DET person/NOUN squat/VERB deeply/ADV and/CCONJ then/ADV leap/VERB forward/ADV straighten/VERB their/DET body/NOUN#0.0#0.0
+a person squats deeply, then swings themselves into a forward leap.#a/DET person/NOUN squat/VERB deeply/ADV then/ADV swing/VERB themselves/PRON into/ADP a/DET forward/ADJ leap/NOUN#0.0#0.0

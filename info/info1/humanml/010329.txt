@@ -1,0 +1,3 @@
+raising hands towards mouth while sitting.#raise/VERB hand/NOUN towards/ADP mouth/NOUN while/SCONJ sit/VERB#0.0#0.0
+a man sits with his knees bent as his bent arms move slightly in the air in front of him.#a/DET man/NOUN sit/VERB with/ADP his/DET knee/NOUN bent/ADJ as/SCONJ his/DET bent/ADJ arm/NOUN move/VERB slightly/ADV in/ADP the/DET air/NOUN in/ADP front/NOUN of/ADP him/PRON#0.0#0.0
+a person sits and holds both hands up by his head while slightly moving his right hand#a/DET person/NOUN sit/VERB and/CCONJ hold/VERB both/DET hand/NOUN up/ADP by/ADP his/DET head/NOUN while/SCONJ slightly/ADV move/VERB his/DET right/ADJ hand/NOUN#0.0#0.0

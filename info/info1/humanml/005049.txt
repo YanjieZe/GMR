@@ -1,0 +1,2 @@
+a person quickly spins all the way around, pivoting on their right foot, and then sprints forward.#a/DET person/NOUN quickly/ADV spin/VERB all/DET the/DET way/NOUN around/ADV pivot/VERB on/ADP their/DET right/ADJ foot/NOUN and/CCONJ then/ADV sprint/VERB forward/ADV#0.0#0.0
+man runs down and to the right while spinning along the linear trajectory in a clockwise circle.#man/NOUN run/VERB down/ADP and/CCONJ to/ADP the/DET right/ADJ while/SCONJ spin/VERB along/ADP the/DET linear/ADJ trajectory/NOUN in/ADP a/DET clockwise/ADJ circle/NOUN#0.0#1.0

@@ -1,0 +1,3 @@
+a person holds onto a counter or railing as they walk across the room.#a/DET person/NOUN hold/VERB onto/ADP a/DET counter/NOUN or/CCONJ rail/VERB as/SCONJ they/PRON walk/VERB across/ADP the/DET room/NOUN#0.0#0.0
+a person walks while touching something with both hands.#a/DET person/NOUN walk/VERB while/SCONJ touch/VERB something/PRON with/ADP both/DET hand/NOUN#0.0#0.0
+somebody is walking, and using the hand rail.#somebody/PRON is/AUX walk/VERB and/CCONJ use/VERB the/DET hand/NOUN rail/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a figure taking a seat and then fidgeting to get comfortable#a/DET figure/NOUN take/VERB a/DET seat/NOUN and/CCONJ then/ADV fidget/VERB to/PART get/AUX comfortable/ADJ#0.0#0.0
+this person takes a seat and readjusts it with their right hand.#this/DET person/NOUN take/VERB a/DET seat/NOUN and/CCONJ readjust/VERB it/PRON with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+person appeared sit on a round chair.#person/NOUN appear/VERB sit/VERB on/ADP a/DET round/ADJ chair/NOUN#0.0#0.0

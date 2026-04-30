@@ -1,0 +1,3 @@
+a man steps forward and walks in a quarter circle to the left#a/DET man/NOUN step/VERB forward/ADV and/CCONJ walk/VERB in/ADP a/DET quarter/NOUN circle/NOUN to/ADP the/DET left/NOUN#0.0#0.0
+the person takes a couple of steps then turns left#the/DET person/NOUN take/VERB a/DET couple/NOUN of/ADP step/NOUN then/ADV turn/VERB left/ADV#0.0#0.0
+a person walks in a semi-circle#a/DET person/NOUN walk/VERB in/ADP a/DET semicircle/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+the person is throwing some thing with both hands.#the/DET person/NOUN is/AUX throw/VERB some/DET thing/NOUN with/ADP both/DET hand/NOUN#0.0#0.0
+a person jumps/hops into the air while both arms are raising up.#a/DET person/NOUN jump/VERB hop/NOUN into/ADP the/DET air/NOUN while/SCONJ both/DET arm/NOUN are/AUX raise/VERB up/ADP#0.0#0.0
+moving legs and hands stay stand.#move/VERB leg/NOUN and/CCONJ hand/NOUN stay/VERB stand/ADJ#0.0#0.0

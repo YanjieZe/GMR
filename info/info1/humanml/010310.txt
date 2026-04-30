@@ -1,0 +1,3 @@
+a person does martial arts kicks with both legs while moving forward.#a/DET person/NOUN does/AUX martial/ADJ art/NOUN kick/NOUN with/ADP both/DET leg/NOUN while/SCONJ move/VERB forward/ADV#0.0#0.0
+a person pivots and steps forward, kicks the air, and repeats#a/DET person/NOUN pivot/NOUN and/CCONJ step/NOUN forward/ADV kick/VERB the/DET air/NOUN and/CCONJ repeat/NOUN#0.0#0.0
+a man kicks forward with his left leg then kicks with left leg,then kicks with left right then kicks with left leg.#a/DET man/NOUN kick/VERB forward/ADV with/ADP his/DET left/ADJ leg/NOUN then/ADV kick/VERB with/ADP left/ADJ leg/NOUN then/ADV kick/VERB with/ADP left/ADJ right/ADV then/ADV kick/VERB with/ADP left/ADJ leg/NOUN#0.0#0.0

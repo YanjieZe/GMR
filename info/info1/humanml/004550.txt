@@ -1,0 +1,3 @@
+person is using a touch screen#person/NOUN is/AUX use/VERB a/DET touch/NOUN screen/NOUN#0.0#0.0
+a person gestures like a mime by pretending to be stuck inside a box.#a/DET person/NOUN gesture/VERB like/SCONJ a/DET mime/NOUN by/ADP pretend/VERB to/PART be/AUX stick/VERB inside/ADP a/DET box/NOUN#0.0#0.0
+this person appears to organize items on a wall.#this/DET person/NOUN appear/VERB to/PART organize/VERB item/NOUN on/ADP a/DET wall/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+person walks slightly to the right#person/NOUN walk/VERB slightly/ADV to/ADP the/DET right/NOUN#0.0#0.0
+a person walking turns slightly to the left and slows down to turn back#a/DET person/NOUN walk/VERB turn/VERB slightly/ADV to/ADP the/DET left/NOUN and/CCONJ slow/VERB down/ADP to/PART turn/VERB back/ADV#0.0#1.0
+the person walks quickly at an angel to the left, while their body is turned to the right#the/DET person/NOUN walk/VERB quickly/ADV at/ADP an/DET angel/NOUN to/ADP the/DET left/NOUN while/SCONJ their/DET body/NOUN is/AUX turn/VERB to/ADP the/DET right/NOUN#0.0#0.0

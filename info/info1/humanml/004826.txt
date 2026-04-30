@@ -1,0 +1,3 @@
+a person walks forward, turns right, steps onto and over an object, steps onto another object, turns right, and then steps up onto a higher object.#a/DET person/NOUN walk/VERB forward/ADV turn/VERB right/ADJ step/VERB onto/ADP and/CCONJ over/ADP an/DET object/NOUN step/VERB onto/ADP another/DET object/NOUN turn/VERB right/ADJ and/CCONJ then/ADV step/VERB up/ADP onto/ADP a/DET higher/ADJ object/NOUN#0.0#0.0
+the person is walking around.#the/DET person/NOUN is/AUX walk/VERB around/ADV#0.0#0.0
+he walks on a unevain train#he/PRON walk/VERB on/ADP a/DET unevain/ADJ train/NOUN#0.0#0.0

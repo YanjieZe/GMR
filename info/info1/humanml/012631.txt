@@ -1,0 +1,3 @@
+a person standing with right arm raised steps forward, looks at his hands then raises right hand as if it's holding something.#a/DET person/NOUN stand/VERB with/ADP right/ADJ arm/NOUN raise/VERB step/NOUN forward/ADV look/VERB at/ADP his/DET hand/NOUN then/ADV raise/VERB right/ADJ hand/NOUN as/SCONJ if/SCONJ it/PRON hold/VERB something/PRON#0.0#0.0
+person steps forward, opens a cell phone, and then brings it up to their ear#person/NOUN step/VERB forward/ADV open/VERB a/DET cell/NOUN phone/NOUN and/CCONJ then/ADV bring/VERB it/PRON up/ADP to/ADP their/DET ear/NOUN#0.0#0.0
+a person puts his right arm to hold the umbrella over his head#a/DET person/NOUN put/VERB his/DET right/ADJ arm/NOUN to/PART hold/VERB the/DET umbrella/NOUN over/ADP his/DET head/NOUN#0.0#0.0

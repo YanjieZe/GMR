@@ -1,0 +1,3 @@
+someone is trying to walk in a straight line#someone/PRON is/AUX try/VERB to/PART walk/VERB in/ADP a/DET straight/ADJ line/NOUN#0.0#0.0
+a person walks forward slowly and holds to a rail#a/DET person/NOUN walk/VERB forward/ADV slowly/ADV and/CCONJ hold/VERB to/ADP a/DET rail/NOUN#0.0#0.0
+a person walking forward slowly using hand rails on the left and on the right#a/DET person/NOUN walk/VERB forward/ADV slowly/ADV use/VERB hand/NOUN rail/NOUN on/ADP the/DET left/NOUN and/CCONJ on/ADP the/DET right/NOUN#1.0#10.0

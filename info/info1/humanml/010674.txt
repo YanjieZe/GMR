@@ -1,0 +1,3 @@
+a person grasps something with both hands at the chest. then motions forward with one hand. they bring hands back down then again to the chest#a/DET person/NOUN grasp/VERB something/PRON with/ADP both/DET hand/NOUN at/ADP the/DET chest/NOUN then/ADV motion/NOUN forward/ADV with/ADP one/NUM hand/NOUN they/PRON bring/VERB hand/NOUN back/ADV down/ADV then/ADV again/ADV to/ADP the/DET chest/NOUN#0.0#0.0
+a person raised the hands and starts grabbing something#a/DET person/NOUN raise/VERB the/DET hand/NOUN and/CCONJ start/VERB grab/VERB something/PRON#0.0#0.0
+the sim appears to be pointing outward, bring both hands to their mouth.#the/DET sim/PROPN appear/VERB to/PART be/AUX point/VERB outward/ADV bring/VERB both/DET hand/NOUN to/ADP their/DET mouth/NOUN#0.0#0.0

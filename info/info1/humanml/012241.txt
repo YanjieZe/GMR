@@ -1,0 +1,3 @@
+the person move something from left to right.#the/DET person/NOUN move/VERB something/PRON from/ADP left/ADJ to/ADP right/NOUN#0.0#0.0
+the person is lacing something from the left to right side#the/DET person/NOUN is/AUX lace/VERB something/PRON from/ADP the/DET left/NOUN to/ADP right/ADJ side/NOUN#0.0#0.0
+imitates the motion of picking a box up from his right and setting it to his left.#imitate/VERB the/DET motion/NOUN of/ADP pick/VERB a/DET box/NOUN up/ADV from/ADP his/DET right/NOUN and/CCONJ set/VERB it/PRON to/ADP his/DET left/NOUN#0.0#0.0

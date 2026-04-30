@@ -1,0 +1,3 @@
+a person walks forward, swivels, and then walks in the other direction.#a/DET person/NOUN walk/VERB forward/ADV swivel/NOUN and/CCONJ then/ADV walk/VERB in/ADP the/DET other/ADJ direction/NOUN#0.0#0.0
+a man walks in and swiftly kicks his right leg out has he turns counter clock wise back around.#a/DET man/NOUN walk/VERB in/ADP and/CCONJ swiftly/ADV kick/VERB his/DET right/ADJ leg/NOUN out/ADP has/AUX he/PRON turn/VERB counter/NOUN clock/NOUN wise/ADJ back/ADV around/ADV#0.0#0.0
+the man walks forward and turns left#the/DET man/NOUN walk/VERB forward/ADV and/CCONJ turn/VERB left/ADV#0.0#0.0

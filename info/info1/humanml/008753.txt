@@ -1,0 +1,3 @@
+a person walks and picks up an object and then throwing it.#a/DET person/NOUN walk/VERB and/CCONJ pick/VERB up/ADP an/DET object/NOUN and/CCONJ then/ADV throw/VERB it/PRON#0.0#5.0
+individual is walking, bends over as to grab something, throw the object, then continues to walk.#individual/PROPN is/AUX walk/VERB bend/VERB over/ADP as/SCONJ to/PART grab/VERB something/PRON throw/VERB the/DET object/NOUN then/ADV continue/VERB to/PART walk/VERB#0.0#5.0
+a man walks forward, reaches to his right for something with both hands, then continues walking.#a/DET man/NOUN walk/VERB forward/ADV reach/VERB to/ADP his/DET right/NOUN for/ADP something/PRON with/ADP both/DET hand/NOUN then/ADV continue/VERB walk/VERB#0.0#0.0

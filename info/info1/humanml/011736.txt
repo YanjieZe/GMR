@@ -1,0 +1,3 @@
+a person goes over a tightrope.#a/DET person/NOUN go/VERB over/ADP a/DET tightrope/NOUN#0.0#0.0
+a man walks across something carefully, one foot in front of the other, while balancing himself with both his arms stretched out to his sides.#a/DET man/NOUN walk/VERB across/ADP something/PRON carefully/ADV one/NUM foot/NOUN in/ADP front/NOUN of/ADP the/DET other/ADJ while/SCONJ balance/VERB himself/PRON with/ADP both/CCONJ his/DET arm/NOUN stretch/VERB out/ADP to/ADP his/DET side/NOUN#0.0#0.0
+a person walks on a balance beam with his hands out to the side for balance.#a/DET person/NOUN walk/VERB on/ADP a/DET balance/NOUN beam/NOUN with/ADP his/DET hand/NOUN out/ADP to/ADP the/DET side/NOUN for/ADP balance/NOUN#0.0#0.0

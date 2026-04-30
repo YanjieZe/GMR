@@ -1,0 +1,3 @@
+he walks quickly forward, reaching out and shaking hands, then steps around him/her and walks on again.#he/PRON walk/VERB quickly/ADV forward/ADV reach/VERB out/ADP and/CCONJ shake/VERB hand/NOUN then/ADV step/VERB around/ADP him/PRON her/PRON and/CCONJ walk/VERB on/ADP again/ADV#0.0#0.0
+a person walks, then shakes hands with someone and continues walking#a/DET person/NOUN walk/VERB then/ADV shake/VERB hand/NOUN with/ADP someone/PRON and/CCONJ continue/VERB walk/VERB#0.0#0.0
+a person walks forward, does a motion to shake hands with another person, then walks away to the left#a/DET person/NOUN walk/VERB forward/ADV does/AUX a/DET motion/NOUN to/PART shake/VERB hand/NOUN with/ADP another/DET person/NOUN then/ADV walk/VERB away/ADV to/ADP the/DET left/NOUN#0.0#0.0

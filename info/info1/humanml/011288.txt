@@ -1,0 +1,3 @@
+bends to the right, picks up something, turns, then sets it down.#bend/NOUN to/ADP the/DET right/NOUN pick/VERB up/ADP something/PRON turn/VERB then/ADV set/VERB it/PRON down/ADP#0.0#0.0
+a person moving something heavy from one place to another.#a/DET person/NOUN move/VERB something/PRON heavy/ADJ from/ADP one/NUM place/NOUN to/ADP another/DET#0.0#0.0
+a person turns towards to the right, picks up a heavy object and turns and set it down in front of him.#a/DET person/NOUN turn/VERB towards/ADP to/ADP the/DET right/NOUN pick/VERB up/ADP a/DET heavy/ADJ object/NOUN and/CCONJ turn/VERB and/CCONJ set/VERB it/PRON down/ADP in/ADP front/NOUN of/ADP him/PRON#0.0#0.0

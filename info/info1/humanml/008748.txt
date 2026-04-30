@@ -1,0 +1,3 @@
+a person jogs forward.#a/DET person/NOUN jog/VERB forward/ADV#0.0#0.0
+a person jogs on the spot#a/DET person/NOUN jog/VERB on/ADP the/DET spot/NOUN#0.0#0.0
+the person runs in place.#the/DET person/NOUN run/VERB in/ADP place/NOUN#0.0#0.0

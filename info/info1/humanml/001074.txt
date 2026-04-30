@@ -1,0 +1,3 @@
+a person walks forward then spins right and walks back#a/DET person/NOUN walk/VERB forward/ADV then/ADV spin/VERB right/ADJ and/CCONJ walk/VERB back/ADV#0.0#0.0
+a man takes a slight step with his left foot, then walks forward, makes a half-turn to the right, and walks forward again.#a/DET man/NOUN take/VERB a/DET slight/ADJ step/NOUN with/ADP his/DET left/ADJ foot/NOUN then/ADV walk/VERB forward/ADV make/VERB a/DET halfturn/NOUN to/ADP the/DET right/NOUN and/CCONJ walk/VERB forward/ADV again/ADV#0.0#0.0
+person moves forward one step then rotates and walks forward#person/NOUN move/VERB forward/ADV one/NUM step/NOUN then/ADV rotate/VERB and/CCONJ walk/VERB forward/ADV#0.0#0.0

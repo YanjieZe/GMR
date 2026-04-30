@@ -1,0 +1,3 @@
+arms outstretched, move arms forward and back.#arm/NOUN outstretche/VERB move/VERB arm/NOUN forward/ADV and/CCONJ back/ADV#0.0#0.0
+a man sways both arms back and forth while keeping them horizontal to the ground.#a/DET man/NOUN sway/VERB both/DET arm/NOUN back/ADV and/CCONJ forth/ADV while/SCONJ keep/VERB them/PRON horizontal/ADJ to/ADP the/DET ground/NOUN#0.0#0.0
+a person waves both arms in the air.#a/DET person/NOUN wave/VERB both/DET arm/NOUN in/ADP the/DET air/NOUN#0.0#0.0

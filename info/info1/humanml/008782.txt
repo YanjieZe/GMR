@@ -1,0 +1,3 @@
+a person walks forwards stiffly with both arms out in front of them.#a/DET person/NOUN walk/VERB forwards/ADP stiffly/NOUN with/ADP both/DET arm/NOUN out/ADP in/ADP front/NOUN of/ADP them/PRON#0.0#0.0
+a person walks forward holding their arms in front of them.#a/DET person/NOUN walk/VERB forward/ADV hold/VERB their/DET arm/NOUN in/ADP front/NOUN of/ADP them/PRON#0.0#1.0
+a person is walking in an unbalanced and wobbly way.#a/DET person/NOUN is/AUX walk/VERB in/ADP an/DET unbalanced/ADJ and/CCONJ wobbly/ADJ way/NOUN#0.0#0.0

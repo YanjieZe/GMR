@@ -1,0 +1,3 @@
+a person stands and waves happily with their red hand.#a/DET person/NOUN stand/VERB and/CCONJ wave/VERB happily/ADV with/ADP their/DET red/ADJ hand/NOUN#0.0#0.0
+the man waves goodbye to his friend#the/DET man/NOUN wave/VERB goodbye/NOUN to/ADP his/DET friend/NOUN#0.0#0.0
+a person waves their hand#a/DET person/NOUN wave/VERB their/DET hand/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a man sits down and then stands back up.#a/DET man/NOUN sit/VERB down/ADV and/CCONJ then/ADV stand/VERB back/ADV up/ADV#0.0#0.0
+a person sitting on the floor in cross leg position and stands.#a/DET person/NOUN sit/VERB on/ADP the/DET floor/NOUN in/ADP cross/NOUN leg/PROPN position/NOUN and/CCONJ stand/VERB#0.0#0.0
+a person sits criss cross and then stands back up.#a/DET person/NOUN sit/VERB criss/PROPN cross/PROPN and/CCONJ then/ADV stand/VERB back/ADV up/ADV#0.0#0.0

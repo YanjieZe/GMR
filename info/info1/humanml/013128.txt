@@ -1,0 +1,3 @@
+a person is doing a dance.#a/DET person/NOUN is/AUX do/VERB a/DET dance/NOUN#0.0#0.0
+moving forward and backward and dancing.#move/VERB forward/ADV and/CCONJ backward/ADV and/CCONJ dancing/NOUN#0.0#0.0
+a person is doing a traditional salsa dance.#a/DET person/NOUN is/AUX do/VERB a/DET traditional/ADJ salsa/NOUN dance/NOUN#0.0#0.0

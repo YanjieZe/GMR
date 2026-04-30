@@ -1,0 +1,3 @@
+person starts slowly walking in a diagonal line#person/NOUN start/VERB slowly/ADV walk/VERB in/ADP a/DET diagonal/ADJ line/NOUN#0.0#0.0
+a person walks slowly forward, their arms are swinging slightly.#a/DET person/NOUN walk/VERB slowly/ADV forward/ADV their/DET arm/NOUN are/AUX swinge/VERB slightly/ADV#0.0#0.0
+a person walks forward diagonally.#a/DET person/NOUN walk/VERB forward/ADV diagonally/ADV#0.0#0.0

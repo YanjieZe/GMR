@@ -1,0 +1,3 @@
+the person walks backwards in an s pattern#the/DET person/NOUN walk/VERB backwards/ADV in/ADP an/DET s/X pattern/NOUN#0.0#0.0
+a person walks backward turning in different directions using their arms to keep their balance.#a/DET person/NOUN walk/VERB backward/ADJ turn/VERB in/ADP different/ADJ direction/NOUN use/VERB their/DET arm/NOUN to/PART keep/VERB their/DET balance/NOUN#0.0#0.0
+a person looks around them in a scared fashion.#a/DET person/NOUN look/VERB around/ADP them/PRON in/ADP a/DET scared/ADJ fashion/NOUN#0.0#0.0

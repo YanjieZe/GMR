@@ -1,0 +1,3 @@
+a person crawls on hands and knees forward, stands up with side showing.#a/DET person/NOUN crawl/VERB on/ADP hand/NOUN and/CCONJ knee/NOUN forward/ADV stand/VERB up/ADP with/ADP side/NOUN showing/NOUN#0.0#0.0
+a human os crawling on the ground with hands and knees, stands up first on his left foot and turns counter clockwise one hundred and eighty degrees.#a/DET human/ADJ os/NOUN crawl/VERB on/ADP the/DET ground/NOUN with/ADP hand/NOUN and/CCONJ knee/NOUN stand/VERB up/ADP first/ADV on/ADP his/DET left/ADJ foot/NOUN and/CCONJ turn/VERB counter/ADJ clockwise/NOUN one/NUM hundred/NUM and/CCONJ eighty/NUM degree/NOUN#0.0#0.0
+someone crawls across the floor then stands up.#someone/PRON crawl/VERB across/ADP the/DET floor/NOUN then/ADV stand/VERB up/ADP#0.0#0.0

@@ -1,0 +1,3 @@
+walking from side to side.#walk/VERB from/ADP side/NOUN to/ADP side/NOUN#0.0#0.0
+the person was pushed to the left and then move back to the right.#the/DET person/NOUN was/AUX push/VERB to/ADP the/DET left/NOUN and/CCONJ then/ADV move/VERB back/ADV to/ADP the/DET right/NOUN#0.0#0.0
+figure quickly side steps to the right, slowly side steps to the left#figure/VERB quickly/ADV side/VERB step/NOUN to/ADP the/DET right/NOUN slowly/ADV side/ADJ step/NOUN to/ADP the/DET left/NOUN#0.0#0.0

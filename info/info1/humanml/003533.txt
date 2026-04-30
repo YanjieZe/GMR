@@ -1,0 +1,3 @@
+a person is wiping something with their right arm at their shoulder level.#a/DET person/NOUN is/AUX wipe/VERB something/PRON with/ADP their/DET right/ADJ arm/NOUN at/ADP their/DET shoulder/NOUN level/NOUN#0.0#0.0
+a person bends their right arm at the elbow, moves their arm around, then raises both arms#a/DET person/NOUN bend/VERB their/DET right/ADJ arm/NOUN at/ADP the/DET elbow/NOUN move/VERB their/DET arm/NOUN around/ADP then/ADV raise/VERB both/DET arm/NOUN#0.0#0.0
+a person walks forward and climbs up something on the right hand side.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ climb/VERB up/ADP something/PRON on/ADP the/DET right/ADJ hand/NOUN side/NOUN#0.0#0.0

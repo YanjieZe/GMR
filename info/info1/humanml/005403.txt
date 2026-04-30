@@ -1,0 +1,3 @@
+the person took a jump forward.#the/DET person/NOUN take/VERB a/DET jump/NOUN forward/ADV#0.0#0.0
+a person jumps forward once.#a/DET person/NOUN jump/VERB forward/ADV once/ADV#0.0#0.0
+jump fornt on the floor.#jump/VERB fornt/PROPN on/ADP the/DET floor/NOUN#0.0#0.0

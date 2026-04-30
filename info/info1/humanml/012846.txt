@@ -1,0 +1,3 @@
+a person stands with arms out to the side, drops them, then claps her hands and starts walking forward; after 4 steps she sits in a chair with her hands together.#a/DET person/NOUN stand/VERB with/ADP arm/NOUN out/SCONJ to/ADP the/DET side/NOUN drop/VERB them/PRON then/ADV clap/VERB her/DET hand/NOUN and/CCONJ start/VERB walk/VERB forward/ADV after/ADP step/NOUN she/PRON sit/VERB in/ADP a/DET chair/NOUN with/ADP her/DET hand/NOUN together/ADV#0.0#0.0
+a person claps his hands then sits down.#a/DET person/NOUN clap/VERB his/DET hand/NOUN then/ADV sit/VERB down/ADP#0.0#0.0
+a man lowers his arms, claps his hands, and sits down.#a/DET man/NOUN lower/VERB his/DET arm/NOUN clap/VERB his/DET hand/NOUN and/CCONJ sit/VERB down/ADP#0.0#0.0

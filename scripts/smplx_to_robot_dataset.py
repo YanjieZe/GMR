@@ -17,13 +17,14 @@ from general_motion_retargeting import GeneralMotionRetargeting as GMR
 from general_motion_retargeting.utils.smpl import load_smplx_file, get_smplx_data_offline_fast
 from general_motion_retargeting.kinematics_model import KinematicsModel
 from general_motion_retargeting import IK_CONFIG_ROOT
+from scripts.kalman_smooth import smooth_motion_data
 import gc
 import time
 import psutil
 import tracemalloc
 
 
-def check_memory(threshold_gb=30):  # adjust based on your available memory
+def check_memory(threshold_gb=10):  # adjust based on your available memory
     mem = psutil.virtual_memory()
     used_memory_gb = (mem.total - mem.available) / (1024 ** 3)
     available_memory_gb = mem.available / (1024 ** 3)
@@ -129,7 +130,41 @@ def process_file(smplx_file_path, tgt_file_path, tgt_robot, SMPLX_FOLDER, tgt_fo
     if ROOT_ORIGIN_OFFSET:
         # offset using the first frame
         root_pos[:, :2] -= root_pos[0, :2]
+    
+    # Kalman filter smoothing
+    USE_KALMAN_SMOOTH = True
+    if USE_KALMAN_SMOOTH:
+        # Smoothing parameters: smaller process_noise and measurement_noise produce smoother results
+        # but may over-smooth, adjust according to actual needs
+        root_pos_smooth, root_rot_smooth, dof_pos_smooth = smooth_motion_data(
+            root_pos=root_pos,
+            root_rot=root_rot,
+            dof_pos=dof_pos,
+            smooth_root_pos=True,  # Smooth root position (reduce ground plane jitter)
+            smooth_root_rot=True,  # Smooth root rotation (reduce ground plane rotation jitter)
+            smooth_dof_pos=True,   # Smooth joint angles (reduce joint jitter)
+            root_pos_process_noise=0.005,   # Root position process noise (smaller = smoother)
+            root_pos_measurement_noise=0.05, # Root position measurement noise
+            root_rot_process_noise=0.01,     # Root rotation process noise
+            root_rot_measurement_noise=0.1,  # Root rotation measurement noise
+            dof_pos_process_noise=0.01,      # Joint angle process noise
+            dof_pos_measurement_noise=0.1,   # Joint angle measurement noise
+        )
         
+        # If root position is smoothed, need to re-adjust height
+        if HEIGHT_ADJUST:
+            ground_offset = 0.0
+            body_pos_smooth, _ = kinematics_model.forward_kinematics(
+                torch.from_numpy(root_pos_smooth).to(device=device, dtype=torch.float),
+                torch.from_numpy(root_rot_smooth).to(device=device, dtype=torch.float),
+                torch.from_numpy(dof_pos_smooth).to(device=device, dtype=torch.float)
+            )
+            lowerst_height_smooth = torch.min(body_pos_smooth[..., 2]).item()
+            root_pos_smooth[:, 2] = root_pos_smooth[:, 2] - lowerst_height_smooth + ground_offset
+        
+        root_pos = root_pos_smooth
+        root_rot = root_rot_smooth
+        dof_pos = dof_pos_smooth
         
     motion_data = {
         "fps": aligned_fps,

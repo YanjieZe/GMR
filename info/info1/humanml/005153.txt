@@ -1,0 +1,3 @@
+a person is walking around with excitement#a/DET person/NOUN is/AUX walk/VERB around/ADP with/ADP excitement/NOUN#0.0#0.0
+a person walks and jumps joyfully back and forth#a/DET person/NOUN walk/VERB and/CCONJ jump/VERB joyfully/ADV back/ADV and/CCONJ forth/ADV#0.0#0.0
+the person walks forward with what appears as excitement and then turns around and walks back with the same excitement.#the/DET person/NOUN walk/VERB forward/ADV with/ADP what/PRON appear/VERB as/SCONJ excitement/NOUN and/CCONJ then/ADV turn/VERB around/ADV and/CCONJ walk/VERB back/ADV with/ADP the/DET same/ADJ excitement/NOUN#0.0#0.0

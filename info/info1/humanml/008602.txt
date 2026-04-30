@@ -1,0 +1,3 @@
+a person appears to be throwing something with their right hand.#a/DET person/NOUN appear/VERB to/PART be/AUX throw/VERB something/PRON with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+a person throws something, catches, then throws it again.#a/DET person/NOUN throw/VERB something/PRON catch/NOUN then/ADV throw/VERB it/PRON again/ADV#0.0#0.0
+a person throws something and catches something.#a/DET person/NOUN throw/VERB something/PRON and/CCONJ catch/NOUN something/PRON#0.0#0.0

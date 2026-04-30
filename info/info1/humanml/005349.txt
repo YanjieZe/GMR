@@ -1,0 +1,3 @@
+the person is sneaking up on someone like a cat.#the/DET person/NOUN is/AUX sneak/VERB up/ADP on/ADP someone/PRON like/SCONJ a/DET cat/NOUN#0.0#0.0
+a person slowly creeps forward, stops, and then jumps forward#a/DET person/NOUN slowly/ADV creep/VERB forward/ADV stop/VERB and/CCONJ then/ADV jump/VERB forward/ADV#0.0#0.0
+a figure sneaks up on a cat and grabs it for a snuggle#a/DET figure/NOUN sneak/VERB up/ADP on/ADP a/DET cat/NOUN and/CCONJ grab/NOUN it/PRON for/ADP a/DET snuggle/NOUN#0.0#0.0

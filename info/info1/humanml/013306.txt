@@ -1,0 +1,3 @@
+the person is doing elbow warm-ups.#the/DET person/NOUN is/AUX do/VERB elbow/PROPN warmup/NOUN#0.0#0.0
+the man stretches his right arm in the air the the left one.#the/DET man/NOUN stretch/VERB his/DET right/ADJ arm/NOUN in/ADP the/DET air/NOUN the/DET the/DET left/ADJ one/NOUN#0.0#0.0
+a person knocks with his right hand and then with his left hand.#a/DET person/NOUN knock/VERB with/ADP his/DET right/ADJ hand/NOUN and/CCONJ then/ADV with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0

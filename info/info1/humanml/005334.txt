@@ -1,0 +1,3 @@
+persons playing a guitar with his left hand.#person/NOUN play/VERB a/DET guitar/NOUN with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0
+a person has right hand up at head height while left hand goes up and down at belly height.#a/DET person/NOUN has/AUX right/ADJ hand/NOUN up/ADP at/ADP head/NOUN height/NOUN while/SCONJ left/ADJ hand/NOUN go/VERB up/ADP and/CCONJ down/ADV at/ADP belly/NOUN height/NOUN#0.0#0.0
+a person appears to be playing the guitar#a/DET person/NOUN appear/VERB to/PART be/AUX play/VERB the/DET guitar/NOUN#0.0#0.0

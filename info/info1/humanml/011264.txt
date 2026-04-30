@@ -1,0 +1,3 @@
+a person takes four steps forward then jumps straight up.#a/DET person/NOUN take/VERB four/NUM step/NOUN forward/ADV then/ADV jump/VERB straight/ADV up/ADV#0.0#0.0
+a person standing in place starts to walk forward.#a/DET person/NOUN stand/VERB in/ADP place/NOUN start/NOUN to/PART walk/VERB forward/ADV#0.0#0.0
+a person pauses briefly before taking a few steps forward, then stops and jumps once.#a/DET person/NOUN pause/VERB briefly/ADV before/ADP take/VERB a/DET few/ADJ step/NOUN forward/ADV then/ADV stop/VERB and/CCONJ jump/VERB once/ADV#0.0#0.0

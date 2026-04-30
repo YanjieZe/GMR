@@ -1,0 +1,3 @@
+a person squats to grab something a couple times, then starts to walk in a small circle motion.#a/DET person/NOUN squat/VERB to/PART grab/VERB something/PRON a/DET couple/NOUN time/NOUN then/ADV start/VERB to/PART walk/VERB in/ADP a/DET small/ADJ circle/NOUN motion/NOUN#0.0#9.0
+bending down and then standing.#bend/VERB down/ADP and/CCONJ then/ADV stand/VERB#0.0#0.0
+a person bends over and touches something with his right hand.#a/DET person/NOUN bend/VERB over/ADP and/CCONJ touch/VERB something/PRON with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0

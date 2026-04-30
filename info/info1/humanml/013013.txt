@@ -1,0 +1,3 @@
+a person running on a spot#a/DET person/NOUN run/VERB on/ADP a/DET spot/NOUN#0.0#0.0
+a person standing in the middle of the screen is jogging in place#a/DET person/NOUN stand/VERB in/ADP the/DET middle/NOUN of/ADP the/DET screen/NOUN is/AUX jog/VERB in/ADP place/NOUN#0.0#4.0
+person is running in place#person/NOUN is/AUX run/VERB in/ADP place/NOUN#0.0#0.0

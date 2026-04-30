@@ -1,0 +1,3 @@
+a person walks forward and is pushed back by something and then continues on their path.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ is/AUX push/VERB back/ADV by/ADP something/PRON and/CCONJ then/ADV continue/VERB on/ADP their/DET path/NOUN#0.0#0.0
+he walks forward and nearly falls#he/PRON walk/VERB forward/ADV and/CCONJ nearly/ADV fall/VERB#0.0#0.0
+walking forward, then stumbles backwards a step, and then continues to walk forward.#walk/VERB forward/ADV then/ADV stumble/VERB backwards/ADV a/DET step/NOUN and/CCONJ then/ADV continue/VERB to/PART walk/VERB forward/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a man walks backward and forward multiple times.#a/DET man/NOUN walk/VERB backward/ADJ and/CCONJ forward/ADV multiple/ADJ time/NOUN#0.0#0.0
+person walks backwards, then sprints forward, then steps backwards.#person/NOUN walk/VERB backwards/ADV then/ADV sprint/VERB forward/ADV then/ADV step/VERB backwards/ADV#0.0#0.0
+a person walks forward quickly.#a/DET person/NOUN walk/VERB forward/ADV quickly/ADV#0.0#0.0

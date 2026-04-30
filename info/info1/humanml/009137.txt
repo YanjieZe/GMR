@@ -1,0 +1,3 @@
+the person is making an arm gesture putting his arms up into the air#the/DET person/NOUN is/AUX make/VERB an/DET arm/NOUN gesture/NOUN put/VERB his/DET arm/NOUN up/ADP into/ADP the/DET air/NOUN#0.0#0.0
+a man lifts his arms and then puts them back down at his sides.#a/DET man/NOUN lift/VERB his/DET arm/NOUN and/CCONJ then/ADV put/VERB them/PRON back/ADV down/ADP at/ADP his/DET side/NOUN#0.0#0.0
+person is making attention gesture#person/NOUN is/AUX make/VERB attention/NOUN gesture/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+person is doing upper body stretches down to his toes.#person/NOUN is/AUX do/VERB upper/ADJ body/NOUN stretch/VERB down/ADP to/ADP his/DET toe/NOUN#0.0#0.0
+a person bends over, twists, kneels down and then stands back up.#a/DET person/NOUN bend/VERB over/ADP twist/NOUN kneel/VERB down/ADV and/CCONJ then/ADV stand/VERB back/ADV up/ADV#0.0#0.0
+a man drops quickly into a crouch, then goes down onto his knees, before lifting back up into a crouch.#a/DET man/NOUN drop/VERB quickly/ADV into/ADP a/DET crouch/NOUN then/ADV go/VERB down/ADP onto/ADP his/DET knee/NOUN before/ADP lift/VERB back/ADV up/ADP into/ADP a/DET crouch/NOUN#7.0#9.5

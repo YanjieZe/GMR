@@ -1,0 +1,3 @@
+a person walks forward slowly#a/DET person/NOUN walk/VERB forward/ADV slowly/ADV#0.0#0.0
+the person walks forwards slowly using their legs with their arms to their side in a calm manner#the/DET person/NOUN walk/VERB forwards/ADV slowly/ADV use/VERB their/DET leg/NOUN with/ADP their/DET arm/NOUN to/ADP their/DET side/NOUN in/ADP a/DET calm/ADJ manner/NOUN#0.0#0.0
+a person walks forward and stops.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ stop/NOUN#0.0#0.0

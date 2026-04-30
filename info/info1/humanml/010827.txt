@@ -1,0 +1,3 @@
+a person squats several times while lifting dumbbells.#a/DET person/NOUN squat/VERB several/ADJ time/NOUN while/SCONJ lift/VERB dumbbell/NOUN#0.0#0.0
+a person lifts dumb bells#a/DET person/NOUN lift/VERB dumb/ADJ bell/NOUN#0.0#0.0
+this person bends at the knees with arms up at his head as if the bench weights.#this/DET person/NOUN bend/VERB at/ADP the/DET knee/NOUN with/ADP arm/NOUN up/ADV at/ADP his/DET head/NOUN as/SCONJ if/SCONJ the/DET bench/NOUN weight/VERB#0.0#0.0

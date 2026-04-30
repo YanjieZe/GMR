@@ -1,0 +1,3 @@
+the person is backing away and walking other way.#the/DET person/NOUN is/AUX back/VERB away/ADP and/CCONJ walk/VERB other/ADJ way/NOUN#0.0#0.0
+this person grabs his hands, then unclasps them, walks backwards, turns anti-clockwise, and then walks forwards. appears to be anxious#this/DET person/NOUN grab/VERB his/DET hand/NOUN then/ADV unclasp/VERB them/PRON walk/VERB backwards/ADV turn/VERB anticlockwise/NOUN and/CCONJ then/ADV walk/VERB forwards/ADV appear/VERB to/PART be/AUX anxious/ADJ#0.0#0.0
+a man puts both of his hands together before taking a step back.#a/DET man/NOUN put/VERB both/DET of/ADP his/DET hand/NOUN together/ADV before/ADP take/VERB a/DET step/NOUN back/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person stands still, then walks, and grabs something before holding it straight out to offer to someone#a/DET person/NOUN stand/VERB still/ADV then/ADV walk/VERB and/CCONJ grab/NOUN something/PRON before/ADP hold/VERB it/PRON straight/ADV out/ADP to/PART offer/VERB to/ADP someone/PRON#0.0#0.0
+a person lifts an object with their right hand while stepping forward.#a/DET person/NOUN lift/VERB an/DET object/NOUN with/ADP their/DET right/ADJ hand/NOUN while/SCONJ step/VERB forward/ADV#0.0#0.0
+a man picks up something with his right hand then walks forward and places the object on a shelf.#a/DET man/NOUN pick/VERB up/ADP something/PRON with/ADP his/DET right/ADJ hand/NOUN then/ADV walk/VERB forward/ADV and/CCONJ place/VERB the/DET object/NOUN on/ADP a/DET shelf/NOUN#0.0#0.0

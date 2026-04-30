@@ -1,0 +1,3 @@
+a person is mocking walking on a treadmill.#a/DET person/NOUN is/AUX mock/VERB walk/VERB on/ADP a/DET treadmill/NOUN#0.0#0.0
+person walks fast on the spot#person/NOUN walk/VERB fast/ADV on/ADP the/DET spot/NOUN#0.0#0.0
+a person briskly walks with arms swinging in step.#a/DET person/NOUN briskly/ADV walk/VERB with/ADP arm/NOUN swinge/VERB in/ADP step/NOUN#0.0#0.0

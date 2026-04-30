@@ -1,0 +1,3 @@
+a person walks over things.#a/DET person/NOUN walk/VERB over/ADP thing/NOUN#0.0#0.0
+a man walks forward slowly on uneven terrain.#a/DET man/NOUN walk/VERB forward/ADV slowly/ADV on/ADP uneven/ADJ terrain/NOUN#0.0#0.0
+looks to be walking back and forth over rocky terrain#look/VERB to/PART be/AUX walk/VERB back/ADV and/CCONJ forth/ADV over/ADP rocky/ADJ terrain/NOUN#0.0#0.0

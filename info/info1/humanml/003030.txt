@@ -1,0 +1,3 @@
+a person is screwing something into place.#a/DET person/NOUN is/AUX screw/VERB something/PRON into/ADP place/NOUN#3.0#9.0
+a person walks and appears to be screwing something open.#a/DET person/NOUN walk/VERB and/CCONJ appear/VERB to/PART be/AUX screw/VERB something/PRON open/ADJ#0.0#0.0
+person makes two steps then stops and starts unscrewing something clockwise#person/NOUN make/VERB two/NUM step/NOUN then/ADV stop/VERB and/CCONJ start/VERB unscrew/VERB something/PRON clockwise/NOUN#0.0#0.0

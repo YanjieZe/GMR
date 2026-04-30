@@ -1,0 +1,3 @@
+a person is walking weirdly in a circle#a/DET person/NOUN is/AUX walk/VERB weirdly/ADV in/ADP a/DET circle/NOUN#0.0#0.0
+the person is twirling around like a top.#the/DET person/NOUN is/AUX twirl/VERB around/ADP like/SCONJ a/DET top/NOUN#0.0#0.0
+a person move in a circle counter clockwise spinning and sometimes walking forward or backwards and then stretches their arm out with hand at shoulder level and arms straight.#a/DET person/NOUN move/NOUN in/ADP a/DET circle/NOUN counter/NOUN clockwise/NOUN spinning/NOUN and/CCONJ sometimes/ADV walk/VERB forward/ADV or/CCONJ backwards/ADV and/CCONJ then/ADV stretch/VERB their/DET arm/NOUN out/ADP with/ADP hand/NOUN at/ADP shoulder/NOUN level/NOUN and/CCONJ arm/NOUN straight/ADV#0.0#0.0

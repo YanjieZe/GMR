@@ -1,0 +1,3 @@
+the sim is standing still, raising their right hand to touch or scratch their head.#the/DET sim/PROPN is/AUX stand/VERB still/ADV raise/VERB their/DET right/ADJ hand/NOUN to/PART touch/VERB or/CCONJ scratch/VERB their/DET head/NOUN#0.0#4.0
+man lift right hand to scratch his head.#man/PROPN lift/VERB right/ADJ hand/NOUN to/PART scratch/VERB his/DET head/NOUN#0.0#0.0
+the individual appears to knock with his right arm.#the/DET individual/NOUN appear/VERB to/PART knock/VERB with/ADP his/DET right/ADJ arm/NOUN#0.0#0.0

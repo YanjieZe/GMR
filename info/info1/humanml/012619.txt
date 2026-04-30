@@ -1,0 +1,3 @@
+person crosses left arm over right while standing.#person/NOUN cross/VERB left/VERB arm/NOUN over/ADP right/ADV while/SCONJ stand/VERB#0.0#0.0
+person folds arms in front of themselves#person/NOUN fold/VERB arm/NOUN in/ADP front/NOUN of/ADP themselves/PRON#0.0#0.0
+a person crosses their arms, then uncrosses them.#a/DET person/NOUN cross/VERB their/DET arm/NOUN then/ADV uncross/VERB them/PRON#0.0#0.0

@@ -1,0 +1,3 @@
+person walked turned around and is punching.#person/NOUN walk/VERB turn/VERB around/ADV and/CCONJ is/AUX punch/VERB#0.0#0.0
+a person walking in a clockwise direction, sharply stumbles over something with their right foot, then hobbles back to the starting position.#a/DET person/NOUN walk/VERB in/ADP a/DET clockwise/ADJ direction/NOUN sharply/ADV stumble/VERB over/ADP something/PRON with/ADP their/DET right/ADJ foot/NOUN then/ADV hobble/VERB back/ADV to/ADP the/DET starting/NOUN position/NOUN#0.0#0.0
+person is walking, sprints real quick, then walks with a limp#person/NOUN is/AUX walk/VERB sprint/NOUN real/ADV quick/ADV then/ADV walk/VERB with/ADP a/DET limp/NOUN#0.0#0.0

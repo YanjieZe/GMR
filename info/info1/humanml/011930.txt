@@ -1,0 +1,3 @@
+a person rapidly walks straight ahead#a/DET person/NOUN rapidly/ADV walk/VERB straight/ADV ahead/ADV#0.0#0.0
+a man is pushed from behind and then finds his balance.#a/DET man/NOUN is/AUX push/VERB from/ADP behind/ADV and/CCONJ then/ADV find/VERB his/DET balance/NOUN#0.0#0.0
+a man stumbles over something.#a/DET man/NOUN stumble/VERB over/ADP something/PRON#0.0#0.0

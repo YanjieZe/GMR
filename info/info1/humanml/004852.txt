@@ -1,0 +1,3 @@
+person is walking like they are on a beam, arms out.#person/NOUN is/AUX walk/VERB like/SCONJ they/PRON are/AUX on/ADP a/DET beam/NOUN arm/NOUN out/ADV#0.0#0.0
+a man raises both their arm and walks forward.#a/DET man/NOUN raise/VERB both/CCONJ their/DET arm/NOUN and/CCONJ walk/VERB forward/ADV#0.0#0.0
+the body wake gracefully with arms out straight.#the/DET body/NOUN wake/VERB gracefully/ADV with/ADP arm/NOUN out/ADV straight/ADV#0.0#0.0

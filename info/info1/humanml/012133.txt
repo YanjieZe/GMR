@@ -1,0 +1,3 @@
+the person is walking around making turns.#the/DET person/NOUN is/AUX walk/VERB around/ADP make/VERB turn/NOUN#0.0#0.0
+a person walks forward, turns around counter-clockwise, walks a short distance, turns back around and returns to their starting position.#a/DET person/NOUN walk/VERB forward/ADV turn/VERB around/ADP counterclockwise/NOUN walk/VERB a/DET short/ADJ distance/NOUN turn/VERB back/ADV around/ADV and/CCONJ return/VERB to/ADP their/DET start/VERB position/NOUN#0.0#0.0
+walking forward and then back.#walk/VERB forward/ADV and/CCONJ then/ADV back/ADV#0.0#0.0

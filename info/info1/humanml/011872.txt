@@ -1,0 +1,3 @@
+a person drunkenly walks down some stairs.#a/DET person/NOUN drunkenly/ADV walk/VERB down/ADP some/DET stair/NOUN#0.0#0.0
+a man walks forward and then comes to a stop.#a/DET man/NOUN walk/VERB forward/ADV and/CCONJ then/ADV come/VERB to/ADP a/DET stop/NOUN#0.0#0.0
+a person walks down some stairs while holding a handrail with their left hand.#a/DET person/NOUN walk/VERB down/ADP some/DET stair/NOUN while/SCONJ hold/VERB a/DET handrail/NOUN with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0

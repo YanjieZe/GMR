@@ -1,0 +1,3 @@
+the person walks forward slowly.#the/DET person/NOUN walk/VERB forward/ADV slowly/ADV#0.0#0.0
+a person slowly walks forward, in a straight line, with their hands by their side.#a/DET person/NOUN slowly/ADV walk/VERB forward/ADV in/ADP a/DET straight/ADJ line/NOUN with/ADP their/DET hand/NOUN by/ADP their/DET side/NOUN#0.0#0.0
+a person walks forward slowly.#a/DET person/NOUN walk/VERB forward/ADV slowly/ADV#0.0#0.0

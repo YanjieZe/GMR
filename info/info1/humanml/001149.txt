@@ -1,0 +1,3 @@
+a person steps forward, open something like a door, and then steps backwards.#a/DET person/NOUN step/VERB forward/ADV open/ADJ something/PRON like/SCONJ a/DET door/NOUN and/CCONJ then/ADV step/VERB backwards/ADV#0.0#0.0
+walked slowly to upper right and 'opened door' and then stepped backwards slowly to starting point#walk/VERB slowly/ADV to/ADP upper/ADJ right/NOUN and/CCONJ open/VERB door/NOUN and/CCONJ then/ADV step/VERB backwards/ADV slowly/ADV to/ADP start/VERB point/NOUN#0.0#7.0
+a man walks forward and picks something up.#a/DET man/NOUN walk/VERB forward/ADV and/CCONJ pick/VERB something/PRON up/ADP#0.0#0.0

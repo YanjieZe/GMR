@@ -1,0 +1,3 @@
+a person chops with an axe.#a/DET person/NOUN chop/VERB with/ADP an/DET axe/NOUN#0.0#0.0
+a person grabs something with both his hands, lifts it above his head then brings it down. he does this twice#a/DET person/NOUN grab/VERB something/PRON with/ADP both/CCONJ his/DET hand/NOUN lift/VERB it/PRON above/ADP his/DET head/NOUN then/ADV bring/VERB it/PRON down/ADP he/PRON does/AUX this/DET twice/ADV#0.0#0.0
+the person is chopping wood with an ax.#the/DET person/NOUN is/AUX chop/VERB wood/NOUN with/ADP an/DET ax/NOUN#0.0#0.0

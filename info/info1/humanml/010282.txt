@@ -1,0 +1,3 @@
+a perso bend the knee and leand to the floor and start walked#a/DET perso/PROPN bend/NOUN the/DET knee/NOUN and/CCONJ leand/VERB to/ADP the/DET floor/NOUN and/CCONJ start/VERB walk/VERB#0.0#0.0
+a person gets on all fours and crawls forward, then turns around and crawls back.#a/DET person/NOUN get/VERB on/ADP all/DET four/NOUN and/CCONJ crawl/VERB forward/ADV then/ADV turn/VERB around/ADP and/CCONJ crawl/VERB back/ADP#0.0#0.0
+a person gets down and crawls forward on their hands and feet, then turns around and crawls back before standing back up.#a/DET person/NOUN get/VERB down/ADV and/CCONJ crawl/VERB forward/ADV on/ADP their/DET hand/NOUN and/CCONJ foot/NOUN then/ADV turn/VERB around/ADP and/CCONJ crawl/VERB back/ADV before/ADP stand/VERB back/ADV up/ADV#0.0#0.0

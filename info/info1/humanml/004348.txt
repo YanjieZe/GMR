@@ -1,0 +1,3 @@
+a person dances to salsa music while swinging their arms.#a/DET person/NOUN dance/VERB to/ADP salsa/NOUN music/NOUN while/SCONJ swinge/VERB their/DET arm/NOUN#0.0#0.0
+person apppears to be dancing with someone moving side to side and in circles#person/NOUN apppear/VERB to/PART be/AUX dance/VERB with/ADP someone/PRON move/VERB side/NOUN to/PART side/NOUN and/CCONJ in/ADP circle/NOUN#0.0#0.0
+a man does a little dance.#a/DET man/NOUN does/AUX a/DET little/ADJ dance/NOUN#0.0#0.0

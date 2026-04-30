@@ -1,0 +1,3 @@
+a person is wiggling their arms#a/DET person/NOUN is/AUX wiggle/VERB their/DET arm/NOUN#0.0#0.0
+a person makes a wave-like motion with their arms.#a/DET person/NOUN make/VERB a/DET wavelike/ADJ motion/NOUN with/ADP their/DET arm/NOUN#0.0#0.0
+a person wiggles arms either side of body.#a/DET person/NOUN wiggle/VERB arm/NOUN either/CCONJ side/NOUN of/ADP body/NOUN#0.0#0.0

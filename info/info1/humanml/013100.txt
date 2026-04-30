@@ -1,0 +1,3 @@
+a person slides to their left, dances for a bit, and then does a michael jackson move.#a/DET person/NOUN slide/VERB to/ADP their/DET left/NOUN dance/NOUN for/ADP a/DET bit/NOUN and/CCONJ then/ADV does/AUX a/DET michael/PROPN jackson/PROPN move/PROPN#0.0#0.0
+the person is walking towards the left.#the/DET person/NOUN is/AUX walk/VERB towards/ADP the/DET left/NOUN#0.0#0.0
+a person walks forward while dancing, shaking their hands and spins.#a/DET person/NOUN walk/VERB forward/ADV while/SCONJ dance/VERB shake/VERB their/DET hand/NOUN and/CCONJ spin/NOUN#0.0#0.0

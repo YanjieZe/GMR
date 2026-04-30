@@ -1,0 +1,3 @@
+a man dances a waltz taking one step at a time.#a/DET man/NOUN dance/VERB a/DET waltz/NOUN take/VERB one/NUM step/NOUN at/ADP a/DET time/NOUN#0.0#0.0
+person moves arms in circle in front of body and moves around in a circle.#person/NOUN move/VERB arm/NOUN in/ADP circle/NOUN in/ADP front/NOUN of/ADP body/NOUN and/CCONJ move/NOUN around/ADV in/ADP a/DET circle/NOUN#0.0#0.0
+a man is doing a waltz by himself.#a/DET man/NOUN is/AUX do/VERB a/DET waltz/NOUN by/ADP himself/PRON#0.0#0.0

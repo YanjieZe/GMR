@@ -1,0 +1,3 @@
+a standing person holds their right hand out in front of them, palms facing outward, and moves it in swiping motions from side to side and up and down.#a/DET stand/VERB person/NOUN hold/VERB their/DET right/ADJ hand/NOUN out/ADP in/ADP front/NOUN of/ADP them/PRON palm/NOUN face/VERB outward/ADV and/CCONJ move/VERB it/PRON in/ADP swipe/VERB motion/NOUN from/ADP side/NOUN to/ADP side/NOUN and/CCONJ up/ADP and/CCONJ down/ADV#0.0#0.0
+a person washes windows with his right hand.#a/DET person/NOUN wash/VERB window/VERB with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+a person is washing windows#a/DET person/NOUN is/AUX wash/VERB window/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a man bends his legs, gets up and then claps in a sequence multiple times.#a/DET man/NOUN bend/VERB his/DET leg/NOUN get/VERB up/ADV and/CCONJ then/ADV clap/NOUN in/ADP a/DET sequence/NOUN multiple/ADJ time/NOUN#0.0#0.0
+a figure does the chicken dance, flapping arms and clucking fingers and shimmeying#a/DET figure/NOUN does/AUX the/DET chicken/NOUN dance/NOUN flap/VERB arm/NOUN and/CCONJ cluck/VERB finger/NOUN and/CCONJ shimmeying/NOUN#0.0#0.0
+waving arms up and down and then clapping.#wave/VERB arm/NOUN up/ADV and/CCONJ down/ADV and/CCONJ then/ADV clap/VERB#0.0#0.0

@@ -1,0 +1,3 @@
+the person is walking back and forth diagonally.#the/DET person/NOUN is/AUX walk/VERB back/ADV and/CCONJ forth/ADV diagonally/ADV#0.0#0.0
+a person walks diagonally to the right then turns around and walks back to their original position#a/DET person/NOUN walk/VERB diagonally/ADV to/ADP the/DET right/NOUN then/ADV turn/VERB around/ADP and/CCONJ walk/VERB back/ADV to/ADP their/DET original/ADJ position/NOUN#0.0#0.0
+a person walks at a decent pace back and forth in a diagonal line.#a/DET person/NOUN walk/VERB at/ADP a/DET decent/ADJ pace/NOUN back/ADV and/CCONJ forth/ADV in/ADP a/DET diagonal/ADJ line/NOUN#0.0#0.0

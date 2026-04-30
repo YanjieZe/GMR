@@ -1,0 +1,3 @@
+a person's squats down using mainly their right leg, their left leg crosses their right leg, and then they stand back up#a/DET person/NOUN squat/NOUN down/ADP use/VERB mainly/ADV their/DET right/ADJ leg/NOUN their/DET left/ADJ leg/NOUN crosse/NOUN their/DET right/ADJ leg/NOUN and/CCONJ then/ADV they/PRON stand/VERB back/ADP up/ADP#0.0#0.0
+someone sits down crossed legged then stands back up.#someone/PRON sit/VERB down/ADV cross/VERB legge/VERB then/ADV stand/VERB back/ADV up/ADV#0.0#0.0
+person slowly sits on the floor then gets back up#person/NOUN slowly/ADV sit/VERB on/ADP the/DET floor/NOUN then/ADV get/VERB back/ADV up/ADV#0.0#0.0

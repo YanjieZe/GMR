@@ -1,0 +1,3 @@
+a man bends and reaches with his right arm, reaches again with his right arm, and then turns to walk away.#a/DET man/NOUN bend/VERB and/CCONJ reach/VERB with/ADP his/DET right/ADJ arm/NOUN reach/VERB again/ADV with/ADP his/DET right/ADJ arm/NOUN and/CCONJ then/ADV turn/VERB to/PART walk/VERB away/ADV#0.0#0.0
+a man picks up a ball with his right hand. sets it on a table, turns to the left to walk away.#a/DET man/NOUN pick/VERB up/ADP a/DET ball/NOUN with/ADP his/DET right/ADJ hand/NOUN set/VERB it/PRON on/ADP a/DET table/NOUN turn/VERB to/ADP the/DET left/NOUN to/PART walk/VERB away/ADV#0.0#0.0
+a person bends over and touches something with is right hand.#a/DET person/NOUN bend/VERB over/ADP and/CCONJ touch/VERB something/PRON with/ADP is/AUX right/ADJ hand/NOUN#0.0#0.0

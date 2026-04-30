@@ -1,0 +1,3 @@
+a person is shaking their arms.#a/DET person/NOUN is/AUX shake/VERB their/DET arm/NOUN#0.0#0.0
+a man standing waving arms up and down.#a/DET man/NOUN stand/VERB wave/VERB arm/NOUN up/ADV and/CCONJ down/ADV#0.0#0.0
+a person flaps both hands inwards with elbows pointed out.#a/DET person/NOUN flap/VERB both/DET hand/NOUN inwards/ADV with/ADP elbow/NOUN point/VERB out/ADP#0.0#0.0

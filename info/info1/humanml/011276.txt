@@ -1,0 +1,3 @@
+moving arm side to side.#move/VERB arm/NOUN side/NOUN to/PART side/VERB#0.0#0.0
+person is physically striking an object with their right hand twice#person/NOUN is/AUX physically/ADV strike/VERB an/DET object/NOUN with/ADP their/DET right/ADJ hand/NOUN twice/ADV#0.0#0.0
+a person puts their right hand in the air and makes a slapping motion#a/DET person/NOUN put/VERB their/DET right/ADJ hand/NOUN in/ADP the/DET air/NOUN and/CCONJ make/VERB a/DET slapping/NOUN motion/NOUN#0.0#0.0

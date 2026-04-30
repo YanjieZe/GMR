@@ -1,0 +1,3 @@
+a person is dancing in circles and then punching.#a/DET person/NOUN is/AUX dance/VERB in/ADP circle/NOUN and/CCONJ then/ADV punch/VERB#0.0#0.0
+this person appears to do several round off kicks.#this/DET person/NOUN appear/VERB to/PART do/AUX several/ADJ round/NOUN off/ADP kick/NOUN#0.0#0.0
+he bounces around, throwing kicks and pounces as if warming up for an mma fight.#he/PRON bounce/VERB around/ADV throw/VERB kick/NOUN and/CCONJ pounce/NOUN as/SCONJ if/SCONJ warm/VERB up/ADP for/ADP an/DET mma/ADJ fight/NOUN#0.0#0.0

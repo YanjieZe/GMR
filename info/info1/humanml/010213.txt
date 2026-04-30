@@ -1,0 +1,3 @@
+a standing person gently sways back and forth from left foot to right foot.#a/DET stand/VERB person/NOUN gently/ADV sway/VERB back/ADV and/CCONJ forth/ADV from/ADP left/ADJ foot/NOUN to/ADP right/ADJ foot/NOUN#0.0#0.0
+a person is standing in one place gently moving his legs.#a/DET person/NOUN is/AUX stand/VERB in/ADP one/NUM place/NOUN gently/ADV move/VERB his/DET leg/NOUN#0.0#0.0
+a person swaying from side to side#a/DET person/NOUN sway/VERB from/ADP side/NOUN to/ADP side/VERB#0.0#0.0

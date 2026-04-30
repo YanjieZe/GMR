@@ -1,0 +1,3 @@
+a person does a cartwheel, then another back in the direction they came, then takes a few steps.#a/DET person/NOUN does/AUX a/DET cartwheel/NOUN then/ADV another/DET back/NOUN in/ADP the/DET direction/NOUN they/PRON come/VERB then/ADV take/VERB a/DET few/ADJ step/NOUN#0.0#0.0
+a person doing a cartwheel forward then back again.#a/DET person/NOUN do/VERB a/DET cartwheel/NOUN forward/ADV then/ADV back/ADV again/ADV#0.0#0.0
+a person does a cartwheel to the left and then cartwheels again to the right.#a/DET person/NOUN does/AUX a/DET cartwheel/NOUN to/ADP the/DET left/NOUN and/CCONJ then/ADV cartwheel/NOUN again/ADV to/ADP the/DET right/NOUN#0.0#0.0

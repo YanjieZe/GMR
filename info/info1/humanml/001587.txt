@@ -1,0 +1,3 @@
+someone is walking backwards in circle#someone/PRON is/AUX walk/VERB backwards/ADV in/ADP circle/NOUN#0.0#0.0
+a person walks backward in a loop.#a/DET person/NOUN walk/VERB backward/ADJ in/ADP a/DET loop/NOUN#0.0#0.0
+a man walks backwards in a counterclockwise direction to form a circle in the center of the platform.#a/DET man/NOUN walk/VERB backwards/ADV in/ADP a/DET counterclockwise/ADJ direction/NOUN to/PART form/VERB a/DET circle/NOUN in/ADP the/DET center/NOUN of/ADP the/DET platform/NOUN#0.0#0.0

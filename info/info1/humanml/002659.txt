@@ -1,0 +1,3 @@
+a person is in a upright position then goes into a squat position two times moving arms and hands to there chin#a/DET person/NOUN is/AUX in/ADP a/DET upright/ADJ position/NOUN then/ADV go/VERB into/ADP a/DET squat/ADJ position/NOUN two/NUM time/NOUN move/VERB arm/NOUN and/CCONJ hand/NOUN to/PART there/PRON chin/VERB#0.0#0.0
+a person squats up and down multiple times.#a/DET person/NOUN squat/VERB up/ADV and/CCONJ down/ADP multiple/ADJ time/NOUN#0.0#0.0
+execising by doing leg squats#execise/VERB by/ADP do/VERB leg/NOUN squat/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person shuffles once to his left.#a/DET person/NOUN shuffle/VERB once/ADV to/ADP his/DET left/NOUN#0.0#0.0
+someone moves to the left side#someone/PRON move/VERB to/ADP the/DET left/ADJ side/NOUN#0.0#0.0
+a person jumps to their left#a/DET person/NOUN jump/VERB to/ADP their/DET left/NOUN#0.0#0.0

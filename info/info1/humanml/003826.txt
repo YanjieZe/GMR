@@ -1,0 +1,3 @@
+a person walks forward and climbs down someithing while balancing with his left hand#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ climb/VERB down/ADP someithe/VERB while/SCONJ balance/VERB with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0
+a person walks down some stairs while holding the rail with their left hand.#a/DET person/NOUN walk/VERB down/ADP some/DET stair/NOUN while/SCONJ hold/VERB the/DET rail/NOUN with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0
+a man walks down several steps.#a/DET man/NOUN walk/VERB down/ADP several/ADJ step/NOUN#0.0#0.0

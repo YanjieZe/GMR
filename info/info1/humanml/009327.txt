@@ -1,0 +1,3 @@
+a person does two small bunny hops.#a/DET person/NOUN does/AUX two/NUM small/ADJ bunny/NOUN hop/NOUN#0.0#0.0
+the person jumps in the air two times#the/DET person/NOUN jump/VERB in/ADP the/DET air/NOUN two/NUM time/NOUN#0.0#0.0
+jumping up and down in place.#jump/VERB up/ADP and/CCONJ down/ADP in/ADP place/NOUN#0.0#0.0

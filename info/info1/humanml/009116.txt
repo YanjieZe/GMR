@@ -1,0 +1,3 @@
+the person holds their hands near their head as if flexing or lifting weights.#the/DET person/NOUN hold/VERB their/DET hand/NOUN near/SCONJ their/DET head/NOUN as/SCONJ if/SCONJ flex/VERB or/CCONJ lift/VERB weight/NOUN#0.0#0.0
+a man places something on a shelf and then adjusts a dial.#a/DET man/NOUN place/VERB something/PRON on/ADP a/DET shelf/NOUN and/CCONJ then/ADV adjust/VERB a/DET dial/NOUN#0.0#0.0
+a person grabbed something and show off the arms#a/DET person/NOUN grab/VERB something/PRON and/CCONJ show/VERB off/ADP the/DET arm/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+person person was walking forward in the straight line#person/NOUN person/NOUN was/AUX walk/VERB forward/ADV in/ADP the/DET straight/ADJ line/NOUN#0.0#0.0
+a person walks forward and poses.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ pose/NOUN#0.0#0.0
+a person who is standing with his hands by his sides takes four steps forward and stops.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP his/DET hand/NOUN by/ADP his/DET side/NOUN take/VERB four/NUM step/NOUN forward/ADV and/CCONJ stop/NOUN#0.0#0.0

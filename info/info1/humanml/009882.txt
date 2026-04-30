@@ -1,0 +1,3 @@
+character is walking at a normal pace before speeding up and hopping several times.#character/NOUN is/AUX walk/VERB at/ADP a/DET normal/ADJ pace/NOUN before/ADP speed/VERB up/ADP and/CCONJ hop/VERB several/ADJ time/NOUN#0.0#4.0
+a man skips while walking.#a/DET man/NOUN skip/VERB while/SCONJ walk/VERB#0.0#0.0
+a person who is moving forward takes two skipping steps and resumes walking.#a/DET person/NOUN who/PRON is/AUX move/VERB forward/ADV take/VERB two/NUM skip/VERB step/NOUN and/CCONJ resume/VERB walk/VERB#0.0#0.0

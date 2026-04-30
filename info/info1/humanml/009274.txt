@@ -1,0 +1,3 @@
+raising arm towards head.#raise/VERB arm/NOUN towards/ADP head/NOUN#0.0#0.0
+the person checks their left arm as if checking the time.#the/DET person/NOUN check/VERB their/DET left/ADJ arm/NOUN as/SCONJ if/SCONJ check/VERB the/DET time/NOUN#0.0#0.0
+the person appears to be looking at their watch#the/DET person/NOUN appear/VERB to/PART be/AUX look/VERB at/ADP their/DET watch/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a man walks sideways crossing one leg over the other in one direction, the walks back in the opposite direction#a/DET man/NOUN walk/VERB sideways/ADV cross/VERB one/NUM leg/NOUN over/ADP the/DET other/ADJ in/ADP one/NUM direction/NOUN the/DET walk/NOUN back/ADV in/ADP the/DET opposite/ADJ direction/NOUN#0.0#0.0
+a person is walking crisscrossing their feet and then walking crisscrossing back.#a/DET person/NOUN is/AUX walk/VERB crisscross/VERB their/DET foot/NOUN and/CCONJ then/ADV walk/VERB crisscross/VERB back/ADV#0.0#10.0
+a person sidesteps four times to their right and then sidesteps twice to their left.#a/DET person/NOUN sidestep/VERB four/NUM time/NOUN to/ADP their/DET right/NOUN and/CCONJ then/ADV sidestep/VERB twice/ADV to/ADP their/DET left/NOUN#0.0#0.0

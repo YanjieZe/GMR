@@ -1,0 +1,3 @@
+the guy lunges forward just a bit and the video ends.#the/DET guy/NOUN lunge/VERB forward/ADV just/ADV a/DET bit/NOUN and/CCONJ the/DET video/NOUN end/VERB#0.0#0.0
+a person picks something up and put it to the left side.#a/DET person/NOUN pick/VERB something/PRON up/ADP and/CCONJ put/VERB it/PRON to/ADP the/DET left/ADJ side/NOUN#0.0#0.0
+a person lifts something up with both hands, then sets it down slightly to their right.#a/DET person/NOUN lift/VERB something/PRON up/ADP with/ADP both/DET hand/NOUN then/ADV set/VERB it/PRON down/ADP slightly/ADV to/ADP their/DET right/NOUN#0.0#0.0

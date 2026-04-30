@@ -1,0 +1,3 @@
+a person steps back and forth while switching what leg is in front and what arm is at their head.#a/DET person/NOUN step/VERB back/ADV and/CCONJ forth/ADV while/SCONJ switch/VERB what/DET leg/NOUN is/AUX in/ADP front/NOUN and/CCONJ what/DET arm/NOUN is/AUX at/ADP their/DET head/NOUN#0.0#0.0
+a person moves their arms and legs to the side in alternating paths in a dance.#a/DET person/NOUN move/VERB their/DET arm/NOUN and/CCONJ leg/NOUN to/ADP the/DET side/NOUN in/ADP alternate/VERB path/NOUN in/ADP a/DET dance/NOUN#0.0#0.0
+the person is exercising with his arms and his legs.#the/DET person/NOUN is/AUX exercise/VERB with/ADP his/DET arm/NOUN and/CCONJ his/DET leg/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a peron is doing arm stretches.#a/DET peron/NOUN is/AUX do/VERB arm/NOUN stretch/NOUN#0.0#0.0
+person is warming up his arms to exercise.#person/NOUN is/AUX warm/VERB up/ADP his/DET arm/NOUN to/PART exercise/VERB#0.0#0.0
+moving arms around in a swinging motion and up and down ends with straightening arms out#move/VERB arm/NOUN around/ADV in/ADP a/DET swinging/ADJ motion/NOUN and/CCONJ up/ADP and/CCONJ down/ADV end/VERB with/ADP straighten/VERB arm/NOUN out/ADV#0.0#0.0

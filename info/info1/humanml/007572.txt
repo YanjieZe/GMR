@@ -1,0 +1,3 @@
+a person is standing up, then touches his left foot with his left hand then his right foot with his right hand#a/DET person/NOUN is/AUX stand/VERB up/ADP then/ADV touch/VERB his/DET left/ADJ foot/NOUN with/ADP his/DET left/ADJ hand/NOUN then/ADV his/DET right/ADJ foot/NOUN with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+a person bends over to stretch over their left leg and then their right.#a/DET person/NOUN bend/VERB over/ADP to/PART stretch/VERB over/ADP their/DET left/ADJ leg/NOUN and/CCONJ then/ADV their/DET right/NOUN#0.0#0.0
+the person stretches from side to side#the/DET person/NOUN stretch/VERB from/ADP side/NOUN to/ADP side/VERB#0.0#0.0

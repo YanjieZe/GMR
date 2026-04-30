@@ -1,0 +1,3 @@
+the person playfully moves their hands around as if mimicking a dog.#the/DET person/NOUN playfully/ADV move/VERB their/DET hand/NOUN around/ADV as/SCONJ if/SCONJ mimic/VERB a/DET dog/NOUN#0.0#0.0
+a person puts their arms out in front of them and dances.#a/DET person/NOUN put/VERB their/DET arm/NOUN out/ADP in/ADP front/NOUN of/ADP them/PRON and/CCONJ dance/NOUN#0.0#0.0
+a person turns from side to side with their hands held and then swings them#a/DET person/NOUN turn/VERB from/ADP side/NOUN to/PART side/VERB with/ADP their/DET hand/NOUN hold/VERB and/CCONJ then/ADV swing/VERB them/PRON#0.0#0.0

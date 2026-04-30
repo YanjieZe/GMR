@@ -1,0 +1,3 @@
+figure appears to be walking on a treadmill#figure/NOUN appear/VERB to/PART be/AUX walk/VERB on/ADP a/DET treadmill/NOUN#0.0#0.0
+a figure walks in place / on a treadmill#a/DET figure/NOUN walk/VERB in/ADP place/NOUN on/ADP a/DET treadmill/NOUN#0.0#0.0
+the man walks purposefully 16 steps forward.#the/DET man/NOUN walk/VERB purposefully/ADV step/NOUN forward/ADV#0.0#0.0

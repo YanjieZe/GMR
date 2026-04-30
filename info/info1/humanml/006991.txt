@@ -1,0 +1,3 @@
+a person raised the hands and showed some jesture#a/DET person/NOUN raise/VERB the/DET hand/NOUN and/CCONJ show/VERB some/DET jesture/NOUN#0.0#0.0
+person standing in the road directing traffic.#person/NOUN stand/VERB in/ADP the/DET road/NOUN direct/VERB traffic/NOUN#0.0#0.0
+a person is directing traffic by first turning counter clockwise and putting up his hands in the stop postion, then turning clockwise and waving on traffic.#a/DET person/NOUN is/AUX direct/VERB traffic/NOUN by/ADP first/ADJ turning/NOUN counter/NOUN clockwise/NOUN and/CCONJ put/VERB up/ADP his/DET hand/NOUN in/ADP the/DET stop/NOUN postion/NOUN then/ADV turn/VERB clockwise/NOUN and/CCONJ wave/VERB on/ADP traffic/NOUN#0.0#0.0

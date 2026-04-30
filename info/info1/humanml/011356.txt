@@ -1,0 +1,3 @@
+a person runs to the right slightly.#a/DET person/NOUN run/VERB to/ADP the/DET right/NOUN slightly/ADV#0.0#0.0
+a man takes a lumbering jog forward.#a/DET man/NOUN take/VERB a/DET lumbering/NOUN jog/NOUN forward/ADV#0.0#0.0
+the jogs from one end to the other in a diagonal fashion.#the/DET jog/NOUN from/ADP one/NUM end/NOUN to/ADP the/DET other/ADJ in/ADP a/DET diagonal/ADJ fashion/NOUN#0.0#4.0

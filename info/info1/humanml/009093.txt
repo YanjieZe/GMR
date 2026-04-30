@@ -1,0 +1,3 @@
+the person does a basic walk forward#the/DET person/NOUN does/AUX a/DET basic/ADJ walk/NOUN forward/ADV#0.0#0.0
+a person is walking in a straight line.#a/DET person/NOUN is/AUX walk/VERB in/ADP a/DET straight/ADJ line/NOUN#0.0#0.0
+person walks forward seven steps#person/NOUN walk/VERB forward/ADV seven/NUM step/NOUN#0.0#0.0

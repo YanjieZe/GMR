@@ -1,0 +1,3 @@
+jumping up in place.#jump/VERB up/ADP in/ADP place/NOUN#0.0#0.0
+a person jumps into the air and does a 180.#a/DET person/NOUN jump/VERB into/ADP the/DET air/NOUN and/CCONJ does/AUX a/DET#0.0#0.0
+a person jumps and spin in the air.#a/DET person/NOUN jump/VERB and/CCONJ spin/VERB in/ADP the/DET air/NOUN#0.0#0.0

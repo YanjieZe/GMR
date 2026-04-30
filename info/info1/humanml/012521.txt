@@ -1,0 +1,3 @@
+a man is jogging slowly to his left while swinging his arms to gain momentum#a/DET man/NOUN is/AUX jog/VERB slowly/ADV to/ADP his/DET left/NOUN while/SCONJ swinge/VERB his/DET arm/NOUN to/PART gain/VERB momentum/NOUN#0.0#0.0
+a person runs in place#a/DET person/NOUN run/VERB in/ADP place/NOUN#0.0#0.0
+a person runs on the spot.#a/DET person/NOUN run/VERB on/ADP the/DET spot/NOUN#0.0#0.0

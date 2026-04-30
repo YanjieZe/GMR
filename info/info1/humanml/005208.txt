@@ -1,0 +1,3 @@
+the person sits down with their legs crossed#the/DET person/NOUN sit/VERB down/ADP with/ADP their/DET leg/NOUN cross/VERB#0.0#0.0
+a person sits cross-legged and stands up.#a/DET person/NOUN sit/VERB crosslegge/VERB and/CCONJ stand/VERB up/ADP#0.0#0.0
+person tries to sit with legs crossed but fails#person/NOUN try/VERB to/PART sit/VERB with/ADP leg/NOUN cross/VERB but/CCONJ fail/VERB#0.0#0.0

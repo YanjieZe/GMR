@@ -1,0 +1,3 @@
+a person stands on their tiptoes and shakes#a/DET person/NOUN stand/VERB on/ADP their/DET tiptoe/NOUN and/CCONJ shake/NOUN#0.0#0.0
+a person lifts arms above head jumps quickly several times.#a/DET person/NOUN lift/VERB arm/NOUN above/ADP head/NOUN jump/VERB quickly/ADV several/ADJ time/NOUN#0.0#0.0
+person is hopping slightly up and down very fast with their hands up in the air#person/NOUN is/AUX hop/VERB slightly/ADV up/ADV and/CCONJ down/ADP very/ADV fast/ADV with/ADP their/DET hand/NOUN up/ADP in/ADP the/DET air/NOUN#0.0#0.0

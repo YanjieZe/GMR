@@ -1,0 +1,3 @@
+a man standing with bent knees lifts his hands to make a t-pose then puts them back down to rest on his knees.#a/DET man/NOUN stand/VERB with/ADP bent/ADJ knee/NOUN lift/VERB his/DET hand/NOUN to/PART make/VERB a/DET tpose/NOUN then/ADV put/VERB them/PRON back/ADV down/ADP to/PART rest/VERB on/ADP his/DET knee/NOUN#0.0#0.0
+a person extends their arms to the side.#a/DET person/NOUN extend/VERB their/DET arm/NOUN to/ADP the/DET side/NOUN#0.0#0.0
+a man raises his arms above his hand, returns them, waits, then repeats the motion.#a/DET man/NOUN raise/VERB his/DET arm/NOUN above/ADP his/DET hand/NOUN return/VERB them/PRON wait/NOUN then/ADV repeat/VERB the/DET motion/NOUN#0.0#0.0

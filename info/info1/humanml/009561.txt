@@ -1,0 +1,3 @@
+a person runs fast diagonal.#a/DET person/NOUN run/VERB fast/ADV diagonal/ADJ#0.0#0.0
+someone runs forward quickly, swinging their arms back and forth in front of them.#someone/PRON run/VERB forward/ADV quickly/ADV swinge/VERB their/DET arm/NOUN back/ADV and/CCONJ forth/ADV in/ADP front/NOUN of/ADP them/PRON#0.0#0.0
+the person runs in a straight line at a 45 degree angle to their left.#the/DET person/NOUN run/VERB in/ADP a/DET straight/ADJ line/NOUN at/ADP a/DET degree/NOUN angle/NOUN to/ADP their/DET left/NOUN#0.0#0.0

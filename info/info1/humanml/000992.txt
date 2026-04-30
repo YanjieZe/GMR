@@ -1,0 +1,3 @@
+person pacing from left to right ending in the middle.#person/NOUN pace/VERB from/ADP left/NOUN to/ADP right/ADJ ending/NOUN in/ADP the/DET middle/NOUN#0.0#0.0
+a person paces back and forth.#a/DET person/NOUN pace/VERB back/ADV and/CCONJ forth/ADV#0.0#0.0
+a person walks from the middle to the right end then turns around then walks to the left end, then back to the middle.#a/DET person/NOUN walk/VERB from/ADP the/DET middle/NOUN to/ADP the/DET right/ADJ end/NOUN then/ADV turn/VERB around/ADP then/ADV walk/VERB to/ADP the/DET left/ADJ end/NOUN then/ADV back/ADV to/ADP the/DET middle/NOUN#0.0#0.0

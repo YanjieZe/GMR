@@ -1,0 +1,3 @@
+the person is on the seesaw.#the/DET person/NOUN is/AUX on/ADP the/DET seesaw/NOUN#0.0#0.0
+the man takes backwards steps starting with his right foot.#the/DET man/NOUN take/VERB backwards/ADJ step/NOUN start/VERB with/ADP his/DET right/ADJ foot/NOUN#0.0#0.0
+person is facing forwards then take a step with the red foot backwards, then the blue foot, then the red, then the blue and stops#person/NOUN is/AUX face/VERB forwards/ADV then/ADV take/VERB a/DET step/NOUN with/ADP the/DET red/ADJ foot/NOUN backwards/ADV then/ADV the/DET blue/ADJ foot/NOUN then/ADV the/DET red/NOUN then/ADV the/DET blue/NOUN and/CCONJ stop/NOUN#0.0#0.0

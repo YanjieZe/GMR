@@ -1,0 +1,3 @@
+a person imitates water coming out of fountain then using both arms imitates an aeroplane and then a fountain again#a/DET person/NOUN imitate/VERB water/NOUN come/VERB out/SCONJ of/ADP fountain/NOUN then/ADV use/VERB both/DET arm/NOUN imitate/VERB an/DET aeroplane/NOUN and/CCONJ then/ADV a/DET fountain/NOUN again/ADV#0.0#0.0
+person is likely excercising.#person/NOUN is/AUX likely/ADV excercise/VERB#0.0#0.0
+a person dancing including a motion to imitate flying and or soaring.#a/DET person/NOUN dance/VERB include/VERB a/DET motion/NOUN to/PART imitate/VERB flying/NOUN and/CCONJ or/CCONJ soar/VERB#0.0#0.0

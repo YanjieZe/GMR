@@ -1,0 +1,3 @@
+a person folds their arms and then unfolds them#a/DET person/NOUN fold/VERB their/DET arm/NOUN and/CCONJ then/ADV unfold/VERB them/PRON#0.0#0.0
+the person crosses their arms and then lets them fall again.#the/DET person/NOUN cross/VERB their/DET arm/NOUN and/CCONJ then/ADV let/VERB them/PRON fall/VERB again/ADV#0.0#0.0
+a person is standing and crosses his arms.#a/DET person/NOUN is/AUX stand/VERB and/CCONJ cross/VERB his/DET arm/NOUN#0.0#0.0

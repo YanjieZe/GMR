@@ -1,0 +1,3 @@
+a man bends down to crawl on his knees.#a/DET man/NOUN bend/VERB down/ADP to/ADP crawl/VERB on/ADP his/DET knee/NOUN#0.0#0.0
+a person gets down on all fours and starting crawling around.#a/DET person/NOUN get/VERB down/ADV on/ADP all/DET four/NOUN and/CCONJ start/VERB crawl/VERB around/ADV#0.0#0.0
+a person bends down on the ground, then starts to crawl.#a/DET person/NOUN bend/VERB down/ADP on/ADP the/DET ground/NOUN then/ADV start/VERB to/PART crawl/VERB#0.0#0.0

@@ -1,0 +1,3 @@
+the person starts jumping on the spot#the/DET person/NOUN start/VERB jump/VERB on/ADP the/DET spot/NOUN#0.0#0.0
+a person jumps up to catch something.#a/DET person/NOUN jump/VERB up/ADP to/PART catch/VERB something/PRON#0.0#0.0
+a figure shoots a basketball#a/DET figure/NOUN shoot/VERB a/DET basketball/NOUN#0.0#0.0

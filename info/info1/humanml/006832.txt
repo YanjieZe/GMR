@@ -1,0 +1,3 @@
+a person who jumps up and then performs a 180 counter clockwise jumping spin#a/DET person/NOUN who/PRON jump/VERB up/ADP and/CCONJ then/ADV perform/VERB a/DET counter/NOUN clockwise/NOUN jump/VERB spin/NOUN#0.0#0.0
+a person jumps and while they are in air they spin around 180 degrees#a/DET person/NOUN jump/VERB and/CCONJ while/SCONJ they/PRON are/AUX in/ADP air/NOUN they/PRON spin/VERB around/ADV degree/NOUN#0.0#0.0
+figure hop turns left 180 degress#figure/NOUN hop/NOUN turn/VERB left/VERB degress/NOUN#0.0#0.0

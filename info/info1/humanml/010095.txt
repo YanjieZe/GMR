@@ -1,0 +1,3 @@
+a person is waving with their right hand, turns around and continues to wave with their right hand.#a/DET person/NOUN is/AUX wave/VERB with/ADP their/DET right/ADJ hand/NOUN turn/VERB around/ADV and/CCONJ continue/VERB to/PART wave/VERB with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+a person is waving with their right arm, and then turns around and waves again with their right arm.#a/DET person/NOUN is/AUX wave/VERB with/ADP their/DET right/ADJ arm/NOUN and/CCONJ then/ADV turn/VERB around/ADV and/CCONJ wave/NOUN again/ADV with/ADP their/DET right/ADJ arm/NOUN#0.0#0.0
+waving hand in the air.#wave/VERB hand/NOUN in/ADP the/DET air/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+he walks forward directly stops#he/PRON walk/VERB forward/ADV directly/ADV stop/VERB#0.0#0.0
+walking forward while making a quarter left turn#walk/VERB forward/ADV while/SCONJ make/VERB a/DET quarter/NOUN left/VERB turn/NOUN#0.0#0.0
+a person walking confidently, then looking down.#a/DET person/NOUN walk/VERB confidently/ADV then/ADV look/VERB down/ADV#0.0#0.0

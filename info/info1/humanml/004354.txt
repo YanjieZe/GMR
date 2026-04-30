@@ -1,0 +1,3 @@
+person is clasping hands together in a forward and back motion whilst being stood upright#person/NOUN is/AUX clasp/VERB hand/NOUN together/ADV in/ADP a/DET forward/NOUN and/CCONJ back/ADJ motion/NOUN whilst/SCONJ being/AUX stand/VERB upright/ADJ#0.0#0.0
+a person stands over to sink while washing their hands#a/DET person/NOUN stand/VERB over/ADP to/PART sink/VERB while/SCONJ wash/VERB their/DET hand/NOUN#0.0#0.0
+a man standing and rubbing his hands together repeatedly.#a/DET man/NOUN stand/VERB and/CCONJ rub/VERB his/DET hand/NOUN together/ADV repeatedly/ADV#0.0#0.0

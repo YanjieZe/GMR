@@ -1,0 +1,3 @@
+person steps down from platform, walks forward, then walks back up on platform#person/NOUN step/VERB down/ADP from/ADP platform/NOUN walk/VERB forward/ADV then/ADV walk/VERB back/ADV up/ADP on/ADP platform/NOUN#0.0#0.0
+a person steps down from an object,#a/DET person/NOUN step/VERB down/ADP from/ADP an/DET object/NOUN#0.0#0.0
+the person walks slowly up to elevated platform#the/DET person/NOUN walk/VERB slowly/ADV up/ADP to/ADP elevated/ADJ platform/NOUN#0.0#0.0

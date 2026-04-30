@@ -1,0 +1,3 @@
+person takes a quick step forward#person/NOUN take/VERB a/DET quick/ADJ step/NOUN forward/ADV#0.0#0.0
+he takes two short quick steps forward.#he/PRON take/VERB two/NUM short/ADJ quick/ADJ step/NOUN forward/ADV#0.0#0.0
+a person staggers one step forward.#a/DET person/NOUN stagger/VERB one/NUM step/NOUN forward/ADV#0.0#0.0

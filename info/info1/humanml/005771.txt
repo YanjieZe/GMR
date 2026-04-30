@@ -1,0 +1,3 @@
+someone lifts their right arm up overhead and stretches to the left.#someone/PRON lift/VERB their/DET right/ADJ arm/NOUN up/ADP overhead/ADV and/CCONJ stretch/VERB to/ADP the/DET left/NOUN#0.0#0.0
+person raises right arm and bends twice to the left.#person/NOUN raise/VERB right/ADJ arm/NOUN and/CCONJ bend/VERB twice/ADV to/ADP the/DET left/NOUN#0.0#0.0
+the person is doing a warm up leaning to the right.#the/DET person/NOUN is/AUX do/VERB a/DET warm/NOUN up/ADP lean/VERB to/ADP the/DET right/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks forward a few steps#a/DET person/NOUN walk/VERB forward/ADV a/DET few/ADJ step/NOUN#0.0#0.0
+a person walks forward and catches something with their hands.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ catch/VERB something/PRON with/ADP their/DET hand/NOUN#0.0#0.0
+a person is seen walking forward.#a/DET person/NOUN is/AUX see/VERB walk/VERB forward/ADV#0.0#0.0

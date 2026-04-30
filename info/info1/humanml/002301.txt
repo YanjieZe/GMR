@@ -1,0 +1,3 @@
+a person does the "chicken part" of the chicken dance.#a/DET person/NOUN does/AUX the/DET chicken/NOUN part/NOUN of/ADP the/DET chicken/NOUN dance/NOUN#0.0#0.0
+stick figure does a chicken flap with the arma#stick/PROPN figure/NOUN does/AUX a/DET chicken/NOUN flap/NOUN with/ADP the/DET arma/NOUN#0.0#0.0
+she puts her hands up to her armpits and flaps her elbows like a chicken.#she/PRON put/VERB her/DET hand/NOUN up/ADP to/ADP her/DET armpit/NOUN and/CCONJ flap/VERB her/DET elbow/NOUN like/SCONJ a/DET chicken/NOUN#0.0#0.0

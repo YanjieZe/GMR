@@ -1,0 +1,3 @@
+a person breifly plays an imaginary viola.#a/DET person/NOUN breifly/NOUN play/VERB an/DET imaginary/ADJ viola/NOUN#0.0#0.0
+a man holds his laft hand up then swipes his right hand across his left hand then stands still again#a/DET man/NOUN hold/VERB his/DET laft/NOUN hand/NOUN up/ADP then/ADV swipe/VERB his/DET right/ADJ hand/NOUN across/ADP his/DET left/ADJ hand/NOUN then/ADV stand/VERB still/ADV again/ADV#0.0#0.0
+a person holds their left arm out and gestures across it with their right arm.#a/DET person/NOUN hold/VERB their/DET left/ADJ arm/NOUN out/ADP and/CCONJ gesture/VERB across/ADP it/PRON with/ADP their/DET right/ADJ arm/NOUN#0.0#0.0

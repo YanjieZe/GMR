@@ -1,0 +1,3 @@
+a standing person shuffles to the right as though they were pushed#a/DET stand/VERB person/NOUN shuffle/NOUN to/ADP the/DET right/NOUN as/SCONJ though/SCONJ they/PRON were/AUX push/VERB#0.0#0.0
+a person gets pushed to the side#a/DET person/NOUN get/VERB push/VERB to/ADP the/DET side/NOUN#0.0#0.0
+a person fastly moved in rigth direction#a/DET person/NOUN fastly/ADV move/VERB in/ADP rigth/NOUN direction/NOUN#0.0#0.0

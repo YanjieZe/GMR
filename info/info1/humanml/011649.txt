@@ -1,0 +1,3 @@
+a person gets on the ground and crawls on the floor then turns around continues to crawl. then gets back up in standing position.#a/DET person/NOUN get/VERB on/ADP the/DET ground/NOUN and/CCONJ crawl/VERB on/ADP the/DET floor/NOUN then/ADV turn/VERB around/ADV continue/VERB to/PART crawl/VERB then/ADV get/VERB back/ADV up/ADV in/ADP standing/NOUN position/NOUN#0.0#0.0
+a person crawls on their hands and feet, then stands up.#a/DET person/NOUN crawl/VERB on/ADP their/DET hand/NOUN and/CCONJ foot/NOUN then/ADV stand/VERB up/ADP#0.0#0.0
+a person bends down and crawls forward, then back and then stands up.#a/DET person/NOUN bend/VERB down/ADP and/CCONJ crawl/VERB forward/ADV then/ADV back/ADV and/CCONJ then/ADV stand/VERB up/ADP#0.0#0.0

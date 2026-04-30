@@ -1,0 +1,2 @@
+someone limps forward before turning around and sprinting back before their starting point.#someone/PRON limp/VERB forward/ADV before/ADP turn/VERB around/ADV and/CCONJ sprint/VERB back/ADV before/ADP their/DET starting/NOUN point/NOUN#0.0#0.0
+a person stagers forward then turns around very quickly and then runs back#a/DET person/NOUN stager/VERB forward/ADV then/ADV turn/VERB around/ADP very/ADV quickly/ADV and/CCONJ then/ADV run/VERB back/ADV#0.0#0.0

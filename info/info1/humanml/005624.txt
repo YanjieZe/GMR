@@ -1,0 +1,3 @@
+a person makes circles with their hands#a/DET person/NOUN make/VERB circle/NOUN with/ADP their/DET hand/NOUN#0.0#3.0
+i man moves both his arms in front of his body in an up and down motion.#i/PRON man/VERB move/VERB both/CCONJ his/DET arm/NOUN in/ADP front/NOUN of/ADP his/DET body/NOUN in/ADP an/DET up/NOUN and/CCONJ down/ADP motion/NOUN#0.0#0.0
+a figure does a ra ra poop in da cheer move#a/DET figure/NOUN does/AUX a/DET ra/PROPN ra/PROPN poop/NOUN in/ADP da/PROPN cheer/NOUN move/NOUN#0.0#0.0

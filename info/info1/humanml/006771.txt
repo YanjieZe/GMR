@@ -1,0 +1,3 @@
+the person paces while walking on all fours#the/DET person/NOUN pace/VERB while/SCONJ walk/VERB on/ADP all/DET four/NOUN#0.0#0.0
+person bends down and keeps legs straight flowing arms left to right before turning around and doing same back#person/NOUN bend/VERB down/ADP and/CCONJ keep/VERB leg/NOUN straight/ADV flow/VERB arm/NOUN left/VERB to/ADP right/ADV before/ADP turn/VERB around/ADV and/CCONJ do/VERB same/ADJ back/ADV#0.0#0.0
+a person is standing up, then puts his hands on the floor and walks around like a dog, then stands back up#a/DET person/NOUN is/AUX stand/VERB up/ADP then/ADV put/VERB his/DET hand/NOUN on/ADP the/DET floor/NOUN and/CCONJ walk/VERB around/ADV like/SCONJ a/DET dog/NOUN then/ADV stand/VERB back/ADV up/ADV#0.0#0.0

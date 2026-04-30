@@ -1,0 +1,3 @@
+a man crouches and moves his arms around.#a/DET man/NOUN crouch/VERB and/CCONJ move/VERB his/DET arm/NOUN around/ADV#0.0#0.0
+a person sitting down shifts both legs right and left in a swaying motion, while fiddling with something at shoulder length#a/DET person/NOUN sit/VERB down/ADP shift/NOUN both/DET leg/NOUN right/ADV and/CCONJ left/VERB in/ADP a/DET swaying/NOUN motion/NOUN while/SCONJ fiddle/VERB with/ADP something/PRON at/ADP shoulder/NOUN length/NOUN#0.0#0.0
+person sitting with knees bent acutely swiveling body left to right and moving arms#person/NOUN sit/VERB with/ADP knees/PROPN bent/ADJ acutely/ADV swivel/VERB body/NOUN left/VERB to/ADP right/NOUN and/CCONJ move/VERB arm/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+the man throws a punch with each hand.#the/DET man/NOUN throw/VERB a/DET punch/NOUN with/ADP each/DET hand/NOUN#0.0#0.0
+a person throws an overhand right punch followed by an overhand left punch.#a/DET person/NOUN throw/VERB an/DET overhand/ADJ right/ADJ punch/NOUN follow/VERB by/ADP an/DET overhand/ADJ left/ADJ punch/NOUN#0.0#0.0
+someone hold heads in hands and bend to the left, trying to dodge something#someone/PRON hold/VERB head/NOUN in/ADP hand/NOUN and/CCONJ bend/VERB to/ADP the/DET left/NOUN try/VERB to/PART dodge/VERB something/PRON#0.0#0.0

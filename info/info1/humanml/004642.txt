@@ -1,0 +1,3 @@
+a man brings his hands together in applause.#a/DET man/NOUN bring/VERB his/DET hand/NOUN together/ADV in/ADP applause/NOUN#0.0#0.0
+a person claps hands together several times.#a/DET person/NOUN clap/VERB hand/NOUN together/ADV several/ADJ time/NOUN#0.0#0.0
+a person claps his hands.#a/DET person/NOUN clap/VERB his/DET hand/NOUN#0.0#0.0

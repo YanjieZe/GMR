@@ -1,0 +1,3 @@
+a man takes one step side to side.#a/DET man/NOUN take/VERB one/NUM step/NOUN side/NOUN to/PART side/VERB#0.0#0.0
+a person is standing and takes a big steps to the left.#a/DET person/NOUN is/AUX stand/VERB and/CCONJ take/VERB a/DET big/ADJ step/NOUN to/ADP the/DET left/NOUN#0.0#0.0
+a person takes one diagonal step, forward and to the left.#a/DET person/NOUN take/VERB one/NUM diagonal/ADJ step/NOUN forward/ADV and/CCONJ to/ADP the/DET left/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+the person is doing a russian dance#the/DET person/NOUN is/AUX do/VERB a/DET russian/ADJ dance/NOUN#0.0#0.0
+while not a perfect specimen, a person is asked to demonstrate a russian dance move.#while/SCONJ not/PART a/DET perfect/ADJ speciman/NOUN a/DET person/NOUN is/AUX ask/VERB to/PART demonstrate/VERB a/DET russian/ADJ dance/NOUN move/NOUN#0.0#0.0
+a person folds his arms, squats and kicks feet out alternately.#a/DET person/NOUN fold/VERB his/DET arm/NOUN squat/NOUN and/CCONJ kick/VERB foot/NOUN out/ADV alternately/ADV#0.0#0.0

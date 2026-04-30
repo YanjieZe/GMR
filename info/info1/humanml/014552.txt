@@ -1,0 +1,2 @@
+a man turns his head from left to forward, then walks forward casually, before turning and walking back to his starting point.#a/DET man/NOUN turn/VERB his/DET head/NOUN from/ADP left/VERB to/ADP forward/ADV then/ADV walk/VERB forward/ADV casually/ADV before/ADP turn/VERB and/CCONJ walk/VERB back/ADV to/ADP his/DET starting/NOUN point/NOUN#0.0#0.0
+a person casually walks forward#a/DET person/NOUN casually/ADV walk/VERB forward/ADV#0.0#0.0

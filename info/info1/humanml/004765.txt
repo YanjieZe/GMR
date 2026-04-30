@@ -1,0 +1,3 @@
+a person hops in place and then walks forward.#a/DET person/NOUN hop/VERB in/ADP place/NOUN and/CCONJ then/ADV walk/VERB forward/ADV#0.0#0.0
+a person jumps and then walks forward#a/DET person/NOUN jump/VERB and/CCONJ then/ADV walk/VERB forward/ADV#0.0#0.0
+a person hops over something then takes four steps and stops with both feet next to each other.#a/DET person/NOUN hop/VERB over/ADP something/PRON then/ADV take/VERB four/NUM step/NOUN and/CCONJ stop/VERB with/ADP both/DET foot/NOUN next/ADV to/ADP each/DET other/ADJ#0.0#0.0

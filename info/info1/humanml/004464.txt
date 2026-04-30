@@ -1,0 +1,3 @@
+a standing person raises their hands in front of their face.#a/DET stand/VERB person/NOUN raise/VERB their/DET hand/NOUN in/ADP front/NOUN of/ADP their/DET face/NOUN#0.0#0.0
+a person lifts their arms up to where their head would be.#a/DET person/NOUN lift/VERB their/DET arm/NOUN up/ADP to/ADP where/ADV their/DET head/NOUN would/VERB be/AUX#0.0#0.0
+a person lifts both arms to shoulder height with the left arm a little higher than the left, bent at the elbow. then puts them back down#a/DET person/NOUN lift/VERB both/DET arm/NOUN to/ADP shoulder/VERB height/NOUN with/ADP the/DET left/ADJ arm/NOUN a/DET little/ADJ higher/ADJ than/SCONJ the/DET left/ADJ bent/ADJ at/ADP the/DET elbow/NOUN then/ADV put/VERB them/PRON back/ADV down/ADP#0.0#0.0

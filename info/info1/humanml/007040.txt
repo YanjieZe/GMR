@@ -1,0 +1,3 @@
+the person jumped up and it’s holding his hands up trying to reach for something on his tippy toes.#the/DET person/NOUN jump/VERB up/ADP and/CCONJ it/PRON hold/VERB his/DET hand/NOUN up/ADV try/VERB to/PART reach/VERB for/ADP something/PRON on/ADP his/DET tippy/ADJ toe/NOUN#0.0#0.0
+person is doing some sort of dance#person/NOUN is/AUX do/VERB some/DET sort/NOUN of/ADP dance/NOUN#0.0#0.0
+the man dances around on his toes with his arms in the air.#the/DET man/NOUN dance/VERB around/ADP on/ADP his/DET toe/NOUN with/ADP his/DET arm/NOUN in/ADP the/DET air/NOUN#0.0#0.0

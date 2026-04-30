@@ -1,0 +1,3 @@
+a person goes from standing on two feet, to standing on his left foot and hops on it five times.#a/DET person/NOUN go/VERB from/ADP stand/VERB on/ADP two/NUM foot/NOUN to/ADP stand/VERB on/ADP his/DET left/ADJ foot/NOUN and/CCONJ hop/VERB on/ADP it/PRON five/NUM time/NOUN#0.0#0.0
+a person hops on his left and right#a/DET person/NOUN hop/VERB on/ADP his/DET left/NOUN and/CCONJ right/ADJ#0.0#0.0
+person is jumping up and down on left leg#person/NOUN is/AUX jump/VERB up/ADP and/CCONJ down/ADV on/ADP left/ADJ leg/NOUN#0.0#0.0

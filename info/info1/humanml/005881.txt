@@ -1,0 +1,3 @@
+a figure walks up hill.#a/DET figure/NOUN walk/VERB up/ADP hill/NOUN#0.0#0.0
+a person walks down hill.#a/DET person/NOUN walk/VERB down/ADP hill/PROPN#0.0#0.0
+this person walks forward slowly.#this/DET person/NOUN walk/VERB forward/ADV slowly/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person standing up waves with their right arm in a large motion.#a/DET person/NOUN stand/VERB up/ADP wave/NOUN with/ADP their/DET right/ADJ arm/NOUN in/ADP a/DET large/ADJ motion/NOUN#0.0#0.0
+a person waves with their right hand above their head.#a/DET person/NOUN wave/VERB with/ADP their/DET right/ADJ hand/NOUN above/ADP their/DET head/NOUN#0.0#0.0
+robot is waving its right hand#robot/PROPN is/AUX wave/VERB its/DET right/ADJ hand/NOUN#0.0#0.0

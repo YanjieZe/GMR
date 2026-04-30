@@ -1,0 +1,3 @@
+a person stumbles one step directly to his right.#a/DET person/NOUN stumble/VERB one/NUM step/NOUN directly/ADV to/ADP his/DET right/NOUN#0.0#0.0
+a person loses their balance and falls slightly to their right#a/DET person/NOUN lose/VERB their/DET balance/NOUN and/CCONJ fall/VERB slightly/ADV to/ADP their/DET right/NOUN#0.0#0.0
+a stick person is standing still and then gets nudged in the head just enough to be taken off balance and moves to the left#a/DET stick/NOUN person/NOUN is/AUX stand/VERB still/ADV and/CCONJ then/ADV get/VERB nudge/VERB in/ADP the/DET head/NOUN just/ADV enough/ADV to/PART be/AUX take/VERB off/ADP balance/NOUN and/CCONJ move/NOUN to/ADP the/DET left/NOUN#0.0#0.0

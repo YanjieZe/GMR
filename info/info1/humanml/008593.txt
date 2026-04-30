@@ -1,0 +1,3 @@
+arms out, drop right arm down and leave a minute and bring back up.#arm/NOUN out/ADV drop/VERB right/ADJ arm/NOUN down/ADP and/CCONJ leave/VERB a/DET minute/NOUN and/CCONJ bring/VERB back/ADV up/ADV#0.0#0.0
+a person with both arms raised laterally lowers left arm then raises it again#a/DET person/NOUN with/ADP both/DET arm/NOUN raise/VERB laterally/ADV lower/NOUN left/ADJ arm/NOUN then/ADV raise/VERB it/PRON again/ADV#0.0#0.0
+a person stands with both arms outstretched to the side, lowers their left arm, then raises it again.#a/DET person/NOUN stand/VERB with/ADP both/DET arm/NOUN outstretche/VERB to/ADP the/DET side/NOUN lower/VERB their/DET left/ADJ arm/NOUN then/ADV raise/VERB it/PRON again/ADV#0.0#0.0

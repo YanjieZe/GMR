@@ -1,0 +1,3 @@
+a person uses their right arm to swing a tennis racket.#a/DET person/NOUN use/VERB their/DET right/ADJ arm/NOUN to/PART swing/VERB a/DET tennis/NOUN racket/NOUN#0.0#0.0
+a person swings their right arm as if they are hitting something.#a/DET person/NOUN swing/VERB their/DET right/ADJ arm/NOUN as/SCONJ if/SCONJ they/PRON are/AUX hit/VERB something/PRON#0.0#0.0
+a person steps forward with their left leg and swings their right arm forward as if they were hitting a forehand shot in a game of tennis.#a/DET person/NOUN step/VERB forward/ADV with/ADP their/DET left/ADJ leg/NOUN and/CCONJ swing/VERB their/DET right/ADJ arm/NOUN forward/ADV as/SCONJ if/SCONJ they/PRON were/AUX hit/VERB a/DET forehand/NOUN shoot/VERB in/ADP a/DET game/NOUN of/ADP tennis/NOUN#0.0#0.0

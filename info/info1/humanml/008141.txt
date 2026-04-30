@@ -1,0 +1,3 @@
+the person puts something on its side and then brings it back to normal.#the/DET person/NOUN put/VERB something/PRON on/ADP its/DET side/NOUN and/CCONJ then/ADV bring/VERB it/PRON back/ADV to/ADP normal/ADJ#0.0#0.0
+person usesboth hands to carry an object  and hand it to someone next to them#person/NOUN usesboth/ADJ hand/NOUN to/PART carry/VERB an/DET object/NOUN and/CCONJ hand/VERB it/PRON to/ADP someone/PRON next/ADV to/ADP them/PRON#0.0#0.0
+the person picks up the item and puts it on the other side#the/DET person/NOUN pick/VERB up/ADP the/DET item/NOUN and/CCONJ put/VERB it/PRON on/ADP the/DET other/ADJ side/NOUN#0.0#0.0

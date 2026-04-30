@@ -1,0 +1,3 @@
+a person dances a waltz.#a/DET person/NOUN dance/VERB a/DET waltz/NOUN#0.0#0.0
+a person pretends to hold another person while dancing a waltz.#a/DET person/NOUN pretend/VERB to/PART hold/VERB another/DET person/NOUN while/SCONJ dance/VERB a/DET waltz/NOUN#0.0#0.0
+the person in the video holds its arms up to the right and walks in a circle.#the/DET person/NOUN in/ADP the/DET video/NOUN hold/VERB its/DET arm/NOUN up/ADP to/ADP the/DET right/NOUN and/CCONJ walk/VERB in/ADP a/DET circle/NOUN#0.0#0.0

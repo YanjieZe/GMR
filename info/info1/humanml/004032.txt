@@ -1,0 +1,3 @@
+person is waling down.#person/NOUN is/AUX wale/VERB down/ADP#0.0#0.0
+a person walks in a slightly curved line#a/DET person/NOUN walk/VERB in/ADP a/DET slightly/ADV curved/ADJ line/NOUN#0.0#0.0
+a person walks forward with left foot and hand forward first and then stops#a/DET person/NOUN walk/VERB forward/ADV with/ADP left/ADJ foot/NOUN and/CCONJ hand/VERB forward/ADV first/ADV and/CCONJ then/ADV stop/VERB#0.0#0.0

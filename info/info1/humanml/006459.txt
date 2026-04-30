@@ -1,0 +1,3 @@
+a person raises their right arm above their head, while their left arm is slightly elevated.#a/DET person/NOUN raise/VERB their/DET right/ADJ arm/NOUN above/ADP their/DET head/NOUN while/SCONJ their/DET left/ADJ arm/NOUN is/AUX slightly/ADV elevate/VERB#0.0#0.0
+a person slowly raised the right hand#a/DET person/NOUN slowly/ADV raise/VERB the/DET right/ADJ hand/NOUN#0.0#0.0
+the person is looking to the right.#the/DET person/NOUN is/AUX look/VERB to/ADP the/DET right/NOUN#0.0#0.0

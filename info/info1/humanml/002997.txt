@@ -1,0 +1,3 @@
+a standing figure aggressively overhand swings their right arm from behind them towards the front of them.#a/DET stand/VERB figure/NOUN aggressively/ADV overhand/VERB swing/VERB their/DET right/ADJ arm/NOUN from/ADP behind/ADP them/PRON towards/ADP the/DET front/NOUN of/ADP them/PRON#0.0#0.0
+a person throws something from their right arm with a lot of force#a/DET person/NOUN throw/VERB something/PRON from/ADP their/DET right/ADJ arm/NOUN with/ADP a/DET lot/NOUN of/ADP force/NOUN#0.0#0.0
+person is throwing a ball.#person/NOUN is/AUX throw/VERB a/DET ball/NOUN#0.0#0.0

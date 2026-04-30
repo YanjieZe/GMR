@@ -1,0 +1,3 @@
+person is running straight ahead#person/NOUN is/AUX run/VERB straight/ADV ahead/ADV#0.0#0.0
+the man runs like a girl.#the/DET man/NOUN run/VERB like/SCONJ a/DET girl/NOUN#0.0#0.0
+a man quickly runs forward before stopping.#a/DET man/NOUN quickly/ADV run/VERB forward/ADV before/ADP stop/VERB#0.0#0.0

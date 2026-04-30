@@ -1,0 +1,3 @@
+a person unscrews a jar-like object.#a/DET person/NOUN unscrew/VERB a/DET jarlike/NOUN object/NOUN#0.0#0.0
+a person uses a screw with right hand.#a/DET person/NOUN use/VERB a/DET screw/NOUN with/ADP right/ADJ hand/NOUN#0.0#0.0
+a person appears to unscrew the lip from from a jar, using their left hand to hold it, and turning with the right.#a/DET person/NOUN appear/VERB to/PART unscrew/VERB the/DET lip/NOUN from/ADP from/ADP a/DET jar/NOUN use/VERB their/DET left/ADJ hand/NOUN to/PART hold/VERB it/PRON and/CCONJ turn/VERB with/ADP the/DET right/NOUN#0.0#0.0

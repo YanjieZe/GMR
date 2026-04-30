@@ -1,0 +1,3 @@
+move the hands and band the legs and do like a exerises.#move/VERB the/DET hand/NOUN and/CCONJ band/VERB the/DET leg/NOUN and/CCONJ do/AUX like/VERB a/DET exerise/NOUN#0.0#0.0
+the person is doing squats in the video.#the/DET person/NOUN is/AUX do/VERB squat/NOUN in/ADP the/DET video/NOUN#0.0#0.0
+person squats down with arms lifted and bent slightly.#person/NOUN squat/VERB down/ADP with/ADP arm/NOUN lift/VERB and/CCONJ bend/VERB slightly/ADV#0.0#0.0

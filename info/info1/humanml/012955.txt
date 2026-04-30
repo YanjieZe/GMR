@@ -1,0 +1,3 @@
+a person walks forward, lifts their arm towards their head, walks backwards, lowers their arm, then lifts their arm towards their face.#a/DET person/NOUN walk/VERB forward/ADV lift/VERB their/DET arm/NOUN towards/ADP their/DET head/NOUN walk/VERB backwards/ADV lower/VERB their/DET arm/NOUN then/ADV lift/VERB their/DET arm/NOUN towards/ADP their/DET face/NOUN#0.0#0.0
+walking forward with arm above head.#walk/VERB forward/ADV with/ADP arm/NOUN above/ADP head/NOUN#0.0#0.0
+the person is rubbing the top of his head.#the/DET person/NOUN is/AUX rub/VERB the/DET top/NOUN of/ADP his/DET head/NOUN#0.0#0.0

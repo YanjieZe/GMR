@@ -1,0 +1,3 @@
+the man reaches out to shakes hands several times, then bows twice with his hands together about waist high showing respect.#the/DET man/NOUN reach/VERB out/ADP to/PART shake/VERB hand/NOUN several/ADJ time/NOUN then/ADV bow/VERB twice/ADV with/ADP his/DET hand/NOUN together/ADV about/ADP waist/ADJ high/ADJ show/VERB respect/NOUN#0.0#0.0
+a person greets and shakes hands several times.#a/DET person/NOUN greet/VERB and/CCONJ shake/VERB hand/NOUN several/ADJ time/NOUN#0.0#0.0
+person walked up and is shaking hands.#person/NOUN walk/VERB up/ADV and/CCONJ is/AUX shake/VERB hand/NOUN#0.0#0.0

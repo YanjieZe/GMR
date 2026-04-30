@@ -1,0 +1,3 @@
+person person is jumping straight up.#person/NOUN person/NOUN is/AUX jump/VERB straight/ADV up/ADV#0.0#0.0
+jumping up and down in place.#jump/VERB up/ADP and/CCONJ down/ADP in/ADP place/NOUN#0.0#0.0
+a man begins jumping and small little hops, then bigger hops, and brings his arms up slightly.#a/DET man/NOUN begin/VERB jump/VERB and/CCONJ small/ADJ little/ADJ hop/NOUN then/ADV bigger/ADJ hop/NOUN and/CCONJ bring/VERB his/DET arm/NOUN up/ADV slightly/ADV#0.0#0.0

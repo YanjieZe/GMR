@@ -1,0 +1,3 @@
+the man walks and turns right#the/DET man/NOUN walk/VERB and/CCONJ turn/VERB right/ADJ#0.0#0.0
+a person walks forward then turns around to the right and returns.#a/DET person/NOUN walk/VERB forward/ADV then/ADV turn/VERB around/ADP to/ADP the/DET right/NOUN and/CCONJ return/NOUN#0.0#0.0
+a person walks forward turns right around and walks back.#a/DET person/NOUN walk/VERB forward/ADV turn/VERB right/ADV around/ADV and/CCONJ walk/VERB back/ADV#0.0#0.0

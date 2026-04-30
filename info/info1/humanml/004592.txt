@@ -1,0 +1,3 @@
+the man flexed his muscle and touched it and then put his arm back down to a side.#the/DET man/NOUN flex/VERB his/DET muscle/NOUN and/CCONJ touch/VERB it/PRON and/CCONJ then/ADV put/VERB his/DET arm/NOUN back/ADV down/ADV to/ADP a/DET side/NOUN#0.0#0.0
+a person raises their right arm and makes a swiping motion with their left.#a/DET person/NOUN raise/VERB their/DET right/ADJ arm/NOUN and/CCONJ make/VERB a/DET swiping/ADJ motion/NOUN with/ADP their/DET left/NOUN#0.0#0.0
+he pretends to take something off his hand#he/PRON pretend/VERB to/PART take/VERB something/PRON off/ADP his/DET hand/NOUN#0.0#0.0

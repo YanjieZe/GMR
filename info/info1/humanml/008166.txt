@@ -1,0 +1,3 @@
+a person walks and bends left#a/DET person/NOUN walk/VERB and/CCONJ bend/VERB left/VERB#0.0#0.0
+a man walks down a slope and then turns counterclockwise#a/DET man/NOUN walk/VERB down/ADP a/DET slope/NOUN and/CCONJ then/ADV turn/VERB counterclockwise/NOUN#0.0#0.0
+a person walks forward while slowly curving to their left.#a/DET person/NOUN walk/VERB forward/ADV while/SCONJ slowly/ADV curve/VERB to/ADP their/DET left/NOUN#0.0#0.0

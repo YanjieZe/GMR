@@ -1,0 +1,3 @@
+a man uses his left hand in front of his body to make a counterclockwise circle motion.#a/DET man/NOUN use/VERB his/DET left/ADJ hand/NOUN in/ADP front/NOUN of/ADP his/DET body/NOUN to/PART make/VERB a/DET counterclockwise/ADJ circle/NOUN motion/NOUN#0.0#0.0
+a person is stirring something in front of them.#a/DET person/NOUN is/AUX stir/VERB something/PRON in/ADP front/NOUN of/ADP them/PRON#0.0#0.0
+a person uses left hand to stir.#a/DET person/NOUN use/VERB left/ADJ hand/NOUN to/PART stir/VERB#0.0#0.0

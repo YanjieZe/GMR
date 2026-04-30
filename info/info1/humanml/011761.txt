@@ -1,0 +1,3 @@
+a person jumps two times from a standstill position#a/DET person/NOUN jump/VERB two/NUM time/NOUN from/ADP a/DET standstill/ADJ position/NOUN#0.0#0.0
+a figure takes two small jumps.#a/DET figure/NOUN take/VERB two/NUM small/ADJ jump/NOUN#0.0#0.0
+he jumped at his place#he/PRON jump/VERB at/ADP his/DET place/NOUN#0.0#0.0

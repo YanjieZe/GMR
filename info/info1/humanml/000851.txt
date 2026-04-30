@@ -1,0 +1,3 @@
+person is likely lifting dumb bells.#person/NOUN is/AUX likely/ADV lift/VERB dumb/ADJ bell/NOUN#0.0#0.0
+a motions to come towards them with both of their arms.#a/DET motion/NOUN to/PART come/VERB towards/ADP them/PRON with/ADP both/DET of/ADP their/DET arm/NOUN#0.0#0.0
+a person curls both arms upwards at the elbows while standing#a/DET person/NOUN curl/VERB both/DET arm/NOUN upwards/ADV at/ADP the/DET elbow/NOUN while/SCONJ stand/VERB#0.0#0.0

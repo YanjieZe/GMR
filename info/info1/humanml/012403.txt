@@ -1,0 +1,3 @@
+a person puts his right hand out and starts moving both hands.#a/DET person/NOUN put/VERB his/DET right/ADJ hand/NOUN out/ADP and/CCONJ start/VERB move/VERB both/DET hand/NOUN#0.0#0.0
+pushing arms in and out.#push/VERB arm/NOUN in/ADP and/CCONJ out/ADV#0.0#0.0
+it is a person practicing boxing.#it/PRON is/AUX a/DET person/NOUN practice/VERB boxing/NOUN#0.0#0.0

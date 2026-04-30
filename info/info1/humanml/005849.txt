@@ -1,0 +1,3 @@
+a person jumped while the hands was raised#a/DET person/NOUN jump/VERB while/SCONJ the/DET hand/NOUN was/AUX raise/VERB#0.0#0.0
+person walks forward to the right and jumps twice, then steps back.#person/NOUN walk/VERB forward/ADV to/ADP the/DET right/NOUN and/CCONJ jump/VERB twice/ADV then/ADV step/VERB back/ADV#0.0#0.0
+a person side steps to the right and then puts both arms out and jumps twice into the air while raising legs.#a/DET person/NOUN side/NOUN step/NOUN to/ADP the/DET right/NOUN and/CCONJ then/ADV put/VERB both/DET arm/NOUN out/ADP and/CCONJ jump/VERB twice/ADV into/ADP the/DET air/NOUN while/SCONJ raise/VERB leg/NOUN#0.0#0.0

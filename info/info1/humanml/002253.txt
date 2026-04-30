@@ -1,0 +1,3 @@
+the person walks forward and seems to be stepping up some steps. he turns around and walks back down the stairs#the/DET person/NOUN walk/VERB forward/ADV and/CCONJ seem/VERB to/PART be/AUX step/VERB up/ADP some/DET step/NOUN he/PRON turn/VERB around/ADP and/CCONJ walk/VERB back/ADV down/ADP the/DET stair/NOUN#0.0#0.0
+a person takes several steps forwards, does a 180 and walks back to original spot.#a/DET person/NOUN take/VERB several/ADJ step/NOUN forwards/ADV does/AUX a/DET and/CCONJ walk/VERB back/ADV to/ADP original/ADJ spot/NOUN#1.0#7.0
+a person walking up and down a set of stairs.#a/DET person/NOUN walk/VERB up/ADP and/CCONJ down/ADP a/DET set/NOUN of/ADP stair/NOUN#0.0#0.0

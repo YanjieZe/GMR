@@ -1,0 +1,3 @@
+a man puts something down in front of him with his left hand, then remains still with his arms at his side for several seconds, before lifting his right hand.#a/DET man/NOUN put/VERB something/PRON down/ADP in/ADP front/NOUN of/ADP him/PRON with/ADP his/DET left/ADJ hand/NOUN then/ADV remain/VERB still/ADV with/ADP his/DET arm/NOUN at/ADP his/DET side/NOUN for/ADP several/ADJ second/NOUN before/ADP lift/VERB his/DET right/ADJ hand/NOUN#0.0#0.0
+moving hands around near face.#move/VERB hand/NOUN around/ADV near/SCONJ face/NOUN#0.0#0.0
+a person sits in a squat position#a/DET person/NOUN sit/VERB in/ADP a/DET squat/ADJ position/NOUN#0.0#0.0

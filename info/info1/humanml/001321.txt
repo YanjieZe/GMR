@@ -1,0 +1,3 @@
+a man is square dancing with a partner.#a/DET man/NOUN is/AUX square/ADJ dancing/NOUN with/ADP a/DET partner/NOUN#0.0#0.0
+a person does the ring around the rosie dance holding someone’s right hand then left hand.#a/DET person/NOUN does/AUX the/DET ring/NOUN around/ADP the/DET rosie/NOUN dance/NOUN hold/VERB someone/PRON right/ADJ hand/NOUN then/ADV left/VERB hand/NOUN#0.0#0.0
+a person junps  and skips in circles#a/DET person/NOUN junps/NOUN and/CCONJ skip/VERB in/ADP circle/NOUN#0.0#0.0

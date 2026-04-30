@@ -1,0 +1,3 @@
+a man slowly walks forward.#a/DET man/NOUN slowly/ADV walk/VERB forward/ADV#0.0#0.0
+person is walking straight ahead#person/NOUN is/AUX walk/VERB straight/ADV ahead/ADV#0.0#0.0
+a person walks forward.#a/DET person/NOUN walk/VERB forward/ADV#0.0#0.0

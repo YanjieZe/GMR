@@ -1,0 +1,3 @@
+a person stretches their back by turning their arms.#a/DET person/NOUN stretch/VERB their/DET back/ADV by/ADP turn/VERB their/DET arm/NOUN#0.0#0.0
+from a standing pose with both arms raised, the person twists from left to right and then from right to left#from/ADP a/DET standing/NOUN pose/NOUN with/ADP both/DET arm/NOUN raise/VERB the/DET person/NOUN twist/VERB from/ADP left/VERB to/ADP right/NOUN and/CCONJ then/ADV from/ADP right/NOUN to/ADP left/ADV#0.0#0.0
+a person raises both arms up to a 90 degree angle and twists at the waist#a/DET person/NOUN raise/VERB both/DET arm/NOUN up/ADV to/ADP a/DET degree/NOUN angle/NOUN and/CCONJ twist/NOUN at/ADP the/DET waist/NOUN#0.0#0.0

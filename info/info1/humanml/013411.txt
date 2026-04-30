@@ -1,0 +1,3 @@
+a man movea his right hand as if to wipe down a tabletop.#a/DET man/NOUN movea/PROPN his/DET right/ADJ hand/NOUN as/SCONJ if/SCONJ to/PART wipe/VERB down/ADP a/DET tabletop/NOUN#0.0#0.0
+a man brushes something at knee height with his right arm, then stands up, steps back, and extends his arms to either side.#a/DET man/NOUN brush/VERB something/PRON at/ADP knee/NOUN height/NOUN with/ADP his/DET right/ADJ arm/NOUN then/ADV stand/VERB up/ADP step/VERB back/ADP and/CCONJ extend/VERB his/DET arm/NOUN to/ADP either/DET side/NOUN#0.0#0.0
+person is bent over wiping a table#person/NOUN is/AUX bent/ADJ over/ADP wipe/VERB a/DET table/NOUN#0.0#0.0

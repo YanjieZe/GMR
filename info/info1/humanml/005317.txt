@@ -1,0 +1,3 @@
+a  person swings with both their arm.#a/DET person/NOUN swing/VERB with/ADP both/CCONJ their/DET arm/NOUN#0.0#0.0
+a figure swings a golf club#a/DET figure/NOUN swing/VERB a/DET golf/NOUN club/NOUN#0.0#0.0
+the person is standing sideways, brings hands together in the front at the waist line, swings hands backwards together and then follows through with both hands still together, in a swinging motion.#the/DET person/NOUN is/AUX stand/VERB sideways/ADV bring/VERB hand/NOUN together/ADV in/ADP the/DET front/NOUN at/ADP the/DET waist/NOUN line/NOUN swing/VERB hand/NOUN backwards/ADV together/ADV and/CCONJ then/ADV follow/VERB through/ADP with/ADP both/DET hand/NOUN still/ADV together/ADV in/ADP a/DET swinging/ADJ motion/NOUN#0.0#0.0

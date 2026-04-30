@@ -1,0 +1,3 @@
+the person raises both their hands in the air twice#the/DET person/NOUN raise/VERB both/CCONJ their/DET hand/NOUN in/ADP the/DET air/NOUN twice/ADV#0.0#0.0
+a person in standing position with legs slightly apart lifting something over head with both arms.#a/DET person/NOUN in/ADP stand/VERB position/NOUN with/ADP leg/NOUN slightly/ADV apart/ADV lift/VERB something/PRON over/ADP head/NOUN with/ADP both/DET arm/NOUN#0.0#0.0
+a person lifting weights above head with both arms.#a/DET person/NOUN lift/VERB weight/NOUN above/ADP head/NOUN with/ADP both/DET arm/NOUN#0.0#0.0

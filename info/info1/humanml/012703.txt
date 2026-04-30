@@ -1,0 +1,3 @@
+a person stands still for a few seconds, before sidestepping to his left.#a/DET person/NOUN stand/VERB still/ADV for/ADP a/DET few/ADJ second/NOUN before/ADP sidestep/VERB to/ADP his/DET left/NOUN#0.0#0.0
+the person was pushed from his left side.#the/DET person/NOUN was/AUX push/VERB from/ADP his/DET left/ADJ side/NOUN#0.0#0.0
+the person stands then moves to the right side#the/DET person/NOUN stand/VERB then/ADV move/VERB to/ADP the/DET right/ADJ side/NOUN#0.0#0.0

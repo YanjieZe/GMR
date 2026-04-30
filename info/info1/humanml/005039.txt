@@ -1,0 +1,1 @@
+a person walks forward but slowly curves towards the left as they are walking and then stops.#a/DET person/NOUN walk/VERB forward/ADV but/CCONJ slowly/ADV curve/VERB towards/ADP the/DET left/NOUN as/SCONJ they/PRON are/AUX walk/VERB and/CCONJ then/ADV stop/VERB#0.0#0.0

@@ -1,0 +1,3 @@
+the person is jumping forward.#the/DET person/NOUN is/AUX jump/VERB forward/ADV#0.0#0.0
+jumping forward one time.#jump/VERB forward/ADV one/NUM time/NOUN#0.0#0.0
+a person leaps foward with both legs and performs a little hop arms causually swinging.#a/DET person/NOUN leaps/ADV foward/ADJ with/ADP both/DET leg/NOUN and/CCONJ perform/VERB a/DET little/ADJ hop/NOUN arm/NOUN causually/ADV swinge/VERB#0.0#0.0

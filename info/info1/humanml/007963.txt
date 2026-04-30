@@ -1,0 +1,3 @@
+a person throws something with both arms twice, then steps back and turns to his left while touching his right then left bicep.#a/DET person/NOUN throw/VERB something/PRON with/ADP both/DET arm/NOUN twice/ADV then/ADV step/VERB back/ADV and/CCONJ turn/VERB to/ADP his/DET left/NOUN while/SCONJ touch/VERB his/DET right/NOUN then/ADV left/VERB bicep/NOUN#0.0#0.0
+a person is throwing something with both hands from above their head#a/DET person/NOUN is/AUX throw/VERB something/PRON with/ADP both/DET hand/NOUN from/ADP above/ADP their/DET head/NOUN#0.0#0.0
+a person tosses two objects over their head, then stretches their arms.#a/DET person/NOUN toss/VERB two/NUM object/NOUN over/ADP their/DET head/NOUN then/ADV stretch/VERB their/DET arm/NOUN#0.0#0.0

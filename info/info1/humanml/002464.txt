@@ -1,0 +1,3 @@
+a person walks forward in an curved line#a/DET person/NOUN walk/VERB forward/ADV in/ADP an/DET curved/ADJ line/NOUN#0.0#0.0
+a person walks to the left.#a/DET person/NOUN walk/VERB to/ADP the/DET left/NOUN#0.0#0.0
+a person starts to walk in a counter clockwise direction.#a/DET person/NOUN start/VERB to/PART walk/VERB in/ADP a/DET counter/NOUN clockwise/NOUN direction/NOUN#0.0#0.0

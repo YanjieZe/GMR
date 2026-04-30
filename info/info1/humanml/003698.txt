@@ -1,0 +1,3 @@
+a person slowly makes steps in a clockwise circle as if sneaking.#a/DET person/NOUN slowly/ADV make/VERB step/NOUN in/ADP a/DET clockwise/NOUN circle/NOUN as/SCONJ if/SCONJ sneak/VERB#0.0#0.0
+person is casually and slowly waling around in a circle .#person/NOUN is/AUX casually/ADV and/CCONJ slowly/ADV wale/VERB around/ADV in/ADP a/DET circle/NOUN#0.0#0.0
+a person walks forward, slowly in a complete circle.#a/DET person/NOUN walk/VERB forward/ADV slowly/ADV in/ADP a/DET complete/ADJ circle/NOUN#0.0#0.0

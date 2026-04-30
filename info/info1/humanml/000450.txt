@@ -1,0 +1,3 @@
+person drops something from their hands and kicks it#person/NOUN drop/VERB something/PRON from/ADP their/DET hand/NOUN and/CCONJ kick/VERB it/PRON#0.0#0.0
+a person kicks something while holding up one hand#a/DET person/NOUN kick/VERB something/PRON while/SCONJ hold/VERB up/ADP one/NUM hand/NOUN#0.0#0.0
+a person clasps their hands then unclasps them and then kicks something with their right foot.#a/DET person/NOUN clasp/VERB their/DET hand/NOUN then/ADV unclasp/VERB them/PRON and/CCONJ then/ADV kick/VERB something/PRON with/ADP their/DET right/ADJ foot/NOUN#0.0#0.0

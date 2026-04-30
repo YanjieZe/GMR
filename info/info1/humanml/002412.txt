@@ -1,0 +1,3 @@
+a person has a phone in their left hand and dials a number with their right.#a/DET person/NOUN has/AUX a/DET phone/NOUN in/ADP their/DET left/ADJ hand/NOUN and/CCONJ dial/VERB a/DET number/NOUN with/ADP their/DET right/NOUN#0.0#0.0
+a person picks up a phone with left and makes a call.#a/DET person/NOUN pick/VERB up/ADP a/DET phone/NOUN with/ADP left/NOUN and/CCONJ make/VERB a/DET call/NOUN#0.0#0.0
+someone types on a device in their left hand.#someone/PRON type/VERB on/ADP a/DET device/NOUN in/ADP their/DET left/ADJ hand/NOUN#0.0#0.0

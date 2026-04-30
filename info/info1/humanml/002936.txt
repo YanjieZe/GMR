@@ -1,0 +1,3 @@
+a person is walking counterclockwise.#a/DET person/NOUN is/AUX walk/VERB counterclockwise/NOUN#0.0#0.0
+walking around at a bend going counterclockwise.#walk/VERB around/ADP at/ADP a/DET bend/NOUN go/VERB counterclockwise/NOUN#0.0#0.0
+the stick figure is  calmly walking in a leter c form.#the/DET stick/NOUN figure/NOUN is/AUX calmly/ADV walk/VERB in/ADP a/DET leter/NOUN c/NOUN form/NOUN#0.0#0.0

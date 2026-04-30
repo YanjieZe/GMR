@@ -1,0 +1,3 @@
+a person steps to his right.#a/DET person/NOUN step/VERB to/ADP his/DET right/NOUN#0.0#0.0
+a person walked in right direction#a/DET person/NOUN walk/VERB in/ADP right/ADJ direction/NOUN#0.0#0.0
+a person stumbles to the left, as if pushed.#a/DET person/NOUN stumble/VERB to/ADP the/DET left/NOUN as/SCONJ if/SCONJ push/VERB#0.0#0.0

@@ -1,0 +1,3 @@
+a person throws something with its right arm.#a/DET person/NOUN throw/VERB something/PRON with/ADP its/DET right/ADJ arm/NOUN#0.0#0.0
+a person throws something forward using their right hand, turning their body while they throw#a/DET person/NOUN throw/VERB something/PRON forward/ADV use/VERB their/DET right/ADJ hand/NOUN turn/VERB their/DET body/NOUN while/SCONJ they/PRON throw/VERB#0.0#0.0
+a person acts as if they are throwing a football.#a/DET person/NOUN act/VERB as/SCONJ if/SCONJ they/PRON are/AUX throw/VERB a/DET football/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person strats jumping and sit on knee#a/DET person/NOUN strat/VERB jump/VERB and/CCONJ sit/VERB on/ADP knee/NOUN#0.0#0.0
+a person runs on the spot, then squats a few times.#a/DET person/NOUN run/VERB on/ADP the/DET spot/NOUN then/ADV squat/VERB a/DET few/ADJ time/NOUN#0.0#0.0
+person is jogging doing a warm up.#person/NOUN is/AUX jog/VERB do/VERB a/DET warm/ADJ up/ADP#0.0#0.0

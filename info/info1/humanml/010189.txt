@@ -1,0 +1,3 @@
+the person is holding his right hand over his head.#the/DET person/NOUN is/AUX hold/VERB his/DET right/ADJ hand/NOUN over/ADP his/DET head/NOUN#0.0#0.0
+raising hand to head as if blocking the sun from vision#raise/VERB hand/NOUN to/PART head/VERB as/SCONJ if/SCONJ block/VERB the/DET sun/NOUN from/ADP vision/NOUN#0.0#0.0
+a person raised the hands and shaked it on head#a/DET person/NOUN raise/VERB the/DET hand/NOUN and/CCONJ shake/VERB it/PRON on/ADP head/NOUN#0.0#0.0

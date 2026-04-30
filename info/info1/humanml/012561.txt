@@ -1,0 +1,3 @@
+peron moves forward with arms shoulder height then fully turns arms to the back and moves further forward then turns to side and moves back quickly#peron/PROPN move/VERB forward/ADV with/ADP arm/NOUN shoulder/NOUN height/NOUN then/ADV fully/ADV turn/VERB arm/NOUN to/ADP the/DET back/NOUN and/CCONJ move/NOUN further/ADV forward/ADV then/ADV turn/VERB to/PART side/VERB and/CCONJ move/VERB back/ADV quickly/ADV#0.0#0.0
+a person walks and swings their arms around their head, and then walks backward.#a/DET person/NOUN walk/VERB and/CCONJ swing/VERB their/DET arm/NOUN around/ADP their/DET head/NOUN and/CCONJ then/ADV walk/VERB backward/ADV#0.0#0.0
+the man is walking forward swinging his arms.#the/DET man/NOUN is/AUX walk/VERB forward/ADV swinge/VERB his/DET arm/NOUN#0.0#0.0

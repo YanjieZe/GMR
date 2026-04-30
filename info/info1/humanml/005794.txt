@@ -1,0 +1,3 @@
+a man claps his hands several times.#a/DET man/NOUN clap/VERB his/DET hand/NOUN several/ADJ time/NOUN#0.0#0.0
+the person is applauding someone.#the/DET person/NOUN is/AUX applaud/VERB someone/PRON#0.0#0.0
+a person appears to be clapping their hands.#a/DET person/NOUN appear/VERB to/PART be/AUX clap/VERB their/DET hand/NOUN#0.0#0.0

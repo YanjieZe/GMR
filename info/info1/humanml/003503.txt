@@ -1,0 +1,3 @@
+person starts with arms stretched at side and moves backwards to sit down.#person/NOUN start/VERB with/ADP arm/NOUN stretch/VERB at/ADP side/NOUN and/CCONJ move/NOUN backwards/ADV to/PART sit/VERB down/ADP#0.0#0.0
+someone stretch arms out wide before sitting down#someone/PRON stretch/NOUN arm/NOUN out/ADV wide/ADV before/ADP sit/VERB down/ADP#0.0#0.0
+a person, standing with arms outstretched to his side, lowers his arms, sits down, and places his hands on both knees.#a/DET person/NOUN stand/VERB with/ADP arm/NOUN outstretche/VERB to/ADP his/DET side/NOUN lower/VERB his/DET arm/NOUN sit/VERB down/ADV and/CCONJ place/VERB his/DET hand/NOUN on/ADP both/DET knee/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+he does a big long jump#he/PRON does/AUX a/DET big/ADJ long/ADJ jump/NOUN#0.0#0.0
+a person jumps forward with both legs and the continues walking until reaching the other side.#a/DET person/NOUN jump/VERB forward/ADV with/ADP both/DET leg/NOUN and/CCONJ the/DET continue/NOUN walk/VERB until/ADP reach/VERB the/DET other/ADJ side/NOUN#0.0#0.0
+a person jumps forward three times and then walks a few steps#a/DET person/NOUN jump/VERB forward/ADV three/NUM time/NOUN and/CCONJ then/ADV walk/VERB a/DET few/ADJ step/NOUN#0.0#0.0

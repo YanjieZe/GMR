@@ -1,0 +1,3 @@
+person standing with both feet firmly planted on the ground upper body moved very slightly#person/NOUN stand/VERB with/ADP both/DET foot/NOUN firmly/ADV plant/VERB on/ADP the/DET ground/NOUN upper/ADJ body/NOUN move/VERB very/ADV slightly/ADV#0.0#0.0
+a person standing still looking around.#a/DET person/NOUN stand/VERB still/ADV look/VERB around/ADV#0.0#0.0
+a person standing still, does nothing.#a/DET person/NOUN stand/VERB still/ADV does/AUX nothing/PRON#0.0#0.0

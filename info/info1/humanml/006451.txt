@@ -1,0 +1,3 @@
+person walks forward and sits down#person/NOUN walk/VERB forward/ADV and/CCONJ sit/VERB down/ADP#0.0#0.0
+the person walks to the chair then sits down at the desk#the/DET person/NOUN walk/VERB to/ADP the/DET chair/NOUN then/ADV sit/VERB down/ADP at/ADP the/DET desk/NOUN#0.0#0.0
+the man walks to a desk and sits making himself comfortable.#the/DET man/NOUN walk/VERB to/ADP a/DET desk/NOUN and/CCONJ sit/VERB make/VERB himself/PRON comfortable/ADJ#0.0#0.0

@@ -1,0 +1,3 @@
+person is walking forward in an unstable manner#person/NOUN is/AUX walk/VERB forward/ADV in/ADP an/DET unstable/ADJ manner/NOUN#0.0#0.0
+a man steps forward shakily, leaning to his left and then his right in an uneven path using his arms for balance.#a/DET man/NOUN step/VERB forward/ADV shakily/ADV lean/VERB to/ADP his/DET left/NOUN and/CCONJ then/ADV his/DET right/NOUN in/ADP an/DET uneven/ADJ path/NOUN use/VERB his/DET arm/NOUN for/ADP balance/NOUN#0.0#0.0
+a man walks forward while leaning from side to side.#a/DET man/NOUN walk/VERB forward/ADV while/SCONJ lean/VERB from/ADP side/NOUN to/ADP side/NOUN#0.0#0.0

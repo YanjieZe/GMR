@@ -1,0 +1,3 @@
+a person is stretching their left leg and getting ready for a run.#a/DET person/NOUN is/AUX stretch/VERB their/DET left/ADJ leg/NOUN and/CCONJ get/VERB ready/ADJ for/ADP a/DET run/NOUN#0.0#10.0
+a person lifts up and stretches their right leg.#a/DET person/NOUN lift/VERB up/ADP and/CCONJ stretch/VERB their/DET right/ADJ leg/NOUN#0.0#0.0
+a girl walks fast slowly speeds up to a run then gradually slows down to a walk.#a/DET girl/NOUN walk/VERB fast/ADV slowly/ADV speed/VERB up/ADP to/ADP a/DET run/NOUN then/ADV gradually/ADV slow/VERB down/ADP to/ADP a/DET walk/NOUN#0.0#0.0

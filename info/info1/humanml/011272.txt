@@ -1,0 +1,3 @@
+a person walks forward and grabs something then turns to use this something#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ grab/NOUN something/PRON then/ADV turn/VERB to/PART use/VERB this/DET something/PRON#0.0#0.0
+the person stumbles to get the glass and put it in the sink#the/DET person/NOUN stumble/VERB to/PART get/AUX the/DET glass/NOUN and/CCONJ put/VERB it/PRON in/ADP the/DET sink/NOUN#0.0#0.0
+a person slowly straightens, turns back and to the right, picks up an object, walks forward, and wipes something with the object.#a/DET person/NOUN slowly/ADV straighten/NOUN turn/VERB back/ADV and/CCONJ to/ADP the/DET right/NOUN pick/VERB up/ADP an/DET object/NOUN walk/VERB forward/ADV and/CCONJ wipe/NOUN something/PRON with/ADP the/DET object/NOUN#0.0#0.0

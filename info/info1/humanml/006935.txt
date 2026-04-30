@@ -1,0 +1,3 @@
+the person is walking backwards from left to right.#the/DET person/NOUN is/AUX walk/VERB backwards/ADV from/ADP left/VERB to/ADP right/NOUN#0.0#0.0
+a man turns right and walks forward then turns all the way around and walks forward then turns back all the way around returning to his original position#a/DET man/NOUN turn/VERB right/ADJ and/CCONJ walk/VERB forward/ADV then/ADV turn/VERB all/DET the/DET way/NOUN around/ADV and/CCONJ walk/VERB forward/ADV then/ADV turn/VERB back/ADV all/DET the/DET way/NOUN around/ADV return/VERB to/ADP his/DET original/ADJ position/NOUN#0.0#0.0
+a person walks right, then left then back to where they started.#a/DET person/NOUN walk/VERB right/ADJ then/ADV left/VERB then/ADV back/ADV to/ADP where/ADV they/PRON start/VERB#0.0#0.0

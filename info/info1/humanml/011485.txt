@@ -1,0 +1,3 @@
+a person performs four jumping jacks.#a/DET person/NOUN perform/VERB four/NUM jump/VERB jack/NOUN#0.0#0.0
+a person does four jumping jacks, teeters a bit then comes back to beginning position.#a/DET person/NOUN does/AUX four/NUM jump/VERB jack/NOUN teeter/VERB a/DET bit/NOUN then/ADV come/VERB back/ADV to/ADP begin/VERB position/NOUN#0.0#0.0
+a person is performing jumping jacks.#a/DET person/NOUN is/AUX perform/VERB jump/VERB jack/NOUN#0.0#0.0

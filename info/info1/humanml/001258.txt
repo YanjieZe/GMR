@@ -1,0 +1,3 @@
+someone is throwing an object#someone/PRON is/AUX throw/VERB an/DET object/NOUN#0.0#0.0
+character imitatates throwing a ball with left hand and then steps forward.#character/NOUN imitatate/VERB throw/VERB a/DET ball/NOUN with/ADP left/ADJ hand/NOUN and/CCONJ then/ADV step/VERB forward/ADV#1.0#5.0
+a person steps forward with their right foot and throws or pushes something with their left hand.#a/DET person/NOUN step/VERB forward/ADV with/ADP their/DET right/ADJ foot/NOUN and/CCONJ throw/NOUN or/CCONJ push/VERB something/PRON with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0

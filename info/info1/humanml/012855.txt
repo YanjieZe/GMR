@@ -1,0 +1,3 @@
+the person did a 360 jump in the air.#the/DET person/NOUN did/AUX a/DET jump/NOUN in/ADP the/DET air/NOUN#0.0#0.0
+a person jumps in the air completes a full 360 rotation before coming back to the ground.#a/DET person/NOUN jump/VERB in/ADP the/DET air/NOUN complete/VERB a/DET full/ADJ rotation/NOUN before/ADP come/VERB back/ADV to/ADP the/DET ground/NOUN#0.0#0.0
+this person from a standing position jumps and turn in mid air.#this/DET person/NOUN from/ADP a/DET standing/ADJ position/NOUN jump/VERB and/CCONJ turn/VERB in/ADP mid/ADJ air/NOUN#0.0#0.0

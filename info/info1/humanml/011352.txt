@@ -1,0 +1,3 @@
+the person is boxing to the left and to the right.#the/DET person/NOUN is/AUX box/VERB to/ADP the/DET left/NOUN and/CCONJ to/ADP the/DET right/NOUN#0.0#0.0
+person moving in slow motion raises left hand and then the right hand to strike at the opposition's head#person/NOUN move/VERB in/ADP slow/ADJ motion/NOUN raise/VERB left/VERB hand/NOUN and/CCONJ then/ADV the/DET right/ADJ hand/NOUN to/PART strike/VERB at/ADP the/DET opposition/NOUN head/NOUN#0.0#0.0
+person is practicing boxing punches#person/NOUN is/AUX practice/VERB boxing/NOUN punch/NOUN#0.0#0.0

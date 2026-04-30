@@ -1,0 +1,3 @@
+the man is throwing hard#the/DET man/NOUN is/AUX throw/VERB hard/ADV#0.0#0.0
+person is throwing a ball#person/NOUN is/AUX throw/VERB a/DET ball/NOUN#0.0#0.0
+he steps forward with his left foot, turns his torso to the right, and raises his hand back; he then throws a ball.#he/PRON step/VERB forward/ADV with/ADP his/DET left/ADJ foot/NOUN turn/VERB his/DET torso/NOUN to/ADP the/DET right/NOUN and/CCONJ raise/VERB his/DET hand/NOUN back/ADV he/PRON then/ADV throw/VERB a/DET ball/NOUN#0.0#0.0

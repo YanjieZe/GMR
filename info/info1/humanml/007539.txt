@@ -1,0 +1,3 @@
+a person throws something with their right hand and stumbles slightly.#a/DET person/NOUN throw/VERB something/PRON with/ADP their/DET right/ADJ hand/NOUN and/CCONJ stumble/VERB slightly/ADV#0.0#0.0
+the person makes three throwing motions with their right hand.#the/DET person/NOUN make/VERB three/NUM throw/VERB motion/NOUN with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+a person grabbed somethin with both hands, and throw it away#a/DET person/NOUN grab/VERB something/NOUN with/ADP both/DET hand/NOUN and/CCONJ throw/VERB it/PRON away/ADV#0.0#0.0

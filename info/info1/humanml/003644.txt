@@ -1,0 +1,3 @@
+a person keeps left foot planted and turns right foot and waist and punches cross body with right hand.#a/DET person/NOUN keep/VERB left/ADJ foot/NOUN plant/VERB and/CCONJ turn/VERB right/ADJ foot/NOUN and/CCONJ waist/NOUN and/CCONJ punch/NOUN cross/PROPN body/NOUN with/ADP right/ADJ hand/NOUN#0.0#0.0
+a person in defensive pose reaches with right arm out.#a/DET person/NOUN in/ADP defensive/ADJ pose/NOUN reach/VERB with/ADP right/ADJ arm/NOUN out/ADP#0.0#0.0
+the person is  slow punching the air.#the/DET person/NOUN is/AUX slow/ADJ punching/NOUN the/DET air/NOUN#0.0#0.0

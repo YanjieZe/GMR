@@ -1,0 +1,3 @@
+this person side steps left, stops and side steps right.#this/DET person/NOUN side/NOUN step/NOUN left/VERB stop/NOUN and/CCONJ side/ADJ step/NOUN right/ADV#0.0#0.0
+a person side steps to their left, before side stepping to their right#a/DET person/NOUN side/NOUN step/NOUN to/ADP their/DET left/NOUN before/ADP side/NOUN step/VERB to/ADP their/DET right/NOUN#0.0#0.0
+a man takes three side steps left, then five side steps back right.#a/DET man/NOUN take/VERB three/NUM side/NOUN step/NOUN left/VERB then/ADV five/NUM side/NOUN step/NOUN back/ADV right/ADV#0.0#0.0

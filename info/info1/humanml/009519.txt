@@ -1,0 +1,3 @@
+a person standing scratches his head with his right hand and then lowers his hand back down.#a/DET person/NOUN stand/VERB scratch/VERB his/DET head/NOUN with/ADP his/DET right/ADJ hand/NOUN and/CCONJ then/ADV lower/VERB his/DET hand/NOUN back/ADV down/ADV#0.0#0.0
+the being feels gas within its hearing sense of its sun, then returns to its current position.#the/DET being/NOUN feel/VERB gas/NOUN within/ADP its/DET hearing/NOUN sense/NOUN of/ADP its/DET sun/NOUN then/ADV return/VERB to/ADP its/DET current/ADJ position/NOUN#0.0#0.0
+a person scratches head with right hand.#a/DET person/NOUN scratch/VERB head/NOUN with/ADP right/ADJ hand/NOUN#0.0#0.0

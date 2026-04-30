@@ -1,0 +1,3 @@
+a person walking forward, side by side, then forward, and then side by side again.#a/DET person/NOUN walk/VERB forward/ADV side/NOUN by/ADP side/NOUN then/ADV forward/ADV and/CCONJ then/ADV side/VERB by/ADP side/NOUN again/ADV#0.0#0.0
+the person walks forward side to side#the/DET person/NOUN walk/VERB forward/ADV side/NOUN to/PART side/VERB#0.0#0.0
+person is walking zig zagged from one side to other side heading down.#person/NOUN is/AUX walk/VERB zig/PROPN zagge/VERB from/ADP one/NUM side/NOUN to/ADP other/ADJ side/NOUN head/VERB down/ADV#0.0#0.0

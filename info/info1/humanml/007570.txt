@@ -1,0 +1,3 @@
+a person puts their hands over their face.#a/DET person/NOUN put/VERB their/DET hand/NOUN over/ADP their/DET face/NOUN#0.0#0.0
+a person holds his hands above his eyes as he looks to his right, left, and then straight ahead.#a/DET person/NOUN hold/VERB his/DET hand/NOUN above/ADP his/DET eye/NOUN as/SCONJ he/PRON look/VERB to/ADP his/DET right/NOUN left/VERB and/CCONJ then/ADV straight/ADV ahead/ADV#0.0#0.0
+a person raising both fists to cover their face.#a/DET person/NOUN raise/VERB both/DET fist/NOUN to/PART cover/VERB their/DET face/NOUN#0.0#0.0

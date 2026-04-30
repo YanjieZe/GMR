@@ -1,0 +1,3 @@
+the person is jogging in place.#the/DET person/NOUN is/AUX jog/VERB in/ADP place/NOUN#0.0#0.0
+person is running in place#person/NOUN is/AUX run/VERB in/ADP place/NOUN#0.0#0.0
+a person is jogging briskly, and stops.#a/DET person/NOUN is/AUX jog/VERB briskly/ADV and/CCONJ stop/NOUN#0.0#0.0

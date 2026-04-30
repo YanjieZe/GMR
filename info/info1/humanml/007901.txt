@@ -1,0 +1,3 @@
+a man dribbles a ball and then takes a shot.#a/DET man/NOUN dribble/VERB a/DET ball/NOUN and/CCONJ then/ADV take/VERB a/DET shot/NOUN#0.0#0.0
+a person dribbles a ball a couple times and then shoots it at a hoop.#a/DET person/NOUN dribble/VERB a/DET ball/NOUN a/DET couple/NOUN time/NOUN and/CCONJ then/ADV shoot/VERB it/PRON at/ADP a/DET hoop/NOUN#0.0#0.0
+a person bounces a ball three times then takes a shot.#a/DET person/NOUN bounce/VERB a/DET ball/NOUN three/NUM time/NOUN then/ADV take/VERB a/DET shot/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person is walkin whilst crouched and kicks#a/DET person/NOUN is/AUX walkin/VERB whilst/SCONJ crouched/ADJ and/CCONJ kick/NOUN#0.0#0.0
+a man crouches down as he walks forward and kicks with his right leg.#a/DET man/NOUN crouch/VERB down/ADP as/SCONJ he/PRON walk/VERB forward/ADV and/CCONJ kick/VERB with/ADP his/DET right/ADJ leg/NOUN#0.0#0.0
+robot started moving backward from center and then moved forward wit stretchy legs and start kicking.#robot/PROPN start/VERB move/VERB backward/ADV from/ADP center/NOUN and/CCONJ then/ADV move/VERB forward/ADV wit/NOUN stretchy/NOUN leg/NOUN and/CCONJ start/VERB kick/VERB#0.0#0.0

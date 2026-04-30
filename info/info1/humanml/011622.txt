@@ -1,0 +1,3 @@
+a person is leaping a few feet, turning direction, then leaping another few feet.#a/DET person/NOUN is/AUX leap/VERB a/DET few/ADJ foot/NOUN turn/VERB direction/NOUN then/ADV leap/VERB another/DET few/ADJ foot/NOUN#0.0#0.0
+a person jumps over something multiple times.#a/DET person/NOUN jump/VERB over/ADP something/PRON multiple/ADJ time/NOUN#0.0#0.0
+jump on the floor moving one place to other place create a box.#jump/VERB on/ADP the/DET floor/NOUN move/VERB one/NUM place/NOUN to/ADP other/ADJ place/NOUN create/VERB a/DET box/NOUN#0.0#0.0

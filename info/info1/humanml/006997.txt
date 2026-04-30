@@ -1,0 +1,3 @@
+the person is walking in an s shape.#the/DET person/NOUN is/AUX walk/VERB in/ADP an/DET s/PROPN shape/NOUN#0.0#0.0
+a person walks forward following an "s" path.#a/DET person/NOUN walk/VERB forward/ADV follow/VERB an/DET s/NOUN path/NOUN#0.0#0.0
+a man walks in a zig zag pattern.#a/DET man/NOUN walk/VERB in/ADP a/DET zig/X zag/X pattern/NOUN#0.0#0.0

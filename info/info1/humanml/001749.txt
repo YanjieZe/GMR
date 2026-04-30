@@ -1,0 +1,3 @@
+a man steps back 3 paces, then crouches low and walks forward 3 paces, then stands and walks back 3 paces.#a/DET man/NOUN step/VERB back/ADV pace/NOUN then/ADV crouch/VERB low/ADJ and/CCONJ walk/VERB forward/ADV pace/NOUN then/ADV stand/VERB and/CCONJ walk/VERB back/ADV pace/NOUN#0.0#0.0
+a person walks backwards and then commits to a series of lunges forward, dropping to their knee with each step.#a/DET person/NOUN walk/VERB backwards/ADV and/CCONJ then/ADV commit/VERB to/ADP a/DET series/NOUN of/ADP lunge/NOUN forward/ADV drop/VERB to/ADP their/DET knee/NOUN with/ADP each/DET step/NOUN#0.0#0.0
+a person walks backwards and then duckwalks forward.#a/DET person/NOUN walk/VERB backwards/ADV and/CCONJ then/ADV duckwalk/NOUN forward/ADV#0.0#0.0

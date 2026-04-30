@@ -1,0 +1,3 @@
+from a standing postion, the person puts both hands out in front of them, foot forward, as if to ward something off, before returing to a standing position#from/ADP a/DET standing/ADJ postion/NOUN the/DET person/NOUN put/VERB both/DET hand/NOUN out/ADP in/ADP front/NOUN of/ADP them/PRON foot/NOUN forward/ADV as/SCONJ if/SCONJ to/ADP ward/PROPN something/PRON off/ADP before/ADP reture/VERB to/ADP a/DET standing/ADJ position/NOUN#0.0#0.0
+a person puts both hands in front of him.#a/DET person/NOUN put/VERB both/DET hand/NOUN in/ADP front/NOUN of/ADP him/PRON#0.0#0.0
+a person holding both of there hands infront of them#a/DET person/NOUN hold/VERB both/DET of/ADP there/PRON hand/NOUN infront/ADV of/ADP them/PRON#0.0#0.0

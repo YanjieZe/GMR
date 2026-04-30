@@ -1,0 +1,3 @@
+a man stumbles forward and then swings his arms before stepping back.#a/DET man/NOUN stumble/VERB forward/ADV and/CCONJ then/ADV swing/VERB his/DET arm/NOUN before/ADP step/VERB back/ADV#0.0#0.0
+a person stumbles around randomly while making large motions with their arms.#a/DET person/NOUN stumble/VERB around/ADV randomly/ADV while/SCONJ make/VERB large/ADJ motion/NOUN with/ADP their/DET arm/NOUN#0.0#0.0
+a person is stumbling around as if drunk.#a/DET person/NOUN is/AUX stumble/VERB around/ADV as/SCONJ if/SCONJ drunk/ADJ#0.0#0.0

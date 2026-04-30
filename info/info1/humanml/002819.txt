@@ -1,0 +1,3 @@
+a person uses their left hand to pour something over the right.#a/DET person/NOUN use/VERB their/DET left/ADJ hand/NOUN to/PART pour/VERB something/PRON over/ADP the/DET right/NOUN#0.0#0.0
+a person holds left arm.#a/DET person/NOUN hold/VERB left/ADJ arm/NOUN#0.0#0.0
+a man touches his right arm and the moves his arm back.#a/DET man/NOUN touch/VERB his/DET right/ADJ arm/NOUN and/CCONJ the/DET move/NOUN his/DET arm/NOUN back/ADV#0.0#0.0

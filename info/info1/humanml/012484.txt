@@ -1,0 +1,3 @@
+a person stirs with the right hand.#a/DET person/NOUN stir/VERB with/ADP the/DET right/ADJ hand/NOUN#0.0#0.0
+a person who is stirring with their right arm#a/DET person/NOUN who/PRON is/AUX stir/VERB with/ADP their/DET right/ADJ arm/NOUN#0.0#0.0
+a person acts as if they are washing something with their right hand.#a/DET person/NOUN act/VERB as/SCONJ if/SCONJ they/PRON are/AUX wash/VERB something/PRON with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0

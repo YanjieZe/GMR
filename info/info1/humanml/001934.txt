@@ -1,0 +1,3 @@
+a man is going from a crouched position to lying down#a/DET man/NOUN is/AUX go/VERB from/ADP a/DET crouched/ADJ position/NOUN to/ADP lie/VERB down/ADP#0.0#0.0
+a man sits down. he stretches his legs out in front of him then lies down.#a/DET man/NOUN sit/VERB down/ADP he/PRON stretch/VERB his/DET leg/NOUN out/SCONJ in/ADP front/NOUN of/ADP him/PRON then/ADV lie/VERB down/ADP#0.0#0.0
+person is getting to lying down.#person/NOUN is/AUX get/VERB to/ADP lie/VERB down/ADP#0.0#0.0

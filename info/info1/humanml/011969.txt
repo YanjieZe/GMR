@@ -1,0 +1,3 @@
+sitting down with hands near face.#sit/VERB down/ADP with/ADP hand/NOUN near/SCONJ face/NOUN#0.0#0.0
+a person sat on something and leand the left hand near to face#a/DET person/NOUN sit/VERB on/ADP something/PRON and/CCONJ leand/VERB the/DET left/ADJ hand/NOUN near/ADV to/PART face/VERB#0.0#0.0
+a man squats while bringing an object to his face with his left hand.#a/DET man/NOUN squat/VERB while/SCONJ bring/VERB an/DET object/NOUN to/ADP his/DET face/NOUN with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0

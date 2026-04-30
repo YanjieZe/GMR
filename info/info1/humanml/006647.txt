@@ -1,0 +1,3 @@
+a person holding something walks forward and places it down, then turns around and walks.#a/DET person/NOUN hold/VERB something/PRON walk/VERB forward/ADV and/CCONJ place/VERB it/PRON down/ADP then/ADV turn/VERB around/ADV and/CCONJ walk/VERB#0.0#3.0
+a person picks up a chair and moves it to the left.#a/DET person/NOUN pick/VERB up/ADP a/DET chair/NOUN and/CCONJ move/VERB it/PRON to/ADP the/DET left/NOUN#0.0#0.0
+a person pulled down something on the floor and back grabbed something with right hand#a/DET person/NOUN pull/VERB down/ADP something/PRON on/ADP the/DET floor/NOUN and/CCONJ back/NOUN grab/VERB something/PRON with/ADP right/ADJ hand/NOUN#0.0#0.0

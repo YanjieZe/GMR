@@ -1,0 +1,3 @@
+the person was flying around like a fly.#the/DET person/NOUN was/AUX fly/VERB around/ADP like/SCONJ a/DET fly/NOUN#0.0#0.0
+a person flailing their arms an legs as if swiming#a/DET person/NOUN flail/VERB their/DET arm/NOUN an/DET leg/NOUN as/SCONJ if/SCONJ swiming/NOUN#0.0#0.0
+a person fastly swimming forward#a/DET person/NOUN fastly/ADV swim/VERB forward/ADV#0.0#10.0

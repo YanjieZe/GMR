@@ -1,0 +1,3 @@
+person got down and is crawling across the floor.#person/NOUN get/VERB down/ADP and/CCONJ is/AUX crawl/VERB across/ADP the/DET floor/NOUN#0.0#0.0
+a person gets down on hands and knees and crosses the floor, then stands back up.#a/DET person/NOUN get/VERB down/ADV on/ADP hand/NOUN and/CCONJ knee/NOUN and/CCONJ cross/VERB the/DET floor/NOUN then/ADV stand/VERB back/ADV up/ADV#0.0#0.0
+a person lowers to ground and walks on all fours.#a/DET person/NOUN lower/VERB to/PART ground/VERB and/CCONJ walk/VERB on/ADP all/DET four/NOUN#0.0#0.0

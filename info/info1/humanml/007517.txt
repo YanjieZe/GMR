@@ -1,0 +1,3 @@
+a person appears to buckle something around their lap.#a/DET person/NOUN appear/VERB to/PART buckle/VERB something/PRON around/ADP their/DET lap/NOUN#0.0#0.0
+a person puts a seatbelt around their waist.#a/DET person/NOUN put/VERB a/DET seatbelt/NOUN around/ADP their/DET waist/NOUN#0.0#0.0
+a person is standing and has left hand go behind body then right hand meets left hand and is brought forward as if putting on a belt.#a/DET person/NOUN is/AUX stand/VERB and/CCONJ has/AUX left/VERB hand/NOUN go/VERB behind/ADP body/NOUN then/ADV right/ADJ hand/NOUN meet/VERB left/VERB hand/NOUN and/CCONJ is/AUX bring/VERB forward/ADV as/SCONJ if/SCONJ put/VERB on/ADP a/DET belt/NOUN#0.0#0.0

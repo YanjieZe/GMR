@@ -1,0 +1,3 @@
+a person lifts his left arm multiple times.#a/DET person/NOUN lift/VERB his/DET left/ADJ arm/NOUN multiple/NOUN time/NOUN#0.0#0.0
+a person raising and lowering object with their left arm/ hand.#a/DET person/NOUN raise/VERB and/CCONJ lower/VERB object/NOUN with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0
+a person who lifts there left hand up twice#a/DET person/NOUN who/PRON lift/VERB there/ADV left/VERB hand/NOUN up/ADP twice/ADV#0.0#0.0

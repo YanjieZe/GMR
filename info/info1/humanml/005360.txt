@@ -1,0 +1,3 @@
+person appears to unscrew something with right hand while holding it with left hand.#person/NOUN appear/VERB to/ADP unscrew/ADJ something/PRON with/ADP right/ADJ hand/NOUN while/SCONJ hold/VERB it/PRON with/ADP left/ADJ hand/NOUN#0.0#0.0
+a person is opening a jar with both arms.#a/DET person/NOUN is/AUX open/VERB a/DET jar/NOUN with/ADP both/DET arm/NOUN#0.0#0.0
+a person is holding something down while twisting with their right hand.#a/DET person/NOUN is/AUX hold/VERB something/PRON down/ADP while/SCONJ twist/VERB with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0

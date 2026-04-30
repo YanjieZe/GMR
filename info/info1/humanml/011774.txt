@@ -1,0 +1,3 @@
+a person raises his hands above his head and walks forward#a/DET person/NOUN raise/VERB his/DET hand/NOUN above/ADP his/DET head/NOUN and/CCONJ walk/VERB forward/ADV#0.0#0.0
+a person slowly walked forward while balancing#a/DET person/NOUN slowly/ADV walk/VERB forward/ADV while/SCONJ balance/VERB#0.0#0.0
+a person goes forward while putting both of his hands up, trying to keep balance while moving on the line or something#a/DET person/NOUN go/VERB forward/ADV while/SCONJ put/VERB both/DET of/ADP his/DET hand/NOUN up/ADP try/VERB to/PART keep/VERB balance/NOUN while/SCONJ move/VERB on/ADP the/DET line/NOUN or/CCONJ something/PRON#0.0#0.0

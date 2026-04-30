@@ -1,0 +1,3 @@
+the person is washing his body.#the/DET person/NOUN is/AUX wash/VERB his/DET body/NOUN#0.0#0.0
+person appears to wash armpit then washes head a few times#person/NOUN appear/VERB to/PART wash/VERB armpit/NOUN then/ADV wash/VERB head/VERB a/DET few/ADJ time/NOUN#0.0#0.0
+both hands scrub the chest, right hand scrubs the head, both hands reach slightly forward then back up to the head scrubbing.#both/DET hand/NOUN scrub/VERB the/DET chest/NOUN right/ADJ hand/NOUN scrub/VERB the/DET head/NOUN both/DET hand/NOUN reach/VERB slightly/ADV forward/ADV then/ADV back/ADV up/ADP to/ADP the/DET head/NOUN scrub/VERB#0.0#0.0

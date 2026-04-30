@@ -1,0 +1,3 @@
+a person walking side then back words then back up around.#a/DET person/NOUN walk/VERB side/NOUN then/ADV back/ADV word/NOUN then/ADV back/ADV up/ADP around/ADV#0.0#0.0
+a person walks backward and then forward in a counter-clockwise motion.#a/DET person/NOUN walk/VERB backward/ADV and/CCONJ then/ADV forward/ADV in/ADP a/DET counterclockwise/ADJ motion/NOUN#0.0#0.0
+person walks backwards while swinging arms freely then loops to come around ford#person/NOUN walk/VERB backwards/ADV while/SCONJ swinge/VERB arm/NOUN freely/ADV then/ADV loop/VERB to/PART come/VERB around/ADP ford/PROPN#0.0#0.0

@@ -1,0 +1,3 @@
+person puts right arm shoulder height in front then moves arm to their right#person/NOUN put/VERB right/ADJ arm/NOUN shoulder/NOUN height/NOUN in/ADP front/NOUN then/ADV move/VERB arm/NOUN to/ADP their/DET right/NOUN#0.0#0.0
+a man lifts his right arm, then waves it across his body.#a/DET man/NOUN lift/VERB his/DET right/ADJ arm/NOUN then/ADV wave/VERB it/PRON across/ADP his/DET body/NOUN#0.0#0.0
+a person holds their right arm in front of them and moves it towards the right hand side, then drops arm down to their side.#a/DET person/NOUN hold/VERB their/DET right/ADJ arm/NOUN in/ADP front/NOUN of/ADP them/PRON and/CCONJ move/VERB it/PRON towards/ADP the/DET right/ADJ hand/NOUN side/NOUN then/ADV drop/VERB arm/VERB down/ADP to/ADP their/DET side/NOUN#0.0#0.0

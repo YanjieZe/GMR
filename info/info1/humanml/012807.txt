@@ -1,0 +1,3 @@
+a person bending over doing stretches#a/DET person/NOUN bend/VERB over/ADP do/VERB stretch/NOUN#0.0#0.0
+a person bends forward to touch their toes, then spreads their legs and reaches for their left foot, and then their right.#a/DET person/NOUN bend/VERB forward/ADV to/PART touch/VERB their/DET toe/NOUN then/ADV spread/VERB their/DET leg/NOUN and/CCONJ reach/NOUN for/ADP their/DET left/ADJ foot/NOUN and/CCONJ then/ADV their/DET right/NOUN#0.0#0.0
+someone bends over and stretches to their toes from left to right.#someone/PRON bend/VERB over/ADP and/CCONJ stretch/VERB to/ADP their/DET toe/NOUN from/ADP left/VERB to/ADP right/NOUN#0.0#0.0

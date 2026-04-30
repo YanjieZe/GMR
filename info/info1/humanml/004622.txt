@@ -1,0 +1,3 @@
+a person jumps and turns left and right.#a/DET person/NOUN jump/VERB and/CCONJ turn/VERB left/VERB and/CCONJ right/INTJ#0.0#0.0
+a man jumps while spinning slightly to the left then jumps in a complete counterclockwise circle.#a/DET man/NOUN jump/VERB while/SCONJ spin/VERB slightly/ADV to/ADP the/DET left/NOUN then/ADV jump/VERB in/ADP a/DET complete/ADJ counterclockwise/NOUN circle/NOUN#0.0#0.0
+person faces forward then jumps to their left then they bend they knees and jump spin twice before standing still#person/NOUN face/VERB forward/ADV then/ADV jump/VERB to/ADP their/DET left/NOUN then/ADV they/PRON bend/VERB they/PRON knee/VERB and/CCONJ jump/VERB spin/NOUN twice/ADV before/ADP stand/VERB still/ADV#0.0#0.0

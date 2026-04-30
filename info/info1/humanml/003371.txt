@@ -1,0 +1,2 @@
+a person turns counter clockwise 180 degrees, walks straight, then turns counter clockwise 180 degrees again.#a/DET person/NOUN turn/VERB counter/NOUN clockwise/NOUN degree/NOUN walk/VERB straight/ADV then/ADV turn/VERB counter/NOUN clockwise/NOUN degree/NOUN again/ADV#0.0#0.0
+a person turns around counter-clockwise, walks forward and up something, and then turns around clockwise.#a/DET person/NOUN turn/VERB around/ADP counterclockwise/NOUN walk/VERB forward/ADV and/CCONJ up/ADP something/PRON and/CCONJ then/ADV turn/VERB around/ADP clockwise/NOUN#0.0#0.0

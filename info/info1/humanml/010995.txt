@@ -1,0 +1,3 @@
+person reaches out right arm in front of them, puts their arm down, then reaches again with right arm.#person/NOUN reach/VERB out/ADP right/ADJ arm/NOUN in/ADP front/NOUN of/ADP them/PRON put/VERB their/DET arm/NOUN down/ADP then/ADV reach/VERB again/ADV with/ADP right/ADJ arm/NOUN#0.0#0.0
+a person reaches out for something with his right hand 4 times.#a/DET person/NOUN reach/VERB out/ADP for/ADP something/PRON with/ADP his/DET right/ADJ hand/NOUN time/NOUN#0.0#0.0
+this person reaches with his right hand.#this/DET person/NOUN reach/VERB with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0

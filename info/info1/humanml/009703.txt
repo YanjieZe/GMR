@@ -1,0 +1,3 @@
+a person takes a step forward, pivots on their left foot and turns 180 degrees and walks back to where they started, but facing the opposite direction#a/DET person/NOUN take/VERB a/DET step/NOUN forward/ADV pivot/NOUN on/ADP their/DET left/ADJ foot/NOUN and/CCONJ turn/VERB degree/NOUN and/CCONJ walk/VERB back/ADV to/ADP where/ADV they/PRON start/VERB but/CCONJ face/VERB the/DET opposite/ADJ direction/NOUN#0.0#0.0
+this person walks forward then turns left to walk back.#this/DET person/NOUN walk/VERB forward/ADV then/ADV turn/VERB left/VERB to/PART walk/VERB back/ADV#0.0#0.0
+a man walks forward 2 feet and then turns to walk back.#a/DET man/NOUN walk/VERB forward/ADV foot/NOUN and/CCONJ then/ADV turn/VERB to/PART walk/VERB back/ADV#0.0#0.0

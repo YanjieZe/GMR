@@ -1,0 +1,2 @@
+a man steps up and then walks forwards.#a/DET man/NOUN step/VERB up/ADP and/CCONJ then/ADV walk/VERB forwards/ADV#0.0#0.0
+he steps up and apparently walks along a beam before stepping down.#he/PRON step/VERB up/ADP and/CCONJ apparently/ADV walk/VERB along/ADP a/DET beam/NOUN before/ADP step/VERB down/ADP#0.0#0.0

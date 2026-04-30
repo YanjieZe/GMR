@@ -1,0 +1,3 @@
+a person what it seems to perform yoga or a ballet dance moves#a/DET person/NOUN what/PRON it/PRON seem/VERB to/PART perform/VERB yoga/NOUN or/CCONJ a/DET ballet/NOUN dance/NOUN move/NOUN#0.0#0.0
+person leans forward side to side and kicks extends left leg three times to side quite high and balances on right leg#person/NOUN lean/VERB forward/ADV side/NOUN to/PART side/NOUN and/CCONJ kick/NOUN extend/VERB left/VERB leg/NOUN three/NUM time/NOUN to/PART side/VERB quite/ADV high/ADJ and/CCONJ balance/NOUN on/ADP right/ADJ leg/NOUN#0.0#0.0
+the person is kicking with his left leg while holding something with his left.#the/DET person/NOUN is/AUX kick/VERB with/ADP his/DET left/ADJ leg/NOUN while/SCONJ hold/VERB something/PRON with/ADP his/DET left/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+person walks with a limp. the left leg is dragging while person is walking.#person/NOUN walk/VERB with/ADP a/DET limp/NOUN the/DET left/ADJ leg/NOUN is/AUX drag/VERB while/SCONJ person/NOUN is/AUX walk/VERB#0.0#0.0
+person heavily limps in a clockwise circle#person/NOUN heavily/ADV limp/VERB in/ADP a/DET clockwise/NOUN circle/NOUN#0.0#0.0
+a figure staggers, dragging one leg behind them, as they move in a circle#a/DET figure/NOUN stagger/NOUN drag/VERB one/NUM leg/NOUN behind/ADP them/PRON as/SCONJ they/PRON move/VERB in/ADP a/DET circle/NOUN#0.0#0.0

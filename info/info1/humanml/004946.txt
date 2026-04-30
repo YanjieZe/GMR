@@ -1,0 +1,3 @@
+the person picked up some thing and put it to the right.#the/DET person/NOUN pick/VERB up/ADP some/DET thing/NOUN and/CCONJ put/VERB it/PRON to/ADP the/DET right/NOUN#0.0#0.0
+someone grabs something and moves it from left to right.#someone/PRON grab/VERB something/PRON and/CCONJ move/VERB it/PRON from/ADP left/VERB to/ADP right/NOUN#0.0#0.0
+a person acts as if they are picking an object up and placing it somewhere else.#a/DET person/NOUN act/VERB as/SCONJ if/SCONJ they/PRON are/AUX pick/VERB an/DET object/NOUN up/ADP and/CCONJ place/VERB it/PRON somewhere/ADV else/ADV#0.0#0.0

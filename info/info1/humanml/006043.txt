@@ -1,0 +1,3 @@
+person is applauding someone with happiness.#person/NOUN is/AUX applaud/VERB someone/PRON with/ADP happiness/NOUN#0.0#0.0
+a man claps his hands, while turning around at the waist.#a/DET man/NOUN clap/VERB his/DET hand/NOUN while/SCONJ turn/VERB around/ADP at/ADP the/DET waist/NOUN#0.0#3.0
+a person is clapping multiple times#a/DET person/NOUN is/AUX clap/VERB multiple/ADJ time/NOUN#0.0#3.0

@@ -1,0 +1,3 @@
+a person takes four steps, right foot first then left foot, moving forward.#a/DET person/NOUN take/VERB four/NUM step/NOUN right/ADJ foot/NOUN first/ADV then/ADV left/VERB foot/NOUN move/VERB forward/ADV#0.0#0.0
+a person walks forward and then takes a larger step and raises arm, trying to regain balance after stumbling.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ then/ADV take/VERB a/DET larger/ADJ step/NOUN and/CCONJ raise/VERB arm/NOUN try/VERB to/PART regain/VERB balance/NOUN after/ADP stumble/VERB#0.0#0.0
+person moves forward and staggers on left leg for balance#person/NOUN move/VERB forward/ADV and/CCONJ stagger/NOUN on/ADP left/ADJ leg/NOUN for/ADP balance/NOUN#0.0#0.0

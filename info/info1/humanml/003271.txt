@@ -1,0 +1,2 @@
+a man jogs from side to side.#a/DET man/NOUN jog/VERB from/ADP side/NOUN to/ADP side/NOUN#0.0#0.0
+a person jogging up and down a short slope.#a/DET person/NOUN jog/VERB up/ADP and/CCONJ down/ADP a/DET short/ADJ slope/NOUN#0.0#0.0

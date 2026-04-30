@@ -1,0 +1,3 @@
+a person made a welcome jesture, while his right leg down a little#a/DET person/NOUN make/VERB a/DET welcome/ADJ jesture/NOUN while/SCONJ his/DET right/ADJ leg/NOUN down/ADP a/DET little/ADJ#0.0#0.0
+a person does a moderate curtsy to the left#a/DET person/NOUN does/AUX a/DET moderate/ADJ curtsy/NOUN to/ADP the/DET left/NOUN#0.0#0.0
+the person twirls  slowly and comes up#the/DET person/NOUN twirl/VERB slowly/ADV and/CCONJ come/VERB up/ADP#0.0#0.0

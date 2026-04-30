@@ -1,0 +1,3 @@
+a person claps their hands shifting up and down as they do.#a/DET person/NOUN clap/VERB their/DET hand/NOUN shift/VERB up/ADP and/CCONJ down/ADV as/SCONJ they/PRON do/AUX#0.0#0.0
+a person stands still upright while clapping his hands from its chest to above its shoulders#a/DET person/NOUN stand/VERB still/ADV upright/ADV while/SCONJ clap/VERB his/DET hand/NOUN from/ADP its/DET chest/NOUN to/PART above/ADP its/DET shoulder/NOUN#0.0#0.0
+a person claps, drops their hands, then claps while raising their hands.#a/DET person/NOUN clap/VERB drop/VERB their/DET hand/NOUN then/ADV clap/NOUN while/SCONJ raise/VERB their/DET hand/NOUN#0.0#0.0

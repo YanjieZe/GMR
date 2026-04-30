@@ -1,0 +1,3 @@
+the person was looking at his wrist for his watch.#the/DET person/NOUN was/AUX look/VERB at/ADP his/DET wrist/NOUN for/ADP his/DET watch/NOUN#0.0#0.0
+a person is standing there and checks left wrist then right wrist.#a/DET person/NOUN is/AUX stand/VERB there/ADV and/CCONJ check/NOUN left/VERB wrist/NOUN then/ADV right/ADJ wrist/NOUN#0.0#3.0
+a person checks something out on their wrist, before checking out their other wrist.#a/DET person/NOUN check/VERB something/PRON out/ADP on/ADP their/DET wrist/NOUN before/ADP check/VERB out/ADP their/DET other/ADJ wrist/NOUN#0.0#0.0

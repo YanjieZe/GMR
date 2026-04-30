@@ -1,0 +1,3 @@
+person appears to pick up a cup and drink.#person/NOUN appear/VERB to/PART pick/VERB up/ADP a/DET cup/NOUN and/CCONJ drink/NOUN#0.0#0.0
+a person steps forward and picks up something and brings it up to his mouth.#a/DET person/NOUN step/VERB forward/ADV and/CCONJ pick/VERB up/ADP something/PRON and/CCONJ bring/VERB it/PRON up/ADP to/ADP his/DET mouth/NOUN#0.0#0.0
+a figure walks forward slowly then raises its right arm as if taking a drink#a/DET figure/NOUN walk/VERB forward/ADV slowly/ADV then/ADV raise/VERB its/DET right/ADJ arm/NOUN as/SCONJ if/SCONJ take/VERB a/DET drink/NOUN#0.0#0.0

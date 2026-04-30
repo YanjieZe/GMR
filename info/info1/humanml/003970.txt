@@ -1,0 +1,3 @@
+someone dances forward and backwards before dancing around in a clockwise direction.#someone/PRON dance/VERB forward/ADV and/CCONJ backwards/ADV before/ADP dance/VERB around/ADV in/ADP a/DET clockwise/ADJ direction/NOUN#0.0#0.0
+a person is salsa dancing.#a/DET person/NOUN is/AUX salsa/PROPN dancing/NOUN#0.0#0.0
+a person is dancing in a circle while moving their arms.#a/DET person/NOUN is/AUX dance/VERB in/ADP a/DET circle/NOUN while/SCONJ move/VERB their/DET arm/NOUN#0.0#0.0

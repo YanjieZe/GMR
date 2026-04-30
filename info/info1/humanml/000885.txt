@@ -1,0 +1,3 @@
+a lerson lifts their right arm with elbow bent, out to a 90 degree angle to their body.#a/DET lerson/NOUN lift/VERB their/DET right/ADJ arm/NOUN with/ADP elbow/PROPN bent/NOUN out/ADV to/ADP a/DET degree/NOUN angle/NOUN to/ADP their/DET body/NOUN#0.0#0.0
+person lifts their right arm up to their side and puts it back down again#person/NOUN lift/VERB their/DET right/ADJ arm/NOUN up/ADP to/ADP their/DET side/NOUN and/CCONJ put/VERB it/PRON back/ADV down/ADP again/ADV#0.0#2.0
+a person raises their right hand.#a/DET person/NOUN raise/VERB their/DET right/ADJ hand/NOUN#0.0#0.0

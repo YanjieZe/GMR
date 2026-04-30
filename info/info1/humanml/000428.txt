@@ -1,0 +1,3 @@
+person is balancing on left leg and kicking their leg about#person/NOUN is/AUX balance/VERB on/ADP left/ADJ leg/NOUN and/CCONJ kick/VERB their/DET leg/NOUN about/ADP#0.0#0.0
+a person is performing some leg stretches with the help of a support device.#a/DET person/NOUN is/AUX perform/VERB some/DET leg/NOUN stretch/NOUN with/ADP the/DET help/NOUN of/ADP a/DET support/NOUN device/NOUN#0.0#0.0
+someone stands on one foot and kicks the other foot around in the air.#someone/PRON stand/VERB on/ADP one/NUM foot/NOUN and/CCONJ kick/VERB the/DET other/ADJ foot/NOUN around/ADV in/ADP the/DET air/NOUN#0.0#0.0

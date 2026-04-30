@@ -1,0 +1,2 @@
+a man steps back and observes the area then walks aggressively forward.#a/DET man/NOUN step/VERB back/ADV and/CCONJ observe/VERB the/DET area/NOUN then/ADV walk/VERB aggressively/ADV forward/ADV#0.0#0.0
+a person puts their hands on their hips then lowers them#a/DET person/NOUN put/VERB their/DET hand/NOUN on/ADP their/DET hip/NOUN then/ADV lower/VERB them/PRON#0.0#0.0

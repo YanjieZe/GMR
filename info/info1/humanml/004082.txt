@@ -1,0 +1,3 @@
+a person does an over head press.#a/DET person/NOUN does/AUX an/DET over/ADJ head/NOUN press/NOUN#0.0#0.0
+a person is waving both of his raised hands.#a/DET person/NOUN is/AUX wave/VERB both/DET of/ADP his/DET raise/VERB hand/NOUN#0.0#0.0
+a person has legs apart with both arms in an upwoods motion they then move their arms up twice and sway side to side#a/DET person/NOUN has/AUX leg/NOUN apart/ADV with/ADP both/DET arm/NOUN in/ADP an/DET upwood/NOUN motion/NOUN they/PRON then/ADV move/VERB their/DET arm/NOUN up/ADV twice/ADV and/CCONJ sway/VERB side/NOUN to/PART side/VERB#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks forward, turns around, sits on a chair, and then stands back up.#a/DET person/NOUN walk/VERB forward/ADV turn/VERB around/ADV sit/VERB on/ADP a/DET chair/NOUN and/CCONJ then/ADV stand/VERB back/ADV up/ADV#0.0#0.0
+a person sits down then stands up turning his back to the viewer.#a/DET person/NOUN sit/VERB down/ADV then/ADV stand/VERB up/ADP turn/VERB his/DET back/NOUN to/ADP the/DET viewer/NOUN#0.0#0.0
+this person sits down then gets back up.#this/DET person/NOUN sit/VERB down/ADP then/ADV get/VERB back/ADV up/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person raises their right hand to their face.#a/DET person/NOUN raise/VERB their/DET right/ADJ hand/NOUN to/ADP their/DET face/NOUN#0.0#0.0
+a person brings their right arm towards their face/neck area.#a/DET person/NOUN bring/VERB their/DET right/ADJ arm/NOUN towards/ADP their/DET face/NOUN neck/NOUN area/NOUN#0.0#0.0
+a person standing still lifts their right arm to their mouth.#a/DET person/NOUN stand/VERB still/ADV lift/VERB their/DET right/ADJ arm/NOUN to/ADP their/DET mouth/NOUN#0.0#0.0

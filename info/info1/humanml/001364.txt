@@ -1,0 +1,3 @@
+a man walks into a wall and turns around#a/DET man/NOUN walk/VERB into/ADP a/DET wall/NOUN and/CCONJ turn/VERB around/ADV#0.0#0.0
+a person walks in a semi scircular motion to the right and then starts going to the left.#a/DET person/NOUN walk/VERB in/ADP a/DET semi/ADJ scircular/ADJ motion/NOUN to/ADP the/DET right/NOUN and/CCONJ then/ADV start/VERB go/VERB to/ADP the/DET left/NOUN#0.0#0.0
+person is walking around like looking for something.#person/NOUN is/AUX walk/VERB around/ADV like/SCONJ look/VERB for/ADP something/PRON#0.0#0.0

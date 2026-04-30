@@ -1,0 +1,3 @@
+a person is stretching arms out, brings the arms inward in a swimming motion, then brings the hands toward the center body#a/DET person/NOUN is/AUX stretch/VERB arm/NOUN out/ADV bring/VERB the/DET arm/NOUN inward/ADV in/ADP a/DET swimming/NOUN motion/NOUN then/ADV bring/VERB the/DET hand/NOUN toward/ADP the/DET center/NOUN body/NOUN#0.0#0.0
+a man lowers his arms and then reaches out and grabs items before gathering them in his arms.#a/DET man/NOUN lower/VERB his/DET arm/NOUN and/CCONJ then/ADV reach/VERB out/ADP and/CCONJ grab/NOUN item/NOUN before/ADP gather/VERB them/PRON in/ADP his/DET arm/NOUN#0.0#0.0
+a person waves around his hands.#a/DET person/NOUN wave/VERB around/ADP his/DET hand/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person is catching something and then throwing it.#a/DET person/NOUN is/AUX catch/VERB something/PRON and/CCONJ then/ADV throw/VERB it/PRON#0.0#0.0
+he is throwing and playing catch#he/PRON is/AUX throw/VERB and/CCONJ play/VERB catch/NOUN#0.0#0.0
+a man picks and up and throws something repeatedly.#a/DET man/NOUN pick/VERB and/CCONJ up/ADV and/CCONJ throw/VERB something/PRON repeatedly/ADV#0.0#0.0

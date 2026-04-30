@@ -1,0 +1,3 @@
+the man leans back, throws something with his left arm, and then steps forwards.#the/DET man/NOUN lean/VERB back/ADV throw/VERB something/PRON with/ADP his/DET left/ADJ arm/NOUN and/CCONJ then/ADV step/VERB forwards/ADV#0.0#0.0
+the sim appears to be playing table tennis or ping pong.#the/DET sim/PROPN appear/VERB to/PART be/AUX play/VERB table/NOUN tennis/NOUN or/CCONJ ping/NOUN pong/NOUN#0.0#0.0
+a person catches a ball with his right hand, steps back and then steps forward while throwing it.#a/DET person/NOUN catch/VERB a/DET ball/NOUN with/ADP his/DET right/ADJ hand/NOUN step/VERB back/ADV and/CCONJ then/ADV step/VERB forward/ADV while/SCONJ throw/VERB it/PRON#0.0#0.0

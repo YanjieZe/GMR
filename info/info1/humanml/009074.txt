@@ -1,0 +1,3 @@
+the man street his body .#the/DET man/PROPN street/VERB his/DET body/NOUN#0.0#0.0
+the man raises up and down on his toes raises his arms  then back up on his toes raises his arms and steps back.#the/DET man/NOUN raise/VERB up/ADP and/CCONJ down/ADV on/ADP his/DET toe/NOUN raise/VERB his/DET arm/NOUN then/ADV back/ADV up/ADP on/ADP his/DET toe/NOUN raise/VERB his/DET arm/NOUN and/CCONJ step/NOUN back/ADV#0.0#0.0
+a person holds stands on their toes and holds their arms up.#a/DET person/NOUN hold/VERB stand/VERB on/ADP their/DET toe/NOUN and/CCONJ hold/VERB their/DET arm/NOUN up/ADP#0.0#0.0

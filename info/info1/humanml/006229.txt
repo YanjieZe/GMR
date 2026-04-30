@@ -1,0 +1,3 @@
+a standing person raises both arms shoulder height and waves both arms in and out#a/DET stand/VERB person/NOUN raise/VERB both/DET arm/NOUN shoulder/NOUN height/NOUN and/CCONJ wave/VERB both/DET arm/NOUN in/ADP and/CCONJ out/ADV#0.0#0.0
+a person waves both their hands.#a/DET person/NOUN wave/VERB both/CCONJ their/DET hand/NOUN#0.0#0.0
+man lifting and waving his arms as if he is attempting to get someones attention.#man/NOUN lifting/PROPN and/CCONJ wave/VERB his/DET arm/NOUN as/SCONJ if/SCONJ he/PRON is/AUX attempt/VERB to/PART get/AUX someone/NOUN attention/NOUN#0.0#0.0

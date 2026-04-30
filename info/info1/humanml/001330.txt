@@ -1,0 +1,3 @@
+a person uses right arm to hit down to the left and then the left arm crosses over the right side of the body.#a/DET person/NOUN use/VERB right/ADJ arm/NOUN to/PART hit/VERB down/ADP to/ADP the/DET left/NOUN and/CCONJ then/ADV the/DET left/ADJ arm/NOUN crosse/NOUN over/ADP the/DET right/ADJ side/NOUN of/ADP the/DET body/NOUN#0.0#0.0
+right hand goes over and infront the left just goes in front#right/ADJ hand/NOUN go/VERB over/ADV and/CCONJ infront/VERB the/DET left/NOUN just/ADV go/VERB in/ADP front/NOUN#0.0#0.0
+a man swings his arm across his chest#a/DET man/NOUN swing/VERB his/DET arm/NOUN across/ADP his/DET chest/NOUN#0.0#0.0

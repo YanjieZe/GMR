@@ -1,0 +1,3 @@
+the man runs backwards then stops.#the/DET man/NOUN run/VERB backwards/ADV then/ADV stop/VERB#0.0#0.0
+a man quickly runs backwards.#a/DET man/NOUN quickly/ADV run/VERB backwards/ADV#0.0#0.0
+a man doing running drills.#a/DET man/NOUN do/VERB running/NOUN drill/NOUN#0.0#0.0

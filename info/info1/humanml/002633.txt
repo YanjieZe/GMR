@@ -1,0 +1,3 @@
+a person takes a small step forward#a/DET person/NOUN take/VERB a/DET small/ADJ step/NOUN forward/ADV#4.0#6.0
+a person stands still, and then stumbles a couple of steps forward abruptly without falling down.#a/DET person/NOUN stand/VERB still/ADV and/CCONJ then/ADV stumble/VERB a/DET couple/NOUN of/ADP step/NOUN forward/ADV abruptly/ADV without/ADP fall/VERB down/ADV#0.0#0.0
+a person is pushed forward one step..#a/DET person/NOUN is/AUX push/VERB forward/ADV one/NUM step/NOUN#0.0#0.0

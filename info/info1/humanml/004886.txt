@@ -1,0 +1,3 @@
+person is warming up by twisting their arms round in a circle and jogging on the spot#person/NOUN is/AUX warm/VERB up/ADP by/ADP twist/VERB their/DET arm/NOUN round/ADV in/ADP a/DET circle/NOUN and/CCONJ jog/VERB on/ADP the/DET spot/NOUN#0.0#0.0
+a person runs in place, swings his arms, then does jumping jacks.#a/DET person/NOUN run/VERB in/ADP place/NOUN swing/VERB his/DET arm/NOUN then/ADV does/AUX jump/VERB jack/NOUN#0.0#0.0
+a man is jogging in place and doing arm exercises#a/DET man/NOUN is/AUX jog/VERB in/ADP place/NOUN and/CCONJ do/VERB arm/NOUN exercise/NOUN#0.0#0.0

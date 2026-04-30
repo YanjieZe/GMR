@@ -1,0 +1,3 @@
+a person playing tennis and hitting the ball three times.#a/DET person/NOUN play/VERB tennis/NOUN and/CCONJ hit/VERB the/DET ball/NOUN three/NUM time/NOUN#0.0#0.0
+a man steps forward and backward quickly, while swinging his right arm forward each time#a/DET man/NOUN step/VERB forward/ADV and/CCONJ backward/ADV quickly/ADV while/SCONJ swinge/VERB his/DET right/ADJ arm/NOUN forward/ADV each/DET time/NOUN#0.0#0.0
+it looks like someone throwing something then on the last attempt it looks like someone rolling something.#it/PRON look/VERB like/SCONJ someone/PRON throw/VERB something/PRON then/ADV on/ADP the/DET last/ADJ attempt/NOUN it/PRON look/VERB like/SCONJ someone/PRON roll/VERB something/PRON#0.0#0.0

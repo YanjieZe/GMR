@@ -1,0 +1,3 @@
+he steps forward and turns around then walks around in a circle.#he/PRON step/VERB forward/ADV and/CCONJ turn/VERB around/ADP then/ADV walk/VERB around/ADV in/ADP a/DET circle/NOUN#0.0#0.0
+man takes tiny step forward turns counter clockwise then walks in a half circle to the left#man/NOUN take/VERB tiny/ADJ step/NOUN forward/ADV turn/VERB counter/NOUN clockwise/NOUN then/ADV walk/VERB in/ADP a/DET half/ADJ circle/NOUN to/ADP the/DET left/NOUN#0.0#0.0
+a man steps forward and then turns around and walks in a half circle.#a/DET man/NOUN step/VERB forward/ADV and/CCONJ then/ADV turn/VERB around/ADP and/CCONJ walk/VERB in/ADP a/DET half/ADJ circle/NOUN#0.0#0.0

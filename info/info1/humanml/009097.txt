@@ -1,0 +1,3 @@
+the person is cleaning freestyle.#the/DET person/NOUN is/AUX clean/VERB freestyle/PROPN#0.0#0.0
+a person is pushing something counterclockwise in a circle, stops and picks something up and tosses it.#a/DET person/NOUN is/AUX push/VERB something/PRON counterclockwise/NOUN in/ADP a/DET circle/NOUN stop/VERB and/CCONJ pick/VERB something/PRON up/ADP and/CCONJ toss/VERB it/PRON#0.0#0.0
+the person walks in a circlular path hunched over and moves their hands around at the end.#the/DET person/NOUN walk/VERB in/ADP a/DET circlular/ADJ path/NOUN hunch/VERB over/ADV and/CCONJ move/VERB their/DET hand/NOUN around/ADV at/ADP the/DET end/NOUN#0.0#0.0

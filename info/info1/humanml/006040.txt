@@ -1,0 +1,3 @@
+this person has arms raised as if to play a violin.#this/DET person/NOUN has/AUX arm/NOUN raise/VERB as/SCONJ if/SCONJ to/PART play/VERB a/DET violin/NOUN#0.0#0.0
+person standing with feed shoulder length apart, moving their right hand over their half-way extended left arm.#person/NOUN stand/VERB with/ADP feed/NOUN shoulder/NOUN length/NOUN apart/ADV move/VERB their/DET right/ADJ hand/NOUN over/ADP their/DET halfway/ADV extend/VERB left/ADJ arm/NOUN#0.0#0.0
+person is playing a violin.#person/NOUN is/AUX play/VERB a/DET violin/NOUN#0.0#0.0

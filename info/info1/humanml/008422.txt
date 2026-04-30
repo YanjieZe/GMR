@@ -1,0 +1,3 @@
+someone is standing and playing the piano.#someone/PRON is/AUX stand/VERB and/CCONJ play/VERB the/DET piano/NOUN#0.0#0.0
+a person is standing up while using both hands to play the piano.#a/DET person/NOUN is/AUX stand/VERB up/ADP while/SCONJ use/VERB both/DET hand/NOUN to/PART play/VERB the/DET piano/NOUN#0.0#0.0
+person has hands raised as if playing the piano, and reaches their left hand over the right to continue.#person/NOUN has/AUX hand/NOUN raise/VERB as/SCONJ if/SCONJ play/VERB the/DET piano/NOUN and/CCONJ reach/VERB their/DET left/ADJ hand/NOUN over/ADP the/DET right/NOUN to/PART continue/VERB#0.0#0.0

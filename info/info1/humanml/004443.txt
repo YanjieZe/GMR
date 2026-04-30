@@ -1,0 +1,3 @@
+person walks to the right and bends down looking for something , takes a few steps and walks again and bends down again.#person/NOUN walk/VERB to/ADP the/DET right/NOUN and/CCONJ bend/VERB down/ADP look/VERB for/ADP something/PRON take/VERB a/DET few/ADJ step/NOUN and/CCONJ walk/VERB again/ADV and/CCONJ bend/VERB down/ADP again/ADV#0.0#0.0
+a person walking and consistently bending over#a/DET person/NOUN walk/VERB and/CCONJ consistently/ADV bend/VERB over/ADP#0.0#0.0
+person walks in a curve from left to right bending at the hip to look down every couple steps#person/NOUN walk/VERB in/ADP a/DET curve/NOUN from/ADP left/VERB to/ADP right/ADJ bending/NOUN at/ADP the/DET hip/NOUN to/PART look/VERB down/ADP every/DET couple/NOUN step/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+this person uses both hands as if to mold something.#this/DET person/NOUN use/VERB both/DET hand/NOUN as/SCONJ if/SCONJ to/ADP mold/NOUN something/PRON#0.0#0.0
+a person puts something in a container, covers it with something and pats it.#a/DET person/NOUN put/VERB something/PRON in/ADP a/DET container/NOUN cover/VERB it/PRON with/ADP something/PRON and/CCONJ pat/VERB it/PRON#0.0#0.0
+a person uses his hands to pack a box#a/DET person/NOUN use/VERB his/DET hand/NOUN to/PART pack/VERB a/DET box/NOUN#0.0#0.0

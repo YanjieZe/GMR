@@ -1,0 +1,3 @@
+a person walks to his left.#a/DET person/NOUN walk/VERB to/ADP his/DET left/NOUN#0.0#0.0
+a person waves hand in front of his face swiftly from side to side then walks off.#a/DET person/NOUN wave/VERB hand/NOUN in/ADP front/NOUN of/ADP his/DET face/NOUN swiftly/ADV from/ADP side/NOUN to/PART side/VERB then/ADV walk/VERB off/ADP#0.0#0.0
+a standing person waves their left arm and then begins walking towards their left.#a/DET stand/VERB person/NOUN wave/VERB their/DET left/ADJ arm/NOUN and/CCONJ then/ADV begin/VERB walk/VERB towards/ADP their/DET left/NOUN#0.0#0.0

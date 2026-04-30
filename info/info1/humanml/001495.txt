@@ -1,0 +1,3 @@
+person clapping while standing up.#person/NOUN clap/VERB while/SCONJ stand/VERB up/ADP#1.0#3.0
+a person claps and then places arms back at their sides.#a/DET person/NOUN clap/VERB and/CCONJ then/ADV place/VERB arm/NOUN back/ADV at/ADP their/DET side/NOUN#0.0#0.0
+a person is clapping fast.#a/DET person/NOUN is/AUX clap/VERB fast/ADV#0.0#0.0

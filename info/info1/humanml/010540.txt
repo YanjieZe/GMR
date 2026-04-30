@@ -1,0 +1,3 @@
+a person raises their right foot and stomps it on the ground#a/DET person/NOUN raise/VERB their/DET right/ADJ foot/NOUN and/CCONJ stomp/VERB it/PRON on/ADP the/DET ground/NOUN#0.0#0.0
+a person stomps his right foot into the ground#a/DET person/NOUN stomp/VERB his/DET right/ADJ foot/NOUN into/ADP the/DET ground/NOUN#0.0#0.0
+a person raises their right foot and brings it down quickly.#a/DET person/NOUN raise/VERB their/DET right/ADJ foot/NOUN and/CCONJ bring/VERB it/PRON down/ADP quickly/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person does a defensive shuffle to the right and then to the left#a/DET person/NOUN does/AUX a/DET defensive/ADJ shuffle/NOUN to/ADP the/DET right/NOUN and/CCONJ then/ADV to/ADP the/DET left/NOUN#0.0#0.0
+the man takes one step foward, then 4 steps left. then 5 steps right.#the/DET man/NOUN take/VERB one/NUM step/NOUN foward/NOUN then/ADV step/NOUN left/VERB then/ADV step/NOUN right/ADJ#0.0#0.0
+a person takes several sidesteps to the right, then several sidesteps to the left#a/DET person/NOUN take/VERB several/ADJ sidestep/NOUN to/ADP the/DET right/NOUN then/ADV several/ADJ sidestep/NOUN to/ADP the/DET left/NOUN#0.0#0.0

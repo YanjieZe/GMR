@@ -1,0 +1,3 @@
+a person uses hands to eat soup.#a/DET person/NOUN use/VERB hand/NOUN to/PART eat/VERB soup/NOUN#0.0#0.0
+a person is eating something.#a/DET person/NOUN is/AUX eat/VERB something/PRON#0.0#0.0
+the person is standing still and appears to be lifting a container, opening or unscrewing the top of that container, and raising it to where the face would be, as if to take a sip.#the/DET person/NOUN is/AUX stand/VERB still/ADV and/CCONJ appear/VERB to/PART be/AUX lift/VERB a/DET container/NOUN opening/NOUN or/CCONJ unscrew/VERB the/DET top/NOUN of/ADP that/DET container/NOUN and/CCONJ raise/VERB it/PRON to/ADP where/ADV the/DET face/NOUN would/VERB be/AUX as/SCONJ if/SCONJ to/PART take/VERB a/DET sip/NOUN#0.0#0.0

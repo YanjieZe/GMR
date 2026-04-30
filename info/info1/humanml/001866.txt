@@ -1,0 +1,3 @@
+person stumbles around blindly going left to right finishing facing forward#person/NOUN stumble/VERB around/ADP blindly/ADV go/VERB left/ADV to/ADP right/ADV finishing/NOUN face/VERB forward/ADV#0.0#0.0
+someone walks disoriented looking for something or someone#someone/PRON walk/VERB disorient/VERB look/VERB for/ADP something/PRON or/CCONJ someone/PRON#0.0#0.0
+a person takes uneven steps while holding their arms out in front of them, turning a few times in different directions.#a/DET person/NOUN take/VERB uneven/ADJ step/NOUN while/SCONJ hold/VERB their/DET arm/NOUN out/ADP in/ADP front/NOUN of/ADP them/PRON turn/VERB a/DET few/ADJ time/NOUN in/ADP different/ADJ direction/NOUN#0.0#0.0

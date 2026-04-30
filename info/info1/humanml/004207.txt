@@ -1,0 +1,3 @@
+a man walks gently forwards a few steps.#a/DET man/NOUN walk/VERB gently/ADV forward/VERB a/DET few/ADJ step/NOUN#0.0#0.0
+a person takes 3-4 steps forward.#a/DET person/NOUN take/VERB step/NOUN forward/ADV#0.0#0.0
+a person walks a straight line, swaying slightly#a/DET person/NOUN walk/VERB a/DET straight/ADJ line/NOUN sway/VERB slightly/ADV#0.0#0.0

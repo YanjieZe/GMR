@@ -1,0 +1,3 @@
+a person walks forward, crouches, then walks back#a/DET person/NOUN walk/VERB forward/ADV crouch/NOUN then/ADV walk/VERB back/ADV#0.0#0.0
+a person walks forwards then turns around and sits down.#a/DET person/NOUN walk/VERB forward/NOUN then/ADV turn/VERB around/ADP and/CCONJ sit/VERB down/ADP#0.0#0.0
+a person walks straight forward then turns around and squats down in a sitting position. they hold that for a couple seconds then stand back up and walk back#a/DET person/NOUN walk/VERB straight/ADV forward/ADV then/ADV turn/VERB around/ADP and/CCONJ squat/VERB down/ADP in/ADP a/DET sit/VERB position/NOUN they/PRON hold/VERB that/DET for/ADP a/DET couple/NOUN second/NOUN then/ADV stand/VERB back/ADV up/ADV and/CCONJ walk/VERB back/ADV#0.0#0.0

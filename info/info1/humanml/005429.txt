@@ -1,0 +1,3 @@
+the man crawls to the right then to the left.#the/DET man/NOUN crawl/VERB to/ADP the/DET right/NOUN then/ADV to/ADP the/DET left/NOUN#0.0#0.0
+kneeling then crawling on floor.#kneel/VERB then/ADV crawl/VERB on/ADP floor/NOUN#0.0#0.0
+person kneels down and starts crawling from left to right.#person/NOUN kneel/VERB down/ADP and/CCONJ start/VERB crawl/VERB from/ADP left/ADJ to/ADP right/NOUN#0.0#0.0

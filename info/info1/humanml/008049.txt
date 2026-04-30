@@ -1,0 +1,3 @@
+a person gestures tauntingly while turning to face something.#a/DET person/NOUN gesture/VERB tauntingly/ADV while/SCONJ turn/VERB to/PART face/VERB something/PRON#0.0#0.0
+a person walks from side to side while holding its right arm with left hand waving, and then walks back.#a/DET person/NOUN walk/VERB from/ADP side/NOUN to/PART side/NOUN while/SCONJ hold/VERB its/DET right/ADJ arm/NOUN with/ADP left/ADJ hand/NOUN waving/NOUN and/CCONJ then/ADV walk/VERB back/ADV#0.0#10.0
+man seems to be in a fight#man/NOUN seem/VERB to/PART be/AUX in/ADP a/DET fight/NOUN#0.0#0.0

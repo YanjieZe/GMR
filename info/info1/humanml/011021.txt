@@ -1,0 +1,3 @@
+the person ducked to avoid being hit by some thing that was flying.#the/DET person/NOUN duck/VERB to/PART avoid/VERB being/AUX hit/VERB by/ADP some/DET thing/NOUN that/DET was/AUX fly/VERB#0.0#0.0
+person bends down and look forward#person/NOUN bend/VERB down/ADP and/CCONJ look/VERB forward/ADV#0.0#0.0
+a person ducks down and puts their hands on their hand as if avoiding something flying towards them#a/DET person/NOUN duck/VERB down/ADP and/CCONJ put/VERB their/DET hand/NOUN on/ADP their/DET hand/NOUN as/SCONJ if/SCONJ avoid/VERB something/PRON fly/VERB towards/ADP them/PRON#0.0#0.0

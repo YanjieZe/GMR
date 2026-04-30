@@ -1,0 +1,3 @@
+a person turns to the left, then looks at left wrist.#a/DET person/NOUN turn/VERB to/ADP the/DET left/NOUN then/ADV look/VERB at/ADP left/ADJ wrist/NOUN#0.0#0.0
+person standing to the side and checking his or her watch.#person/NOUN stand/VERB to/ADP the/DET side/NOUN and/CCONJ check/VERB his/DET or/CCONJ her/DET watch/NOUN#0.0#0.0
+a person steps foreward and to their right, then turns to face their left#a/DET person/NOUN step/VERB foreward/NOUN and/CCONJ to/ADP their/DET right/NOUN then/ADV turn/VERB to/PART face/VERB their/DET left/VERB#0.0#0.0

@@ -1,0 +1,3 @@
+the person threw both hands up.#the/DET person/NOUN throw/VERB both/DET hand/NOUN up/ADP#0.0#0.0
+a person jumps with both arms in air.#a/DET person/NOUN jump/VERB with/ADP both/DET arm/NOUN in/ADP air/NOUN#0.0#0.0
+he starts throwing both hands#he/PRON start/VERB throw/VERB both/DET hand/NOUN#0.0#0.0

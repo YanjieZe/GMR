@@ -1,0 +1,3 @@
+a person throwing a left punch and subsequently a right kick.#a/DET person/NOUN throw/VERB a/DET left/ADJ punch/NOUN and/CCONJ subsequently/ADV a/DET right/ADJ kick/NOUN#0.0#0.0
+a person angrily punches forward with their left hand, then kicks forward with their right leg#a/DET person/NOUN angrily/ADV punch/VERB forward/ADV with/ADP their/DET left/ADJ hand/NOUN then/ADV kick/VERB forward/ADV with/ADP their/DET right/ADJ leg/NOUN#0.0#0.0
+a man uses his left arm to swing a punch and then his right leg to kick.#a/DET man/NOUN use/VERB his/DET left/ADJ arm/NOUN to/PART swing/VERB a/DET punch/NOUN and/CCONJ then/ADV his/DET right/ADJ leg/NOUN to/PART kick/VERB#0.0#0.0

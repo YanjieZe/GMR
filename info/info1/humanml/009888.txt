@@ -1,0 +1,3 @@
+a person jogs quickly in place with his arms moving energetically, before ending in a standing position.#a/DET person/NOUN jog/VERB quickly/ADV in/ADP place/NOUN with/ADP his/DET arm/NOUN move/VERB energetically/ADV before/ADP end/VERB in/ADP a/DET standing/ADJ position/NOUN#0.0#0.0
+a person does several alternating-foot jumps while swinging both hands as if running.#a/DET person/NOUN does/AUX several/ADJ alternatingfoot/NOUN jump/NOUN while/SCONJ swinge/VERB both/DET hand/NOUN as/SCONJ if/SCONJ running/NOUN#0.0#0.0
+this person jogs in place at a quick motion.#this/DET person/NOUN jog/VERB in/ADP place/NOUN at/ADP a/DET quick/ADJ motion/NOUN#0.0#0.0

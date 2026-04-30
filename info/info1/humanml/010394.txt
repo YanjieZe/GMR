@@ -1,0 +1,3 @@
+the person holds their hands together and moves as if playing tennis.#the/DET person/NOUN hold/VERB their/DET hand/NOUN together/ADV and/CCONJ move/VERB as/SCONJ if/SCONJ play/VERB tennis/NOUN#0.0#0.0
+arms together are swung forward to the right, taking large steps back and forth, and gives another swing forward to the right with both arms.#arm/NOUN together/ADV are/AUX swing/VERB forward/ADV to/ADP the/DET right/NOUN take/VERB large/ADJ step/NOUN back/ADV and/CCONJ forth/ADV and/CCONJ give/VERB another/DET swing/NOUN forward/ADV to/ADP the/DET right/NOUN with/ADP both/DET arm/NOUN#0.0#0.0
+a person is playing tennis#a/DET person/NOUN is/AUX play/VERB tennis/NOUN#0.0#0.0

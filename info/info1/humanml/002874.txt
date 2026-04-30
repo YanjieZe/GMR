@@ -1,0 +1,3 @@
+he stands with his legs bent and arms raised to shoulder level and places his hands on his knees.#he/PRON stand/VERB with/ADP his/DET leg/NOUN bent/ADJ and/CCONJ arm/NOUN raise/VERB to/ADP shoulder/NOUN level/NOUN and/CCONJ place/VERB his/DET hand/NOUN on/ADP his/DET knee/NOUN#0.0#0.0
+the man drops his hand to his knees pauses then raises his arms again.#the/DET man/NOUN drop/VERB his/DET hand/NOUN to/ADP his/DET knee/NOUN pause/NOUN then/ADV raise/VERB his/DET arm/NOUN again/ADV#0.0#0.0
+a person lifting both arms, and holding them up.#a/DET person/NOUN lift/VERB both/DET arm/NOUN and/CCONJ hold/VERB them/PRON up/ADP#0.0#0.0

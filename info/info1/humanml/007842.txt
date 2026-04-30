@@ -1,0 +1,3 @@
+a person walks forward diagonally.#a/DET person/NOUN walk/VERB forward/ADV diagonally/ADV#0.0#0.0
+a person is walking forward.#a/DET person/NOUN is/AUX walk/VERB forward/ADV#0.0#0.0
+he walks forward directly then stop#he/PRON walk/VERB forward/ADV directly/ADV then/ADV stop/VERB#0.0#0.0

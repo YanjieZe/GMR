@@ -1,0 +1,3 @@
+the man is moving his hands around in the motion of cleaning what's his right arm.#the/DET man/NOUN is/AUX move/VERB his/DET hand/NOUN around/ADV in/ADP the/DET motion/NOUN of/ADP clean/VERB what/PRON his/DET right/ADJ arm/NOUN#0.0#0.0
+a person motions as if washing their hands and arm before reaching for a towel.#a/DET person/NOUN motion/NOUN as/SCONJ if/SCONJ wash/VERB their/DET hand/NOUN and/CCONJ arm/NOUN before/ADP reach/VERB for/ADP a/DET towel/NOUN#0.0#0.0
+person is washing his right arm.#person/NOUN is/AUX wash/VERB his/DET right/ADJ arm/NOUN#0.0#0.0

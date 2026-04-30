@@ -1,0 +1,3 @@
+a person moves around while expressing deep frustrations#a/DET person/NOUN move/VERB around/ADP while/SCONJ express/VERB deep/ADJ frustration/NOUN#0.0#0.0
+man waling in a circular fashion gesturing in a aggravated fashion#man/PROPN wale/VERB in/ADP a/DET circular/ADJ fashion/NOUN gesture/VERB in/ADP a/DET aggravate/VERB fashion/NOUN#0.0#0.0
+someone appears to be arguing while they are pacing and moving their hands angrily#someone/PRON appear/VERB to/PART be/AUX argue/VERB while/SCONJ they/PRON are/AUX pace/VERB and/CCONJ move/VERB their/DET hand/NOUN angrily/ADV#0.0#0.0

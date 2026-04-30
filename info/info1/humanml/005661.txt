@@ -1,0 +1,3 @@
+a person bows head deeply.#a/DET person/NOUN bow/VERB head/NOUN deeply/ADV#0.0#0.0
+a man leans forwards with his head looking at the ground whilst his arms remain by his side, then leans back to his original position.#a/DET man/NOUN lean/VERB forwards/ADV with/ADP his/DET head/NOUN look/VERB at/ADP the/DET ground/NOUN whilst/SCONJ his/DET arm/NOUN remain/VERB by/ADP his/DET side/NOUN then/ADV lean/VERB back/ADV to/ADP his/DET original/ADJ position/NOUN#0.0#0.0
+a man bends at the waste deeply in front of him.#a/DET man/NOUN bend/VERB at/ADP the/DET waste/NOUN deeply/ADV in/ADP front/NOUN of/ADP him/PRON#0.0#0.0

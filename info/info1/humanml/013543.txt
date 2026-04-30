@@ -1,0 +1,3 @@
+a person made a micro move to bent the knee#a/DET person/NOUN make/VERB a/DET micro/ADJ move/NOUN to/PART bent/VERB the/DET knee/NOUN#0.0#0.0
+a person is crouched down#a/DET person/NOUN is/AUX crouch/VERB down/ADP#0.0#0.0
+this person is sitting without movement.#this/DET person/NOUN is/AUX sit/VERB without/ADP movement/NOUN#0.0#0.0

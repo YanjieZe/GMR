@@ -1,0 +1,3 @@
+a person runs forwards quickly.#a/DET person/NOUN run/VERB forwards/ADP quickly/ADV#0.0#0.0
+the person is running to the right.#the/DET person/NOUN is/AUX run/VERB to/ADP the/DET right/NOUN#0.0#0.0
+a person runs forward and stops.#a/DET person/NOUN run/VERB forward/ADV and/CCONJ stop/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks forward, clumsily turns and walks back.#a/DET person/NOUN walk/VERB forward/ADV clumsily/ADV turn/VERB and/CCONJ walk/VERB back/ADV#0.0#0.0
+the man takes 2 steps forward then swings around and walks back.#the/DET man/NOUN take/VERB step/NOUN forward/ADV then/ADV swing/VERB around/ADV and/CCONJ walk/VERB back/ADV#0.0#0.0
+the figure takes a few steps forward and does a quick spin (180 degrees) on their left heel and swaying as they step out of the turn.#the/DET figure/NOUN take/VERB a/DET few/ADJ step/NOUN forward/ADV and/CCONJ does/AUX a/DET quick/ADJ spin/NOUN degree/NOUN on/ADP their/DET left/ADJ heel/NOUN and/CCONJ sway/VERB as/SCONJ they/PRON step/VERB out/SCONJ of/ADP the/DET turn/NOUN#0.0#0.0

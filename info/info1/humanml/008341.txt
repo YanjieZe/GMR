@@ -1,0 +1,3 @@
+a person who seems to be drinking something#a/DET person/NOUN who/PRON seem/VERB to/PART be/AUX drink/VERB something/PRON#0.0#0.0
+a person lifts their right hand up to their head, scratches, and then lowers their arm back to their side.#a/DET person/NOUN lift/VERB their/DET right/ADJ hand/NOUN up/ADP to/ADP their/DET head/NOUN scratch/VERB and/CCONJ then/ADV lower/VERB their/DET arm/NOUN back/ADV to/ADP their/DET side/NOUN#0.0#0.0
+a man using his right hand to scratch the top of his head.#a/DET man/NOUN use/VERB his/DET right/ADJ hand/NOUN to/PART scratch/VERB the/DET top/NOUN of/ADP his/DET head/NOUN#0.0#0.0

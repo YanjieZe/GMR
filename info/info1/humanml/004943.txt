@@ -1,0 +1,3 @@
+person gets up from sitting on their knees#person/NOUN get/VERB up/ADV from/ADP sit/VERB on/ADP their/DET knee/NOUN#0.0#0.0
+person is on knees then getting up.#person/NOUN is/AUX on/ADP knee/NOUN then/ADV get/VERB up/ADV#0.0#0.0
+someone is on their knees and they are then getting up and walking away#someone/PRON is/AUX on/ADP their/DET knee/NOUN and/CCONJ they/PRON are/AUX then/ADV get/VERB up/ADP and/CCONJ walk/VERB away/ADV#0.0#0.0

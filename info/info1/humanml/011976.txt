@@ -1,0 +1,3 @@
+a person waves with left hand.#a/DET person/NOUN wave/VERB with/ADP left/ADJ hand/NOUN#0.0#0.0
+robot standing and started to wave with his left hand.#robot/PROPN standing/PROPN and/CCONJ start/VERB to/PART wave/VERB with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0
+the motion is showing hi#the/DET motion/NOUN is/AUX show/VERB hi/INTJ#1.0#4.0

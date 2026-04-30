@@ -1,0 +1,3 @@
+a figure walks forward a few steps then walks backward then walks forward again#a/DET figure/NOUN walk/VERB forward/ADV a/DET few/ADJ step/NOUN then/ADV walk/VERB backward/ADJ then/ADV walk/VERB forward/ADV again/ADV#0.0#0.0
+this person takes a couple of step forward then walks back to start again.#this/DET person/NOUN take/VERB a/DET couple/NOUN of/ADP step/NOUN forward/ADV then/ADV walk/VERB back/ADV to/PART start/VERB again/ADV#0.0#0.0
+a person walks forward, backward and forward again.#a/DET person/NOUN walk/VERB forward/ADV backward/ADV and/CCONJ forward/ADV again/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person is rocking a baby#a/DET person/NOUN is/AUX rock/VERB a/DET baby/NOUN#0.0#0.0
+a man stands cradling something in his arms rocking it back and forth, brings it up to his face, and then begins rocking it again.#a/DET man/NOUN stand/VERB cradle/VERB something/PRON in/ADP his/DET arm/NOUN rock/VERB it/PRON back/ADV and/CCONJ forth/ADV bring/VERB it/PRON up/ADP to/ADP his/DET face/NOUN and/CCONJ then/ADV begin/VERB rock/VERB it/PRON again/ADV#0.0#0.0
+a person rocks a baby, hold the baby up, then continues to rock the baby.#a/DET person/NOUN rock/VERB a/DET baby/NOUN hold/VERB the/DET baby/NOUN up/ADP then/ADV continue/VERB to/PART rock/VERB the/DET baby/NOUN#0.0#0.0

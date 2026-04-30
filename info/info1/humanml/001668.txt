@@ -1,0 +1,3 @@
+man raises arms over the head but feet stay on ground.#man/NOUN raise/VERB arm/NOUN over/ADP the/DET head/NOUN but/CCONJ foot/NOUN stay/VERB on/ADP ground/NOUN#0.0#0.0
+the person is standing and raises his arms up in the air and then back down again#the/DET person/NOUN is/AUX stand/VERB and/CCONJ raise/VERB his/DET arm/NOUN up/ADP in/ADP the/DET air/NOUN and/CCONJ then/ADV back/ADV down/ADP again/ADV#0.0#0.0
+the person is waving hands up.#the/DET person/NOUN is/AUX wave/VERB hand/NOUN up/ADP#0.0#0.0

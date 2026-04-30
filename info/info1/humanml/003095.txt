@@ -1,0 +1,3 @@
+a man steps back, picks something up and put it to his head and then puts it back.#a/DET man/NOUN step/VERB back/ADV pick/VERB something/PRON up/ADP and/CCONJ put/VERB it/PRON to/ADP his/DET head/NOUN and/CCONJ then/ADV put/VERB it/PRON back/ADV#0.0#0.0
+the man steps back picks up some food and takes a bite then sets it back on the table.#the/DET man/NOUN step/VERB back/ADV pick/NOUN up/ADP some/DET food/NOUN and/CCONJ take/VERB a/DET bite/NOUN then/ADV set/VERB it/PRON back/ADV on/ADP the/DET table/NOUN#0.0#0.0
+person picks up phone and starts talking, then puts phone back down#person/NOUN pick/VERB up/ADP phone/NOUN and/CCONJ start/VERB talk/VERB then/ADV put/VERB phone/NOUN back/ADV down/ADP#0.0#0.0

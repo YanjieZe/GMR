@@ -1,0 +1,3 @@
+a person flips his right arm in frustration.#a/DET person/NOUN flip/VERB his/DET right/ADJ arm/NOUN in/ADP frustration/NOUN#0.0#0.0
+a figure swings its right arm to the left in frustration, then puts its hands into the air towards its head in equal frustration.#a/DET figure/NOUN swing/VERB its/DET right/ADJ arm/NOUN to/ADP the/DET left/NOUN in/ADP frustration/NOUN then/ADV put/VERB its/DET hand/NOUN into/ADP the/DET air/NOUN towards/ADP its/DET head/NOUN in/ADP equal/ADJ frustration/NOUN#0.0#0.0
+a person is swinging around his arms.#a/DET person/NOUN is/AUX swinge/VERB around/ADP his/DET arm/NOUN#0.0#0.0

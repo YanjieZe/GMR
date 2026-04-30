@@ -1,0 +1,3 @@
+stick figure is holding its arms up before folding them down to his side#stick/PROPN figure/NOUN is/AUX hold/VERB its/DET arm/NOUN up/ADV before/ADP fold/VERB them/PRON down/ADP to/ADP his/DET side/NOUN#1.0#3.0
+he moves his hands up and down#he/PRON move/VERB his/DET hand/NOUN up/ADV and/CCONJ down/ADP#0.0#0.0
+the person closes their arm then move things on the shelf#the/DET person/NOUN close/VERB their/DET arm/NOUN then/ADV move/VERB thing/NOUN on/ADP the/DET shelf/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person is walking in place.#a/DET person/NOUN is/AUX walk/VERB in/ADP place/NOUN#0.0#0.0
+the person walks in place for several steps.#the/DET person/NOUN walk/VERB in/ADP place/NOUN for/ADP several/ADJ step/NOUN#0.0#0.0
+a person walks stationary on a treadmill.#a/DET person/NOUN walk/VERB stationary/ADJ on/ADP a/DET treadmill/NOUN#0.0#0.0

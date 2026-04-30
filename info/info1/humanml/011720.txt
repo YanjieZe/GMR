@@ -1,0 +1,3 @@
+a person with their hand to their head look around then walks backwards#a/DET person/NOUN with/ADP their/DET hand/NOUN to/ADP their/DET head/NOUN look/VERB around/ADV then/ADV walk/VERB backwards/ADV#0.0#0.0
+a person has right hand up to face then walks backwards.#a/DET person/NOUN has/AUX right/ADJ hand/NOUN up/ADP to/PART face/NOUN then/ADV walk/VERB backwards/ADV#0.0#8.0
+person look like they were getting sick.#person/NOUN look/VERB like/SCONJ they/PRON were/AUX get/VERB sick/ADJ#0.0#0.0

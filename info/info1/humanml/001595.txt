@@ -1,0 +1,3 @@
+a person flails their arms aroud like a monkey, and does a karate kick#a/DET person/NOUN flail/VERB their/DET arm/NOUN aroud/ADV like/SCONJ a/DET monkey/NOUN and/CCONJ does/AUX a/DET karate/NOUN kick/VERB#0.0#0.0
+he dances using monkey like movements with his arms.#he/PRON dance/VERB use/VERB monkey/NOUN like/SCONJ movement/NOUN with/ADP his/DET arm/NOUN#0.0#0.0
+person lifts right leg while tilting to left side with hands above head.#person/NOUN lift/VERB right/ADJ leg/NOUN while/SCONJ tilt/VERB to/ADP left/ADJ side/NOUN with/ADP hand/NOUN above/ADP head/NOUN#0.0#0.0

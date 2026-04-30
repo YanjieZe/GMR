@@ -1,0 +1,3 @@
+person picks someting up and then puts it back down#person/NOUN pick/VERB somete/VERB up/ADP and/CCONJ then/ADV put/VERB it/PRON back/ADV down/ADP#0.0#0.0
+a figure lifts something from waist height on the left and sets it down shoulder height on the right#a/DET figure/NOUN lift/VERB something/PRON from/ADP waist/NOUN height/NOUN on/ADP the/DET left/NOUN and/CCONJ set/VERB it/PRON down/ADP shoulder/NOUN height/NOUN on/ADP the/DET right/NOUN#0.0#0.0
+a person rotates an object to the right side of their body and returns the object to their front#a/DET person/NOUN rotate/VERB an/DET object/NOUN to/ADP the/DET right/ADJ side/NOUN of/ADP their/DET body/NOUN and/CCONJ return/VERB the/DET object/NOUN to/ADP their/DET front/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person puts both hands together grasping an object and swings to their left.#a/DET person/NOUN put/VERB both/DET hand/NOUN together/ADV grasp/VERB an/DET object/NOUN and/CCONJ swing/VERB to/ADP their/DET left/NOUN#0.0#0.0
+a person is using a golf club to swing at a ball lightly.#a/DET person/NOUN is/AUX use/VERB a/DET golf/NOUN club/NOUN to/PART swing/VERB at/ADP a/DET ball/NOUN lightly/ADV#0.0#0.0
+a person who is playing golf#a/DET person/NOUN who/PRON is/AUX play/VERB golf/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+person stands with elbows bent and hands tucked in close to the body, then flaps both arms up and down.#person/NOUN stand/VERB with/ADP elbow/NOUN bent/ADJ and/CCONJ hand/NOUN tuck/VERB in/ADV close/ADV to/ADP the/DET body/NOUN then/ADV flap/VERB both/DET arm/NOUN up/ADV and/CCONJ down/ADV#0.0#0.0
+both arms bent forward chicken wing flaps to right and left#both/DET arm/NOUN bent/ADJ forward/ADV chicken/NOUN wing/NOUN flap/NOUN to/ADP right/NOUN and/CCONJ left/VERB#0.0#0.0
+a person bend the arms and start to shake them#a/DET person/NOUN bend/VERB the/DET arm/NOUN and/CCONJ start/VERB to/PART shake/VERB them/PRON#0.0#10.0

@@ -1,0 +1,3 @@
+person raising both hands and arms, and slightly jumping up and down#person/NOUN raise/VERB both/DET hand/NOUN and/CCONJ arm/NOUN and/CCONJ slightly/ADV jump/VERB up/ADP and/CCONJ down/ADP#0.0#0.0
+a man has both of his arms raised in the air.#a/DET man/NOUN has/AUX both/DET of/ADP his/DET arm/NOUN raise/VERB in/ADP the/DET air/NOUN#0.0#0.0
+person has arms shoulder height and does a slight bounce  on both legs shoulder length apart#person/NOUN has/AUX arm/NOUN shoulder/NOUN height/NOUN and/CCONJ does/AUX a/DET slight/ADJ bounce/NOUN on/ADP both/DET leg/NOUN shoulder/NOUN length/NOUN apart/ADV#0.0#0.0

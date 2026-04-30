@@ -1,0 +1,3 @@
+a person takes a big step backwards.#a/DET person/NOUN take/VERB a/DET big/ADJ step/NOUN backwards/ADV#0.0#0.0
+a person takes a step to the right and then slides his left foot that way.#a/DET person/NOUN take/VERB a/DET step/NOUN to/ADP the/DET right/NOUN and/CCONJ then/ADV slide/VERB his/DET left/ADJ foot/NOUN that/DET way/NOUN#0.0#0.0
+a person who is standing with his hands by his sides quickly takes one step backwards and to his right.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP his/DET hand/NOUN by/ADP his/DET side/NOUN quickly/ADV take/VERB one/NUM step/NOUN backwards/ADV and/CCONJ to/ADP his/DET right/NOUN#0.0#0.0

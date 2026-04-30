@@ -1,0 +1,3 @@
+a person shifts their midsection in a circular motion.#a/DET person/NOUN shift/VERB their/DET midsection/NOUN in/ADP a/DET circular/ADJ motion/NOUN#0.0#0.0
+the upwards body goes around in a clockwise circle.#the/DET upwards/ADJ body/NOUN go/VERB around/ADV in/ADP a/DET clockwise/ADJ circle/NOUN#0.0#0.0
+a person standing in place with arms out to sides gyrates torso in clockwise motion, then stops and swivels hips.#a/DET person/NOUN stand/VERB in/ADP place/NOUN with/ADP arm/NOUN out/SCONJ to/ADP side/NOUN gyrate/VERB torso/VERB in/ADP clockwise/ADJ motion/NOUN then/ADV stop/VERB and/CCONJ swivel/VERB hip/NOUN#0.0#0.0

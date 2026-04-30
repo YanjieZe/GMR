@@ -1,0 +1,3 @@
+a person quickly pours something out in the lower table in front of them with their left hand.#a/DET person/NOUN quickly/ADV pour/VERB something/PRON out/ADP in/ADP the/DET lower/ADJ table/NOUN in/ADP front/NOUN of/ADP them/PRON with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0
+a person walks forward, pets something with their left hand and then, steps back.#a/DET person/NOUN walk/VERB forward/ADV pet/NOUN something/PRON with/ADP their/DET left/ADJ hand/NOUN and/CCONJ then/ADV step/VERB back/ADV#0.0#0.0
+the person bends over to pour something away#the/DET person/NOUN bend/VERB over/ADP to/PART pour/VERB something/PRON away/ADV#0.0#0.0

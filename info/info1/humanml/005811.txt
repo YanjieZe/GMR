@@ -1,0 +1,3 @@
+this person moves left and right in a circular motion as if to dance.#this/DET person/NOUN move/VERB left/VERB and/CCONJ right/ADV in/ADP a/DET circular/ADJ motion/NOUN as/SCONJ if/SCONJ to/PART dance/VERB#0.0#0.0
+a person performing salsa dance#a/DET person/NOUN perform/VERB salsa/PROPN dance/PROPN#0.0#0.0
+a person spins in a clockwise circle as if their dancing before walking away.#a/DET person/NOUN spin/VERB in/ADP a/DET clockwise/NOUN circle/NOUN as/SCONJ if/SCONJ their/DET dancing/NOUN before/ADP walk/VERB away/ADV#0.0#0.0

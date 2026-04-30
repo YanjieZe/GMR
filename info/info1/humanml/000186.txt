@@ -1,0 +1,3 @@
+a person limps in a jagged line to the left, and then the right, while holding their right knee.#a/DET person/NOUN limp/VERB in/ADP a/DET jagged/ADJ line/NOUN to/ADP the/DET left/NOUN and/CCONJ then/ADV the/DET right/NOUN while/SCONJ hold/VERB their/DET right/ADJ knee/NOUN#0.0#0.0
+a person is walking and has injured their leg#a/DET person/NOUN is/AUX walk/VERB and/CCONJ has/AUX injure/VERB their/DET leg/NOUN#0.0#0.0
+a person walks unevenly while crouching down#a/DET person/NOUN walk/VERB unevenly/ADV while/SCONJ crouch/VERB down/ADP#0.0#0.0

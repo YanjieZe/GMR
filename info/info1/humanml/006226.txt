@@ -1,0 +1,3 @@
+the person is making a call and then putting the phone back.#the/DET person/NOUN is/AUX make/VERB a/DET call/NOUN and/CCONJ then/ADV put/VERB the/DET phone/NOUN back/ADV#0.0#0.0
+a squatting man puts a phone to his ear and talks.#a/DET squat/VERB man/NOUN put/VERB a/DET phone/NOUN to/ADP his/DET ear/NOUN and/CCONJ talk/NOUN#0.0#0.0
+a man is sitting and cheering by clapping his hands and bringing his right hand above his head.#a/DET man/NOUN is/AUX sit/VERB and/CCONJ cheer/VERB by/ADP clap/VERB his/DET hand/NOUN and/CCONJ bring/VERB his/DET right/ADJ hand/NOUN above/ADP his/DET head/NOUN#0.0#0.0

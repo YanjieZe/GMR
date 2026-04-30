@@ -1,0 +1,3 @@
+a standing person raises their right arm and points towards their left, then points straight ahead and lowers their arm.#a/DET stand/VERB person/NOUN raise/VERB their/DET right/ADJ arm/NOUN and/CCONJ point/NOUN towards/ADP their/DET left/NOUN then/ADV point/VERB straight/ADV ahead/ADV and/CCONJ lower/VERB their/DET arm/NOUN#0.0#0.0
+a person extends their right hand, moves the hand to the right and puts it back down.#a/DET person/NOUN extend/VERB their/DET right/ADJ hand/NOUN move/VERB the/DET hand/NOUN to/ADP the/DET right/NOUN and/CCONJ put/VERB it/PRON back/ADV down/ADP#0.0#0.0
+the man extends his right arm in front of him.#the/DET man/NOUN extend/VERB his/DET right/ADJ arm/NOUN in/ADP front/NOUN of/ADP him/PRON#0.0#0.0

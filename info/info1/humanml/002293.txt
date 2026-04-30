@@ -1,0 +1,3 @@
+a man stretches his shoulders and rotates his both arms and then stretches his right foot too.#a/DET man/NOUN stretch/VERB his/DET shoulder/NOUN and/CCONJ rotate/VERB his/DET both/DET arm/NOUN and/CCONJ then/ADV stretch/VERB his/DET right/ADJ foot/NOUN too/ADV#0.0#0.0
+a person does arm stretches and then begins to stretch their ankles.#a/DET person/NOUN does/AUX arm/NOUN stretch/NOUN and/CCONJ then/ADV begin/VERB to/PART stretch/VERB their/DET ankle/NOUN#0.0#0.0
+a person spins their arms outward in a circle.#a/DET person/NOUN spin/VERB their/DET arm/NOUN outward/ADV in/ADP a/DET circle/NOUN#0.0#0.0

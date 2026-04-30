@@ -1,0 +1,3 @@
+person opens container then drinks it with left hand#person/NOUN open/VERB container/NOUN then/ADV drink/VERB it/PRON with/ADP left/ADJ hand/NOUN#0.0#0.0
+a person raises his left hand up to his face and then brings it back down.#a/DET person/NOUN raise/VERB his/DET left/ADJ hand/NOUN up/ADP to/ADP his/DET face/NOUN and/CCONJ then/ADV bring/VERB it/PRON back/ADV down/ADP#4.0#7.0
+a person open the bottle and is drinking it with his left hand.#a/DET person/NOUN open/VERB the/DET bottle/NOUN and/CCONJ is/AUX drink/VERB it/PRON with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0

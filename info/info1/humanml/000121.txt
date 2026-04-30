@@ -1,0 +1,3 @@
+someone steps to the side, takes a seat in a chair, and then gets back grabbing the arm rests.#someone/PRON step/VERB to/ADP the/DET side/NOUN take/VERB a/DET seat/NOUN in/ADP a/DET chair/NOUN and/CCONJ then/ADV get/VERB back/ADV grab/VERB the/DET arm/NOUN rest/NOUN#0.0#0.0
+a person steps back and to the left and appears to sit, then stands up and steps forward.#a/DET person/NOUN step/VERB back/ADV and/CCONJ to/ADP the/DET left/NOUN and/CCONJ appear/VERB to/PART sit/VERB then/ADV stand/VERB up/ADP and/CCONJ step/NOUN forward/ADV#0.0#0.0
+a person sidesteps, sits down, then stands up#a/DET person/NOUN sidestep/VERB sit/VERB down/ADV then/ADV stand/VERB up/ADP#0.0#0.0

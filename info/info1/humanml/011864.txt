@@ -1,0 +1,3 @@
+a person, standing in the middle of the screen, raises their arms and waves twice before lowering their arms again.#a/DET person/NOUN stand/VERB in/ADP the/DET middle/NOUN of/ADP the/DET screen/NOUN raise/VERB their/DET arm/NOUN and/CCONJ wave/NOUN twice/ADV before/ADP lower/VERB their/DET arm/NOUN again/ADV#0.0#0.0
+a person raises both left and right hands above their head and waves them back and forth.#a/DET person/NOUN raise/VERB both/CCONJ left/ADJ and/CCONJ right/ADJ hand/NOUN above/ADP their/DET head/NOUN and/CCONJ wave/VERB them/PRON back/ADV and/CCONJ forth/ADV#0.0#0.0
+a person waves both arms over their head.#a/DET person/NOUN wave/VERB both/DET arm/NOUN over/ADP their/DET head/NOUN#0.0#0.0

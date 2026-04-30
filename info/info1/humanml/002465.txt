@@ -1,0 +1,3 @@
+person grabs right leg and holds knee to chest, extends right foot, then grabs thigh.#person/NOUN grabs/PROPN right/ADJ leg/NOUN and/CCONJ hold/VERB knee/NOUN to/ADP chest/NOUN extend/VERB right/ADJ foot/NOUN then/ADV grabs/PROPN thigh/PROPN#0.0#0.0
+a person stretches their right leg.#a/DET person/NOUN stretch/VERB their/DET right/ADJ leg/NOUN#0.0#0.0
+a person standing brings their knee to their chest and begins to extend then stretch their bent leg.#a/DET person/NOUN stand/VERB bring/VERB their/DET knee/NOUN to/ADP their/DET chest/NOUN and/CCONJ begin/VERB to/PART extend/VERB then/ADV stretch/VERB their/DET bent/ADJ leg/NOUN#0.0#0.0

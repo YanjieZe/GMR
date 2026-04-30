@@ -1,0 +1,3 @@
+the person is crouch down looking left to right.#the/DET person/NOUN is/AUX crouch/ADJ down/ADP look/VERB left/VERB to/ADP right/NOUN#0.0#0.0
+a person squats, then while still in the down position and elbows out, twists from side to side.#a/DET person/NOUN squat/VERB then/ADV while/SCONJ still/ADV in/ADP the/DET down/ADJ position/NOUN and/CCONJ elbow/VERB out/ADP twist/NOUN from/ADP side/NOUN to/ADP side/NOUN#0.0#0.0
+a person is ducking with arms on head.#a/DET person/NOUN is/AUX duck/VERB with/ADP arm/NOUN on/ADP head/NOUN#0.0#0.0

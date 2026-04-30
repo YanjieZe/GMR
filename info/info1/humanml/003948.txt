@@ -1,0 +1,3 @@
+person is standinf still or holding something.#person/NOUN is/AUX standinf/NOUN still/ADV or/CCONJ hold/VERB something/PRON#0.0#0.0
+a person is standing with their legs shoulder width apart and arms out in front of them with elbows bent at 90 degrees as if they are playing a piano.#a/DET person/NOUN is/AUX stand/VERB with/ADP their/DET leg/NOUN shoulder/NOUN width/NOUN apart/ADV and/CCONJ arm/NOUN out/ADP in/ADP front/NOUN of/ADP them/PRON with/ADP elbow/NOUN bent/ADJ at/ADP degree/NOUN as/SCONJ if/SCONJ they/PRON are/AUX play/VERB a/DET piano/NOUN#0.0#0.0
+someone is standing in place with no motion, hands out.#someone/PRON is/AUX stand/VERB in/ADP place/NOUN with/ADP no/DET motion/NOUN hand/VERB out/ADP#0.0#0.0

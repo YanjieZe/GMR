@@ -1,0 +1,3 @@
+the person was walking forward on a balance beam.#the/DET person/NOUN was/AUX walk/VERB forward/ADV on/ADP a/DET balance/NOUN beam/NOUN#0.0#0.0
+a person steps onto a balancing beam, walks forward, and then steps back down.#a/DET person/NOUN step/VERB onto/ADP a/DET balance/VERB beam/NOUN walk/VERB forward/ADV and/CCONJ then/ADV step/VERB back/ADV down/ADV#0.0#0.0
+a man carefully walks to the opposite end of the room.#a/DET man/NOUN carefully/ADV walk/VERB to/ADP the/DET opposite/ADJ end/NOUN of/ADP the/DET room/NOUN#0.0#0.0

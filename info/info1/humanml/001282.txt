@@ -1,0 +1,3 @@
+stick person is spinning in circles with arms flaling around and hopping or skippinh to the left#stick/PROPN person/NOUN is/AUX spin/VERB in/ADP circle/NOUN with/ADP arm/NOUN flale/VERB around/ADV and/CCONJ hopping/NOUN or/CCONJ skippinh/ADJ to/ADP the/DET left/NOUN#0.0#0.0
+a person is performing a dance and spinning around#a/DET person/NOUN is/AUX perform/VERB a/DET dance/NOUN and/CCONJ spin/VERB around/ADV#0.0#0.0
+a oerson does a series of dance twirls with arms outstreeched moving to the left.#a/DET oerson/NOUN does/AUX a/DET series/NOUN of/ADP dance/NOUN twirl/NOUN with/ADP arm/NOUN outstreeche/VERB move/VERB to/ADP the/DET left/NOUN#0.0#0.0

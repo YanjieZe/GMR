@@ -1,0 +1,2 @@
+a person runs backwards and then changes direction to run forwards#a/DET person/NOUN run/VERB backwards/ADV and/CCONJ then/ADV change/VERB direction/NOUN to/PART run/VERB forwards/ADV#0.0#0.0
+a man runs backwards and the runs forwards.#a/DET man/NOUN run/VERB backwards/ADV and/CCONJ the/DET run/NOUN forwards/ADV#0.0#0.0

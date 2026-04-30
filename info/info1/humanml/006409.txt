@@ -1,0 +1,3 @@
+a person stretches out its right arm then moves it back to its side.#a/DET person/NOUN stretch/VERB out/ADP its/DET right/ADJ arm/NOUN then/ADV move/VERB it/PRON back/ADV to/ADP its/DET side/NOUN#0.0#3.0
+a standing person swipes their right hand in front of their face and returns to a neutral position.#a/DET stand/VERB person/NOUN swipe/VERB their/DET right/ADJ hand/NOUN in/ADP front/NOUN of/ADP their/DET face/NOUN and/CCONJ return/VERB to/ADP a/DET neutral/ADJ position/NOUN#0.0#0.0
+a person extends their right arm after rubbing their left shoulder#a/DET person/NOUN extend/VERB their/DET right/ADJ arm/NOUN after/ADP rub/VERB their/DET left/ADJ shoulder/NOUN#0.0#0.0

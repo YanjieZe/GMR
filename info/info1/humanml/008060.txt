@@ -1,0 +1,3 @@
+a person throws punches, one with his right hand and four with his left hand.#a/DET person/NOUN throw/VERB punch/NOUN one/NUM with/ADP his/DET right/ADJ hand/NOUN and/CCONJ four/NUM with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0
+a man stretches his right arm forward and then stretches out his left arm multiple times.#a/DET man/NOUN stretch/VERB his/DET right/ADJ arm/NOUN forward/ADV and/CCONJ then/ADV stretch/VERB out/ADP his/DET left/ADJ arm/NOUN multiple/NOUN time/NOUN#0.0#0.0
+a person dances around and punches both of their arms out individually.#a/DET person/NOUN dance/VERB around/ADP and/CCONJ punch/VERB both/DET of/ADP their/DET arm/NOUN out/ADP individually/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+with their right hand holding something stationary, person kicks left foot back then forward, followed by right foot forward than back and repeats while left hand swings back and forth.#with/ADP their/DET right/ADJ hand/NOUN hold/VERB something/PRON stationary/ADJ person/NOUN kick/VERB left/VERB foot/NOUN back/ADV then/ADV forward/ADV follow/VERB by/ADP right/ADJ foot/NOUN forward/ADV than/SCONJ back/NOUN and/CCONJ repeat/NOUN while/SCONJ left/ADJ hand/NOUN swing/NOUN back/ADV and/CCONJ forth/ADV#0.0#0.0
+a person is doing the charleston dance#a/DET person/NOUN is/AUX do/VERB the/DET charleston/PROPN dance/NOUN#0.0#0.0
+person is performing dance moves#person/NOUN is/AUX perform/VERB dance/NOUN move/NOUN#0.0#0.0

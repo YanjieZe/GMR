@@ -1,0 +1,3 @@
+the person is walking from left to right.#the/DET person/NOUN is/AUX walk/VERB from/ADP left/VERB to/ADP right/NOUN#0.0#0.0
+a person walks around and stops.#a/DET person/NOUN walk/VERB around/ADV and/CCONJ stop/NOUN#0.0#0.0
+a person walks to the right, turns around, walks to the left, then returns to the center.#a/DET person/NOUN walk/VERB to/ADP the/DET right/NOUN turn/VERB around/ADV walk/VERB to/ADP the/DET left/NOUN then/ADV return/VERB to/ADP the/DET center/NOUN#0.0#0.0

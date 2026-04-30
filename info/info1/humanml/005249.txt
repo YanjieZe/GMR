@@ -1,0 +1,3 @@
+a person walks towards an object, picks it up, turns around clockwise and walks back to the original position#a/DET person/NOUN walk/VERB towards/ADP an/DET object/NOUN pick/VERB it/PRON up/ADP turn/VERB around/ADV clockwise/NOUN and/CCONJ walk/VERB back/ADV to/ADP the/DET original/ADJ position/NOUN#0.0#0.0
+a person walks forward to open the door then turns around#a/DET person/NOUN walk/VERB forward/ADV to/PART open/VERB the/DET door/NOUN then/ADV turn/VERB around/ADV#0.0#0.0
+a man walks forward, picks up an item with his right hand and then walks in the opposite direction.#a/DET man/NOUN walk/VERB forward/ADV pick/VERB up/ADP an/DET item/NOUN with/ADP his/DET right/ADJ hand/NOUN and/CCONJ then/ADV walk/VERB in/ADP the/DET opposite/ADJ direction/NOUN#0.0#5.0

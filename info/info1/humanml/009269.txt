@@ -1,0 +1,3 @@
+a person bends over to look at something.#a/DET person/NOUN bend/VERB over/ADP to/PART look/VERB at/ADP something/PRON#0.0#0.0
+the toon is standing still, bending over as to be looking in a shelf or book case.#the/DET toon/NOUN is/AUX stand/VERB still/ADV bend/VERB over/ADP as/SCONJ to/PART be/AUX look/VERB in/ADP a/DET shelf/NOUN or/CCONJ book/NOUN case/NOUN#0.0#10.0
+a man bends forward and looks at the ground#a/DET man/NOUN bend/VERB forward/ADV and/CCONJ look/VERB at/ADP the/DET ground/NOUN#0.0#0.0

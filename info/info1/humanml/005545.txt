@@ -1,0 +1,3 @@
+a person walks forward while hunched over.#a/DET person/NOUN walk/VERB forward/ADV while/SCONJ hunch/VERB over/ADP#0.0#0.0
+a person walking very slowly walks towards the right then towards the left.#a/DET person/NOUN walk/VERB very/ADV slowly/ADV walk/VERB towards/ADP the/DET right/NOUN then/ADV towards/ADP the/DET left/NOUN#0.0#0.0
+a figure slowly shuffles forward in a crooked line, head down and arms stiff.#a/DET figure/NOUN slowly/ADV shuffle/VERB forward/ADV in/ADP a/DET crooked/ADJ line/NOUN head/VERB down/ADV and/CCONJ arm/NOUN stiff/ADJ#0.0#0.0

@@ -1,0 +1,3 @@
+the person is just standing still then straightens out their arms on both sides.#the/DET person/NOUN is/AUX just/ADV stand/VERB still/ADV then/ADV straighten/VERB out/ADP their/DET arm/NOUN on/ADP both/DET side/NOUN#0.0#0.0
+a person stands still and does nothing.#a/DET person/NOUN stand/VERB still/ADV and/CCONJ does/AUX nothing/PRON#0.0#6.0
+person is standing and then assumes t position#person/NOUN is/AUX stand/VERB and/CCONJ then/ADV assume/VERB t/NOUN position/NOUN#0.0#0.0

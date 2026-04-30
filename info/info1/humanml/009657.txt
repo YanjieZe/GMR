@@ -1,0 +1,3 @@
+the person is coaching basketball signals.#the/DET person/NOUN is/AUX coach/VERB basketball/NOUN signal/NOUN#0.0#0.0
+a person doing several different type of hand signals#a/DET person/NOUN do/VERB several/ADJ different/ADJ type/NOUN of/ADP hand/NOUN signal/NOUN#0.0#0.0
+moving hands around near chest.#move/VERB hand/NOUN around/ADP near/SCONJ chest/NOUN#0.0#0.0

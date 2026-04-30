@@ -1,0 +1,3 @@
+a person has their arms fully extended and then sits down on an invisible chair.#a/DET person/NOUN has/AUX their/DET arm/NOUN fully/ADV extend/VERB and/CCONJ then/ADV sit/VERB down/ADP on/ADP an/DET invisible/ADJ chair/NOUN#0.0#0.0
+a person standing with arms extended to sides, then sitting down on something.#a/DET person/NOUN stand/VERB with/ADP arm/NOUN extend/VERB to/ADP side/NOUN then/ADV sit/VERB down/ADP on/ADP something/PRON#0.0#7.0
+a person drops their arms to their sides then sits, after sitting reaches for something with their right hand.#a/DET person/NOUN drop/VERB their/DET arm/NOUN to/ADP their/DET side/NOUN then/ADV sit/VERB after/ADP sit/VERB reach/NOUN for/ADP something/PRON with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0

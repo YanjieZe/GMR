@@ -1,0 +1,2 @@
+the figure walked in a curve slightly to the right.#the/DET figure/NOUN walk/VERB in/ADP a/DET curve/NOUN slightly/ADV to/ADP the/DET right/NOUN#0.0#0.0
+a person walks in an arc formation in an area#a/DET person/NOUN walk/VERB in/ADP an/DET arc/NOUN formation/NOUN in/ADP an/DET area/NOUN#0.0#0.0

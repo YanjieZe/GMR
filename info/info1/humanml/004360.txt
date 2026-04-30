@@ -1,0 +1,3 @@
+a standing person is making small rapid motions with their right hand near their head.#a/DET stand/VERB person/NOUN is/AUX make/VERB small/ADJ rapid/ADJ motion/NOUN with/ADP their/DET right/ADJ hand/NOUN near/SCONJ their/DET head/NOUN#0.0#0.0
+person scratched their head.#person/NOUN scratch/VERB their/DET head/NOUN#0.0#0.0
+a person moving right hand similar to how one would brush their teeth.#a/DET person/NOUN move/VERB right/ADJ hand/NOUN similar/ADJ to/ADP how/ADV one/PRON would/VERB brush/VERB their/DET tooth/NOUN#0.0#0.0

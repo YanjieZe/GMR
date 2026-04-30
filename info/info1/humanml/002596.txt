@@ -1,0 +1,3 @@
+a person jogs in place.#a/DET person/NOUN jog/VERB in/ADP place/NOUN#0.0#0.0
+a man is jogging in place.#a/DET man/NOUN is/AUX jog/VERB in/ADP place/NOUN#0.0#0.0
+the man is making steps with his leg#the/DET man/NOUN is/AUX make/VERB step/NOUN with/ADP his/DET leg/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+the person picks up the bottle of wax then wipes down the car#the/DET person/NOUN pick/VERB up/ADP the/DET bottle/NOUN of/ADP wax/NOUN then/ADV wipe/VERB down/ADP the/DET car/NOUN#0.0#0.0
+the person is going to dry their left arm.#the/DET person/NOUN is/AUX go/VERB to/PART dry/VERB their/DET left/ADJ arm/NOUN#0.0#0.0
+person has both arms extended  to side then turns around and picks something up#person/NOUN has/AUX both/DET arm/NOUN extend/VERB to/PART side/VERB then/ADV turn/VERB around/ADV and/CCONJ pick/VERB something/PRON up/ADP#0.0#0.0

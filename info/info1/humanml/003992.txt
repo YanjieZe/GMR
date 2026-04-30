@@ -1,0 +1,3 @@
+this woman slightly leans left and then uses both hands to throw an object, towards her left side.#this/DET woman/NOUN slightly/ADV lean/VERB left/VERB and/CCONJ then/ADV use/VERB both/DET hand/NOUN to/PART throw/VERB an/DET object/NOUN towards/ADP her/DET left/ADJ side/NOUN#0.0#0.0
+a person puts both arms over their head.#a/DET person/NOUN put/VERB both/DET arm/NOUN over/ADP their/DET head/NOUN#0.0#1.0
+a person is lifting his/her arms up and to their left.#a/DET person/NOUN is/AUX lift/VERB his/DET her/DET arm/NOUN up/ADV and/CCONJ to/ADP their/DET left/NOUN#0.0#0.0

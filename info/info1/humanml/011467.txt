@@ -1,0 +1,3 @@
+a colorful animated drawing moving around as if it is dancing.#a/DET colorful/ADJ animate/VERB draw/VERB move/VERB around/ADP as/SCONJ if/SCONJ it/PRON is/AUX dance/VERB#0.0#0.0
+a person is swimming the free style stroke.#a/DET person/NOUN is/AUX swim/VERB the/DET free/ADJ style/NOUN stroke/NOUN#0.0#0.0
+person is swimming doing the free style#person/NOUN is/AUX swim/VERB do/VERB the/DET free/ADJ style/NOUN#0.0#0.0

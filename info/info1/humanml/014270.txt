@@ -1,0 +1,3 @@
+person raises right hand to head height then lowers it and walks back diagonally to their left#person/NOUN raise/VERB right/ADJ hand/NOUN to/PART head/VERB height/ADV then/ADV lower/VERB it/PRON and/CCONJ walk/VERB back/ADV diagonally/ADV to/ADP their/DET left/NOUN#0.0#0.0
+a figure puts its right hand up, seemingly to say stop. then, the figure backs away.#a/DET figure/NOUN put/VERB its/DET right/ADJ hand/NOUN up/ADP seemingly/ADV to/PART say/VERB stop/VERB then/ADV the/DET figure/NOUN back/VERB away/ADV#0.0#0.0
+waves hand then takes a couple steps backwards.#wave/NOUN hand/PROPN then/ADV take/VERB a/DET couple/NOUN step/NOUN backwards/ADV#0.0#0.0

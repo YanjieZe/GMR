@@ -1,0 +1,3 @@
+walking forward, turning around and walking back#walk/VERB forward/ADV turn/VERB around/ADP and/CCONJ walk/VERB back/ADV#0.0#0.0
+a person walks with their arms stiff.#a/DET person/NOUN walk/VERB with/ADP their/DET arm/NOUN stiff/ADJ#0.0#0.0
+the person is walking with completely stiff arms.#the/DET person/NOUN is/AUX walk/VERB with/ADP completely/ADV stiff/ADJ arm/NOUN#0.0#0.0

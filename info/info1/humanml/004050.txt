@@ -1,0 +1,3 @@
+the person to march forward and turned left.#the/DET person/NOUN to/ADP march/PROPN forward/ADV and/CCONJ turn/VERB left/ADV#0.0#0.0
+a person who is modeling down a runway#a/DET person/NOUN who/PRON is/AUX model/VERB down/ADP a/DET runway/NOUN#0.0#0.0
+a man walks forward before turning around and walking back.#a/DET man/NOUN walk/VERB forward/ADV before/ADP turn/VERB around/ADP and/CCONJ walk/VERB back/ADV#0.0#0.0

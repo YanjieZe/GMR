@@ -1,0 +1,3 @@
+a person shifts left, walks straight and then paces backwards.#a/DET person/NOUN shift/NOUN left/VERB walk/VERB straight/ADV and/CCONJ then/ADV pace/VERB backwards/ADV#0.0#0.0
+a man walks a perfect triangle in different walking positions.#a/DET man/NOUN walk/VERB a/DET perfect/ADJ triangle/NOUN in/ADP different/ADJ walking/NOUN position/NOUN#0.0#0.0
+walking in a triangle and standing in the middle#walk/VERB in/ADP a/DET triangle/NOUN and/CCONJ standing/NOUN in/ADP the/DET middle/NOUN#0.0#0.0

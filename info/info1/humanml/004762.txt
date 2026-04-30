@@ -1,0 +1,3 @@
+a man steps to the side and then holds something to his head before stepping back.#a/DET man/NOUN step/VERB to/ADP the/DET side/NOUN and/CCONJ then/ADV hold/VERB something/PRON to/ADP his/DET head/NOUN before/ADP step/VERB back/ADV#0.0#0.0
+a person lifts something, drinks, places it down and turns forward.#a/DET person/NOUN lift/VERB something/PRON drink/NOUN place/VERB it/PRON down/ADP and/CCONJ turn/VERB forward/ADV#0.0#0.0
+a  person pivots with right foot backwards  , raises right hand then returns to start  position#a/DET person/NOUN pivot/VERB with/ADP right/ADJ foot/NOUN backwards/ADV raise/VERB right/ADJ hand/NOUN then/ADV return/VERB to/PART start/VERB position/NOUN#nan#nan

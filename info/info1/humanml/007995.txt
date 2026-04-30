@@ -1,0 +1,3 @@
+movin  right hand upward#movin/PROPN right/ADJ hand/NOUN upward/ADV#0.0#0.0
+a person slowly waves with their left hand twice#a/DET person/NOUN slowly/ADV wave/VERB with/ADP their/DET left/ADJ hand/NOUN twice/ADV#0.0#0.0
+the man raises his left hand over his chest, waves out and back in toward his body, then releases it back down toward his hip.#the/DET man/NOUN raise/VERB his/DET left/ADJ hand/NOUN over/ADP his/DET chest/NOUN wave/VERB out/ADP and/CCONJ back/ADV in/ADV toward/ADP his/DET body/NOUN then/ADV release/VERB it/PRON back/ADV down/ADP toward/ADP his/DET hip/NOUN#0.0#6.0

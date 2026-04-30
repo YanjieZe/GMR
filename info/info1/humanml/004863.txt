@@ -1,0 +1,3 @@
+a person walks and then puts both arms out while bowing.#a/DET person/NOUN walk/VERB and/CCONJ then/ADV put/VERB both/DET arm/NOUN out/ADP while/SCONJ bow/VERB#0.0#0.0
+a person approaches someone and they begin to slow dance.#a/DET person/NOUN approach/VERB someone/PRON and/CCONJ they/PRON begin/VERB to/PART slow/VERB dance/NOUN#0.0#0.0
+a person steps forward and notices someone, they raise there arms and bow down in a traditional greeting fashion.#a/DET person/NOUN step/VERB forward/ADV and/CCONJ notice/VERB someone/PRON they/PRON raise/VERB there/ADJ arm/NOUN and/CCONJ bow/VERB down/ADP in/ADP a/DET traditional/ADJ greeting/NOUN fashion/NOUN#0.0#0.0

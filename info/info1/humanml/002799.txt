@@ -1,0 +1,3 @@
+a person stretching their right arm#a/DET person/NOUN stretch/VERB their/DET right/ADJ arm/NOUN#0.0#0.0
+a man clasps his hands to the side and then unclasps them.#a/DET man/NOUN clasp/VERB his/DET hand/NOUN to/ADP the/DET side/NOUN and/CCONJ then/ADV unclasp/VERB them/PRON#0.0#0.0
+a man stretching his right arm.#a/DET man/NOUN stretch/VERB his/DET right/ADJ arm/NOUN#0.0#0.0

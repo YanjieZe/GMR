@@ -1,0 +1,3 @@
+a person running forward and going towards left.#a/DET person/NOUN run/VERB forward/ADV and/CCONJ go/VERB towards/ADP left/VERB#0.0#0.0
+a person runs forward to their left.#a/DET person/NOUN run/VERB forward/ADV to/ADP their/DET left/NOUN#0.0#0.0
+a man turns to the right as he jogs.#a/DET man/NOUN turn/VERB to/ADP the/DET right/NOUN as/SCONJ he/PRON jog/VERB#0.0#0.0

@@ -1,0 +1,3 @@
+this person stands still and reaches up with his right hand.#this/DET person/NOUN stand/VERB still/ADV and/CCONJ reach/VERB up/ADP with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+a person shakily raises their right hand in fear.#a/DET person/NOUN shakily/ADV raise/VERB their/DET right/ADJ hand/NOUN in/ADP fear/NOUN#0.0#0.0
+a person opens and drinks a bottle with his right hand#a/DET person/NOUN open/VERB and/CCONJ drink/VERB a/DET bottle/NOUN with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0

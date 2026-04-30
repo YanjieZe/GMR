@@ -1,0 +1,3 @@
+a person walks forward and comes to a stop.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ come/VERB to/ADP a/DET stop/NOUN#0.0#0.0
+a man walks forward 4 steps.#a/DET man/NOUN walk/VERB forward/ADV step/NOUN#0.0#0.0
+a man walks forward at a steady pace.#a/DET man/NOUN walk/VERB forward/ADV at/ADP a/DET steady/ADJ pace/NOUN#0.0#0.0

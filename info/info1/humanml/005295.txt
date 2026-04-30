@@ -1,0 +1,3 @@
+a figure lowers to their knees and sexy crawls.#a/DET figure/NOUN lower/VERB to/ADP their/DET knee/NOUN and/CCONJ sexy/ADJ crawl/NOUN#0.0#0.0
+a person gets on the floor and begins to crawl.#a/DET person/NOUN get/VERB on/ADP the/DET floor/NOUN and/CCONJ begin/VERB to/PART crawl/VERB#0.0#0.0
+a person crawls along the floor#a/DET person/NOUN crawl/VERB along/ADP the/DET floor/NOUN#0.0#0.0

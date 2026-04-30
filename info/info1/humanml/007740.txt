@@ -1,0 +1,2 @@
+the person is walking straight and turning left.#the/DET person/NOUN is/AUX walk/VERB straight/ADV and/CCONJ turn/VERB left/ADV#0.0#0.0
+a person walks towards the left side.#a/DET person/NOUN walk/VERB towards/ADP the/DET left/ADJ side/NOUN#0.0#0.0

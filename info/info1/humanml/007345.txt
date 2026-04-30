@@ -1,0 +1,3 @@
+the person jumped up then he was pushed from the right side.#the/DET person/NOUN jump/VERB up/ADP then/ADV he/PRON was/AUX push/VERB from/ADP the/DET right/ADJ side/NOUN#0.0#0.0
+a person jumps and quickly steps to the right.#a/DET person/NOUN jump/VERB and/CCONJ quickly/ADV step/VERB to/ADP the/DET right/NOUN#0.0#0.0
+a person jumps, then gets pushed to the left#a/DET person/NOUN jump/VERB then/ADV get/VERB push/VERB to/ADP the/DET left/NOUN#0.0#0.0

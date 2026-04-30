@@ -1,0 +1,3 @@
+the man is doing some thing with his right arm#the/DET man/NOUN is/AUX do/VERB some/DET thing/NOUN with/ADP his/DET right/ADJ arm/NOUN#0.0#0.0
+a person performing a weight lifting motion with their right arm#a/DET person/NOUN perform/VERB a/DET weight/NOUN lift/VERB motion/NOUN with/ADP their/DET right/ADJ arm/NOUN#0.0#0.0
+person curls right forearm into their bicep in a curling motion.#person/NOUN curl/VERB right/ADJ forearm/NOUN into/ADP their/DET bicep/NOUN in/ADP a/DET curling/ADJ motion/NOUN#0.0#0.0

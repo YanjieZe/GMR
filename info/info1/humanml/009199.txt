@@ -1,0 +1,3 @@
+the person is trying to talk with his hands.#the/DET person/NOUN is/AUX try/VERB to/PART talk/VERB with/ADP his/DET hand/NOUN#0.0#0.0
+person makes motions like hit bongos.#person/NOUN make/VERB motion/NOUN like/INTJ hit/VERB bongo/NOUN#0.0#0.0
+a person moves his right and left arm in the air.#a/DET person/NOUN move/VERB his/DET right/NOUN and/CCONJ left/ADJ arm/NOUN in/ADP the/DET air/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person side steps in a defensive position.#a/DET person/NOUN side/NOUN step/NOUN in/ADP a/DET defensive/ADJ position/NOUN#0.0#0.0
+a person shuffles forward in a quick motion, similar to a monkey or gorilla.#a/DET person/NOUN shuffle/VERB forward/ADV in/ADP a/DET quick/ADJ motion/NOUN similar/ADJ to/ADP a/DET monkey/NOUN or/CCONJ gorilla/NOUN#0.0#0.0
+a person runs forward in a defensive pose.#a/DET person/NOUN run/VERB forward/ADV in/ADP a/DET defensive/ADJ pose/NOUN#0.0#0.0

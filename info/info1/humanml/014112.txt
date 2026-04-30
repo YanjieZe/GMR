@@ -1,0 +1,3 @@
+the person is pouring out of a bottle.#the/DET person/NOUN is/AUX pour/VERB out/SCONJ of/ADP a/DET bottle/NOUN#0.0#0.0
+moving arm up and down near chest.#move/VERB arm/NOUN up/ADP and/CCONJ down/ADV near/SCONJ chest/NOUN#0.0#0.0
+a person picks up something, shakes it, pours something, and sets it back down.#a/DET person/NOUN pick/VERB up/ADP something/PRON shake/VERB it/PRON pour/VERB something/PRON and/CCONJ set/VERB it/PRON back/ADV down/ADV#0.0#0.0

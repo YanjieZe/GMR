@@ -1,0 +1,3 @@
+person is swimming using the breast stroke#person/NOUN is/AUX swim/VERB use/VERB the/DET breast/NOUN stroke/NOUN#0.0#0.0
+a person kicks both legs outward as they spread theyre arms outward as well.#a/DET person/NOUN kick/VERB both/DET leg/NOUN outward/ADV as/SCONJ they/PRON spread/VERB they/PRON be/VERB arm/NOUN outward/ADV as/ADV well/ADV#0.0#0.0
+a person appears to be swimming face down doing a breaststroke and sweeping his feet sideways and back to the center.#a/DET person/NOUN appear/VERB to/PART be/AUX swim/VERB face/NOUN down/ADP do/VERB a/DET breaststroke/NOUN and/CCONJ sweep/VERB his/DET foot/NOUN sideways/ADV and/CCONJ back/ADV to/ADP the/DET center/NOUN#0.0#0.0

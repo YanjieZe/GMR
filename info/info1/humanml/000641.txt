@@ -1,0 +1,3 @@
+a person is walking around swinging their hand at various locations around them, perhaps trying to hit or throw something.#a/DET person/NOUN is/AUX walk/VERB around/ADP swinge/VERB their/DET hand/NOUN at/ADP various/ADJ location/NOUN around/ADP them/PRON perhaps/ADV try/VERB to/PART hit/VERB or/CCONJ throw/VERB something/PRON#0.0#0.0
+a person strikes out in front of them, walking around to hit something in their space.#a/DET person/NOUN strike/VERB out/ADP in/ADP front/NOUN of/ADP them/PRON walk/VERB around/ADP to/PART hit/VERB something/PRON in/ADP their/DET space/NOUN#0.0#0.0
+a man appears to be wanting to catch something with his hand#a/DET man/NOUN appear/VERB to/PART be/AUX want/VERB to/PART catch/VERB something/PRON with/ADP his/DET hand/NOUN#0.0#0.0

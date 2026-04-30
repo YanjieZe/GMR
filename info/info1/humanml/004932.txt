@@ -1,0 +1,3 @@
+starting form a standstill, a person saunters forward.#start/VERB form/NOUN a/DET standstill/NOUN a/DET person/NOUN saunter/VERB forward/ADV#0.0#0.0
+person is walking down the side of a wall.#person/NOUN is/AUX walk/VERB down/ADP the/DET side/NOUN of/ADP a/DET wall/NOUN#0.0#0.0
+as the human figure starts walking, a crack in the ground appears as he walks simultaniously#as/SCONJ the/DET human/ADJ figure/NOUN start/VERB walk/VERB a/DET crack/NOUN in/ADP the/DET ground/NOUN appear/VERB as/SCONJ he/PRON walk/VERB simultaniously/ADV#0.0#0.0

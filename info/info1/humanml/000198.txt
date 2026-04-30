@@ -1,0 +1,3 @@
+person sits down then stands back up and repeats twice#person/NOUN sit/VERB down/ADV then/ADV stand/VERB back/ADV up/ADV and/CCONJ repeat/VERB twice/ADV#0.0#0.0
+a person sits down slightly and gets back up.#a/DET person/NOUN sit/VERB down/ADP slightly/ADV and/CCONJ get/VERB back/ADV up/ADV#0.0#0.0
+a person sits down and then stands up.#a/DET person/NOUN sit/VERB down/ADV and/CCONJ then/ADV stand/VERB up/ADP#0.0#0.0

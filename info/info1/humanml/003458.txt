@@ -1,0 +1,2 @@
+this person walks quickly from a left angle and turns around to walk back.#this/DET person/NOUN walk/VERB quickly/ADV from/ADP a/DET left/ADJ angle/NOUN and/CCONJ turn/VERB around/ADP to/PART walk/VERB back/ADV#0.0#0.0
+a person walks at a quick pace forward and then turns to walk back at a quick pace.#a/DET person/NOUN walk/VERB at/ADP a/DET quick/ADJ pace/NOUN forward/ADV and/CCONJ then/ADV turn/VERB to/PART walk/VERB back/ADV at/ADP a/DET quick/ADJ pace/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+person walking slightly to the left in six steps#person/NOUN walk/VERB slightly/ADV to/ADP the/DET left/NOUN in/ADP six/NUM step/NOUN#0.0#0.0
+person walks forward  six steps leading with right foot#person/NOUN walk/VERB forward/ADV six/NUM step/NOUN lead/VERB with/ADP right/ADJ foot/NOUN#0.0#0.0
+a man walks forward and the comes to a stop.#a/DET man/NOUN walk/VERB forward/ADV and/CCONJ the/DET come/VERB to/ADP a/DET stop/NOUN#0.0#0.0

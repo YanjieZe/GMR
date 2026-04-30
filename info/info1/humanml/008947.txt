@@ -1,0 +1,3 @@
+person takes a one step kick with their right foot#person/NOUN take/VERB a/DET one/NUM step/NOUN kick/NOUN with/ADP their/DET right/ADJ foot/NOUN#0.0#0.0
+a person kicks their right foot#a/DET person/NOUN kick/VERB their/DET right/ADJ foot/NOUN#0.0#0.0
+a person lifts their leg to kick something forward and then places their leg back on the ground#a/DET person/NOUN lift/VERB their/DET leg/NOUN to/PART kick/VERB something/PRON forward/ADV and/CCONJ then/ADV place/VERB their/DET leg/NOUN back/ADV on/ADP the/DET ground/NOUN#0.0#0.0

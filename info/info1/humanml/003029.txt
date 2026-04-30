@@ -1,0 +1,3 @@
+a person leans backwards and then bows forward twice.#a/DET person/NOUN lean/VERB backwards/ADV and/CCONJ then/ADV bow/VERB forward/ADV twice/ADV#0.0#0.0
+a person is bowing down as if greeting someone.#a/DET person/NOUN is/AUX bow/VERB down/ADP as/SCONJ if/SCONJ greet/VERB someone/PRON#0.0#0.0
+person brings left foot closer to right and bows slightly once pauses then two more times#person/NOUN bring/VERB left/VERB foot/NOUN closer/ADV to/ADP right/NOUN and/CCONJ bow/VERB slightly/ADV once/SCONJ pause/VERB then/ADV two/NUM more/ADJ time/NOUN#0.0#0.0

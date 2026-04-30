@@ -1,0 +1,3 @@
+a person dusting off their shoes on the ground#a/DET person/NOUN dust/VERB off/ADP their/DET shoe/NOUN on/ADP the/DET ground/NOUN#0.0#0.0
+a person is kicking his feet, right then left then right again.#a/DET person/NOUN is/AUX kick/VERB his/DET foot/NOUN right/ADV then/ADV left/VERB then/ADV right/ADV again/ADV#0.0#0.0
+user is picking foot off the ground very slightly and kicking the ground rotating between right and left foot#user/NOUN is/AUX pick/VERB foot/NOUN off/ADP the/DET ground/NOUN very/ADV slightly/ADV and/CCONJ kick/VERB the/DET ground/NOUN rotate/VERB between/ADP right/NOUN and/CCONJ left/VERB foot/NOUN#0.0#0.0

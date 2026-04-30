@@ -1,0 +1,3 @@
+someone grips an object in both hands and repeatedly raises and lowers it in a chopping motion.#someone/PRON grip/VERB an/DET object/NOUN in/ADP both/DET hand/NOUN and/CCONJ repeatedly/ADV raise/VERB and/CCONJ lower/VERB it/PRON in/ADP a/DET chop/VERB motion/NOUN#0.0#0.0
+a person has both hands together and repeatedly raises the hands towards their shoulder and down towards the ground#a/DET person/NOUN has/AUX both/DET hand/NOUN together/ADV and/CCONJ repeatedly/ADV raise/VERB the/DET hand/NOUN towards/ADP their/DET shoulder/NOUN and/CCONJ down/ADV towards/ADP the/DET ground/NOUN#0.0#0.0
+a person swings the ax in a forward motion to chop wood#a/DET person/NOUN swing/VERB the/DET ax/NOUN in/ADP a/DET forward/ADJ motion/NOUN to/PART chop/VERB wood/NOUN#0.0#0.0

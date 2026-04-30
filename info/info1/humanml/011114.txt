@@ -1,0 +1,3 @@
+the person is standing still posing like a zombie.#the/DET person/NOUN is/AUX stand/VERB still/ADV pose/VERB like/SCONJ a/DET zombie/NOUN#0.0#0.0
+a person leans forward and lets arms hang down, then raises both arms#a/DET person/NOUN lean/VERB forward/ADV and/CCONJ let/VERB arm/NOUN hang/VERB down/ADP then/ADV raise/VERB both/DET arm/NOUN#0.0#0.0
+a person stands still with their arms held loosely in front of them#a/DET person/NOUN stand/VERB still/ADV with/ADP their/DET arm/NOUN hold/VERB loosely/ADV in/ADP front/NOUN of/ADP them/PRON#0.0#0.0

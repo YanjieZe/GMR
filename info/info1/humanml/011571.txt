@@ -1,0 +1,3 @@
+the person is greeting  hello with his right hand.#the/DET person/NOUN is/AUX greet/VERB hello/INTJ with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+a person lowers their right arm then rotates counter clockwise to face away from you, then raises and lowers their right arm again as if waving.#a/DET person/NOUN lower/VERB their/DET right/ADJ arm/NOUN then/ADV rotate/VERB counter/ADV clockwise/NOUN to/PART face/VERB away/ADV from/ADP you/PRON then/ADV raise/VERB and/CCONJ lower/VERB their/DET right/ADJ arm/NOUN again/ADV as/SCONJ if/SCONJ wave/VERB#0.0#0.0
+person is saying hi to people#person/NOUN is/AUX say/VERB hi/INTJ to/ADP people/NOUN#0.0#0.0

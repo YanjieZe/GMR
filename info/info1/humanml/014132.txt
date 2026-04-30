@@ -1,0 +1,3 @@
+a person raises both hands to their face then drops them to their sides.#a/DET person/NOUN raise/VERB both/DET hand/NOUN to/ADP their/DET face/NOUN then/ADV drop/VERB them/PRON to/ADP their/DET side/NOUN#0.0#0.0
+a person lifts up both of their hands then drops them.#a/DET person/NOUN lift/VERB up/ADP both/DET of/ADP their/DET hand/NOUN then/ADV drop/VERB them/PRON#0.0#0.0
+the person was sitting still to get his picture taken.#the/DET person/NOUN was/AUX sit/VERB still/ADV to/PART get/AUX his/DET picture/NOUN take/VERB#0.0#0.0

@@ -1,0 +1,3 @@
+a person drys off something with their left hand.#a/DET person/NOUN dry/VERB off/ADP something/PRON with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0
+a person bends down and grabs something with their right arm, turns around and walks a few feet, then uses the item on something.#a/DET person/NOUN bend/VERB down/ADP and/CCONJ grab/NOUN something/PRON with/ADP their/DET right/ADJ arm/NOUN turn/VERB around/ADV and/CCONJ walk/VERB a/DET few/ADJ foot/NOUN then/ADV use/VERB the/DET item/NOUN on/ADP something/PRON#0.0#0.0
+the person is drying their left arm.#the/DET person/NOUN is/AUX dry/VERB their/DET left/ADJ arm/NOUN#0.0#0.0

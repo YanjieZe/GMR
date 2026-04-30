@@ -1,0 +1,3 @@
+a person takes a few steps backwards, walks forwards and gets ready to throw something.#a/DET person/NOUN take/VERB a/DET few/ADJ step/NOUN backwards/ADV walk/VERB forwards/ADV and/CCONJ get/VERB ready/ADJ to/PART throw/VERB something/PRON#0.0#0.0
+person walks forward and injured right leg#person/NOUN walk/VERB forward/ADV and/CCONJ injure/VERB right/ADJ leg/NOUN#0.0#0.0
+person turns around and walks to the right before bumping his leg into something, grabbing it as if in pain, then going back to walking.#person/NOUN turn/VERB around/ADP and/CCONJ walk/VERB to/ADP the/DET right/NOUN before/ADP bump/VERB his/DET leg/NOUN into/ADP something/PRON grab/VERB it/PRON as/SCONJ if/SCONJ in/ADP pain/NOUN then/ADV go/VERB back/ADV to/ADP walk/VERB#0.0#0.0

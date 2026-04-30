@@ -1,0 +1,3 @@
+the man puts his right knee out and back in, then puts his left knee out and back in.#the/DET man/NOUN put/VERB his/DET right/ADJ knee/NOUN out/SCONJ and/CCONJ back/ADV in/ADV then/ADV put/VERB his/DET left/ADJ knee/NOUN out/SCONJ and/CCONJ back/ADV in/ADV#0.0#0.0
+a man is lying down and slightly shifts position.#a/DET man/NOUN is/AUX lie/VERB down/ADP and/CCONJ slightly/ADV shift/NOUN position/NOUN#0.0#0.0
+man is lying down, sometimes moving his legs round and forth#man/NOUN is/AUX lie/VERB down/ADP sometimes/ADV move/VERB his/DET leg/NOUN round/ADV and/CCONJ forth/ADV#0.0#0.0

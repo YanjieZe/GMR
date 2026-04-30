@@ -1,0 +1,3 @@
+a man opens something and rubs it under his arms.#a/DET man/NOUN open/VERB something/PRON and/CCONJ rub/VERB it/PRON under/ADP his/DET arm/NOUN#0.0#0.0
+a person is putting on deodorant.#a/DET person/NOUN is/AUX put/VERB on/ADP deodorant/NOUN#0.0#0.0
+person appears to take a cap off of something, then rubbed it on their underarms.#person/NOUN appear/VERB to/PART take/VERB a/DET cap/NOUN off/ADP of/ADP something/PRON then/ADV rub/VERB it/PRON on/ADP their/DET underarm/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+the person lifts both arms in the air and drops them back.#the/DET person/NOUN lift/VERB both/DET arm/NOUN in/ADP the/DET air/NOUN and/CCONJ drop/VERB them/PRON back/ADV#0.0#0.0
+person raises both arms and waves in circular motion.#person/NOUN raise/VERB both/DET arm/NOUN and/CCONJ wave/NOUN in/ADP circular/ADJ motion/NOUN#0.0#0.0
+a person waves over their head with both hands#a/DET person/NOUN wave/VERB over/ADP their/DET head/NOUN with/ADP both/DET hand/NOUN#0.0#0.0

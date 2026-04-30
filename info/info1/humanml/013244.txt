@@ -1,0 +1,3 @@
+a person walks to the horizontally to the right, then briskly to the left.#a/DET person/NOUN walk/VERB to/ADP the/DET horizontally/ADV to/ADP the/DET right/NOUN then/ADV briskly/ADV to/ADP the/DET left/NOUN#0.0#0.0
+a person walks sideways, then walks diagonally.#a/DET person/NOUN walk/VERB sideways/ADV then/ADV walk/VERB diagonally/ADV#0.0#0.0
+a figure slides to his right crossing over his left leg each step. then takes a step forward turns and goes back to his original position#a/DET figure/NOUN slide/VERB to/ADP his/DET right/ADJ crossing/NOUN over/ADP his/DET left/ADJ leg/NOUN each/DET step/NOUN then/ADV take/VERB a/DET step/NOUN forward/ADV turn/VERB and/CCONJ go/VERB back/ADV to/ADP his/DET original/ADJ position/NOUN#0.0#0.0

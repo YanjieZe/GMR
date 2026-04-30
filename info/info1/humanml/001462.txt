@@ -1,0 +1,3 @@
+a person is catching something and then throwing it back with his right hand.#a/DET person/NOUN is/AUX catch/VERB something/PRON and/CCONJ then/ADV throw/VERB it/PRON back/ADV with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+a person catches a object thrown to them with both hands and returns it back with a throw wi3th both hands#a/DET person/NOUN catch/VERB a/DET object/NOUN throw/VERB to/ADP them/PRON with/ADP both/DET hand/NOUN and/CCONJ return/VERB it/PRON back/ADV with/ADP a/DET throw/ADJ both/DET hand/NOUN#0.0#0.0
+a man throws and catches something.#a/DET man/NOUN throw/VERB and/CCONJ catch/NOUN something/PRON#0.0#0.0

@@ -1,0 +1,3 @@
+a person attempts to get a rock out of their shoe.#a/DET person/NOUN attempt/VERB to/PART get/AUX a/DET rock/NOUN out/SCONJ of/ADP their/DET shoe/NOUN#0.0#0.0
+the person is kneeling, stands up and bends over and stands back up again, only to grab their right foot.#the/DET person/NOUN is/AUX kneel/VERB stand/VERB up/ADP and/CCONJ bend/VERB over/ADP and/CCONJ stand/VERB back/ADV up/ADV again/ADV only/ADV to/PART grab/VERB their/DET right/ADJ foot/NOUN#0.0#0.0
+a figure kneels and performs the gesture of tying a shoe#a/DET figure/NOUN kneel/VERB and/CCONJ perform/VERB the/DET gesture/NOUN of/ADP tie/VERB a/DET shoe/NOUN#0.0#0.0

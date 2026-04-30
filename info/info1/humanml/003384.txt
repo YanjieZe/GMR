@@ -1,0 +1,3 @@
+a red and white stick figure is walking step by step in a straight line.#a/DET red/ADJ and/CCONJ white/ADJ stick/NOUN figure/NOUN is/AUX walk/VERB step/NOUN by/ADP step/NOUN in/ADP a/DET straight/ADJ line/NOUN#0.0#0.0
+someone is walking on a beam and keeping balance.#someone/PRON is/AUX walk/VERB on/ADP a/DET beam/NOUN and/CCONJ keeping/NOUN balance/NOUN#0.0#0.0
+a figure walks in a straight line with both arms outstretched, and the comes to a standstill and rests its arms at its sides.#a/DET figure/NOUN walk/VERB in/ADP a/DET straight/ADJ line/NOUN with/ADP both/DET arm/NOUN outstretche/VERB and/CCONJ the/DET come/VERB to/ADP a/DET standstill/NOUN and/CCONJ rest/VERB its/DET arm/NOUN at/ADP its/DET side/NOUN#0.0#8.0

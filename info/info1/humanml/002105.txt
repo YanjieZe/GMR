@@ -1,0 +1,3 @@
+the man is standing still covering his mouth with his hand#the/DET man/NOUN is/AUX stand/VERB still/ADV cover/VERB his/DET mouth/NOUN with/ADP his/DET hand/NOUN#0.0#0.0
+a man stands straight and raises right arm toward his face.#a/DET man/NOUN stand/VERB straight/ADV and/CCONJ raise/VERB right/ADJ arm/NOUN toward/ADP his/DET face/NOUN#0.0#0.0
+the person puts his right hand to his head.#the/DET person/NOUN put/VERB his/DET right/ADJ hand/NOUN to/ADP his/DET head/NOUN#0.0#0.0

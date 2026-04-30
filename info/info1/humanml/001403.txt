@@ -1,0 +1,3 @@
+a slightly stooped person holding something with both hands proceeds to place it downwards and compact its base#a/DET slightly/ADV stoop/VERB person/NOUN hold/VERB something/PRON with/ADP both/DET hand/NOUN proceed/NOUN to/ADP place/VERB it/PRON downwards/ADV and/CCONJ compact/VERB its/DET base/NOUN#0.0#0.0
+a person picks something up, moves it to the right and then acts like he is patting it#a/DET person/NOUN pick/VERB something/PRON up/ADP move/VERB it/PRON to/ADP the/DET right/NOUN and/CCONJ then/ADV act/VERB like/SCONJ he/PRON is/AUX pat/VERB it/PRON#0.0#0.0
+the man tries to wrap something with his hands#the/DET man/NOUN try/VERB to/PART wrap/VERB something/PRON with/ADP his/DET hand/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+someone is walking backwards and clockwise around a tight arcing path.#someone/PRON is/AUX walk/VERB backwards/ADV and/CCONJ clockwise/VERB around/ADP a/DET tight/ADJ arc/VERB path/NOUN#0.0#0.0
+someone moving diagonally backwards as if dragging oneleg#someone/PRON move/VERB diagonally/ADV backwards/ADV as/SCONJ if/SCONJ drag/VERB oneleg/NOUN#0.0#0.0
+a man drags his right foot diagonally across square, then turns and drags it back to center.#a/DET man/NOUN drag/VERB his/DET right/ADJ foot/NOUN diagonally/ADV across/ADP square/NOUN then/ADV turn/VERB and/CCONJ drag/VERB it/PRON back/ADV to/ADP center/NOUN#0.0#0.0

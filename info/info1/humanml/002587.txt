@@ -1,0 +1,3 @@
+she twists her trunk and thrusts her right arm up to the sky in front of her, then lowers it and returns to a relaxed pose.#she/PRON twist/VERB her/DET trunk/NOUN and/CCONJ thrust/VERB her/DET right/ADJ arm/NOUN up/ADP to/ADP the/DET sky/NOUN in/ADP front/NOUN of/ADP her/PRON then/ADV lower/VERB it/PRON and/CCONJ return/VERB to/ADP a/DET relaxed/ADJ pose/NOUN#0.0#0.0
+a person reaches up their arm then lowers it#a/DET person/NOUN reach/VERB up/ADP their/DET arm/NOUN then/ADV lower/VERB it/PRON#0.0#0.0
+he is boxing left upwards#he/PRON is/AUX box/VERB left/VERB upwards/ADV#0.0#0.0

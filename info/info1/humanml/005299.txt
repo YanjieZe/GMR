@@ -1,0 +1,3 @@
+the person takes one jump back.#the/DET person/NOUN take/VERB one/NUM jump/NOUN back/ADV#0.0#0.0
+person does one jump back with bothe feet shoulder length apart#person/NOUN does/AUX one/NUM jump/VERB back/ADV with/ADP bothe/DET foot/NOUN shoulder/NOUN length/NOUN apart/ADV#0.0#0.0
+a person who is standing with his hands out from his sides bends at the knees and jumps backwards.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP his/DET hand/NOUN out/ADP from/ADP his/DET side/NOUN bend/NOUN at/ADP the/DET knee/NOUN and/CCONJ jump/VERB backwards/ADV#0.0#0.0

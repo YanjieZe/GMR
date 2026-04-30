@@ -1,0 +1,3 @@
+a person walks in all directions while performing aggressive gestures.#a/DET person/NOUN walk/VERB in/ADP all/DET direction/NOUN while/SCONJ perform/VERB aggressive/ADJ gesture/NOUN#0.0#0.0
+man fights and shows off#man/NOUN fight/VERB and/CCONJ show/VERB off/ADP#0.0#0.0
+a person shakes their arms vigorously back and forth.#a/DET person/NOUN shake/VERB their/DET arm/NOUN vigorously/ADV back/ADV and/CCONJ forth/ADV#8.0#9.5

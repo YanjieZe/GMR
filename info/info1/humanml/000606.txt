@@ -1,0 +1,3 @@
+a man walks forwards quickly, swinging his bent arms in a quick motion.#a/DET man/NOUN walk/VERB forwards/ADP quickly/ADV swinge/VERB his/DET bent/ADJ arm/NOUN in/ADP a/DET quick/ADJ motion/NOUN#0.0#0.0
+walks forward and moves to the left slitghtly while walkng#walk/VERB forward/ADV and/CCONJ move/VERB to/ADP the/DET left/NOUN slitghtly/ADV while/SCONJ walkng/PROPN#0.0#0.0
+he walks forward then stops#he/PRON walk/VERB forward/ADV then/ADV stop/VERB#0.0#0.0

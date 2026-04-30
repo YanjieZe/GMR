@@ -1,0 +1,3 @@
+a person slaps their hands against their legs#a/DET person/NOUN slap/VERB their/DET hand/NOUN against/ADP their/DET leg/NOUN#0.0#0.0
+a person placing their hands on their thighs.#a/DET person/NOUN place/VERB their/DET hand/NOUN on/ADP their/DET thigh/NOUN#0.0#0.0
+a person rests their hands on their legs#a/DET person/NOUN rest/VERB their/DET hand/NOUN on/ADP their/DET leg/NOUN#0.0#0.0

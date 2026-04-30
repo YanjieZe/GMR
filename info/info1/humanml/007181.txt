@@ -1,0 +1,3 @@
+a person is jogging around the room.#a/DET person/NOUN is/AUX jog/VERB around/ADP the/DET room/NOUN#0.0#0.0
+a man is jogging to 1 end of the room then back to the another end.#a/DET man/NOUN is/AUX jog/VERB to/ADP end/NOUN of/ADP the/DET room/NOUN then/ADV back/ADV to/ADP the/DET another/DET end/NOUN#0.0#0.0
+a person jogs briskly on the spot moving forwards slowly while maintaining high legs#a/DET person/NOUN jog/VERB briskly/ADV on/ADP the/DET spot/NOUN moving/NOUN forwards/ADV slowly/ADV while/SCONJ maintain/VERB high/ADJ leg/NOUN#0.0#0.0

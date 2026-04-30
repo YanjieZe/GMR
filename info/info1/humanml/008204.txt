@@ -1,0 +1,3 @@
+the person walked forward and sat down.#the/DET person/NOUN walk/VERB forward/ADV and/CCONJ sit/VERB down/ADP#0.0#0.0
+a person slowly waled forward and after sat on something and return#a/DET person/NOUN slowly/ADV wale/VERB forward/ADV and/CCONJ after/ADP sit/VERB on/ADP something/PRON and/CCONJ return/NOUN#0.0#0.0
+a person walks forward, turns around and sits down, then gets back up and walks back.#a/DET person/NOUN walk/VERB forward/ADV turn/VERB around/ADV and/CCONJ sit/VERB down/ADV then/ADV get/VERB back/ADV up/ADV and/CCONJ walk/VERB back/ADV#0.0#0.0

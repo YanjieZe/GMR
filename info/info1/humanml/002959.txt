@@ -1,0 +1,3 @@
+a person is walking around aimlessly as if pondering something.#a/DET person/NOUN is/AUX walk/VERB around/ADV aimlessly/ADV as/SCONJ if/SCONJ ponder/VERB something/PRON#0.0#0.0
+a man paces and multiple directions while waving his hands.#a/DET man/NOUN pace/NOUN and/CCONJ multiple/ADJ direction/NOUN while/SCONJ wave/VERB his/DET hand/NOUN#0.0#0.0
+person walks around a room, first with his hands on his waist then releases them and leaves them on the sides of the body#person/NOUN walk/VERB around/ADP a/DET room/NOUN first/ADV with/ADP his/DET hand/NOUN on/ADP his/DET waist/NOUN then/ADV release/VERB them/PRON and/CCONJ leave/VERB them/PRON on/ADP the/DET side/NOUN of/ADP the/DET body/NOUN#0.0#10.0

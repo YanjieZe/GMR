@@ -1,0 +1,3 @@
+a person is sitting down while using its right hand to eat some food#a/DET person/NOUN is/AUX sit/VERB down/ADP while/SCONJ use/VERB its/DET right/ADJ hand/NOUN to/PART eat/VERB some/DET food/NOUN#0.0#0.0
+squatting with both arms in the upright fighting position#squat/VERB with/ADP both/DET arm/NOUN in/ADP the/DET upright/ADJ fighting/NOUN position/NOUN#0.0#0.0
+a person sits on the ground, eating an object.#a/DET person/NOUN sit/VERB on/ADP the/DET ground/NOUN eat/VERB an/DET object/NOUN#0.0#0.0

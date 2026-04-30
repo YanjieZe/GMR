@@ -1,0 +1,3 @@
+the person takes short steps while practicing dancing#the/DET person/NOUN take/VERB short/ADJ step/NOUN while/SCONJ practice/VERB dancing/NOUN#0.0#0.0
+person is doing dance moves#person/NOUN is/AUX do/VERB dance/NOUN move/NOUN#0.0#0.0
+the person is dancing back-and-forth by themselves.#the/DET person/NOUN is/AUX dance/VERB backandforth/ADJ by/ADP themselves/PRON#0.0#0.0

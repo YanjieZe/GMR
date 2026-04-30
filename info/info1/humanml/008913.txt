@@ -1,0 +1,3 @@
+a person starts duckwalking and walks backwards.#a/DET person/NOUN start/VERB duckwalke/VERB and/CCONJ walk/VERB backwards/ADV#0.0#0.0
+he put his legs down then stop#he/PRON put/VERB his/DET leg/NOUN down/ADV then/ADV stop/VERB#0.0#0.0
+a person squats down and walks forward in a crouch then stands up and walks backward to beginning position.#a/DET person/NOUN squat/VERB down/ADP and/CCONJ walk/VERB forward/ADV in/ADP a/DET crouch/NOUN then/ADV stand/VERB up/ADP and/CCONJ walk/VERB backward/ADV to/ADP begin/VERB position/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+the man reaches his right hand into the air then shrugs and digs a hole and shrugs again.#the/DET man/NOUN reach/VERB his/DET right/ADJ hand/NOUN into/ADP the/DET air/NOUN then/ADV shrug/VERB and/CCONJ dig/VERB a/DET hole/NOUN and/CCONJ shrug/NOUN again/ADV#0.0#0.0
+a person put something above them like on a shelf, shrugs, then does a shoveling motion#a/DET person/NOUN put/VERB something/PRON above/ADP them/PRON like/INTJ on/ADP a/DET shelf/NOUN shrug/NOUN then/ADV does/AUX a/DET shoveling/NOUN motion/NOUN#0.0#0.0
+a man grabs an object above his head with his right hand.#a/DET man/NOUN grab/VERB an/DET object/NOUN above/ADP his/DET head/NOUN with/ADP his/DET right/ADJ hand/NOUN#0.0#2.0

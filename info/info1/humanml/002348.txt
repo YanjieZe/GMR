@@ -1,0 +1,3 @@
+a person bends over and runs around#a/DET person/NOUN bend/VERB over/ADP and/CCONJ run/VERB around/ADP#0.0#0.0
+a person bends slightly, then prances around in a counter clockwise motion.#a/DET person/NOUN bend/VERB slightly/ADV then/ADV prance/VERB around/ADV in/ADP a/DET counter/NOUN clockwise/NOUN motion/NOUN#0.0#0.0
+the person is carrying something and going in circle.#the/DET person/NOUN is/AUX carry/VERB something/PRON and/CCONJ go/VERB in/ADP circle/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person reaches out with his right hand.#a/DET person/NOUN reach/VERB out/ADP with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+person points with their right hand in cockwise motion#person/NOUN point/VERB with/ADP their/DET right/ADJ hand/NOUN in/ADP cockwise/NOUN motion/NOUN#0.0#0.0
+a person motions to his left with his right arm and hand and then to his right#a/DET person/NOUN motion/NOUN to/ADP his/DET left/NOUN with/ADP his/DET right/ADJ arm/NOUN and/CCONJ hand/NOUN and/CCONJ then/ADV to/ADP his/DET right/NOUN#0.0#0.0

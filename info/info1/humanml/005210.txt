@@ -1,0 +1,3 @@
+person shuffles in a circle twice#person/NOUN shuffle/VERB in/ADP a/DET circle/NOUN twice/ADV#0.0#0.0
+a person takes twenty-four steps to complete and overlap a circle while constantly moving to his right.#a/DET person/NOUN take/VERB twentyfour/ADJ step/NOUN to/PART complete/VERB and/CCONJ overlap/VERB a/DET circle/NOUN while/SCONJ constantly/ADV move/VERB to/ADP his/DET right/NOUN#0.0#0.0
+a person, upright, walks stridently in a circle#a/DET person/NOUN upright/ADV walk/VERB stridently/ADV in/ADP a/DET circle/NOUN#0.0#0.0

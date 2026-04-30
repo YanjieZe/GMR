@@ -1,0 +1,3 @@
+a person performing a dance routine.#a/DET person/NOUN perform/VERB a/DET dance/NOUN routine/NOUN#0.0#0.0
+a person dances, using their arms and legs alternately, then completes the routine and walks back.#a/DET person/NOUN dance/VERB use/VERB their/DET arm/NOUN and/CCONJ leg/NOUN alternately/ADV then/ADV complete/VERB the/DET routine/NOUN and/CCONJ walk/VERB back/ADV#0.0#0.0
+a dances a two step to their right, taps their left foot with their arms raised, and squats before shuffling their feet.#a/DET dance/NOUN a/DET two/NUM step/NOUN to/ADP their/DET right/NOUN tap/VERB their/DET left/ADJ foot/NOUN with/ADP their/DET arm/NOUN raise/VERB and/CCONJ squat/NOUN before/ADP shuffle/VERB their/DET foot/NOUN#0.0#0.0

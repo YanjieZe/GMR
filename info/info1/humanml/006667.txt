@@ -1,0 +1,3 @@
+a person takes several steps forward with a slight limp, turns around, and lightly jogs back to their beginning position.#a/DET person/NOUN take/VERB several/ADJ step/NOUN forward/ADV with/ADP a/DET slight/ADJ limp/NOUN turn/VERB around/ADV and/CCONJ lightly/ADV jog/VERB back/ADV to/ADP their/DET beginning/NOUN position/NOUN#0.0#0.0
+the man hulks forward turns and jogs back.#the/DET man/NOUN hulk/VERB forward/ADV turn/VERB and/CCONJ jog/VERB back/ADV#0.0#0.0
+a man staggers forward, turns clockwise, then jogs back to starting point.#a/DET man/NOUN stagger/VERB forward/ADV turn/VERB clockwise/NOUN then/ADV jog/VERB back/ADV to/ADP starting/NOUN point/NOUN#0.0#10.0

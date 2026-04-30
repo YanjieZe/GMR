@@ -1,0 +1,3 @@
+a person waves their hands in front of their face.#a/DET person/NOUN wave/VERB their/DET hand/NOUN in/ADP front/NOUN of/ADP their/DET face/NOUN#0.0#0.0
+a person raises both their arms and waves.#a/DET person/NOUN raise/VERB both/CCONJ their/DET arm/NOUN and/CCONJ wave/NOUN#0.0#0.0
+shake the hands and clappes the hands.#shake/VERB the/DET hand/NOUN and/CCONJ clappe/VERB the/DET hand/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a man jabs the air repeatedly with his right hand.#a/DET man/NOUN jab/VERB the/DET air/NOUN repeatedly/ADV with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+a person stands and throws jabbing punches.#a/DET person/NOUN stand/VERB and/CCONJ throw/VERB jab/VERB punch/NOUN#0.0#0.0
+a person raised the both hands,and made some jesture#a/DET person/NOUN raise/VERB the/DET both/DET hand/NOUN and/CCONJ make/VERB some/DET jesture/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person throwed something with right hand#a/DET person/NOUN throw/VERB something/PRON with/ADP right/ADJ hand/NOUN#0.0#0.0
+a man raises his right arm into the air and makes a throwing motion.#a/DET man/NOUN raise/VERB his/DET right/ADJ arm/NOUN into/ADP the/DET air/NOUN and/CCONJ make/VERB a/DET throwing/NOUN motion/NOUN#0.0#1.0
+a person wipes the wall or a window with something in their hand#a/DET person/NOUN wipe/VERB the/DET wall/NOUN or/CCONJ a/DET window/NOUN with/ADP something/PRON in/ADP their/DET hand/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks forward slowly without moving forward, as though walking on a treadmill, and his arms remain still at his sides.#a/DET person/NOUN walk/VERB forward/ADV slowly/ADV without/ADP move/VERB forward/ADV as/SCONJ though/SCONJ walk/VERB on/ADP a/DET treadmill/NOUN and/CCONJ his/DET arm/NOUN remain/VERB still/ADV at/ADP his/DET side/NOUN#0.0#0.0
+a person walking slowly on a treadmill.#a/DET person/NOUN walk/VERB slowly/ADV on/ADP a/DET treadmill/NOUN#0.0#0.0
+the man is slowly walking on the treadmill.#the/DET man/NOUN is/AUX slowly/ADV walk/VERB on/ADP the/DET treadmill/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+someone steps over a short stool.#someone/PRON step/VERB over/ADP a/DET short/ADJ stool/NOUN#0.0#0.0
+a person, slowly walking forward, then change direction to left, and back to place#a/DET person/NOUN slowly/ADV walk/VERB forward/ADV then/ADV change/VERB direction/NOUN to/ADP left/VERB and/CCONJ back/ADV to/ADP place/NOUN#0.0#0.0
+person moves over obstacle with left leg then back over obstacle with left leg#person/NOUN move/VERB over/ADP obstacle/NOUN with/ADP left/ADJ leg/NOUN then/ADV back/ADV over/ADP obstacle/NOUN with/ADP left/ADJ leg/NOUN#0.0#0.0

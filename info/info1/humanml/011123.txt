@@ -1,0 +1,3 @@
+a person walks forwards and almost falls backwards.#a/DET person/NOUN walk/VERB forwards/ADV and/CCONJ almost/ADV fall/VERB backwards/ADV#0.0#0.0
+a man walks forward and stumbles.#a/DET man/NOUN walk/VERB forward/ADV and/CCONJ stumble/NOUN#0.0#0.0
+a person walks forward and then staggers back.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ then/ADV stagger/VERB back/ADV#0.0#0.0

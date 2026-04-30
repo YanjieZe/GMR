@@ -1,0 +1,3 @@
+this person moves his hands as if to throw a ball.#this/DET person/NOUN move/VERB his/DET hand/NOUN as/SCONJ if/SCONJ to/PART throw/VERB a/DET ball/NOUN#0.0#0.0
+a person practices to throw something and then throws it#a/DET person/NOUN practice/VERB to/PART throw/VERB something/PRON and/CCONJ then/ADV throw/VERB it/PRON#0.0#0.0
+a person holds a ball in both hands before winding up to throw it with their right hand.#a/DET person/NOUN hold/VERB a/DET ball/NOUN in/ADP both/DET hand/NOUN before/ADP wind/VERB up/ADP to/PART throw/VERB it/PRON with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0

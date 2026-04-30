@@ -1,0 +1,3 @@
+a person turns to the lift, walks forward and then walks up some steps, then turns left again and then steps down.#a/DET person/NOUN turn/VERB to/ADP the/DET lift/NOUN walk/VERB forward/ADV and/CCONJ then/ADV walk/VERB up/ADP some/DET step/NOUN then/ADV turn/VERB left/VERB again/ADV and/CCONJ then/ADV step/VERB down/ADP#0.0#0.0
+the man is walking on uneven terrain#the/DET man/NOUN is/AUX walk/VERB on/ADP uneven/ADJ terrain/NOUN#0.0#0.0
+figure appears to be walking up and down a platform#figure/NOUN appear/VERB to/PART be/AUX walk/VERB up/ADP and/CCONJ down/ADP a/DET platform/NOUN#0.0#0.0

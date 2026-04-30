@@ -1,0 +1,3 @@
+a man takes one step forward leading with his right foot.#a/DET man/NOUN take/VERB one/NUM step/NOUN forward/ADV lead/VERB with/ADP his/DET right/ADJ foot/NOUN#0.0#0.0
+person takes a small leap forward#person/NOUN take/VERB a/DET small/ADJ leap/NOUN forward/ADV#0.0#0.0
+a figure takes a sexy step forward, thrusting out their right hip#a/DET figure/NOUN take/VERB a/DET sexy/ADJ step/NOUN forward/ADV thrust/VERB out/ADP their/DET right/ADJ hip/NOUN#0.0#0.0

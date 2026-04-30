@@ -1,0 +1,3 @@
+a person acting like a cat pruning and purring#a/DET person/NOUN act/VERB like/SCONJ a/DET cat/NOUN prune/VERB and/CCONJ purr/VERB#0.0#0.0
+a person standing still puts two hands in front clawing forward slowly and then leans in.#a/DET person/NOUN stand/VERB still/ADV put/VERB two/NUM hand/NOUN in/ADP front/ADJ clawing/NOUN forward/ADV slowly/ADV and/CCONJ then/ADV lean/VERB in/ADV#0.0#0.0
+a person immitating a cat#a/DET person/NOUN immitate/VERB a/DET cat/NOUN#0.0#0.0

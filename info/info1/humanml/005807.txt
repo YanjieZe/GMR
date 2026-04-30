@@ -1,0 +1,3 @@
+a person flexes then released his flex#a/DET person/NOUN flexes/NOUN then/ADV release/VERB his/DET flex/NOUN#0.0#0.0
+a man is screwing a lid onto something with his right hand.#a/DET man/NOUN is/AUX screw/VERB a/DET lid/NOUN onto/ADP something/PRON with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+a person holds an object while unscrewing it#a/DET person/NOUN hold/VERB an/DET object/NOUN while/SCONJ unscrew/VERB it/PRON#0.0#0.0

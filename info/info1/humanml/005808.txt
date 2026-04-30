@@ -1,0 +1,3 @@
+a person is waving intently with their left hand.#a/DET person/NOUN is/AUX wave/VERB intently/ADV with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0
+someone is wiping something at shoulder height with their left hand.#someone/PRON is/AUX wipe/VERB something/PRON at/ADP shoulder/NOUN height/NOUN with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0
+the person is waving as if they are waving someone down or waving at a crowd of people#the/DET person/NOUN is/AUX wave/VERB as/SCONJ if/SCONJ they/PRON are/AUX wave/VERB someone/PRON down/ADP or/CCONJ wave/VERB at/ADP a/DET crowd/NOUN of/ADP people/NOUN#0.0#0.0

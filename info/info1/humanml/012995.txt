@@ -1,0 +1,3 @@
+a person crosses their wrists together making an x.#a/DET person/NOUN cross/VERB their/DET wrist/NOUN together/ADV make/VERB an/DET#0.0#0.0
+a person crosses their arm and then returns to resting position.#a/DET person/NOUN cross/VERB their/DET arm/NOUN and/CCONJ then/ADV return/VERB to/ADP resting/NOUN position/NOUN#0.0#0.0
+a person crosses their arms in front of their chest, then lowers their arms back to their sides.#a/DET person/NOUN cross/VERB their/DET arm/NOUN in/ADP front/NOUN of/ADP their/DET chest/NOUN then/ADV lower/VERB their/DET arm/NOUN back/ADV to/ADP their/DET side/NOUN#0.0#0.0

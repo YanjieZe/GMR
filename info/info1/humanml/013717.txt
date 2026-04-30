@@ -1,0 +1,3 @@
+the person takes a step forward, while their arms are raised outward and at the height of their shoulders, and then quickly pulses their arms.#the/DET person/NOUN take/VERB a/DET step/NOUN forward/ADV while/SCONJ their/DET arm/NOUN are/AUX raise/VERB outward/ADV and/CCONJ at/ADP the/DET height/NOUN of/ADP their/DET shoulder/NOUN and/CCONJ then/ADV quickly/ADV pulse/VERB their/DET arm/NOUN#0.0#0.0
+a person takes a few steps forward with their arms outstretched.#a/DET person/NOUN take/VERB a/DET few/ADJ step/NOUN forward/ADV with/ADP their/DET arm/NOUN outstretche/VERB#0.0#0.0
+this person holds both arms out to the sides and walks forward.#this/DET person/NOUN hold/VERB both/DET arm/NOUN out/ADV to/ADP the/DET side/NOUN and/CCONJ walk/VERB forward/ADV#0.0#0.0

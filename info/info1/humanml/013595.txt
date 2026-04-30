@@ -1,0 +1,3 @@
+user puts both hands together and pulls them back above head and then back down again#user/NOUN put/VERB both/DET hand/NOUN together/ADV and/CCONJ pull/VERB them/PRON back/ADV above/ADP head/NOUN and/CCONJ then/ADV back/ADV down/ADP again/ADV#0.0#0.0
+a person swings at something on the ground as if they were holding a golf club.#a/DET person/NOUN swing/VERB at/ADP something/PRON on/ADP the/DET ground/NOUN as/SCONJ if/SCONJ they/PRON were/AUX hold/VERB a/DET golf/NOUN club/NOUN#0.0#0.0
+a person swings a driver golf club from right to left.#a/DET person/NOUN swing/VERB a/DET driver/NOUN golf/NOUN club/NOUN from/ADP right/NOUN to/ADP left/NOUN#0.0#0.0

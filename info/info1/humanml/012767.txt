@@ -1,0 +1,3 @@
+person walks forward slightly, then touches where their head would be.#person/NOUN walk/VERB forward/ADV slightly/ADV then/ADV touch/VERB where/ADV their/DET head/NOUN would/VERB be/AUX#0.0#0.0
+a person walks to the side, puts their right arm up to shield their face, turns to their right and puts their hand up again.#a/DET person/NOUN walk/VERB to/ADP the/DET side/NOUN put/VERB their/DET right/ADJ arm/NOUN up/ADP to/PART shield/VERB their/DET face/NOUN turn/VERB to/ADP their/DET right/NOUN and/CCONJ put/VERB their/DET hand/NOUN up/ADP again/ADV#0.0#0.0
+a person is lost or missing something and trying to search for it.#a/DET person/NOUN is/AUX lose/VERB or/CCONJ miss/VERB something/PRON and/CCONJ try/VERB to/PART search/VERB for/ADP it/PRON#0.0#0.0

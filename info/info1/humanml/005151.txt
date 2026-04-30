@@ -1,0 +1,3 @@
+the person is drinking a bottle from his left hand.#the/DET person/NOUN is/AUX drink/VERB a/DET bottle/NOUN from/ADP his/DET left/ADJ hand/NOUN#0.0#0.0
+character is still in place raising both hands then lowing to the chest level.#character/NOUN is/AUX still/ADV in/ADP place/NOUN raise/VERB both/DET hand/NOUN then/ADV low/VERB to/ADP the/DET chest/NOUN level/NOUN#0.0#2.0
+the hands go towards the face, then the right hand goes to the armpit in scrubbing motion.#the/DET hand/NOUN go/VERB towards/ADP the/DET face/NOUN then/ADV the/DET right/ADJ hand/NOUN go/VERB to/ADP the/DET armpit/NOUN in/ADP scrub/VERB motion/NOUN#0.0#0.0

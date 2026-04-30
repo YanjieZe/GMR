@@ -1,0 +1,3 @@
+a person walks and steps over something.#a/DET person/NOUN walk/VERB and/CCONJ step/VERB over/ADP something/PRON#0.0#0.0
+a man walks forward and then steps over an object.#a/DET man/NOUN walk/VERB forward/ADV and/CCONJ then/ADV step/VERB over/ADP an/DET object/NOUN#0.0#0.0
+a man walks and steps onto an elevated area before walking off of it.#a/DET man/NOUN walk/VERB and/CCONJ step/VERB onto/ADP an/DET elevated/ADJ area/NOUN before/ADP walk/VERB off/ADP of/ADP it/PRON#0.0#0.0

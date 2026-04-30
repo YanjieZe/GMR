@@ -1,0 +1,3 @@
+a person dances and moves around with their hands in the air.#a/DET person/NOUN dance/VERB and/CCONJ move/VERB around/ADP with/ADP their/DET hand/NOUN in/ADP the/DET air/NOUN#0.0#0.0
+a person sways their arms while spinning and walking in a clockwise motion and then counter-clockwise motion, stopping at the original starting position.#a/DET person/NOUN sway/VERB their/DET arm/NOUN while/SCONJ spin/VERB and/CCONJ walk/VERB in/ADP a/DET clockwise/NOUN motion/NOUN and/CCONJ then/ADV counterclockwise/VERB motion/NOUN stop/VERB at/ADP the/DET original/ADJ starting/NOUN position/NOUN#0.0#0.0
+flailing arms and legs randomly.#flailing/NOUN arm/NOUN and/CCONJ leg/NOUN randomly/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+the man squats and moves his arms.#the/DET man/NOUN squat/VERB and/CCONJ move/VERB his/DET arm/NOUN#0.0#0.0
+a man is driving a car.#a/DET man/NOUN is/AUX drive/VERB a/DET car/NOUN#0.0#0.0
+a person turns a steering wheel while driving.#a/DET person/NOUN turn/VERB a/DET steering/NOUN wheel/NOUN while/SCONJ drive/VERB#0.0#0.0

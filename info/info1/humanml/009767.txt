@@ -1,0 +1,3 @@
+person skipping jauntily forward in a slightly diagonal path.#person/NOUN skip/VERB jauntily/ADV forward/ADV in/ADP a/DET slightly/ADV diagonal/ADJ path/NOUN#0.0#0.0
+the person is skipping across the room.#the/DET person/NOUN is/AUX skip/VERB across/ADP the/DET room/NOUN#0.0#0.0
+a person bounces while walking forward.#a/DET person/NOUN bounce/VERB while/SCONJ walk/VERB forward/ADV#0.0#0.0

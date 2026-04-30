@@ -1,0 +1,3 @@
+the person touches their face over and over.#the/DET person/NOUN touch/VERB their/DET face/NOUN over/ADP and/CCONJ over/ADV#0.0#0.0
+person keeps touching their face#person/NOUN keep/VERB touch/VERB their/DET face/NOUN#0.0#0.0
+the person is using his hand gesture to touch his nose.#the/DET person/NOUN is/AUX use/VERB his/DET hand/NOUN gesture/NOUN to/PART touch/VERB his/DET nose/NOUN#0.0#0.0

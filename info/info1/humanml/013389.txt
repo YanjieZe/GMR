@@ -1,0 +1,3 @@
+person is performing golf motion#person/NOUN is/AUX perform/VERB golf/NOUN motion/NOUN#0.0#0.0
+a standing person clasps her hands together in a golf grip, leans over, and makes a putting motion, swinging from her right to her left.#a/DET stand/VERB person/NOUN clasp/VERB her/DET hand/NOUN together/ADV in/ADP a/DET golf/NOUN grip/NOUN lean/VERB over/ADV and/CCONJ make/VERB a/DET putting/NOUN motion/NOUN swinge/VERB from/ADP her/PRON right/NOUN to/ADP her/DET left/NOUN#0.0#0.0
+moving hands side to side.#move/VERB hand/NOUN side/VERB to/PART side/VERB#0.0#0.0

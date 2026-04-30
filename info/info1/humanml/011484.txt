@@ -1,0 +1,3 @@
+a  person's arms by sides are crossed in front of chest and then lowered by sides again.#a/DET person/NOUN arm/NOUN by/ADP side/NOUN are/AUX cross/VERB in/ADP front/NOUN of/ADP chest/NOUN and/CCONJ then/ADV lower/VERB by/ADP side/NOUN again/ADV#0.0#0.0
+a man stands and folds his arms.#a/DET man/NOUN stand/VERB and/CCONJ fold/VERB his/DET arm/NOUN#0.0#0.0
+a person holds both of their arms.#a/DET person/NOUN hold/VERB both/DET of/ADP their/DET arm/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+person makes slapping motion with left hand#person/NOUN make/VERB slap/VERB motion/NOUN with/ADP left/ADJ hand/NOUN#0.0#0.0
+a person slaps something with their left hand.#a/DET person/NOUN slap/VERB something/PRON with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0
+the person swings their left hand from back to front.#the/DET person/NOUN swing/VERB their/DET left/ADJ hand/NOUN from/ADP back/ADV to/ADP front/NOUN#0.0#0.0

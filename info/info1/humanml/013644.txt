@@ -1,0 +1,3 @@
+man does jumping jacks while standing in place.#man/NOUN does/AUX jump/VERB jack/NOUN while/SCONJ stand/VERB in/ADP place/NOUN#1.0#4.0
+a person is doing jumping jacks.#a/DET person/NOUN is/AUX do/VERB jump/VERB jack/NOUN#0.0#0.0
+a person doing jumping jacks#a/DET person/NOUN do/VERB jump/VERB jack/NOUN#0.0#0.0

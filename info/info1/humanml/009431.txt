@@ -1,0 +1,3 @@
+a person walks in a 's' shape with their hands in front of their face.#a/DET person/NOUN walk/VERB in/ADP a/DET shape/NOUN with/ADP their/DET hand/NOUN in/ADP front/NOUN of/ADP their/DET face/NOUN#0.0#0.0
+stick figure walks in a w motion holding its arms in the air#stick/PROPN figure/NOUN walk/VERB in/ADP a/DET w/NOUN motion/NOUN hold/VERB its/DET arm/NOUN in/ADP the/DET air/NOUN#0.0#7.0
+a person with their hands in front of their chest, walks in a 3 shape.#a/DET person/NOUN with/ADP their/DET hand/NOUN in/ADP front/NOUN of/ADP their/DET chest/NOUN walk/VERB in/ADP a/DET shape/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person wwalked by making the circle#a/DET person/NOUN wwalke/VERB by/ADP make/VERB the/DET circle/NOUN#0.0#0.0
+a person is holding their right arm to their head and then returns it back to side several times while walking in clockwise circle.#a/DET person/NOUN is/AUX hold/VERB their/DET right/ADJ arm/NOUN to/ADP their/DET head/NOUN and/CCONJ then/ADV return/VERB it/PRON back/ADV to/PART side/VERB several/ADJ time/NOUN while/SCONJ walk/VERB in/ADP clockwise/ADJ circle/NOUN#0.0#0.0
+a man steps forward holding an object to his head with his right hand.#a/DET man/NOUN step/VERB forward/ADV hold/VERB an/DET object/NOUN to/ADP his/DET head/NOUN with/ADP his/DET right/ADJ hand/NOUN#0.0#2.0

@@ -1,0 +1,3 @@
+a person runs up and down a small hump.#a/DET person/NOUN run/VERB up/ADV and/CCONJ down/ADP a/DET small/ADJ hump/NOUN#0.0#0.0
+the person is jogging forward diagonally.#the/DET person/NOUN is/AUX jog/VERB forward/ADV diagonally/ADV#0.0#0.0
+the man quickly runs forward with his arms in running position.#the/DET man/NOUN quickly/ADV run/VERB forward/ADV with/ADP his/DET arm/NOUN in/ADP running/NOUN position/NOUN#0.0#0.0

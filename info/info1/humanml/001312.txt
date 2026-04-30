@@ -1,0 +1,3 @@
+a person runs up and jumps then continues to run.#a/DET person/NOUN run/VERB up/ADP and/CCONJ jump/VERB then/ADV continue/VERB to/PART run/VERB#0.0#0.0
+a person steps and jumps forward, then jogs a few paces.#a/DET person/NOUN step/VERB and/CCONJ jump/VERB forward/ADV then/ADV jog/VERB a/DET few/ADJ pace/NOUN#0.0#0.0
+someone is walking and stops to leap forward slightly.#someone/PRON is/AUX walk/VERB and/CCONJ stop/NOUN to/PART leap/VERB forward/ADV slightly/ADV#0.0#0.0

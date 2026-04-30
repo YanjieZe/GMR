@@ -1,0 +1,3 @@
+a person hardly swing the irght hand, and throw something#a/DET person/NOUN hardly/ADV swing/VERB the/DET irght/ADJ hand/NOUN and/CCONJ throw/VERB something/PRON#0.0#0.0
+a person hits a tennis smash with right arm.#a/DET person/NOUN hit/VERB a/DET tennis/NOUN smash/NOUN with/ADP right/ADJ arm/NOUN#0.0#0.0
+person appears to slam or throw some thing down with their right hand.#person/NOUN appear/VERB to/PART slam/VERB or/CCONJ throw/VERB some/DET thing/NOUN down/ADP with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0

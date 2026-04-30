@@ -1,0 +1,3 @@
+the person runs while dribbling the basketball#the/DET person/NOUN run/VERB while/SCONJ dribble/VERB the/DET basketball/NOUN#0.0#0.0
+a person sprints and runs to the left.#a/DET person/NOUN sprint/NOUN and/CCONJ run/VERB to/ADP the/DET left/NOUN#0.0#0.0
+a person runs fast in an anti clockwise direction.#a/DET person/NOUN run/VERB fast/ADV in/ADP an/DET anti/ADJ clockwise/NOUN direction/NOUN#0.0#0.0

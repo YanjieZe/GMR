@@ -1,0 +1,3 @@
+a person is throwing something with his right hand.#a/DET person/NOUN is/AUX throw/VERB something/PRON with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+a person is standing up and facing the left, and right arm is moving upward and to the left as if throwing something.#a/DET person/NOUN is/AUX stand/VERB up/ADP and/CCONJ face/VERB the/DET left/NOUN and/CCONJ right/ADJ arm/NOUN is/AUX move/VERB upward/ADV and/CCONJ to/ADP the/DET left/NOUN as/SCONJ if/SCONJ throw/VERB something/PRON#0.0#0.0
+a person throws something with their right hand.#a/DET person/NOUN throw/VERB something/PRON with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person side steps to the right and then to the left.#a/DET person/NOUN side/NOUN step/NOUN to/ADP the/DET right/NOUN and/CCONJ then/ADV to/ADP the/DET left/NOUN#0.0#0.0
+a person taking small steps to left and right/#a/DET person/NOUN take/VERB small/ADJ step/NOUN to/PART left/NOUN and/CCONJ#0.0#0.0
+a person takes a few side steps first to their right, then again to their left.#a/DET person/NOUN take/VERB a/DET few/ADJ side/NOUN step/NOUN first/ADV to/ADP their/DET right/NOUN then/ADV again/ADV to/ADP their/DET left/NOUN#0.0#0.0

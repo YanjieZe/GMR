@@ -1,0 +1,3 @@
+a person is picking up an object off the ground.#a/DET person/NOUN is/AUX pick/VERB up/ADP an/DET object/NOUN off/ADP the/DET ground/NOUN#0.0#0.0
+a person moving arms and body as if they feel defeated#a/DET person/NOUN move/VERB arm/NOUN and/CCONJ body/NOUN as/SCONJ if/SCONJ they/PRON feel/VERB defeat/VERB#0.0#0.0
+person is holding head and standing there.#person/NOUN is/AUX hold/VERB head/NOUN and/CCONJ stand/VERB there/ADV#0.0#0.0

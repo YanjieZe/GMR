@@ -1,0 +1,3 @@
+person is standing up and kicking.#person/NOUN is/AUX stand/VERB up/ADP and/CCONJ kick/VERB#0.0#0.0
+someone is kicking with one foot#someone/PRON is/AUX kick/VERB with/ADP one/NUM foot/NOUN#0.0#0.0
+medium kick foward with left leg#medium/PROPN kick/PROPN foward/ADJ with/ADP left/ADJ leg/NOUN#0.0#0.0

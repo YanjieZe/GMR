@@ -1,0 +1,3 @@
+a person walks forward and then wipes their feet on the ground.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ then/ADV wipe/VERB their/DET foot/NOUN on/ADP the/DET ground/NOUN#0.0#0.0
+person is walking forwards upstairs.#person/NOUN is/AUX walk/VERB forwards/ADV upstairs/ADV#0.0#0.0
+a person walks forward then climbs up some stairs.#a/DET person/NOUN walk/VERB forward/ADV then/ADV climb/VERB up/ADP some/DET stair/NOUN#0.0#0.0

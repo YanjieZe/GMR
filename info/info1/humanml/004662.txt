@@ -1,0 +1,3 @@
+a person is dancing with arms up.#a/DET person/NOUN is/AUX dance/VERB with/ADP arm/NOUN up/ADV#0.0#0.0
+a person swings their arms and body around as if they are dancing.#a/DET person/NOUN swing/VERB their/DET arm/NOUN and/CCONJ body/NOUN around/ADP as/SCONJ if/SCONJ they/PRON are/AUX dance/VERB#0.0#0.0
+a person lifts their right arm up while thrusting their left arm and leg out, then does a turn while lifting up alternating arms.#a/DET person/NOUN lift/VERB their/DET right/ADJ arm/NOUN up/ADP while/SCONJ thrust/VERB their/DET left/ADJ arm/NOUN and/CCONJ leg/NOUN out/ADP then/ADV does/AUX a/DET turn/NOUN while/SCONJ lift/VERB up/ADP alternate/VERB arm/NOUN#0.0#0.0

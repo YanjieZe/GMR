@@ -1,0 +1,3 @@
+and individual standing sideways raises it’s arms at shiulder hight twistinf torso first to left thrn to right#and/CCONJ individual/ADJ standing/NOUN sideways/ADV raise/VERB it/PRON arm/NOUN at/ADP shiulder/NOUN hight/PROPN twistinf/PROPN torso/PROPN first/ADV to/PART left/VERB thrn/NOUN to/ADP right/ADJ#0.0#0.0
+a figure gestures with arms outstretched to the left and then twists with arms still extended#a/DET figure/NOUN gesture/NOUN with/ADP arm/NOUN outstretche/VERB to/ADP the/DET left/NOUN and/CCONJ then/ADV twist/VERB with/ADP arm/NOUN still/ADV extend/VERB#0.0#0.0
+persons grabs something and rotates it#person/NOUN grabs/PROPN something/PRON and/CCONJ rotate/VERB it/PRON#0.0#0.0

@@ -1,0 +1,3 @@
+a man salsa dancing alone.#a/DET man/NOUN salsa/NOUN dancing/NOUN alone/ADV#0.0#0.0
+a waltzer dances with themself.#a/DET waltzer/NOUN dance/VERB with/ADP themself/PRON#0.0#0.0
+a person moves forward and backward rhythmically, while moving arms and hips rhythmically as well.#a/DET person/NOUN move/VERB forward/ADV and/CCONJ backward/ADJ rhythmically/ADV while/SCONJ move/VERB arm/NOUN and/CCONJ hip/NOUN rhythmically/ADV as/ADV well/ADV#1.0#10.0

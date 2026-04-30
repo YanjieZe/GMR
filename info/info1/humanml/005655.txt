@@ -1,0 +1,3 @@
+a man raises his hands and holds something up near his eyes like trying to scrutinize.#a/DET man/NOUN raise/VERB his/DET hand/NOUN and/CCONJ hold/VERB something/PRON up/ADP near/SCONJ his/DET eye/NOUN like/SCONJ try/VERB to/PART scrutinize/VERB#0.0#0.0
+person looks through a phone or binoculars#person/NOUN look/VERB through/ADP a/DET phone/NOUN or/CCONJ binocular/NOUN#0.0#0.0
+a person raises their their arms.#a/DET person/NOUN raise/VERB their/DET their/DET arm/NOUN#0.0#0.0

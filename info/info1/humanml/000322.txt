@@ -1,0 +1,3 @@
+a man walks forward slowly.#a/DET man/NOUN walk/VERB forward/ADV slowly/ADV#0.0#0.0
+a person pauses then takes five steps forward#a/DET person/NOUN pause/VERB then/ADV take/VERB five/NUM step/NOUN forward/ADV#0.0#0.0
+a person walks forward at a medium pace#a/DET person/NOUN walk/VERB forward/ADV at/ADP a/DET medium/ADJ pace/NOUN#0.0#0.0

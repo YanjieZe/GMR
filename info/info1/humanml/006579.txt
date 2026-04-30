@@ -1,0 +1,3 @@
+a person is flapping his arms and bobbing his head like a chicken.#a/DET person/NOUN is/AUX flap/VERB his/DET arm/NOUN and/CCONJ bob/VERB his/DET head/NOUN like/SCONJ a/DET chicken/NOUN#0.0#0.0
+the man pretends to be a chicken by flapping his arms.#the/DET man/NOUN pretend/VERB to/PART be/AUX a/DET chicken/NOUN by/ADP flap/VERB his/DET arm/NOUN#0.0#0.0
+a person is standing with arms flexed in downward positions and wiggles both arms.#a/DET person/NOUN is/AUX stand/VERB with/ADP arm/NOUN flex/VERB in/ADP downward/ADJ position/NOUN and/CCONJ wiggle/VERB both/DET arm/NOUN#0.0#0.0

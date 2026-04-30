@@ -1,0 +1,3 @@
+a person holds something heavy above their head and squats.#a/DET person/NOUN hold/VERB something/PRON heavy/ADJ above/ADP their/DET head/NOUN and/CCONJ squat/NOUN#0.0#0.0
+a person squats with a barbell on their back.#a/DET person/NOUN squat/VERB with/ADP a/DET barbell/NOUN on/ADP their/DET back/NOUN#0.0#0.0
+a person squats while holding something above their head.#a/DET person/NOUN squat/VERB while/SCONJ hold/VERB something/PRON above/ADP their/DET head/NOUN#0.0#0.0

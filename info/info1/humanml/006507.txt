@@ -1,0 +1,3 @@
+the man walks forward in an s pattern.#the/DET man/NOUN walk/VERB forward/ADV in/ADP an/DET s/PROPN pattern/NOUN#0.0#0.0
+the person in the video walks in a figure eight pattern.#the/DET person/NOUN in/ADP the/DET video/NOUN walk/VERB in/ADP a/DET figure/NOUN eight/NUM pattern/NOUN#0.0#0.0
+a man walks around in a curvy pattern.#a/DET man/NOUN walk/VERB around/ADV in/ADP a/DET curvy/ADJ pattern/NOUN#0.0#0.0

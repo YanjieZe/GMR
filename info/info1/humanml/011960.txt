@@ -1,0 +1,3 @@
+the person walk forward and tripped over something.#the/DET person/NOUN walk/VERB forward/ADV and/CCONJ trip/VERB over/ADP something/PRON#0.0#0.0
+a person turns and walks and then hops two times.#a/DET person/NOUN turn/VERB and/CCONJ walk/VERB and/CCONJ then/ADV hop/VERB two/NUM time/NOUN#0.0#0.0
+a man lines himself up and then walks from left to right. he trips and checks his left foot#a/DET man/NOUN line/VERB himself/PRON up/ADP and/CCONJ then/ADV walk/VERB from/ADP left/VERB to/ADP right/NOUN he/PRON trip/VERB and/CCONJ check/VERB his/DET left/ADJ foot/NOUN#0.0#0.0

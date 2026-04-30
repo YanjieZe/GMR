@@ -1,0 +1,3 @@
+person walks forward very slowly#person/NOUN walk/VERB forward/ADV very/ADV slowly/ADV#0.0#0.0
+a person walks slowly in a straight line.#a/DET person/NOUN walk/VERB slowly/ADV in/ADP a/DET straight/ADJ line/NOUN#0.0#0.0
+a person slowly walking#a/DET person/NOUN slowly/ADV walk/VERB#0.0#0.0

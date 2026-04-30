@@ -1,0 +1,3 @@
+someone is standing up in a stretchong motion waving their arms in a circular motion#someone/PRON is/AUX stand/VERB up/ADP in/ADP a/DET stretchong/ADJ motion/NOUN wave/VERB their/DET arm/NOUN in/ADP a/DET circular/ADJ motion/NOUN#0.0#0.0
+a person casts something forward with both arms.#a/DET person/NOUN cast/VERB something/PRON forward/ADV with/ADP both/DET arm/NOUN#0.0#0.0
+the person is throwing with both hands.#the/DET person/NOUN is/AUX throw/VERB with/ADP both/DET hand/NOUN#0.0#0.0

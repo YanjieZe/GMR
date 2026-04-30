@@ -1,0 +1,3 @@
+a person walks forward with a strut.#a/DET person/NOUN walk/VERB forward/ADV with/ADP a/DET strut/NOUN#0.0#0.0
+walking in a left arc by 45 degrees#walk/VERB in/ADP a/DET left/ADJ arc/NOUN by/ADP degree/NOUN#0.0#0.0
+a person walks straight forward.#a/DET person/NOUN walk/VERB straight/ADV forward/ADV#0.0#0.0

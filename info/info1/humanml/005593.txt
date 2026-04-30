@@ -1,0 +1,3 @@
+a person's feet are pulled forward and their fall over on their back.#a/DET person/NOUN foot/NOUN are/AUX pull/VERB forward/ADV and/CCONJ their/DET fall/NOUN over/ADP on/ADP their/DET back/NOUN#0.0#0.0
+a person fall down on the back#a/DET person/NOUN fall/VERB down/ADP on/ADP the/DET back/NOUN#0.0#0.0
+the man is doing rugpug fall#the/DET man/NOUN is/AUX do/VERB rugpug/PROPN fall/VERB#0.0#0.0

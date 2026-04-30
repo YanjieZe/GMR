@@ -1,0 +1,3 @@
+the person is turning around looking at something#the/DET person/NOUN is/AUX turn/VERB around/ADV look/VERB at/ADP something/PRON#0.0#0.0
+a person places their arms to their sides and slowly turns in place.#a/DET person/NOUN place/VERB their/DET arm/NOUN to/ADP their/DET side/NOUN and/CCONJ slowly/ADV turn/VERB in/ADP place/NOUN#0.0#0.0
+a person drops his hands to his side while turning a quarter turn to the left and then he continues to turn another quarter turn to the left.#a/DET person/NOUN drop/VERB his/DET hand/NOUN to/ADP his/DET side/NOUN while/SCONJ turn/VERB a/DET quarter/NOUN turn/VERB to/ADP the/DET left/NOUN and/CCONJ then/ADV he/PRON continue/VERB to/PART turn/VERB another/DET quarter/NOUN turn/VERB to/ADP the/DET left/NOUN#0.0#0.0

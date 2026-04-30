@@ -1,0 +1,3 @@
+person is walking on a tightrope or similar structure#person/NOUN is/AUX walk/VERB on/ADP a/DET tightrope/NOUN or/CCONJ similar/ADJ structure/NOUN#0.0#0.0
+a person walks a straight line putting one foot directly in front of the other, as if walking on a balance beam.#a/DET person/NOUN walk/VERB a/DET straight/ADJ line/NOUN put/VERB one/NUM foot/NOUN directly/ADV in/ADP front/NOUN of/ADP the/DET other/ADJ as/SCONJ if/SCONJ walk/VERB on/ADP a/DET balance/NOUN beam/NOUN#0.0#0.0
+a person walks along a narrow beam.#a/DET person/NOUN walk/VERB along/ADP a/DET narrow/ADJ beam/NOUN#0.0#0.0

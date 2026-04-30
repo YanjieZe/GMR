@@ -1,0 +1,3 @@
+the person is running back-and-forth.#the/DET person/NOUN is/AUX run/VERB backandforth/ADJ#0.0#0.0
+a person jogs back and forth dancing.#a/DET person/NOUN jog/VERB back/ADV and/CCONJ forth/ADV dance/VERB#0.0#0.0
+a person side steps to begin to quick sprint to the destination, spins to the right and runs back to the original spot#a/DET person/NOUN side/NOUN step/NOUN to/PART begin/VERB to/PART quick/ADV sprint/VERB to/ADP the/DET destination/NOUN spin/VERB to/ADP the/DET right/NOUN and/CCONJ run/VERB back/ADV to/ADP the/DET original/ADJ spot/NOUN#0.0#0.0

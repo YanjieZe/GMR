@@ -1,0 +1,3 @@
+person is looking through binoculars at someone.#person/NOUN is/AUX look/VERB through/ADP binocular/NOUN at/ADP someone/PRON#0.0#0.0
+a person brings both hands up to their mouth, and then lowers their hands#a/DET person/NOUN bring/VERB both/DET hand/NOUN up/ADP to/ADP their/DET mouth/NOUN and/CCONJ then/ADV lower/VERB their/DET hand/NOUN#0.0#0.0
+person picks up something and puts it to their face#person/NOUN pick/VERB up/ADP something/PRON and/CCONJ put/VERB it/PRON to/ADP their/DET face/NOUN#0.0#0.0

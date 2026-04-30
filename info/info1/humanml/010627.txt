@@ -1,0 +1,3 @@
+a person wipes something with his right hand.#a/DET person/NOUN wipe/VERB something/PRON with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+a person wipes something then takes a few steps back.#a/DET person/NOUN wipe/VERB something/PRON then/ADV take/VERB a/DET few/ADJ step/NOUN back/ADV#0.0#0.0
+the man bends over and uses his right hand to wipe something at hip level before he extends his full wingspan.#the/DET man/NOUN bend/VERB over/ADP and/CCONJ use/VERB his/DET right/ADJ hand/NOUN to/PART wipe/VERB something/PRON at/ADP hip/NOUN level/NOUN before/ADP he/PRON extend/VERB his/DET full/ADJ wingspan/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+the person is doing a fat kick lunge#the/DET person/NOUN is/AUX do/VERB a/DET fat/ADJ kick/NOUN lunge/NOUN#0.0#0.0
+person balances in different positions with there right leg full extended then knee bent#person/NOUN balance/VERB in/ADP different/ADJ position/NOUN with/ADP there/ADV right/ADJ leg/NOUN full/ADJ extend/VERB then/ADV knee/NOUN bent/NOUN#0.0#0.0
+a person balancing on their left leg and kicking around their right leg.#a/DET person/NOUN balance/VERB on/ADP their/DET left/ADJ leg/NOUN and/CCONJ kick/VERB around/ADP their/DET right/ADJ leg/NOUN#0.0#0.0

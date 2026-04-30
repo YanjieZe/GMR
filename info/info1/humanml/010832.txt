@@ -1,0 +1,3 @@
+a person is hunched over slightly, then stumbles slightly.#a/DET person/NOUN is/AUX hunch/VERB over/ADP slightly/ADV then/ADV stumble/VERB slightly/ADV#0.0#0.0
+person stands still, but then steps slightly forward with just their right foot.#person/NOUN stand/VERB still/ADV but/CCONJ then/ADV step/VERB slightly/ADV forward/ADV with/ADP just/ADV their/DET right/ADJ foot/NOUN#0.0#0.0
+man standing then takes one step forward with right foot then left foot#man/PROPN stand/VERB then/ADV take/VERB one/NUM step/NOUN forward/ADV with/ADP right/ADJ foot/NOUN then/ADV left/VERB foot/NOUN#0.0#0.0

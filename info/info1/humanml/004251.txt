@@ -1,0 +1,2 @@
+a person walks while curving towards the right.#a/DET person/NOUN walk/VERB while/SCONJ curve/VERB towards/ADP the/DET right/NOUN#0.0#0.0
+someone is walking diagonally across the screen#someone/PRON is/AUX walk/VERB diagonally/ADV across/ADP the/DET screen/NOUN#0.0#0.0

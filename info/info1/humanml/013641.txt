@@ -1,0 +1,3 @@
+person bends knees then slightly jumps into the air.#person/NOUN bend/VERB knee/NOUN then/ADV slightly/ADV jump/VERB into/ADP the/DET air/NOUN#0.0#0.0
+a person jumps in place once.#a/DET person/NOUN jump/VERB in/ADP place/NOUN once/ADV#0.0#0.0
+a person jumps once in the air.#a/DET person/NOUN jump/VERB once/ADV in/ADP the/DET air/NOUN#0.0#0.0

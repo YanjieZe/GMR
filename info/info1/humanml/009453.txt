@@ -1,0 +1,3 @@
+a person runs forward, dives to the ground, and rolls forward.#a/DET person/NOUN run/VERB forward/ADV dive/NOUN to/ADP the/DET ground/NOUN and/CCONJ roll/VERB forward/ADV#0.0#0.0
+a person runs forwards, leans forward, and rolls. the person then proceeds to run forwards.#a/DET person/NOUN run/VERB forwards/ADV lean/VERB forward/ADV and/CCONJ roll/NOUN the/DET person/NOUN then/ADV proceed/VERB to/PART run/VERB forwards/ADV#0.0#0.0
+person runs and does summer salt, gets up and starts running again#person/NOUN run/VERB and/CCONJ does/AUX summer/NOUN salt/NOUN get/VERB up/ADV and/CCONJ start/VERB run/VERB again/ADV#0.0#0.0

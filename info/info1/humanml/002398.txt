@@ -1,0 +1,3 @@
+the person turns to the left, walks, then walks up something.#the/DET person/NOUN turn/VERB to/ADP the/DET left/NOUN walk/VERB then/ADV walk/VERB up/ADP something/PRON#0.0#0.0
+a person walks around to the left on uneven ground.#a/DET person/NOUN walk/VERB around/ADV to/ADP the/DET left/NOUN on/ADP uneven/ADJ ground/NOUN#0.0#0.0
+a man walking down and up some steps#a/DET man/NOUN walk/VERB down/ADV and/CCONJ up/ADP some/DET step/NOUN#10.0#4.5

@@ -1,0 +1,3 @@
+robot walking up the stairs, turned back and then walk down the stairs.#robot/PROPN walk/VERB up/ADP the/DET stair/NOUN turn/VERB back/ADV and/CCONJ then/ADV walk/VERB down/ADP the/DET stair/NOUN#0.0#0.0
+a person walks up a set of stairs, turns around, and walks back down.#a/DET person/NOUN walk/VERB up/ADP a/DET set/NOUN of/ADP stair/NOUN turn/VERB around/ADV and/CCONJ walk/VERB back/ADV down/ADV#0.0#0.0
+a person walks up and down the stairs .#a/DET person/NOUN walk/VERB up/ADV and/CCONJ down/ADP the/DET stair/NOUN#0.0#0.0

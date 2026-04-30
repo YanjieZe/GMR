@@ -1,0 +1,3 @@
+person walks forward then stumbles back a bit then continues walking forwards#person/NOUN walk/VERB forward/ADV then/ADV stumble/VERB back/ADV a/DET bit/NOUN then/ADV continue/VERB walking/NOUN forwards/ADV#0.0#0.0
+individual appears to walk forward then step back and again to the front.#individual/ADJ appear/VERB to/PART walk/VERB forward/ADV then/ADV step/VERB back/ADV and/CCONJ again/ADV to/ADP the/DET front/NOUN#1.0#4.0
+a man walks forward then moves back one step them moves forward again.#a/DET man/NOUN walk/VERB forward/ADV then/ADV move/VERB back/ADV one/NUM step/NOUN them/PRON move/VERB forward/ADV again/ADV#0.0#0.0

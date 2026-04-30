@@ -1,0 +1,3 @@
+bending at the elbow, someone raises their arm.#bend/VERB at/ADP the/DET elbow/NOUN someone/PRON raise/VERB their/DET arm/NOUN#0.0#0.0
+the person shrugged his left shoulder.#the/DET person/NOUN shrug/VERB his/DET left/ADJ shoulder/NOUN#0.0#0.0
+he lifts his left hand up#he/PRON lift/VERB his/DET left/ADJ hand/NOUN up/ADP#0.0#0.0

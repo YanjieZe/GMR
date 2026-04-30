@@ -1,0 +1,3 @@
+a person grabs left foot with left hand, then extends the leg by its head.#a/DET person/NOUN grab/VERB left/VERB foot/NOUN with/ADP left/ADJ hand/NOUN then/ADV extend/VERB the/DET leg/NOUN by/ADP its/DET head/NOUN#0.0#8.0
+a man stands and lifts his left foot using his left hand and then stretches it straight off the ground.#a/DET man/NOUN stand/VERB and/CCONJ lift/VERB his/DET left/ADJ foot/NOUN use/VERB his/DET left/ADJ hand/NOUN and/CCONJ then/ADV stretch/VERB it/PRON straight/ADV off/ADP the/DET ground/NOUN#0.0#0.0
+the person is doing a ballet pose#the/DET person/NOUN is/AUX do/VERB a/DET ballet/NOUN pose/NOUN#0.0#0.0

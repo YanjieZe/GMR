@@ -1,0 +1,3 @@
+a child may squat down by a wall to enjoy a quick snack on a field trip.#a/DET child/NOUN may/VERB squat/VERB down/ADP by/ADP a/DET wall/NOUN to/PART enjoy/VERB a/DET quick/ADJ snack/NOUN on/ADP a/DET field/NOUN trip/NOUN#0.0#0.0
+a person is cruched down,moving both their hands#a/DET person/NOUN is/AUX cruche/VERB down/ADP move/VERB both/CCONJ their/DET hand/NOUN#0.0#0.0
+a person eats food while sitting down#a/DET person/NOUN eat/VERB food/NOUN while/SCONJ sit/VERB down/ADP#0.0#0.0

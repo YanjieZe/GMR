@@ -1,0 +1,3 @@
+a person from what it looks like turning a steering wheel to the left#a/DET person/NOUN from/ADP what/PRON it/PRON look/VERB like/SCONJ turn/VERB a/DET steering/NOUN wheel/NOUN to/ADP the/DET left/NOUN#0.0#0.0
+stick figure turning steering wheel#stick/PROPN figure/NOUN turn/VERB steering/NOUN wheel/NOUN#0.0#0.0
+a person seated, rotating object with hands.#a/DET person/NOUN seat/VERB rotate/VERB object/NOUN with/ADP hand/NOUN#0.0#0.0

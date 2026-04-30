@@ -1,0 +1,3 @@
+a person runs back and forth#a/DET person/NOUN run/VERB back/ADV and/CCONJ forth/ADV#0.0#0.0
+person is running back and forth.#person/NOUN is/AUX run/VERB back/ADV and/CCONJ forth/ADV#0.0#0.0
+a person turns  and runs to the right then turns and runs to the left then turns and runs back to center.#a/DET person/NOUN turn/VERB and/CCONJ run/VERB to/ADP the/DET right/NOUN then/ADV turn/VERB and/CCONJ run/VERB to/ADP the/DET left/NOUN then/ADV turn/VERB and/CCONJ run/VERB back/ADV to/ADP center/NOUN#0.0#0.0

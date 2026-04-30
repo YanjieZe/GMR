@@ -1,0 +1,3 @@
+this person spins around with arms extended to his sides.#this/DET person/NOUN spin/VERB around/ADV with/ADP arm/NOUN extend/VERB to/ADP his/DET side/NOUN#0.0#0.0
+the person is spinning around like a spinning wheel.#the/DET person/NOUN is/AUX spin/VERB around/ADP like/SCONJ a/DET spin/VERB wheel/NOUN#0.0#0.0
+a person lifts their arms and spins slowly#a/DET person/NOUN lift/VERB their/DET arm/NOUN and/CCONJ spin/NOUN slowly/ADV#0.0#0.0

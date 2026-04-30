@@ -1,0 +1,3 @@
+this person jabs with his right hand.#this/DET person/NOUN jab/VERB with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+little man does a mean right hook.#little/ADJ man/NOUN does/AUX a/DET mean/VERB right/ADJ hook/NOUN#0.0#0.0
+a person is in a boxing stance and then throws a right hook.#a/DET person/NOUN is/AUX in/ADP a/DET boxing/NOUN stance/NOUN and/CCONJ then/ADV throw/VERB a/DET right/ADJ hook/NOUN#0.0#0.0

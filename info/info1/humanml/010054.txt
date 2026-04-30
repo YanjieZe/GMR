@@ -1,0 +1,3 @@
+a man has his arms flexed, squats, and returns to standing position.#a/DET man/NOUN has/AUX his/DET arm/NOUN flex/VERB squat/NOUN and/CCONJ return/NOUN to/ADP standing/NOUN position/NOUN#0.0#0.0
+a person grabbed something and sit on the knee#a/DET person/NOUN grab/VERB something/PRON and/CCONJ sit/VERB on/ADP the/DET knee/NOUN#0.0#0.0
+person is holding something behind them while squatting.#person/NOUN is/AUX hold/VERB something/PRON behind/ADP them/PRON while/SCONJ squat/VERB#0.0#0.0

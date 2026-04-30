@@ -1,0 +1,3 @@
+the person is tiptoeing so no one hears him.#the/DET person/NOUN is/AUX tiptoe/VERB so/ADV no/DET one/NOUN hear/VERB him/PRON#0.0#0.0
+a man walks forward holding onto railings on each side with his hands.#a/DET man/NOUN walk/VERB forward/ADV hold/VERB onto/ADP railing/NOUN on/ADP each/DET side/NOUN with/ADP his/DET hand/NOUN#0.0#0.0
+a lowers their arms and uses their right and left hands to steady themselves as they walk forward#a/DET lower/NOUN their/DET arm/NOUN and/CCONJ use/VERB their/DET right/NOUN and/CCONJ left/VERB hand/NOUN to/PART steady/VERB themselves/PRON as/SCONJ they/PRON walk/VERB forward/ADV#0.0#0.0

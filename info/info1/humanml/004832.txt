@@ -1,0 +1,3 @@
+a person walks at normal pace, walks two steps a bit faster, then stops#a/DET person/NOUN walk/VERB at/ADP normal/ADJ pace/NOUN walk/VERB two/NUM step/NOUN a/DET bit/NOUN faster/ADV then/ADV stop/VERB#0.0#0.0
+a man walks forwards while keeping his arms stationary by his sides.#a/DET man/NOUN walk/VERB forwards/ADV while/SCONJ keep/VERB his/DET arm/NOUN stationary/ADJ by/ADP his/DET side/NOUN#0.0#0.0
+a person walks forward then jogs#a/DET person/NOUN walk/VERB forward/ADV then/ADV jog/VERB#0.0#0.0

@@ -1,0 +1,3 @@
+a person is standing still with their arms raised out at the level of their shoulders.#a/DET person/NOUN is/AUX stand/VERB still/ADV with/ADP their/DET arm/NOUN raise/VERB out/ADP at/ADP the/DET level/NOUN of/ADP their/DET shoulder/NOUN#0.0#0.0
+the person is holding both hands up about shoulder height.#the/DET person/NOUN is/AUX hold/VERB both/DET hand/NOUN up/ADP about/ADP shoulder/NOUN height/NOUN#0.0#0.0
+the person stands with their hands stretched out in front of them.#the/DET person/NOUN stand/VERB with/ADP their/DET hand/NOUN stretch/VERB out/ADP in/ADP front/NOUN of/ADP them/PRON#0.0#0.0

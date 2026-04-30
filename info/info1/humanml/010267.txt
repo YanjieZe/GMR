@@ -1,0 +1,3 @@
+the man riases his right hand twice.#the/DET man/NOUN riase/VERB his/DET right/ADJ hand/NOUN twice/ADV#0.0#0.0
+person is using a dumbbell with that right hand.#person/NOUN is/AUX use/VERB a/DET dumbbell/NOUN with/ADP that/DET right/ADJ hand/NOUN#0.0#0.0
+a person lift something with right hand#a/DET person/NOUN lift/VERB something/PRON with/ADP right/ADJ hand/NOUN#0.0#0.0

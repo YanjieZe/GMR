@@ -1,0 +1,3 @@
+a person is clapping his right and left hand together#a/DET person/NOUN is/AUX clap/VERB his/DET right/NOUN and/CCONJ left/VERB hand/NOUN together/ADV#0.0#0.0
+the man is clapping and making gestures#the/DET man/NOUN is/AUX clap/VERB and/CCONJ make/VERB gesture/NOUN#0.0#0.0
+the man claps his hands.#the/DET man/NOUN clap/VERB his/DET hand/NOUN#0.0#0.0

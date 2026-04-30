@@ -1,0 +1,3 @@
+the person is stepping over something#the/DET person/NOUN is/AUX step/VERB over/ADP something/PRON#0.0#0.0
+a person is stepping on stones to cross#a/DET person/NOUN is/AUX step/VERB on/ADP stone/NOUN to/PART cross/VERB#0.0#0.0
+the person is walking on steppingstones.#the/DET person/NOUN is/AUX walk/VERB on/ADP steppingstone/NOUN#0.0#0.0

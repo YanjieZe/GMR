@@ -1,0 +1,3 @@
+a man raises and then lowers his right arm#a/DET man/NOUN raise/VERB and/CCONJ then/ADV lower/VERB his/DET right/ADJ arm/NOUN#0.0#0.0
+a person lifts right arm and lowers it.#a/DET person/NOUN lift/VERB right/ADJ arm/NOUN and/CCONJ lower/VERB it/PRON#0.0#0.0
+person is posing for a photograph with someone.#person/NOUN is/AUX pose/VERB for/ADP a/DET photograph/NOUN with/ADP someone/PRON#0.0#0.0

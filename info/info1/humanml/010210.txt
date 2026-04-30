@@ -1,0 +1,3 @@
+a standing man waves with his right hand.#a/DET stand/VERB man/NOUN wave/NOUN with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+person standing uses right hand to wave hello#person/NOUN stand/VERB use/VERB right/ADJ hand/NOUN to/PART wave/VERB hello/INTJ#0.0#0.0
+the man waves with his right hand.#the/DET man/NOUN wave/VERB with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0

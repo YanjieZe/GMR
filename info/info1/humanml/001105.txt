@@ -1,0 +1,3 @@
+a person is walking slow in a straight line.#a/DET person/NOUN is/AUX walk/VERB slow/ADJ in/ADP a/DET straight/ADJ line/NOUN#0.0#0.0
+somweone moving forward slowlynalso moving hand#somweone/NOUN move/VERB forward/ADV slowlynalso/ADV move/VERB hand/NOUN#0.0#0.0
+a man slowly walks forward.#a/DET man/NOUN slowly/ADV walk/VERB forward/ADV#0.0#0.0

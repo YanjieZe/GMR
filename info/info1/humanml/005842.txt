@@ -1,0 +1,3 @@
+a man is standing, bend forward at the waist, and reaches his right arm to the ground as if picking something up. he then stands up right.#a/DET man/NOUN is/AUX stand/VERB bend/VERB forward/ADV at/ADP the/DET waist/NOUN and/CCONJ reach/VERB his/DET right/ADJ arm/NOUN to/ADP the/DET ground/NOUN as/SCONJ if/SCONJ pick/VERB something/PRON up/ADP he/PRON then/ADV stand/VERB up/ADP right/ADV#0.0#0.0
+a person steps forward with right foot, to pick up something with right hand.#a/DET person/NOUN step/VERB forward/ADV with/ADP right/ADJ foot/NOUN to/PART pick/VERB up/ADP something/PRON with/ADP right/ADJ hand/NOUN#0.0#4.0
+the man walks forward and picks the ball up#the/DET man/NOUN walk/VERB forward/ADV and/CCONJ pick/VERB the/DET ball/NOUN up/ADP#0.0#0.0

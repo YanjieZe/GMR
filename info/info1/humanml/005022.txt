@@ -1,0 +1,3 @@
+the person was getting in position to kick the soccer ball.#the/DET person/NOUN was/AUX get/VERB in/ADP position/NOUN to/PART kick/VERB the/DET soccer/NOUN ball/NOUN#0.0#0.0
+the sim takes a step to the side before lunging forward to kick with their right foot.#the/DET sim/PROPN take/VERB a/DET step/NOUN to/ADP the/DET side/NOUN before/ADP lunge/VERB forward/ADV to/PART kick/VERB with/ADP their/DET right/ADJ foot/NOUN#0.0#0.0
+a person makes a feint maneuvre around an unseen ball, before kicking it.#a/DET person/NOUN make/VERB a/DET feint/NOUN maneuvre/VERB around/ADP an/DET unseen/ADJ ball/NOUN before/ADP kick/VERB it/PRON#0.0#0.0

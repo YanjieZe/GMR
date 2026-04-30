@@ -1,0 +1,3 @@
+a person turns in a clock-wise direction while standing in the same spot with arms open in front of them.#a/DET person/NOUN turn/VERB in/ADP a/DET clockwise/ADJ direction/NOUN while/SCONJ stand/VERB in/ADP the/DET same/ADJ spot/NOUN with/ADP arm/NOUN open/ADJ in/ADP front/NOUN of/ADP them/PRON#0.0#0.0
+person switches their stance#person/NOUN switch/VERB their/DET stance/NOUN#0.0#0.0
+a person puts their arms up in a defensive stance#a/DET person/NOUN put/VERB their/DET arm/NOUN up/ADP in/ADP a/DET defensive/ADJ stance/NOUN#0.0#0.0

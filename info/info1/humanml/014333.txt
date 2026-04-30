@@ -1,0 +1,2 @@
+a man walks in a counter clockwise circle, then begins to jog.#a/DET man/NOUN walk/VERB in/ADP a/DET counter/NOUN clockwise/NOUN circle/NOUN then/ADV begin/VERB to/ADP jog/PROPN#0.0#0.0
+a person is walking in a circle anticlockwise, then starts to sprint halfway through#a/DET person/NOUN is/AUX walk/VERB in/ADP a/DET circle/NOUN anticlockwise/NOUN then/ADV start/VERB to/PART sprint/VERB halfway/ADV through/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person raises his right arm and moves his left arm and left hand up and down in a regular fashion.#a/DET person/NOUN raise/VERB his/DET right/ADJ arm/NOUN and/CCONJ move/VERB his/DET left/ADJ arm/NOUN and/CCONJ left/VERB hand/NOUN up/ADP and/CCONJ down/ADV in/ADP a/DET regular/ADJ fashion/NOUN#0.0#0.0
+a person is standing and making a strumming gesture.#a/DET person/NOUN is/AUX stand/VERB and/CCONJ make/VERB a/DET strumming/NOUN gesture/NOUN#0.0#0.0
+a person bends their arms at the elbow and moves their left arm up and down#a/DET person/NOUN bend/VERB their/DET arm/NOUN at/ADP the/DET elbow/NOUN and/CCONJ move/VERB their/DET left/ADJ arm/NOUN up/ADV and/CCONJ down/ADV#0.0#0.0

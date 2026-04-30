@@ -1,0 +1,3 @@
+person is slow walking down.#person/NOUN is/AUX slow/ADJ walk/VERB down/ADV#0.0#0.0
+a person steps foreward and throws something with right hand then pauses and takes another step foreward.#a/DET person/NOUN step/VERB foreward/NOUN and/CCONJ throw/VERB something/PRON with/ADP right/ADJ hand/NOUN then/ADV pause/VERB and/CCONJ take/VERB another/DET step/NOUN foreward/NOUN#0.0#0.0
+a person throws something forcefully with their right hand and then steps in the direction they threw#a/DET person/NOUN throw/VERB something/PRON forcefully/ADV with/ADP their/DET right/ADJ hand/NOUN and/CCONJ then/ADV step/VERB in/ADP the/DET direction/NOUN they/PRON throw/VERB#0.0#0.0

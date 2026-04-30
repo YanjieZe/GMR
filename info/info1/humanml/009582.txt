@@ -1,0 +1,3 @@
+a person leaned the hands near to face#a/DET person/NOUN lean/VERB the/DET hand/NOUN near/ADJ to/PART face/VERB#0.0#0.0
+the man motions like he is scratching his head.#the/DET man/NOUN motion/NOUN like/SCONJ he/PRON is/AUX scratch/VERB his/DET head/NOUN#0.0#0.0
+someone is bent over their plate with a tight grip on their huge burger tearing into it bite by bite until its finished and they sit back up.#someone/PRON is/AUX bent/ADJ over/ADP their/DET plate/NOUN with/ADP a/DET tight/ADJ grip/NOUN on/ADP their/DET huge/ADJ burger/NOUN tear/VERB into/ADP it/PRON bite/NOUN by/ADP bite/NOUN until/ADP its/DET finish/VERB and/CCONJ they/PRON sit/VERB back/ADV up/ADV#0.0#0.0

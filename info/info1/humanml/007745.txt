@@ -1,0 +1,3 @@
+a person pumps their right and left fist in alternate.#a/DET person/NOUN pump/VERB their/DET right/NOUN and/CCONJ left/VERB fist/NOUN in/ADP alternate/ADJ#0.0#0.0
+a person punches with their right hand and then their left.#a/DET person/NOUN punch/VERB with/ADP their/DET right/ADJ hand/NOUN and/CCONJ then/ADV their/DET left/NOUN#0.0#0.0
+a person swings both arms back and forth while they're bent at the elbow, and moves their feet together.#a/DET person/NOUN swing/VERB both/DET arm/NOUN back/ADV and/CCONJ forth/ADV while/SCONJ they/PRON bent/ADJ at/ADP the/DET elbow/NOUN and/CCONJ move/VERB their/DET foot/NOUN together/ADV#0.0#0.0

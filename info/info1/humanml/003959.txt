@@ -1,0 +1,3 @@
+a person walks at a slight angle to thier right.#a/DET person/NOUN walk/VERB at/ADP a/DET slight/ADJ angle/NOUN to/ADP thier/VERB right/NOUN#0.0#0.0
+a person walks down a set of stairs.#a/DET person/NOUN walk/VERB down/ADV a/DET set/NOUN of/ADP stair/NOUN#0.0#0.0
+a person walks in a straight line.#a/DET person/NOUN walk/VERB in/ADP a/DET straight/ADJ line/NOUN#0.0#0.0

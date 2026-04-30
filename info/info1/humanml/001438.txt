@@ -1,0 +1,3 @@
+the man plays violin holding it in his right hand.#the/DET man/NOUN play/VERB violin/NOUN hold/VERB it/PRON in/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+a person is playing the violin.#a/DET person/NOUN is/AUX play/VERB the/DET violin/NOUN#0.0#0.0
+a person acts as if they are playing a violin.#a/DET person/NOUN act/VERB as/SCONJ if/SCONJ they/PRON are/AUX play/VERB a/DET violin/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks forward, then steps back, turns and walks back several times.#a/DET person/NOUN walk/VERB forward/ADV then/ADV step/VERB back/ADV turn/VERB and/CCONJ walk/VERB back/ADV several/ADJ time/NOUN#0.0#0.0
+a person walks forward, walks back, walks around and then turns around.#a/DET person/NOUN walk/VERB forward/ADV walk/VERB back/ADV walk/VERB around/ADV and/CCONJ then/ADV turn/VERB around/ADV#0.0#0.0
+a figure paces forward and back in an irregular diagonal line.#a/DET figure/NOUN pace/VERB forward/ADV and/CCONJ back/ADV in/ADP an/DET irregular/ADJ diagonal/ADJ line/NOUN#0.0#0.0

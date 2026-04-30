@@ -1,0 +1,3 @@
+a person reaches forward with their right hand and then with their left hand.#a/DET person/NOUN reach/VERB forward/ADV with/ADP their/DET right/ADJ hand/NOUN and/CCONJ then/ADV with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0
+a person reaches forward with one hand, then the other.#a/DET person/NOUN reach/VERB forward/ADV with/ADP one/NUM hand/NOUN then/ADV the/DET other/ADJ#0.0#0.0
+taps a object in front of them with their left hand and then their right hand.#tap/NOUN a/DET object/NOUN in/ADP front/NOUN of/ADP them/PRON with/ADP their/DET left/ADJ hand/NOUN and/CCONJ then/ADV their/DET right/ADJ hand/NOUN#0.0#0.0

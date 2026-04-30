@@ -1,0 +1,3 @@
+a person is spinning around with their arms spread wide.#a/DET person/NOUN is/AUX spin/VERB around/ADP with/ADP their/DET arm/NOUN spread/VERB wide/ADV#0.0#0.0
+the person is doing a spin wheel dance.#the/DET person/NOUN is/AUX do/VERB a/DET spin/NOUN wheel/NOUN dance/NOUN#0.0#0.0
+a man spins around with his arms raised and then lowers them.#a/DET man/NOUN spin/VERB around/ADV with/ADP his/DET arm/NOUN raise/VERB and/CCONJ then/ADV lower/VERB them/PRON#0.0#0.0

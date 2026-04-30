@@ -1,0 +1,3 @@
+a person gets pushed to the left, recovering, they walk back to the right.#a/DET person/NOUN get/VERB push/VERB to/ADP the/DET left/NOUN recover/VERB they/PRON walk/VERB back/ADV to/ADP the/DET right/NOUN#0.0#0.0
+a person walks forward then strafes to the left before walking to the right.#a/DET person/NOUN walk/VERB forward/ADV then/ADV strafe/VERB to/ADP the/DET left/NOUN before/ADP walk/VERB to/ADP the/DET right/NOUN#0.0#0.0
+a man walking stumbles to the right and walks left.#a/DET man/NOUN walk/VERB stumble/NOUN to/ADP the/DET right/NOUN and/CCONJ walk/VERB left/VERB#0.0#0.0

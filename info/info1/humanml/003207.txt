@@ -1,0 +1,3 @@
+he walks forward straight directally#he/PRON walk/VERB forward/ADV straight/ADV directally/ADV#0.0#0.0
+person is walking slowly.#person/NOUN is/AUX walk/VERB slowly/ADV#0.0#0.0
+a figure moves down forward downwards.#a/DET figure/NOUN move/VERB down/ADP forward/ADV downwards/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+person walked and then started running.#person/NOUN walk/VERB and/CCONJ then/ADV start/VERB run/VERB#0.0#0.0
+this person runs lightly forward then stops.#this/DET person/NOUN run/VERB lightly/ADV forward/ADV then/ADV stop/VERB#0.0#0.0
+a person sprints forward four steps, then stops.#a/DET person/NOUN sprint/VERB forward/ADV four/NUM step/NOUN then/ADV stop/VERB#0.0#0.0

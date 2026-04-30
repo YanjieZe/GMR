@@ -1,0 +1,3 @@
+he does a drunk walk#he/PRON does/AUX a/DET drunk/ADJ walk/NOUN#0.0#0.0
+a walking person who is not able to balance the body and not able to walk in a straight line due to being under the influence of alcohol#a/DET walk/VERB person/NOUN who/PRON is/AUX not/PART able/ADJ to/PART balance/VERB the/DET body/NOUN and/CCONJ not/PART able/ADJ to/PART walk/VERB in/ADP a/DET straight/ADJ line/NOUN due/ADJ to/ADP being/AUX under/ADP the/DET influence/NOUN of/ADP alcohol/NOUN#0.0#0.0
+a person walked forward, slightly moved right, and left and kept walking#a/DET person/NOUN walk/VERB forward/ADV slightly/ADV move/VERB right/ADV and/CCONJ left/VERB and/CCONJ keep/VERB walk/VERB#0.0#0.0

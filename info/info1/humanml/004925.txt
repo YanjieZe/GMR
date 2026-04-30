@@ -1,0 +1,3 @@
+a person waving at someone.#a/DET person/NOUN wave/VERB at/ADP someone/PRON#0.0#0.0
+a person is waving hello#a/DET person/NOUN is/AUX wave/VERB hello/INTJ#0.0#0.0
+a person lifts his right uand and waves#a/DET person/NOUN lift/VERB his/DET right/ADJ uand/ADJ and/CCONJ wave/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person stands still for a moment, and then staggers forward.#a/DET person/NOUN stand/VERB still/ADV for/ADP a/DET moment/NOUN and/CCONJ then/ADV stagger/VERB forward/ADV#0.0#0.0
+a man takes two steps forward.#a/DET man/NOUN take/VERB two/NUM step/NOUN forward/ADV#0.0#0.0
+this person stumbles forward a short distance.#this/DET person/NOUN stumble/VERB forward/ADV a/DET short/ADJ distance/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person walking straight looks like a brisk walk back and forth and turns back.#a/DET person/NOUN walk/VERB straight/ADJ look/VERB like/SCONJ a/DET brisk/ADJ walk/NOUN back/ADV and/CCONJ forth/ADV and/CCONJ turn/VERB back/ADV#0.0#0.0
+a figure walks right in a semi circle then left.#a/DET figure/NOUN walk/VERB right/ADV in/ADP a/DET semi/ADJ circle/NOUN then/ADV left/VERB#0.0#0.0
+a man walks to his left in a half circle path and then heads back to where he started. he pauses and then heads left.#a/DET man/NOUN walk/VERB to/ADP his/DET left/NOUN in/ADP a/DET half/ADJ circle/NOUN path/NOUN and/CCONJ then/ADV head/VERB back/ADV to/ADP where/ADV he/PRON start/VERB he/PRON pause/VERB and/CCONJ then/ADV head/NOUN left/VERB#0.0#0.0

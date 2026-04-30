@@ -1,0 +1,3 @@
+a person jumping while rasing both hands, and  move apart legs#a/DET person/NOUN jump/VERB while/SCONJ rase/VERB both/DET hand/NOUN and/CCONJ move/VERB apart/ADV leg/NOUN#0.0#0.0
+person does squat thrusts three times with legs going outwards and arms going above head#person/NOUN does/AUX squat/VERB thrust/NOUN three/NUM time/NOUN with/ADP leg/NOUN go/VERB outward/NOUN and/CCONJ arm/NOUN go/VERB above/ADV head/NOUN#0.0#0.0
+a person jumps with legs open while clapping with hands over head simultaneously.#a/DET person/NOUN jump/VERB with/ADP leg/NOUN open/ADJ while/SCONJ clap/VERB with/ADP hand/NOUN over/ADP head/NOUN simultaneously/ADV#0.0#0.0

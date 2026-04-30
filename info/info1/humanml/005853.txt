@@ -1,0 +1,3 @@
+a person is eating soup#a/DET person/NOUN is/AUX eat/VERB soup/NOUN#0.0#0.0
+person is eating standing up out of a bowl#person/NOUN is/AUX eat/VERB stand/VERB up/ADP out/SCONJ of/ADP a/DET bowl/NOUN#0.0#0.0
+person holds both hands in front of him and then twists his right hand over something as if trying to unscrew it.#person/NOUN hold/VERB both/DET hand/NOUN in/ADP front/NOUN of/ADP him/PRON and/CCONJ then/ADV twist/VERB his/DET right/ADJ hand/NOUN over/ADP something/PRON as/SCONJ if/SCONJ try/VERB to/PART unscrew/VERB it/PRON#0.0#0.0

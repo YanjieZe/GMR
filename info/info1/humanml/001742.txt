@@ -1,0 +1,3 @@
+a person kicks with their right leg, does a jig with both feet, and slides forward and kicks with each foot.#a/DET person/NOUN kick/VERB with/ADP their/DET right/ADJ leg/NOUN does/AUX a/DET jig/NOUN with/ADP both/DET foot/NOUN and/CCONJ slide/VERB forward/ADV and/CCONJ kick/VERB with/ADP each/DET foot/NOUN#0.0#0.0
+person appears to be tap dancing, then kicks steps to the left and then to the right.#person/NOUN appear/VERB to/PART be/AUX tap/NOUN dancing/NOUN then/ADV kick/VERB step/NOUN to/ADP the/DET left/NOUN and/CCONJ then/ADV to/ADP the/DET right/NOUN#0.0#0.0
+a person is tap dancing#a/DET person/NOUN is/AUX tap/NOUN dancing/NOUN#0.0#0.0

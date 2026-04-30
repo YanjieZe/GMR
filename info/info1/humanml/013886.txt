@@ -1,0 +1,3 @@
+moving hand in a circular pattern.#move/VERB hand/NOUN in/ADP a/DET circular/ADJ pattern/NOUN#0.0#0.0
+a person stands still while making a horizontal circular motion with their right hand#a/DET person/NOUN stand/VERB still/ADV while/SCONJ make/VERB a/DET horizontal/ADJ circular/ADJ motion/NOUN with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+person puts right arm in front of them stomach height and waves side to side#person/NOUN put/VERB right/ADJ arm/NOUN in/ADP front/NOUN of/ADP them/PRON stomach/VERB height/NOUN and/CCONJ wave/NOUN side/VERB to/PART side/VERB#0.0#0.0

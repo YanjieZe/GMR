@@ -1,0 +1,3 @@
+a figure bends slightly to lift something with both hands then sets the item down to the right#a/DET figure/NOUN bend/VERB slightly/ADV to/PART lift/VERB something/PRON with/ADP both/DET hand/NOUN then/ADV set/VERB the/DET item/NOUN down/ADP to/ADP the/DET right/NOUN#0.0#0.0
+a figure lifts and object and places it back on the ground slowly#a/DET figure/NOUN lift/NOUN and/CCONJ object/NOUN and/CCONJ place/VERB it/PRON back/ADV on/ADP the/DET ground/NOUN slowly/ADV#0.0#0.0
+a person lifts an item with both hands and places it to his right#a/DET person/NOUN lift/VERB an/DET item/NOUN with/ADP both/DET hand/NOUN and/CCONJ place/VERB it/PRON to/ADP his/DET right/NOUN#0.0#0.0

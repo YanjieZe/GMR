@@ -1,0 +1,3 @@
+someone walks forward raising his hand also moving#someone/PRON walk/VERB forward/ADV raise/VERB his/DET hand/NOUN also/ADV move/VERB#0.0#0.0
+the man walks forward and places his hands on an abject and looks at it.#the/DET man/NOUN walk/VERB forward/ADV and/CCONJ place/VERB his/DET hand/NOUN on/ADP an/DET abject/NOUN and/CCONJ look/VERB at/ADP it/PRON#0.0#0.0
+a person steps out, and places hands outward on something, then down.#a/DET person/NOUN step/VERB out/ADP and/CCONJ place/VERB hand/NOUN outward/ADV on/ADP something/PRON then/ADV down/ADV#0.0#0.0

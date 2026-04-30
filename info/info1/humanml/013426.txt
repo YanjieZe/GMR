@@ -1,0 +1,3 @@
+the person is respectfully taking a knee for blm#the/DET person/NOUN is/AUX respectfully/ADV take/VERB a/DET knee/NOUN for/ADP blm/NOUN#0.0#0.0
+a person stands up from being on one knee#a/DET person/NOUN stand/VERB up/ADP from/ADP being/AUX on/ADP one/NUM knee/NOUN#0.0#0.0
+a person is kneeling on his right leg whilst holding his left knee with both hands#a/DET person/NOUN is/AUX kneel/VERB on/ADP his/DET right/ADJ leg/NOUN whilst/SCONJ hold/VERB his/DET left/ADJ knee/NOUN with/ADP both/DET hand/NOUN#0.0#4.0

@@ -1,0 +1,3 @@
+someone walks from right to left#someone/PRON walk/VERB from/ADP right/NOUN to/ADP left/ADV#0.0#0.0
+person walks in an s line.#person/NOUN walk/VERB in/ADP an/DET s/PROPN line/NOUN#0.0#0.0
+someone walking forward going left to right#someone/PRON walk/VERB forward/ADV go/VERB left/ADV to/ADP right/ADJ#0.0#0.0

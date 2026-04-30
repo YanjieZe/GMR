@@ -1,0 +1,3 @@
+a person walks then spins around.#a/DET person/NOUN walk/VERB then/ADV spin/VERB around/ADV#0.0#0.0
+a perosn struts confindently diagonally with strong arm motion, stops, and spins 180.#a/DET perosn/NOUN strut/NOUN confindently/ADV diagonally/ADV with/ADP strong/ADJ arm/NOUN motion/NOUN stop/VERB and/CCONJ spin/VERB#0.0#0.0
+a person loosely walks forward, with their arms swinging, pauses, then turns around counter clock-wise and stands still.#a/DET person/NOUN loosely/ADV walk/VERB forward/ADV with/ADP their/DET arm/NOUN swinge/VERB pause/NOUN then/ADV turn/VERB around/ADV counter/NOUN clockwise/NOUN and/CCONJ stand/VERB still/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks forward and picks things up and puts them down with their hands.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ pick/VERB thing/NOUN up/ADP and/CCONJ put/VERB them/PRON down/ADP with/ADP their/DET hand/NOUN#0.0#0.0
+walking forward and bending down.#walk/VERB forward/ADV and/CCONJ bend/VERB down/ADP#0.0#0.0
+he does double pour and mixing#he/PRON does/AUX double/ADJ pour/NOUN and/CCONJ mix/VERB#0.0#0.0

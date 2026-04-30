@@ -1,0 +1,3 @@
+this person waves off as if joking.#this/DET person/NOUN wave/VERB off/ADP as/SCONJ if/SCONJ joking/NOUN#0.0#0.0
+a person turns to throw something with his left hand.#a/DET person/NOUN turn/VERB to/PART throw/VERB something/PRON with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0
+a figure throws out a foul ball with their right arm.#a/DET figure/NOUN throw/VERB out/ADP a/DET foul/ADJ ball/NOUN with/ADP their/DET right/ADJ arm/NOUN#0.0#0.0

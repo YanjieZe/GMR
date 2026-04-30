@@ -1,0 +1,3 @@
+the person moves around like a monkey.#the/DET person/NOUN move/VERB around/ADP like/SCONJ a/DET monkey/NOUN#0.0#0.0
+a person swings arms around and hops around, acting like a monkey.#a/DET person/NOUN swing/VERB arm/NOUN around/ADV and/CCONJ hop/VERB around/ADV act/VERB like/SCONJ a/DET monkey/NOUN#0.0#0.0
+the man is imitating a monkey by jumping around with his arms raised.#the/DET man/NOUN is/AUX imitate/VERB a/DET monkey/NOUN by/ADP jump/VERB around/ADP with/ADP his/DET arm/NOUN raise/VERB#0.0#0.0

@@ -1,0 +1,3 @@
+a figure does sloppy cartwheels#a/DET figure/NOUN does/AUX sloppy/ADJ cartwheel/NOUN#0.0#0.0
+a person is doing cartwheels to one side and then towards the other side.#a/DET person/NOUN is/AUX do/VERB cartwheel/NOUN to/ADP one/NUM side/NOUN and/CCONJ then/ADV towards/ADP the/DET other/ADJ side/NOUN#0.0#0.0
+a man does several cart wheels in a small area.#a/DET man/NOUN does/AUX several/ADJ cart/NOUN wheel/NOUN in/ADP a/DET small/ADJ area/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+person takes large lateral step to the right side#person/NOUN take/VERB large/ADJ lateral/ADJ step/NOUN to/ADP the/DET right/ADJ side/NOUN#0.0#0.0
+a person does a medium sidestep to their right#a/DET person/NOUN does/AUX a/DET medium/ADJ sidestep/NOUN to/ADP their/DET right/NOUN#0.0#0.0
+a man takes a wide step to his left.#a/DET man/NOUN take/VERB a/DET wide/ADJ step/NOUN to/ADP his/DET left/NOUN#0.0#0.0

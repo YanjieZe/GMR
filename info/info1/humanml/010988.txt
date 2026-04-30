@@ -1,0 +1,3 @@
+a persons walks forward, then make a slight left turn and continues walking#a/DET person/NOUN walk/VERB forward/ADV then/ADV make/VERB a/DET slight/ADJ left/ADJ turn/NOUN and/CCONJ continue/VERB walk/VERB#0.0#0.0
+the person walks in front of them then turns to their left while walking#the/DET person/NOUN walk/VERB in/ADP front/NOUN of/ADP them/PRON then/ADV turn/VERB to/ADP their/DET left/NOUN while/SCONJ walk/VERB#0.0#0.0
+a person walks straight and then turns to the left while continuing to walk.#a/DET person/NOUN walk/VERB straight/ADV and/CCONJ then/ADV turn/VERB to/ADP the/DET left/ADJ while/SCONJ continue/VERB to/PART walk/VERB#0.0#0.0

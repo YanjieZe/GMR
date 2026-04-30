@@ -1,0 +1,3 @@
+person may have been pointing forward.#person/NOUN may/VERB have/AUX been/AUX point/VERB forward/ADV#0.0#0.0
+a person raises and lowers right hand followed by left hand.#a/DET person/NOUN raise/VERB and/CCONJ lower/VERB right/ADJ hand/NOUN follow/VERB by/ADP left/ADJ hand/NOUN#0.0#0.0
+a person reaches their right arm forward, pauses, then lowers it; the person then reaches their left arm forward quickly and lets it swing down.#a/DET person/NOUN reach/VERB their/DET right/ADJ arm/NOUN forward/ADV pause/NOUN then/ADV lower/VERB it/PRON the/DET person/NOUN then/ADV reach/VERB their/DET left/ADJ arm/NOUN forward/ADV quickly/ADV and/CCONJ let/VERB it/PRON swing/VERB down/ADP#0.0#0.0

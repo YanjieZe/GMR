@@ -1,0 +1,3 @@
+the person stepped over some thing while walking forward.#the/DET person/NOUN step/VERB over/ADP some/DET thing/NOUN while/SCONJ walk/VERB forward/ADV#0.0#0.0
+person takes a step forwards then takes one big step, as if stepping over a gap.#person/NOUN take/VERB a/DET step/NOUN forwards/ADV then/ADV take/VERB one/NUM big/ADJ step/NOUN as/SCONJ if/SCONJ step/VERB over/ADP a/DET gap/NOUN#0.0#0.0
+the man walks forward as if his legs hurt.#the/DET man/NOUN walk/VERB forward/ADV as/SCONJ if/SCONJ his/DET leg/NOUN hurt/VERB#0.0#0.0

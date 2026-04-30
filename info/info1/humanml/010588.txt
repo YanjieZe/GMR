@@ -1,0 +1,3 @@
+a person kicking left leg and then kicking right out in front of them.#a/DET person/NOUN kick/VERB left/VERB leg/NOUN and/CCONJ then/ADV kick/VERB right/ADV out/SCONJ in/ADP front/NOUN of/ADP them/PRON#0.0#0.0
+swinging right foot forward than left foot#swinge/VERB right/ADJ foot/NOUN forward/ADV than/SCONJ left/ADJ foot/NOUN#0.0#0.0
+kicking feet in place.#kick/VERB foot/NOUN in/ADP place/NOUN#0.0#0.0

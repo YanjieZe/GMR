@@ -1,0 +1,3 @@
+a person walks forward and is pushed by something on their right side.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ is/AUX push/VERB by/ADP something/PRON on/ADP their/DET right/ADJ side/NOUN#0.0#0.0
+a person skips to the side#a/DET person/NOUN skip/VERB to/ADP the/DET side/NOUN#0.0#0.0
+someone walks forward, staggers to the left, then corrects themselves and returns to their original trajectory.#someone/PRON walk/VERB forward/ADV stagger/NOUN to/ADP the/DET left/NOUN then/ADV correct/VERB themselves/PRON and/CCONJ return/VERB to/ADP their/DET original/ADJ trajectory/NOUN#0.0#0.0

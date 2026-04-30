@@ -1,0 +1,3 @@
+the man walks to the left#the/DET man/NOUN walk/VERB to/ADP the/DET left/NOUN#0.0#0.0
+a man watakes several steps forward then arcs 45 degrees to the left and takes several more steps forward.#a/DET man/NOUN watake/VERB several/ADJ step/NOUN forward/ADV then/ADV arcs/NUM degree/NOUN to/ADP the/DET left/NOUN and/CCONJ take/VERB several/ADJ more/ADJ step/NOUN forward/ADV#0.0#0.0
+a person walks forward and then turns left, continuing to walk.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ then/ADV turn/VERB left/VERB continue/VERB to/PART walk/VERB#0.0#0.0

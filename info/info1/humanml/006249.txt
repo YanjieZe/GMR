@@ -1,0 +1,3 @@
+the person goes for a short jog#the/DET person/NOUN go/VERB for/ADP a/DET short/ADJ jog/NOUN#0.0#0.0
+figure jogs forward, arms bent in front of them#figure/NOUN jog/VERB forward/ADV arm/NOUN bent/ADJ in/ADP front/NOUN of/ADP them/PRON#0.0#0.0
+a person drops their hands to their side in a somber gesture and walks slowly.#a/DET person/NOUN drop/VERB their/DET hand/NOUN to/ADP their/DET side/NOUN in/ADP a/DET somber/ADJ gesture/NOUN and/CCONJ walk/VERB slowly/ADV#0.0#0.0

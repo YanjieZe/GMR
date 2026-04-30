@@ -1,0 +1,3 @@
+a person walks forward, turns around in a counter-clockwise direction on thier left foot, then walks forward again.#a/DET person/NOUN walk/VERB forward/ADV turn/VERB around/ADP in/ADP a/DET counterclockwise/ADJ direction/NOUN on/ADP thier/ADJ left/ADJ foot/NOUN then/ADV walk/VERB forward/ADV again/ADV#0.0#0.0
+person shuffles forward with right leg first for two steps and immediately turn around and moves back to start.#person/NOUN shuffle/VERB forward/ADV with/ADP right/ADJ leg/NOUN first/ADV for/ADP two/NUM step/NOUN and/CCONJ immediately/ADV turn/VERB around/ADP and/CCONJ move/VERB back/ADV to/PART start/VERB#0.0#0.0
+he quickly turns to his left#he/PRON quickly/ADV turn/VERB to/ADP his/DET left/NOUN#0.0#0.0

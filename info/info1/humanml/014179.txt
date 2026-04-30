@@ -1,0 +1,3 @@
+person is walking and turning left.#person/NOUN is/AUX walk/VERB and/CCONJ turn/VERB left/ADV#0.0#0.0
+a person walks up and then turns left.#a/DET person/NOUN walk/VERB up/ADV and/CCONJ then/ADV turn/VERB left/VERB#0.0#0.0
+a person walks forward, spins left and continues walking.#a/DET person/NOUN walk/VERB forward/ADV spin/VERB left/VERB and/CCONJ continue/VERB walk/VERB#0.0#0.0

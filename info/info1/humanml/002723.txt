@@ -1,0 +1,3 @@
+the person is gesturing something.#the/DET person/NOUN is/AUX gesture/VERB something/PRON#0.0#0.0
+stick person talking moving arms to express#stick/PROPN person/NOUN talk/VERB move/VERB arm/NOUN to/PART express/VERB#0.0#0.0
+a person shrugs then drops their arms, then makes several small fast motions with both arms and finally stretches their right arm out to the side.#a/DET person/NOUN shrug/NOUN then/ADV drop/VERB their/DET arm/NOUN then/ADV make/VERB several/ADJ small/ADJ fast/ADJ motion/NOUN with/ADP both/DET arm/NOUN and/CCONJ finally/ADV stretch/VERB their/DET right/ADJ arm/NOUN out/ADP to/ADP the/DET side/NOUN#0.0#0.0

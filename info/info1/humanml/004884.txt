@@ -1,0 +1,3 @@
+a person walks a little sloppy, then steps over something before looking excited to finish his walk by turning around.#a/DET person/NOUN walk/VERB a/DET little/ADJ sloppy/ADJ then/ADV step/VERB over/ADP something/PRON before/ADP look/VERB excited/ADJ to/PART finish/VERB his/DET walk/NOUN by/ADP turn/VERB around/ADV#0.0#0.0
+a person walks diagonally and then turns back around.#a/DET person/NOUN walk/VERB diagonally/ADV and/CCONJ then/ADV turn/VERB back/ADV around/ADV#0.0#0.0
+a person limps across the floor, their left leg is injured and cannot support their weight for long#a/DET person/NOUN limp/VERB across/ADP the/DET floor/NOUN their/DET left/ADJ leg/NOUN is/AUX injure/VERB and/CCONJ can/VERB not/PART support/VERB their/DET weight/NOUN for/ADP long/ADV#0.0#0.0

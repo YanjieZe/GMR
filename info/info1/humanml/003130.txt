@@ -1,0 +1,3 @@
+a person doing a fun dance.#a/DET person/NOUN do/VERB a/DET fun/ADJ dance/NOUN#0.0#0.0
+a person brings both arms upward to a t position and bends both elbows to move his arms in a circular motion while bending his knees to see his range of motion.#a/DET person/NOUN bring/VERB both/DET arm/NOUN upward/ADV to/ADP a/DET t/NOUN position/NOUN and/CCONJ bend/VERB both/DET elbow/NOUN to/PART move/VERB his/DET arm/NOUN in/ADP a/DET circular/ADJ motion/NOUN while/SCONJ bend/VERB his/DET knee/NOUN to/PART see/VERB his/DET range/NOUN of/ADP motion/NOUN#0.0#0.0
+a person is dancing with his whole body.#a/DET person/NOUN is/AUX dance/VERB with/ADP his/DET whole/ADJ body/NOUN#0.0#0.0

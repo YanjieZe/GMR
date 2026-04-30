@@ -1,0 +1,3 @@
+the man is moving arms and legs#the/DET man/NOUN is/AUX move/VERB arm/NOUN and/CCONJ leg/NOUN#0.0#0.0
+person was cleaning something off of his hands and feet.#person/NOUN was/AUX clean/VERB something/PRON off/ADP of/ADP his/DET hand/NOUN and/CCONJ foot/NOUN#0.0#0.0
+a person punches forwards with both hands and kicks forwards with both feet.#a/DET person/NOUN punch/VERB forwards/ADV with/ADP both/DET hand/NOUN and/CCONJ kick/NOUN forwards/ADV with/ADP both/DET foot/NOUN#0.0#0.0

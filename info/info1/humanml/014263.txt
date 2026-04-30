@@ -1,0 +1,3 @@
+a figure dances jauntily in place#a/DET figure/NOUN dance/VERB jauntily/ADV in/ADP place/NOUN#0.0#0.0
+person is performing dance moves#person/NOUN is/AUX perform/VERB dance/NOUN move/NOUN#0.0#0.0
+a person is dancing in one spot.#a/DET person/NOUN is/AUX dance/VERB in/ADP one/NUM spot/NOUN#0.0#0.0

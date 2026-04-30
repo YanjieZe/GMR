@@ -1,0 +1,3 @@
+a person is waltzing, stops and then starts waltzing again.#a/DET person/NOUN is/AUX waltz/VERB stop/NOUN and/CCONJ then/ADV start/VERB waltz/VERB again/ADV#0.0#0.0
+this person takes a dancing stance then drops his hands and starts again.#this/DET person/NOUN take/VERB a/DET dancing/NOUN stance/NOUN then/ADV drop/VERB his/DET hand/NOUN and/CCONJ start/VERB again/ADV#0.0#0.0
+a person has right arm bent and left arm straight, trying to dance with someone#a/DET person/NOUN has/AUX right/ADJ arm/NOUN bent/ADJ and/CCONJ left/ADJ arm/NOUN straight/ADV try/VERB to/PART dance/VERB with/ADP someone/PRON#0.0#0.0

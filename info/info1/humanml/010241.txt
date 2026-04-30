@@ -1,0 +1,3 @@
+guy turns like going to throw a pitch and stomps right foot twice#guy/PROPN turn/VERB like/SCONJ go/VERB to/PART throw/VERB a/DET pitch/NOUN and/CCONJ stomp/NOUN right/ADJ foot/NOUN twice/ADV#0.0#0.0
+person does a low kick#person/NOUN does/AUX a/DET low/ADJ kick/NOUN#0.0#0.0
+the person holds something in both hands and kicks their right leg out#the/DET person/NOUN hold/VERB something/PRON in/ADP both/DET hand/NOUN and/CCONJ kick/VERB their/DET right/ADJ leg/NOUN out/ADP#0.0#0.0

@@ -1,0 +1,3 @@
+a person attempts to pick something up with their right hand and places it higher before walking around curving to the left.#a/DET person/NOUN attempt/VERB to/PART pick/VERB something/PRON up/ADP with/ADP their/DET right/ADJ hand/NOUN and/CCONJ place/VERB it/PRON higher/ADJ before/ADP walk/VERB around/ADV curve/VERB to/ADP the/DET left/NOUN#0.0#0.0
+a perosn picks something up with their right arm and walks in a circle.#a/DET perosn/ADJ pick/VERB something/PRON up/ADP with/ADP their/DET right/ADJ arm/NOUN and/CCONJ walk/VERB in/ADP a/DET circle/NOUN#0.0#0.0
+the man picks something up and walks around#the/DET man/NOUN pick/VERB something/PRON up/ADP and/CCONJ walk/VERB around/ADV#0.0#0.0

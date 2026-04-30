@@ -1,0 +1,3 @@
+a person picks something up on the left side then moves it to the right side.#a/DET person/NOUN pick/VERB something/PRON up/ADP on/ADP the/DET left/ADJ side/NOUN then/ADV move/VERB it/PRON to/ADP the/DET right/ADJ side/NOUN#0.0#6.0
+a person lifts an object up and tilts it to the  left side before returning it to it's original location.#a/DET person/NOUN lift/VERB an/DET object/NOUN up/ADP and/CCONJ tilt/VERB it/PRON to/ADP the/DET left/ADJ side/NOUN before/ADP return/VERB it/PRON to/ADP it/PRON original/ADJ location/NOUN#0.0#0.0
+person picks up something and sets it back down#person/NOUN pick/VERB up/ADP something/PRON and/CCONJ set/VERB it/PRON back/ADV down/ADP#0.0#0.0

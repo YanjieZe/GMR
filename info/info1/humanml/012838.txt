@@ -1,0 +1,3 @@
+the person is running crazily to the left.#the/DET person/NOUN is/AUX run/VERB crazily/ADV to/ADP the/DET left/NOUN#0.0#0.0
+a person springs forward, dodges back and forth, and then runs straight.#a/DET person/NOUN spring/NOUN forward/ADV dodge/VERB back/ADV and/CCONJ forth/ADV and/CCONJ then/ADV run/VERB straight/ADV#0.0#0.0
+a figure runs erratically forward, then left.#a/DET figure/NOUN run/VERB erratically/ADV forward/ADV then/ADV left/VERB#0.0#0.0

@@ -1,0 +1,3 @@
+a person is standing stationary and claps.#a/DET person/NOUN is/AUX stand/VERB stationary/ADJ and/CCONJ clap/NOUN#0.0#0.0
+a man claps his hands rapidly.#a/DET man/NOUN clap/VERB his/DET hand/NOUN rapidly/ADV#0.0#0.0
+a man is standing upright and puts both hands together and rubs them several times and then puts his arms down.#a/DET man/NOUN is/AUX stand/VERB upright/ADV and/CCONJ put/VERB both/DET hand/NOUN together/ADV and/CCONJ rub/VERB them/PRON several/ADJ time/NOUN and/CCONJ then/ADV put/VERB his/DET arm/NOUN down/ADV#0.0#0.0

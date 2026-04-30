@@ -1,0 +1,3 @@
+a man stands still for several seconds, before taking a slow jerky step forward.#a/DET man/NOUN stand/VERB still/ADV for/ADP several/ADJ second/NOUN before/ADP take/VERB a/DET slow/ADJ jerky/NOUN step/NOUN forward/ADV#0.0#0.0
+a person starts stumbling forward#a/DET person/NOUN start/VERB stumble/VERB forward/ADV#0.0#0.0
+someone takes a step forward as if they were bumped from behind.#someone/PRON take/VERB a/DET step/NOUN forward/ADV as/SCONJ if/SCONJ they/PRON were/AUX bump/VERB from/ADP behind/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person in a standing position squats both knees down and then straightens back up in a vertical jump.#a/DET person/NOUN in/ADP a/DET standing/ADJ position/NOUN squat/VERB both/DET knee/VERB down/ADP and/CCONJ then/ADV straighten/VERB back/ADV up/ADV in/ADP a/DET vertical/ADJ jump/NOUN#0.0#0.0
+a person repeatedly squats down, then jumps as they get back up.#a/DET person/NOUN repeatedly/ADV squat/VERB down/ADP then/ADV jump/VERB as/SCONJ they/PRON get/VERB back/ADV up/ADV#0.0#0.0
+a man standing does squat jumps.#a/DET man/NOUN stand/VERB does/AUX squat/VERB jump/NOUN#0.0#0.0

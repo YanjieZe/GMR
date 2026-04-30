@@ -1,0 +1,3 @@
+the person is punching something.#the/DET person/NOUN is/AUX punch/VERB something/PRON#0.0#0.0
+he jabs with right arm#he/PRON jab/VERB with/ADP right/ADJ arm/NOUN#0.0#0.0
+person rotates both knees  then  punches with right arm twice to front then two punches to persons right side then two punches to persons left side with left arm#person/NOUN rotate/VERB both/DET knee/NOUN then/ADV punch/NOUN with/ADP right/ADJ arm/NOUN twice/ADV to/PART front/VERB then/ADV two/NUM punch/NOUN to/PART person/NOUN right/ADJ side/NOUN then/ADV two/NUM punch/NOUN to/ADP person/NOUN left/VERB side/NOUN with/ADP left/ADJ arm/NOUN#0.0#0.0

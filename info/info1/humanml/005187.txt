@@ -1,0 +1,3 @@
+a person takes a small jump forward with their arms stationed at their side.#a/DET person/NOUN take/VERB a/DET small/ADJ jump/NOUN forward/ADV with/ADP their/DET arm/NOUN station/VERB at/ADP their/DET side/NOUN#0.0#0.0
+the man uses his legs to jump a small distance forward then stops.#the/DET man/NOUN use/VERB his/DET leg/NOUN to/PART jump/VERB a/DET small/ADJ distance/NOUN forward/ADV then/ADV stop/VERB#0.0#0.0
+a person is hopping forward.#a/DET person/NOUN is/AUX hop/VERB forward/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person fastly walked backwards#a/DET person/NOUN fastly/ADV walk/VERB backwards/ADV#0.0#0.0
+a person takes quick, short steps backwards as if controlling a stumble.#a/DET person/NOUN take/VERB quick/ADJ short/ADJ step/NOUN backwards/ADV as/SCONJ if/SCONJ control/VERB a/DET stumble/NOUN#0.0#0.0
+person was pushed from the front but did not fall.#person/NOUN was/AUX push/VERB from/ADP the/DET front/NOUN but/CCONJ did/AUX not/PART fall/VERB#0.0#0.0

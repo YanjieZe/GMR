@@ -1,0 +1,3 @@
+a person catches an object with both hands.#a/DET person/NOUN catch/VERB an/DET object/NOUN with/ADP both/DET hand/NOUN#0.0#0.0
+the person stands still then grabs the box#the/DET person/NOUN stand/VERB still/ADV then/ADV grab/VERB the/DET box/NOUN#0.0#0.0
+a figure stands with arms at his side before gesturing in a semi circle with both arms.#a/DET figure/NOUN stand/VERB with/ADP arm/NOUN at/ADP his/DET side/NOUN before/ADP gesture/VERB in/ADP a/DET semi/ADJ circle/NOUN with/ADP both/DET arm/NOUN#0.0#0.0

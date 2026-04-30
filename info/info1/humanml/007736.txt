@@ -1,0 +1,3 @@
+person quickly shuffled backwards several steps.#person/NOUN quickly/ADV shuffle/VERB backwards/ADV several/ADJ step/NOUN#0.0#0.0
+person takes a couple steps backward#person/NOUN take/VERB a/DET couple/NOUN step/NOUN backward/ADV#0.0#0.0
+a person takes three steps backwards.#a/DET person/NOUN take/VERB three/NUM step/NOUN backwards/ADV#0.0#0.0

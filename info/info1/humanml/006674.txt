@@ -1,0 +1,3 @@
+walking forward in a diagonal line.#walk/VERB forward/ADV in/ADP a/DET diagonal/ADJ line/NOUN#0.0#0.0
+a person wiggles in a seat, pauses, and then stands up and walks forward.#a/DET person/NOUN wiggle/VERB in/ADP a/DET seat/NOUN pause/NOUN and/CCONJ then/ADV stand/VERB up/ADP and/CCONJ walk/VERB forward/ADV#0.0#0.0
+a person is sitting in a chair, wobbles side to side, stands up, and then start walking.#a/DET person/NOUN is/AUX sit/VERB in/ADP a/DET chair/NOUN wobble/VERB side/NOUN to/PART side/VERB stand/VERB up/ADV and/CCONJ then/ADV start/VERB walk/VERB#0.0#0.0

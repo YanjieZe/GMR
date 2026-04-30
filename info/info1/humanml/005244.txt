@@ -1,0 +1,3 @@
+the person starts looking around for help#the/DET person/NOUN start/VERB look/VERB around/ADV for/ADP help/NOUN#0.0#0.0
+person moves hands in semi circles, one above the other.#person/NOUN move/VERB hand/NOUN in/ADP semi/ADJ circle/NOUN one/NUM above/ADP the/DET other/ADJ#0.0#0.0
+the person is standing on the ground and then proceeds to move both their arms in various directions (e.g., upwards and then across from each other).#the/DET person/NOUN is/AUX stand/VERB on/ADP the/DET ground/NOUN and/CCONJ then/ADV proceed/VERB to/PART move/VERB both/CCONJ their/DET arm/NOUN in/ADP various/ADJ direction/NOUN upwards/ADV and/CCONJ then/ADV across/ADP from/ADP each/DET other/ADJ#0.0#0.0

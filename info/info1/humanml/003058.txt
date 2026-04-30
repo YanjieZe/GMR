@@ -1,0 +1,3 @@
+a person is moving both hands up and down in front of them.#a/DET person/NOUN is/AUX move/VERB both/DET hand/NOUN up/ADV and/CCONJ down/ADP in/ADP front/NOUN of/ADP them/PRON#0.0#0.0
+person shakes hands as if playing a drum, it begins fast and ends slow.#person/NOUN shake/VERB hand/NOUN as/SCONJ if/SCONJ play/VERB a/DET drum/NOUN it/PRON begin/VERB fast/ADJ and/CCONJ end/VERB slow/ADJ#0.0#0.0
+a person is pumping their arms up and down at varying speeds.#a/DET person/NOUN is/AUX pump/VERB their/DET arm/NOUN up/ADV and/CCONJ down/ADV at/ADP varying/NOUN speed/NOUN#0.0#0.0

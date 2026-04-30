@@ -1,0 +1,3 @@
+a person is walking randomly#a/DET person/NOUN is/AUX walk/VERB randomly/ADV#0.0#0.0
+a person walks to the center in anti clockwise round and walks toward the far right and stands.#a/DET person/NOUN walk/VERB to/ADP the/DET center/NOUN in/ADP anti/ADJ clockwise/PROPN round/ADV and/CCONJ walk/VERB toward/ADP the/DET far/ADV right/INTJ and/CCONJ stand/VERB#0.0#0.0
+the person walks around aimlessly.#the/DET person/NOUN walk/VERB around/ADV aimlessly/ADV#0.0#0.0

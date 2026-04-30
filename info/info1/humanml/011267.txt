@@ -1,0 +1,3 @@
+the person makes a quick side step towards the right#the/DET person/NOUN make/VERB a/DET quick/ADJ side/NOUN step/NOUN towards/ADP the/DET right/NOUN#0.0#0.0
+person stands still then puts one leg then other to their side nearly tripping up#person/NOUN stand/VERB still/ADV then/ADV put/VERB one/NUM leg/NOUN then/ADV other/ADJ to/ADP their/DET side/NOUN nearly/ADV trip/VERB up/ADP#0.0#0.0
+a man takes one step sideways to his right.#a/DET man/NOUN take/VERB one/NUM step/NOUN sideways/ADV to/ADP his/DET right/NOUN#0.0#0.0

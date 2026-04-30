@@ -1,0 +1,3 @@
+a person makes a right handed hit.#a/DET person/NOUN make/VERB a/DET right/ADJ hand/VERB hit/NOUN#0.0#0.0
+a person leads with their right foot and jabs with their right hand and returns back to original position.#a/DET person/NOUN lead/VERB with/ADP their/DET right/ADJ foot/NOUN and/CCONJ jab/NOUN with/ADP their/DET right/ADJ hand/NOUN and/CCONJ return/VERB back/ADV to/ADP original/ADJ position/NOUN#0.0#0.0
+a person takes a step forward with their right foot and reaches their right hand forward and back quickly.#a/DET person/NOUN take/VERB a/DET step/NOUN forward/ADV with/ADP their/DET right/ADJ foot/NOUN and/CCONJ reach/VERB their/DET right/ADJ hand/NOUN forward/ADV and/CCONJ back/ADV quickly/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+the person checks the watch on his hand.#the/DET person/NOUN check/VERB the/DET watch/NOUN on/ADP his/DET hand/NOUN#0.0#0.0
+person likely scratched their belly.#person/NOUN likely/ADV scratch/VERB their/DET belly/NOUN#0.0#0.0
+a person is standing, raises their right arm to look at their watch, then lowers arm  back to their side.#a/DET person/NOUN is/AUX stand/VERB raise/VERB their/DET right/ADJ arm/NOUN to/PART look/VERB at/ADP their/DET watch/NOUN then/ADV lower/VERB arm/NOUN back/ADV to/ADP their/DET side/NOUN#0.0#0.0

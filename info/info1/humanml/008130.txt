@@ -1,0 +1,3 @@
+a person grabbed something and tred to open it#a/DET person/NOUN grab/VERB something/PRON and/CCONJ tre/VERB to/PART open/VERB it/PRON#0.0#0.0
+the man has dry left arm#the/DET man/NOUN has/AUX dry/ADJ left/ADJ arm/NOUN#0.0#0.0
+a person bends forward slightly at the waist and continually uses the right hand to stroke something softly#a/DET person/NOUN bend/VERB forward/ADV slightly/ADV at/ADP the/DET waist/NOUN and/CCONJ continually/ADV use/VERB the/DET right/ADJ hand/NOUN to/PART stroke/VERB something/PRON softly/ADV#0.0#0.0

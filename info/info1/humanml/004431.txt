@@ -1,0 +1,3 @@
+a person moving arms and body in a fashion similar to washing themself.#a/DET person/NOUN move/VERB arm/NOUN and/CCONJ body/NOUN in/ADP a/DET fashion/NOUN similar/ADJ to/ADP wash/VERB themself/PRON#0.0#0.0
+a person begins to place items with one hand to the side opposite of their hand.#a/DET person/NOUN begin/VERB to/PART place/VERB item/NOUN with/ADP one/NUM hand/NOUN to/ADP the/DET side/NOUN opposite/ADV of/ADP their/DET hand/NOUN#0.0#0.0
+a person picking up their belongings.#a/DET person/NOUN pick/VERB up/ADP their/DET belonging/NOUN#0.0#0.0

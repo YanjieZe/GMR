@@ -1,0 +1,3 @@
+a person jumps on his left foot several times then on his right foot then on his two feet#a/DET person/NOUN jump/VERB on/ADP his/DET left/ADJ foot/NOUN several/ADJ time/NOUN then/ADV on/ADP his/DET right/ADJ foot/NOUN then/ADV on/ADP his/DET two/NUM foot/NOUN#0.0#0.0
+the person was hopping on his left foot then he was hopping on his right foot.#the/DET person/NOUN was/AUX hop/VERB on/ADP his/DET left/ADJ foot/NOUN then/ADV he/PRON was/AUX hop/VERB on/ADP his/DET right/ADJ foot/NOUN#0.0#0.0
+a person is jumping on his left leg from side to side and then starts jumping with both legs.#a/DET person/NOUN is/AUX jump/VERB on/ADP his/DET left/ADJ leg/NOUN from/ADP side/NOUN to/ADP side/NOUN and/CCONJ then/ADV start/VERB jump/VERB with/ADP both/DET leg/NOUN#0.0#0.0

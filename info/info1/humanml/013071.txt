@@ -1,0 +1,3 @@
+starting with his right foot and shoulder forward, a person turns his torso clockwise, extends his left arm up and forward, and lowers his right hand down.#start/VERB with/ADP his/DET right/ADJ foot/NOUN and/CCONJ shoulder/NOUN forward/ADV a/DET person/NOUN turn/VERB his/DET torso/NOUN clockwise/NOUN extend/VERB his/DET left/ADJ arm/NOUN up/ADV and/CCONJ forward/ADV and/CCONJ lower/VERB his/DET right/ADJ hand/NOUN down/ADP#0.0#0.0
+the person defends themself from the punch#the/DET person/NOUN defend/VERB themself/PRON from/ADP the/DET punch/NOUN#0.0#0.0
+person makes fighting block and gets into fighting stance#person/NOUN make/VERB fight/VERB block/NOUN and/CCONJ get/VERB into/ADP fight/VERB stance/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+the person is kneeling down on all fours to begin to crawl#the/DET person/NOUN is/AUX kneel/VERB down/ADP on/ADP all/DET four/NOUN to/PART begin/VERB to/PART crawl/VERB#0.0#0.0
+person got down on his knees with his arms straight out holding himself up.#person/NOUN get/VERB down/ADP on/ADP his/DET knee/NOUN with/ADP his/DET arm/NOUN straight/ADV out/ADV hold/VERB himself/PRON up/ADP#0.0#0.0
+a man stands, lowers his left leg and hand  first and then kneels down.#a/DET man/NOUN stand/VERB lower/VERB his/DET left/ADJ leg/NOUN and/CCONJ hand/VERB first/ADV and/CCONJ then/ADV kneel/VERB down/ADP#0.0#0.0

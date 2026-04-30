@@ -1,0 +1,3 @@
+a person standing up strikes their hands together well above their head.#a/DET person/NOUN stand/VERB up/ADP strike/NOUN their/DET hand/NOUN together/ADV well/ADV above/ADP their/DET head/NOUN#0.0#0.0
+a person stands on the spot and claps their hands in the air#a/DET person/NOUN stand/VERB on/ADP the/DET spot/NOUN and/CCONJ clap/VERB their/DET hand/NOUN in/ADP the/DET air/NOUN#0.0#0.0
+a person raises both hands out to the sides above their head until both hands touch and then back down as if doing a jumping jack.#a/DET person/NOUN raise/VERB both/DET hand/NOUN out/ADP to/ADP the/DET side/NOUN above/ADP their/DET head/NOUN until/ADP both/DET hand/NOUN touch/VERB and/CCONJ then/ADV back/ADV down/ADP as/SCONJ if/SCONJ do/VERB a/DET jump/VERB jack/NOUN#0.0#0.0

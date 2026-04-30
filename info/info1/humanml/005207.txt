@@ -1,0 +1,3 @@
+a person moves to the right, then brings their hands together in front of their face.#a/DET person/NOUN move/VERB to/ADP the/DET right/NOUN then/ADV bring/VERB their/DET hand/NOUN together/ADV in/ADP front/NOUN of/ADP their/DET face/NOUN#0.0#0.0
+a person clasps his hands together in front on his chest.#a/DET person/NOUN clasp/VERB his/DET hand/NOUN together/ADV in/ADP front/NOUN on/ADP his/DET chest/NOUN#0.0#0.0
+the person put his hands together to pray.#the/DET person/NOUN put/VERB his/DET hand/NOUN together/ADV to/PART pray/VERB#0.0#0.0

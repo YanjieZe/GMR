@@ -1,0 +1,3 @@
+a person takes a quick step to the right using only their right leg#a/DET person/NOUN take/VERB a/DET quick/ADJ step/NOUN to/ADP the/DET right/NOUN use/VERB only/ADV their/DET right/ADJ leg/NOUN#0.0#0.0
+a person moves their right arm and leg to the right simultaneously then comes back to center.#a/DET person/NOUN move/VERB their/DET right/ADJ arm/NOUN and/CCONJ leg/NOUN to/ADP the/DET right/NOUN simultaneously/ADV then/ADV come/VERB back/ADV to/ADP center/NOUN#0.0#0.0
+a man is standing straight and then slides out on his leg, and then slides back to straight position.#a/DET man/NOUN is/AUX stand/VERB straight/ADV and/CCONJ then/ADV slide/VERB out/ADP on/ADP his/DET leg/NOUN and/CCONJ then/ADV slide/VERB back/ADV to/ADP straight/ADJ position/NOUN#0.0#2.0

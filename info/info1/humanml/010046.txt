@@ -1,0 +1,2 @@
+a person strolls forward towards the right#a/DET person/NOUN stroll/VERB forward/ADV towards/ADP the/DET right/NOUN#0.0#0.0
+a person takes four steps forward, and turns to their right while doing so, to end up facing to their right.#a/DET person/NOUN take/VERB four/NUM step/NOUN forward/ADV and/CCONJ turn/VERB to/ADP their/DET right/NOUN while/SCONJ do/VERB so/ADV to/PART end/VERB up/ADP face/VERB to/ADP their/DET right/NOUN#0.0#0.0

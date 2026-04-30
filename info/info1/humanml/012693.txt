@@ -1,0 +1,3 @@
+the person is using both of their hands to empasize on what they are saying.#the/DET person/NOUN is/AUX use/VERB both/DET of/ADP their/DET hand/NOUN to/PART empasize/VERB on/ADP what/PRON they/PRON are/AUX say/VERB#5.0#10.0
+a person leans slightly to each side while moving one hand, and rotating to the other hand.#a/DET person/NOUN lean/VERB slightly/ADV to/ADP each/DET side/NOUN while/SCONJ move/VERB one/NUM hand/NOUN and/CCONJ rotate/VERB to/ADP the/DET other/ADJ hand/NOUN#0.0#0.0
+a person who is writing something#a/DET person/NOUN who/PRON is/AUX write/VERB something/PRON#0.0#0.0

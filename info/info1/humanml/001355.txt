@@ -1,0 +1,3 @@
+a person slowly stands up from the ground, pushing itself with both arms to steady balance and lift off the ground.#a/DET person/NOUN slowly/ADV stand/VERB up/ADP from/ADP the/DET ground/NOUN push/VERB itself/PRON with/ADP both/DET arm/NOUN to/ADP steady/ADJ balance/NOUN and/CCONJ lift/VERB off/ADP the/DET ground/NOUN#0.0#0.0
+a person is crawling on their back and slowly stands up.#a/DET person/NOUN is/AUX crawl/VERB on/ADP their/DET back/NOUN and/CCONJ slowly/ADV stand/VERB up/ADP#0.0#0.0
+someone having a hard time getting up off the floor#someone/PRON have/VERB a/DET hard/ADJ time/NOUN get/VERB up/ADP off/ADP the/DET floor/NOUN#0.0#0.0

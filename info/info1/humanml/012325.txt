@@ -1,0 +1,3 @@
+a person who is standing with his hands by his sides takes six deliberate steps forward and stops.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP his/DET hand/NOUN by/ADP his/DET side/NOUN take/VERB six/NUM deliberate/ADJ step/NOUN forward/ADV and/CCONJ stop/VERB#0.0#0.0
+he moves a around then stops#he/PRON move/VERB a/DET around/NOUN then/ADV stop/VERB#0.0#0.0
+the person is walking forward.#the/DET person/NOUN is/AUX walk/VERB forward/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks forward then stumbles around as if they are drunk#a/DET person/NOUN walk/VERB forward/ADV then/ADV stumble/VERB around/ADV as/SCONJ if/SCONJ they/PRON are/AUX drunk/ADJ#0.0#0.0
+walking in a random pattern then back.#walk/VERB in/ADP a/DET random/ADJ pattern/NOUN then/ADV back/ADV#0.0#0.0
+person is walking very slowly to the right#person/NOUN is/AUX walk/VERB very/ADV slowly/ADV to/ADP the/DET right/NOUN#0.0#0.0

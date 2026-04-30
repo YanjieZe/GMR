@@ -1,0 +1,3 @@
+the person is lifting something with his left hand.#the/DET person/NOUN is/AUX lift/VERB something/PRON with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0
+a person is arm wrestling with another and loses twice.#a/DET person/NOUN is/AUX arm/NOUN wrestle/VERB with/ADP another/DET and/CCONJ lose/VERB twice/ADV#0.0#0.0
+swings his right arm in different directions, maybe to stop pain or numbness?#swing/VERB his/DET right/ADJ arm/NOUN in/ADP different/ADJ direction/NOUN maybe/ADV to/PART stop/VERB pain/NOUN or/CCONJ numbness/NOUN#0.0#0.0

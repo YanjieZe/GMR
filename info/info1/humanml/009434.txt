@@ -1,0 +1,3 @@
+a person jumps from ground and then squats, then does another jumping squat.#a/DET person/NOUN jump/VERB from/ADP ground/NOUN and/CCONJ then/ADV squat/NOUN then/ADV does/AUX another/DET jumping/NOUN squat/NOUN#0.0#0.0
+a person is jumping in the air.#a/DET person/NOUN is/AUX jump/VERB in/ADP the/DET air/NOUN#0.0#0.0
+a person bounces, jumping up and down.#a/DET person/NOUN bounce/VERB jump/VERB up/ADP and/CCONJ down/ADV#0.0#0.0

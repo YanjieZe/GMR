@@ -1,0 +1,3 @@
+the man throws something with his hand.#the/DET man/NOUN throw/VERB something/PRON with/ADP his/DET hand/NOUN#0.0#0.0
+a person raises their right arm and brings it down forcefully in front of them, making a downwards slapping motion.#a/DET person/NOUN raise/VERB their/DET right/ADJ arm/NOUN and/CCONJ bring/VERB it/PRON down/ADP forcefully/ADV in/ADP front/NOUN of/ADP them/PRON make/VERB a/DET downwards/ADV slapping/NOUN motion/NOUN#0.0#0.0
+a person moves his right hand in a throwing motion.#a/DET person/NOUN move/VERB his/DET right/ADJ hand/NOUN in/ADP a/DET throwing/NOUN motion/NOUN#0.0#0.0

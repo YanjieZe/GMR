@@ -1,0 +1,3 @@
+the figure is sitting or crouching and the hands move very minutely by the face as they eat.#the/DET figure/NOUN is/AUX sit/VERB or/CCONJ crouch/VERB and/CCONJ the/DET hand/NOUN move/VERB very/ADV minutely/ADV by/ADP the/DET face/NOUN as/SCONJ they/PRON eat/VERB#0.0#0.0
+person is eating a hamburger.#person/NOUN is/AUX eat/VERB a/DET hamburger/NOUN#0.0#0.0
+person is in a sitting position and brings hands up to face in motion of holding their head.#person/NOUN is/AUX in/ADP a/DET sit/VERB position/NOUN and/CCONJ bring/VERB hand/NOUN up/ADP to/PART face/VERB in/ADP motion/NOUN of/ADP hold/VERB their/DET head/NOUN#0.0#0.0

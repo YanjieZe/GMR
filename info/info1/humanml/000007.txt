@@ -1,0 +1,4 @@
+a man is walking forward, favoring his left leg and shifting his walk. he is possibly drunk.#a/DET man/NOUN is/AUX walk/VERB forward/ADV favor/VERB his/DET left/ADJ leg/NOUN and/CCONJ shift/VERB his/DET walk/NOUN he/PRON is/AUX possibly/ADV drunk/ADJ#0.0#0.0
+a person starts at the top of stairs and at a regular pace walks down stairs.#a/DET person/NOUN start/VERB at/ADP the/DET top/NOUN of/ADP stair/NOUN and/CCONJ at/ADP a/DET regular/ADJ pace/NOUN walk/VERB down/ADP stair/NOUN#nan#0.0
+a person is walking and then steps over something.#a/DET person/NOUN is/AUX walk/VERB and/CCONJ then/ADV step/VERB over/ADP something/PRON#0.0#0.0
+a man walks forward then stops.#a/DET man/NOUN walk/VERB forward/ADV then/ADV stop/VERB#0.0#0.0

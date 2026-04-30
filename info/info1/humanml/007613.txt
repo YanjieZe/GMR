@@ -1,0 +1,3 @@
+a person stayed on the place and after crosed arms#a/DET person/NOUN stay/VERB on/ADP the/DET place/NOUN and/CCONJ after/ADP crose/VERB arm/NOUN#0.0#0.0
+a person is standing and crosses their arms, and then uncrosses them.#a/DET person/NOUN is/AUX stand/VERB and/CCONJ cross/VERB their/DET arm/NOUN and/CCONJ then/ADV uncross/VERB them/PRON#0.0#0.0
+a person who is standing with his arms by his sides crosses his arms, pauses, then lowers his arms to his sides.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP his/DET arm/NOUN by/ADP his/DET side/NOUN cross/VERB his/DET arm/NOUN pause/NOUN then/ADV lower/VERB his/DET arm/NOUN to/ADP his/DET side/NOUN#0.0#0.0

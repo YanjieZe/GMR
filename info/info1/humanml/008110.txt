@@ -1,0 +1,3 @@
+a person is walking while holding a drink in their hand.#a/DET person/NOUN is/AUX walk/VERB while/SCONJ hold/VERB a/DET drink/NOUN in/ADP their/DET hand/NOUN#0.0#0.0
+person moves forward swaying side to side then picks sometime up with right hand and holds near face and moves hand slightly#person/NOUN move/VERB forward/ADV sway/VERB side/NOUN to/PART side/VERB then/ADV pick/VERB sometime/ADV up/ADV with/ADP right/ADJ hand/NOUN and/CCONJ hold/VERB near/SCONJ face/NOUN and/CCONJ move/VERB hand/NOUN slightly/ADV#0.0#0.0
+a person walks very feminine fo get a drink#a/DET person/NOUN walk/VERB very/ADV feminine/ADJ fo/PROPN get/AUX a/DET drink/NOUN#0.0#0.0

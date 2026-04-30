@@ -1,0 +1,3 @@
+a person walks forward a few steps on their tippy toes and then turns around and walks back in the same fashion.#a/DET person/NOUN walk/VERB forward/ADV a/DET few/ADJ step/NOUN on/ADP their/DET tippy/ADJ toe/NOUN and/CCONJ then/ADV turn/VERB around/ADV and/CCONJ walk/VERB back/ADV in/ADP the/DET same/ADJ fashion/NOUN#0.0#0.0
+walking forward and then backwards.#walk/VERB forward/ADV and/CCONJ then/ADV backwards/ADV#0.0#0.0
+a person  walks, turns and then walks exaggerated steps like uphill.#a/DET person/NOUN walk/NOUN turn/VERB and/CCONJ then/ADV walk/VERB exaggerated/ADJ step/NOUN like/SCONJ uphill/ADJ#0.0#0.0

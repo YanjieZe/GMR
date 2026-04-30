@@ -1,0 +1,3 @@
+a person walks forward 2 steps, then makes a 180⁰ turn to his left by swinging his right leg around.#a/DET person/NOUN walk/VERB forward/ADV step/NOUN then/ADV make/VERB a/DET turn/NOUN to/ADP his/DET left/NOUN by/ADP swinge/VERB his/DET right/ADJ leg/NOUN around/ADV#0.0#0.0
+a person walks straight then turns around.#a/DET person/NOUN walk/VERB straight/ADV then/ADV turn/VERB around/ADV#0.0#0.0
+a person walks forward from one side to the other, then turns around and goes back to the original side.#a/DET person/NOUN walk/VERB forward/ADV from/ADP one/NUM side/NOUN to/ADP the/DET other/ADJ then/ADV turn/VERB around/ADV and/CCONJ go/VERB back/ADV to/ADP the/DET original/ADJ side/NOUN#0.0#0.0

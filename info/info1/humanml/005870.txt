@@ -1,0 +1,3 @@
+a person stayed on the place and after throw something#a/DET person/NOUN stay/VERB on/ADP the/DET place/NOUN and/CCONJ after/ADP throw/VERB something/PRON#0.0#0.0
+the sim is standing, appearing to throw a football with their right hand.#the/DET sim/PROPN is/AUX stand/VERB appear/VERB to/PART throw/VERB a/DET football/NOUN with/ADP their/DET right/ADJ hand/NOUN#0.0#3.0
+a person throws something with one hand, then throws with two hands.#a/DET person/NOUN throw/VERB something/PRON with/ADP one/NUM hand/NOUN then/ADV throw/VERB with/ADP two/NUM hand/NOUN#0.0#0.0

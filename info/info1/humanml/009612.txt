@@ -1,0 +1,3 @@
+a man walks in a line.#a/DET man/NOUN walk/VERB in/ADP a/DET line/NOUN#0.0#0.0
+a man walks in a wide arc to his left.#a/DET man/NOUN walk/VERB in/ADP a/DET wide/ADJ arc/NOUN to/ADP his/DET left/NOUN#0.0#0.0
+a person walks down and stops to the left.#a/DET person/NOUN walk/VERB down/ADV and/CCONJ stop/VERB to/ADP the/DET left/NOUN#0.0#0.0

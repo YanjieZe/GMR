@@ -1,0 +1,3 @@
+a person swings their right arm in a large forward circle motion, then swings that same arm in a large backward circle motion, then swings their left arm in a large forward circle motion.#a/DET person/NOUN swing/VERB their/DET right/ADJ arm/NOUN in/ADP a/DET large/ADJ forward/ADJ circle/NOUN motion/NOUN then/ADV swing/VERB that/DET same/ADJ arm/NOUN in/ADP a/DET large/ADJ backward/ADJ circle/NOUN motion/NOUN then/ADV swing/VERB their/DET left/ADJ arm/NOUN in/ADP a/DET large/ADJ forward/ADJ circle/NOUN motion/NOUN#0.0#0.0
+a person swings both their arms around.#a/DET person/NOUN swing/VERB both/CCONJ their/DET arm/NOUN around/ADV#0.0#0.0
+the person is spinning his right arm.#the/DET person/NOUN is/AUX spin/VERB his/DET right/ADJ arm/NOUN#0.0#0.0

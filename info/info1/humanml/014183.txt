@@ -1,0 +1,3 @@
+a man stands up, walks in a circle, and sits back down.#a/DET man/NOUN stand/VERB up/ADP walk/VERB in/ADP a/DET circle/NOUN and/CCONJ sit/VERB back/ADV down/ADV#0.0#0.0
+walking in a circle then sitting#walk/VERB in/ADP a/DET circle/NOUN then/ADV sit/VERB#0.0#0.0
+a man gets up from the ground, waks around in a circle and then sits down on the ground again.#a/DET man/NOUN get/VERB up/ADV from/ADP the/DET ground/NOUN wak/VERB around/ADP in/ADP a/DET circle/NOUN and/CCONJ then/ADV sit/VERB down/ADP on/ADP the/DET ground/NOUN again/ADV#0.0#0.0

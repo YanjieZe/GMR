@@ -1,0 +1,3 @@
+a person raised his right hand and after raised with left hand#a/DET person/NOUN raise/VERB his/DET right/ADJ hand/NOUN and/CCONJ after/ADP raise/VERB with/ADP left/ADJ hand/NOUN#0.0#0.0
+this person waves with his right arm then waves with his left hand.#this/DET person/NOUN wave/VERB with/ADP his/DET right/ADJ arm/NOUN then/ADV wave/VERB with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0
+the man uses both arms to wave to his neighbors#the/DET man/NOUN use/VERB both/DET arm/NOUN to/PART wave/VERB to/ADP his/DET neighbor/NOUN#0.0#0.0

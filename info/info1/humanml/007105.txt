@@ -1,0 +1,3 @@
+a man gets up off the ground from his knees.#a/DET man/NOUN get/VERB up/ADV off/ADP the/DET ground/NOUN from/ADP his/DET knee/NOUN#0.0#0.0
+person gets up from floor off right knee#person/NOUN get/VERB up/ADV from/ADP floor/NOUN off/ADP right/ADJ knee/NOUN#0.0#0.0
+a figure is on all fours then climbs to an upright position standing#a/DET figure/NOUN is/AUX on/ADP all/DET four/NOUN then/ADV climb/VERB to/ADP an/DET upright/ADJ position/NOUN stand/VERB#0.0#0.0

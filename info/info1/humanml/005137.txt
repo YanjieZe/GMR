@@ -1,0 +1,3 @@
+the owrson is stretching with their hands up to the right.#the/DET owrson/PROPN is/AUX stretch/VERB with/ADP their/DET hand/NOUN up/ADP to/ADP the/DET right/NOUN#0.0#0.0
+a person on knees waving arms.#a/DET person/NOUN on/ADP knee/NOUN wave/VERB arm/NOUN#0.0#0.0
+after a moment of pondering, the kneeling figure leans to one side with both hands flowing over like being blown in the wind.#after/ADP a/DET moment/NOUN of/ADP ponder/VERB the/DET kneel/VERB figure/NOUN lean/VERB to/ADP one/NUM side/NOUN with/ADP both/DET hand/NOUN flow/VERB over/ADP like/SCONJ being/AUX blow/VERB in/ADP the/DET wind/NOUN#0.0#0.0

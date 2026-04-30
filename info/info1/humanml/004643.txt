@@ -1,0 +1,3 @@
+a person is standing still, steps to the left, then stands still again.#a/DET person/NOUN is/AUX stand/VERB still/ADV step/VERB to/ADP the/DET left/NOUN then/ADV stand/VERB still/ADV again/ADV#0.0#0.0
+person quickly jumps laterally to the left.#person/NOUN quickly/ADV jump/VERB laterally/ADV to/ADP the/DET left/NOUN#0.0#0.0
+a man takes a medium side like step to the left.#a/DET man/NOUN take/VERB a/DET medium/ADJ side/NOUN like/SCONJ step/NOUN to/ADP the/DET left/NOUN#0.0#0.0

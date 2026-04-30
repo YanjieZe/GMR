@@ -1,0 +1,3 @@
+a person is walking slowly in zigzag#a/DET person/NOUN is/AUX walk/VERB slowly/ADV in/ADP zigzag/PROPN#0.0#0.0
+the figure is hunched, their head turns back and forth searchingly as they walk forward and then turn around counterclockwise and continue walking hunched.#the/DET figure/NOUN is/AUX hunch/VERB their/DET head/NOUN turn/VERB back/ADV and/CCONJ forth/ADV searchingly/ADV as/SCONJ they/PRON walk/VERB forward/ADV and/CCONJ then/ADV turn/VERB around/ADP counterclockwise/NOUN and/CCONJ continue/VERB walk/VERB hunch/VERB#0.0#0.0
+a person seeming to be walking over a substance back and forth slowly.#a/DET person/NOUN seeming/ADJ to/PART be/AUX walk/VERB over/ADP a/DET substance/NOUN back/ADV and/CCONJ forth/ADV slowly/ADV#0.0#0.0

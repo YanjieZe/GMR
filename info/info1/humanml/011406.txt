@@ -1,0 +1,3 @@
+a person with his/her arms on his/her side while jumping with his/her legs a few times.#a/DET person/NOUN with/ADP his/DET her/DET arm/NOUN on/ADP his/DET her/DET side/NOUN while/SCONJ jump/VERB with/ADP his/DET her/DET leg/NOUN a/DET few/ADJ time/NOUN#0.0#0.0
+a person jumps in place.#a/DET person/NOUN jump/VERB in/ADP place/NOUN#0.0#0.0
+a person bounced six times.#a/DET person/NOUN bounce/VERB six/NUM time/NOUN#0.0#3.0

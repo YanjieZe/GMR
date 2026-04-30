@@ -1,0 +1,3 @@
+a person strafes from left to right repeatedly.#a/DET person/NOUN strafe/VERB from/ADP left/VERB to/ADP right/ADV repeatedly/ADV#0.0#0.0
+a person side-steps to the left with their left foot three times, changes direction to the right with their right foot 4 times, and then goes back to center leading with their left foot.#a/DET person/NOUN sidestep/VERB to/ADP the/DET left/NOUN with/ADP their/DET left/ADJ foot/NOUN three/NUM time/NOUN change/VERB direction/NOUN to/ADP the/DET right/NOUN with/ADP their/DET right/ADJ foot/NOUN time/NOUN and/CCONJ then/ADV go/VERB back/ADV to/ADP center/NOUN lead/VERB with/ADP their/DET left/ADJ foot/NOUN#0.0#0.0
+a person quickly jumps from side to side.#a/DET person/NOUN quickly/ADV jump/VERB from/ADP side/NOUN to/ADP side/NOUN#0.0#0.0

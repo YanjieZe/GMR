@@ -1,0 +1,3 @@
+a person walks forward as if stumbling while moving forward.#a/DET person/NOUN walk/VERB forward/ADV as/SCONJ if/SCONJ stumble/VERB while/SCONJ move/VERB forward/ADV#0.0#0.0
+person struggles to maintain balance, takes a few steps forward, loses balance again, regains it and takes a few steps back.#person/NOUN struggle/VERB to/PART maintain/VERB balance/NOUN take/VERB a/DET few/ADJ step/NOUN forward/ADV lose/VERB balance/NOUN again/ADV regain/VERB it/PRON and/CCONJ take/VERB a/DET few/ADJ step/NOUN back/ADV#0.0#0.0
+a person get hit in the stomach and stumbles forward, gets hit again and stumbles.#a/DET person/NOUN get/VERB hit/VERB in/ADP the/DET stomach/NOUN and/CCONJ stumble/VERB forward/ADV get/VERB hit/VERB again/ADV and/CCONJ stumble/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person walking slowly in front of them step by step.#a/DET person/NOUN walk/VERB slowly/ADV in/ADP front/NOUN of/ADP them/PRON step/VERB by/ADP step/NOUN#0.0#0.0
+person slowing walking in forward motion#person/NOUN slow/VERB walk/VERB in/ADV forward/ADV motion/NOUN#0.0#0.0
+a person walks stiff legged with their arms wide.#a/DET person/NOUN walk/VERB stiff/ADJ legge/VERB with/ADP their/DET arm/NOUN wide/ADV#0.0#0.0

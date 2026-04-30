@@ -1,0 +1,3 @@
+the person put down a box and continue to walk.#the/DET person/NOUN put/VERB down/ADP a/DET box/NOUN and/CCONJ continue/VERB to/PART walk/VERB#0.0#0.0
+a man bends over and sets sometimes down with both hands, then stands back up and starts walking forward.#a/DET man/NOUN bend/VERB over/ADP and/CCONJ set/NOUN sometimes/ADV down/ADV with/ADP both/DET hand/NOUN then/ADV stand/VERB back/ADV up/ADV and/CCONJ start/VERB walk/VERB forward/ADV#0.0#0.0
+s figure crouches, touches teh ground, stands, then walks forward#s/PROPN figure/NOUN crouch/NOUN touch/VERB teh/PROPN ground/NOUN stand/VERB then/ADV walk/VERB forward/ADV#0.0#0.0

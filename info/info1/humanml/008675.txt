@@ -1,0 +1,3 @@
+man is holding something with both hands and raises right hand and returns it to item he is holding.#man/NOUN is/AUX hold/VERB something/PRON with/ADP both/DET hand/NOUN and/CCONJ raise/VERB right/ADJ hand/NOUN and/CCONJ return/VERB it/PRON to/PART item/VERB he/PRON is/AUX hold/VERB#0.0#0.0
+a person walks forward before reaching forward with their right arm#a/DET person/NOUN walk/VERB forward/ADV before/ADP reach/VERB forward/ADV with/ADP their/DET right/ADJ arm/NOUN#0.0#0.0
+a person something to someone and waiting for something back#a/DET person/NOUN something/PRON to/ADP someone/PRON and/CCONJ wait/VERB for/ADP something/PRON back/ADV#0.0#0.0

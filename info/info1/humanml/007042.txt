@@ -1,0 +1,3 @@
+perons walking from the right side, stopping occasionally to life up one leg.#peron/NOUN walk/VERB from/ADP the/DET right/ADJ side/NOUN stop/VERB occasionally/ADV to/ADP life/NOUN up/ADP one/NUM leg/NOUN#0.0#0.0
+a person walks in a curved line, lifting their legs high with each step#a/DET person/NOUN walk/VERB in/ADP a/DET curved/ADJ line/NOUN lift/VERB their/DET leg/NOUN high/ADJ with/ADP each/DET step/NOUN#0.0#0.0
+a person is walking with his feet high in the air.#a/DET person/NOUN is/AUX walk/VERB with/ADP his/DET foot/NOUN high/ADJ in/ADP the/DET air/NOUN#0.0#0.0

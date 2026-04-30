@@ -1,0 +1,3 @@
+the person takes several steps forward.#the/DET person/NOUN take/VERB several/ADJ step/NOUN forward/ADV#0.0#0.0
+a person stands with hands wavering next to body, then walks down and stops.#a/DET person/NOUN stand/VERB with/ADP hand/NOUN waver/VERB next/ADV to/ADP body/NOUN then/ADV walk/VERB down/ADV and/CCONJ stop/NOUN#0.0#0.0
+the person walks forward and then waits while its arms waves.#the/DET person/NOUN walk/VERB forward/ADV and/CCONJ then/ADV wait/VERB while/SCONJ its/DET arm/NOUN wave/NOUN#0.0#0.0

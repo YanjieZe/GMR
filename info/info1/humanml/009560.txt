@@ -1,0 +1,3 @@
+a person balances on their left leg.#a/DET person/NOUN balance/VERB on/ADP their/DET left/ADJ leg/NOUN#0.0#0.0
+a standing person suddenly starts balancing on their left leg.#a/DET stand/VERB person/NOUN suddenly/ADV start/VERB balance/VERB on/ADP their/DET left/ADJ leg/NOUN#0.0#0.0
+a person bends at their hips to the right side.#a/DET person/NOUN bend/VERB at/ADP their/DET hip/NOUN to/ADP the/DET right/ADJ side/NOUN#0.0#0.0

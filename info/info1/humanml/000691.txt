@@ -1,0 +1,3 @@
+a person walking forward in a straight line.#a/DET person/NOUN walk/VERB forward/ADV in/ADP a/DET straight/ADJ line/NOUN#0.0#0.0
+the person is walking forward.#the/DET person/NOUN is/AUX walk/VERB forward/ADV#0.0#0.0
+the person walks forward and stands there#the/DET person/NOUN walk/VERB forward/ADV and/CCONJ stand/VERB there/ADV#0.0#0.0

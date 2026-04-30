@@ -1,0 +1,3 @@
+a standing up person bends down and gets back up.#a/DET stand/VERB up/ADP person/NOUN bend/VERB down/ADP and/CCONJ get/VERB back/ADV up/ADV#0.0#0.0
+a person bows forward then steps backward.#a/DET person/NOUN bow/VERB forward/ADV then/ADV step/VERB backward/ADV#0.0#0.0
+the man bows and takes a small step back with his left foot not moving the right foot.#the/DET man/NOUN bow/VERB and/CCONJ take/VERB a/DET small/ADJ step/NOUN back/ADV with/ADP his/DET left/ADJ foot/NOUN not/PART move/VERB the/DET right/ADJ foot/NOUN#0.0#0.0

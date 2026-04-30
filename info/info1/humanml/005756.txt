@@ -1,0 +1,3 @@
+a person does bicep curls with their right hand.#a/DET person/NOUN does/AUX bicep/NOUN curl/NOUN with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+a person bends their right forearm up toward their shoulder twice.#a/DET person/NOUN bend/VERB their/DET right/ADJ forearm/NOUN up/ADP toward/ADP their/DET shoulder/NOUN twice/ADV#0.0#0.0
+a person bends its right arm multiple times.#a/DET person/NOUN bend/VERB its/DET right/ADJ arm/NOUN multiple/NOUN time/NOUN#0.0#0.0

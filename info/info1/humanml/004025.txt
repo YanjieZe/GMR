@@ -1,0 +1,3 @@
+the person was waving bye with his right arm.#the/DET person/NOUN was/AUX wave/VERB bye/INTJ with/ADP his/DET right/ADJ arm/NOUN#0.0#0.0
+man waving his hands doing good bye#man/NOUN wave/VERB his/DET hand/NOUN do/VERB good/ADJ bye/NOUN#0.0#0.0
+a man waves with is right hand.#a/DET man/NOUN wave/VERB with/ADP is/AUX right/ADJ hand/NOUN#0.0#0.0

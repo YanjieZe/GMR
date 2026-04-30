@@ -1,0 +1,3 @@
+a person walks forward at a normal pace while alternately using each hand to steady themselves.#a/DET person/NOUN walk/VERB forward/ADV at/ADP a/DET normal/ADJ pace/NOUN while/SCONJ alternately/ADV use/VERB each/DET hand/NOUN to/PART steady/VERB themselves/PRON#0.0#0.0
+a man walks forward while balancing himself and then walks to the right.#a/DET man/NOUN walk/VERB forward/ADV while/SCONJ balance/VERB himself/PRON and/CCONJ then/ADV walk/VERB to/ADP the/DET right/NOUN#0.0#0.0
+a man walk carefully off the legs#a/DET man/NOUN walk/VERB carefully/ADV off/ADP the/DET leg/NOUN#0.0#0.0

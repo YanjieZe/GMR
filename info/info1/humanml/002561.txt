@@ -1,0 +1,2 @@
+a man walks forward in a curve to the right of him.#a/DET man/NOUN walk/VERB forward/ADV in/ADP a/DET curve/NOUN to/ADP the/DET right/NOUN of/ADP him/PRON#0.0#0.0
+a person walks forward and to the left.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ to/ADP the/DET left/NOUN#0.0#0.0

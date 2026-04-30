@@ -1,0 +1,3 @@
+the person is drinking something.#the/DET person/NOUN is/AUX drink/VERB something/PRON#0.0#0.0
+person steps forward to an elevated surface, picks up a container, raises it up and takes drink, and then returns the container to the surface.#person/NOUN step/VERB forward/ADV to/ADP an/DET elevated/ADJ surface/NOUN pick/VERB up/ADP a/DET container/NOUN raise/VERB it/PRON up/ADP and/CCONJ take/VERB drink/NOUN and/CCONJ then/ADV return/VERB the/DET container/NOUN to/ADP the/DET surface/NOUN#0.0#0.0
+a person picks up a glass and drinks#a/DET person/NOUN pick/VERB up/ADP a/DET glass/NOUN and/CCONJ drink/NOUN#0.0#0.0

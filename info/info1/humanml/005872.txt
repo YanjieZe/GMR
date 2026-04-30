@@ -1,0 +1,3 @@
+the person is working forward.#the/DET person/NOUN is/AUX work/VERB forward/ADV#0.0#0.0
+a person walks forward normally#a/DET person/NOUN walk/VERB forward/ADV normally/ADV#0.0#0.0
+a person walks forward with slow strides.#a/DET person/NOUN walk/VERB forward/ADV with/ADP slow/ADJ stride/NOUN#0.0#0.0

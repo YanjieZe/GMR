@@ -1,0 +1,3 @@
+the sim appears to grab a cup with their right hand, taking a drink setting it down before turning around.#the/DET sim/PROPN appear/VERB to/PART grab/VERB a/DET cup/NOUN with/ADP their/DET right/ADJ hand/NOUN take/VERB a/DET drink/NOUN set/VERB it/PRON down/ADP before/ADP turn/VERB around/ADV#0.0#9.0
+the person turns around, picks something up and holds it to their head, then puts the object back.#the/DET person/NOUN turn/VERB around/ADV pick/VERB something/PRON up/ADP and/CCONJ hold/VERB it/PRON to/ADP their/DET head/NOUN then/ADV put/VERB the/DET object/NOUN back/ADP#0.0#0.0
+the person picked up some thing on the left and took a drink.#the/DET person/NOUN pick/VERB up/ADP some/DET thing/NOUN on/ADP the/DET left/NOUN and/CCONJ take/VERB a/DET drink/NOUN#0.0#0.0

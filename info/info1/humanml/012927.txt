@@ -1,0 +1,3 @@
+a person throws with right hand.#a/DET person/NOUN throw/VERB with/ADP right/ADJ hand/NOUN#0.0#0.0
+person moving arm in up motion#person/NOUN move/VERB arm/NOUN in/ADP up/ADV motion/NOUN#0.0#0.0
+a person stretches their right shoulder back and fourth.#a/DET person/NOUN stretch/VERB their/DET right/ADJ shoulder/NOUN back/ADV and/CCONJ fourth/ADV#0.0#0.0

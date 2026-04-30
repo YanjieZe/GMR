@@ -1,0 +1,3 @@
+a person with an injured left arm and leg walking with a limp.#a/DET person/NOUN with/ADP an/DET injure/VERB left/ADJ arm/NOUN and/CCONJ leg/NOUN walk/VERB with/ADP a/DET limp/NOUN#0.0#0.0
+a person walks in a circle clockwise.#a/DET person/NOUN walk/VERB in/ADP a/DET circle/NOUN clockwise/NOUN#0.0#0.0
+a person is limping with their left leg#a/DET person/NOUN is/AUX limp/VERB with/ADP their/DET left/ADJ leg/NOUN#0.0#0.0

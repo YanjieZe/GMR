@@ -1,0 +1,3 @@
+a person jogs forward, apparently down some kind of ramp.#a/DET person/NOUN jog/VERB forward/ADV apparently/ADV down/ADP some/DET kind/NOUN of/ADP ramp/NOUN#0.0#0.0
+a person is jogging forward.#a/DET person/NOUN is/AUX jog/VERB forward/ADV#0.0#0.0
+a person jogs forward then stops.#a/DET person/NOUN jog/VERB forward/ADV then/ADV stop/VERB#0.0#0.0

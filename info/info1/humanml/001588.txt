@@ -1,0 +1,3 @@
+a person is pushed forward and stands still.#a/DET person/NOUN is/AUX push/VERB forward/ADV and/CCONJ stand/VERB still/ADV#0.0#0.0
+the forward facing figure is pushed, it stumbles a bit forward but keeps its balance and doesn't fall.#the/DET forward/ADV face/VERB figure/NOUN is/AUX push/VERB it/PRON stumble/VERB a/DET bit/NOUN forward/ADV but/CCONJ keep/VERB its/DET balance/NOUN and/CCONJ does/AUX fall/VERB#0.0#0.0
+a person takes one step forward with his left leg and then brings his right leg up to meet it.#a/DET person/NOUN take/VERB one/NUM step/NOUN forward/ADV with/ADP his/DET left/ADJ leg/NOUN and/CCONJ then/ADV bring/VERB his/DET right/ADJ leg/NOUN up/ADP to/PART meet/VERB it/PRON#0.0#0.0

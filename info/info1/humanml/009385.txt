@@ -1,0 +1,3 @@
+person squats all the way to the ground, then leaps up all the way, raising both hands above the head.#person/NOUN squat/VERB all/DET the/DET way/NOUN to/ADP the/DET ground/NOUN then/ADV leap/VERB up/ADP all/DET the/DET way/NOUN raise/VERB both/DET hand/NOUN above/ADP the/DET head/NOUN#0.0#0.0
+a person jumps in the air and smacks their hands together#a/DET person/NOUN jump/VERB in/ADP the/DET air/NOUN and/CCONJ smack/VERB their/DET hand/NOUN together/ADV#0.0#0.0
+person bends down and does a jumping jack#person/NOUN bend/VERB down/ADP and/CCONJ does/AUX a/DET jump/VERB jack/NOUN#0.0#0.0

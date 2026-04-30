@@ -1,0 +1,3 @@
+a person plays the violin with their bow in their left hand.#a/DET person/NOUN play/VERB the/DET violin/NOUN with/ADP their/DET bow/NOUN in/ADP their/DET left/ADJ hand/NOUN#0.0#0.0
+a person holds their right arm outstretched with their left hand moving back-and-forth in front of them as though they are playing the violin.#a/DET person/NOUN hold/VERB their/DET right/ADJ arm/NOUN outstretche/VERB with/ADP their/DET left/ADJ hand/NOUN move/VERB backandforth/NOUN in/ADP front/NOUN of/ADP them/PRON as/SCONJ though/SCONJ they/PRON are/AUX play/VERB the/DET violin/NOUN#0.0#0.0
+the person is playing the violin with his left hand.#the/DET person/NOUN is/AUX play/VERB the/DET violin/NOUN with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0

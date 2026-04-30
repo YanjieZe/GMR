@@ -1,0 +1,3 @@
+place items in a line up#place/NOUN item/NOUN in/ADP a/DET line/NOUN up/ADP#0.0#0.0
+a person grabbed something with both hands and put it down#a/DET person/NOUN grab/VERB something/PRON with/ADP both/DET hand/NOUN and/CCONJ put/VERB it/PRON down/ADP#0.0#0.0
+a person is moving an object, puts the object down and turns in an adjacent movement from the object.#a/DET person/NOUN is/AUX move/VERB an/DET object/NOUN put/VERB the/DET object/NOUN down/ADP and/CCONJ turn/VERB in/ADP an/DET adjacent/ADJ movement/NOUN from/ADP the/DET object/NOUN#0.0#0.0

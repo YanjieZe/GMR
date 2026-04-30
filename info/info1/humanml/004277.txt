@@ -1,0 +1,3 @@
+man walks forward and then turns around.#man/NOUN walk/VERB forward/ADV and/CCONJ then/ADV turn/VERB around/ADV#0.0#0.0
+person is slowly walking around.#person/NOUN is/AUX slowly/ADV walk/VERB around/ADV#0.0#0.0
+the person walks around the room.#the/DET person/NOUN walk/VERB around/ADP the/DET room/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+the person is untangling himself from a rope.#the/DET person/NOUN is/AUX untangle/VERB himself/PRON from/ADP a/DET rope/NOUN#0.0#0.0
+a person stepping forward and backwards in a figure eight pattern while moving arms.#a/DET person/NOUN step/VERB forward/ADV and/CCONJ backwards/ADV in/ADP a/DET figure/NOUN eight/NUM pattern/NOUN while/SCONJ move/VERB arm/NOUN#0.0#0.0
+a a person practices a salsa dance routine by themselves#a/DET a/DET person/NOUN practice/VERB a/DET salsa/NOUN dance/NOUN routine/NOUN by/ADP themselves/PRON#0.0#0.0

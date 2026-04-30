@@ -1,0 +1,3 @@
+a man raises his right arm up to his head, brushes it, and then lowers it to his side.#a/DET man/NOUN raise/VERB his/DET right/ADJ arm/NOUN up/ADP to/ADP his/DET head/NOUN brush/VERB it/PRON and/CCONJ then/ADV lower/VERB it/PRON to/ADP his/DET side/NOUN#0.0#0.0
+a person stands still and raises their right hand, brushing it through their hair.#a/DET person/NOUN stand/VERB still/ADV and/CCONJ raise/VERB their/DET right/ADJ hand/NOUN brush/VERB it/PRON through/ADP their/DET hair/NOUN#0.0#0.0
+a person rubs their head from the front to the back with their right hand#a/DET person/NOUN rub/VERB their/DET head/NOUN from/ADP the/DET front/NOUN to/ADP the/DET back/NOUN with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0

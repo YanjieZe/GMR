@@ -1,0 +1,3 @@
+sitting down then kneeling.#sit/VERB down/ADP then/ADV kneel/VERB#0.0#0.0
+a person kneels down onto their knees.#a/DET person/NOUN kneel/VERB down/ADP onto/ADP their/DET knee/NOUN#0.0#0.0
+person person got down on their knees.#person/NOUN person/NOUN get/VERB down/ADP on/ADP their/DET knee/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+the person is pouring some thing with his right hand.#the/DET person/NOUN is/AUX pour/VERB some/DET thing/NOUN with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+this person is lifting items with his right hand.#this/DET person/NOUN is/AUX lift/VERB item/NOUN with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+a person checks something twice on top, checks something twice on the bottom, then touches something in the middle and turns and walks off.#a/DET person/NOUN check/VERB something/PRON twice/ADV on/ADP top/NOUN check/NOUN something/PRON twice/ADV on/ADP the/DET bottom/NOUN then/ADV touch/VERB something/PRON in/ADP the/DET middle/NOUN and/CCONJ turn/VERB and/CCONJ walk/VERB off/ADV#0.0#0.0

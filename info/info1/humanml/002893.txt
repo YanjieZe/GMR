@@ -1,0 +1,3 @@
+person walks from back centre to slightly front right#person/NOUN walk/VERB from/ADP back/NOUN centre/NOUN to/ADP slightly/ADV front/VERB right/ADV#0.0#0.0
+a person walks forward and stops.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ stop/NOUN#0.0#0.0
+a person walks forward.#a/DET person/NOUN walk/VERB forward/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+the sim raises their right arm, before bring it back to their waste.#the/DET sim/PROPN raise/VERB their/DET right/ADJ arm/NOUN before/ADP bring/VERB it/PRON back/ADV to/ADP their/DET waste/NOUN#0.0#3.0
+a person lifts their right hand.#a/DET person/NOUN lift/VERB their/DET right/ADJ hand/NOUN#0.0#0.0
+a person raises their right arm up to shoulder height and then back down#a/DET person/NOUN raise/VERB their/DET right/ADJ arm/NOUN up/ADP to/ADP shoulder/NOUN height/NOUN and/CCONJ then/ADV back/ADV down/ADP#0.0#0.0

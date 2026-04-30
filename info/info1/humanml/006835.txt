@@ -1,0 +1,3 @@
+a person runs and sits on something.#a/DET person/NOUN run/VERB and/CCONJ sit/VERB on/ADP something/PRON#0.0#0.0
+somebody runs to a seat and sits down quick.#somebody/PRON run/VERB to/ADP a/DET seat/NOUN and/CCONJ sit/VERB down/ADP quick/ADV#0.0#0.0
+a person scrambles to sit.#a/DET person/NOUN scramble/VERB to/PART sit/VERB#0.0#0.0

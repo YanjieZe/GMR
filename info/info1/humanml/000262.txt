@@ -1,0 +1,3 @@
+as a person is walking forward, he bends down to squat and touch the ground.#as/SCONJ a/DET person/NOUN is/AUX walk/VERB forward/ADV he/PRON bend/VERB down/ADP to/ADP squat/VERB and/CCONJ touch/VERB the/DET ground/NOUN#0.0#0.0
+a man walks foward then squats then gets back up then walks forward again.#a/DET man/NOUN walk/VERB foward/ADJ then/ADV squat/NOUN then/ADV get/VERB back/ADV up/ADV then/ADV walk/VERB forward/ADV again/ADV#0.0#4.0
+a person steps forward, squats down, recovers and repeats the motion then turns around and takes a step and squats down.#a/DET person/NOUN step/VERB forward/ADV squat/VERB down/ADP recover/NOUN and/CCONJ repeat/VERB the/DET motion/NOUN then/ADV turn/VERB around/ADV and/CCONJ take/VERB a/DET step/NOUN and/CCONJ squat/VERB down/ADP#0.0#0.0

@@ -1,0 +1,3 @@
+a man crawls forward on his stomach.#a/DET man/NOUN crawl/VERB forward/ADV on/ADP his/DET stomach/NOUN#0.0#0.0
+this person crawls on all fours with belly close to the ground.#this/DET person/NOUN crawl/VERB on/ADP all/DET four/NOUN with/ADP belly/NOUN close/ADV to/ADP the/DET ground/NOUN#0.0#0.0
+the person is doing a military crawl across the floor#the/DET person/NOUN is/AUX do/VERB a/DET military/ADJ crawl/NOUN across/ADP the/DET floor/NOUN#0.0#0.0

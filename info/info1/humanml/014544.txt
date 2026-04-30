@@ -1,0 +1,3 @@
+a person catches with both hands and throws underarm with right hand.#a/DET person/NOUN catch/VERB with/ADP both/DET hand/NOUN and/CCONJ throw/VERB underarm/ADJ with/ADP right/ADJ hand/NOUN#0.0#0.0
+a person appears to be throwing something#a/DET person/NOUN appear/VERB to/PART be/AUX throw/VERB something/PRON#0.0#0.0
+a person catches something, throws it back underhanded, catches another object and then throws it back overhanded.#a/DET person/NOUN catch/VERB something/PRON throw/VERB it/PRON back/ADV underhanded/ADJ catch/VERB another/DET object/NOUN and/CCONJ then/ADV throw/VERB it/PRON back/ADV overhanded/ADJ#0.0#0.0

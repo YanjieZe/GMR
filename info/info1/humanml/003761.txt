@@ -1,0 +1,3 @@
+a person sitting and readjusting position to the left.#a/DET person/NOUN sit/VERB and/CCONJ readjust/VERB position/NOUN to/ADP the/DET left/NOUN#0.0#0.0
+a person is sitting on a stool, with their left leg up, then they readjust their position and swap legs.#a/DET person/NOUN is/AUX sit/VERB on/ADP a/DET stool/NOUN with/ADP their/DET left/ADJ leg/NOUN up/ADP then/ADV they/PRON readjust/VERB their/DET position/NOUN and/CCONJ swap/NOUN leg/NOUN#0.0#0.0
+a person sits down on a stool, stands up, and sits down again switching legs each time.#a/DET person/NOUN sit/VERB down/ADP on/ADP a/DET stool/NOUN stand/VERB up/ADP and/CCONJ sit/VERB down/ADP again/ADV switch/VERB leg/NOUN each/DET time/NOUN#0.0#0.0

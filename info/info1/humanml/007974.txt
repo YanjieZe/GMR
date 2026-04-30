@@ -1,0 +1,3 @@
+figure rotates torso clockwise and then rotates hips counterclockwise#figure/NOUN rotate/NOUN torso/VERB clockwise/NOUN and/CCONJ then/ADV rotate/VERB hip/NOUN counterclockwise/VERB#0.0#0.0
+a figure stretches side to side.#a/DET figure/NOUN stretch/VERB side/NOUN to/PART side/VERB#0.0#0.0
+a person leans their shoulders side to side, then circles their torso in a subtle circle, then rolls their hips in a circle.#a/DET person/NOUN lean/VERB their/DET shoulder/NOUN side/VERB to/PART side/VERB then/ADV circle/VERB their/DET torso/NOUN in/ADP a/DET subtle/ADJ circle/NOUN then/ADV roll/VERB their/DET hip/NOUN in/ADP a/DET circle/NOUN#0.0#0.0

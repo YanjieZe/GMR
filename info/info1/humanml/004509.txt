@@ -1,0 +1,3 @@
+a person spins on the spot while holding on with right hand.#a/DET person/NOUN spin/VERB on/ADP the/DET spot/NOUN while/SCONJ hold/VERB on/ADP with/ADP right/ADJ hand/NOUN#0.0#0.0
+a person appears to be floating in the air and swings around.#a/DET person/NOUN appear/VERB to/PART be/AUX float/VERB in/ADP the/DET air/NOUN and/CCONJ swing/NOUN around/ADV#0.0#0.0
+a person slowly floats in a counter-clockwise circle in the air.#a/DET person/NOUN slowly/ADV float/VERB in/ADP a/DET counterclockwise/ADJ circle/NOUN in/ADP the/DET air/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+person walking slow from side to side with wide spread legs and arms#person/NOUN walk/VERB slow/ADV from/ADP side/NOUN to/PART side/VERB with/ADP wide/ADJ spread/VERB leg/NOUN and/CCONJ arm/NOUN#0.0#0.0
+person is walking down with arms away from body.#person/NOUN is/AUX walk/VERB down/ADP with/ADP arm/NOUN away/ADV from/ADP body/NOUN#0.0#0.0
+a person makes slow, wide steps forward.#a/DET person/NOUN make/VERB slow/ADJ wide/ADJ step/NOUN forward/ADV#0.0#0.0

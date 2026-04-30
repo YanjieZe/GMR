@@ -1,0 +1,3 @@
+a person is perfoming a dance move.#a/DET person/NOUN is/AUX perfome/VERB a/DET dance/NOUN move/NOUN#0.0#0.0
+person is dancing with arms at the position with another person, moves backwards, to the left and the forwards again and back to the original spot#person/NOUN is/AUX dance/VERB with/ADP arm/NOUN at/ADP the/DET position/NOUN with/ADP another/DET person/NOUN move/NOUN backwards/ADV to/ADP the/DET left/NOUN and/CCONJ the/DET forward/NOUN again/ADV and/CCONJ back/ADV to/ADP the/DET original/ADJ spot/NOUN#0.0#0.0
+somebody gracefully dances a waltz in a ballroom.#somebody/PRON gracefully/ADV dance/VERB a/DET waltz/NOUN in/ADP a/DET ballroom/NOUN#0.0#0.0

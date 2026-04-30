@@ -1,0 +1,3 @@
+the person is mixing something.#the/DET person/NOUN is/AUX mix/VERB something/PRON#0.0#0.0
+moving hands while standing still.#move/VERB hand/NOUN while/SCONJ stand/VERB still/ADV#0.0#0.0
+a person shows a friend an iphone picture then walks backwards.#a/DET person/NOUN show/VERB a/DET friend/NOUN an/DET iphone/ADJ picture/NOUN then/ADV walk/VERB backwards/ADV#0.0#0.0

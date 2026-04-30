@@ -1,0 +1,3 @@
+a figure sways his body from left to right, extending his arms outward horizontally and swaying in a wave motion#a/DET figure/NOUN sway/VERB his/DET body/NOUN from/ADP left/VERB to/ADP right/NOUN extend/VERB his/DET arm/NOUN outward/ADV horizontally/ADV and/CCONJ sway/VERB in/ADP a/DET wave/NOUN motion/NOUN#0.0#0.0
+a person shifts down to their right side then stand up with arms extended.#a/DET person/NOUN shift/VERB down/ADP to/ADP their/DET right/ADJ side/NOUN then/ADV stand/VERB up/ADP with/ADP arm/NOUN extend/VERB#0.0#0.0
+a person is letting the wind hit their body with arms up.#a/DET person/NOUN is/AUX let/VERB the/DET wind/NOUN hit/VERB their/DET body/NOUN with/ADP arm/NOUN up/ADP#0.0#0.0

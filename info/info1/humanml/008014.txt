@@ -1,0 +1,3 @@
+the man is doing jumping jacks#the/DET man/NOUN is/AUX do/VERB jump/VERB jack/NOUN#0.0#0.0
+a person performing jumping jacks#a/DET person/NOUN perform/VERB jump/VERB jack/NOUN#0.0#0.0
+both hands and feet jump out towards the side and back down a few times.#both/DET hand/NOUN and/CCONJ foot/NOUN jump/VERB out/ADP towards/ADP the/DET side/NOUN and/CCONJ back/VERB down/ADP a/DET few/ADJ time/NOUN#0.0#0.0

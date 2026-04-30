@@ -1,0 +1,3 @@
+a man bends his knees and then jumps with both hands in the air.#a/DET man/NOUN bend/VERB his/DET knee/NOUN and/CCONJ then/ADV jump/VERB with/ADP both/DET hand/NOUN in/ADP the/DET air/NOUN#0.0#0.0
+person shakily goes into a squat position to jump vertically three times#person/NOUN shakily/ADV go/VERB into/ADP a/DET squat/ADJ position/NOUN to/PART jump/VERB vertically/ADV three/NUM time/NOUN#0.0#0.0
+figure appears to be jumping up and down#figure/NOUN appear/VERB to/PART be/AUX jump/VERB up/ADP and/CCONJ down/ADP#0.0#0.0

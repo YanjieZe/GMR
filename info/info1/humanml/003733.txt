@@ -1,0 +1,3 @@
+a man who is badly injured on his right thigh supports it with both the hands and walks in pain diagonally toward the right#a/DET man/NOUN who/PRON is/AUX badly/ADV injure/VERB on/ADP his/DET right/ADJ thigh/NOUN support/VERB it/PRON with/ADP both/CCONJ the/DET hand/NOUN and/CCONJ walk/VERB in/ADP pain/NOUN diagonally/ADV toward/ADP the/DET right/NOUN#0.0#0.0
+the person is walking holding knee or somehting.#the/DET person/NOUN is/AUX walk/VERB hold/VERB knee/NOUN or/CCONJ somehting/NOUN#0.0#0.0
+a person holds injured right leg.#a/DET person/NOUN hold/VERB injure/VERB right/ADJ leg/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+the person was reaching to the right to pass something to the left.#the/DET person/NOUN was/AUX reach/VERB to/ADP the/DET right/NOUN to/PART pass/VERB something/PRON to/ADP the/DET left/NOUN#0.0#0.0
+a person picks up something on the left and put it on the right.#a/DET person/NOUN pick/VERB up/ADP something/PRON on/ADP the/DET left/NOUN and/CCONJ put/VERB it/PRON on/ADP the/DET right/NOUN#0.0#0.0
+this person is using his arms as if to move items from right to left.#this/DET person/NOUN is/AUX use/VERB his/DET arm/NOUN as/SCONJ if/SCONJ to/PART move/VERB item/NOUN from/ADP right/NOUN to/ADP left/NOUN#0.0#0.0

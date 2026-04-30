@@ -1,0 +1,3 @@
+walking in place and moving side to side.#walk/VERB in/ADP place/NOUN and/CCONJ move/VERB side/NOUN to/ADP side/VERB#0.0#0.0
+a person was jumping on the place#a/DET person/NOUN was/AUX jump/VERB on/ADP the/DET place/NOUN#0.0#0.0
+a person is exercising, then he is touching his left knee with his right elbow, then right knee with left elbow. he does this twice#a/DET person/NOUN is/AUX exercise/VERB then/ADV he/PRON is/AUX touch/VERB his/DET left/ADJ knee/NOUN with/ADP his/DET right/ADJ elbow/NOUN then/ADV right/INTJ knee/NOUN with/ADP left/ADJ elbow/NOUN he/PRON does/AUX this/DET twice/ADV#0.0#0.0

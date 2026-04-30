@@ -1,0 +1,3 @@
+a person moves their right hand, then their left hand and puts both hands over their head and back down towards their waist.#a/DET person/NOUN move/VERB their/DET right/ADJ hand/NOUN then/ADV their/DET left/ADJ hand/NOUN and/CCONJ put/VERB both/DET hand/NOUN over/ADP their/DET head/NOUN and/CCONJ back/VERB down/ADV towards/ADP their/DET waist/NOUN#0.0#0.0
+a person putting on a shirt.#a/DET person/NOUN put/VERB on/ADP a/DET shirt/NOUN#0.0#0.0
+person standing begins moving arms with hands coming together then apart and then raising arms above head#person/NOUN standing/PROPN begin/VERB move/VERB arm/NOUN with/ADP hand/NOUN come/VERB together/ADV then/ADV apart/ADV and/CCONJ then/ADV raise/VERB arm/NOUN above/ADP head/NOUN#0.0#0.0

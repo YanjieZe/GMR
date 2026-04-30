@@ -1,0 +1,3 @@
+a person walks forward with exaggerated backward kicks with every step.#a/DET person/NOUN walk/VERB forward/ADV with/ADP exaggerated/ADJ backward/ADJ kick/NOUN with/ADP every/DET step/NOUN#0.0#0.0
+a man walks forward three steps then gently leaps two steps#a/DET man/NOUN walk/VERB forward/ADV three/NUM step/NOUN then/ADV gently/ADV leap/VERB two/NUM step/NOUN#0.0#0.0
+the person walks forward while kicking their legs back.#the/DET person/NOUN walk/VERB forward/ADV while/SCONJ kick/VERB their/DET leg/NOUN back/ADV#0.0#0.0

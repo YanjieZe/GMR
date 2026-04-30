@@ -1,0 +1,3 @@
+a person quickly runs straight forward, then bends down and picks up something with both hands.#a/DET person/NOUN quickly/ADV run/VERB straight/ADV forward/ADV then/ADV bend/VERB down/ADP and/CCONJ pick/VERB up/ADP something/PRON with/ADP both/DET hand/NOUN#0.0#0.0
+the person was running to pick up a box.#the/DET person/NOUN was/AUX run/VERB to/PART pick/VERB up/ADP a/DET box/NOUN#0.0#0.0
+walking forward in a diagonal line.#walk/VERB forward/ADV in/ADP a/DET diagonal/ADJ line/NOUN#0.0#0.0

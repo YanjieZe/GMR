@@ -1,0 +1,3 @@
+a person doing cartwheel forward.#a/DET person/NOUN do/VERB cartwheel/NOUN forward/ADV#0.0#0.0
+a man does two cartwheels toward the front of the screen.#a/DET man/NOUN does/AUX two/NUM cartwheel/NOUN toward/ADP the/DET front/NOUN of/ADP the/DET screen/NOUN#0.0#0.0
+he does some cartwheels dthen stops#he/PRON does/AUX some/DET cartwheel/NOUN dthen/VERB stop/VERB#0.0#0.0

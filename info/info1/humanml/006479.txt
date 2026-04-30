@@ -1,0 +1,3 @@
+a person throws something with their right hand then catches something with both hands above their left shoulder.#a/DET person/NOUN throw/VERB something/PRON with/ADP their/DET right/ADJ hand/NOUN then/ADV catch/VERB something/PRON with/ADP both/DET hand/NOUN above/ADP their/DET left/ADJ shoulder/NOUN#0.0#0.0
+the person is playing catch with a ball.#the/DET person/NOUN is/AUX play/VERB catch/NOUN with/ADP a/DET ball/NOUN#0.0#0.0
+throwing something and then catching something.#throw/VERB something/PRON and/CCONJ then/ADV catch/VERB something/PRON#0.0#0.0

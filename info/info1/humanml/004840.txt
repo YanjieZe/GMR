@@ -1,0 +1,3 @@
+a man hunches over, and drangs something over tonthe side.#a/DET man/NOUN hunch/VERB over/ADP and/CCONJ drang/VERB something/PRON over/ADP tonthe/DET side/NOUN#0.0#0.0
+a man carefully walking side by side bending half way down#a/DET man/NOUN carefully/ADV walk/VERB side/NOUN by/ADP side/NOUN bend/VERB half/DET way/NOUN down/ADV#0.0#0.0
+the man creeps sideways to the left.#the/DET man/NOUN creep/VERB sideways/ADV to/ADP the/DET left/NOUN#0.0#0.0

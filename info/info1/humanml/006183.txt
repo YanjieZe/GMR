@@ -1,0 +1,3 @@
+a person walks upstairs in a straight line.#a/DET person/NOUN walk/VERB upstairs/ADV in/ADP a/DET straight/ADJ line/NOUN#0.0#0.0
+a person take several steps upwards as of climbing stairs.#a/DET person/NOUN take/VERB several/ADJ step/NOUN upwards/ADV as/SCONJ of/ADP climb/VERB stair/NOUN#0.0#0.0
+the man walks upstairs slowly#the/DET man/NOUN walk/VERB upstairs/ADV slowly/ADV#0.0#0.0

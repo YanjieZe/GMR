@@ -1,0 +1,3 @@
+a person lowers his arms, grabs something with his right hand, passes it to his left hand and then raises his arms again.#a/DET person/NOUN lower/VERB his/DET arm/NOUN grab/NOUN something/PRON with/ADP his/DET right/ADJ hand/NOUN pass/VERB it/PRON to/ADP his/DET left/ADJ hand/NOUN and/CCONJ then/ADV raise/VERB his/DET arm/NOUN again/ADV#0.0#0.0
+the person is doing arm lifts with his right arm.#the/DET person/NOUN is/AUX do/VERB arm/NOUN lift/NOUN with/ADP his/DET right/ADJ arm/NOUN#0.0#0.0
+person puts something in one hand over to the other hand#person/NOUN put/VERB something/PRON in/ADP one/NUM hand/NOUN over/ADP to/ADP the/DET other/ADJ hand/NOUN#0.0#0.0

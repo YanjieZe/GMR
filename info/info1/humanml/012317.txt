@@ -1,0 +1,3 @@
+a figure raises its arms above its head and then does a forward roll#a/DET figure/NOUN raise/VERB its/DET arm/NOUN above/ADP its/DET head/NOUN and/CCONJ then/ADV does/AUX a/DET forward/ADJ roll/NOUN#0.0#0.0
+a person raises their hands in the air, jumps forward on their hands oh, then flips forward onto their feet.#a/DET person/NOUN raise/VERB their/DET hand/NOUN in/ADP the/DET air/NOUN jump/VERB forward/ADV on/ADP their/DET hand/NOUN oh/INTJ then/ADV flip/VERB forward/ADV onto/ADP their/DET foot/NOUN#0.0#0.0
+person raises arms and does forward back flip to come to stand position with hands raised.#person/NOUN raise/VERB arm/NOUN and/CCONJ does/AUX forward/ADV back/ADV flip/VERB to/PART come/VERB to/PART stand/VERB position/NOUN with/ADP hand/NOUN raise/VERB#0.0#0.0

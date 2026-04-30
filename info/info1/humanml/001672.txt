@@ -1,0 +1,3 @@
+a person stops to take a look at their watch.#a/DET person/NOUN stop/VERB to/PART take/VERB a/DET look/NOUN at/ADP their/DET watch/NOUN#2.0#3.0
+a person moves his left arm up and his right arm downward.#a/DET person/NOUN move/VERB his/DET left/ADJ arm/NOUN up/ADP and/CCONJ his/DET right/ADJ arm/NOUN downward/ADV#0.0#0.0
+person holds left arm up with left hand putting something into face area#person/NOUN hold/VERB left/ADJ arm/NOUN up/ADP with/ADP left/ADJ hand/NOUN put/VERB something/PRON into/ADP face/NOUN area/NOUN#0.0#0.0

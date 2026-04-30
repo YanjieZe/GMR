@@ -1,0 +1,3 @@
+a person kneels down onto the floor.#a/DET person/NOUN kneel/VERB down/ADP onto/ADP the/DET floor/NOUN#0.0#0.0
+a figure kneels with the support of arms.#a/DET figure/NOUN kneel/VERB with/ADP the/DET support/NOUN of/ADP arm/NOUN#0.0#0.0
+person bends down and sits on there knees with body upright and hands off the ground#person/NOUN bend/VERB down/ADP and/CCONJ sit/VERB on/ADP there/PRON knee/NOUN with/ADP body/NOUN upright/ADJ and/CCONJ hand/VERB off/ADP the/DET ground/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks forward at a regular pace.#a/DET person/NOUN walk/VERB forward/ADV at/ADP a/DET regular/ADJ pace/NOUN#0.0#0.0
+a person walks forward at a brisk pace#a/DET person/NOUN walk/VERB forward/ADV at/ADP a/DET brisk/ADJ pace/NOUN#0.0#0.0
+the person is walking very fast.#the/DET person/NOUN is/AUX walk/VERB very/ADV fast/ADV#0.0#0.0

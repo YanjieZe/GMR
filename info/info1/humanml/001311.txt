@@ -1,0 +1,3 @@
+a person walks forward, stops, then lifts both arm up a little.#a/DET person/NOUN walk/VERB forward/ADV stop/NOUN then/ADV lift/VERB both/DET arm/VERB up/ADP a/DET little/ADJ#0.0#6.0
+a person walks forward then slightly raises their arms#a/DET person/NOUN walk/VERB forward/ADV then/ADV slightly/ADV raise/VERB their/DET arm/NOUN#0.0#0.0
+robot started walking forward and then stopped.#robot/PROPN start/VERB walk/VERB forward/ADV and/CCONJ then/ADV stop/VERB#0.0#0.0

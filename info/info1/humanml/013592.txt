@@ -1,0 +1,3 @@
+person was walking with his arms out to keep his balance.#person/NOUN was/AUX walk/VERB with/ADP his/DET arm/NOUN out/ADP to/PART keep/VERB his/DET balance/NOUN#0.0#0.0
+a person walks while balancing#a/DET person/NOUN walk/VERB while/SCONJ balance/VERB#0.0#0.0
+a figure does a drunk test.#a/DET figure/NOUN does/AUX a/DET drunk/ADJ test/NOUN#0.0#0.0

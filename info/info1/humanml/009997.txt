@@ -1,0 +1,3 @@
+the person is holding onto the handrail#the/DET person/NOUN is/AUX hold/VERB onto/ADP the/DET handrail/NOUN#0.0#0.0
+he walked across the room while using his hand to navigate.#he/PRON walk/VERB across/ADP the/DET room/NOUN while/SCONJ use/VERB his/DET hand/NOUN to/PART navigate/VERB#0.0#0.0
+the person holds on to the rail to assist with walking#the/DET person/NOUN hold/VERB on/ADP to/ADP the/DET rail/NOUN to/PART assist/VERB with/ADP walk/VERB#0.0#0.0

@@ -1,0 +1,3 @@
+a man holds something still at knee height with his left hand as his right hand makes brushing motions, before lifting it with his left hand and walking to his right.#a/DET man/NOUN hold/VERB something/PRON still/ADV at/ADP knee/NOUN height/NOUN with/ADP his/DET left/ADJ hand/NOUN as/SCONJ his/DET right/ADJ hand/NOUN make/VERB brushing/NOUN motion/NOUN before/ADP lift/VERB it/PRON with/ADP his/DET left/ADJ hand/NOUN and/CCONJ walk/VERB to/ADP his/DET right/NOUN#0.0#0.0
+a man stretches like a gorilla.#a/DET man/NOUN stretch/VERB like/SCONJ a/DET gorilla/NOUN#0.0#0.0
+stand and moving the hands and come forward.#stand/VERB and/CCONJ move/VERB the/DET hand/NOUN and/CCONJ come/VERB forward/ADV#0.0#0.0

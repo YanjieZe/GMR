@@ -1,0 +1,3 @@
+the person is lifting weights warming up his pects#the/DET person/NOUN is/AUX lift/VERB weight/NOUN warm/VERB up/ADP his/DET pect/NOUN#0.0#0.0
+a person who is standing with his arms and hands at shoulder height turns his forearms out and in, twice.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP his/DET arm/NOUN and/CCONJ hand/NOUN at/ADP shoulder/NOUN height/NOUN turn/VERB his/DET forearm/NOUN out/ADP and/CCONJ in/ADV twice/ADV#0.0#0.0
+someone doing light arm exercises / movement#someone/PRON do/VERB light/ADJ arm/NOUN exercise/NOUN movement/NOUN#0.0#0.0

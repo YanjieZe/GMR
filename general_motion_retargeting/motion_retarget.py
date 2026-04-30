@@ -103,6 +103,7 @@ class GeneralMotionRetargeting:
         self.setup_retarget_configuration()
         
         self.ground_offset = 0.0
+        self.init_root_pose = True  # Initialize root pose to target before IK solving
 
     def setup_retarget_configuration(self):
         self.configuration = mink.Configuration(self.model)
@@ -173,6 +174,23 @@ class GeneralMotionRetargeting:
     def retarget(self, human_data, offset_to_ground=False):
         # Update the task targets
         self.update_targets(human_data, offset_to_ground)
+
+        # Initialize root pose to target pose for better IK convergence
+        # This is especially important when the initial pose is far from the target
+        # (e.g., when target rotation is opposite to initial rotation)
+        if self.init_root_pose and self.robot_root_name in self.scaled_human_data:
+            root_pos, root_rot = self.scaled_human_data[self.robot_root_name]
+            # Set root position (first 3 elements of qpos)
+            self.configuration.data.qpos[:3] = root_pos
+            # Set root rotation (next 4 elements: quaternion in w,x,y,z format for MuJoCo)
+            # root_rot is already in scalar-first format (w,x,y,z) from update_targets
+            # Normalize quaternion to ensure it's valid
+            root_rot = np.asarray(root_rot)
+            root_rot = root_rot / (np.linalg.norm(root_rot) + 1e-8)
+            self.configuration.data.qpos[3:7] = root_rot
+            # Forward kinematics to update the configuration
+            mj.mj_forward(self.model, self.configuration.data)
+            self.init_root_pose = False
 
         if self.use_ik_match_table1:
             # Solve the IK problem
@@ -305,6 +323,16 @@ class GeneralMotionRetargeting:
 
     def set_ground_offset(self, ground_offset):
         self.ground_offset = ground_offset
+
+    def set_init_root_pose(self, init_root_pose: bool):
+        """Set whether to initialize root pose to target before IK solving.
+        
+        Args:
+            init_root_pose: If True, root position and rotation will be initialized
+                           to target values before IK solving. This helps when
+                           initial pose is far from target (e.g., opposite rotation).
+        """
+        self.init_root_pose = init_root_pose
 
     def apply_ground_offset(self, human_data):
         for body_name in human_data.keys():

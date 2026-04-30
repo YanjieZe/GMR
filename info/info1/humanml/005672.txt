@@ -1,0 +1,3 @@
+the person pulls the book off of the shelf#the/DET person/NOUN pull/VERB the/DET book/NOUN off/ADP of/ADP the/DET shelf/NOUN#0.0#0.0
+a person pushes their hand forward and then lowers it.#a/DET person/NOUN push/VERB their/DET hand/NOUN forward/ADV and/CCONJ then/ADV lower/VERB it/PRON#0.0#0.0
+the person is taking a cook off the shelves with his right arm.#the/DET person/NOUN is/AUX take/VERB a/DET cook/NOUN off/ADP the/DET shelf/NOUN with/ADP his/DET right/ADJ arm/NOUN#0.0#0.0

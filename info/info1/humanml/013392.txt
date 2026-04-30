@@ -1,0 +1,3 @@
+a person widens their stance and then stretches their arms out upwards.#a/DET person/NOUN widen/VERB their/DET stance/NOUN and/CCONJ then/ADV stretch/VERB their/DET arm/NOUN out/ADV upwards/ADV#0.0#0.0
+a person takes a step to their right, then raises their arms and stretches.#a/DET person/NOUN take/VERB a/DET step/NOUN to/ADP their/DET right/NOUN then/ADV raise/VERB their/DET arm/NOUN and/CCONJ stretch/NOUN#0.0#0.0
+a person raises their hands above their head in a starfish position.#a/DET person/NOUN raise/VERB their/DET hand/NOUN above/ADP their/DET head/NOUN in/ADP a/DET starfish/ADJ position/NOUN#0.0#0.0

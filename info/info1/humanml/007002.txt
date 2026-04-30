@@ -1,0 +1,3 @@
+walks in a diagnol to the right and then turns and walks back.#walk/VERB in/ADP a/DET diagnol/NOUN to/ADP the/DET right/NOUN and/CCONJ then/ADV turn/VERB and/CCONJ walk/VERB back/ADV#0.0#0.0
+a person slowly walks as if they are sad#a/DET person/NOUN slowly/ADV walk/VERB as/SCONJ if/SCONJ they/PRON are/AUX sad/ADJ#0.0#0.0
+a person walks forwards slowly, turns and walks back slowly.#a/DET person/NOUN walk/VERB forwards/ADV slowly/ADV turn/VERB and/CCONJ walk/VERB back/ADV slowly/ADV#0.0#0.0

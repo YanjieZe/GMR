@@ -1,0 +1,3 @@
+the person runs around in a circular like motion#the/DET person/NOUN run/VERB around/ADV in/ADP a/DET circular/ADJ like/SCONJ motion/NOUN#0.0#0.0
+a person standing up begins to jog forward and completes a figure eight loop, then almost completes one full circle by jogging counter clockwise.#a/DET person/NOUN stand/VERB up/ADP begin/VERB to/PART jog/VERB forward/ADV and/CCONJ complete/VERB a/DET figure/NOUN eight/NUM loop/NOUN then/ADV almost/ADV complete/VERB one/NUM full/ADJ circle/NOUN by/ADP jog/VERB counter/PROPN clockwise/PROPN#0.0#0.0
+the man runs in a clockwise circle the reverses counterclockwise and runs back.#the/DET man/NOUN run/VERB in/ADP a/DET clockwise/NOUN circle/NOUN the/DET reverse/NOUN counterclockwise/NOUN and/CCONJ run/VERB back/ADV#0.0#0.0

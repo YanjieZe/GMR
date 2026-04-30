@@ -1,0 +1,3 @@
+a person holds the right side of their jaw like its painful.#a/DET person/NOUN hold/VERB the/DET right/ADJ side/NOUN of/ADP their/DET jaw/NOUN like/SCONJ its/DET painful/NOUN#0.0#0.0
+the person has a very painful toothache.#the/DET person/NOUN has/AUX a/DET very/ADV painful/ADJ toothache/NOUN#0.0#0.0
+a person is holding their hands up to their face.#a/DET person/NOUN is/AUX hold/VERB their/DET hand/NOUN up/ADP to/ADP their/DET face/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks side to side and turns to walk back.#a/DET person/NOUN walk/VERB side/NOUN to/PART side/VERB and/CCONJ turn/VERB to/PART walk/VERB back/ADV#0.0#0.0
+a man steps forward with a confident swagger, before turning around and heading back toward his original position.#a/DET man/NOUN step/VERB forward/ADV with/ADP a/DET confident/ADJ swagger/NOUN before/ADP turn/VERB around/ADV and/CCONJ head/VERB back/ADV toward/ADP his/DET original/ADJ position/NOUN#0.0#0.0
+he happily walked and danced.#he/PRON happily/ADV walk/VERB and/CCONJ dance/VERB#0.0#0.0

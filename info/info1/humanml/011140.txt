@@ -1,0 +1,3 @@
+a person slowly throwed something#a/DET person/NOUN slowly/ADV throw/VERB something/PRON#0.0#0.0
+a person throws a ball with both hands.#a/DET person/NOUN throw/VERB a/DET ball/NOUN with/ADP both/DET hand/NOUN#0.0#0.0
+a person makes a throw while jumping up#a/DET person/NOUN make/VERB a/DET throw/NOUN while/SCONJ jump/VERB up/ADP#0.0#2.0

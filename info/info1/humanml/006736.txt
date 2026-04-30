@@ -1,0 +1,3 @@
+a person waits and moves suddenly a few feet as if they were pushed.#a/DET person/NOUN wait/VERB and/CCONJ move/NOUN suddenly/ADV a/DET few/ADJ foot/NOUN as/SCONJ if/SCONJ they/PRON were/AUX push/VERB#0.0#0.0
+a person is pushed slightly from the left while walking.#a/DET person/NOUN is/AUX push/VERB slightly/ADV from/ADP the/DET left/ADJ while/SCONJ walk/VERB#0.0#0.0
+a person walks forward taking small steps.#a/DET person/NOUN walk/VERB forward/ADV take/VERB small/ADJ step/NOUN#3.0#5.0

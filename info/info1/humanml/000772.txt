@@ -1,0 +1,3 @@
+person is a squat position raises both arms out horizontal and holds them#person/NOUN is/AUX a/DET squat/ADJ position/NOUN raise/VERB both/DET arm/NOUN out/ADV horizontal/ADV and/CCONJ hold/VERB them/PRON#0.0#0.0
+a man standing with a wide stance, hands on his thighs, suddenly brings his arms out to shoulder height.#a/DET man/NOUN stand/VERB with/ADP a/DET wide/ADJ stance/NOUN hand/NOUN on/ADP his/DET thigh/NOUN suddenly/ADV bring/VERB his/DET arm/NOUN out/ADP to/ADP shoulder/NOUN height/NOUN#0.0#0.0
+a man stands still in a huddle position and the raises his arms to his side.#a/DET man/NOUN stand/VERB still/ADV in/ADP a/DET huddle/NOUN position/NOUN and/CCONJ the/DET raise/VERB his/DET arm/NOUN to/ADP his/DET side/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a figure stands with bent knees and raises and lowers their outstretched arms#a/DET figure/NOUN stand/VERB with/ADP bent/ADJ knee/NOUN and/CCONJ raise/VERB and/CCONJ lower/VERB their/DET outstretche/VERB arm/NOUN#0.0#0.0
+person is wiping back while sitting.#person/NOUN is/AUX wipe/VERB back/ADV while/SCONJ sit/VERB#0.0#0.0
+the person starts raising their arm up and down#the/DET person/NOUN start/VERB raise/VERB their/DET arm/NOUN up/ADV and/CCONJ down/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person runs to the left then the right then back to their original position.#a/DET person/NOUN run/VERB to/ADP the/DET left/NOUN then/ADV the/DET right/NOUN then/ADV back/ADV to/ADP their/DET original/ADJ position/NOUN#0.0#0.0
+man runs right to left then back to the center.#man/NOUN run/VERB right/ADV to/PART left/VERB then/ADV back/ADV to/ADP the/DET center/NOUN#0.0#0.0
+a person jobs back and forth to their left and right before stopping and standing still.#a/DET person/NOUN job/VERB back/ADV and/CCONJ forth/ADV to/ADP their/DET left/NOUN and/CCONJ right/ADV before/ADP stop/VERB and/CCONJ standing/NOUN still/ADV#0.0#0.0

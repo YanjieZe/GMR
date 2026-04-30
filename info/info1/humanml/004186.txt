@@ -1,0 +1,3 @@
+a man shifts his position while sitting down.#a/DET man/NOUN shift/VERB his/DET position/NOUN while/SCONJ sit/VERB down/ADP#0.0#0.0
+a person is sitting down with their hands on their lap.#a/DET person/NOUN is/AUX sit/VERB down/ADP with/ADP their/DET hand/NOUN on/ADP their/DET lap/NOUN#0.0#0.0
+the subject is sitting upright facing forward, then the subject pushes his hands down behind him taking the weight of his legs in order to become more comfortable.#the/DET subject/NOUN is/AUX sit/VERB upright/ADV face/VERB forward/ADV then/ADV the/DET subject/NOUN push/VERB his/DET hand/NOUN down/ADP behind/ADP him/PRON take/VERB the/DET weight/NOUN of/ADP his/DET leg/NOUN in/ADP order/NOUN to/PART become/VERB more/ADV comfortable/ADJ#0.0#0.0

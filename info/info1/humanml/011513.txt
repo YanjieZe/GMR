@@ -1,0 +1,3 @@
+person is opening shelf and moving things around#person/NOUN is/AUX open/VERB shelf/NOUN and/CCONJ move/VERB thing/NOUN around/ADV#0.0#0.0
+a person is organizing objects in from on him.#a/DET person/NOUN is/AUX organize/VERB object/NOUN in/ADP from/ADP on/ADP him/PRON#0.0#0.0
+the person put his arms down and move some thing from the right to the left.#the/DET person/NOUN put/VERB his/DET arm/NOUN down/ADV and/CCONJ move/VERB some/DET thing/NOUN from/ADP the/DET right/NOUN to/ADP the/DET left/NOUN#0.0#0.0

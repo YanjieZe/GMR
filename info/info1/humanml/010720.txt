@@ -1,0 +1,3 @@
+staying still with arms near chest.#stay/VERB still/ADV with/ADP arm/NOUN near/SCONJ chest/NOUN#0.0#0.0
+a person has their elbows at chest height with hands in front of body.#a/DET person/NOUN has/AUX their/DET elbow/NOUN at/ADP chest/NOUN height/NOUN with/ADP hand/NOUN in/ADP front/NOUN of/ADP body/NOUN#0.0#0.0
+squats up and down with both hands moving in an up and down motion.#squat/VERB up/ADP and/CCONJ down/ADP with/ADP both/DET hand/NOUN move/VERB in/ADP an/DET up/NOUN and/CCONJ down/ADP motion/NOUN#0.0#0.0

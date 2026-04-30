@@ -1,0 +1,3 @@
+a person lifts both hands into the air.#a/DET person/NOUN lift/VERB both/DET hand/NOUN into/ADP the/DET air/NOUN#0.0#0.0
+a person raises both arms as if they are lifting weights.#a/DET person/NOUN raise/VERB both/DET arm/NOUN as/SCONJ if/SCONJ they/PRON are/AUX lift/VERB weight/NOUN#0.0#0.0
+a person lifts weights with both hands.#a/DET person/NOUN lift/VERB weight/NOUN with/ADP both/DET hand/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+person raises their left arm that's bent at the elbow to start with#person/NOUN raise/VERB their/DET left/ADJ arm/NOUN that/DET bent/ADJ at/ADP the/DET elbow/NOUN to/PART start/VERB with/ADP#0.0#0.0
+a man swings left hand upward, performing a left uppercut.#a/DET man/NOUN swing/VERB left/VERB hand/VERB upward/ADV perform/VERB a/DET left/ADJ uppercut/NOUN#0.0#0.0
+a man moves his arms up and down while his elbows are bent.#a/DET man/NOUN move/VERB his/DET arm/NOUN up/ADV and/CCONJ down/ADV while/SCONJ his/DET elbow/NOUN are/AUX bent/ADJ#0.0#0.0

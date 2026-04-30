@@ -1,0 +1,3 @@
+a man lifts an object with both hands and then kicks the object with his right foot.#a/DET man/NOUN lift/VERB an/DET object/NOUN with/ADP both/DET hand/NOUN and/CCONJ then/ADV kick/VERB the/DET object/NOUN with/ADP his/DET right/ADJ foot/NOUN#0.0#0.0
+person grabs something then makes backwards kicking motion with right foot#person/NOUN grab/VERB something/PRON then/ADV make/VERB backwards/ADV kick/VERB motion/NOUN with/ADP right/ADJ foot/NOUN#0.0#0.0
+a punter will practice kicking a football many times on the sideline.#a/DET punter/NOUN will/VERB practice/VERB kick/VERB a/DET football/NOUN many/ADJ time/NOUN on/ADP the/DET sideline/NOUN#0.0#0.0

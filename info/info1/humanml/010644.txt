@@ -1,0 +1,3 @@
+a person walks forward, steps up two steps, steps down two steps, and turns around to go back#a/DET person/NOUN walk/VERB forward/ADV step/VERB up/ADV two/NUM step/NOUN step/VERB down/ADV two/NUM step/NOUN and/CCONJ turn/VERB around/ADP to/PART go/VERB back/ADV#0.0#0.0
+the man steps up and over something turns around and goes back.#the/DET man/NOUN step/VERB up/ADV and/CCONJ over/ADP something/PRON turn/VERB around/ADV and/CCONJ go/VERB back/ADV#0.0#0.0
+person turns left then walks over a large object, turns around and walks up the object again#person/NOUN turn/VERB left/VERB then/ADV walk/VERB over/ADP a/DET large/ADJ object/NOUN turn/VERB around/ADV and/CCONJ walk/VERB up/ADP the/DET object/NOUN again/ADV#0.0#0.0

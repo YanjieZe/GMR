@@ -1,0 +1,3 @@
+a man stands with his arms crossed, then drops them to his sides.#a/DET man/NOUN stand/VERB with/ADP his/DET arm/NOUN cross/VERB then/ADV drop/VERB them/PRON to/ADP his/DET side/NOUN#0.0#0.0
+person crosses arms then uncrosses them#person/NOUN cross/VERB arm/NOUN then/ADV uncross/VERB them/PRON#0.0#3.0
+person folds arms then puts them to the side#person/NOUN fold/VERB arm/NOUN then/ADV put/VERB them/PRON to/ADP the/DET side/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks forward  to bow then place hands on shoulders of other person and bows again.#a/DET person/NOUN walk/VERB forward/ADV to/PART bow/VERB then/ADV place/VERB hand/NOUN on/ADP shoulder/NOUN of/ADP other/ADJ person/NOUN and/CCONJ bow/NOUN again/ADV#0.0#10.0
+a person slowly walked forward in righr direction and after person raised right and left hand#a/DET person/NOUN slowly/ADV walk/VERB forward/ADV in/ADP righr/NOUN direction/NOUN and/CCONJ after/ADP person/NOUN raise/VERB right/ADJ and/CCONJ left/VERB hand/NOUN#0.0#0.0
+the man moves forward and puts his arms down#the/DET man/NOUN move/VERB forward/ADV and/CCONJ put/VERB his/DET arm/NOUN down/ADV#0.0#0.0

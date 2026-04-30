@@ -1,0 +1,3 @@
+the person is running in place in all directions.#the/DET person/NOUN is/AUX run/VERB in/ADP place/NOUN in/ADP all/DET direction/NOUN#0.0#0.0
+walking in place while moving arms.#walk/VERB in/ADP place/NOUN while/SCONJ move/VERB arm/NOUN#0.0#0.0
+a person marches forward, makes a full turn around while still marching, faces forward and continues marching.#a/DET person/NOUN march/VERB forward/ADV make/VERB a/DET full/ADJ turn/NOUN around/ADP while/SCONJ still/ADV march/VERB face/VERB forward/ADV and/CCONJ continue/VERB marching/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person raises their right arm to look at their right wrist.#a/DET person/NOUN raise/VERB their/DET right/ADJ arm/NOUN to/PART look/VERB at/ADP their/DET right/ADJ wrist/NOUN#0.0#0.0
+person raises right arm to look at something on their wrist, then lowers arm#person/NOUN raise/VERB right/ADJ arm/NOUN to/PART look/VERB at/ADP something/PRON on/ADP their/DET wrist/NOUN then/ADV lower/VERB arm/PROPN#0.0#0.0
+a person checks their watch on the right wrist#a/DET person/NOUN check/VERB their/DET watch/NOUN on/ADP the/DET right/ADJ wrist/NOUN#0.0#0.0

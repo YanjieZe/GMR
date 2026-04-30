@@ -1,0 +1,3 @@
+the person is walking straight backwards.#the/DET person/NOUN is/AUX walk/VERB straight/ADV backwards/ADV#0.0#0.0
+a man walks backward slowly with his arms loosely at his sides.#a/DET man/NOUN walk/VERB backward/ADV slowly/ADV with/ADP his/DET arm/NOUN loosely/ADV at/ADP his/DET side/NOUN#0.0#0.0
+a person walks backwards a few steps.#a/DET person/NOUN walk/VERB backwards/ADV a/DET few/ADJ step/NOUN#0.0#0.0

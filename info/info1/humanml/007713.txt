@@ -1,0 +1,3 @@
+a person takes three quick steps backward.#a/DET person/NOUN take/VERB three/NUM quick/ADJ step/NOUN backward/ADV#0.0#0.0
+a person walks backwards several steps.#a/DET person/NOUN walk/VERB backwards/ADP several/ADJ step/NOUN#0.0#0.0
+a man takes 4 steps backwards.#a/DET man/NOUN take/VERB step/NOUN backwards/ADV#0.0#0.0

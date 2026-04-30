@@ -1,0 +1,3 @@
+a person walks while dramatically swinging both arms.#a/DET person/NOUN walk/VERB while/SCONJ dramatically/ADV swinge/VERB both/DET arm/NOUN#0.0#0.0
+person walks forward throwing hands up in the air#person/NOUN walk/VERB forward/ADV throw/VERB hand/NOUN up/ADP in/ADP the/DET air/NOUN#0.0#0.0
+the man turns slightly and walks across swinging his arms wildly.#the/DET man/NOUN turn/VERB slightly/ADV and/CCONJ walk/VERB across/ADP swinge/VERB his/DET arm/NOUN wildly/ADV#0.0#0.0

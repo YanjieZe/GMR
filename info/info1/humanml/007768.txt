@@ -1,0 +1,3 @@
+the person was walking diagonally drunk#the/DET person/NOUN was/AUX walk/VERB diagonally/ADV drunk/ADJ#0.0#0.0
+a man stumbles and falls forward, as if drunk.#a/DET man/NOUN stumble/VERB and/CCONJ fall/VERB forward/ADV as/SCONJ if/SCONJ drunk/ADJ#0.0#0.0
+person stmbles forward and bends over to pick something up.#person/NOUN stmble/VERB forward/ADV and/CCONJ bend/VERB over/ADP to/PART pick/VERB something/PRON up/ADP#0.0#0.0

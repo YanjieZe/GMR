@@ -1,0 +1,3 @@
+a person hops slowly twice in a row.#a/DET person/NOUN hop/VERB slowly/ADV twice/ADV in/ADP a/DET row/NOUN#0.0#0.0
+a person is jumping on his or her tip toes.#a/DET person/NOUN is/AUX jump/VERB on/ADP his/DET or/CCONJ her/DET tip/NOUN toe/VERB#0.0#0.0
+a person jumps a few inch off the ground twice keeping body upright#a/DET person/NOUN jump/VERB a/DET few/ADJ inch/NOUN off/ADP the/DET ground/NOUN twice/ADV keep/VERB body/NOUN upright/ADV#0.0#0.0

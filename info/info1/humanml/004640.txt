@@ -1,0 +1,3 @@
+a person walks on a straight line#a/DET person/NOUN walk/VERB on/ADP a/DET straight/ADJ line/NOUN#0.0#0.0
+a person is briskly walking forward in a slightly diagonal direction#a/DET person/NOUN is/AUX briskly/ADV walk/VERB forward/ADV in/ADP a/DET slightly/ADV diagonal/ADJ direction/NOUN#0.0#0.0
+a person walks casually down the floor.#a/DET person/NOUN walk/VERB casually/ADV down/ADP the/DET floor/NOUN#0.0#0.0

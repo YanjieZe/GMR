@@ -1,0 +1,3 @@
+a person uses their watch#a/DET person/NOUN use/VERB their/DET watch/NOUN#0.0#0.0
+the person is standing still putting his hands together#the/DET person/NOUN is/AUX stand/VERB still/ADV put/VERB his/DET hand/NOUN together/ADV#0.0#0.0
+figure taps wrist while looking at watch.#figure/NOUN tap/NOUN wrist/NOUN while/SCONJ look/VERB at/ADP watch/NOUN#0.0#0.0

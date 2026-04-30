@@ -1,0 +1,3 @@
+person is doing jumping jacks#person/NOUN is/AUX do/VERB jump/VERB jack/NOUN#0.0#0.0
+person star jumps three times striding legs to side and at same time swinging arms together above the head three times#person/NOUN star/PROPN jump/VERB three/NUM time/NOUN stride/VERB leg/NOUN to/PART side/VERB and/CCONJ at/ADP same/ADJ time/NOUN swinge/VERB arm/NOUN together/ADV above/ADP the/DET head/NOUN three/NUM time/NOUN#0.0#0.0
+a person appears to be doing jumping jacks#a/DET person/NOUN appear/VERB to/PART be/AUX do/VERB jump/VERB jack/NOUN#0.0#0.0

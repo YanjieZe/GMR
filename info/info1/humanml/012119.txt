@@ -1,0 +1,3 @@
+a person pets an animal that is low to the ground.#a/DET person/NOUN pet/VERB an/DET animal/NOUN that/DET is/AUX low/ADJ to/ADP the/DET ground/NOUN#0.0#0.0
+a person moves their right hand as if petting a large dog, then takes several steps back.#a/DET person/NOUN move/VERB their/DET right/ADJ hand/NOUN as/SCONJ if/SCONJ pet/VERB a/DET large/ADJ dog/NOUN then/ADV take/VERB several/ADJ step/NOUN back/ADV#0.0#0.0
+the person is wiping something with their right hand.#the/DET person/NOUN is/AUX wipe/VERB something/PRON with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person steps their left leg forward and throws their arms downwards 3 times#a/DET person/NOUN step/VERB their/DET left/ADJ leg/NOUN forward/ADV and/CCONJ throw/VERB their/DET arm/NOUN downwards/ADV time/NOUN#0.0#0.0
+person thrusts right leg forward in lunge three times  and extends upper body forward three times at same time#person/NOUN thrust/NOUN right/ADV leg/NOUN forward/ADV in/ADP lunge/PROPN three/NUM time/NOUN and/CCONJ extend/VERB upper/ADJ body/NOUN forward/ADV three/NUM time/NOUN at/ADP same/ADJ time/NOUN#0.0#0.0
+a person lunges forward while extending their arms out in front, three times in a row.#a/DET person/NOUN lunge/VERB forward/ADV while/SCONJ extend/VERB their/DET arm/NOUN out/ADP in/ADP front/NOUN three/NUM time/NOUN in/ADP a/DET row/NOUN#0.0#0.0

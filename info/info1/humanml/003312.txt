@@ -1,0 +1,3 @@
+a person swings their arms in front of their chest and then back by their side 3 times.#a/DET person/NOUN swing/VERB their/DET arm/NOUN in/ADP front/NOUN of/ADP their/DET chest/NOUN and/CCONJ then/ADV back/ADV by/ADP their/DET side/NOUN time/NOUN#0.0#0.0
+a person is swinging both arms back and forth#a/DET person/NOUN is/AUX swinge/VERB both/DET arm/NOUN back/ADV and/CCONJ forth/ADV#0.0#0.0
+a person warms up chest by moving arms inwards and outwards.#a/DET person/NOUN warm/VERB up/ADV chest/NOUN by/ADP move/VERB arm/NOUN inward/NOUN and/CCONJ outward/NOUN#0.0#0.0

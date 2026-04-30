@@ -1,0 +1,4 @@
+a red a blue stick figure takes even steps walking forward starting on the right foot.#a/DET red/ADJ a/DET blue/ADJ stick/NOUN figure/NOUN take/VERB even/ADV step/NOUN walk/VERB forward/ADV start/VERB on/ADP the/DET right/ADJ foot/NOUN#nan#nan
+a person walks forward and towards the left hand side.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ towards/ADP the/DET left/ADJ hand/NOUN side/NOUN#0.0#0.0
+the person is walking in a straight line.#the/DET person/NOUN is/AUX walk/VERB in/ADP a/DET straight/ADJ line/NOUN#0.0#0.0
+the figure facing forward, starting with its left, walks four steps in the direction it is facing.#the/DET figure/NOUN face/VERB forward/ADV start/VERB with/ADP its/DET left/NOUN walk/VERB four/NUM step/NOUN in/ADP the/DET direction/NOUN it/PRON is/AUX face/VERB#0.0#0.0

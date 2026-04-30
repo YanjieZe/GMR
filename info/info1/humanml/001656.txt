@@ -1,0 +1,3 @@
+person walks side to side with hands at their sides.#person/NOUN walk/VERB side/NOUN to/PART side/VERB with/ADP hand/NOUN at/ADP their/DET side/NOUN#0.0#0.0
+a person sidesteps to the left 2 steps, then sidesteps to the right 4 steps, then sidesteps to the left 2 steps.#a/DET person/NOUN sidestep/VERB to/ADP the/DET left/ADJ step/NOUN then/ADV sidestep/VERB to/ADP the/DET right/ADJ step/NOUN then/ADV sidestep/VERB to/ADP the/DET left/ADJ step/NOUN#0.0#0.0
+person side shuffles back and forth across the screen#person/NOUN side/NOUN shuffle/NOUN back/ADV and/CCONJ forth/ADV across/ADP the/DET screen/NOUN#0.0#0.0

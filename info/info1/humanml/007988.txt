@@ -1,0 +1,3 @@
+a person stirs something with their left hand in a counter-clockwise direction.#a/DET person/NOUN stir/VERB something/PRON with/ADP their/DET left/ADJ hand/NOUN in/ADP a/DET counterclockwise/ADJ direction/NOUN#0.0#0.0
+a person raised the left hand and did something#a/DET person/NOUN raise/VERB the/DET left/ADJ hand/NOUN and/CCONJ did/AUX something/PRON#0.0#0.0
+a person wipes something down with their left hand.#a/DET person/NOUN wipe/VERB something/PRON down/ADP with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0

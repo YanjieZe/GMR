@@ -1,0 +1,3 @@
+a person jogs a short distance forward.#a/DET person/NOUN jog/VERB a/DET short/ADJ distance/NOUN forward/ADV#0.0#0.0
+a person lifts their hands to chest height and slowly jogs.#a/DET person/NOUN lift/VERB their/DET hand/NOUN to/PART chest/VERB height/NOUN and/CCONJ slowly/ADV jog/VERB#0.0#0.0
+the man walks then starts to jog#the/DET man/NOUN walk/VERB then/ADV start/VERB to/ADP jog/PROPN#0.0#0.0

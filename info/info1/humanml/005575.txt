@@ -1,0 +1,3 @@
+a person walks to the right side, then runs forward.#a/DET person/NOUN walk/VERB to/ADP the/DET right/ADJ side/NOUN then/ADV run/VERB forward/ADV#0.0#0.0
+a person spins, begins walking while slightly turning right, then turns and jogs back from the direction they came.#a/DET person/NOUN spin/VERB begin/VERB walk/VERB while/SCONJ slightly/ADV turn/VERB right/ADV then/ADV turn/VERB and/CCONJ jog/VERB back/ADV from/ADP the/DET direction/NOUN they/PRON come/VERB#0.0#0.0
+this person turns and walks to the left, turns again and walks right.#this/DET person/NOUN turn/VERB and/CCONJ walk/VERB to/ADP the/DET left/NOUN turn/VERB again/ADV and/CCONJ walk/VERB right/ADJ#0.0#0.0

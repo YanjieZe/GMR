@@ -1,0 +1,3 @@
+a person is jumping rope backwards.#a/DET person/NOUN is/AUX jump/VERB rope/NOUN backwards/ADV#0.0#0.0
+a person walks slightly backwards, picks up a rope and starts to jump rope.#a/DET person/NOUN walk/VERB slightly/ADV backwards/ADV pick/VERB up/ADP a/DET rope/NOUN and/CCONJ start/VERB to/PART jump/VERB rope/NOUN#0.0#0.0
+a man walks backwards and the starts jump roping.#a/DET man/NOUN walk/VERB backwards/ADV and/CCONJ the/DET start/NOUN jump/NOUN roping/NOUN#0.0#0.0

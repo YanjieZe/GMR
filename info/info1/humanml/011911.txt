@@ -1,0 +1,3 @@
+a person jumps up and down waving their arms around, in a circle.#a/DET person/NOUN jump/VERB up/ADV and/CCONJ down/ADV wave/VERB their/DET arm/NOUN around/ADV in/ADP a/DET circle/NOUN#0.0#0.0
+a person is jumping and dancing in a circle.#a/DET person/NOUN is/AUX jump/VERB and/CCONJ dance/VERB in/ADP a/DET circle/NOUN#0.0#0.0
+a figure seems to be tapdancing or celebrating#a/DET figure/NOUN seem/VERB to/PART be/AUX tapdance/VERB or/CCONJ celebrate/VERB#0.0#0.0

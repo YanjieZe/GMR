@@ -1,0 +1,3 @@
+a person lifts their right arm straight out to the side, then turns it to point straight forward.#a/DET person/NOUN lift/VERB their/DET right/ADJ arm/NOUN straight/ADV out/ADV to/ADP the/DET side/NOUN then/ADV turn/VERB it/PRON to/PART point/VERB straight/ADV forward/ADV#0.0#0.0
+a person with left arm up and moves it forward.#a/DET person/NOUN with/ADP left/ADJ arm/NOUN up/ADP and/CCONJ move/VERB it/PRON forward/ADV#0.0#0.0
+the person has put his one arm out to the right and then back down.#the/DET person/NOUN has/AUX put/VERB his/DET one/NUM arm/NOUN out/ADP to/ADP the/DET right/NOUN and/CCONJ then/ADV back/ADV down/ADP#0.0#0.0

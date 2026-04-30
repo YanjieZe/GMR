@@ -1,0 +1,3 @@
+a person lifts their left hand to their chest and makes circular motions.#a/DET person/NOUN lift/VERB their/DET left/ADJ hand/NOUN to/ADP their/DET chest/NOUN and/CCONJ make/VERB circular/ADJ motion/NOUN#0.0#0.0
+person uses left arm to make circular motion in front of body#person/NOUN use/VERB left/VERB arm/NOUN to/PART make/VERB circular/ADJ motion/NOUN in/ADP front/NOUN of/ADP body/NOUN#0.0#0.0
+man moves his left arm from his side to his stomach, moving it around in a circular motion#man/PROPN move/VERB his/DET left/ADJ arm/NOUN from/ADP his/DET side/NOUN to/ADP his/DET stomach/NOUN move/VERB it/PRON around/ADV in/ADP a/DET circular/ADJ motion/NOUN#0.0#0.0

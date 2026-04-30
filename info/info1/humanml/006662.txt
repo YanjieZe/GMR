@@ -1,0 +1,3 @@
+a man is shot in the chest, falls to the ground, crawls and pulls himself up.#a/DET man/NOUN is/AUX shoot/VERB in/ADP the/DET chest/NOUN fall/VERB to/ADP the/DET ground/NOUN crawl/VERB and/CCONJ pull/VERB himself/PRON up/ADP#0.0#0.0
+the person fell down and is crawling away from someone.#the/DET person/NOUN fall/VERB down/ADP and/CCONJ is/AUX crawl/VERB away/ADV from/ADP someone/PRON#0.0#0.0
+a person gets startled and falls to the ground, rolling over so that they can crawl#a/DET person/NOUN get/VERB startled/ADJ and/CCONJ fall/VERB to/ADP the/DET ground/NOUN roll/VERB over/ADP so/SCONJ that/SCONJ they/PRON can/VERB crawl/VERB#0.0#0.0

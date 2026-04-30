@@ -1,0 +1,3 @@
+a person is standing still, then crosses his arms, then goes back to normal#a/DET person/NOUN is/AUX stand/VERB still/ADV then/ADV cross/VERB his/DET arm/NOUN then/ADV go/VERB back/ADV to/ADP normal/ADJ#0.0#0.0
+crossing arms while standing still.#cross/VERB arm/NOUN while/SCONJ stand/VERB still/ADV#0.0#0.0
+a person folds their hands in front of their chest.#a/DET person/NOUN fold/VERB their/DET hand/NOUN in/ADP front/NOUN of/ADP their/DET chest/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person dancing to old school music#a/DET person/NOUN dance/VERB to/ADP old/ADJ school/NOUN music/NOUN#0.0#0.0
+the man is dancing using legs and arms#the/DET man/NOUN is/AUX dance/VERB use/VERB leg/NOUN and/CCONJ arm/NOUN#0.0#0.0
+a person dances in place, swaying his hips, and swinging his arms.#a/DET person/NOUN dance/VERB in/ADP place/NOUN sway/VERB his/DET hip/NOUN and/CCONJ swinge/VERB his/DET arm/NOUN#0.0#0.0

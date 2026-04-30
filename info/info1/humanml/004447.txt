@@ -1,0 +1,3 @@
+a person is lifting weights with both hands#a/DET person/NOUN is/AUX lift/VERB weight/NOUN with/ADP both/DET hand/NOUN#0.0#0.0
+a person is exercising with their arms#a/DET person/NOUN is/AUX exercise/VERB with/ADP their/DET arm/NOUN#0.0#0.0
+a person squats while also lifting both forearms up towards their head.#a/DET person/NOUN squat/VERB while/SCONJ also/ADV lift/VERB both/DET forearm/NOUN up/ADP towards/ADP their/DET head/NOUN#0.0#3.0

@@ -1,0 +1,3 @@
+a person is doing push-ups.#a/DET person/NOUN is/AUX do/VERB pushup/NOUN#0.0#0.0
+a person does push ups.#a/DET person/NOUN does/AUX push/VERB up/NOUN#0.0#0.0
+a person adjusts their position in a wide plank pose, and then does some dive bomb push ups.#a/DET person/NOUN adjust/VERB their/DET position/NOUN in/ADP a/DET wide/ADJ plank/NOUN pose/NOUN and/CCONJ then/ADV does/AUX some/DET dive/ADJ bomb/NOUN push/NOUN up/NOUN#0.0#0.0

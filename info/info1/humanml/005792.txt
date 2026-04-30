@@ -1,0 +1,3 @@
+stick figure leans back and forth before turning arounf#stick/PROPN figure/NOUN lean/VERB back/ADV and/CCONJ forth/ADV before/ADP turn/VERB arounf/ADV#1.0#10.0
+standing the same place and turn back and front.#stand/VERB the/DET same/ADJ place/NOUN and/CCONJ turn/VERB back/ADV and/CCONJ front/VERB#0.0#0.0
+the man is moving his body#the/DET man/NOUN is/AUX move/VERB his/DET body/NOUN#0.0#0.0

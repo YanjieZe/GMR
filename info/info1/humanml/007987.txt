@@ -1,0 +1,3 @@
+a person stayed on the place and raised the right hand#a/DET person/NOUN stay/VERB on/ADP the/DET place/NOUN and/CCONJ raise/VERB the/DET right/ADJ hand/NOUN#0.0#0.0
+keeping his elbow bent, a man raises his left arm, then lowers it to his mid-section.#keep/VERB his/DET elbow/NOUN bent/NOUN a/DET man/NOUN raise/VERB his/DET left/ADJ arm/NOUN then/ADV lower/VERB it/PRON to/ADP his/DET midsection/NOUN#0.0#5.0
+right held up head tilts to the right and right hand push forward.#right/ADV hold/VERB up/ADP head/NOUN tilt/NOUN to/ADP the/DET right/NOUN and/CCONJ right/ADJ hand/NOUN push/NOUN forward/ADV#0.0#0.0

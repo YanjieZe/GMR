@@ -1,0 +1,3 @@
+the person is jumping up and down.#the/DET person/NOUN is/AUX jump/VERB up/ADP and/CCONJ down/ADV#0.0#0.0
+a person playfully jumps a little bit, and then builds up to a larger jump.#a/DET person/NOUN playfully/ADV jump/VERB a/DET little/ADJ bit/NOUN and/CCONJ then/ADV build/VERB up/ADP to/ADP a/DET larger/ADJ jump/NOUN#0.0#0.0
+hilarious   jump backward march#hilarious/ADJ jump/VERB backward/ADJ march/PROPN#0.0#0.0

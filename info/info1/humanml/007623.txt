@@ -1,0 +1,3 @@
+a person hops in place, first small hops, then a large hop and then all over again.#a/DET person/NOUN hop/VERB in/ADP place/NOUN first/ADJ small/ADJ hop/NOUN then/ADV a/DET large/ADJ hop/NOUN and/CCONJ then/ADV all/ADV over/ADV again/ADV#0.0#0.0
+the person is jumping up and down facing forward.#the/DET person/NOUN is/AUX jump/VERB up/ADP and/CCONJ down/ADV face/VERB forward/ADV#0.0#0.0
+person is jumping up and down#person/NOUN is/AUX jump/VERB up/ADP and/CCONJ down/ADP#0.0#0.0

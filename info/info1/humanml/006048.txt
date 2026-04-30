@@ -1,0 +1,3 @@
+a person has both his hands together.#a/DET person/NOUN has/AUX both/CCONJ his/DET hand/NOUN together/ADV#0.0#0.0
+the toon is standing, swaying a bit, making the motion as to be washing another toon's hair at a salon.#the/DET toon/NOUN is/AUX stand/VERB sway/VERB a/DET bit/NOUN make/VERB the/DET motion/NOUN as/SCONJ to/PART be/AUX wash/VERB another/DET toon/NOUN hair/NOUN at/ADP a/DET salon/NOUN#0.0#4.0
+someone is giving and intense shoulder rub#someone/PRON is/AUX give/VERB and/CCONJ intense/ADJ shoulder/NOUN rub/NOUN#0.0#0.0

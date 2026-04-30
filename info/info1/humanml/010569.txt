@@ -1,0 +1,3 @@
+a person walks straight forward and then turns to the right.#a/DET person/NOUN walk/VERB straight/ADV forward/ADV and/CCONJ then/ADV turn/VERB to/ADP the/DET right/NOUN#0.0#0.0
+a person walks forward, turns, and then walks straight in another direction.#a/DET person/NOUN walk/VERB forward/ADV turn/VERB and/CCONJ then/ADV walk/VERB straight/ADV in/ADP another/DET direction/NOUN#0.0#0.0
+a person slowly walked forward and in right direction#a/DET person/NOUN slowly/ADV walk/VERB forward/ADV and/CCONJ in/ADP right/ADJ direction/NOUN#0.0#0.0

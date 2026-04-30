@@ -1,0 +1,3 @@
+a person shakes their arms quickly.#a/DET person/NOUN shake/VERB their/DET arm/NOUN quickly/ADV#0.0#0.0
+bouncing arms up and down#bounce/VERB arm/NOUN up/ADV and/CCONJ down/ADP#0.0#0.0
+person bends arms in, and flaps them like wings.#person/NOUN bend/VERB arm/NOUN in/ADV and/CCONJ flap/VERB them/PRON like/SCONJ wing/NOUN#0.0#0.0

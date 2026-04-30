@@ -1,0 +1,3 @@
+great opportunity to do things#great/ADJ opportunity/NOUN to/PART do/AUX thing/NOUN#2.0#3.0
+a person lowers his left arm to his thigh, then lowers both arms and then outstretched from his body.#a/DET person/NOUN lower/VERB his/DET left/ADJ arm/NOUN to/ADP his/DET thigh/NOUN then/ADV lower/VERB both/DET arm/NOUN and/CCONJ then/ADV outstretche/VERB from/ADP his/DET body/NOUN#0.0#0.0
+a person puts their left hand on their leg then returns both arms up.#a/DET person/NOUN put/VERB their/DET left/ADJ hand/NOUN on/ADP their/DET leg/NOUN then/ADV return/VERB both/DET arm/NOUN up/ADP#0.0#0.0

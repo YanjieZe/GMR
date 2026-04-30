@@ -1,0 +1,3 @@
+a person that spins and then runs#a/DET person/NOUN that/DET spin/VERB and/CCONJ then/ADV run/VERB#0.0#0.0
+a person spins once completely around as he moves forward.#a/DET person/NOUN spin/VERB once/ADV completely/ADV around/ADV as/SCONJ he/PRON move/VERB forward/ADV#0.0#0.0
+the figure transitions smoothly from walking backwards to walking forwards at a jogging pace.#the/DET figure/NOUN transition/VERB smoothly/ADV from/ADP walk/VERB backwards/ADV to/ADP walk/VERB forwards/ADV at/ADP a/DET jogging/NOUN pace/NOUN#0.0#0.0

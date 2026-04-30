@@ -1,0 +1,3 @@
+a person stands with his feet wide and swings his arms above his head.#a/DET person/NOUN stand/VERB with/ADP his/DET foot/NOUN wide/ADJ and/CCONJ swing/VERB his/DET arm/NOUN above/ADP his/DET head/NOUN#0.0#0.0
+he is doing taiko drum (japanese drum)#he/PRON is/AUX do/VERB taiko/NOUN drum/VERB japanese/PROPN drum/PROPN#0.0#0.0
+person waves arms up and down with knees slightly bent.#person/NOUN wave/VERB arm/NOUN up/ADV and/CCONJ down/ADP with/ADP knee/NOUN slightly/ADV bent/ADJ#0.0#0.0

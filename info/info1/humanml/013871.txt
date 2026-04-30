@@ -1,0 +1,3 @@
+the person is walking back-and-forth in an s shape.#the/DET person/NOUN is/AUX walk/VERB backandforth/ADJ in/ADP an/DET s/PROPN shape/NOUN#0.0#0.0
+a person walks forward and then zig zags to avoid an obstacle.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ then/ADV zig/VERB zag/NOUN to/PART avoid/VERB an/DET obstacle/NOUN#0.0#0.0
+a person walks in a s shape.#a/DET person/NOUN walk/VERB in/ADP a/DET s/PROPN shape/NOUN#0.0#0.0

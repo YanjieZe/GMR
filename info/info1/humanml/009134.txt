@@ -1,0 +1,3 @@
+person gets on the floor and starts crawling#person/NOUN get/VERB on/ADP the/DET floor/NOUN and/CCONJ start/VERB crawl/VERB#0.0#0.0
+a man crawls from left to right turns counter clockwise then crawls back#a/DET man/NOUN crawl/VERB from/ADP left/VERB to/ADP right/NOUN turn/VERB counter/NOUN clockwise/NOUN then/ADV crawl/VERB back/ADV#0.0#0.0
+a person gets down and crawls in a circle.#a/DET person/NOUN get/VERB down/ADV and/CCONJ crawl/VERB in/ADP a/DET circle/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+person makes motion such as lifting from the lower left side to the right side then back again.#person/NOUN make/VERB motion/NOUN such/ADJ as/SCONJ lift/VERB from/ADP the/DET lower/ADJ left/ADJ side/NOUN to/ADP the/DET right/ADJ side/NOUN then/ADV back/ADV again/ADV#0.0#0.0
+the man is moving something to the left#the/DET man/NOUN is/AUX move/VERB something/PRON to/ADP the/DET left/NOUN#0.0#0.0
+a person grabbed something and put it somewhere#a/DET person/NOUN grab/VERB something/PRON and/CCONJ put/VERB it/PRON somewhere/ADV#0.0#0.0

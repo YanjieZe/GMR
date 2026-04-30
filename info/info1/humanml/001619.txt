@@ -1,0 +1,3 @@
+person is walking back and around and throwing something.#person/NOUN is/AUX walk/VERB back/ADV and/CCONJ around/ADV and/CCONJ throw/VERB something/PRON#0.0#0.0
+a person walks towards something and then throws an object.#a/DET person/NOUN walk/VERB towards/ADP something/PRON and/CCONJ then/ADV throw/VERB an/DET object/NOUN#0.0#0.0
+an individual looks confused because of his body language.#an/DET individual/ADJ look/VERB confuse/VERB because/SCONJ of/ADP his/DET body/NOUN language/NOUN#0.0#0.0

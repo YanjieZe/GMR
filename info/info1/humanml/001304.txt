@@ -1,0 +1,3 @@
+the person hunches down and feels around on the ground with their right hand.#the/DET person/NOUN hunch/VERB down/ADP and/CCONJ feel/VERB around/ADV on/ADP the/DET ground/NOUN with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+someone leans forward to gesture beneath their feet.#someone/PRON lean/VERB forward/ADV to/PART gesture/VERB beneath/ADP their/DET foot/NOUN#0.0#0.0
+a person squats down, poking the floor with something in their right hand.#a/DET person/NOUN squat/VERB down/ADP poke/VERB the/DET floor/NOUN with/ADP something/PRON in/ADP their/DET right/ADJ hand/NOUN#0.0#0.0

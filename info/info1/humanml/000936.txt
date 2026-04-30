@@ -1,0 +1,3 @@
+a man walks forward in an s pattern before stopping.#a/DET man/NOUN walk/VERB forward/ADV in/ADP an/DET s/NOUN pattern/NOUN before/ADP stop/VERB#0.0#0.0
+the person walk to the left then walked back around to the right then turned back around and walk to the left again.#the/DET person/NOUN walk/VERB to/ADP the/DET left/NOUN then/ADV walk/VERB back/ADV around/ADV to/ADP the/DET right/NOUN then/ADV turn/VERB back/ADV around/ADV and/CCONJ walk/VERB to/ADP the/DET left/NOUN again/ADV#0.0#0.0
+a person walking in curved trajectory#a/DET person/NOUN walk/VERB in/ADP curved/ADJ trajectory/NOUN#0.0#0.0

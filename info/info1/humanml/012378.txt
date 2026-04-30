@@ -1,0 +1,3 @@
+right hand was pointing upward and body was shifting to right#right/ADJ hand/NOUN was/AUX point/VERB upward/ADV and/CCONJ body/NOUN was/AUX shift/VERB to/PART right/ADJ#0.0#0.0
+a person standing raises his right hand over his head#a/DET person/NOUN stand/VERB raise/VERB his/DET right/ADJ hand/NOUN over/ADP his/DET head/NOUN#0.0#1.0
+stick figure raises right arm to bend to the left#stick/PROPN figure/NOUN raise/VERB right/ADJ arm/NOUN to/PART bend/VERB to/ADP the/DET left/NOUN#0.0#1.0

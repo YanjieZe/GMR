@@ -1,0 +1,3 @@
+person is sitting and waving.#person/NOUN is/AUX sit/VERB and/CCONJ wave/VERB#0.0#0.0
+a person squats , moving left hand in circles.#a/DET person/NOUN squat/VERB move/VERB left/ADJ hand/NOUN in/ADP circle/NOUN#0.0#0.0
+person squatting or sitting at the table and eating with right hand#person/NOUN squat/VERB or/CCONJ sit/VERB at/ADP the/DET table/NOUN and/CCONJ eat/VERB with/ADP right/ADJ hand/NOUN#0.0#0.0

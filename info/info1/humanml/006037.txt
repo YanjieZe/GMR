@@ -1,0 +1,3 @@
+a man picks something up and then manipulates it with his hands.#a/DET man/NOUN pick/VERB something/PRON up/ADP and/CCONJ then/ADV manipulate/VERB it/PRON with/ADP his/DET hand/NOUN#0.0#0.0
+the man is coiling a rope#the/DET man/NOUN is/AUX coil/VERB a/DET rope/NOUN#0.0#0.0
+moving hands while standing still.#move/VERB hand/NOUN while/SCONJ stand/VERB still/ADV#0.0#0.0

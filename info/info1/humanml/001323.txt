@@ -1,0 +1,3 @@
+a person bobs back and forth while raising their arms in front of their chest.#a/DET person/NOUN bob/VERB back/ADV and/CCONJ forth/ADV while/SCONJ raise/VERB their/DET arm/NOUN in/ADP front/NOUN of/ADP their/DET chest/NOUN#0.0#0.0
+a figure raises it hands in preparation for fistycuffs#a/DET figure/NOUN raise/VERB it/PRON hand/VERB in/ADP preparation/NOUN for/ADP fistycuff/NOUN#0.0#0.0
+a man. stands up jump then does a push up. then runs in 4 circles. and then repeats 4 time.#a/DET man/NOUN stand/VERB up/ADV jump/NOUN then/ADV does/AUX a/DET push/NOUN up/ADP then/ADV run/VERB in/ADP circle/NOUN and/CCONJ then/ADV repeat/VERB time/NOUN#0.0#0.0

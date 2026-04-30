@@ -1,0 +1,3 @@
+a person walks, stepping onto a big object.#a/DET person/NOUN walk/VERB step/VERB onto/ADP a/DET big/ADJ object/NOUN#0.0#0.0
+aman steps up on a platform then steps back down again.#aman/PROPN step/VERB up/ADP on/ADP a/DET platform/NOUN then/ADV step/VERB back/ADV down/ADV again/ADV#0.0#0.0
+a figure slowly lumbers forward before turning around and stepping up, then stepping down.#a/DET figure/NOUN slowly/ADV lumber/VERB forward/ADV before/ADP turn/VERB around/ADV and/CCONJ step/VERB up/ADP then/ADV step/VERB down/ADP#0.0#0.0

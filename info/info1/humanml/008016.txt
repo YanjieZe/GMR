@@ -1,0 +1,3 @@
+a man reaches over and picks up some wet soap, and washes his hands with it.#a/DET man/NOUN reach/VERB over/ADP and/CCONJ pick/VERB up/ADP some/DET wet/ADJ soap/NOUN and/CCONJ wash/VERB his/DET hand/NOUN with/ADP it/PRON#0.0#0.0
+person makes a motion as if picking up soap, then straightens and rubs hands together as if washing hands#person/NOUN make/VERB a/DET motion/NOUN as/SCONJ if/SCONJ pick/VERB up/ADP soap/NOUN then/ADV straighten/VERB and/CCONJ rub/VERB hand/NOUN together/ADV as/SCONJ if/SCONJ washing/NOUN hand/NOUN#0.0#0.0
+a person is washing their hands.#a/DET person/NOUN is/AUX wash/VERB their/DET hand/NOUN#0.0#0.0

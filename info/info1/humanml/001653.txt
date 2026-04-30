@@ -1,0 +1,3 @@
+a person walks to the left and then in a clockwise circle.#a/DET person/NOUN walk/VERB to/ADP the/DET left/NOUN and/CCONJ then/ADV in/ADP a/DET clockwise/ADJ circle/NOUN#0.0#0.0
+a person walks counterclockwise in a circle.#a/DET person/NOUN walk/VERB counterclockwise/NOUN in/ADP a/DET circle/NOUN#0.0#0.0
+a man walks in a circle before stopping.#a/DET man/NOUN walk/VERB in/ADP a/DET circle/NOUN before/ADP stop/VERB#0.0#0.0

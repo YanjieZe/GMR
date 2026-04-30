@@ -1,0 +1,3 @@
+the person balances while holding their right leg up with both their arms.#the/DET person/NOUN balance/VERB while/SCONJ hold/VERB their/DET right/ADJ leg/NOUN up/ADP with/ADP both/CCONJ their/DET arm/NOUN#0.0#0.0
+a man holds his knee up, extends his leg, and stretches it to the side.#a/DET man/NOUN hold/VERB his/DET knee/NOUN up/ADP extend/VERB his/DET leg/NOUN and/CCONJ stretch/VERB it/PRON to/ADP the/DET side/NOUN#0.0#0.0
+the man holds his right knee with both hands kicks his foot a few time then puts the foot on the ground.#the/DET man/NOUN hold/VERB his/DET right/ADJ knee/NOUN with/ADP both/DET hand/NOUN kick/VERB his/DET foot/NOUN a/DET few/ADJ time/NOUN then/ADV put/VERB the/DET foot/NOUN on/ADP the/DET ground/NOUN#0.0#0.0

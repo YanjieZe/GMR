@@ -1,0 +1,3 @@
+the person waves both hands simultaneously#the/DET person/NOUN wave/VERB both/DET hand/NOUN simultaneously/ADV#0.0#0.0
+a person puts both arms up and waves them back and forth at their side.#a/DET person/NOUN put/VERB both/DET arm/NOUN up/ADP and/CCONJ wave/VERB them/PRON back/ADV and/CCONJ forth/ADV at/ADP their/DET side/NOUN#0.0#0.0
+a person waves both of their arms in a signalling manner.#a/DET person/NOUN wave/VERB both/DET of/ADP their/DET arm/NOUN in/ADP a/DET signalling/NOUN manner/NOUN#0.0#0.0

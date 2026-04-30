@@ -1,0 +1,3 @@
+the person walked in an oval circle.#the/DET person/NOUN walk/VERB in/ADP an/DET oval/ADJ circle/NOUN#0.0#0.0
+person walking in a circle#person/NOUN walk/VERB in/ADP a/DET circle/NOUN#0.0#0.0
+a person walks counter clockwise in a circle.#a/DET person/NOUN walk/VERB counter/ADV clockwise/NOUN in/ADP a/DET circle/NOUN#0.0#0.0

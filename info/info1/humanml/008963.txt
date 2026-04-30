@@ -1,0 +1,3 @@
+a person pretends to be a dog#a/DET person/NOUN pretend/VERB to/PART be/AUX a/DET dog/NOUN#0.0#0.0
+the man mouves his hand head to writ  and to the left.#the/DET man/NOUN mouve/VERB his/DET hand/NOUN head/NOUN to/ADP writ/PROPN and/CCONJ to/ADP the/DET left/NOUN#0.0#0.0
+a person slumps forward while sobbing violently.#a/DET person/NOUN slump/VERB forward/ADV while/SCONJ sob/VERB violently/ADV#0.0#0.0

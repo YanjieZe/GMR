@@ -1,0 +1,3 @@
+a figure side-steps quickly, like a basketball shuffle -- first to the left and then to the right#a/DET figure/NOUN sidestep/VERB quickly/ADV like/SCONJ a/DET basketball/NOUN shuffle/NOUN first/ADV to/ADP the/DET left/NOUN and/CCONJ then/ADV to/ADP the/DET right/NOUN#0.0#0.0
+a person moved into right and after left direction#a/DET person/NOUN move/VERB into/ADP right/NOUN and/CCONJ after/ADP left/ADJ direction/NOUN#0.0#0.0
+a man jumps from side to side while his shoulders are up.#a/DET man/NOUN jump/VERB from/ADP side/NOUN to/PART side/VERB while/SCONJ his/DET shoulder/NOUN are/AUX up/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+the man warms himself by rubbing his hands together.#the/DET man/NOUN warm/VERB himself/PRON by/ADP rub/VERB his/DET hand/NOUN together/ADV#0.0#0.0
+a person brings their arms across their chest and buries their face in their hands as if freezing.#a/DET person/NOUN bring/VERB their/DET arm/NOUN across/ADP their/DET chest/NOUN and/CCONJ burie/NOUN their/DET face/NOUN in/ADP their/DET hand/NOUN as/SCONJ if/SCONJ freezing/NOUN#0.0#0.0
+a person moves both arms and then uses the right hand to scratch his left shoulder. then clasps hands together.#a/DET person/NOUN move/VERB both/CCONJ arm/NOUN and/CCONJ then/ADV use/VERB the/DET right/ADJ hand/NOUN to/PART scratch/VERB his/DET left/ADJ shoulder/NOUN then/ADV clasps/NOUN hand/NOUN together/ADV#0.0#0.0

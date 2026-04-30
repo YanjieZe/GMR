@@ -1,0 +1,3 @@
+this person is sitting and moving his right arm as if to eat.#this/DET person/NOUN is/AUX sit/VERB and/CCONJ move/VERB his/DET right/ADJ arm/NOUN as/SCONJ if/SCONJ to/PART eat/VERB#0.0#0.0
+the man is eating his finger i think#the/DET man/NOUN is/AUX eat/VERB his/DET finger/NOUN i/PRON think/VERB#0.0#0.0
+a person squats on the ground while eating something with his right hand.#a/DET person/NOUN squat/VERB on/ADP the/DET ground/NOUN while/SCONJ eat/VERB something/PRON with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0

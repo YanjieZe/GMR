@@ -1,0 +1,3 @@
+the person was pushed from the right but did not fall.#the/DET person/NOUN was/AUX push/VERB from/ADP the/DET right/NOUN but/CCONJ did/AUX not/PART fall/VERB#0.0#0.0
+the person moves to the right and then moves to the left. it looks like a beginning of a dance move. the arms move side to side.#the/DET person/NOUN move/VERB to/ADP the/DET right/NOUN and/CCONJ then/ADV move/VERB to/ADP the/DET left/NOUN it/PRON look/VERB like/SCONJ a/DET beginning/NOUN of/ADP a/DET dance/NOUN move/NOUN the/DET arm/NOUN move/VERB side/NOUN to/PART side/VERB#0.0#0.0
+a person wloly moved left and right direction#a/DET person/NOUN wloly/NOUN move/VERB left/ADV and/CCONJ right/ADJ direction/NOUN#0.0#0.0

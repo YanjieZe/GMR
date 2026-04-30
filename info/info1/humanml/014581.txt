@@ -1,0 +1,3 @@
+a person appears to have body shakes while squatting.#a/DET person/NOUN appear/VERB to/PART have/AUX body/NOUN shake/NOUN while/SCONJ squat/VERB#0.0#0.0
+a person is doing a movement which imitates getting ready for fight stance or warming up before doing exercise#a/DET person/NOUN is/AUX do/VERB a/DET movement/NOUN which/DET imitate/VERB get/VERB ready/ADJ for/ADP fight/NOUN stance/NOUN or/CCONJ warm/VERB up/ADP before/ADP do/VERB exercise/NOUN#0.0#0.0
+a person squats slightly and jitters one hand#a/DET person/NOUN squat/VERB slightly/ADV and/CCONJ jitter/NOUN one/NUM hand/NOUN#0.0#0.0

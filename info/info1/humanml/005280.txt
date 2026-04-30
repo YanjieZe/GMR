@@ -1,0 +1,3 @@
+person raises both arms in a position as if to block something coming their way.#person/NOUN raise/VERB both/DET arm/NOUN in/ADP a/DET position/NOUN as/SCONJ if/SCONJ to/PART block/VERB something/PRON come/VERB their/DET way/NOUN#0.0#0.0
+a man puts both hands to his face twice.#a/DET man/NOUN put/VERB both/DET hand/NOUN to/ADP his/DET face/NOUN twice/ADV#0.0#0.0
+person puts fists up in a fighting stance twice#person/NOUN put/VERB fist/NOUN up/ADP in/ADP a/DET fighting/NOUN stance/NOUN twice/ADV#0.0#0.0

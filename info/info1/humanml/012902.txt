@@ -1,0 +1,3 @@
+a man quickly takes one step back.#a/DET man/NOUN quickly/ADV take/VERB one/NUM step/NOUN back/ADV#0.0#0.0
+person appears to be slightly pushed backward.#person/NOUN appear/VERB to/PART be/AUX slightly/ADV push/VERB backward/ADV#0.0#0.0
+a person is pushed from the front, stumbles back, and regains his balance.#a/DET person/NOUN is/AUX push/VERB from/ADP the/DET front/NOUN stumble/NOUN back/ADV and/CCONJ regain/VERB his/DET balance/NOUN#0.0#0.0

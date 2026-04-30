@@ -1,0 +1,3 @@
+a person takes a step forward with their left leg, then steps further with their right leg causing them to lean back, easing them into a sitting position.#a/DET person/NOUN take/VERB a/DET step/NOUN forward/ADV with/ADP their/DET left/ADJ leg/NOUN then/ADV step/VERB further/ADV with/ADP their/DET right/ADJ leg/NOUN cause/VERB them/PRON to/PART lean/VERB back/ADV ease/VERB them/PRON into/ADP a/DET sit/VERB position/NOUN#0.0#0.0
+a person sits down on some type of furniture.#a/DET person/NOUN sit/VERB down/ADP on/ADP some/DET type/NOUN of/ADP furniture/NOUN#0.0#0.0
+stick figure takes a few steps before sitting down#stick/PROPN figure/NOUN take/VERB a/DET few/ADJ step/NOUN before/ADP sit/VERB down/ADP#1.0#6.0

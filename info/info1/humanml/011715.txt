@@ -1,0 +1,3 @@
+a person crosses their arms.#a/DET person/NOUN cross/VERB their/DET arm/NOUN#0.0#0.0
+a person crosses their arms.#a/DET person/NOUN cross/VERB their/DET arm/NOUN#0.0#0.0
+the sim is standing still, then raises both arms to cross them before resting them again at their side.#the/DET sim/PROPN is/AUX stand/VERB still/ADV then/ADV raise/VERB both/DET arm/NOUN to/PART cross/VERB them/PRON before/ADP rest/VERB them/PRON again/ADV at/ADP their/DET side/NOUN#0.0#6.0

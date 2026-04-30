@@ -1,0 +1,3 @@
+the person runs back and forth in short bursts changing directions after a few steps.#the/DET person/NOUN run/VERB back/ADV and/CCONJ forth/ADV in/ADP short/ADJ burst/NOUN change/VERB direction/NOUN after/ADP a/DET few/ADJ step/NOUN#0.0#0.0
+the man jogs to left then to the right#the/DET man/NOUN jog/VERB to/PART left/VERB then/ADV to/ADP the/DET right/NOUN#0.0#0.0
+a person runs to the left followed by the right and back to the left.#a/DET person/NOUN run/VERB to/ADP the/DET left/NOUN follow/VERB by/ADP the/DET right/NOUN and/CCONJ back/ADV to/ADP the/DET left/NOUN#0.0#0.0

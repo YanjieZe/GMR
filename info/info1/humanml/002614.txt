@@ -1,0 +1,3 @@
+a person steps forward with their left foot, pivoting to their right and thrusting their right foot out in a kicking motion behind them, then returns to a fighting stance.#a/DET person/NOUN step/VERB forward/ADV with/ADP their/DET left/ADJ foot/NOUN pivot/VERB to/ADP their/DET right/NOUN and/CCONJ thrust/VERB their/DET right/ADJ foot/NOUN out/ADV in/ADP a/DET kick/VERB motion/NOUN behind/ADP them/PRON then/ADV return/VERB to/ADP a/DET fighting/NOUN stance/NOUN#0.0#0.0
+a man does a big kick.#a/DET man/NOUN does/AUX a/DET big/ADJ kick/NOUN#0.0#0.0
+the man does a backwards kick.#the/DET man/NOUN does/AUX a/DET backwards/ADJ kick/NOUN#0.0#0.0

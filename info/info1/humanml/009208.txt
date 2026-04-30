@@ -1,0 +1,3 @@
+person standing lifts left around to head height#person/NOUN stand/VERB lift/NOUN left/VERB around/ADV to/PART head/VERB height/ADV#0.0#0.0
+person reaching their face with left hand#person/NOUN reach/VERB their/DET face/NOUN with/ADP left/ADJ hand/NOUN#0.0#0.0
+a person lifts left arm to mouth and then lowers arm.#a/DET person/NOUN lift/VERB left/ADJ arm/NOUN to/ADP mouth/NOUN and/CCONJ then/ADV lower/VERB arm/NOUN#0.0#0.0

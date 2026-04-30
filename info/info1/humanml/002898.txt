@@ -1,0 +1,3 @@
+a man steps forward and sits down on the ground.#a/DET man/NOUN step/VERB forward/ADV and/CCONJ sit/VERB down/ADP on/ADP the/DET ground/NOUN#0.0#0.0
+a man squats down slowly and takes a seat.#a/DET man/NOUN squat/VERB down/ADP slowly/ADV and/CCONJ take/VERB a/DET seat/NOUN#0.0#0.0
+a person approaches and squats.#a/DET person/NOUN approach/VERB and/CCONJ squat/NOUN#0.0#0.0

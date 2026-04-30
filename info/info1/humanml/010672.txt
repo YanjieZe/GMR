@@ -1,0 +1,3 @@
+a person performing a slight bow#a/DET person/NOUN perform/VERB a/DET slight/ADJ bow/NOUN#0.0#0.0
+a person does a slight bow.#a/DET person/NOUN does/AUX a/DET slight/ADJ bow/NOUN#0.0#0.0
+a person bows slightly briefly.#a/DET person/NOUN bow/VERB slightly/ADV briefly/ADV#0.0#0.0

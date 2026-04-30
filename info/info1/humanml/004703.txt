@@ -1,0 +1,3 @@
+person scrapes his left leg back in pain in an anti clockwise circle#person/NOUN scrape/VERB his/DET left/ADJ leg/NOUN back/ADV in/ADP pain/NOUN in/ADP an/DET anti/ADJ clockwise/NOUN circle/NOUN#0.0#0.0
+a person walks backwards in a circular pattern, completing about 60 percent of a circle.#a/DET person/NOUN walk/VERB backwards/ADV in/ADP a/DET circular/ADJ pattern/NOUN complete/VERB about/ADV percent/NOUN of/ADP a/DET circle/NOUN#0.0#0.0
+a man walks backwards in a circle.#a/DET man/NOUN walk/VERB backwards/ADV in/ADP a/DET circle/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+the person is standing  completely still.#the/DET person/NOUN is/AUX stand/VERB completely/ADV still/ADV#0.0#0.0
+the person is putting his hands in front and side of his body#the/DET person/NOUN is/AUX put/VERB his/DET hand/NOUN in/ADP front/NOUN and/CCONJ side/NOUN of/ADP his/DET body/NOUN#0.0#0.0
+a man stands and lifts his arms in front of him and then out to the side.#a/DET man/NOUN stand/VERB and/CCONJ lift/VERB his/DET arm/NOUN in/ADP front/NOUN of/ADP him/PRON and/CCONJ then/ADV out/SCONJ to/ADP the/DET side/NOUN#0.0#0.0

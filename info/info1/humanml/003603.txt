@@ -1,0 +1,3 @@
+person kneeling down qith stool#person/NOUN kneel/VERB down/ADP qith/PROPN stool/NOUN#0.0#0.0
+gets down on his knees and stays there#get/VERB down/ADV on/ADP his/DET knee/NOUN and/CCONJ stay/VERB there/ADV#0.0#0.0
+a person kneel son their right knee and then their left knee.#a/DET person/NOUN kneel/PROPN son/NOUN their/DET right/ADJ knee/NOUN and/CCONJ then/ADV their/DET left/ADJ knee/NOUN#0.0#0.0

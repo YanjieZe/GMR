@@ -1,0 +1,3 @@
+a person stumbles backward without falling.#a/DET person/NOUN stumble/VERB backward/ADV without/ADP fall/VERB#0.0#0.0
+person steps backwards sharply starting with their left foot. looking at their left shoulder movement, the person appears to be reacting to being shoved and staggered backwards.#person/NOUN step/VERB backwards/ADV sharply/ADV start/VERB with/ADP their/DET left/ADJ foot/NOUN look/VERB at/ADP their/DET left/ADJ shoulder/NOUN movement/NOUN the/DET person/NOUN appear/VERB to/PART be/AUX react/VERB to/ADP being/AUX shove/VERB and/CCONJ stagger/VERB backwards/ADV#0.0#0.0
+the person is standing by and waving.#the/DET person/NOUN is/AUX stand/VERB by/ADV and/CCONJ wave/VERB#0.0#0.0

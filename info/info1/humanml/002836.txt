@@ -1,0 +1,3 @@
+a person stepping back quickly in effort to avoid something.#a/DET person/NOUN step/VERB back/ADV quickly/ADV in/ADP effort/NOUN to/PART avoid/VERB something/PRON#0.0#0.0
+a person is pushed backwards.#a/DET person/NOUN is/AUX push/VERB backwards/ADV#0.0#0.0
+a person standing quickly takes 2 steps backwards and remains standing.#a/DET person/NOUN stand/VERB quickly/ADV take/VERB step/NOUN backwards/ADV and/CCONJ remain/VERB stand/VERB#0.0#0.0

@@ -1,0 +1,2 @@
+a man in a running position races four steps forward, slides to a stop and takes another step forward.#a/DET man/NOUN in/ADP a/DET running/ADJ position/NOUN race/VERB four/NUM step/NOUN forward/ADV slide/VERB to/ADP a/DET stop/NOUN and/CCONJ take/VERB another/DET step/NOUN forward/ADV#0.0#0.0
+a person is running, quickly stops, and then runs again#a/DET person/NOUN is/AUX run/VERB quickly/ADV stop/VERB and/CCONJ then/ADV run/VERB again/ADV#0.0#0.0

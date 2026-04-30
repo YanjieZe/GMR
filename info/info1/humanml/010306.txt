@@ -1,0 +1,3 @@
+a person jumps few times and then jumps high#a/DET person/NOUN jump/VERB few/ADJ time/NOUN and/CCONJ then/ADV jump/VERB high/ADV#0.0#0.0
+a person making little hops in place then a big one.#a/DET person/NOUN make/VERB little/ADJ hop/NOUN in/ADP place/NOUN then/ADV a/DET big/ADJ one/NOUN#0.0#0.0
+a person hops up and down in place.#a/DET person/NOUN hop/VERB up/ADV and/CCONJ down/ADV in/ADP place/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person is pretending to be an elephant#a/DET person/NOUN is/AUX pretend/VERB to/PART be/AUX an/DET elephant/NOUN#0.0#0.0
+an elephant lifts its trunk high in the sky#an/DET elephant/NOUN lift/VERB its/DET trunk/NOUN high/ADV in/ADP the/DET sky/NOUN#0.0#0.0
+a person raises their right arm in front of their face like an elephant.#a/DET person/NOUN raise/VERB their/DET right/ADJ arm/NOUN in/ADP front/NOUN of/ADP their/DET face/NOUN like/SCONJ an/DET elephant/NOUN#0.0#0.0

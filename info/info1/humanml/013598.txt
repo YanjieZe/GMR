@@ -1,0 +1,3 @@
+the person takes a short jog then stretches their arms#the/DET person/NOUN take/VERB a/DET short/ADJ jog/NOUN then/ADV stretch/VERB their/DET arm/NOUN#0.0#0.0
+a man jogs to the right in an art stops turns back about halfway, then stretches his arms out at the shoulders.#a/DET man/NOUN jog/VERB to/ADP the/DET right/NOUN in/ADP an/DET art/NOUN stop/NOUN turn/VERB back/ADV about/ADP halfway/ADV then/ADV stretch/VERB his/DET arm/NOUN out/ADV at/ADP the/DET shoulder/NOUN#0.0#0.0
+the person is jogging half and then turning around and walking.#the/DET person/NOUN is/AUX jog/VERB half/NOUN and/CCONJ then/ADV turn/VERB around/ADV and/CCONJ walk/VERB#0.0#0.0

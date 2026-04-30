@@ -1,0 +1,3 @@
+person raises right arm above their head#person/NOUN raise/VERB right/ADJ arm/NOUN above/ADP their/DET head/NOUN#0.0#0.0
+a man brings his right arm up to his face.#a/DET man/NOUN bring/VERB his/DET right/ADJ arm/NOUN up/ADP to/ADP his/DET face/NOUN#0.0#0.0
+a person drops his shoulder, raises right hand to touch head, and then drops the hand.#a/DET person/NOUN drop/VERB his/DET shoulder/NOUN raise/VERB right/ADJ hand/NOUN to/PART touch/VERB head/NOUN and/CCONJ then/ADV drop/VERB the/DET hand/NOUN#0.0#0.0

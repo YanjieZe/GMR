@@ -1,0 +1,3 @@
+a person quickly waves with their right hand#a/DET person/NOUN quickly/ADV wave/VERB with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+a man knocking with his right hand.#a/DET man/NOUN knock/VERB with/ADP his/DET right/ADJ hand/NOUN#0.0#2.0
+a person waves with their right hand happily.#a/DET person/NOUN wave/VERB with/ADP their/DET right/ADJ hand/NOUN happily/ADV#0.0#0.0

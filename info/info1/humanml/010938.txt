@@ -1,0 +1,3 @@
+a man picks something with his right hand and then makes circular motions with the same hand .#a/DET man/NOUN pick/VERB something/PRON with/ADP his/DET right/ADJ hand/NOUN and/CCONJ then/ADV make/VERB circular/ADJ motion/NOUN with/ADP the/DET same/ADJ hand/NOUN#0.0#0.0
+the right hand is place outside the waist and then goes towards the stomach and back out.#the/DET right/ADJ hand/NOUN is/AUX place/NOUN outside/ADP the/DET waist/NOUN and/CCONJ then/ADV go/VERB towards/ADP the/DET stomach/NOUN and/CCONJ back/VERB out/ADV#0.0#0.0
+using right hand to stir something#use/VERB right/ADJ hand/NOUN to/PART stir/VERB something/PRON#0.0#0.0

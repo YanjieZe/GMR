@@ -1,0 +1,2 @@
+a person spins and then stumples to get their balance after the spin.#a/DET person/NOUN spin/VERB and/CCONJ then/ADV stumple/VERB to/PART get/AUX their/DET balance/NOUN after/ADP the/DET spin/NOUN#0.0#0.0
+the sim is running forward and does a spin move.#the/DET sim/PROPN is/AUX run/VERB forward/ADV and/CCONJ does/AUX a/DET spin/NOUN move/NOUN#0.0#0.0

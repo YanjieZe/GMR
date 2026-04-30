@@ -1,0 +1,3 @@
+a person shakes shoulders fast.#a/DET person/NOUN shake/VERB shoulder/NOUN fast/ADV#0.0#0.0
+person bends forwards and shakes both arms that are hanging on his sides#person/NOUN bend/VERB forwards/ADV and/CCONJ shake/VERB both/DET arm/NOUN that/DET are/AUX hang/VERB on/ADP his/DET side/NOUN#0.0#0.0
+a person shaking up his back warming up#a/DET person/NOUN shake/VERB up/ADP his/DET back/NOUN warm/VERB up/ADP#0.0#0.0

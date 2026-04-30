@@ -1,0 +1,3 @@
+person is using a sword#person/NOUN is/AUX use/VERB a/DET sword/NOUN#0.0#0.0
+a person looks like they might be warming up for a ping-pong or tennis match.#a/DET person/NOUN look/VERB like/SCONJ they/PRON may/VERB be/AUX warm/VERB up/ADP for/ADP a/DET pingpong/NOUN or/CCONJ tennis/NOUN match/NOUN#0.0#0.0
+stand a same place but shakes the hands.#stand/VERB a/DET same/ADJ place/NOUN but/CCONJ shake/VERB the/DET hand/NOUN#0.0#0.0

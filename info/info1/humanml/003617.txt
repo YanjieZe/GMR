@@ -1,0 +1,3 @@
+a person with their arms extended up and out bring them back towards their bodies and lean back to the left.#a/DET person/NOUN with/ADP their/DET arm/NOUN extend/VERB up/ADP and/CCONJ out/ADP bring/VERB them/PRON back/ADV towards/ADP their/DET body/NOUN and/CCONJ lean/VERB back/ADV to/ADP the/DET left/NOUN#0.0#0.0
+a person leaning back and swinging arms.#a/DET person/NOUN lean/VERB back/ADV and/CCONJ swinge/VERB arm/NOUN#0.0#0.0
+a person holds their arms above their head, then leans back on their right leg#a/DET person/NOUN hold/VERB their/DET arm/NOUN above/ADP their/DET head/NOUN then/ADV lean/VERB back/ADV on/ADP their/DET right/ADJ leg/NOUN#0.0#0.0

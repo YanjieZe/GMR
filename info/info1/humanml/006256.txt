@@ -1,0 +1,3 @@
+a person walks backwards and forwards#a/DET person/NOUN walk/VERB backwards/ADV and/CCONJ forwards/ADV#0.0#0.0
+person walks diagonally to the left, sets something down, turns around 180 degrees and walks the other direction#person/NOUN walk/VERB diagonally/ADV to/ADP the/DET left/NOUN set/VERB something/PRON down/ADP turn/VERB around/ADV degree/NOUN and/CCONJ walk/VERB the/DET other/ADJ direction/NOUN#0.0#0.0
+a person walks over and sets something down, then walks away.#a/DET person/NOUN walk/VERB over/ADP and/CCONJ set/VERB something/PRON down/ADP then/ADV walk/VERB away/ADV#0.0#0.0

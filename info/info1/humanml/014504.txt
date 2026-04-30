@@ -1,0 +1,3 @@
+a person walks in a semi-circular pattern, tip-toeing.#a/DET person/NOUN walk/VERB in/ADP a/DET semicircular/ADJ pattern/NOUN tiptoe/VERB#0.0#0.0
+a person slowly and carefully walks in a curved line.#a/DET person/NOUN slowly/ADV and/CCONJ carefully/ADV walk/VERB in/ADP a/DET curved/ADJ line/NOUN#0.0#0.0
+person looks to be walking with a purpose ( maybe exercise)  and doing so while rotating their hips. the person is then slowed down towards the end of the sequence#person/NOUN look/VERB to/PART be/AUX walk/VERB with/ADP a/DET purpose/NOUN maybe/ADV exercise/NOUN and/CCONJ do/VERB so/ADV while/SCONJ rotate/VERB their/DET hip/NOUN the/DET person/NOUN is/AUX then/ADV slow/VERB down/ADP towards/ADP the/DET end/NOUN of/ADP the/DET sequence/NOUN#0.0#0.0

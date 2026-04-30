@@ -1,0 +1,3 @@
+the man starts in a pose with both arms extend out to both sides.  he then moves both arms down to his side to a relaxed position.#the/DET man/NOUN start/VERB in/ADP a/DET pose/NOUN with/ADP both/DET arm/NOUN extend/VERB out/ADP to/ADP both/DET side/NOUN he/PRON then/ADV move/VERB both/DET arm/NOUN down/ADV to/ADP his/DET side/NOUN to/ADP a/DET relaxed/ADJ position/NOUN#0.0#0.0
+a person brings arms slowly down and bends hands inward.#a/DET person/NOUN bring/VERB arm/NOUN slowly/ADV down/ADP and/CCONJ bend/VERB hand/NOUN inward/ADV#0.0#0.0
+the person slowly drops his arms.#the/DET person/NOUN slowly/ADV drop/VERB his/DET arm/NOUN#0.0#0.0

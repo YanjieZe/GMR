@@ -1,0 +1,3 @@
+the person is walking forward slowly.#the/DET person/NOUN is/AUX walk/VERB forward/ADV slowly/ADV#0.0#0.0
+a person walks foward slowly while holding onto something with their arms for balance.#a/DET person/NOUN walk/VERB foward/ADJ slowly/ADV while/SCONJ hold/VERB onto/ADP something/PRON with/ADP their/DET arm/NOUN for/ADP balance/NOUN#0.0#0.0
+the person us walking and balancing on a rope and is holding another rope on each side of him.#the/DET person/NOUN us/PRON walk/VERB and/CCONJ balance/VERB on/ADP a/DET rope/NOUN and/CCONJ is/AUX hold/VERB another/DET rope/NOUN on/ADP each/DET side/NOUN of/ADP him/PRON#0.0#0.0

@@ -1,0 +1,3 @@
+the person is doing the shake of the shoulders.#the/DET person/NOUN is/AUX do/VERB the/DET shake/NOUN of/ADP the/DET shoulder/NOUN#0.0#0.0
+the man bends forward and shakes his shoulders.#the/DET man/NOUN bend/VERB forward/ADV and/CCONJ shake/VERB his/DET shoulder/NOUN#0.0#0.0
+person bends slightly and shakes their shoulders#person/NOUN bend/VERB slightly/ADV and/CCONJ shake/VERB their/DET shoulder/NOUN#0.0#0.0

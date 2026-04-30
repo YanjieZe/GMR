@@ -1,0 +1,3 @@
+stand and touch the legs.#stand/VERB and/CCONJ touch/VERB the/DET leg/NOUN#0.0#0.0
+the person standing relaxing and then puts his arms out to the side.#the/DET person/NOUN stand/VERB relax/VERB and/CCONJ then/ADV put/VERB his/DET arm/NOUN out/SCONJ to/ADP the/DET side/NOUN#0.0#0.0
+a person standing in a strong stance#a/DET person/NOUN stand/VERB in/ADP a/DET strong/ADJ stance/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks forward while looking around before turning about face at the end#a/DET person/NOUN walk/VERB forward/ADV while/SCONJ look/VERB around/ADV before/ADP turn/VERB about/ADP face/NOUN at/ADP the/DET end/NOUN#0.0#0.0
+continuously turn from side to side as he walks.#continuously/ADV turn/VERB from/ADP side/NOUN to/PART side/VERB as/SCONJ he/PRON walk/VERB#0.0#0.0
+the person is walking a cool walk.#the/DET person/NOUN is/AUX walk/VERB a/DET cool/ADJ walk/NOUN#0.0#0.0

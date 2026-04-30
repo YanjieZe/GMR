@@ -1,0 +1,3 @@
+a character raises their hands up to dance with somebody#a/DET character/NOUN raise/VERB their/DET hand/NOUN up/ADP to/PART dance/VERB with/ADP somebody/PRON#0.0#0.0
+the person is dancing the chacha#the/DET person/NOUN is/AUX dance/VERB the/DET chacha/NOUN#0.0#0.0
+a man holds his right arm bent in front of him and his left arm bent off to the side, and shuffles around forward, left, right, and forward again.#a/DET man/NOUN hold/VERB his/DET right/ADJ arm/NOUN bent/ADJ in/ADP front/NOUN of/ADP him/PRON and/CCONJ his/DET left/ADJ arm/NOUN bend/VERB off/ADP to/ADP the/DET side/NOUN and/CCONJ shuffle/VERB around/ADV forward/ADV left/ADJ right/INTJ and/CCONJ forward/ADV again/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks upstairs#a/DET person/NOUN walk/VERB upstairs/ADV#0.0#0.0
+a person walks up stairs.#a/DET person/NOUN walk/VERB up/ADP stair/NOUN#0.0#0.0
+a man walks up a flight of stairs.#a/DET man/NOUN walk/VERB up/ADP a/DET flight/NOUN of/ADP stair/NOUN#0.0#0.0

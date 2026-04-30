@@ -1,0 +1,3 @@
+walking in an uneven terrain.#walk/VERB in/ADP an/DET uneven/ADJ terrain/NOUN#0.0#0.0
+a person walks forward while stepping over something, then turns and walks back while stepping over something#a/DET person/NOUN walk/VERB forward/ADV while/SCONJ step/VERB over/ADP something/PRON then/ADV turn/VERB and/CCONJ walk/VERB back/ADV while/SCONJ step/VERB over/ADP something/PRON#0.0#0.0
+a man walks to the right and steps over an object.#a/DET man/NOUN walk/VERB to/ADP the/DET right/NOUN and/CCONJ step/NOUN over/ADP an/DET object/NOUN#0.0#3.0

@@ -1,0 +1,3 @@
+a person steps over a rope, jumps over the rope a few times, pauses to move the rope behind them, and then jumps rope some more.#a/DET person/NOUN step/VERB over/ADP a/DET rope/NOUN jump/VERB over/ADP the/DET rope/NOUN a/DET few/ADJ time/NOUN pause/VERB to/PART move/VERB the/DET rope/NOUN behind/ADP them/PRON and/CCONJ then/ADV jump/VERB rope/VERB some/DET more/ADV#0.0#0.0
+a person jumps up and down while flapping their arms.#a/DET person/NOUN jump/VERB up/ADV and/CCONJ down/ADV while/SCONJ flap/VERB their/DET arm/NOUN#0.0#0.0
+a person stayed on the place and after grabbed something and start jumping#a/DET person/NOUN stay/VERB on/ADP the/DET place/NOUN and/CCONJ after/ADP grab/VERB something/PRON and/CCONJ start/VERB jump/VERB#0.0#0.0

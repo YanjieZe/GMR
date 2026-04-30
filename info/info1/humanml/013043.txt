@@ -1,0 +1,3 @@
+a person jumps to the side horizontally back and forth.#a/DET person/NOUN jump/VERB to/ADP the/DET side/NOUN horizontally/ADV back/ADV and/CCONJ forth/ADV#0.0#0.0
+the sim is pacing from one side to the to the other several times.#the/DET sim/PROPN is/AUX pace/VERB from/ADP one/NUM side/NOUN to/ADP the/DET to/ADP the/DET other/ADJ several/ADJ time/NOUN#0.0#10.0
+a person jumps to the left and right multiple times.#a/DET person/NOUN jump/VERB to/ADP the/DET left/ADJ and/CCONJ right/ADJ multiple/ADJ time/NOUN#0.0#0.0

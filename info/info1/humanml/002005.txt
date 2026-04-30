@@ -1,0 +1,3 @@
+person walks forward picks up speed for a second and then slows back to walking speed.#person/NOUN walk/VERB forward/ADV pick/VERB up/ADP speed/NOUN for/ADP a/DET second/NOUN and/CCONJ then/ADV slow/VERB back/ADV to/ADP walk/VERB speed/NOUN#0.0#0.0
+a person walks forward and then is pushed causing them to walk faster, then they stop walking and stand in one place.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ then/ADV is/AUX push/VERB cause/VERB them/PRON to/PART walk/VERB faster/ADV then/ADV they/PRON stop/VERB walk/VERB and/CCONJ stand/VERB in/ADP one/NUM place/NOUN#0.0#0.0
+a person walks forward and comes to a stop.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ come/VERB to/ADP a/DET stop/NOUN#0.0#0.0

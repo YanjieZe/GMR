@@ -1,0 +1,3 @@
+a man walks forward in a half skip limbering himself before doing a strenuous activity.#a/DET man/NOUN walk/VERB forward/ADV in/ADP a/DET half/NOUN skip/NOUN limber/VERB himself/PRON before/ADP do/VERB a/DET strenuous/ADJ activity/NOUN#0.0#0.0
+person walks forward and does two bounces with both legs#person/NOUN walk/VERB forward/ADV and/CCONJ does/AUX two/NUM bounce/NOUN with/ADP both/DET leg/NOUN#0.0#0.0
+someone hopping forward, moving forward#someone/PRON hop/VERB forward/ADV move/VERB forward/ADV#0.0#0.0

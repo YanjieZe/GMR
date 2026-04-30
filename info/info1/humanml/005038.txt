@@ -1,0 +1,2 @@
+he runs over then stops#he/PRON run/VERB over/ADP then/ADV stop/VERB#0.0#0.0
+person runs and umps over something#person/NOUN run/VERB and/CCONJ ump/VERB over/ADP something/PRON#0.0#0.0

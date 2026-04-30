@@ -1,0 +1,3 @@
+a person walks side to side while raising and lowering both arms then puts hands on knees.#a/DET person/NOUN walk/VERB side/NOUN to/PART side/VERB while/SCONJ raise/VERB and/CCONJ lower/VERB both/DET arm/NOUN then/ADV put/VERB hand/NOUN on/ADP knee/NOUN#0.0#0.0
+a person laughs hysterically and throws their hands up as they move about. they cover their mouth with their hand.#a/DET person/NOUN laugh/VERB hysterically/ADV and/CCONJ throw/VERB their/DET hand/NOUN up/ADP as/SCONJ they/PRON move/VERB about/ADP they/PRON cover/VERB their/DET mouth/NOUN with/ADP their/DET hand/NOUN#0.0#0.0
+waving arms and pacing back and forth.#wave/VERB arm/NOUN and/CCONJ pace/VERB back/ADV and/CCONJ forth/ADV#0.0#0.0

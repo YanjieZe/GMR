@@ -1,0 +1,3 @@
+the person is sitting down.#the/DET person/NOUN is/AUX sit/VERB down/ADP#0.0#0.0
+a person is clapping and then walking forward and then sitting down comfortably#a/DET person/NOUN is/AUX clap/VERB and/CCONJ then/ADV walk/VERB forward/ADV and/CCONJ then/ADV sit/VERB down/ADP comfortably/ADV#0.0#0.0
+person puts arms out, claps, walks forward, then proceeds to sit down#person/NOUN put/VERB arm/NOUN out/SCONJ clap/NOUN walk/VERB forward/ADV then/ADV proceed/VERB to/PART sit/VERB down/ADP#0.0#0.0

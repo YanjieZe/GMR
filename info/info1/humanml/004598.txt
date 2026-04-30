@@ -1,0 +1,3 @@
+a man bends his left leg then kicks it out in the air.#a/DET man/NOUN bend/VERB his/DET left/ADJ leg/NOUN then/ADV kick/VERB it/PRON out/ADP in/ADP the/DET air/NOUN#0.0#0.0
+a man kicks up high with his left leg.#a/DET man/NOUN kick/VERB up/ADP high/ADV with/ADP his/DET left/ADJ leg/NOUN#0.0#0.0
+a person clasps their hands together and then kicks out in front of them with their left leg#a/DET person/NOUN clasp/VERB their/DET hand/NOUN together/ADV and/CCONJ then/ADV kick/VERB out/ADP in/ADP front/NOUN of/ADP them/PRON with/ADP their/DET left/ADJ leg/NOUN#0.0#0.0

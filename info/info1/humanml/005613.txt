@@ -1,0 +1,3 @@
+a person was touching their knees and then  lifted their arms up#a/DET person/NOUN was/AUX touch/VERB their/DET knee/NOUN and/CCONJ then/ADV lift/VERB their/DET arm/NOUN up/ADP#0.0#0.0
+this person puts his hands on his knees.#this/DET person/NOUN put/VERB his/DET hand/NOUN on/ADP his/DET knee/NOUN#0.0#0.0
+the man is sitting with his hands on his knees.#the/DET man/NOUN is/AUX sit/VERB with/ADP his/DET hand/NOUN on/ADP his/DET knee/NOUN#0.0#0.0

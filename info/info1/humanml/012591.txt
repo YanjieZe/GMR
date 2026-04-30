@@ -1,0 +1,3 @@
+he walks forward and upstairs#he/PRON walk/VERB forward/ADV and/CCONJ upstairs/ADV#0.0#0.0
+a person walks forward from one side to the other.#a/DET person/NOUN walk/VERB forward/ADV from/ADP one/NUM side/NOUN to/ADP the/DET other/ADJ#0.0#0.0
+a person is walking forward and up some stairs.#a/DET person/NOUN is/AUX walk/VERB forward/ADV and/CCONJ up/ADP some/DET stair/NOUN#0.0#0.0

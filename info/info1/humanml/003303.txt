@@ -1,0 +1,3 @@
+a person walks in one direction then stops, turns, and continues walking in a different direction.#a/DET person/NOUN walk/VERB in/ADP one/NUM direction/NOUN then/ADV stop/VERB turn/VERB and/CCONJ continue/VERB walk/VERB in/ADP a/DET different/ADJ direction/NOUN#0.0#0.0
+a person walks forward in a quarter circle then stop and turns to walk in a straight line.#a/DET person/NOUN walk/VERB forward/ADV in/ADP a/DET quarter/NOUN circle/NOUN then/ADV stop/VERB and/CCONJ turn/VERB to/PART walk/VERB in/ADP a/DET straight/ADJ line/NOUN#0.0#0.0
+someone walks in a curve to the right, pauses and looks around before walking away.#someone/PRON walk/VERB in/ADP a/DET curve/NOUN to/ADP the/DET right/NOUN pause/VERB and/CCONJ look/VERB around/ADP before/ADP walk/VERB away/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+the man steps forward and moves something on a table then steps back.#the/DET man/NOUN step/VERB forward/ADV and/CCONJ move/VERB something/PRON on/ADP a/DET table/NOUN then/ADV step/VERB back/ADV#0.0#0.0
+a person steps forward, picks up something with his right hand and moves it towards the left and sets it down.#a/DET person/NOUN step/VERB forward/ADV pick/VERB up/ADP something/PRON with/ADP his/DET right/ADJ hand/NOUN and/CCONJ move/VERB it/PRON towards/ADP the/DET left/NOUN and/CCONJ set/VERB it/PRON down/ADP#0.0#0.0
+a man walks up to something and moves it to one side.#a/DET man/NOUN walk/VERB up/ADP to/ADP something/PRON and/CCONJ move/VERB it/PRON to/ADP one/NUM side/NOUN#0.0#0.0

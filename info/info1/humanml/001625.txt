@@ -1,0 +1,3 @@
+a man crouches down on the ground.#a/DET man/NOUN crouch/VERB down/ADP on/ADP the/DET ground/NOUN#0.0#0.0
+a person crouches and has contact to the ground with both of their hands and feet only.#a/DET person/NOUN crouch/VERB and/CCONJ has/AUX contact/NOUN to/ADP the/DET ground/NOUN with/ADP both/DET of/ADP their/DET hand/NOUN and/CCONJ foot/NOUN only/ADV#0.0#0.0
+the figure squats down and places both hands on the ground#the/DET figure/NOUN squat/VERB down/ADP and/CCONJ place/VERB both/DET hand/NOUN on/ADP the/DET ground/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+someone is facing forward then slowly bends down and jumps 180 degrees.#someone/PRON is/AUX face/VERB forward/ADV then/ADV slowly/ADV bend/VERB down/ADP and/CCONJ jump/VERB degree/NOUN#0.0#0.0
+a person jumps in the air and spins 180 degrees while off the ground.#a/DET person/NOUN jump/VERB in/ADP the/DET air/NOUN and/CCONJ spin/VERB degree/NOUN while/SCONJ off/ADP the/DET ground/NOUN#0.0#0.0
+a man jumps and turns in the opposite direction.#a/DET man/NOUN jump/VERB and/CCONJ turn/VERB in/ADP the/DET opposite/ADJ direction/NOUN#0.0#0.0

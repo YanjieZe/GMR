@@ -1,0 +1,3 @@
+a person who is stretching#a/DET person/NOUN who/PRON is/AUX stretch/VERB#0.0#0.0
+a man stands completely still.#a/DET man/NOUN stand/VERB completely/ADV still/ADV#0.0#0.0
+a person standing in a t pose and then looking to their left and right#a/DET person/NOUN stand/VERB in/ADP a/DET t/NOUN pose/NOUN and/CCONJ then/ADV look/VERB to/ADP their/DET left/NOUN and/CCONJ right/ADJ#0.0#0.0

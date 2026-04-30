@@ -1,0 +1,3 @@
+a person is swinging around his arms.#a/DET person/NOUN is/AUX swinge/VERB around/ADP his/DET arm/NOUN#0.0#0.0
+stick figure is waving its arms in a motion like it is conducting an orchresta#stick/PROPN figure/NOUN is/AUX wave/VERB its/DET arm/NOUN in/ADP a/DET motion/NOUN like/SCONJ it/PRON is/AUX conduct/VERB an/DET orchresta/NOUN#0.0#3.0
+it looks like a person is conducting a band and then slaps something with his right hand at the end.#it/PRON look/VERB like/SCONJ a/DET person/NOUN is/AUX conduct/VERB a/DET band/NOUN and/CCONJ then/ADV slap/VERB something/PRON with/ADP his/DET right/ADJ hand/NOUN at/ADP the/DET end/NOUN#0.0#0.0

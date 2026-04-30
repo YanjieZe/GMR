@@ -1,0 +1,3 @@
+a person jumps straight up with both arms down.#a/DET person/NOUN jump/VERB straight/ADV up/ADV with/ADP both/DET arm/NOUN down/ADP#0.0#0.0
+a man jumps up and down.#a/DET man/NOUN jump/VERB up/ADV and/CCONJ down/ADV#0.0#0.0
+a person jumps up in the air.#a/DET person/NOUN jump/VERB up/ADP in/ADP the/DET air/NOUN#0.0#0.0

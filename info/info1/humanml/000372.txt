@@ -1,0 +1,3 @@
+a man rotates at the shoulders, then rolls his neck and finally rotates at his hips.#a/DET man/NOUN rotate/VERB at/ADP the/DET shoulder/NOUN then/ADV roll/VERB his/DET neck/NOUN and/CCONJ finally/ADV rotate/VERB at/ADP his/DET hip/NOUN#0.0#0.0
+person looks to be playing the saxophone then bows#person/NOUN look/VERB to/PART be/AUX play/VERB the/DET saxophone/NOUN then/ADV bow/VERB#0.0#0.0
+a person holds their hands by their stomach, moves back and forth, then moves their head and shoulders in a circle#a/DET person/NOUN hold/VERB their/DET hand/NOUN by/ADP their/DET stomach/NOUN move/VERB back/ADV and/CCONJ forth/ADV then/ADV move/VERB their/DET head/NOUN and/CCONJ shoulder/NOUN in/ADP a/DET circle/NOUN#0.0#0.0

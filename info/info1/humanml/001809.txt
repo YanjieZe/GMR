@@ -1,0 +1,3 @@
+a person runs, does an action roll, then starts to run again.#a/DET person/NOUN run/VERB does/AUX an/DET action/NOUN roll/NOUN then/ADV start/VERB to/PART run/VERB again/ADV#0.0#0.0
+a person leaping into a roll similar to a somersault, then taking off quickly after regaining stance.#a/DET person/NOUN leap/VERB into/ADP a/DET roll/NOUN similar/ADJ to/ADP a/DET somersault/NOUN then/ADV take/VERB off/ADP quickly/ADV after/ADP regain/VERB stance/NOUN#0.0#0.0
+a person rolls forward at pace.#a/DET person/NOUN roll/VERB forward/ADV at/ADP pace/NOUN#0.0#0.0

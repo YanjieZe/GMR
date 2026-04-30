@@ -1,0 +1,3 @@
+person was doing karate kicks to the left and then did it to the right as well.#person/NOUN was/AUX do/VERB karate/NOUN kick/VERB to/ADP the/DET left/NOUN and/CCONJ then/ADV did/AUX it/PRON to/ADP the/DET right/NOUN as/ADV well/ADV#0.0#0.0
+person is kicking with his left foot and right foot while both arms remain mostly bent#person/NOUN is/AUX kick/VERB with/ADP his/DET left/ADJ foot/NOUN and/CCONJ right/ADJ foot/NOUN while/SCONJ both/DET arm/NOUN remain/VERB mostly/ADV bent/ADJ#0.0#0.0
+someone who is kickboxing or excercising.#someone/PRON who/PRON is/AUX kickboxe/VERB or/CCONJ excercise/VERB#0.0#0.0

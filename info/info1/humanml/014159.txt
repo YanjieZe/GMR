@@ -1,0 +1,3 @@
+the person jogs on the treadmill#the/DET person/NOUN jog/VERB on/ADP the/DET treadmill/NOUN#0.0#0.0
+person is running on treadmil#person/NOUN is/AUX run/VERB on/ADP treadmil/NOUN#0.0#0.0
+a person is jogging normally#a/DET person/NOUN is/AUX jog/VERB normally/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a man raises his  hands to his chest, claps them together, then lowers them back to his sides.#a/DET man/NOUN raise/VERB his/DET hand/NOUN to/ADP his/DET chest/NOUN clap/VERB them/PRON together/ADV then/ADV lower/VERB them/PRON back/ADV to/ADP his/DET side/NOUN#0.0#0.0
+person is clapping their hands.#person/NOUN is/AUX clap/VERB their/DET hand/NOUN#0.0#0.0
+a person claps his hands.#a/DET person/NOUN clap/VERB his/DET hand/NOUN#0.0#0.0

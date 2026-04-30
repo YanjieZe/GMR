@@ -1,0 +1,3 @@
+a person is standing upright, while walking slowly forward and slightly to their left.#a/DET person/NOUN is/AUX stand/VERB upright/ADV while/SCONJ walk/VERB slowly/ADV forward/ADV and/CCONJ slightly/ADV to/ADP their/DET left/NOUN#0.0#0.0
+the person as walking slowly forward#the/DET person/NOUN as/SCONJ walk/VERB slowly/ADV forward/ADV#0.0#0.0
+person moves forward five paces#person/NOUN move/VERB forward/ADV five/NUM pace/NOUN#0.0#0.0

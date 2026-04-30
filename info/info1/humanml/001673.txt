@@ -1,0 +1,3 @@
+a person dances in a waltz.#a/DET person/NOUN dance/VERB in/ADP a/DET waltz/NOUN#0.0#0.0
+a person is dancing and move around in a circle.#a/DET person/NOUN is/AUX dance/VERB and/CCONJ move/VERB around/ADV in/ADP a/DET circle/NOUN#0.0#0.0
+a person dances with a partner around in a small square counter clockwise, then increases the size of the square while rotating the body in a clockwise direction.#a/DET person/NOUN dance/VERB with/ADP a/DET partner/NOUN around/ADV in/ADP a/DET small/ADJ square/ADJ counter/NOUN clockwise/NOUN then/ADV increase/VERB the/DET size/NOUN of/ADP the/DET square/NOUN while/SCONJ rotate/VERB the/DET body/NOUN in/ADP a/DET clockwise/ADJ direction/NOUN#0.0#0.0

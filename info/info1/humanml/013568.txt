@@ -1,0 +1,3 @@
+a person jumps repeatedly, waving their hands in circles.#a/DET person/NOUN jump/VERB repeatedly/ADV wave/VERB their/DET hand/NOUN in/ADP circle/NOUN#0.0#0.0
+a person is jumping up repeatedly.#a/DET person/NOUN is/AUX jump/VERB up/ADP repeatedly/ADV#0.0#0.0
+a person is playing jumprope.#a/DET person/NOUN is/AUX play/VERB jumprope/PROPN#0.0#0.0

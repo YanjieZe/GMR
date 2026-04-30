@@ -1,0 +1,3 @@
+a person lifts a group of objects moving from right to left and then from left to right on a lower shelf.#a/DET person/NOUN lift/VERB a/DET group/NOUN of/ADP object/NOUN move/VERB from/ADP right/ADV to/ADP left/VERB and/CCONJ then/ADV from/ADP left/NOUN to/ADP right/ADV on/ADP a/DET lower/ADJ shelf/NOUN#0.0#0.0
+a person is grabbing things in front of him with his left hand, and then bends and grabs things from a lower level.#a/DET person/NOUN is/AUX grab/VERB thing/NOUN in/ADP front/NOUN of/ADP him/PRON with/ADP his/DET left/ADJ hand/NOUN and/CCONJ then/ADV bend/VERB and/CCONJ grab/NOUN thing/NOUN from/ADP a/DET lower/ADJ level/NOUN#0.0#0.0
+moving arms in and out and up and down.#move/VERB arm/NOUN in/ADP and/CCONJ out/ADV and/CCONJ up/ADV and/CCONJ down/ADV#0.0#0.0

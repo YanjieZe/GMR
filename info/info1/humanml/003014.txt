@@ -1,0 +1,3 @@
+the person has pulled his left arm up towards his head.#the/DET person/NOUN has/AUX pull/VERB his/DET left/ADJ arm/NOUN up/ADP towards/ADP his/DET head/NOUN#0.0#0.0
+a person waves with his left arm.#a/DET person/NOUN wave/VERB with/ADP his/DET left/ADJ arm/NOUN#0.0#0.0
+the stick figure pretends to lift weights woth his left hand.#the/DET stick/NOUN figure/NOUN pretend/NOUN to/PART lift/VERB weight/NOUN woth/ADJ his/DET left/ADJ hand/NOUN#0.0#0.0

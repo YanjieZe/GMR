@@ -1,0 +1,3 @@
+a person holding something/ someone in front of them.#a/DET person/NOUN hold/VERB someone/PRON in/ADP front/NOUN of/ADP them/PRON#0.0#0.0
+someone is putting their hands on their head and looking frustrated#someone/PRON is/AUX put/VERB their/DET hand/NOUN on/ADP their/DET head/NOUN and/CCONJ look/VERB frustrated/ADJ#0.0#0.0
+person raises arms to chin and motions#person/NOUN raise/VERB arm/NOUN to/PART chin/NOUN and/CCONJ motion/NOUN#0.0#0.0

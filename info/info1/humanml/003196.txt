@@ -1,0 +1,3 @@
+someone sprints forward quickly before skidding to a halt.#someone/PRON sprint/VERB forward/ADV quickly/ADV before/ADP skid/VERB to/ADP a/DET halt/NOUN#0.0#0.0
+a person runs quickly forward and then stops.#a/DET person/NOUN run/VERB quickly/ADV forward/ADV and/CCONJ then/ADV stop/VERB#0.0#0.0
+a person uses their legs to sprint forward diagonally.#a/DET person/NOUN use/VERB their/DET leg/NOUN to/ADP sprint/VERB forward/ADV diagonally/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person tilts cautiously to the side then walks forward.#a/DET person/NOUN tilt/VERB cautiously/ADV to/ADP the/DET side/NOUN then/ADV walk/VERB forward/ADV#0.0#0.0
+a person leans to the right and walks forward.#a/DET person/NOUN lean/VERB to/ADP the/DET right/NOUN and/CCONJ walk/VERB forward/ADV#0.0#0.0
+a person walks forward with slight body lean to the right.#a/DET person/NOUN walk/VERB forward/ADV with/ADP slight/ADJ body/NOUN lean/ADJ to/ADP the/DET right/NOUN#0.0#0.0

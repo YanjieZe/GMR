@@ -1,0 +1,3 @@
+a person picks something up with both hands, places it on their head and fastens it down.#a/DET person/NOUN pick/VERB something/PRON up/ADP with/ADP both/DET hand/NOUN place/VERB it/PRON on/ADP their/DET head/NOUN and/CCONJ fasten/VERB it/PRON down/ADP#0.0#0.0
+a person grabs a hat to his right with both hands, places it on his head, and adjusts it with both hands.#a/DET person/NOUN grab/VERB a/DET hat/NOUN to/ADP his/DET right/NOUN with/ADP both/DET hand/NOUN place/VERB it/PRON on/ADP his/DET head/NOUN and/CCONJ adjust/VERB it/PRON with/ADP both/DET hand/NOUN#0.0#0.0
+a person picks something up and puts it on their head.#a/DET person/NOUN pick/VERB something/PRON up/ADP and/CCONJ put/VERB it/PRON on/ADP their/DET head/NOUN#0.0#0.0

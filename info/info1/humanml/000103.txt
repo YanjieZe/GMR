@@ -1,0 +1,3 @@
+someone is folding their arms#someone/PRON is/AUX fold/VERB their/DET arm/NOUN#0.0#0.0
+person has their arms crossed on their chest#person/NOUN has/AUX their/DET arm/NOUN cross/VERB on/ADP their/DET chest/NOUN#0.0#0.0
+a person crosses their arms and places their hands on their shoulders then places their hands by their side.#a/DET person/NOUN cross/VERB their/DET arm/NOUN and/CCONJ place/VERB their/DET hand/NOUN on/ADP their/DET shoulder/NOUN then/ADV place/VERB their/DET hand/NOUN by/ADP their/DET side/NOUN#0.0#0.0

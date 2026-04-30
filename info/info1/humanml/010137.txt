@@ -1,0 +1,3 @@
+a man takes one step to the left.#a/DET man/NOUN take/VERB one/NUM step/NOUN to/ADP the/DET left/NOUN#0.0#0.0
+takes big side step to the right.#take/VERB big/ADJ side/NOUN step/NOUN to/ADP the/DET right/NOUN#0.0#0.0
+someone with their arms to their side walks one step front-right before stopping.#someone/PRON with/ADP their/DET arm/NOUN to/ADP their/DET side/NOUN walk/VERB one/NUM step/NOUN frontright/NOUN before/ADP stop/VERB#0.0#0.0

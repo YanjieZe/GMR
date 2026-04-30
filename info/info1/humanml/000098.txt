@@ -1,0 +1,3 @@
+a man walks casually and relaxed in a clockwise circle.#a/DET man/NOUN walk/VERB casually/ADV and/CCONJ relax/VERB in/ADP a/DET clockwise/ADJ circle/NOUN#0.0#0.0
+a man walks clock wise.#a/DET man/NOUN walk/VERB clock/NOUN wise/ADJ#0.0#0.0
+person walks casually and not fast in a circle.#person/NOUN walk/VERB casually/ADV and/CCONJ not/PART fast/VERB in/ADP a/DET circle/NOUN#0.0#0.0

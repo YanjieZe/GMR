@@ -1,0 +1,3 @@
+a person steps forward briskly, then makes robotic movements with both arms.#a/DET person/NOUN step/VERB forward/ADV briskly/ADV then/ADV make/VERB robotic/ADJ movement/NOUN with/ADP both/DET arm/NOUN#0.0#0.0
+person walks forward and then bends their elbows a few times.#person/NOUN walk/VERB forward/ADV and/CCONJ then/ADV bend/VERB their/DET elbow/NOUN a/DET few/ADJ time/NOUN#0.0#0.0
+a person walks forward and moves his arms to chest height#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ move/VERB his/DET arm/NOUN to/ADP chest/NOUN height/NOUN#0.0#0.0

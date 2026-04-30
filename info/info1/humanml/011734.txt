@@ -1,0 +1,3 @@
+a person stands very still#a/DET person/NOUN stand/VERB very/ADV still/ADV#0.0#0.0
+a person holds his arms at his sides for several seconds, then moves his head and arms very slightly.#a/DET person/NOUN hold/VERB his/DET arm/NOUN at/ADP his/DET side/NOUN for/ADP several/ADJ second/NOUN then/ADV move/VERB his/DET head/NOUN and/CCONJ arm/NOUN very/ADV slightly/ADV#0.0#0.0
+a standing still person gets tapped on their left shoulder causing then to lean back#a/DET standing/NOUN still/ADV person/NOUN get/VERB tap/VERB on/ADP their/DET left/ADJ shoulder/NOUN cause/VERB then/ADV to/PART lean/VERB back/ADV#0.0#0.0

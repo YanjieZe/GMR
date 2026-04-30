@@ -1,0 +1,3 @@
+the person is happy while dancing with the baby#the/DET person/NOUN is/AUX happy/ADJ while/SCONJ dance/VERB with/ADP the/DET baby/NOUN#0.0#0.0
+person is shaking in an excited way#person/NOUN is/AUX shake/VERB in/ADP an/DET excited/ADJ way/NOUN#0.0#0.0
+a person slightly bounces left and right while holding their hands together in front of them.#a/DET person/NOUN slightly/ADV bounce/VERB left/VERB and/CCONJ right/ADV while/SCONJ hold/VERB their/DET hand/NOUN together/ADV in/ADP front/NOUN of/ADP them/PRON#0.0#0.0

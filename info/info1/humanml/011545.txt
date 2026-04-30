@@ -1,0 +1,3 @@
+walking backwards and forwards in a sporadic circular motion#walk/VERB backwards/ADV and/CCONJ forwards/ADV in/ADP a/DET sporadic/ADJ circular/ADJ motion/NOUN#0.0#0.0
+the man is doing a dance step.#the/DET man/NOUN is/AUX do/VERB a/DET dance/NOUN step/NOUN#0.0#0.0
+a person walks backwards in a clockwise circle then walks forward in a counter-clockwise circle twice.#a/DET person/NOUN walk/VERB backwards/ADV in/ADP a/DET clockwise/NOUN circle/NOUN then/ADV walk/VERB forward/ADV in/ADP a/DET counterclockwise/PROPN circle/NOUN twice/ADV#0.0#0.0

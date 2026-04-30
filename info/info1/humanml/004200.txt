@@ -1,0 +1,3 @@
+a person slowly gets down on their knees and puts their hands up, down, up, then down again.#a/DET person/NOUN slowly/ADV get/VERB down/ADP on/ADP their/DET knee/NOUN and/CCONJ put/VERB their/DET hand/NOUN up/ADP down/ADV up/ADV then/ADV down/ADV again/ADV#0.0#0.0
+someone gets on their knees and says stop whit their hands#someone/PRON get/VERB on/ADP their/DET knee/NOUN and/CCONJ say/VERB stop/VERB whit/PROPN their/DET hand/NOUN#0.0#0.0
+person goes onto knees and raises hands outwards to shoulder height twice then stays on knees#person/NOUN go/VERB onto/ADP knee/NOUN and/CCONJ raise/VERB hand/NOUN outward/NOUN to/PART shoulder/VERB height/NOUN twice/ADV then/ADV stay/VERB on/ADP knee/NOUN#0.0#0.0

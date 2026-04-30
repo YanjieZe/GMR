@@ -1,0 +1,3 @@
+this person is seated and appears to drink something.#this/DET person/NOUN is/AUX seat/VERB and/CCONJ appear/VERB to/PART drink/VERB something/PRON#0.0#0.0
+a person is eating something with his right hand.#a/DET person/NOUN is/AUX eat/VERB something/PRON with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+a person is sitting down eating something with their hands.#a/DET person/NOUN is/AUX sit/VERB down/ADP eat/VERB something/PRON with/ADP their/DET hand/NOUN#0.0#0.0

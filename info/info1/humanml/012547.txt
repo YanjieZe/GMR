@@ -1,0 +1,3 @@
+a person stands up while doing an opera clap#a/DET person/NOUN stand/VERB up/ADP while/SCONJ do/VERB an/DET opera/NOUN clap/NOUN#0.0#0.0
+person brings both hands together chest height and rocks body side to side#person/NOUN bring/VERB both/DET hand/NOUN together/ADV chest/VERB height/NOUN and/CCONJ rock/VERB body/NOUN side/NOUN to/PART side/VERB#0.0#0.0
+a figure leans from his left foot to right, extending his arms horizontally as if swinging a golf club#a/DET figure/NOUN lean/VERB from/ADP his/DET left/ADJ foot/NOUN to/ADP right/NOUN extend/VERB his/DET arm/NOUN horizontally/ADV as/SCONJ if/SCONJ swinge/VERB a/DET golf/NOUN club/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+someone crouches down and moves their feet#someone/PRON crouch/VERB down/ADP and/CCONJ move/VERB their/DET foot/NOUN#0.0#0.0
+a person slightly squats down.#a/DET person/NOUN slightly/ADV squat/VERB down/ADP#0.0#0.0
+a man crouches with his left leg in front of him.#a/DET man/NOUN crouch/VERB with/ADP his/DET left/ADJ leg/NOUN in/ADP front/NOUN of/ADP him/PRON#0.0#0.0

@@ -1,0 +1,3 @@
+a person has both arms in the air and drops them.#a/DET person/NOUN has/AUX both/DET arm/NOUN in/ADP the/DET air/NOUN and/CCONJ drop/VERB them/PRON#0.0#0.0
+the sim has both hands extended upward before bring them down in a "bow" like fashion, eventually leaving their right hand in front of the left.#the/DET sim/PROPN has/AUX both/DET hand/NOUN extend/VERB upward/ADV before/ADV bring/VERB them/PRON down/ADP in/ADP a/DET bow/NOUN like/SCONJ fashion/NOUN eventually/ADV leave/VERB their/DET right/ADJ hand/NOUN in/ADP front/NOUN of/ADP the/DET left/NOUN#0.0#10.0
+a person flexes down his right arm, pointing out the shoulder.#a/DET person/NOUN flex/VERB down/ADP his/DET right/ADJ arm/NOUN point/VERB out/ADP the/DET shoulder/NOUN#0.0#0.0

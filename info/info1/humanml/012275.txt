@@ -1,0 +1,3 @@
+turning body from side to side.#turn/VERB body/NOUN from/ADP side/NOUN to/ADP side/NOUN#0.0#0.0
+person is standing, leans on left foot to look over right shoulder. then steps to right foot and looks over left shoulder.#person/NOUN is/AUX stand/VERB lean/NOUN on/ADP left/ADJ foot/NOUN to/PART look/VERB over/ADP right/ADJ shoulder/NOUN then/ADV step/VERB to/ADP right/ADJ foot/NOUN and/CCONJ look/VERB over/ADP left/ADJ shoulder/NOUN#0.0#0.0
+a person turns in both directions while looking around them on both sides.#a/DET person/NOUN turn/VERB in/ADP both/DET direction/NOUN while/SCONJ look/VERB around/ADP them/PRON on/ADP both/DET side/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person sits down with both hands on his knees.#a/DET person/NOUN sit/VERB down/ADP with/ADP both/DET hand/NOUN on/ADP his/DET knee/NOUN#0.0#0.0
+a person sits down in a chair and looks around.#a/DET person/NOUN sit/VERB down/ADP in/ADP a/DET chair/NOUN and/CCONJ look/VERB around/ADV#0.0#0.0
+a person sits down with their hands on their knees.#a/DET person/NOUN sit/VERB down/ADP with/ADP their/DET hand/NOUN on/ADP their/DET knee/NOUN#0.0#0.0

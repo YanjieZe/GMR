@@ -1,0 +1,3 @@
+person is walking back and forth.#person/NOUN is/AUX walk/VERB back/ADV and/CCONJ forth/ADV#0.0#0.0
+a person jogging side to side.#a/DET person/NOUN jog/VERB side/NOUN to/ADP side/VERB#0.0#0.0
+a person run to the right and then run to the left and return to stand in the middle.#a/DET person/NOUN run/VERB to/ADP the/DET right/NOUN and/CCONJ then/ADV run/VERB to/ADP the/DET left/NOUN and/CCONJ return/VERB to/PART stand/VERB in/ADP the/DET middle/NOUN#0.0#0.0

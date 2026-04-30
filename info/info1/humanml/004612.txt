@@ -1,0 +1,3 @@
+a unsure person walking forward in no hurry at all.#a/DET unsure/ADJ person/NOUN walk/VERB forward/ADV in/ADP no/DET hurry/NOUN at/ADV all/ADV#0.0#0.0
+person is taking a walk down.#person/NOUN is/AUX take/VERB a/DET walk/NOUN down/ADV#0.0#0.0
+the person walks forward slowly and then turns around#the/DET person/NOUN walk/VERB forward/ADV slowly/ADV and/CCONJ then/ADV turn/VERB around/ADV#0.0#0.0

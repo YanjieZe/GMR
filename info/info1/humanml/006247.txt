@@ -1,0 +1,3 @@
+a person sits down on the ground briefly cross legged and then begins to stand up.#a/DET person/NOUN sit/VERB down/ADP on/ADP the/DET ground/NOUN briefly/ADV cross/VERB legged/ADJ and/CCONJ then/ADV begin/VERB to/PART stand/VERB up/ADP#0.0#0.0
+a person sits on the ground and crosses his legs. then gets ready to get up.#a/DET person/NOUN sit/VERB on/ADP the/DET ground/NOUN and/CCONJ cross/VERB his/DET leg/NOUN then/ADV get/VERB ready/ADJ to/PART get/AUX up/ADP#0.0#0.0
+he takes a big sit down#he/PRON take/VERB a/DET big/ADJ sit/NOUN down/ADP#0.0#0.0

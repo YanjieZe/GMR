@@ -1,0 +1,3 @@
+a person walks forward and back while holding an object near their face.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ back/ADV while/SCONJ hold/VERB an/DET object/NOUN near/SCONJ their/DET face/NOUN#0.0#0.0
+a person holds a phone to their right ear and take a few steps forward and then back.#a/DET person/NOUN hold/VERB a/DET phone/NOUN to/ADP their/DET right/ADJ ear/NOUN and/CCONJ take/VERB a/DET few/ADJ step/NOUN forward/ADV and/CCONJ then/ADV back/ADV#0.0#0.0
+a person hold their phone in their right hand and talks while walking forward and backward slowly.#a/DET person/NOUN hold/VERB their/DET phone/NOUN in/ADP their/DET right/ADJ hand/NOUN and/CCONJ talk/NOUN while/SCONJ walk/VERB forward/ADV and/CCONJ backward/ADV slowly/ADV#0.0#0.0

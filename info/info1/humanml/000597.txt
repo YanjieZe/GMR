@@ -1,0 +1,3 @@
+the person is widewalking.#the/DET person/NOUN is/AUX widewalke/VERB#0.0#0.0
+a person walks with both legs spread out.#a/DET person/NOUN walk/VERB with/ADP both/DET leg/NOUN spread/VERB out/ADP#0.0#0.0
+the person walks forward with their legs apart then turns around#the/DET person/NOUN walk/VERB forward/ADV with/ADP their/DET leg/NOUN apart/ADV then/ADV turn/VERB around/ADV#0.0#0.0

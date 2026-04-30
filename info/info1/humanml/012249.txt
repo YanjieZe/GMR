@@ -1,0 +1,3 @@
+a person looks beside them then sits down in a chair, they then sit back up.#a/DET person/NOUN look/VERB beside/ADP them/PRON then/ADV sit/VERB down/ADP in/ADP a/DET chair/NOUN they/PRON then/ADV sit/VERB back/ADV up/ADV#0.0#0.0
+a person sits down on something behind them, and then stands up.#a/DET person/NOUN sit/VERB down/ADP on/ADP something/PRON behind/ADP them/PRON and/CCONJ then/ADV stand/VERB up/ADP#0.0#0.0
+a man takes a step back, then sits down on something, before standing back up.#a/DET man/NOUN take/VERB a/DET step/NOUN back/ADV then/ADV sit/VERB down/ADP on/ADP something/PRON before/ADP stand/VERB back/ADV up/ADV#0.0#0.0

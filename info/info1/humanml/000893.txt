@@ -1,0 +1,3 @@
+a man walks forward full length and then goes into a amateur salsa dance routine walking backwards half-length; finishing with a 360 degree rotation#a/DET man/NOUN walk/VERB forward/ADV full/ADJ length/NOUN and/CCONJ then/ADV go/VERB into/ADP a/DET amateur/ADJ salsa/NOUN dance/NOUN routine/NOUN walking/NOUN backwards/ADP halflength/NOUN finish/VERB with/ADP a/DET degree/NOUN rotation/NOUN#0.0#0.0
+a person walks up and starts salsa dancing.#a/DET person/NOUN walk/VERB up/ADP and/CCONJ start/VERB salsa/NOUN dancing/NOUN#0.0#0.0
+a man slowly walks forward then proceeds to dance in a circle.#a/DET man/NOUN slowly/ADV walk/VERB forward/ADV then/ADV proceed/VERB to/ADP dance/NOUN in/ADP a/DET circle/NOUN#0.0#0.0

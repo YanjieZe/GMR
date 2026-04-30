@@ -1,0 +1,3 @@
+bending forward twice while standing.#bend/VERB forward/ADV twice/ADV while/SCONJ stand/VERB#0.0#0.0
+a person bows 2 times.#a/DET person/NOUN bow/VERB time/NOUN#0.0#0.0
+a person bows with their upper body and head twice, with the arms staying to the side and the legs staying in place. the second bow is longer.#a/DET person/NOUN bow/VERB with/ADP their/DET upper/ADJ body/NOUN and/CCONJ head/VERB twice/ADV with/ADP the/DET arm/NOUN stay/VERB to/ADP the/DET side/NOUN and/CCONJ the/DET leg/NOUN stay/VERB in/ADP place/NOUN the/DET second/ADJ bow/NOUN is/AUX longer/ADJ#0.0#0.0

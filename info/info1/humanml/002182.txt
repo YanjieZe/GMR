@@ -1,0 +1,3 @@
+a person stands still with both arms raised then lowers arms and waving off with his right arm.#a/DET person/NOUN stand/VERB still/ADV with/ADP both/DET arm/NOUN raise/VERB then/ADV lower/VERB arm/NOUN and/CCONJ wave/VERB off/ADP with/ADP his/DET right/ADJ arm/NOUN#0.0#0.0
+the person has both arms up and starts moving his right hand.#the/DET person/NOUN has/AUX both/DET arm/NOUN up/ADP and/CCONJ start/VERB move/VERB his/DET right/ADJ hand/NOUN#0.0#0.0
+the person places their arms down and acts as if they are cleaning something with a rag.#the/DET person/NOUN place/VERB their/DET arm/NOUN down/ADP and/CCONJ act/VERB as/SCONJ if/SCONJ they/PRON are/AUX clean/VERB something/PRON with/ADP a/DET rag/NOUN#0.0#0.0

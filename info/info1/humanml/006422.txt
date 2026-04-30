@@ -1,0 +1,3 @@
+man waves with his left hand while shifting weight to right foot.#man/NOUN wave/NOUN with/ADP his/DET left/ADJ hand/NOUN while/SCONJ shift/VERB weight/NOUN to/ADP right/ADJ foot/NOUN#0.0#0.0
+a person waves to someone with their right hand.#a/DET person/NOUN wave/VERB to/ADP someone/PRON with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+a person stands still and waves with their right hand#a/DET person/NOUN stand/VERB still/ADV and/CCONJ wave/NOUN with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0

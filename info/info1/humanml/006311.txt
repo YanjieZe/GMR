@@ -1,0 +1,3 @@
+person casually walks forward, right hand moving with left leg and left hand moving with right leg.#person/NOUN casually/ADV walk/VERB forward/ADV right/ADJ hand/NOUN move/VERB with/ADP left/ADJ leg/NOUN and/CCONJ left/VERB hand/NOUN move/VERB with/ADP right/ADJ leg/NOUN#0.0#0.0
+the man is doing a normal walk#the/DET man/NOUN is/AUX do/VERB a/DET normal/ADJ walk/NOUN#0.0#0.0
+a person taking steps forward.#a/DET person/NOUN take/VERB step/NOUN forward/ADV#0.0#0.0

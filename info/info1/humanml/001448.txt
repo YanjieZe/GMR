@@ -1,0 +1,3 @@
+the figure steps forward then turns slightly right and proceeds to walk in that direction.#the/DET figure/NOUN step/VERB forward/ADV then/ADV turn/VERB slightly/ADV right/ADJ and/CCONJ proceed/VERB to/PART walk/VERB in/ADP that/DET direction/NOUN#0.0#0.0
+a person walks in a right bend direction.#a/DET person/NOUN walk/VERB in/ADP a/DET right/ADJ bend/NOUN direction/NOUN#0.0#0.0
+a person walks toward a right-branch in a smooth curve and stops while both arms swing very slightly.#a/DET person/NOUN walk/VERB toward/ADP a/DET rightbranch/NOUN in/ADP a/DET smooth/ADJ curve/NOUN and/CCONJ stop/NOUN while/SCONJ both/DET arm/NOUN swing/VERB very/ADV slightly/ADV#0.0#0.0

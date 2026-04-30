@@ -1,0 +1,3 @@
+a person uses both hands to throw an object.#a/DET person/NOUN use/VERB both/DET hand/NOUN to/PART throw/VERB an/DET object/NOUN#0.0#0.0
+a person raises both arms and performs a throwing motion from the right shoulder.#a/DET person/NOUN raise/VERB both/DET arm/NOUN and/CCONJ perform/VERB a/DET throw/VERB motion/NOUN from/ADP the/DET right/ADJ shoulder/NOUN#0.0#0.0
+the person threw a ball and then caught the ball.#the/DET person/NOUN throw/VERB a/DET ball/NOUN and/CCONJ then/ADV catch/VERB the/DET ball/NOUN#0.0#0.0

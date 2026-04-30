@@ -1,0 +1,3 @@
+someone is dancing by kicking their legs foward and stepping back. they are also moving their arms back and forth.#someone/PRON is/AUX dance/VERB by/ADP kick/VERB their/DET leg/NOUN foward/ADJ and/CCONJ step/VERB back/ADP they/PRON are/AUX also/ADV move/VERB their/DET arm/NOUN back/ADV and/CCONJ forth/ADV#0.0#10.0
+a person dances around in a small space#a/DET person/NOUN dance/VERB around/ADP in/ADP a/DET small/ADJ space/NOUN#0.0#0.0
+a person breaks into an enthusiastic dance.#a/DET person/NOUN break/VERB into/ADP an/DET enthusiastic/ADJ dance/NOUN#0.0#0.0

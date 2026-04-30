@@ -1,0 +1,3 @@
+the person is walking towards the right.#the/DET person/NOUN is/AUX walk/VERB towards/ADP the/DET right/NOUN#0.0#0.0
+a person carefully walks around#a/DET person/NOUN carefully/ADV walk/VERB around/ADV#0.0#0.0
+a person shuffles to their right, turns clockwise and shuffles back to the beginning position.#a/DET person/NOUN shuffle/VERB to/ADP their/DET right/NOUN turn/VERB clockwise/NOUN and/CCONJ shuffle/VERB back/ADV to/ADP the/DET beginning/NOUN position/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person cracks his neck by placing his hand on his chin#a/DET person/NOUN crack/VERB his/DET neck/NOUN by/ADP place/VERB his/DET hand/NOUN on/ADP his/DET chin/NOUN#0.0#0.0
+he has a toothache it hurts#he/PRON has/AUX a/DET toothache/NOUN it/PRON hurt/VERB#0.0#0.0
+the man holds his jaw in pain with one hand then the other.#the/DET man/NOUN hold/VERB his/DET jaw/NOUN in/ADP pain/NOUN with/ADP one/NUM hand/NOUN then/ADV the/DET other/ADJ#0.0#0.0

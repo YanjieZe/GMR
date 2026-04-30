@@ -1,0 +1,3 @@
+a person backs into something and hurts their back.#a/DET person/NOUN back/VERB into/ADP something/PRON and/CCONJ hurt/VERB their/DET back/NOUN#0.0#0.0
+arms out forward walking confused, walks back and bumps with the body's back and walks forward.#arm/NOUN out/ADV forward/ADV walk/VERB confused/ADJ walk/VERB back/ADV and/CCONJ bump/NOUN with/ADP the/DET body/NOUN back/NOUN and/CCONJ walk/VERB forward/ADV#0.0#0.0
+walks forward than backs up into something abruptly#walk/VERB forward/ADV than/SCONJ back/VERB up/ADP into/ADP something/PRON abruptly/ADV#0.0#0.0

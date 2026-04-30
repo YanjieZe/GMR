@@ -1,0 +1,3 @@
+a figure walks forward in a zig zag pattern, stepping over something along the way#a/DET figure/NOUN walk/VERB forward/ADV in/ADP a/DET zig/X zag/X pattern/NOUN step/VERB over/ADP something/PRON along/ADP the/DET way/NOUN#0.0#0.0
+a man walks slowly forward, taking wide steps, before coming to a standing position.#a/DET man/NOUN walk/VERB slowly/ADV forward/ADV take/VERB wide/ADJ step/NOUN before/ADP come/VERB to/ADP a/DET standing/ADJ position/NOUN#0.0#0.0
+the person is walking back-and-forth in a zigzag.#the/DET person/NOUN is/AUX walk/VERB backandforth/ADJ in/ADP a/DET zigzag/NOUN#0.0#0.0

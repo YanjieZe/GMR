@@ -1,0 +1,3 @@
+a person moves his right hand in the air.#a/DET person/NOUN move/VERB his/DET right/ADJ hand/NOUN in/ADP the/DET air/NOUN#0.0#0.0
+the person is stretching and moving.#the/DET person/NOUN is/AUX stretch/VERB and/CCONJ move/VERB#0.0#0.0
+a person had his hands out of the side then he took his right hand and move something in front of him in a triangle and then his left hand in a triangle.#a/DET person/NOUN had/AUX his/DET hand/NOUN out/SCONJ of/ADP the/DET side/NOUN then/ADV he/PRON take/VERB his/DET right/ADJ hand/NOUN and/CCONJ move/VERB something/PRON in/ADP front/NOUN of/ADP him/PRON in/ADP a/DET triangle/NOUN and/CCONJ then/ADV his/DET left/ADJ hand/NOUN in/ADP a/DET triangle/NOUN#0.0#0.0

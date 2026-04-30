@@ -1,0 +1,3 @@
+a person holds their right hand out in front of them, before dropping it to their side and stepping backwards once.#a/DET person/NOUN hold/VERB their/DET right/ADJ hand/NOUN out/ADP in/ADP front/NOUN of/ADP them/PRON before/ADP drop/VERB it/PRON to/ADP their/DET side/NOUN and/CCONJ stepping/ADJ backwards/ADV once/ADV#0.0#0.0
+a person lefts left hand towards face and steps back#a/DET person/NOUN left/NOUN left/VERB hand/NOUN towards/ADP face/NOUN and/CCONJ step/NOUN back/ADV#0.0#0.0
+a person is putting their right hand flat up#a/DET person/NOUN is/AUX put/VERB their/DET right/ADJ hand/NOUN flat/ADV up/ADV#0.0#0.0

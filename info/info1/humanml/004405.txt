@@ -1,0 +1,3 @@
+a person appears to be washing his hands with soap.#a/DET person/NOUN appear/VERB to/PART be/AUX wash/VERB his/DET hand/NOUN with/ADP soap/NOUN#0.0#0.0
+a person  walks to a sink washes their hands, uses a soap dispencer and carries on washing their hand#a/DET person/NOUN walk/VERB to/ADP a/DET sink/NOUN wash/VERB their/DET hand/NOUN use/VERB a/DET soap/NOUN dispencer/NOUN and/CCONJ carry/VERB on/ADP wash/VERB their/DET hand/NOUN#0.0#0.0
+person walks forwards and then cleans their hands#person/NOUN walk/VERB forwards/ADV and/CCONJ then/ADV clean/VERB their/DET hand/NOUN#0.0#0.0

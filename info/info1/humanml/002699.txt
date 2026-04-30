@@ -1,0 +1,3 @@
+a person is doing jumping jacks on the spot#a/DET person/NOUN is/AUX do/VERB jump/VERB jack/NOUN on/ADP the/DET spot/NOUN#0.0#0.0
+the person is doing jumping jacks.#the/DET person/NOUN is/AUX do/VERB jump/VERB jack/NOUN#0.0#0.0
+a person doing jumping jacks. (jumping spreading their feet out and hands up, then jumping back again with feet together and hands down.. repeat)#a/DET person/NOUN do/VERB jump/VERB jack/NOUN jump/VERB spread/VERB their/DET foot/NOUN out/ADP and/CCONJ hand/VERB up/ADP then/ADV jump/VERB back/ADV again/ADV with/ADP foot/NOUN together/ADV and/CCONJ hand/VERB down/ADP repeat/NOUN#0.0#0.0

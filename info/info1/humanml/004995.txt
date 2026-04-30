@@ -1,0 +1,3 @@
+a person walks forward, while supporting themselves with their right arm.#a/DET person/NOUN walk/VERB forward/ADV while/SCONJ support/VERB themselves/PRON with/ADP their/DET right/ADJ arm/NOUN#0.0#0.0
+a man takes steps forward by using his right arm to grab on to something for support.#a/DET man/NOUN take/VERB step/NOUN forward/ADV by/ADP use/VERB his/DET right/ADJ arm/NOUN to/PART grab/VERB on/ADP to/ADP something/PRON for/ADP support/NOUN#0.0#0.0
+a person walks forward with support.#a/DET person/NOUN walk/VERB forward/ADV with/ADP support/NOUN#0.0#0.0

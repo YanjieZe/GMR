@@ -1,0 +1,3 @@
+a person jumps up and down on both feet while circling both arms forward in time with the jumps.#a/DET person/NOUN jump/VERB up/ADV and/CCONJ down/ADV on/ADP both/DET foot/NOUN while/SCONJ circle/VERB both/DET arm/NOUN forward/ADV in/ADP time/NOUN with/ADP the/DET jump/NOUN#0.0#0.0
+this person is jumping in the air.#this/DET person/NOUN is/AUX jump/VERB in/ADP the/DET air/NOUN#0.0#0.0
+a person is skipping with a rope#a/DET person/NOUN is/AUX skip/VERB with/ADP a/DET rope/NOUN#0.0#0.0

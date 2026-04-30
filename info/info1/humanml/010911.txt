@@ -1,0 +1,3 @@
+the man walks forward in a steep manner.#the/DET man/NOUN walk/VERB forward/ADV in/ADP a/DET steep/ADJ manner/NOUN#0.0#0.0
+he walks douwnstairs then stops#he/PRON walk/VERB douwnstair/NOUN then/ADV stop/VERB#0.0#0.0
+a person walks down a set of stairs.#a/DET person/NOUN walk/VERB down/ADV a/DET set/NOUN of/ADP stair/NOUN#0.0#0.0

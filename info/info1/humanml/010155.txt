@@ -1,0 +1,3 @@
+a person kicks their right leg then punches with right and left hands repeatedly.#a/DET person/NOUN kick/VERB their/DET right/ADJ leg/NOUN then/ADV punch/VERB with/ADP right/ADJ and/CCONJ left/VERB hand/NOUN repeatedly/ADV#0.0#0.0
+the man kicks his leg before throwing some punches#the/DET man/NOUN kick/VERB his/DET leg/NOUN before/ADP throw/VERB some/DET punch/NOUN#0.0#0.0
+a person kicked with right leg, and after kept hit with right and left hands#a/DET person/NOUN kick/VERB with/ADP right/ADJ leg/NOUN and/CCONJ after/ADP keep/VERB hit/VERB with/ADP right/NOUN and/CCONJ left/VERB hand/NOUN#0.0#0.0

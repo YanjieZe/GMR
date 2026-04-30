@@ -1,0 +1,3 @@
+a person walks forward then turns around and walks back.#a/DET person/NOUN walk/VERB forward/ADV then/ADV turn/VERB around/ADP and/CCONJ walk/VERB back/ADV#0.0#0.0
+a person takes two steps forward, spins around clockwise in the opposite direction, and takes two steps back.#a/DET person/NOUN take/VERB two/NUM step/NOUN forward/ADV spin/VERB around/ADV clockwise/NOUN in/ADP the/DET opposite/ADJ direction/NOUN and/CCONJ take/VERB two/NUM step/NOUN back/ADV#0.0#0.0
+a person zig zagging in line#a/DET person/NOUN zig/VERB zagge/VERB in/ADP line/NOUN#0.0#0.0

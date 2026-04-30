@@ -1,0 +1,3 @@
+person starts in hands head height elbows bent then hyper extends arms above head three times#person/NOUN start/VERB in/ADP hand/NOUN head/VERB height/NOUN elbow/NOUN bent/ADJ then/ADV hyper/NOUN extend/VERB arm/NOUN above/ADP head/VERB three/NUM time/NOUN#0.0#0.0
+a person exercising with two dumbbells#a/DET person/NOUN exercise/VERB with/ADP two/NUM dumbbell/NOUN#0.0#0.0
+a person raises their arms up in the air as if weightlifting.#a/DET person/NOUN raise/VERB their/DET arm/NOUN up/ADP in/ADP the/DET air/NOUN as/SCONJ if/SCONJ weightlifting/NOUN#0.0#0.0

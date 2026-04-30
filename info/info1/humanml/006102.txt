@@ -1,0 +1,3 @@
+the person was stomping with his right foot.#the/DET person/NOUN was/AUX stomp/VERB with/ADP his/DET right/ADJ foot/NOUN#0.0#0.0
+a person stomps their right leg.#a/DET person/NOUN stomp/VERB their/DET right/ADJ leg/NOUN#0.0#0.0
+a person slowly stomping their foot.#a/DET person/NOUN slowly/ADV stomp/VERB their/DET foot/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a man hops forward and then turns around and hops back.#a/DET man/NOUN hop/VERB forward/ADV and/CCONJ then/ADV turn/VERB around/ADV and/CCONJ hop/VERB back/ADV#0.0#0.0
+a person is jumping down steps and then back up them.#a/DET person/NOUN is/AUX jump/VERB down/ADP step/NOUN and/CCONJ then/ADV back/ADV up/ADP them/PRON#0.0#0.0
+a person hops, then jumps up an obstacle, jumps down an obstacle, turns and jumps up the obstacle again.#a/DET person/NOUN hop/VERB then/ADV jump/VERB up/ADP an/DET obstacle/NOUN jump/VERB down/ADP an/DET obstacle/NOUN turn/VERB and/CCONJ jump/VERB up/ADP the/DET obstacle/NOUN again/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+the person leans over the sink while washing the dishes#the/DET person/NOUN lean/VERB over/ADP the/DET sink/NOUN while/SCONJ wash/VERB the/DET dish/NOUN#0.0#0.0
+person walks forward, moves their body to the right, and then uses their right arm to clean their left arm.#person/NOUN walk/VERB forward/ADV move/VERB their/DET body/NOUN to/ADP the/DET right/NOUN and/CCONJ then/ADV use/VERB their/DET right/ADJ arm/NOUN to/PART clean/VERB their/DET left/ADJ arm/NOUN#0.0#0.0
+person walks toward something and rubs it with right hand.#person/NOUN walk/VERB toward/ADP something/PRON and/CCONJ rub/VERB it/PRON with/ADP right/ADJ hand/NOUN#0.0#0.0

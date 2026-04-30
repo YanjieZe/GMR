@@ -1,0 +1,3 @@
+person stands knees bent forward then lifts arms shoulder height a few times#person/NOUN stand/VERB knee/NOUN bent/ADJ forward/ADV then/ADV lift/VERB arm/NOUN shoulder/NOUN height/NOUN a/DET few/ADJ time/NOUN#0.0#0.0
+a person is standing still then raises their arm in a t-shape.#a/DET person/NOUN is/AUX stand/VERB still/ADV then/ADV raise/VERB their/DET arm/NOUN in/ADP a/DET tshape/NOUN#0.0#0.0
+a person is sitting down, hands on his thighs.#a/DET person/NOUN is/AUX sit/VERB down/ADP hand/NOUN on/ADP his/DET thigh/NOUN#0.0#0.0

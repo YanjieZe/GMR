@@ -1,0 +1,3 @@
+a person reaches their right arm out in front of them, then puts it back down.#a/DET person/NOUN reach/VERB their/DET right/ADJ arm/NOUN out/ADP in/ADP front/NOUN of/ADP them/PRON then/ADV put/VERB it/PRON back/ADV down/ADP#0.0#0.0
+the person just puts his right hand up in a ninety degree angle#the/DET person/NOUN just/ADV put/VERB his/DET right/ADJ hand/NOUN up/ADP in/ADP a/DET ninety/NUM degree/NOUN angle/NOUN#0.0#0.0
+a person lifts their right arm to a horizontal position, holds it there for a brief moment, and then returns to their side.#a/DET person/NOUN lift/VERB their/DET right/ADJ arm/NOUN to/ADP a/DET horizontal/ADJ position/NOUN hold/VERB it/PRON there/ADV for/ADP a/DET brief/ADJ moment/NOUN and/CCONJ then/ADV return/VERB to/ADP their/DET side/NOUN#0.0#3.0

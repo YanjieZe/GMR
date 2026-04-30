@@ -1,0 +1,3 @@
+moving to the side and bending.#move/VERB to/ADP the/DET side/NOUN and/CCONJ bend/VERB#0.0#0.0
+a figure staggers to the left and regains footing#a/DET figure/NOUN stagger/NOUN to/ADP the/DET left/NOUN and/CCONJ regain/VERB foot/VERB#0.0#0.0
+a person appears to be pushed and falls to their right.#a/DET person/NOUN appear/VERB to/PART be/AUX push/VERB and/CCONJ fall/VERB to/ADP their/DET right/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks forward and stops.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ stop/NOUN#0.0#0.0
+a man walks forward, stumbles to the left, and then regains his balance and keeps walking forwards.#a/DET man/NOUN walk/VERB forward/ADV stumble/NOUN to/ADP the/DET left/NOUN and/CCONJ then/ADV regain/VERB his/DET balance/NOUN and/CCONJ keep/VERB walking/NOUN forwards/ADV#0.0#0.0
+a person walks forward and staggers slightly to the right.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ stagger/NOUN slightly/ADV to/ADP the/DET right/NOUN#0.0#0.0

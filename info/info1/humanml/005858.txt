@@ -1,0 +1,3 @@
+a standing person steps one step to their left.#a/DET stand/VERB person/NOUN step/VERB one/NUM step/NOUN to/ADP their/DET left/NOUN#0.0#0.0
+he cleans the place then stops#he/PRON clean/VERB the/DET place/NOUN then/ADV stop/VERB#0.0#0.0
+a person is standing still, and then takes a step forward, to his left.#a/DET person/NOUN is/AUX stand/VERB still/ADV and/CCONJ then/ADV take/VERB a/DET step/NOUN forward/ADV to/ADP his/DET left/NOUN#0.0#0.0

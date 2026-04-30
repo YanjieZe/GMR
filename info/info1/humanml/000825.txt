@@ -1,0 +1,3 @@
+a person at a standstill starts running, then stops.#a/DET person/NOUN at/ADP a/DET standstill/NOUN start/VERB running/NOUN then/ADV stop/VERB#0.0#0.0
+the person is jumping in place.#the/DET person/NOUN is/AUX jump/VERB in/ADP place/NOUN#0.0#0.0
+a man jogs without moving his position.#a/DET man/NOUN jog/VERB without/ADP move/VERB his/DET position/NOUN#0.0#0.0

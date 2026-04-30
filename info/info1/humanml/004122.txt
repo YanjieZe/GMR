@@ -1,0 +1,3 @@
+a man raises his hands over his head, and to the sky. his lips move so as to mouth the words "ascend."#a/DET man/NOUN raise/VERB his/DET hand/NOUN over/ADP his/DET head/NOUN and/CCONJ to/ADP the/DET sky/NOUN his/DET lip/NOUN move/VERB so/SCONJ as/SCONJ to/PART mouth/VERB the/DET word/NOUN ascend/NOUN#0.0#0.0
+a person does the sign of the cross prayer.#a/DET person/NOUN does/AUX the/DET sign/NOUN of/ADP the/DET cross/NOUN prayer/NOUN#0.0#0.0
+a person draws a cross in the air.#a/DET person/NOUN draw/VERB a/DET cross/NOUN in/ADP the/DET air/NOUN#0.0#0.0

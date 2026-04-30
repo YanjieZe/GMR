@@ -1,0 +1,3 @@
+a person pers someing with right hand then scratches something with left have and then steps backwards#a/DET person/NOUN per/VERB somee/VERB with/ADP right/ADJ hand/NOUN then/ADV scratch/VERB something/PRON with/ADP left/ADJ have/AUX and/CCONJ then/ADV step/VERB backwards/ADV#0.0#0.0
+the person walks forward a step, grabs a cucumber to slice, slices it, and then steps back.#the/DET person/NOUN walk/VERB forward/ADV a/DET step/NOUN grab/VERB a/DET cucumber/NOUN to/PART slice/VERB slice/VERB it/PRON and/CCONJ then/ADV step/VERB back/ADV#0.0#0.0
+a person is trying to open up a jar#a/DET person/NOUN is/AUX try/VERB to/PART open/VERB up/ADP a/DET jar/NOUN#0.0#0.0

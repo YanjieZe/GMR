@@ -1,0 +1,3 @@
+a person leans forward with hands clasped then winds back to throw something.#a/DET person/NOUN lean/VERB forward/ADV with/ADP hand/NOUN clasped/ADJ then/ADV wind/VERB back/ADV to/PART throw/VERB something/PRON#0.0#0.0
+someone is throwing a football#someone/PRON is/AUX throw/VERB a/DET football/NOUN#0.0#0.0
+this person bends forward while extending left leg back.  he then walks forward.#this/DET person/NOUN bend/VERB forward/ADV while/SCONJ extend/VERB left/ADJ leg/NOUN back/ADV he/PRON then/ADV walk/VERB forward/ADV#0.0#0.0

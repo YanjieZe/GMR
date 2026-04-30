@@ -1,0 +1,3 @@
+a husky individual takes some wide sideways steps forward, swivels on his heel, and takes some steps backward.#a/DET husky/ADJ individual/NOUN take/VERB some/DET wide/ADJ sideway/NOUN step/NOUN forward/ADV swivel/NOUN on/ADP his/DET heel/NOUN and/CCONJ take/VERB some/DET step/NOUN backward/ADV#0.0#0.0
+a person carefully walking in a diaginal and then turns and walks backwards.#a/DET person/NOUN carefully/ADV walk/VERB in/ADP a/DET diaginal/NOUN and/CCONJ then/ADV turn/VERB and/CCONJ walk/VERB backwards/ADV#0.0#0.0
+a person sidesteps to the left then walks backwards#a/DET person/NOUN sidestep/VERB to/ADP the/DET left/NOUN then/ADV walk/VERB backwards/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+person takes a bow and brings right hand towards body and back#person/NOUN take/VERB a/DET bow/NOUN and/CCONJ bring/VERB right/ADJ hand/NOUN towards/ADP body/NOUN and/CCONJ back/ADV#0.0#0.0
+person stand tall then bows body down and to the side once and moves back to starting position#person/NOUN stand/VERB tall/ADJ then/ADV bow/VERB body/NOUN down/ADP and/CCONJ to/ADP the/DET side/NOUN once/ADV and/CCONJ move/VERB back/ADV to/ADP start/VERB position/NOUN#0.0#0.0
+a man bows for the camera.#a/DET man/NOUN bow/VERB for/ADP the/DET camera/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person is turning to the left side#a/DET person/NOUN is/AUX turn/VERB to/ADP the/DET left/ADJ side/NOUN#0.0#0.0
+man quickly spins in clockwise circle while flailing his arms.#man/NOUN quickly/ADV spin/VERB in/ADP clockwise/NOUN circle/NOUN while/SCONJ flail/VERB his/DET arm/NOUN#0.0#0.0
+he turn around very slowly#he/PRON turn/VERB around/ADP very/ADV slowly/ADV#0.0#0.0

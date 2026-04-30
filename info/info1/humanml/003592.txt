@@ -1,0 +1,3 @@
+a man bends down and picks something up witn his right hand.#a/DET man/NOUN bend/VERB down/ADP and/CCONJ pick/VERB something/PRON up/ADV witn/VERB his/DET right/ADJ hand/NOUN#0.0#0.0
+a man leans forward and touches the ground with his right arm.#a/DET man/NOUN lean/VERB forward/ADV and/CCONJ touch/VERB the/DET ground/NOUN with/ADP his/DET right/ADJ arm/NOUN#0.0#0.0
+a person stands with their hands together, step foward then reaches down to pick something up.#a/DET person/NOUN stand/VERB with/ADP their/DET hand/NOUN together/ADV step/VERB foward/NOUN then/ADV reach/VERB down/ADP to/PART pick/VERB something/PRON up/ADP#0.0#0.0

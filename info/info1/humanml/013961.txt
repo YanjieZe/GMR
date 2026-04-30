@@ -1,0 +1,3 @@
+a person walks into a path leaving a trail behind#a/DET person/NOUN walk/VERB into/ADP a/DET path/NOUN leave/VERB a/DET trail/NOUN behind/ADV#0.0#0.0
+the toon is walking down a short plane at normal speed.#the/DET toon/NOUN is/AUX walk/VERB down/ADP a/DET short/ADJ plane/NOUN at/ADP normal/ADJ speed/NOUN#0.0#5.0
+a man walks forward with his arms slightly outstretched as if for balance.#a/DET man/NOUN walk/VERB forward/ADV with/ADP his/DET arm/NOUN slightly/ADV outstretche/VERB as/SCONJ if/SCONJ for/ADP balance/NOUN#0.0#0.0

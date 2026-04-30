@@ -1,0 +1,3 @@
+standing person raises right leg and both arms, turns slightly to the left, then returns to original standing position.#stand/VERB person/NOUN raise/VERB right/ADJ leg/NOUN and/CCONJ both/CCONJ arm/NOUN turn/VERB slightly/ADV to/ADP the/DET left/NOUN then/ADV return/VERB to/ADP original/ADJ standing/NOUN position/NOUN#0.0#0.0
+the man kicks with his right foot.#the/DET man/NOUN kick/VERB with/ADP his/DET right/ADJ foot/NOUN#0.0#0.0
+someone raises their right leg and extends it then lowers it#someone/PRON raise/VERB their/DET right/ADJ leg/NOUN and/CCONJ extend/VERB it/PRON then/ADV lower/VERB it/PRON#0.0#0.0

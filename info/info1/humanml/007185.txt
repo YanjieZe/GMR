@@ -1,0 +1,3 @@
+a person takes a step forward with their right foot, throws an object with their left hand, and steps back.#a/DET person/NOUN take/VERB a/DET step/NOUN forward/ADV with/ADP their/DET right/ADJ foot/NOUN throw/VERB an/DET object/NOUN with/ADP their/DET left/ADJ hand/NOUN and/CCONJ step/VERB back/ADV#0.0#0.0
+a person steps out and throws something.#a/DET person/NOUN step/VERB out/ADP and/CCONJ throw/VERB something/PRON#0.0#0.0
+this person steps forward and throws a ball.#this/DET person/NOUN step/VERB forward/ADV and/CCONJ throw/VERB a/DET ball/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person rotates their shoulders forward in a circular motion while they bring their hands up to their sides.#a/DET person/NOUN rotate/VERB their/DET shoulder/NOUN forward/ADV in/ADP a/DET circular/ADJ motion/NOUN while/SCONJ they/PRON bring/VERB their/DET hand/NOUN up/ADP to/ADP their/DET side/NOUN#0.0#0.0
+person moves arms in a cradle position up and down and bounces#person/NOUN move/VERB arm/NOUN in/ADP a/DET cradle/NOUN position/NOUN up/ADP and/CCONJ down/ADV and/CCONJ bounce/NOUN#0.0#0.0
+this person is rolling their shoulders back to front with arms out to the sides.#this/DET person/NOUN is/AUX roll/VERB their/DET shoulder/NOUN back/ADV to/ADP front/NOUN with/ADP arm/NOUN out/SCONJ to/ADP the/DET side/NOUN#0.0#0.0

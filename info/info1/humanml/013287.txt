@@ -1,0 +1,3 @@
+a person puts their right arm straight out and moves it to the left, in front, and then to the right#a/DET person/NOUN put/VERB their/DET right/ADJ arm/NOUN straight/ADV out/ADV and/CCONJ move/VERB it/PRON to/ADP the/DET left/NOUN in/ADP front/NOUN and/CCONJ then/ADV to/ADP the/DET right/NOUN#0.0#0.0
+the person is moving something from the right to the left.#the/DET person/NOUN is/AUX move/VERB something/PRON from/ADP the/DET right/NOUN to/ADP the/DET left/NOUN#0.0#0.0
+a person extends their right arm and moved it horozonally in front of them#a/DET person/NOUN extend/VERB their/DET right/ADJ arm/NOUN and/CCONJ move/VERB it/PRON horozonally/ADV in/ADP front/NOUN of/ADP them/PRON#0.0#0.0

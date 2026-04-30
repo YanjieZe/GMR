@@ -1,0 +1,3 @@
+a person stands on their left foot whilst kicking their right foot forward and to the side#a/DET person/NOUN stand/VERB on/ADP their/DET left/ADJ foot/NOUN whilst/SCONJ kick/VERB their/DET right/ADJ foot/NOUN forward/ADV and/CCONJ to/ADP the/DET side/NOUN#0.0#0.0
+a person stands on one leg swinging their other leg out and then bringing it back in repeatedly.#a/DET person/NOUN stand/VERB on/ADP one/NUM leg/NOUN swinge/VERB their/DET other/ADJ leg/NOUN out/ADP and/CCONJ then/ADV bring/VERB it/PRON back/ADV in/ADV repeatedly/ADV#0.0#0.0
+someone stands on one leg and kicks around with the other.#someone/PRON stand/VERB on/ADP one/NUM leg/NOUN and/CCONJ kick/VERB around/ADP with/ADP the/DET other/ADJ#0.0#0.0

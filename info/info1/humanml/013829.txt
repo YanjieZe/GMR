@@ -1,0 +1,3 @@
+a person bent down gets back up, then starts to do a wiping motion in front of them.#a/DET person/NOUN bend/VERB down/ADP get/VERB back/ADV up/ADV then/ADV start/VERB to/PART do/AUX a/DET wiping/ADJ motion/NOUN in/ADP front/NOUN of/ADP them/PRON#0.0#0.0
+a person grabbed something with right hand, and start to lean on something#a/DET person/NOUN grab/VERB something/PRON with/ADP right/ADJ hand/NOUN and/CCONJ start/VERB to/PART lean/VERB on/ADP something/PRON#0.0#0.0
+a person stands from hunched over and then makes a wiping motion with their right hand.#a/DET person/NOUN stand/VERB from/ADP hunch/VERB over/ADV and/CCONJ then/ADV make/VERB a/DET wiping/ADJ motion/NOUN with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0

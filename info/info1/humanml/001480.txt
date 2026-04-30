@@ -1,0 +1,3 @@
+a person waves their arms wildly and shuffles their feet.#a/DET person/NOUN wave/VERB their/DET arm/NOUN wildly/ADV and/CCONJ shuffle/VERB their/DET foot/NOUN#0.0#0.0
+a person rhymically steps feet from side to side whilst moving arms up and down#a/DET person/NOUN rhymically/ADV step/VERB foot/NOUN from/ADP side/NOUN to/PART side/VERB whilst/SCONJ move/VERB arm/NOUN up/ADV and/CCONJ down/ADP#0.0#0.0
+a person dances vigorously using mostly their upper body.#a/DET person/NOUN dance/VERB vigorously/ADV use/VERB mostly/ADV their/DET upper/ADJ body/NOUN#0.0#2.0

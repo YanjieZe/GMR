@@ -1,0 +1,3 @@
+the person was making a gesture with his right hand.#the/DET person/NOUN was/AUX make/VERB a/DET gesture/NOUN with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+a person raised his right hand and did some jesture with right hand#a/DET person/NOUN raise/VERB his/DET right/ADJ hand/NOUN and/CCONJ did/AUX some/DET jesture/NOUN with/ADP right/ADJ hand/NOUN#0.0#0.0
+right hand is moves up and forward to the right and back down to the side a few times.#right/ADJ hand/NOUN is/AUX move/NOUN up/ADP and/CCONJ forward/ADV to/ADP the/DET right/NOUN and/CCONJ back/ADV down/ADV to/ADP the/DET side/NOUN a/DET few/ADJ time/NOUN#0.0#0.0

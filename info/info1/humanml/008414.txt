@@ -1,0 +1,3 @@
+a person slowly jumped a few times#a/DET person/NOUN slowly/ADV jump/VERB a/DET few/ADJ time/NOUN#0.0#0.0
+a man jumps twice, crossing his arms as he jumps.#a/DET man/NOUN jump/VERB twice/ADV cross/VERB his/DET arm/NOUN as/SCONJ he/PRON jump/VERB#0.0#0.0
+a man clasps his hands by his chest while jumping up and down.#a/DET man/NOUN clasp/VERB his/DET hand/NOUN by/ADP his/DET chest/NOUN while/SCONJ jump/VERB up/ADV and/CCONJ down/ADV#0.0#0.0

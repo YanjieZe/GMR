@@ -1,0 +1,3 @@
+a person walks to the left, sits down stands back up, and then walks back#a/DET person/NOUN walk/VERB to/ADP the/DET left/NOUN sit/VERB down/ADP stand/VERB back/ADV up/ADV and/CCONJ then/ADV walk/VERB back/ADV#0.0#0.0
+the sim walks to the opposite end of the plane, takes a seat before standing back up.#the/DET sim/PROPN walk/VERB to/ADP the/DET opposite/ADJ end/NOUN of/ADP the/DET plane/NOUN take/VERB a/DET seat/NOUN before/ADP stand/VERB back/ADV up/ADV#0.0#0.0
+a man walks then sits then then gets back up and walks back to the original area.#a/DET man/NOUN walk/VERB then/ADV sit/VERB then/ADV then/ADV get/VERB back/ADV up/ADV and/CCONJ walk/VERB back/ADV to/ADP the/DET original/ADJ area/NOUN#0.0#0.0

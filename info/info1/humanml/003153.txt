@@ -1,0 +1,3 @@
+someone diagonally kicks their right foot, then their left foot.#someone/PRON diagonally/ADV kick/VERB their/DET right/ADJ foot/NOUN then/ADV their/DET left/ADJ foot/NOUN#0.0#0.0
+person standing feet shoulder length apart kicks right leg to side then kicks left leg to side#person/NOUN stand/VERB foot/NOUN shoulder/NOUN length/NOUN apart/ADV kick/NOUN right/ADJ leg/NOUN to/PART side/VERB then/ADV kick/NOUN left/VERB leg/NOUN to/PART side/VERB#0.0#0.0
+a person stand guard a home plate#a/DET person/NOUN stand/VERB guard/NOUN a/DET home/NOUN plate/NOUN#0.0#0.0

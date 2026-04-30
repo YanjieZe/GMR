@@ -1,0 +1,3 @@
+the body is slightly bent forth with arms out curled, with the body slowly jerking side to side.#the/DET body/NOUN is/AUX slightly/ADV bent/ADJ forth/ADP with/ADP arm/NOUN out/SCONJ curled/ADJ with/ADP the/DET body/NOUN slowly/ADV jerk/VERB side/NOUN to/PART side/VERB#0.0#0.0
+a person looks around while leaned over.#a/DET person/NOUN look/VERB around/ADP while/SCONJ lean/VERB over/ADP#0.0#0.0
+a person bends down, turning their head back and forth, looking for an object.#a/DET person/NOUN bend/VERB down/ADP turn/VERB their/DET head/NOUN back/ADV and/CCONJ forth/ADV look/VERB for/ADP an/DET object/NOUN#0.0#0.0

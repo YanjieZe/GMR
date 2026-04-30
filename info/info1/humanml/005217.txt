@@ -1,0 +1,3 @@
+a person runs forward quickly, stops on their left foot, then runs in a different direction.#a/DET person/NOUN run/VERB forward/ADV quickly/ADV stop/VERB on/ADP their/DET left/ADJ foot/NOUN then/ADV run/VERB in/ADP a/DET different/ADJ direction/NOUN#0.0#0.0
+a person starts at top right, runs towards the center bottom and then back towards the top left.#a/DET person/NOUN start/VERB at/ADP top/ADJ right/ADV run/VERB towards/ADP the/DET center/ADJ bottom/NOUN and/CCONJ then/ADV back/ADV towards/ADP the/DET top/NOUN left/NOUN#0.0#0.0
+a man runs forwards diagonally and then pivots ninety degrees and runs#a/DET man/NOUN run/VERB forwards/ADV diagonally/ADV and/CCONJ then/ADV pivot/VERB ninety/NUM degree/NOUN and/CCONJ run/NOUN#0.0#0.0

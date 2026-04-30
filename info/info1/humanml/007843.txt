@@ -1,0 +1,3 @@
+a person is looking around with binoculars#a/DET person/NOUN is/AUX look/VERB around/ADP with/ADP binocular/NOUN#0.0#0.0
+a person raised both hands, and leaned them on face#a/DET person/NOUN raise/VERB both/DET hand/NOUN and/CCONJ lean/VERB them/PRON on/ADP face/NOUN#0.0#0.0
+a person raises both hands and brings them to his face.#a/DET person/NOUN raise/VERB both/DET hand/NOUN and/CCONJ bring/VERB them/PRON to/ADP his/DET face/NOUN#0.0#0.0

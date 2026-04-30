@@ -1,0 +1,3 @@
+run forward pivot run backward diagnally#run/VERB forward/ADV pivot/NOUN run/NOUN backward/ADV diagnally/ADV#0.0#0.0
+a person runs forward, stops and runs diagonally backwards.#a/DET person/NOUN run/VERB forward/ADV stop/VERB and/CCONJ run/VERB diagonally/ADV backwards/ADV#0.0#0.0
+person running was turning left.#person/NOUN run/VERB was/AUX turn/VERB left/ADV#0.0#0.0

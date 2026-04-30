@@ -1,0 +1,3 @@
+a person slightly walked on right direcation#a/DET person/NOUN slightly/ADV walk/VERB on/ADP right/ADJ direcation/NOUN#0.0#0.0
+a person stands still then with right leg stepped right.#a/DET person/NOUN stand/VERB still/ADV then/ADV with/ADP right/ADJ leg/NOUN step/VERB right/ADV#0.0#9.0
+a man makes a step to the right side and then stops.#a/DET man/NOUN make/VERB a/DET step/NOUN to/ADP the/DET right/ADJ side/NOUN and/CCONJ then/ADV stop/VERB#0.0#0.0

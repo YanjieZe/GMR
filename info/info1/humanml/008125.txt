@@ -1,0 +1,3 @@
+a man jogs on the spot for a few seconds.#a/DET man/NOUN jog/VERB on/ADP the/DET spot/NOUN for/ADP a/DET few/ADJ second/NOUN#0.0#0.0
+person stands still then jogs on the spot  eight steps in a row#person/NOUN stand/VERB still/ADV then/ADV jog/VERB on/ADP the/DET spot/NOUN eight/NUM step/NOUN in/ADP a/DET row/NOUN#0.0#0.0
+a person is jogging in place.#a/DET person/NOUN is/AUX jog/VERB in/ADP place/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a figure raises their right hand in a sweeping motion#a/DET figure/NOUN raise/VERB their/DET right/ADJ hand/NOUN in/ADP a/DET sweeping/ADJ motion/NOUN#0.0#0.0
+a person lifts their right arm.#a/DET person/NOUN lift/VERB their/DET right/ADJ arm/NOUN#0.0#0.0
+a person takes an object and throws it over his head with his right hand#a/DET person/NOUN take/VERB an/DET object/NOUN and/CCONJ throw/VERB it/PRON over/ADP his/DET head/NOUN with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0

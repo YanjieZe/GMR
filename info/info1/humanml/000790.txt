@@ -1,0 +1,3 @@
+a person leaning forward.#a/DET person/NOUN lean/VERB forward/ADV#0.0#0.0
+this person was standing still and then lunged.#this/DET person/NOUN was/AUX stand/VERB still/ADV and/CCONJ then/ADV lunge/VERB#0.0#0.0
+person moves hips back and body forwards in a sudden motion. looks like they recoiled.#person/NOUN move/VERB hip/NOUN back/ADV and/CCONJ body/NOUN forwards/ADV in/ADP a/DET sudden/ADJ motion/NOUN look/VERB like/SCONJ they/PRON recoil/VERB#0.0#0.0

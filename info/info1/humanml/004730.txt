@@ -1,0 +1,3 @@
+the person is in a fighting stance, then hops backwards and lowers their hands, trying to dodge something#the/DET person/NOUN is/AUX in/ADP a/DET fighting/NOUN stance/NOUN then/ADV hop/VERB backwards/ADV and/CCONJ lower/VERB their/DET hand/NOUN try/VERB to/PART dodge/VERB something/PRON#0.0#0.0
+the person appears to be in a fight stance.#the/DET person/NOUN appear/VERB to/PART be/AUX in/ADP a/DET fight/NOUN stance/NOUN#0.0#0.0
+a person jumps backwards and puts their hands together.#a/DET person/NOUN jump/VERB backwards/ADV and/CCONJ put/VERB their/DET hand/NOUN together/ADV#0.0#0.0

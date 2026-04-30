@@ -1,0 +1,3 @@
+a person lifts their arms from the side to the front.#a/DET person/NOUN lift/VERB their/DET arm/NOUN from/ADP the/DET side/NOUN to/ADP the/DET front/NOUN#0.0#0.0
+a person fully extends both arms.#a/DET person/NOUN fully/ADV extend/VERB both/DET arm/NOUN#0.0#0.0
+a person holds an object with both hands.#a/DET person/NOUN hold/VERB an/DET object/NOUN with/ADP both/DET hand/NOUN#0.0#0.0

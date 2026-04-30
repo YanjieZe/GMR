@@ -1,0 +1,3 @@
+a person is dancing and then jumps in place.#a/DET person/NOUN is/AUX dance/VERB and/CCONJ then/ADV jump/VERB in/ADP place/NOUN#0.0#0.0
+a figure dances and jumps excitedly#a/DET figure/NOUN dance/NOUN and/CCONJ jump/VERB excitedly/ADV#0.0#0.0
+person is doing dance moves#person/NOUN is/AUX do/VERB dance/NOUN move/NOUN#0.0#0.0

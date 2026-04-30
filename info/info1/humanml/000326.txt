@@ -1,0 +1,3 @@
+a person claps with both hands.#a/DET person/NOUN clap/VERB with/ADP both/DET hand/NOUN#0.0#0.0
+a person claps their hands together#a/DET person/NOUN clap/VERB their/DET hand/NOUN together/ADV#0.0#0.0
+person claps on the spot#person/NOUN clap/VERB on/ADP the/DET spot/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+the person gets on their hands and knees, crawls to the right, gets up and returns to their original position.#the/DET person/NOUN get/VERB on/ADP their/DET hand/NOUN and/CCONJ knee/NOUN crawl/VERB to/ADP the/DET right/NOUN get/VERB up/ADV and/CCONJ return/VERB to/ADP their/DET original/ADJ position/NOUN#0.0#0.0
+a person bends down on his hands and knees, crawls, and then gets back up to sand on feet.#a/DET person/NOUN bend/VERB down/ADP on/ADP his/DET hand/NOUN and/CCONJ knee/NOUN crawl/NOUN and/CCONJ then/ADV get/VERB back/ADV up/ADP to/PART sand/NOUN on/ADP foot/NOUN#0.0#0.0
+the person that down and was crawling across the floor.#the/DET person/NOUN that/DET down/ADV and/CCONJ was/AUX crawl/VERB across/ADP the/DET floor/NOUN#0.0#0.0

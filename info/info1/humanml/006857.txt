@@ -1,0 +1,3 @@
+the person is dancing in the video joyfully.#the/DET person/NOUN is/AUX dance/VERB in/ADP the/DET video/NOUN joyfully/ADV#0.0#0.0
+a person dances shaking theirbarms to the right and left then turns left and waves arms while turning to the right.#a/DET person/NOUN dance/VERB shake/VERB theirbarm/NOUN to/ADP the/DET right/NOUN and/CCONJ left/VERB then/ADV turn/VERB left/VERB and/CCONJ wave/VERB arm/NOUN while/SCONJ turn/VERB to/ADP the/DET right/NOUN#0.0#0.0
+a person dances for 10 seconds#a/DET person/NOUN dance/VERB for/ADP second/NOUN#0.0#0.0

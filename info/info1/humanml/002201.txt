@@ -1,0 +1,3 @@
+a person is bent over and looking around#a/DET person/NOUN is/AUX bent/ADJ over/ADP and/CCONJ look/VERB around/ADV#0.0#0.0
+a person bends down at the waist with their hands behinds them, then moves their torso left and right.#a/DET person/NOUN bend/VERB down/ADP at/ADP the/DET waist/NOUN with/ADP their/DET hand/NOUN behind/VERB them/PRON then/ADV move/VERB their/DET torso/NOUN left/VERB and/CCONJ right/INTJ#0.0#0.0
+a man is bent over at the waist with his arms behind him, then stands up right, then back in the bent position again.#a/DET man/NOUN is/AUX bent/ADJ over/ADP at/ADP the/DET waist/NOUN with/ADP his/DET arm/NOUN behind/ADP him/PRON then/ADV stand/VERB up/ADP right/ADV then/ADV back/ADV in/ADP the/DET bent/ADJ position/NOUN again/ADV#0.0#0.0

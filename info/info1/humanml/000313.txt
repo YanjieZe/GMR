@@ -1,0 +1,3 @@
+a man walks forward sits in a chair then with his right hand.#a/DET man/NOUN walk/VERB forward/ADV sit/VERB in/ADP a/DET chair/NOUN then/ADV with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+a person walks around a chair then sits down then sets something on a table#a/DET person/NOUN walk/VERB around/ADP a/DET chair/NOUN then/ADV sit/VERB down/ADV then/ADV set/VERB something/PRON on/ADP a/DET table/NOUN#0.0#0.0
+a person walks along a curve#a/DET person/NOUN walk/VERB along/ADP a/DET curve/NOUN#0.0#3.0

@@ -1,0 +1,3 @@
+the person is dragging his bad leg while walking.#the/DET person/NOUN is/AUX drag/VERB his/DET bad/ADJ leg/NOUN while/SCONJ walk/VERB#0.0#0.0
+a person walks down hill dragging his right foot.#a/DET person/NOUN walk/VERB down/ADP hill/PROPN drag/VERB his/DET right/ADJ foot/NOUN#0.0#0.0
+person walks forward slowly dragging feet behind#person/NOUN walk/VERB forward/ADV slowly/ADV drag/VERB foot/NOUN behind/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+person takes step back, turns around, then lifts hands to both sides#person/NOUN take/VERB step/NOUN back/ADV turn/VERB around/ADV then/ADV lift/VERB hand/NOUN to/ADP both/DET side/NOUN#0.0#0.0
+a figure leans back from a situation then tries to block others from coming forward by spreading its arms#a/DET figure/NOUN lean/VERB back/ADV from/ADP a/DET situation/NOUN then/ADV try/VERB to/PART block/VERB other/NOUN from/ADP come/VERB forward/ADV by/ADP spread/VERB its/DET arm/NOUN#0.0#0.0
+a person turns around clockwise and stretches their arms out.#a/DET person/NOUN turn/VERB around/ADP clockwise/NOUN and/CCONJ stretch/VERB their/DET arm/NOUN out/ADP#0.0#0.0

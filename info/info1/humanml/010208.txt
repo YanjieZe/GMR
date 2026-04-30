@@ -1,0 +1,3 @@
+person walking unsteadily in forward motion#person/NOUN walk/VERB unsteadily/ADV in/ADP forward/ADV motion/NOUN#0.0#0.0
+a person takes wide steps staggering forward.#a/DET person/NOUN take/VERB wide/ADJ step/NOUN stagger/VERB forward/ADV#0.0#0.0
+person walks forwards purposefully, taking large, exaggerated strides, as if trying to step on certain things.#person/NOUN walk/VERB forwards/ADP purposefully/ADV take/VERB large/ADJ exaggerated/ADJ stride/NOUN as/SCONJ if/SCONJ try/VERB to/PART step/VERB on/ADP certain/ADJ thing/NOUN#0.0#0.0

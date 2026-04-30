@@ -1,0 +1,3 @@
+figure is standing, moving arms together as if opening something and rhen with its left arm brings it up to where its head would be as if it were to drink somthing from it.#figure/NOUN is/AUX stand/VERB move/VERB arm/NOUN together/ADV as/SCONJ if/SCONJ open/VERB something/PRON and/CCONJ rhen/VERB with/ADP its/DET left/ADJ arm/NOUN bring/VERB it/PRON up/ADP to/ADP where/ADV its/DET head/NOUN would/VERB be/AUX as/SCONJ if/SCONJ it/PRON were/AUX to/PART drink/VERB somthe/VERB from/ADP it/PRON#0.0#0.0
+a person raises their left arm above their head.#a/DET person/NOUN raise/VERB their/DET left/ADJ arm/NOUN above/ADP their/DET head/NOUN#0.0#0.0
+man wobbles back and forth then raises 1 arm.#man/NOUN wobble/VERB back/ADV and/CCONJ forth/ADV then/ADV raise/VERB arm/NOUN#0.0#0.0

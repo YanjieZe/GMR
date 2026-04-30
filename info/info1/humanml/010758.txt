@@ -1,0 +1,3 @@
+a person who is standing with his hands out from his sides swings his arms out away from his body with his left hand held low and his right hand held high, then resumes his original position.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP his/DET hand/NOUN out/ADP from/ADP his/DET side/NOUN swing/VERB his/DET arm/NOUN out/ADV away/ADV from/ADP his/DET body/NOUN with/ADP his/DET left/ADJ hand/NOUN hold/VERB low/NOUN and/CCONJ his/DET right/ADJ hand/NOUN hold/VERB high/ADV then/ADV resume/VERB his/DET original/ADJ position/NOUN#0.0#0.0
+person stretch his arms out diagonally.#person/NOUN stretch/VERB his/DET arm/NOUN out/ADV diagonally/ADV#0.0#0.0
+a person stretches arms out.#a/DET person/NOUN stretch/VERB arm/NOUN out/ADV#0.0#0.0

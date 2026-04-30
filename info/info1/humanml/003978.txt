@@ -1,0 +1,3 @@
+a person running to the right side 4 steps then the left side 5 steps to return to original spot.#a/DET person/NOUN run/VERB to/ADP the/DET right/ADJ side/NOUN step/NOUN then/ADV the/DET left/ADJ side/NOUN step/NOUN to/PART return/VERB to/ADP original/ADJ spot/NOUN#0.0#0.0
+a person running sideways ,backwards and forwards.#a/DET person/NOUN run/VERB sideways/ADV backwards/ADV and/CCONJ forwards/ADV#0.0#0.0
+someone is sprinting side to side#someone/PRON is/AUX sprint/VERB side/NOUN to/PART side/VERB#0.0#0.0

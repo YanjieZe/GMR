@@ -1,0 +1,3 @@
+a man stands with his knees bent.#a/DET man/NOUN stand/VERB with/ADP his/DET knee/NOUN bent/ADJ#0.0#0.0
+a person standing with its arm spread apart and then moving both arms down to its side#a/DET person/NOUN stand/VERB with/ADP its/DET arm/NOUN spread/VERB apart/ADV and/CCONJ then/ADV move/VERB both/DET arm/NOUN down/ADP to/ADP its/DET side/NOUN#0.0#0.0
+a person stands still and does nothing.#a/DET person/NOUN stand/VERB still/ADV and/CCONJ does/AUX nothing/PRON#0.0#0.0

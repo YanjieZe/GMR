@@ -1,0 +1,3 @@
+person is facing forward for 5 seconds and then pushes backwards with the red foot.#person/NOUN is/AUX face/VERB forward/ADV for/ADP second/NOUN and/CCONJ then/ADV push/VERB backwards/ADV with/ADP the/DET red/ADJ foot/NOUN#0.0#0.0
+a person walks backwards a few steps#a/DET person/NOUN walk/VERB backwards/ADV a/DET few/ADJ step/NOUN#0.0#0.0
+a person takes one step backwards.#a/DET person/NOUN take/VERB one/NUM step/NOUN backwards/ADV#0.0#0.0

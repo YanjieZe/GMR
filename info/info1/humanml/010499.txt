@@ -1,0 +1,3 @@
+this person steps forward then sits on a stool to brush off his shoe.#this/DET person/NOUN step/VERB forward/ADV then/ADV sit/VERB on/ADP a/DET stool/NOUN to/PART brush/VERB off/ADP his/DET shoe/NOUN#0.0#0.0
+a person puts his hands together and sits down.#a/DET person/NOUN put/VERB his/DET hand/NOUN together/ADV and/CCONJ sit/VERB down/ADP#0.0#0.0
+aperson slowly walked forward, adn sit down on somewhere#aperson/PROPN slowly/ADV walk/VERB forward/ADV adn/PROPN sit/VERB down/ADP on/ADP somewhere/ADV#0.0#0.0

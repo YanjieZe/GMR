@@ -1,0 +1,3 @@
+a person writes on a board in front of them with right hand.#a/DET person/NOUN write/VERB on/ADP a/DET board/NOUN in/ADP front/NOUN of/ADP them/PRON with/ADP right/ADJ hand/NOUN#0.0#0.0
+the person is waving hi.#the/DET person/NOUN is/AUX wave/VERB hi/INTJ#0.0#0.0
+a person writes on a chalkboard with their right hand, then erases something with their left hand.#a/DET person/NOUN write/VERB on/ADP a/DET chalkboard/NOUN with/ADP their/DET right/ADJ hand/NOUN then/ADV erase/VERB something/PRON with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0

@@ -1,0 +1,2 @@
+a person ran  forward in left direction#a/DET person/NOUN run/VERB forward/ADV in/ADP left/ADJ direction/NOUN#0.0#0.0
+a person puts his hands near his hips then runs forward turns around and walks back slowly#a/DET person/NOUN put/VERB his/DET hand/NOUN near/SCONJ his/DET hip/NOUN then/ADV run/VERB forward/ADV turn/VERB around/ADV and/CCONJ walk/VERB back/ADV slowly/ADV#0.0#0.0

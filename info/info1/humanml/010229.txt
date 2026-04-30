@@ -1,0 +1,3 @@
+the person was pretending to be a dog.#the/DET person/NOUN was/AUX pretend/VERB to/PART be/AUX a/DET dog/NOUN#0.0#0.0
+a person scratches themselves as if they were a dog.#a/DET person/NOUN scratch/VERB themselves/PRON as/SCONJ if/SCONJ they/PRON were/AUX a/DET dog/NOUN#0.0#0.0
+a person bent over digging then leans back to the side.#a/DET person/NOUN bent/ADJ over/ADP dig/VERB then/ADV lean/VERB back/ADV to/ADP the/DET side/NOUN#0.0#0.0

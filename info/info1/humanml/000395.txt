@@ -1,0 +1,3 @@
+person is using their left arm to wave#person/NOUN is/AUX use/VERB their/DET left/ADJ arm/NOUN to/PART wave/VERB#0.0#0.0
+a person waves with the left hand.#a/DET person/NOUN wave/VERB with/ADP the/DET left/ADJ hand/NOUN#0.0#0.0
+a person waves their left hand above their head, then lowers the hand.#a/DET person/NOUN wave/VERB their/DET left/ADJ hand/NOUN above/ADP their/DET head/NOUN then/ADV lower/VERB the/DET hand/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a man picks something up with his left hand and mixes it and then steps back.#a/DET man/NOUN pick/VERB something/PRON up/ADP with/ADP his/DET left/ADJ hand/NOUN and/CCONJ mix/VERB it/PRON and/CCONJ then/ADV step/VERB back/ADV#0.0#0.0
+he picks up two items from a table, pours one into a pot, and sprinkles the other before stepping back.#he/PRON pick/VERB up/ADV two/NUM item/NOUN from/ADP a/DET table/NOUN pour/VERB one/NOUN into/ADP a/DET pot/NOUN and/CCONJ sprinkle/VERB the/DET other/ADJ before/ADP step/VERB back/ADV#0.0#0.0
+a person pours something into an object and then steps backwards.#a/DET person/NOUN pour/VERB something/PRON into/ADP an/DET object/NOUN and/CCONJ then/ADV step/VERB backwards/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+the person worriedly clasps and wrings their hands, then drops their arms by their sides.#the/DET person/NOUN worriedly/ADV clasp/VERB and/CCONJ wring/VERB their/DET hand/NOUN then/ADV drop/VERB their/DET arm/NOUN by/ADP their/DET side/NOUN#0.0#0.0
+a person checks time on watch.#a/DET person/NOUN check/VERB time/NOUN on/ADP watch/NOUN#0.0#0.0
+a person rubs their hands together in front of their body#a/DET person/NOUN rub/VERB their/DET hand/NOUN together/ADV in/ADP front/NOUN of/ADP their/DET body/NOUN#0.0#0.0

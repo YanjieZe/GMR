@@ -1,0 +1,3 @@
+a person is walking forward down stairs.#a/DET person/NOUN is/AUX walk/VERB forward/ADV down/ADP stair/NOUN#0.0#0.0
+a person stepping down the stairs#a/DET person/NOUN step/VERB down/ADP the/DET stair/NOUN#0.0#0.0
+a person walks slowly forward on to a grey rectangle leaving a trail behind him#a/DET person/NOUN walk/VERB slowly/ADV forward/ADV on/ADV to/ADP a/DET grey/ADJ rectangle/NOUN leave/VERB a/DET trail/NOUN behind/ADP him/PRON#0.0#0.0

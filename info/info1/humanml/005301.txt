@@ -1,0 +1,3 @@
+this person jumps forward then jumps backward.#this/DET person/NOUN jump/VERB forward/ADV then/ADV jump/VERB backward/ADV#0.0#0.0
+a person jumps forward, turns around and stretches, and jumps forward again.#a/DET person/NOUN jump/VERB forward/ADV turn/VERB around/ADV and/CCONJ stretch/NOUN and/CCONJ jump/VERB forward/ADV again/ADV#0.0#0.0
+a person does broad jumps back and forth with a quick stretch in between jumps.#a/DET person/NOUN does/AUX broad/ADJ jump/VERB back/ADV and/CCONJ forth/ADV with/ADP a/DET quick/ADJ stretch/NOUN in/ADP between/ADP jump/NOUN#0.0#0.0

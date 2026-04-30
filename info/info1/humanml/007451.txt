@@ -1,0 +1,3 @@
+raising arm towards chest while standing.#raise/VERB arm/NOUN towards/ADP chest/NOUN while/SCONJ stand/VERB#0.0#0.0
+a person raised the left hand,#a/DET person/NOUN raise/VERB the/DET left/ADJ hand/NOUN#0.0#0.0
+a person looks down and checks their watch for time.#a/DET person/NOUN look/VERB down/ADP and/CCONJ check/VERB their/DET watch/NOUN for/ADP time/NOUN#0.0#0.0

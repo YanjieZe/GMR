@@ -1,0 +1,3 @@
+a man slowly leans forward and moves around and carries a heavy object.#a/DET man/NOUN slowly/ADV lean/VERB forward/ADV and/CCONJ move/VERB around/ADV and/CCONJ carry/VERB a/DET heavy/ADJ object/NOUN#0.0#0.0
+a person leans forward then hops back trying to catch something#a/DET person/NOUN lean/VERB forward/ADV then/ADV hop/VERB back/ADV try/VERB to/PART catch/VERB something/PRON#0.0#0.0
+the figure man is moving in a theatrical ways, hunching and walking sadly and dramatically.#the/DET figure/NOUN man/NOUN is/AUX move/VERB in/ADP a/DET theatrical/ADJ way/NOUN hunching/NOUN and/CCONJ walk/VERB sadly/ADV and/CCONJ dramatically/ADV#1.0#10.0

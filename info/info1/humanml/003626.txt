@@ -1,0 +1,3 @@
+a man walks in a figure eight formation.#a/DET man/NOUN walk/VERB in/ADP a/DET figure/NOUN eight/NUM formation/NOUN#0.0#0.0
+the stick figure walks in an almost number eight shape.#the/DET stick/NOUN figure/NOUN walk/VERB in/ADP an/DET almost/ADV number/NOUN eight/NUM shape/NOUN#0.0#0.0
+the person quickly walk in a figure-8, then abruptly stops and faces the 8.#the/DET person/NOUN quickly/ADV walk/VERB in/ADP a/DET then/ADV abruptly/ADV stop/VERB and/CCONJ face/VERB the/DET#0.0#0.0

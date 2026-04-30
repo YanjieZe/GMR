@@ -1,0 +1,3 @@
+a person takes a few steps forward before coming back to a stop.#a/DET person/NOUN take/VERB a/DET few/ADJ step/NOUN forward/ADV before/ADP come/VERB back/ADV to/ADP a/DET stop/NOUN#0.0#0.0
+walking forward and then stopping.#walk/VERB forward/ADV and/CCONJ then/ADV stop/VERB#0.0#0.0
+a man walks to the opposite end of the room.#a/DET man/NOUN walk/VERB to/ADP the/DET opposite/ADJ end/NOUN of/ADP the/DET room/NOUN#0.0#0.0

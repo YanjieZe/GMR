@@ -1,0 +1,3 @@
+a person punches out in front of them alternating hands#a/DET person/NOUN punch/VERB out/ADP in/ADP front/NOUN of/ADP them/PRON alternate/VERB hand/NOUN#0.0#0.0
+person raises his right arm into the air and makes rapid jabbing motions upwards, before twisting to the right and making the same rapid jabbing motions into the air with his left hand.#person/NOUN raise/VERB his/DET right/ADJ arm/NOUN into/ADP the/DET air/NOUN and/CCONJ make/VERB rapid/ADJ jabbing/NOUN motion/NOUN upwards/ADV before/ADP twist/VERB to/ADP the/DET right/NOUN and/CCONJ make/VERB the/DET same/ADJ rapid/ADJ jab/VERB motion/NOUN into/ADP the/DET air/NOUN with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0
+moving hands up near face.#move/VERB hand/NOUN up/ADP near/SCONJ face/NOUN#0.0#0.0

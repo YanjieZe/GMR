@@ -1,0 +1,3 @@
+a person standing and then doing jumping jacks.#a/DET person/NOUN stand/VERB and/CCONJ then/ADV do/VERB jump/VERB jack/NOUN#0.0#0.0
+person looks like their doing jumping jacks#person/NOUN look/VERB like/SCONJ their/DET do/VERB jump/VERB jack/NOUN#0.0#0.0
+a person standing does a squat, then jumps and reaches with both hands above their head, and then returns to the squat position to repeat movement.#a/DET person/NOUN stand/VERB does/AUX a/DET squat/NOUN then/ADV jump/VERB and/CCONJ reach/VERB with/ADP both/DET hand/NOUN above/ADP their/DET head/NOUN and/CCONJ then/ADV return/VERB to/ADP the/DET squat/ADJ position/NOUN to/PART repeat/VERB movement/NOUN#0.0#0.0

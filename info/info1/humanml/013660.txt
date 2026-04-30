@@ -1,0 +1,3 @@
+a person stumbles forward while walking, then stumbles back and to the left, then forward and ends up turning around while stumbling.#a/DET person/NOUN stumble/VERB forward/ADV while/SCONJ walk/VERB then/ADV stumble/VERB back/ADV and/CCONJ to/ADP the/DET left/NOUN then/ADV forward/ADV and/CCONJ end/VERB up/ADP turn/VERB around/ADV while/SCONJ stumble/VERB#0.0#0.0
+this person is walking and stumbling as if drunk.#this/DET person/NOUN is/AUX walk/VERB and/CCONJ stumble/VERB as/SCONJ if/SCONJ drunk/ADJ#0.0#0.0
+a person stumbles around seemingly drunk back and forth trying not to fall over#a/DET person/NOUN stumble/VERB around/ADP seemingly/ADV drunk/ADJ back/ADV and/CCONJ forth/ADV try/VERB not/PART to/PART fall/VERB over/ADP#0.0#0.0

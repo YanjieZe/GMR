@@ -1,0 +1,3 @@
+person swings right arm as if pitching a ball to the left.#person/NOUN swing/VERB right/ADJ arm/NOUN as/SCONJ if/SCONJ pitch/VERB a/DET ball/NOUN to/ADP the/DET left/NOUN#0.0#0.0
+a person throws something with their right hand hard.#a/DET person/NOUN throw/VERB something/PRON with/ADP their/DET right/ADJ hand/NOUN hard/ADV#0.0#0.0
+a person throws something hard with their right arm.#a/DET person/NOUN throw/VERB something/PRON hard/ADJ with/ADP their/DET right/ADJ arm/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+the person waves their right arm in circles from bottom to top.#the/DET person/NOUN wave/VERB their/DET right/ADJ arm/NOUN in/ADP circle/NOUN from/ADP bottom/NOUN to/ADP top/NOUN#0.0#0.0
+a person spins their right arm in a large circle, then spins it in the opposite direction.#a/DET person/NOUN spin/VERB their/DET right/ADJ arm/NOUN in/ADP a/DET large/ADJ circle/NOUN then/ADV spin/VERB it/PRON in/ADP the/DET opposite/ADJ direction/NOUN#0.0#0.0
+a person swings around his right arm.#a/DET person/NOUN swing/VERB around/ADP his/DET right/ADJ arm/NOUN#0.0#0.0

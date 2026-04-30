@@ -1,0 +1,3 @@
+a person throws something using both hands above their head#a/DET person/NOUN throw/VERB something/PRON use/VERB both/DET hand/NOUN above/ADP their/DET head/NOUN#0.0#0.0
+the person is throwing something with both hands overhead.#the/DET person/NOUN is/AUX throw/VERB something/PRON with/ADP both/DET hand/NOUN overhead/ADV#0.0#0.0
+stepping forward, he turns to his left, raises his hands over his head, and taps a volleyball back several times.#step/VERB forward/ADV he/PRON turn/VERB to/ADP his/DET left/NOUN raise/VERB his/DET hand/NOUN over/ADP his/DET head/NOUN and/CCONJ tap/VERB a/DET volleyball/NOUN back/ADV several/ADJ time/NOUN#0.0#0.0

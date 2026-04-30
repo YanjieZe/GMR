@@ -1,0 +1,3 @@
+a person nearly falls while legs are tied#a/DET person/NOUN nearly/ADV fall/VERB while/SCONJ leg/NOUN are/AUX tie/VERB#0.0#0.0
+a person stands with their right leg behind the left.  he appears to stumble to his right before regaining balance.#a/DET person/NOUN stand/VERB with/ADP their/DET right/ADJ leg/NOUN behind/ADP the/DET left/NOUN he/PRON appear/VERB to/PART stumble/VERB to/ADP his/DET right/NOUN before/ADP regain/VERB balance/NOUN#0.0#0.0
+person stumbles and bends to their right side.#person/NOUN stumble/VERB and/CCONJ bend/VERB to/ADP their/DET right/ADJ side/NOUN#0.0#0.0

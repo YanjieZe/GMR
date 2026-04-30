@@ -1,0 +1,3 @@
+a man scratches one hand then turns around.#a/DET man/NOUN scratch/VERB one/NUM hand/NOUN then/ADV turn/VERB around/ADV#0.0#0.0
+a person is bent over the starts drying right arm.#a/DET person/NOUN is/AUX bent/ADJ over/ADP the/DET start/NOUN dry/VERB right/ADJ arm/NOUN#0.0#0.0
+the person was unscrewing a lid.#the/DET person/NOUN was/AUX unscrew/VERB a/DET lid/NOUN#0.0#0.0

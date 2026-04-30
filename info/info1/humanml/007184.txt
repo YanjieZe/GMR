@@ -1,0 +1,3 @@
+a figure stands with knees bent, unmoving#a/DET figure/NOUN stand/VERB with/ADP knee/NOUN bent/ADJ unmove/VERB#0.0#0.0
+standing with arms on legs.#stand/VERB with/ADP arm/NOUN on/ADP leg/NOUN#0.0#0.0
+a person stands still.#a/DET person/NOUN stand/VERB still/ADV#0.0#0.0

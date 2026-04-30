@@ -1,0 +1,3 @@
+a man skips in a circle with his arms moving up anf down#a/DET man/NOUN skip/VERB in/ADP a/DET circle/NOUN with/ADP his/DET arm/NOUN move/VERB up/ADP anf/NOUN down/ADP#0.0#0.0
+the person is skipping in a circle swinging his arms around.#the/DET person/NOUN is/AUX skip/VERB in/ADP a/DET circle/NOUN swinge/VERB his/DET arm/NOUN around/ADV#0.0#0.0
+a person skips in a counterclockwise circle.#a/DET person/NOUN skip/VERB in/ADP a/DET counterclockwise/ADJ circle/NOUN#0.0#0.0

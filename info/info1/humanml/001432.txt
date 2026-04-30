@@ -1,0 +1,3 @@
+a person stands in one place with both hands resting on something.#a/DET person/NOUN stand/VERB in/ADP one/NUM place/NOUN with/ADP both/DET hand/NOUN rest/VERB on/ADP something/PRON#0.0#0.0
+person is holding arms straight up forward.#person/NOUN is/AUX hold/VERB arm/NOUN straight/ADV up/ADV forward/ADV#0.0#0.0
+someone has their arms up as if they are riding a motorcycle#someone/PRON has/AUX their/DET arm/NOUN up/ADP as/SCONJ if/SCONJ they/PRON are/AUX ride/VERB a/DET motorcycle/NOUN#0.0#0.0

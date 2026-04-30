@@ -1,0 +1,3 @@
+the person is holding his face because he has a toothache.#the/DET person/NOUN is/AUX hold/VERB his/DET face/NOUN because/SCONJ he/PRON has/AUX a/DET toothache/NOUN#0.0#0.0
+person slumped over slightly, holding face as if from tooth pain.#person/NOUN slump/VERB over/ADP slightly/ADV hold/VERB face/NOUN as/SCONJ if/SCONJ from/ADP tooth/ADJ pain/NOUN#0.0#0.0
+a man shouting out for someone.#a/DET man/NOUN shout/VERB out/ADP for/ADP someone/PRON#0.0#0.0

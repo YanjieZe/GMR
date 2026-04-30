@@ -1,0 +1,3 @@
+this person used their right arm to turn their head and then extend the arm away from the body.#this/DET person/NOUN use/VERB their/DET right/ADJ arm/NOUN to/PART turn/VERB their/DET head/NOUN and/CCONJ then/ADV extend/VERB the/DET arm/NOUN away/ADV from/ADP the/DET body/NOUN#0.0#0.0
+person is moving something around.#person/NOUN is/AUX move/VERB something/PRON around/ADV#0.0#0.0
+a person is putting something on a counter#a/DET person/NOUN is/AUX put/VERB something/PRON on/ADP a/DET counter/NOUN#0.0#0.0

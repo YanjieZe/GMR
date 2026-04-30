@@ -1,0 +1,3 @@
+stick figure walks left and stops#stick/PROPN figure/NOUN walk/VERB left/VERB and/CCONJ stop/NOUN#0.0#0.0
+a man walks and slowly turns 45 degrees to the left.#a/DET man/NOUN walk/VERB and/CCONJ slowly/ADV turn/VERB degree/NOUN to/ADP the/DET left/NOUN#0.0#0.0
+a person walks towards left .#a/DET person/NOUN walk/VERB towards/ADP left/VERB#0.0#0.0

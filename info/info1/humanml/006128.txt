@@ -1,0 +1,3 @@
+swingin arms and kicking feet.#swingin/NOUN arm/NOUN and/CCONJ kick/VERB foot/NOUN#0.0#0.0
+a person starts punching and kicking the air.#a/DET person/NOUN start/VERB punch/VERB and/CCONJ kick/VERB the/DET air/NOUN#0.0#0.0
+the person was his wiggling his arms and wiggling his feet.#the/DET person/NOUN was/AUX his/DET wiggle/VERB his/DET arm/NOUN and/CCONJ wiggle/VERB his/DET foot/NOUN#0.0#0.0

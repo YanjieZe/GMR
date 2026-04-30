@@ -1,0 +1,3 @@
+a person walks and stops, then bends foreward while touching left knee with left hand and reaching to touch something with right hand, then cautiously steps backward and stands.#a/DET person/NOUN walk/VERB and/CCONJ stop/VERB then/ADV bend/VERB foreward/NOUN while/SCONJ touch/VERB left/ADJ knee/NOUN with/ADP left/ADJ hand/NOUN and/CCONJ reach/VERB to/PART touch/VERB something/PRON with/ADP right/ADJ hand/NOUN then/ADV cautiously/ADV step/VERB backward/ADV and/CCONJ stand/VERB#0.0#0.0
+a person walks forward then leans over and grabs something#a/DET person/NOUN walk/VERB forward/ADV then/ADV lean/VERB over/ADV and/CCONJ grab/NOUN something/PRON#0.0#0.0
+the person leans on something.#the/DET person/NOUN lean/VERB on/ADP something/PRON#0.0#0.0

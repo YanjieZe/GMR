@@ -1,0 +1,3 @@
+person is sitting down with arms hanging#person/NOUN is/AUX sit/VERB down/ADP with/ADP arm/NOUN hang/VERB#0.0#0.0
+a person lowers their hands to their knees.#a/DET person/NOUN lower/VERB their/DET hand/NOUN to/ADP their/DET knee/NOUN#0.0#0.0
+a person stands with knees slightly bent and extends arms out to shoulder height.#a/DET person/NOUN stand/VERB with/ADP knee/NOUN slightly/ADV bent/ADJ and/CCONJ extend/VERB arm/NOUN out/ADV to/ADP shoulder/NOUN height/NOUN#0.0#0.0

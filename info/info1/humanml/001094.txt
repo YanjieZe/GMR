@@ -1,0 +1,3 @@
+a person walks in front of them, bends down to touch their toes, then turns counter-clockwise to walk back to where they started.#a/DET person/NOUN walk/VERB in/ADP front/NOUN of/ADP them/PRON bend/VERB down/ADP to/PART touch/VERB their/DET toe/NOUN then/ADV turn/VERB counterclockwise/NOUN to/PART walk/VERB back/ADV to/ADP where/ADV they/PRON start/VERB#0.0#0.0
+someone is walking and moving around bending down.#someone/PRON is/AUX walk/VERB and/CCONJ move/VERB around/ADV bend/VERB down/ADP#0.0#0.0
+a man walks downward to touch his feet then turns around to walk backward.#a/DET man/NOUN walk/VERB downward/ADV to/PART touch/VERB his/DET foot/NOUN then/ADV turn/VERB around/ADP to/PART walk/VERB backward/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person runs in a clock wise half-circle, before stopping and walking to the center.#a/DET person/NOUN run/VERB in/ADP a/DET clock/ADJ wise/ADJ halfcircle/NOUN before/ADP stop/VERB and/CCONJ walk/VERB to/ADP the/DET center/NOUN#0.0#0.0
+a person runs casually in a clockwise circle, then walks to the center of the circle.#a/DET person/NOUN run/VERB casually/ADV in/ADP a/DET clockwise/NOUN circle/NOUN then/ADV walk/VERB to/ADP the/DET center/NOUN of/ADP the/DET circle/NOUN#0.0#0.0
+a man jogs in a wide arc to his right then turns and take several steps back.#a/DET man/NOUN jog/VERB in/ADP a/DET wide/ADJ arc/NOUN to/ADP his/DET right/NOUN then/ADV turn/VERB and/CCONJ take/VERB several/ADJ step/NOUN back/ADV#0.0#0.0

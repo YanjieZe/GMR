@@ -1,0 +1,3 @@
+a person jumping into a clockwise air spin.#a/DET person/NOUN jump/VERB into/ADP a/DET clockwise/ADJ air/NOUN spin/NOUN#0.0#0.0
+a person jumps and spins around.#a/DET person/NOUN jump/VERB and/CCONJ spin/VERB around/ADV#0.0#0.0
+a person performs a jump spin move 360 degrees.#a/DET person/NOUN perform/VERB a/DET jump/NOUN spin/NOUN move/VERB degree/NOUN#0.0#0.0

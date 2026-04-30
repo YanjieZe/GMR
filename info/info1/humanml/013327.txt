@@ -1,0 +1,3 @@
+man walk forward reaches arm out like he's pulling on a door turn around then walk back and turn around again to walk back forward.#man/PROPN walk/VERB forward/ADV reach/VERB arm/VERB out/ADP like/SCONJ he/PRON pull/VERB on/ADP a/DET door/NOUN turn/NOUN around/ADV then/ADV walk/VERB back/ADV and/CCONJ turn/VERB around/ADP again/ADV to/PART walk/VERB back/ADV forward/ADV#0.0#0.0
+grabbing something walking back and grabbing it again#grab/VERB something/PRON walk/VERB back/ADV and/CCONJ grab/VERB it/PRON again/ADV#0.0#0.0
+a person walks forward, picks something up, then walks back.#a/DET person/NOUN walk/VERB forward/ADV pick/VERB something/PRON up/ADP then/ADV walk/VERB back/ADV#0.0#0.0

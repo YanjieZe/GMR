@@ -1,0 +1,3 @@
+a person swings its arms as they jump up and down once.#a/DET person/NOUN swing/VERB its/DET arm/NOUN as/SCONJ they/PRON jump/VERB up/ADP and/CCONJ down/ADV once/ADV#0.0#0.0
+a man jumps and folds his arms in front of him.#a/DET man/NOUN jump/VERB and/CCONJ fold/VERB his/DET arm/NOUN in/ADP front/NOUN of/ADP him/PRON#0.0#0.0
+a man takes a big leap.#a/DET man/NOUN take/VERB a/DET big/ADJ leap/NOUN#0.0#0.0

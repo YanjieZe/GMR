@@ -1,0 +1,3 @@
+person is i think knocking on a door.#person/NOUN is/AUX i/PRON think/VERB knock/VERB on/ADP a/DET door/NOUN#0.0#0.0
+a person steps forward holding something than makes a knock on door gesture.#a/DET person/NOUN step/VERB forward/ADV hold/VERB something/PRON than/SCONJ make/VERB a/DET knock/NOUN on/ADP door/NOUN gesture/NOUN#0.0#0.0
+a person walks forward slowly then stops and reaches his right arm forward and back towards his body.#a/DET person/NOUN walk/VERB forward/ADV slowly/ADV then/ADV stop/VERB and/CCONJ reach/VERB his/DET right/ADJ arm/NOUN forward/ADV and/CCONJ back/ADV towards/ADP his/DET body/NOUN#0.0#0.0

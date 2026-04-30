@@ -1,0 +1,3 @@
+a man dances rhythmically from side to side and then turns#a/DET man/NOUN dance/VERB rhythmically/ADV from/ADP side/NOUN to/ADP side/NOUN and/CCONJ then/ADV turn/VERB#0.0#0.0
+a person is doing a salsa dance moving their legs and arms.#a/DET person/NOUN is/AUX do/VERB a/DET salsa/ADJ dance/NOUN move/VERB their/DET leg/NOUN and/CCONJ arm/NOUN#0.0#0.0
+person is doing a dance#person/NOUN is/AUX do/VERB a/DET dance/NOUN#0.0#0.0

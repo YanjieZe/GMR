@@ -1,0 +1,3 @@
+a person walks and lifts something up to move it#a/DET person/NOUN walk/VERB and/CCONJ lift/VERB something/PRON up/ADP to/PART move/VERB it/PRON#0.0#0.0
+the man walks and picked up something from the ground place it in his place and walks back#the/DET man/NOUN walk/VERB and/CCONJ pick/VERB up/ADP something/PRON from/ADP the/DET ground/NOUN place/VERB it/PRON in/ADP his/DET place/NOUN and/CCONJ walk/VERB back/ADV#0.0#0.0
+the person is lifting some thing that is heavy.#the/DET person/NOUN is/AUX lift/VERB some/DET thing/NOUN that/DET is/AUX heavy/ADJ#0.0#0.0

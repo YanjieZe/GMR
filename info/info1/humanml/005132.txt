@@ -1,0 +1,3 @@
+a man is standing with hands on thighs and then raises his arms out to his sides.#a/DET man/NOUN is/AUX stand/VERB with/ADP hand/NOUN on/ADP thigh/NOUN and/CCONJ then/ADV raise/VERB his/DET arm/NOUN out/SCONJ to/ADP his/DET side/NOUN#0.0#0.0
+a person has his arms on his thighs.#a/DET person/NOUN has/AUX his/DET arm/NOUN on/ADP his/DET thigh/NOUN#0.0#0.0
+a person stands with their hands on thighs then outstretches arms to their sides.#a/DET person/NOUN stand/VERB with/ADP their/DET hand/NOUN on/ADP thigh/NOUN then/ADV outstretche/VERB arm/NOUN to/ADP their/DET side/NOUN#0.0#0.0

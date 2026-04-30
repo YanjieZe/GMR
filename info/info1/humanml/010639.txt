@@ -1,0 +1,3 @@
+a person is clapping their hands together#a/DET person/NOUN is/AUX clap/VERB their/DET hand/NOUN together/ADV#0.0#0.0
+a person claps four times.#a/DET person/NOUN clap/VERB four/NUM time/NOUN#0.0#0.0
+a person who is standing lifts his hands and claps them four times.#a/DET person/NOUN who/PRON is/AUX stand/VERB lift/VERB his/DET hand/NOUN and/CCONJ clap/VERB them/PRON four/NUM time/NOUN#0.0#0.0

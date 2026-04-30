@@ -1,0 +1,3 @@
+a person walking in an odd way#a/DET person/NOUN walk/VERB in/ADP an/DET odd/ADJ way/NOUN#0.0#0.0
+person walking forward in a manner that appears as if they are teying to avoid stepping on something in their path.#person/NOUN walk/VERB forward/ADV in/ADP a/DET manner/NOUN that/DET appear/VERB as/SCONJ if/SCONJ they/PRON are/AUX teye/VERB to/PART avoid/VERB step/VERB on/ADP something/PRON in/ADP their/DET path/NOUN#0.0#0.0
+a person walks forward in a staggered pattern.#a/DET person/NOUN walk/VERB forward/ADV in/ADP a/DET staggered/ADJ pattern/NOUN#0.0#0.0

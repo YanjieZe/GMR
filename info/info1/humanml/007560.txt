@@ -1,0 +1,3 @@
+a person raised their arms above their head then set it back down.#a/DET person/NOUN raise/VERB their/DET arm/NOUN above/ADP their/DET head/NOUN then/ADV set/VERB it/PRON back/ADV down/ADP#0.0#0.0
+a man covers his face with his hands.#a/DET man/NOUN cover/VERB his/DET face/NOUN with/ADP his/DET hand/NOUN#0.0#0.0
+a person puts their right hand over their face to shield away from the sun. they also put their left hand up partially#a/DET person/NOUN put/VERB their/DET right/ADJ hand/NOUN over/ADP their/DET face/NOUN to/PART shield/VERB away/ADV from/ADP the/DET sun/NOUN they/PRON also/ADV put/VERB their/DET left/ADJ hand/NOUN up/ADP partially/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person grabbed something with both hands, and hit something#a/DET person/NOUN grab/VERB something/PRON with/ADP both/DET hand/NOUN and/CCONJ hit/VERB something/PRON#0.0#0.0
+swinging golf club slowly.#swinge/VERB golf/PROPN club/NOUN slowly/ADV#0.0#0.0
+a person clasps their hands and swings them from left to right#a/DET person/NOUN clasp/VERB their/DET hand/NOUN and/CCONJ swing/VERB them/PRON from/ADP left/VERB to/ADP right/ADJ#0.0#0.0

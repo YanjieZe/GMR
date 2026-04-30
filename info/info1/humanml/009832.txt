@@ -1,0 +1,3 @@
+walking forward and then stopping.#walk/VERB forward/ADV and/CCONJ then/ADV stop/VERB#0.0#0.0
+a person stumbles a few steps forward.#a/DET person/NOUN stumble/VERB a/DET few/ADJ step/NOUN forward/ADV#0.0#0.0
+person is walking forward in odd motion#person/NOUN is/AUX walk/VERB forward/ADV in/ADP odd/ADJ motion/NOUN#0.0#0.0

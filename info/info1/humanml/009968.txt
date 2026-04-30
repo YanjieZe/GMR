@@ -1,0 +1,3 @@
+the man puts the box down and runs#the/DET man/NOUN put/VERB the/DET box/NOUN down/ADP and/CCONJ run/NOUN#0.0#0.0
+this person is running quickly across the space.#this/DET person/NOUN is/AUX run/VERB quickly/ADV across/ADP the/DET space/NOUN#0.0#0.0
+a person places an object on the ground before running forward.#a/DET person/NOUN place/VERB an/DET object/NOUN on/ADP the/DET ground/NOUN before/ADP run/VERB forward/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+person is standing and starts motion to their left#person/NOUN is/AUX stand/VERB and/CCONJ start/VERB motion/NOUN to/ADP their/DET left/NOUN#0.0#0.0
+a person is doing yoga.#a/DET person/NOUN is/AUX do/VERB yoga/NOUN#0.0#0.0
+a person stands with arms and feet wide, drops his arms, and places his weight on his left foot while lifting his right.#a/DET person/NOUN stand/VERB with/ADP arm/NOUN and/CCONJ foot/NOUN wide/ADJ drop/VERB his/DET arm/NOUN and/CCONJ place/VERB his/DET weight/NOUN on/ADP his/DET left/ADJ foot/NOUN while/SCONJ lift/VERB his/DET right/NOUN#0.0#0.0

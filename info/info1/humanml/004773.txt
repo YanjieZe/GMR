@@ -1,0 +1,3 @@
+a woman is sauntering across the screen#a/DET woman/NOUN is/AUX saunter/VERB across/ADP the/DET screen/NOUN#0.0#0.0
+the person is dancing or shaking around#the/DET person/NOUN is/AUX dance/VERB or/CCONJ shake/VERB around/ADV#0.0#0.0
+a person twists the upper torso to the right, while quickly sliding or jumping back at an angle, then does a forward shuffle (foot forward and together and forward) leading with the left foot.#a/DET person/NOUN twist/VERB the/DET upper/ADJ torso/NOUN to/ADP the/DET right/NOUN while/SCONJ quickly/ADV slide/VERB or/CCONJ jump/VERB back/ADV at/ADP an/DET angle/NOUN then/ADV does/AUX a/DET forward/ADJ shuffle/NOUN foot/NOUN forward/ADV and/CCONJ together/ADV and/CCONJ forward/ADV lead/VERB with/ADP the/DET left/ADJ foot/NOUN#0.0#0.0

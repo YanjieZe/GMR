@@ -1,0 +1,3 @@
+a person leans over to wipe down a table#a/DET person/NOUN lean/VERB over/ADP to/PART wipe/VERB down/ADP a/DET table/NOUN#0.0#0.0
+robot start walking forward then start cleaning something with his left and then step back and stand#robot/PROPN start/VERB walk/VERB forward/ADV then/ADV start/VERB clean/VERB something/PRON with/ADP his/DET left/NOUN and/CCONJ then/ADV step/VERB back/ADV and/CCONJ stand/VERB#0.0#0.0
+person moves forward slowly and lowers their right hand down in a clockwise position the person then returns and steps back#person/NOUN move/VERB forward/ADV slowly/ADV and/CCONJ lower/VERB their/DET right/ADJ hand/NOUN down/ADP in/ADP a/DET clockwise/ADJ position/NOUN the/DET person/NOUN then/ADV return/VERB and/CCONJ step/NOUN back/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+it look like the person is trying to stop someone or people around them#it/PRON look/VERB like/SCONJ the/DET person/NOUN is/AUX try/VERB to/PART stop/VERB someone/PRON or/CCONJ people/NOUN around/ADP them/PRON#0.0#0.0
+a man raises his arms and has a big stretch out before flicking his left arm out.#a/DET man/NOUN raise/VERB his/DET arm/NOUN and/CCONJ has/AUX a/DET big/ADJ stretch/NOUN out/ADP before/ADP flick/VERB his/DET left/ADJ arm/NOUN out/ADP#0.0#0.0
+moving hands in and out near head.#move/VERB hand/NOUN in/ADV and/CCONJ out/SCONJ near/SCONJ head/NOUN#0.0#0.0

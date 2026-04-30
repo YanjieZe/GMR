@@ -1,0 +1,3 @@
+the sim is standing before moving to a crawling position.#the/DET sim/PROPN is/AUX stand/VERB before/ADP move/VERB to/ADP a/DET crawling/NOUN position/NOUN#0.0#0.0
+the person steps backs up.  gets down on their knees and crawls forward#the/DET person/NOUN step/VERB back/VERB up/ADP get/VERB down/ADP on/ADP their/DET knee/NOUN and/CCONJ crawl/VERB forward/ADV#0.0#0.0
+a person takes two steps back then gets on their knees and crawls fowards#a/DET person/NOUN take/VERB two/NUM step/NOUN back/ADV then/ADV get/VERB on/ADP their/DET knee/NOUN and/CCONJ crawl/VERB foward/NOUN#0.0#0.0

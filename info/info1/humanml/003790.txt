@@ -1,0 +1,3 @@
+a person with their shoulders held high#a/DET person/NOUN with/ADP their/DET shoulder/NOUN hold/VERB high/ADV#0.0#0.0
+a person standing completely still.#a/DET person/NOUN stand/VERB completely/ADV still/ADV#0.0#0.0
+a person stands with both arms extended slightly in front of them.#a/DET person/NOUN stand/VERB with/ADP both/DET arm/NOUN extend/VERB slightly/ADV in/ADP front/NOUN of/ADP them/PRON#0.0#0.0

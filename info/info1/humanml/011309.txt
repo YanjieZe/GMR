@@ -1,0 +1,3 @@
+a person walks up, turns around and starts dribbling and shooting.#a/DET person/NOUN walk/VERB up/ADP turn/VERB around/ADV and/CCONJ start/VERB dribble/VERB and/CCONJ shoot/VERB#0.0#0.0
+a person walks up turns and starts lifting#a/DET person/NOUN walk/VERB up/ADP turn/NOUN and/CCONJ start/VERB lift/VERB#0.0#0.0
+a person steps forward, turns around, bends down and throws an object using both hands two times.#a/DET person/NOUN step/VERB forward/ADV turn/VERB around/ADV bend/VERB down/ADP and/CCONJ throw/VERB an/DET object/NOUN use/VERB both/DET hand/NOUN two/NUM time/NOUN#0.0#0.0

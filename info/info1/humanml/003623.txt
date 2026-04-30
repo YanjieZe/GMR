@@ -1,0 +1,3 @@
+a person walks forwards, turns around on their right foot, and walks forwards.#a/DET person/NOUN walk/VERB forwards/ADV turn/VERB around/ADV on/ADP their/DET right/ADJ foot/NOUN and/CCONJ walk/VERB forwards/ADV#0.0#0.0
+a person walking forward and turning 180 degrees on his right foot to walk in the opposite direction.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ turn/VERB degree/NOUN on/ADP his/DET right/ADJ foot/NOUN to/PART walk/VERB in/ADP the/DET opposite/ADJ direction/NOUN#0.0#0.0
+a person walks forward, then pivots and walks back the way they came from.#a/DET person/NOUN walk/VERB forward/ADV then/ADV pivot/NOUN and/CCONJ walk/VERB back/ADV the/DET way/NOUN they/PRON come/VERB from/ADP#0.0#0.0

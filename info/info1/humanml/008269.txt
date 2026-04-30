@@ -1,0 +1,3 @@
+a person holds something with right arm, then throws it#a/DET person/NOUN hold/VERB something/PRON with/ADP right/ADJ arm/NOUN then/ADV throw/VERB it/PRON#0.0#0.0
+a person winds up with something in their right hand, steps forward and throws the object with their right hand, steps back and repeats the action.#a/DET person/NOUN wind/VERB up/ADP with/ADP something/PRON in/ADP their/DET right/ADJ hand/NOUN step/VERB forward/ADV and/CCONJ throw/VERB the/DET object/NOUN with/ADP their/DET right/ADJ hand/NOUN step/VERB back/ADV and/CCONJ repeat/VERB the/DET action/NOUN#0.0#0.0
+he walked up a few steps to gain momentum to throw a ball#he/PRON walk/VERB up/ADV a/DET few/ADJ step/NOUN to/PART gain/VERB momentum/NOUN to/PART throw/VERB a/DET ball/NOUN#0.0#0.0

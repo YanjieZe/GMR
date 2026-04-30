@@ -1,0 +1,3 @@
+a man touches the top of his head with his left hand, extends it high, then bends his arm again to pat and rub his head, before extending and then bending it again.#a/DET man/NOUN touch/VERB the/DET top/NOUN of/ADP his/DET head/NOUN with/ADP his/DET left/ADJ hand/NOUN extend/VERB it/PRON high/ADJ then/ADV bend/VERB his/DET arm/NOUN again/ADV to/ADP pat/VERB and/CCONJ rub/VERB his/DET head/NOUN before/ADP extend/VERB and/CCONJ then/ADV bend/VERB it/PRON again/ADV#0.0#0.0
+the person cleans the top of the window#the/DET person/NOUN clean/VERB the/DET top/NOUN of/ADP the/DET window/NOUN#0.0#0.0
+person keeps adjusting their hair#person/NOUN keep/VERB adjust/VERB their/DET hair/NOUN#0.0#0.0

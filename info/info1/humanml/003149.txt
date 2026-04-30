@@ -1,0 +1,3 @@
+a person standing on one foot holds their right hand up while moving their left foot in a side to side motion.#a/DET person/NOUN stand/VERB on/ADP one/NUM foot/NOUN hold/VERB their/DET right/ADJ hand/NOUN up/ADP while/SCONJ move/VERB their/DET left/ADJ foot/NOUN in/ADP a/DET side/NOUN to/PART side/VERB motion/NOUN#0.0#0.0
+figure holds right leg halfway.#figure/NOUN hold/VERB right/ADJ leg/NOUN halfway/ADV#0.0#0.0
+person kicks left legs back and forth#person/NOUN kick/VERB left/VERB leg/NOUN back/ADV and/CCONJ forth/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person sidesteps one way then backtracks#a/DET person/NOUN sidestep/VERB one/NUM way/NOUN then/ADV backtrack/VERB#0.0#0.0
+a person sidesteps quickly in a diagnal direction#a/DET person/NOUN sidestep/VERB quickly/ADV in/ADP a/DET diagnal/ADJ direction/NOUN#0.0#5.0
+a person  walks sideways from left to right and then back again.#a/DET person/NOUN walk/VERB sideways/ADV from/ADP left/VERB to/ADP right/NOUN and/CCONJ then/ADV back/ADV again/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person holds their arms up in front of them, bent at the elbow as if boxing and then shuffles forward and kicks out their left leg.#a/DET person/NOUN hold/VERB their/DET arm/NOUN up/ADP in/ADP front/NOUN of/ADP them/PRON bent/ADJ at/ADP the/DET elbow/NOUN as/SCONJ if/SCONJ boxing/NOUN and/CCONJ then/ADV shuffle/VERB forward/ADV and/CCONJ kick/VERB out/ADP their/DET left/ADJ leg/NOUN#0.0#0.0
+the person backed up and did a karate kick.#the/DET person/NOUN back/VERB up/ADP and/CCONJ did/AUX a/DET karate/NOUN kick/VERB#0.0#0.0
+a man defensively jumps backwards, then kicks forwards with his right leg.#a/DET man/NOUN defensively/ADV jump/VERB backwards/ADV then/ADV kick/VERB forwards/ADV with/ADP his/DET right/ADJ leg/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person is walking in a straight line, turns left, then walks straight again.#a/DET person/NOUN is/AUX walk/VERB in/ADP a/DET straight/ADJ line/NOUN turn/VERB left/VERB then/ADV walk/VERB straight/ADV again/ADV#0.0#0.0
+a man runs forward, then runs towards the left, then runs forward again.#a/DET man/NOUN run/VERB forward/ADV then/ADV run/VERB towards/ADP the/DET left/NOUN then/ADV run/VERB forward/ADV again/ADV#0.0#0.0
+a fast limp on the right foot.#a/DET fast/ADJ limp/NOUN on/ADP the/DET right/ADJ foot/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person strafing around something#a/DET person/NOUN strafe/VERB around/ADP something/PRON#0.0#0.0
+someone is stepping side to side creating a circle shape. as they are stepping side to side they are facing outward while their back is facing inward#someone/PRON is/AUX step/VERB side/NOUN to/PART side/VERB create/VERB a/DET circle/NOUN shape/NOUN as/SCONJ they/PRON are/AUX step/VERB side/NOUN to/PART side/VERB they/PRON are/AUX face/VERB outward/ADV while/SCONJ their/DET back/NOUN is/AUX face/VERB inward/ADV#0.0#0.0
+a person walking in a circle slowly.#a/DET person/NOUN walk/VERB in/ADP a/DET circle/NOUN slowly/ADV#0.0#0.0

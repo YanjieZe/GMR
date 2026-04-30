@@ -1,0 +1,3 @@
+a person turns to his right and paces back and forth#a/DET person/NOUN turn/VERB to/ADP his/DET right/NOUN and/CCONJ pace/VERB back/ADV and/CCONJ forth/ADV#0.0#0.0
+a person walking back and fourth#a/DET person/NOUN walk/VERB back/ADV and/CCONJ fourth/ADJ#0.0#0.0
+a person idles and walks right to left and back.#a/DET person/NOUN idle/NOUN and/CCONJ walk/VERB right/ADJ to/ADP left/NOUN and/CCONJ back/ADV#0.0#0.0

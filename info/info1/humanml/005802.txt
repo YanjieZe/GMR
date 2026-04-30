@@ -1,0 +1,3 @@
+a person swings his right arm in an upper cut#a/DET person/NOUN swing/VERB his/DET right/ADJ arm/NOUN in/ADP an/DET upper/ADJ cut/NOUN#0.0#0.0
+a standing figure makes jabbing motions with his arms.#a/DET stand/VERB figure/NOUN make/VERB jab/VERB motion/NOUN with/ADP his/DET arm/NOUN#0.0#0.0
+the man swings his right arm back and pushes it forward in a punching like motion.#the/DET man/NOUN swing/VERB his/DET right/ADJ arm/NOUN back/ADV and/CCONJ push/VERB it/PRON forward/ADV in/ADP a/DET punching/NOUN like/SCONJ motion/NOUN#0.0#0.0

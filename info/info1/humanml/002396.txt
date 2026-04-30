@@ -1,0 +1,3 @@
+a person walks forward, backward, and forward again.#a/DET person/NOUN walk/VERB forward/ADV backward/ADV and/CCONJ forward/ADV again/ADV#0.0#0.0
+a man walkinds in a clockwise circle motion.#a/DET man/NOUN walkind/VERB in/ADP a/DET clockwise/ADJ circle/NOUN motion/NOUN#0.0#0.0
+person walks forward, then walks backwards, then walks in zig zag pattern#person/NOUN walk/VERB forward/ADV then/ADV walk/VERB backwards/ADV then/ADV walk/VERB in/ADP zig/PROPN zag/X pattern/PROPN#0.0#0.0

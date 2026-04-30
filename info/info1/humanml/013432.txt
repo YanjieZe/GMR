@@ -1,0 +1,3 @@
+the person is walking and turned left.#the/DET person/NOUN is/AUX walk/VERB and/CCONJ turn/VERB left/ADV#0.0#0.0
+the person walks forward then turns around and walks.#the/DET person/NOUN walk/VERB forward/ADV then/ADV turn/VERB around/ADV and/CCONJ walk/VERB#0.0#0.0
+a person standing with his hands by his sides takes two steps, turns 180 degrees and takes two more steps.#a/DET person/NOUN stand/VERB with/ADP his/DET hand/NOUN by/ADP his/DET side/NOUN take/VERB two/NUM step/NOUN turn/VERB degree/NOUN and/CCONJ take/VERB two/NUM more/ADJ step/NOUN#0.0#0.0

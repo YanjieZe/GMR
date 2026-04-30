@@ -1,0 +1,3 @@
+this person walks and stumbles to the left then back to the right.#this/DET person/NOUN walk/VERB and/CCONJ stumble/NOUN to/ADP the/DET left/NOUN then/ADV back/ADV to/ADP the/DET right/NOUN#0.0#0.0
+a person starts walking and then zigzags to his left then his right.#a/DET person/NOUN start/VERB walk/VERB and/CCONJ then/ADV zigzag/VERB to/ADP his/DET left/NOUN then/ADV his/DET right/NOUN#0.0#0.0
+a person steps forward, sidesteps to their left, then sidesteps back to their right.#a/DET person/NOUN step/VERB forward/ADV sidestep/VERB to/ADP their/DET left/NOUN then/ADV sidestep/VERB back/ADV to/ADP their/DET right/NOUN#0.0#0.0

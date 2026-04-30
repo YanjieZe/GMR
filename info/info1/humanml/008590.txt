@@ -1,0 +1,3 @@
+simple stand on the floor on few second and move left side on the floor.#simple/ADJ stand/VERB on/ADP the/DET floor/NOUN on/ADP few/ADJ second/ADJ and/CCONJ move/VERB left/ADJ side/NOUN on/ADP the/DET floor/NOUN#0.0#0.0
+a person is standing still then quickly moves to the left.#a/DET person/NOUN is/AUX stand/VERB still/ADV then/ADV quickly/ADV move/VERB to/ADP the/DET left/NOUN#0.0#0.0
+a person drunkenly stumbles to the left#a/DET person/NOUN drunkenly/ADV stumble/VERB to/ADP the/DET left/NOUN#0.0#0.0

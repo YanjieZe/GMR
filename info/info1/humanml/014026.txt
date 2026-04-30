@@ -1,0 +1,3 @@
+person takes on step backwards#person/NOUN take/VERB on/ADP step/NOUN backwards/ADV#0.0#0.0
+the man is recovery stepping#the/DET man/NOUN is/AUX recovery/NOUN stepping/NOUN#0.0#0.0
+a person is stand and then takes a step backwards.#a/DET person/NOUN is/AUX stand/VERB and/CCONJ then/ADV take/VERB a/DET step/NOUN backwards/ADV#0.0#0.0

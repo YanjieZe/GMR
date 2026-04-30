@@ -1,0 +1,2 @@
+a person slowly walked forward in right direction#a/DET person/NOUN slowly/ADV walk/VERB forward/ADV in/ADP right/ADJ direction/NOUN#0.0#0.0
+walking forward and jumping.#walk/VERB forward/ADV and/CCONJ jump/VERB#0.0#0.0

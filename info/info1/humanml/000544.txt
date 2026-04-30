@@ -1,0 +1,3 @@
+someone is shooting a free throw#someone/PRON is/AUX shoot/VERB a/DET free/ADJ throw/NOUN#0.0#0.0
+person puts object on a top shelf.#person/NOUN put/VERB object/NOUN on/ADP a/DET top/ADJ shelf/NOUN#0.0#5.0
+a man raises his arms above his head twice as if to throw a basketball toward a hoop.#a/DET man/NOUN raise/VERB his/DET arm/NOUN above/ADP his/DET head/NOUN twice/ADV as/SCONJ if/SCONJ to/PART throw/VERB a/DET basketball/NOUN toward/ADP a/DET hoop/NOUN#0.0#0.0

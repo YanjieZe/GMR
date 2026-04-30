@@ -1,0 +1,3 @@
+the figure is standing facing forward, holding and exercising what can be a dumbbell.#the/DET figure/NOUN is/AUX stand/VERB face/VERB forward/ADV hold/VERB and/CCONJ exercise/VERB what/PRON can/VERB be/AUX a/DET dumbbell/NOUN#0.0#0.0
+the person put his left arm in front of his face and dropped it down and put it back up again.#the/DET person/NOUN put/VERB his/DET left/ADJ arm/NOUN in/ADP front/NOUN of/ADP his/DET face/NOUN and/CCONJ drop/VERB it/PRON down/ADP and/CCONJ put/VERB it/PRON back/ADV up/ADP again/ADV#0.0#0.0
+a person looks at something and throws it over their shoulder.#a/DET person/NOUN look/VERB at/ADP something/PRON and/CCONJ throw/VERB it/PRON over/ADP their/DET shoulder/NOUN#0.0#0.0

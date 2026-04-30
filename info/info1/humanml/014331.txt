@@ -1,0 +1,3 @@
+the person is taking stuff from the right and passing it to the left.#the/DET person/NOUN is/AUX take/VERB stuff/NOUN from/ADP the/DET right/NOUN and/CCONJ pass/VERB it/PRON to/ADP the/DET left/NOUN#0.0#0.0
+a person brings his right arm across his body toward the left and swings it out to the right.#a/DET person/NOUN bring/VERB his/DET right/ADJ arm/NOUN across/ADP his/DET body/NOUN toward/ADP the/DET left/NOUN and/CCONJ swing/VERB it/PRON out/ADP to/ADP the/DET right/NOUN#0.0#0.0
+a man continues to grab something behind him with his right hand and place it in front of him.#a/DET man/NOUN continue/VERB to/PART grab/VERB something/PRON behind/ADP him/PRON with/ADP his/DET right/ADJ hand/NOUN and/CCONJ place/VERB it/PRON in/ADP front/NOUN of/ADP him/PRON#0.0#0.0

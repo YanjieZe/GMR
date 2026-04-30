@@ -1,0 +1,3 @@
+the person is taking a big jump#the/DET person/NOUN is/AUX take/VERB a/DET big/ADJ jump/NOUN#0.0#0.0
+the man uses his legs to propel him self in the air then lands back on the ground.#the/DET man/NOUN use/VERB his/DET leg/NOUN to/PART propel/VERB him/PRON self/NOUN in/ADP the/DET air/NOUN then/ADV land/VERB back/ADV on/ADP the/DET ground/NOUN#0.0#0.0
+this person jumps high from a standing position.#this/DET person/NOUN jump/VERB high/ADJ from/ADP a/DET standing/ADJ position/NOUN#0.0#0.0

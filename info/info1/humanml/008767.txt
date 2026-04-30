@@ -1,0 +1,3 @@
+running forward and then stopping.#run/VERB forward/ADV and/CCONJ then/ADV stop/VERB#0.0#0.0
+a person jogs forward several steps.#a/DET person/NOUN jog/VERB forward/ADV several/ADJ step/NOUN#0.0#0.0
+a person is running from one side to the other.#a/DET person/NOUN is/AUX run/VERB from/ADP one/NUM side/NOUN to/ADP the/DET other/ADJ#0.0#0.0

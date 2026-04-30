@@ -1,0 +1,3 @@
+the person drags their injured right leg#the/DET person/NOUN drag/VERB their/DET injure/VERB right/ADJ leg/NOUN#0.0#0.0
+a person stumbles to their left twice as something injures their right leg suddenly#a/DET person/NOUN stumble/VERB to/ADP their/DET left/NOUN twice/ADV as/SCONJ something/PRON injure/VERB their/DET right/ADJ leg/NOUN suddenly/ADV#0.0#0.0
+a person feels pain in their right leg and doubles over#a/DET person/NOUN feel/VERB pain/NOUN in/ADP their/DET right/ADJ leg/NOUN and/CCONJ double/VERB over/ADP#0.0#0.0

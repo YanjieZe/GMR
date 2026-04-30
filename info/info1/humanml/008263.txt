@@ -1,0 +1,3 @@
+the person is balancing on one leg using his hands to help balance#the/DET person/NOUN is/AUX balance/VERB on/ADP one/NUM leg/NOUN use/VERB his/DET hand/NOUN to/PART help/VERB balance/VERB#0.0#0.0
+a person stands balancing on one leg, while the other is bent and moving left to right behind him.#a/DET person/NOUN stand/VERB balance/VERB on/ADP one/NUM leg/NOUN while/SCONJ the/DET other/ADJ is/AUX bent/ADJ and/CCONJ move/VERB left/ADV to/ADP right/ADV behind/ADP him/PRON#0.0#0.0
+a person balances on their left leg while their right leg flails around.#a/DET person/NOUN balance/VERB on/ADP their/DET left/ADJ leg/NOUN while/SCONJ their/DET right/ADJ leg/NOUN flail/VERB around/ADV#0.0#0.0

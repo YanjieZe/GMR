@@ -1,0 +1,3 @@
+a person windmills both arms in wide circles before their arms drop to their sides, raise and are pulled forward to their chest.#a/DET person/NOUN windmill/VERB both/DET arm/NOUN in/ADP wide/ADJ circle/NOUN before/ADP their/DET arm/NOUN drop/VERB to/ADP their/DET side/NOUN raise/VERB and/CCONJ are/AUX pull/VERB forward/ADV to/ADP their/DET chest/NOUN#0.0#0.0
+a person draws his arms in big circles#a/DET person/NOUN draw/VERB his/DET arm/NOUN in/ADP big/ADJ circle/NOUN#0.0#0.0
+person is doing wide arm circles.#person/NOUN is/AUX do/VERB wide/ADJ arm/NOUN circle/NOUN#0.0#0.0

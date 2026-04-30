@@ -1,0 +1,3 @@
+a person is jumping on their right foot and then lunging forward.#a/DET person/NOUN is/AUX jump/VERB on/ADP their/DET right/ADJ foot/NOUN and/CCONJ then/ADV lunge/VERB forward/ADV#0.0#0.0
+hopping up and down on one foot.#hop/VERB up/ADV and/CCONJ down/ADV on/ADP one/NUM foot/NOUN#0.0#0.0
+a person hops around and raises his arms.#a/DET person/NOUN hop/VERB around/ADV and/CCONJ raise/VERB his/DET arm/NOUN#0.0#0.0

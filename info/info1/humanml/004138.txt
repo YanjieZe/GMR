@@ -1,0 +1,3 @@
+person crosses arm over chest then puts it back down.#person/NOUN cross/VERB arm/VERB over/ADP chest/NOUN then/ADV put/VERB it/PRON back/ADV down/ADP#0.0#0.0
+person raises their left hand up at a perpendicular angle to their head like they're looking at a wristwatch.#person/NOUN raise/VERB their/DET left/ADJ hand/NOUN up/ADP at/ADP a/DET perpendicular/ADJ angle/NOUN to/ADP their/DET head/NOUN like/SCONJ they/PRON look/VERB at/ADP a/DET wristwatch/NOUN#0.0#0.0
+the person is wiping something.#the/DET person/NOUN is/AUX wipe/VERB something/PRON#0.0#0.0

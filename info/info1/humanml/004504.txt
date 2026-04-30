@@ -1,0 +1,3 @@
+a person jogs for a few steps, then slows to a walk for a few more steps.#a/DET person/NOUN jog/VERB for/ADP a/DET few/ADJ step/NOUN then/ADV slow/VERB to/ADP a/DET walk/NOUN for/ADP a/DET few/ADJ more/ADJ step/NOUN#0.0#0.0
+a person initially running and decelerating to a walking pace.#a/DET person/NOUN initially/ADV run/VERB and/CCONJ decelerate/VERB to/ADP a/DET walking/NOUN pace/NOUN#0.0#0.0
+a person runs and then they walk.#a/DET person/NOUN run/VERB and/CCONJ then/ADV they/PRON walk/VERB#0.0#0.0

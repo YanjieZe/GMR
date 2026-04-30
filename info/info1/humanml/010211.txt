@@ -1,0 +1,3 @@
+person with hand together, drops hands, steps forward and turns left then sets down in a chair facing away#person/NOUN with/ADP hand/NOUN together/ADV drop/VERB hand/NOUN step/VERB forward/ADV and/CCONJ turn/VERB left/VERB then/ADV set/VERB down/ADP in/ADP a/DET chair/NOUN face/VERB away/ADV#0.0#0.0
+a person walks a few steps and then turns around while sitting.#a/DET person/NOUN walk/VERB a/DET few/ADJ step/NOUN and/CCONJ then/ADV turn/VERB around/ADP while/SCONJ sit/VERB#0.0#0.0
+a person walks and sits down.#a/DET person/NOUN walk/VERB and/CCONJ sit/VERB down/ADP#0.0#0.0

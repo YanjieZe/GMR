@@ -1,0 +1,3 @@
+a man swings a golf putter.#a/DET man/NOUN swing/VERB a/DET golf/NOUN putter/NOUN#0.0#0.0
+a person hits a chip-shot golf swing.#a/DET person/NOUN hit/VERB a/DET chipshot/NOUN golf/NOUN swing/NOUN#0.0#0.0
+person goes side on both hands together and arms extended and thrusts hands forward#person/NOUN go/VERB side/NOUN on/ADP both/DET hand/NOUN together/ADV and/CCONJ arm/NOUN extend/VERB and/CCONJ thrust/VERB hand/NOUN forward/ADV#0.0#0.0

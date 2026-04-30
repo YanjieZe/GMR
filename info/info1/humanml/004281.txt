@@ -1,0 +1,3 @@
+from a standing position a man spreads his legs widely.#from/ADP a/DET standing/ADJ position/NOUN a/DET man/NOUN spread/VERB his/DET leg/NOUN widely/ADV#0.0#0.0
+a man starts to do the splits.#a/DET man/NOUN start/VERB to/PART do/AUX the/DET split/NOUN#0.0#0.0
+doing a split once.#do/VERB a/DET split/NOUN once/ADV#0.0#0.0

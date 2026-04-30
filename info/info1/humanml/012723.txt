@@ -1,0 +1,3 @@
+the man is in a defensive pose#the/DET man/NOUN is/AUX in/ADP a/DET defensive/ADJ pose/NOUN#0.0#0.0
+a person crouches, upset, putting their head in their hands#a/DET person/NOUN crouch/NOUN upset/VERB put/VERB their/DET head/NOUN in/ADP their/DET hand/NOUN#0.0#0.0
+this person moves around with his hands on his head.#this/DET person/NOUN move/VERB around/ADP with/ADP his/DET hand/NOUN on/ADP his/DET head/NOUN#0.0#0.0

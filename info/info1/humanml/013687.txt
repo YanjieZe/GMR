@@ -1,0 +1,3 @@
+a person raises their left hand slightly then place it back down.#a/DET person/NOUN raise/VERB their/DET left/ADJ hand/NOUN slightly/ADV then/ADV place/VERB it/PRON back/ADV down/ADV#0.0#0.0
+the man is checking the time on his left wrist.#the/DET man/NOUN is/AUX check/VERB the/DET time/NOUN on/ADP his/DET left/ADJ wrist/NOUN#0.0#0.0
+a man lifts his left hand in front of his torso.#a/DET man/NOUN lift/VERB his/DET left/ADJ hand/NOUN in/ADP front/NOUN of/ADP his/DET torso/NOUN#0.0#0.0

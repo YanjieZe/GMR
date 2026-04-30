@@ -1,0 +1,3 @@
+a person bends to their right side and picks up something with their right hand, then walks slowly forward.#a/DET person/NOUN bend/VERB to/ADP their/DET right/ADJ side/NOUN and/CCONJ pick/VERB up/ADP something/PRON with/ADP their/DET right/ADJ hand/NOUN then/ADV walk/VERB slowly/ADV forward/ADV#0.0#0.0
+the person is carrying a huge suitcase.#the/DET person/NOUN is/AUX carry/VERB a/DET huge/ADJ suitcase/NOUN#0.0#0.0
+a person bends down to pick up something then stands up and walks forward.#a/DET person/NOUN bend/VERB down/ADP to/PART pick/VERB up/ADP something/PRON then/ADV stand/VERB up/ADP and/CCONJ walk/VERB forward/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a man uses his right arm to brace as he sits down on the ground and crosses his legs, then stands back up.#a/DET man/NOUN use/VERB his/DET right/ADJ arm/NOUN to/PART brace/NOUN as/SCONJ he/PRON sit/VERB down/ADP on/ADP the/DET ground/NOUN and/CCONJ cross/VERB his/DET leg/NOUN then/ADV stand/VERB back/ADV up/ADV#0.0#0.0
+a person sits down, crosses their legs, and then gets up.#a/DET person/NOUN sit/VERB down/ADV cross/VERB their/DET leg/NOUN and/CCONJ then/ADV get/VERB up/ADP#0.0#0.0
+a man gets down on the ground holding himself up with one arm then stands up.#a/DET man/NOUN get/VERB down/ADV on/ADP the/DET ground/NOUN hold/VERB himself/PRON up/ADP with/ADP one/NUM arm/NOUN then/ADV stand/VERB up/ADP#0.0#0.0

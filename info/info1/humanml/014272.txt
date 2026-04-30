@@ -1,0 +1,3 @@
+the person watch forward and is leaning over some thing.#the/DET person/NOUN watch/VERB forward/ADV and/CCONJ is/AUX lean/VERB over/ADP some/DET thing/NOUN#0.0#0.0
+a person stands still and then walks forward and leans down to wash something with his left hand.#a/DET person/NOUN stand/VERB still/ADV and/CCONJ then/ADV walk/VERB forward/ADV and/CCONJ lean/VERB down/ADP to/PART wash/VERB something/PRON with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0
+a man takes 2 steps forward then leans down and wipes a surface with his left hand.#a/DET man/NOUN take/VERB step/NOUN forward/ADV then/ADV lean/VERB down/ADP and/CCONJ wipe/VERB a/DET surface/NOUN with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0

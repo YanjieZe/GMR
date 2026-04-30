@@ -1,0 +1,3 @@
+a person walks in a forward motion#a/DET person/NOUN walk/VERB in/ADP a/DET forward/ADJ motion/NOUN#0.0#0.0
+the person calmly walks forward#the/DET person/NOUN calmly/ADV walk/VERB forward/ADV#0.0#0.0
+the persons is walking forward.#the/DET person/NOUN is/AUX walk/VERB forward/ADV#0.0#0.0

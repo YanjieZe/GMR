@@ -1,0 +1,3 @@
+person is stratching hands around with a motion towards and against.#person/NOUN is/AUX stratche/VERB hand/NOUN around/ADV with/ADP a/DET motion/NOUN towards/ADP and/CCONJ against/ADP#0.0#0.0
+man waves left arm around#man/PROPN wave/NOUN left/VERB arm/NOUN around/ADP#0.0#0.0
+a person standing and bending his elbow several times#a/DET person/NOUN stand/VERB and/CCONJ bend/VERB his/DET elbow/NOUN several/ADJ time/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a man is swinging from a bar and then dismounts.#a/DET man/NOUN is/AUX swinge/VERB from/ADP a/DET bar/NOUN and/CCONJ then/ADV dismount/VERB#0.0#0.0
+person is swinging from a bar at the playground.#person/NOUN is/AUX swinge/VERB from/ADP a/DET bar/NOUN at/ADP the/DET playground/NOUN#0.0#0.0
+a person holds onto somthing and swings their legs#a/DET person/NOUN hold/VERB onto/ADP somthe/VERB and/CCONJ swing/VERB their/DET leg/NOUN#0.0#0.0

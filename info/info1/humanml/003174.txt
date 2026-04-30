@@ -1,0 +1,3 @@
+a person is walking across a narrow beam.#a/DET person/NOUN is/AUX walk/VERB across/ADP a/DET narrow/ADJ beam/NOUN#0.0#0.0
+climbs a step up and walks to climb a step down.#climb/NOUN a/DET step/NOUN up/ADP and/CCONJ walk/VERB to/PART climb/VERB a/DET step/NOUN down/ADP#0.0#0.0
+a man walks forward towards you, swaying his hands back and forth#a/DET man/NOUN walk/VERB forward/ADV towards/ADP you/PRON sway/VERB his/DET hand/NOUN back/ADV and/CCONJ forth/ADV#0.0#0.0

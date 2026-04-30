@@ -1,0 +1,3 @@
+the person was walking forward turned around and walk the other direction.#the/DET person/NOUN was/AUX walk/VERB forward/ADV turn/VERB around/ADV and/CCONJ walk/VERB the/DET other/ADJ direction/NOUN#0.0#0.0
+person takes a few steps forward then makes a very pointed attempt to turnaround.#person/NOUN take/VERB a/DET few/ADJ step/NOUN forward/ADV then/ADV make/VERB a/DET very/ADV pointed/ADJ attempt/NOUN to/PART turnaround/VERB#0.0#0.0
+person walks forward two steps and does a fully twist turn#person/NOUN walk/VERB forward/ADV two/NUM step/NOUN and/CCONJ does/AUX a/DET fully/ADV twist/NOUN turn/NOUN#0.0#0.0

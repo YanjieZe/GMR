@@ -1,0 +1,3 @@
+a man jumps back and then walks forward.#a/DET man/NOUN jump/VERB back/ADV and/CCONJ then/ADV walk/VERB forward/ADV#0.0#0.0
+person jumps in its spot. then walks forward, wiggles its body.#person/NOUN jump/VERB in/ADP its/DET spot/NOUN then/ADV walk/VERB forward/ADV wiggle/VERB its/DET body/NOUN#0.0#0.0
+a person jumos once then walks forward#a/DET person/NOUN jumos/PROPN once/ADV then/ADV walk/VERB forward/ADV#0.0#0.0

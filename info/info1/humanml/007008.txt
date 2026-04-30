@@ -1,0 +1,3 @@
+person is walking towards the right and then the last and then back to the right.#person/NOUN is/AUX walk/VERB towards/ADP the/DET right/NOUN and/CCONJ then/ADV the/DET last/ADJ and/CCONJ then/ADV back/ADV to/ADP the/DET right/NOUN#0.0#0.0
+moving and wake the zigzik on the floor.#move/VERB and/CCONJ wake/VERB the/DET zigzik/NOUN on/ADP the/DET floor/NOUN#0.0#0.0
+this person walks in a zig zag motion from back to front.#this/DET person/NOUN walk/VERB in/ADP a/DET zig/NOUN zag/X motion/NOUN from/ADP back/ADV to/ADP front/NOUN#0.0#0.0

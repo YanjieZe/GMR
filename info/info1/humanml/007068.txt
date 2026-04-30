@@ -1,0 +1,3 @@
+a person stumbles forward then walks back.#a/DET person/NOUN stumble/VERB forward/ADV then/ADV walk/VERB back/ADV#0.0#0.0
+a person who is standing with his hands by his sides appears to trip forward and catch himself, then turn back and take a step.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP his/DET hand/NOUN by/ADP his/DET side/NOUN appear/VERB to/PART trip/VERB forward/ADV and/CCONJ catch/VERB himself/PRON then/ADV turn/VERB back/ADV and/CCONJ take/VERB a/DET step/NOUN#0.0#0.0
+a person suddenly tripping into the center.#a/DET person/NOUN suddenly/ADV trip/VERB into/ADP the/DET center/NOUN#0.0#0.0

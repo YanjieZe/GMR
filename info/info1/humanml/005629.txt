@@ -1,0 +1,3 @@
+a person with their forearms upright, rasies their arms 3 times.#a/DET person/NOUN with/ADP their/DET forearm/NOUN upright/ADV rasie/VERB their/DET arm/NOUN time/NOUN#0.0#0.0
+with both arms outstretched at the side, bent at elbow, the person raises arms straight over head, before returning to orginal position#with/ADP both/DET arm/NOUN outstretche/VERB at/ADP the/DET side/NOUN bent/ADJ at/ADP elbow/PROPN the/DET person/NOUN raise/VERB arm/NOUN straight/ADV over/ADP head/NOUN before/ADP return/VERB to/ADP orginal/ADJ position/NOUN#0.0#2.0
+person appears to lift some thing with both hands repeatedly above their head.#person/NOUN appear/VERB to/PART lift/VERB some/DET thing/NOUN with/ADP both/DET hand/NOUN repeatedly/ADV above/ADP their/DET head/NOUN#0.0#0.0

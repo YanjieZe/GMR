@@ -1,0 +1,3 @@
+a person is clapping his hands in front of his chest.#a/DET person/NOUN is/AUX clap/VERB his/DET hand/NOUN in/ADP front/NOUN of/ADP his/DET chest/NOUN#0.0#0.0
+person claps nine times then puts arms down to their side#person/NOUN clap/VERB nine/NUM time/NOUN then/ADV put/VERB arm/NOUN down/ADV to/ADP their/DET side/NOUN#0.0#0.0
+a person rubbing their hands together as if he/she was washing their hands#a/DET person/NOUN rub/VERB their/DET hand/NOUN together/ADV as/SCONJ if/SCONJ he/PRON she/PRON was/AUX wash/VERB their/DET hand/NOUN#0.0#0.0

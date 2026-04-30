@@ -1,0 +1,3 @@
+a person walks aimlessly and slowly in an imperfect circle around the room, lathargecly swaying their arms with each step.#a/DET person/NOUN walk/VERB aimlessly/ADV and/CCONJ slowly/ADV in/ADP an/DET imperfect/ADJ circle/NOUN around/ADP the/DET room/NOUN lathargecly/ADV sway/VERB their/DET arm/NOUN with/ADP each/DET step/NOUN#0.0#0.0
+person walking with their arms swinging back to front and walking in a general circle.#person/NOUN walk/VERB with/ADP their/DET arm/NOUN swinge/VERB back/ADV to/ADP front/NOUN and/CCONJ walk/VERB in/ADP a/DET general/ADJ circle/NOUN#0.0#0.0
+a person wonders in an oval path and ends where he started#a/DET person/NOUN wonder/VERB in/ADP an/DET oval/ADJ path/NOUN and/CCONJ end/VERB where/ADV he/PRON start/VERB#0.0#0.0

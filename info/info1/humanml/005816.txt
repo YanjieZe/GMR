@@ -1,0 +1,3 @@
+the person was pushed to the left but did not fall.#the/DET person/NOUN was/AUX push/VERB to/ADP the/DET left/NOUN but/CCONJ did/AUX not/PART fall/VERB#0.0#0.0
+the man stagers two steps to the right.#the/DET man/NOUN stager/VERB two/NUM step/NOUN to/ADP the/DET right/NOUN#0.0#0.0
+a trips to the left side.#a/DET trip/NOUN to/ADP the/DET left/ADJ side/NOUN#0.0#0.0

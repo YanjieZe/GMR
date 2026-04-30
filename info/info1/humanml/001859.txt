@@ -1,0 +1,3 @@
+a person walks forward, leans over an object, then stands back up and walks backward.#a/DET person/NOUN walk/VERB forward/ADV lean/VERB over/ADP an/DET object/NOUN then/ADV stand/VERB back/ADV up/ADV and/CCONJ walk/VERB backward/ADV#0.0#0.0
+a person bends his knees, steps forward, picks something up then steps back.#a/DET person/NOUN bend/VERB his/DET knee/NOUN step/NOUN forward/ADV pick/VERB something/PRON up/ADV then/ADV step/VERB back/ADV#0.0#0.0
+a person walks forward to a cooler then pulls out a beer#a/DET person/NOUN walk/VERB forward/ADV to/ADP a/DET cooler/NOUN then/ADV pull/VERB out/ADP a/DET beer/NOUN#0.0#0.0

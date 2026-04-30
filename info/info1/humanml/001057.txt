@@ -1,0 +1,3 @@
+raising arms and moving hand.#raise/VERB arm/NOUN and/CCONJ move/VERB hand/NOUN#0.0#0.0
+the person swipes his left arm across its body as if its was opening a sliding door then reaches its left arm out as if grabbing something.#the/DET person/NOUN swipe/VERB his/DET left/ADJ arm/NOUN across/ADP its/DET body/NOUN as/SCONJ if/SCONJ its/DET was/AUX open/VERB a/DET sliding/ADJ door/NOUN then/ADV reach/VERB its/DET left/ADJ arm/NOUN out/ADP as/SCONJ if/SCONJ grab/VERB something/PRON#0.0#0.0
+a man opens something with his right and takes something out.#a/DET man/NOUN open/VERB something/PRON with/ADP his/DET right/NOUN and/CCONJ take/VERB something/PRON out/ADP#0.0#0.0

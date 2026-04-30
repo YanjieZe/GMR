@@ -1,0 +1,3 @@
+a person raised the hands and after hold something#a/DET person/NOUN raise/VERB the/DET hand/NOUN and/CCONJ after/ADP hold/VERB something/PRON#0.0#0.0
+a person waves their hands and appears to be paddling a boat.#a/DET person/NOUN wave/VERB their/DET hand/NOUN and/CCONJ appear/VERB to/PART be/AUX paddle/VERB a/DET boat/NOUN#0.0#0.0
+a figure throws their arms out in frustration then rows a boat#a/DET figure/NOUN throw/VERB their/DET arm/NOUN out/ADP in/ADP frustration/NOUN then/ADV row/VERB a/DET boat/NOUN#0.0#0.0

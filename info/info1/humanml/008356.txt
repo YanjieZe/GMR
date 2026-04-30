@@ -1,0 +1,3 @@
+a person walks up stairs a few steps#a/DET person/NOUN walk/VERB up/ADP stair/NOUN a/DET few/ADJ step/NOUN#0.0#0.0
+the person step once on his left and then hop twice both sides of his feet then stop.#the/DET person/NOUN step/VERB once/ADV on/ADP his/DET left/NOUN and/CCONJ then/ADV hop/VERB twice/ADV both/DET side/NOUN of/ADP his/DET foot/NOUN then/ADV stop/VERB#0.0#0.0
+the sim appears to climb up a few steps.#the/DET sim/PROPN appear/VERB to/PART climb/VERB up/ADP a/DET few/ADJ step/NOUN#0.0#0.0

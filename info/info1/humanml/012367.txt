@@ -1,0 +1,3 @@
+a person side steps to their left#a/DET person/NOUN side/NOUN step/NOUN to/ADP their/DET left/NOUN#0.0#0.0
+the person is standing facing forward taking  a step to the left.#the/DET person/NOUN is/AUX stand/VERB face/VERB forward/ADV take/VERB a/DET step/NOUN to/ADP the/DET left/NOUN#0.0#0.0
+a person takes one big step to the left.#a/DET person/NOUN take/VERB one/NUM big/ADJ step/NOUN to/ADP the/DET left/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+the person uses the handrail to walk up the stairs#the/DET person/NOUN use/VERB the/DET handrail/PROPN to/PART walk/VERB up/ADP the/DET stair/NOUN#0.0#0.0
+a man walks across something and braces himself twice using a handrail on his right in transit.#a/DET man/NOUN walk/VERB across/ADP something/PRON and/CCONJ brace/NOUN himself/PRON twice/ADV use/VERB a/DET handrail/NOUN on/ADP his/DET right/NOUN in/ADP transit/NOUN#0.0#0.0
+person walks straight while the right arm assists with the walking#person/NOUN walk/VERB straight/ADV while/SCONJ the/DET right/ADJ arm/NOUN assist/NOUN with/ADP the/DET walking/NOUN#0.0#0.0

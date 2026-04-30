@@ -1,0 +1,3 @@
+the person is walking around in a circle.#the/DET person/NOUN is/AUX walk/VERB around/ADP in/ADP a/DET circle/NOUN#0.0#0.0
+a man walks anticlockwise in a circle and then stops.#a/DET man/NOUN walk/VERB anticlockwise/NOUN in/ADP a/DET circle/NOUN and/CCONJ then/ADV stop/VERB#0.0#0.0
+a individual walks in a oval like manner not completing the entire shape.#a/DET individual/NOUN walk/VERB in/ADP a/DET oval/NOUN like/INTJ manner/NOUN not/PART complete/VERB the/DET entire/ADJ shape/NOUN#0.0#7.0

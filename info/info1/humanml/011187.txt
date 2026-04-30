@@ -1,0 +1,3 @@
+person walks while veering right#person/NOUN walk/VERB while/SCONJ veer/VERB right/ADV#0.0#0.0
+a person walks in a half circle#a/DET person/NOUN walk/VERB in/ADP a/DET half/ADJ circle/NOUN#nan#0.0
+a person walks in a right diagonal then stops.#a/DET person/NOUN walk/VERB in/ADP a/DET right/ADJ diagonal/NOUN then/ADV stop/VERB#0.0#0.0

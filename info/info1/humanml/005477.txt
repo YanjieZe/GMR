@@ -1,0 +1,3 @@
+this person walks forward and picks something up then walks back.#this/DET person/NOUN walk/VERB forward/ADV and/CCONJ pick/VERB something/PRON up/ADV then/ADV walk/VERB back/ADV#0.0#0.0
+a person walks forward, bends down, picks something up and moves it, gets back up and walks back.#a/DET person/NOUN walk/VERB forward/ADV bend/VERB down/ADP pick/VERB something/PRON up/ADP and/CCONJ move/VERB it/PRON get/VERB back/ADV up/ADV and/CCONJ walk/VERB back/ADV#0.0#0.0
+walking forward and then bending down.#walk/VERB forward/ADV and/CCONJ then/ADV bend/VERB down/ADP#0.0#0.0

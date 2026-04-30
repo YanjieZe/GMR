@@ -1,0 +1,3 @@
+a person steps to their left and sits down.#a/DET person/NOUN step/VERB to/ADP their/DET left/NOUN and/CCONJ sit/VERB down/ADP#0.0#0.0
+a person sits down in a chair of sorts and then gets back up#a/DET person/NOUN sit/VERB down/ADP in/ADP a/DET chair/NOUN of/ADP sort/NOUN and/CCONJ then/ADV get/VERB back/ADV up/ADV#0.0#0.0
+a person side steps to the left and sits down.#a/DET person/NOUN side/NOUN step/NOUN to/ADP the/DET left/NOUN and/CCONJ sit/VERB down/ADP#0.0#3.0

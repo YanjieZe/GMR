@@ -1,0 +1,3 @@
+a persong takes five steps forward, begining and ending with their right leg.#a/DET persong/NOUN take/VERB five/NUM step/NOUN forward/ADV begin/VERB and/CCONJ end/VERB with/ADP their/DET right/ADJ leg/NOUN#0.0#0.0
+a person takes 4 steps down, like they are descending stairs#a/DET person/NOUN take/VERB step/NOUN down/ADV like/SCONJ they/PRON are/AUX descend/VERB stair/NOUN#0.0#0.0
+a person walking down an elevated surface#a/DET person/NOUN walk/VERB down/ADP an/DET elevated/ADJ surface/NOUN#0.0#0.0

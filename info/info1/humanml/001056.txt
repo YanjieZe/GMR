@@ -1,0 +1,3 @@
+a person flaps their arms, shakes their butt, then wiggles while lowering their body#a/DET person/NOUN flap/VERB their/DET arm/NOUN shake/VERB their/DET butt/NOUN then/ADV wiggle/VERB while/SCONJ lower/VERB their/DET body/NOUN#0.0#0.0
+a man doing a dance move#a/DET man/NOUN do/VERB a/DET dance/NOUN move/NOUN#3.0#5.0
+a man is doing the chicken dance.#a/DET man/NOUN is/AUX do/VERB the/DET chicken/NOUN dance/NOUN#0.0#0.0

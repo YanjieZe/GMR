@@ -1,0 +1,3 @@
+stick figure swimmming and dog pedaling#stick/PROPN figure/NOUN swimmming/NOUN and/CCONJ dog/NOUN pedaling/NOUN#0.0#0.0
+person has arms held out in a swimming motion#person/NOUN has/AUX arm/NOUN hold/VERB out/ADP in/ADP a/DET swimming/NOUN motion/NOUN#0.0#0.0
+a man streching his arms.#a/DET man/NOUN streche/VERB his/DET arm/NOUN#0.0#0.0

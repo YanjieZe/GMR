@@ -1,0 +1,3 @@
+a person waves their left hand back and forth.#a/DET person/NOUN wave/VERB their/DET left/ADJ hand/NOUN back/ADV and/CCONJ forth/ADV#0.0#8.0
+the person waves with their left hand#the/DET person/NOUN wave/VERB with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0
+a person waves with their left hand.#a/DET person/NOUN wave/VERB with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0

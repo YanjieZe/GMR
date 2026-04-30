@@ -1,0 +1,3 @@
+a person punches the air with their left hand#a/DET person/NOUN punch/VERB the/DET air/NOUN with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0
+a man stands straight up and swings his left arm to the right in front of his while twisting at the waist.#a/DET man/NOUN stand/VERB straight/ADV up/ADV and/CCONJ swing/VERB his/DET left/ADJ arm/NOUN to/ADP the/DET right/NOUN in/ADP front/NOUN of/ADP his/DET while/NOUN twist/VERB at/ADP the/DET waist/NOUN#0.0#0.0
+a person with both arms bent at the elbows, close to the body, reaches with the left arm across the body.#a/DET person/NOUN with/ADP both/DET arm/NOUN bent/NOUN at/ADP the/DET elbow/NOUN close/ADJ to/ADP the/DET body/NOUN reach/VERB with/ADP the/DET left/ADJ arm/NOUN across/ADP the/DET body/NOUN#0.0#0.0

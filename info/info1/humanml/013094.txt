@@ -1,0 +1,3 @@
+a person walking forward while pausing periodically.#a/DET person/NOUN walk/VERB forward/ADV while/SCONJ pause/VERB periodically/ADV#0.0#0.0
+a person slowly walks and looks around.#a/DET person/NOUN slowly/ADV walk/VERB and/CCONJ look/VERB around/ADV#0.0#0.0
+slowly walking forward with pauses between every few steps.#slowly/ADV walk/VERB forward/ADV with/ADP pause/NOUN between/ADP every/DET few/ADJ step/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person crosses their arms, then has their arms angrily at their sides.#a/DET person/NOUN cross/VERB their/DET arm/NOUN then/ADV has/AUX their/DET arm/NOUN angrily/ADV at/ADP their/DET side/NOUN#0.0#0.0
+person crosses arms then puts them down.#person/NOUN cross/VERB arm/NOUN then/ADV put/VERB them/PRON down/ADP#0.0#0.0
+a person crosses their arms in front of themselves#a/DET person/NOUN cross/VERB their/DET arm/NOUN in/ADP front/NOUN of/ADP themselves/PRON#0.0#0.0

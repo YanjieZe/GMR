@@ -1,0 +1,3 @@
+a man rope skipping and then remove the footwear and then rope skip again#a/DET man/NOUN rope/NOUN skipping/NOUN and/CCONJ then/ADV remove/VERB the/DET footwear/NOUN and/CCONJ then/ADV rope/NOUN skip/VERB again/ADV#0.0#0.0
+the figure begins from an initial pose, and swings hands and jumps as if jumping rope, then stops, and restarts.#the/DET figure/NOUN begin/VERB from/ADP an/DET initial/ADJ pose/NOUN and/CCONJ swing/VERB hand/NOUN and/CCONJ jump/VERB as/SCONJ if/SCONJ jump/VERB rope/NOUN then/ADV stop/VERB and/CCONJ restart/NOUN#0.0#0.0
+the person is jumping rope backwards.#the/DET person/NOUN is/AUX jump/VERB rope/NOUN backwards/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+standing still for awhile then gently moving arms in a forward moving circle.#stand/VERB still/ADV for/ADP awhile/ADV then/ADV gently/ADV move/VERB arm/NOUN in/ADP a/DET forward/ADV move/VERB circle/NOUN#0.0#0.0
+someone just caught an object, but otherwise hasn't really moved much#someone/PRON just/ADV catch/VERB an/DET object/NOUN but/CCONJ otherwise/ADV has/AUX really/ADV move/VERB much/ADV#0.0#0.0
+the person stands with shoulders hunched. he then raises both arms as if accepting a package#the/DET person/NOUN stand/VERB with/ADP shoulder/NOUN hunch/VERB he/PRON then/ADV raise/VERB both/DET arm/NOUN as/SCONJ if/SCONJ accept/VERB a/DET package/NOUN#0.0#0.0

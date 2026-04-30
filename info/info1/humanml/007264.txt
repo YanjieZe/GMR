@@ -1,0 +1,3 @@
+someone walks in a circle starting with their left foot while holding their arms at their sides.#someone/PRON walk/VERB in/ADP a/DET circle/NOUN start/VERB with/ADP their/DET left/ADJ foot/NOUN while/SCONJ hold/VERB their/DET arm/NOUN at/ADP their/DET side/NOUN#0.0#0.0
+a person walks around an oval like path#a/DET person/NOUN walk/VERB around/ADP an/DET oval/NOUN like/SCONJ path/NOUN#0.0#0.0
+a person walks counterclockwise in a circle.#a/DET person/NOUN walk/VERB counterclockwise/NOUN in/ADP a/DET circle/NOUN#0.0#0.0

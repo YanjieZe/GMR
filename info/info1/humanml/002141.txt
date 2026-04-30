@@ -1,0 +1,2 @@
+a person slowly walks a line that curves to the left.#a/DET person/NOUN slowly/ADV walk/VERB a/DET line/NOUN that/DET curve/VERB to/ADP the/DET left/NOUN#0.0#0.0
+a person walks to his left and stops.#a/DET person/NOUN walk/VERB to/ADP his/DET left/NOUN and/CCONJ stop/NOUN#0.0#0.0

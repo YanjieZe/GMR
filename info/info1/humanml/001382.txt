@@ -1,0 +1,3 @@
+a person dancing in certain rotating motion, then raising his or her hand up#a/DET person/NOUN dance/VERB in/ADP certain/ADJ rotating/NOUN motion/NOUN then/ADV raise/VERB his/DET or/CCONJ her/DET hand/NOUN up/ADP#0.0#0.0
+a person is dancing and moving towards left, raising hands#a/DET person/NOUN is/AUX dance/VERB and/CCONJ move/VERB towards/ADP left/ADV raise/VERB hand/NOUN#0.0#0.0
+person starts shaking and then lifts right hand in the air.#person/NOUN start/VERB shake/VERB and/CCONJ then/ADV lift/VERB right/ADJ hand/NOUN in/ADP the/DET air/NOUN#0.0#0.0

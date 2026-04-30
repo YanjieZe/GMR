@@ -1,0 +1,3 @@
+a person reaches their red arm down and then lifts it up and walks in a circle by while moving all their body parts around.#a/DET person/NOUN reach/VERB their/DET red/ADJ arm/NOUN down/ADP and/CCONJ then/ADV lift/VERB it/PRON up/ADP and/CCONJ walk/VERB in/ADP a/DET circle/NOUN by/ADP while/SCONJ move/VERB all/DET their/DET body/NOUN part/NOUN around/ADV#0.0#0.0
+a person scamps around as if doing a victory dance.#a/DET person/NOUN scamp/VERB around/ADP as/SCONJ if/SCONJ do/VERB a/DET victory/NOUN dance/NOUN#0.0#0.0
+a man is dancing around.#a/DET man/NOUN is/AUX dance/VERB around/ADV#0.0#0.0

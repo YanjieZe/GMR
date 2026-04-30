@@ -1,0 +1,3 @@
+a man bends his knees, jumps and lands back on his feet.#a/DET man/NOUN bend/VERB his/DET knee/NOUN jump/VERB and/CCONJ land/VERB back/ADV on/ADP his/DET foot/NOUN#0.0#0.0
+someone pushes himself to make a jump#someone/PRON push/VERB himself/PRON to/PART make/VERB a/DET jump/NOUN#0.0#0.0
+a person jumps high into the air.#a/DET person/NOUN jump/VERB high/ADJ into/ADP the/DET air/NOUN#0.0#0.0

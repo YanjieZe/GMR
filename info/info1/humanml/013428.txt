@@ -1,0 +1,3 @@
+the man puts arms near his knees and stands still for a few seconds.#the/DET man/NOUN put/VERB arm/NOUN near/SCONJ his/DET knee/NOUN and/CCONJ stand/VERB still/ADV for/ADP a/DET few/ADJ second/NOUN#0.0#0.0
+moving arms towards knees and staying still.#move/VERB arm/NOUN towards/ADP knee/NOUN and/CCONJ stay/VERB still/ADV#0.0#0.0
+person has both hands stretched out to the sides before bringing them down to rest at its side.#person/NOUN has/AUX both/DET hand/NOUN stretch/VERB out/ADP to/ADP the/DET side/NOUN before/ADP bring/VERB them/PRON down/ADP to/PART rest/VERB at/ADP its/DET side/NOUN#0.0#0.0

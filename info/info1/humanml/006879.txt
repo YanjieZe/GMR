@@ -1,0 +1,3 @@
+the person walked forward and shaked hands.#the/DET person/NOUN walk/VERB forward/ADV and/CCONJ shake/VERB hand/NOUN#0.0#0.0
+a person walks forward to shake hand.#a/DET person/NOUN walk/VERB forward/ADV to/PART shake/VERB hand/NOUN#0.0#0.0
+a person walks forward and aggressively sets something down.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ aggressively/ADV set/VERB something/PRON down/ADP#0.0#0.0

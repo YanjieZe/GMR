@@ -1,0 +1,3 @@
+a person is jogging, alternating right foot and left hand moving forward, then their opposites.#a/DET person/NOUN is/AUX jog/VERB alternate/VERB right/ADJ foot/NOUN and/CCONJ left/VERB hand/NOUN move/VERB forward/ADV then/ADV their/DET opposite/NOUN#0.0#0.0
+a person jogs in one place.#a/DET person/NOUN jog/VERB in/ADP one/NUM place/NOUN#0.0#0.0
+a person is jogging in place.#a/DET person/NOUN is/AUX jog/VERB in/ADP place/NOUN#0.0#0.0

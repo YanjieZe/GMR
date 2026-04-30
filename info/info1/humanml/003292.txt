@@ -1,0 +1,3 @@
+the person cups their hands to their mouth as if they are trying to call out#the/DET person/NOUN cup/VERB their/DET hand/NOUN to/ADP their/DET mouth/NOUN as/SCONJ if/SCONJ they/PRON are/AUX try/VERB to/PART call/VERB out/ADP#0.0#0.0
+the figure raises its arms at head level as if it were going to catch something.#the/DET figure/NOUN raise/VERB its/DET arm/NOUN at/ADP head/NOUN level/NOUN as/SCONJ if/SCONJ it/PRON were/AUX go/VERB to/PART catch/VERB something/PRON#0.0#0.0
+person puts hands up to face as if shouting and turns slightly to their left.#person/NOUN put/VERB hand/NOUN up/ADP to/PART face/VERB as/SCONJ if/SCONJ shouting/NOUN and/CCONJ turn/VERB slightly/ADV to/ADP their/DET left/NOUN#0.0#0.0

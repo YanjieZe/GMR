@@ -1,0 +1,3 @@
+a person lifts both arms into the air.#a/DET person/NOUN lift/VERB both/CCONJ arm/NOUN into/ADP the/DET air/NOUN#0.0#0.0
+person raises and their drops hands, then immediately raises their left hand towards head.#person/NOUN raise/VERB and/CCONJ their/DET drop/NOUN hand/NOUN then/ADV immediately/ADV raise/VERB their/DET left/ADJ hand/NOUN towards/ADP head/NOUN#0.0#0.0
+a person is holding a container or a drink and take it to his mouse and drink, then he place it back to out of his hands#a/DET person/NOUN is/AUX hold/VERB a/DET container/NOUN or/CCONJ a/DET drink/NOUN and/CCONJ take/VERB it/PRON to/ADP his/DET mouse/NOUN and/CCONJ drink/NOUN then/ADV he/PRON place/VERB it/PRON back/ADV to/ADP out/SCONJ of/ADP his/DET hand/NOUN#0.0#0.0

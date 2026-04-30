@@ -1,0 +1,3 @@
+arms are placed down by the side from being straight out and then the right hand goes out making a random jabbing spots.#arm/NOUN are/AUX place/VERB down/ADP by/ADP the/DET side/NOUN from/ADP being/AUX straight/ADV out/ADV and/CCONJ then/ADV the/DET right/ADJ hand/NOUN go/VERB out/ADP make/VERB a/DET random/ADJ jabbing/NOUN spot/NOUN#0.0#0.0
+a person stands with their arms out to the sides, then lowers them and reaches out with his right arm a few times.#a/DET person/NOUN stand/VERB with/ADP their/DET arm/NOUN out/SCONJ to/ADP the/DET side/NOUN then/ADV lower/VERB them/PRON and/CCONJ reach/VERB out/ADP with/ADP his/DET right/ADJ arm/NOUN a/DET few/ADJ time/NOUN#0.0#0.0
+a person brings their arms down#a/DET person/NOUN bring/VERB their/DET arm/NOUN down/ADP#0.0#2.0

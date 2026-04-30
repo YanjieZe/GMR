@@ -1,0 +1,3 @@
+a man walks forward bending his knees.#a/DET man/NOUN walk/VERB forward/ADV bend/VERB his/DET knee/NOUN#0.0#0.0
+a person walks down a flight of steps without the assistance of a railing.#a/DET person/NOUN walk/VERB down/ADV a/DET flight/NOUN of/ADP step/NOUN without/ADP the/DET assistance/NOUN of/ADP a/DET railing/NOUN#0.0#0.0
+a person walks down stairs.#a/DET person/NOUN walk/VERB down/ADP stair/NOUN#0.0#0.0

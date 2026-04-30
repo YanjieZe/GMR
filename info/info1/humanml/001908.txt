@@ -1,0 +1,3 @@
+a person bows to two different people then shakes someone hand.#a/DET person/NOUN bow/VERB to/ADP two/NUM different/ADJ people/NOUN then/ADV shake/VERB someone/PRON hand/NOUN#0.0#0.0
+a person bows down facing the front then bows down facing the right.#a/DET person/NOUN bow/VERB down/ADP face/VERB the/DET front/NOUN then/ADV bow/VERB down/ADP face/VERB the/DET right/NOUN#0.0#0.0
+person had handsout then turned left.#person/NOUN had/AUX handsout/NOUN then/ADV turn/VERB left/ADV#0.0#0.0

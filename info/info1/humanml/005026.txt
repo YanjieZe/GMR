@@ -1,0 +1,3 @@
+a person is squatting down with both arms up to his face#a/DET person/NOUN is/AUX squat/VERB down/ADP with/ADP both/DET arm/NOUN up/ADV to/ADP his/DET face/NOUN#0.0#0.0
+a person holds their hands to their head while sitting.#a/DET person/NOUN hold/VERB their/DET hand/NOUN to/ADP their/DET head/NOUN while/SCONJ sit/VERB#0.0#0.0
+the person moves their hands up and down in unison while sitting/crouching.#the/DET person/NOUN move/VERB their/DET hand/NOUN up/ADV and/CCONJ down/ADV in/ADP unison/PROPN while/SCONJ sit/VERB crouch/VERB#0.0#0.0

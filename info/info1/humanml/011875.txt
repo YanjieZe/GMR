@@ -1,0 +1,3 @@
+a man catches then throws an object.#a/DET man/NOUN catch/VERB then/ADV throw/VERB an/DET object/NOUN#0.0#0.0
+a person holds something with their hand and then they throw it#a/DET person/NOUN hold/VERB something/PRON with/ADP their/DET hand/NOUN and/CCONJ then/ADV they/PRON throw/VERB it/PRON#0.0#0.0
+person put the ball in his right arm and threw it.#person/NOUN put/VERB the/DET ball/NOUN in/ADP his/DET right/ADJ arm/NOUN and/CCONJ throw/VERB it/PRON#0.0#0.0

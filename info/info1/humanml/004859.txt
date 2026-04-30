@@ -1,0 +1,3 @@
+a person walks to the left, walks to the right, and walks back to the left.#a/DET person/NOUN walk/VERB to/ADP the/DET left/NOUN walk/VERB to/ADP the/DET right/NOUN and/CCONJ walk/VERB back/ADV to/ADP the/DET left/NOUN#0.0#0.0
+person is walking back and forth.#person/NOUN is/AUX walk/VERB back/ADV and/CCONJ forth/ADV#0.0#0.0
+robot is moving from from right to left and then stopped at center.#robot/PROPN is/AUX move/VERB from/ADP from/ADP right/NOUN to/ADP left/VERB and/CCONJ then/ADV stop/VERB at/ADP center/NOUN#0.0#0.0

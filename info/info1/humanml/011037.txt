@@ -1,0 +1,3 @@
+putting hand above head.#put/VERB hand/NOUN above/ADP head/NOUN#0.0#0.0
+man raises and moves right hand over his head.#man/PROPN raise/VERB and/CCONJ move/VERB right/ADJ hand/NOUN over/ADP his/DET head/NOUN#0.0#0.0
+a person throws something with his right hand.#a/DET person/NOUN throw/VERB something/PRON with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+figure stumbles, arms raise, pushes forward to hell with it.#figure/NOUN stumble/NOUN arm/NOUN raise/VERB push/VERB forward/ADV to/ADP hell/NOUN with/ADP it/PRON#0.0#0.0
+a person raises both arms up and throws them down.#a/DET person/NOUN raise/VERB both/DET arm/NOUN up/ADV and/CCONJ throw/VERB them/PRON down/ADP#0.0#0.0
+a man stands up straight, then lifts both arms up over his head and bats them forward in a tired manner.#a/DET man/NOUN stand/VERB up/ADP straight/ADV then/ADV lift/VERB both/DET arm/NOUN up/ADV over/ADP his/DET head/NOUN and/CCONJ bat/VERB them/PRON forward/ADV in/ADP a/DET tired/ADJ manner/NOUN#0.0#0.0

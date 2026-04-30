@@ -1,0 +1,3 @@
+person person put his left arm up like he was looking out a watch.#person/NOUN person/NOUN put/VERB his/DET left/ADJ arm/NOUN up/ADP like/SCONJ he/PRON was/AUX look/VERB out/ADP a/DET watch/NOUN#0.0#0.0
+the left hand goes up to the chest and back down.#the/DET left/ADJ hand/NOUN go/VERB up/ADP to/ADP the/DET chest/NOUN and/CCONJ back/ADV down/ADV#0.0#0.0
+a man looks at his wrist or watch#a/DET man/NOUN look/VERB at/ADP his/DET wrist/NOUN or/CCONJ watch/VERB#0.0#0.0

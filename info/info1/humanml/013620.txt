@@ -1,0 +1,2 @@
+the person is marching to the right.#the/DET person/NOUN is/AUX march/VERB to/ADP the/DET right/NOUN#0.0#0.0
+a person marches happily forward, then turns and marches the other way.#a/DET person/NOUN march/VERB happily/ADV forward/ADV then/ADV turn/VERB and/CCONJ march/VERB the/DET other/ADJ way/NOUN#0.0#0.0

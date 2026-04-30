@@ -1,0 +1,3 @@
+a man walks forward, puts his right hand back and then throws something, he walks backwards and then raises his right arm up#a/DET man/NOUN walk/VERB forward/ADV put/VERB his/DET right/ADJ hand/NOUN back/ADV and/CCONJ then/ADV throw/VERB something/PRON he/PRON walk/VERB backwards/ADV and/CCONJ then/ADV raise/VERB his/DET right/ADJ arm/NOUN up/ADP#0.0#0.0
+this person takes a step back then throws with his right arm.#this/DET person/NOUN take/VERB a/DET step/NOUN back/ADV then/ADV throw/VERB with/ADP his/DET right/ADJ arm/NOUN#0.0#0.0
+he walks forward then puts his hand up#he/PRON walk/VERB forward/ADV then/ADV put/VERB his/DET hand/NOUN up/ADP#0.0#0.0

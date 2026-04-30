@@ -1,0 +1,3 @@
+a person winds their right arm and then their left.#a/DET person/NOUN wind/VERB their/DET right/ADJ arm/NOUN and/CCONJ then/ADV their/DET left/NOUN#0.0#0.0
+person is warming up arms doing vertical arms circles#person/NOUN is/AUX warm/VERB up/ADP arm/NOUN do/VERB vertical/ADJ arm/NOUN circle/NOUN#0.0#0.0
+this man is warming up his arm by swinging his right arm in circles and then his left arm.#this/DET man/NOUN is/AUX warm/VERB up/ADP his/DET arm/NOUN by/ADP swinge/VERB his/DET right/ADJ arm/NOUN in/ADP circle/NOUN and/CCONJ then/ADV his/DET left/ADJ arm/NOUN#0.0#0.0

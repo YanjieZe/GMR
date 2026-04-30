@@ -1,0 +1,3 @@
+a person walks forward, slowly.#a/DET person/NOUN walk/VERB forward/ADV slowly/ADV#0.0#0.0
+the person is walking forward but he can’t bend his legs.#the/DET person/NOUN is/AUX walk/VERB forward/ADV but/CCONJ he/PRON can/VERB bend/VERB his/DET leg/NOUN#0.0#0.0
+a man staggers forward a few steps with his legs wide apart.#a/DET man/NOUN stagger/VERB forward/ADV a/DET few/ADJ step/NOUN with/ADP his/DET leg/NOUN wide/ADJ apart/ADV#0.0#0.0

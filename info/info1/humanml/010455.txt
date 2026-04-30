@@ -1,0 +1,3 @@
+the person is walking while carrying something.#the/DET person/NOUN is/AUX walk/VERB while/SCONJ carry/VERB something/PRON#0.0#0.0
+a person walks carefully around the floor, holding a large object.#a/DET person/NOUN walk/VERB carefully/ADV around/ADP the/DET floor/NOUN hold/VERB a/DET large/ADJ object/NOUN#0.0#0.0
+a person carries an item with both hands to the right and then returns.#a/DET person/NOUN carry/VERB an/DET item/NOUN with/ADP both/DET hand/NOUN to/ADP the/DET right/NOUN and/CCONJ then/ADV return/VERB#0.0#0.0

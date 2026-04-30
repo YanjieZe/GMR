@@ -1,0 +1,3 @@
+while sitting takes a object out with left hand raises it to head before putting it away again with left hand#while/SCONJ sit/VERB take/VERB a/DET object/NOUN out/ADP with/ADP left/ADJ hand/NOUN raise/VERB it/PRON to/PART head/VERB before/ADP put/VERB it/PRON away/ADV again/ADV with/ADP left/ADJ hand/NOUN#0.0#0.0
+a person is sitting and moves around his hands.#a/DET person/NOUN is/AUX sit/VERB and/CCONJ move/NOUN around/ADP his/DET hand/NOUN#0.0#0.0
+a person is sitting making continuous gestures with their arms.#a/DET person/NOUN is/AUX sit/VERB make/VERB continuous/ADJ gesture/NOUN with/ADP their/DET arm/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person who is standing with his hands by his sides takes four quick steps forward and stops.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP his/DET hand/NOUN by/ADP his/DET side/NOUN take/VERB four/NUM quick/ADJ step/NOUN forward/ADV and/CCONJ stop/NOUN#0.0#0.0
+a person fastly walked forward#a/DET person/NOUN fastly/ADV walk/VERB forward/ADV#0.0#0.0
+person runs forward a few steps.#person/NOUN run/VERB forward/ADV a/DET few/ADJ step/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person staggers around a little while gesturing with both hands.#a/DET person/NOUN stagger/VERB around/ADP a/DET little/ADJ while/SCONJ gesture/VERB with/ADP both/DET hand/NOUN#nan#nan
+a person is moving like he wants to fight someone#a/DET person/NOUN is/AUX move/VERB like/SCONJ he/PRON want/VERB to/PART fight/VERB someone/PRON#0.0#0.0
+a person seems angry, they aggressivley pounce forward then continue to make angry gestures and swing their arms.#a/DET person/NOUN seem/VERB angry/ADJ they/PRON aggressivley/PROPN pounce/VERB forward/ADV then/ADV continue/VERB to/PART make/VERB angry/ADJ gesture/NOUN and/CCONJ swing/VERB their/DET arm/NOUN#0.0#0.0

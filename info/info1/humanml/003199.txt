@@ -1,0 +1,3 @@
+a person turns to their left and reaches above him with his right hand as if to grab something.#a/DET person/NOUN turn/VERB to/ADP their/DET left/NOUN and/CCONJ reach/VERB above/ADP him/PRON with/ADP his/DET right/ADJ hand/NOUN as/SCONJ if/SCONJ to/PART grab/VERB something/PRON#0.0#0.0
+a person rotates and pushes its right arm forward in a throwing motion.#a/DET person/NOUN rotate/VERB and/CCONJ push/VERB its/DET right/ADJ arm/NOUN forward/ADV in/ADP a/DET throwing/NOUN motion/NOUN#0.0#0.0
+the figure is throwing with right hand.#the/DET figure/NOUN is/AUX throw/VERB with/ADP right/ADJ hand/NOUN#0.0#0.0

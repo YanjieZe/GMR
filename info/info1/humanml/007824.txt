@@ -1,0 +1,3 @@
+a person is jogging around#a/DET person/NOUN is/AUX jog/VERB around/ADP#0.0#0.0
+a person jogging in circles in a clockwise trajectory#a/DET person/NOUN jog/VERB in/ADP circle/NOUN in/ADP a/DET clockwise/NOUN trajectory/NOUN#0.0#0.0
+a person who is standing with his hands by his sides jogs counterclockwise in ever widening circles.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP his/DET hand/NOUN by/ADP his/DET side/NOUN jog/VERB counterclockwise/NOUN in/ADP ever/ADV widen/VERB circle/NOUN#0.0#0.0

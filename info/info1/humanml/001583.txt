@@ -1,0 +1,3 @@
+the person is  sitting down and i think typing.#the/DET person/NOUN is/AUX sit/VERB down/ADP and/CCONJ i/PRON think/VERB type/VERB#0.0#0.0
+person crouches and rotates hands and legs#person/NOUN crouch/NOUN and/CCONJ rotate/VERB hand/NOUN and/CCONJ leg/NOUN#0.0#0.0
+the body is in squatting position while the right arm goes toward the face and back down multiple times.#the/DET body/NOUN is/AUX in/ADP squat/VERB position/NOUN while/SCONJ the/DET right/ADJ arm/NOUN go/VERB toward/ADP the/DET face/NOUN and/CCONJ back/VERB down/ADP multiple/ADJ time/NOUN#0.0#0.0

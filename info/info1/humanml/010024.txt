@@ -1,0 +1,3 @@
+a person walks a few steps forward, turns around, maintains a squat position, and starts clapping.#a/DET person/NOUN walk/VERB a/DET few/ADJ step/NOUN forward/ADV turn/VERB around/ADV maintain/VERB a/DET squat/ADJ position/NOUN and/CCONJ start/VERB clap/VERB#0.0#0.0
+a man walks then sits then then claps his hands.#a/DET man/NOUN walk/VERB then/ADV sit/VERB then/ADV then/ADV clap/VERB his/DET hand/NOUN#0.0#0.0
+a figure walks forward, turns, and crouches then claps as though to call a dog#a/DET figure/NOUN walk/VERB forward/ADV turn/VERB and/CCONJ crouch/NOUN then/ADV clap/NOUN as/SCONJ though/ADV to/PART call/VERB a/DET dog/NOUN#0.0#0.0

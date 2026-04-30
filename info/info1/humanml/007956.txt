@@ -1,0 +1,3 @@
+a person walks gingerly in a coubter clockwise direction.#a/DET person/NOUN walk/VERB gingerly/ADV in/ADP a/DET coubter/NOUN clockwise/NOUN direction/NOUN#0.0#0.0
+a person walks in a u shape.#a/DET person/NOUN walk/VERB in/ADP a/DET u/PROPN shape/NOUN#0.0#0.0
+a person is walking in a u shape#a/DET person/NOUN is/AUX walk/VERB in/ADP a/DET u/PROPN shape/NOUN#0.0#0.0

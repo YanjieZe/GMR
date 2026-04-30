@@ -1,0 +1,3 @@
+moving the hands and stay stand.#move/VERB the/DET hand/NOUN and/CCONJ stay/VERB stand/NOUN#0.0#0.0
+a figure plays the guitar#a/DET figure/NOUN play/VERB the/DET guitar/NOUN#0.0#0.0
+he ran his fingers over the guitar strings one time.#he/PRON run/VERB his/DET finger/NOUN over/ADP the/DET guitar/NOUN string/NOUN one/NUM time/NOUN#0.0#0.0

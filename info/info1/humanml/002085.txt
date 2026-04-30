@@ -1,0 +1,3 @@
+the person is swinging his extended arms, frontward in big circles as he walks forward.#the/DET person/NOUN is/AUX swinge/VERB his/DET extended/ADJ arm/NOUN frontward/ADV in/ADP big/ADJ circle/NOUN as/SCONJ he/PRON walk/VERB forward/ADV#0.0#0.0
+a person walks to the left making wide circling motions with their arms, and then walks back the same way.#a/DET person/NOUN walk/VERB to/ADP the/DET left/ADJ make/VERB wide/ADJ circling/NOUN motion/NOUN with/ADP their/DET arm/NOUN and/CCONJ then/ADV walk/VERB back/ADV the/DET same/ADJ way/NOUN#0.0#0.0
+person is walking and spinning their arms.#person/NOUN is/AUX walk/VERB and/CCONJ spin/VERB their/DET arm/NOUN#0.0#0.0

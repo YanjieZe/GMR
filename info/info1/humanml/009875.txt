@@ -1,0 +1,3 @@
+the person does several jumping jacks.#the/DET person/NOUN does/AUX several/ADJ jump/VERB jack/NOUN#0.0#0.0
+a person does jumping jacks then stops to stand with arms relaxed on both sides.#a/DET person/NOUN does/AUX jump/VERB jack/NOUN then/ADV stop/VERB to/PART stand/VERB with/ADP arm/NOUN relax/VERB on/ADP both/DET side/NOUN#0.0#0.0
+a person is doing jumping jacks.#a/DET person/NOUN is/AUX do/VERB jump/VERB jack/NOUN#0.0#0.0

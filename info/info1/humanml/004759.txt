@@ -1,0 +1,3 @@
+a person is walking in a stumbling motion and puts up one of his hands.#a/DET person/NOUN is/AUX walk/VERB in/ADP a/DET stumbling/ADJ motion/NOUN and/CCONJ put/VERB up/ADP one/NUM of/ADP his/DET hand/NOUN#0.0#0.0
+talking wide steps confusingly in a half jagged circle, then the left hand goes up towards the face.#talk/VERB wide/ADJ step/NOUN confusingly/ADV in/ADP a/DET half/NOUN jagged/ADJ circle/NOUN then/ADV the/DET left/ADJ hand/NOUN go/VERB up/ADP towards/ADP the/DET face/NOUN#0.0#0.0
+a person creeps around slowly#a/DET person/NOUN creep/VERB around/ADP slowly/ADV#0.0#0.0

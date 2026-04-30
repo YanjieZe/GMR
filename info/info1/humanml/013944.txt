@@ -1,0 +1,3 @@
+spinning hands in a circular motion.#spin/VERB hand/NOUN in/ADP a/DET circular/ADJ motion/NOUN#0.0#0.0
+a person makes what appears to be a clawing motion with their hand -- maybe rolling up a cord or a string, then patting it#a/DET person/NOUN make/VERB what/PRON appear/VERB to/PART be/AUX a/DET clawing/ADJ motion/NOUN with/ADP their/DET hand/NOUN maybe/ADV roll/VERB up/ADP a/DET cord/NOUN or/CCONJ a/DET string/NOUN then/ADV pat/VERB it/PRON#0.0#0.0
+he pretends to have a praiere dog#he/PRON pretend/VERB to/PART have/AUX a/DET praiere/NOUN dog/NOUN#0.0#0.0

@@ -1,0 +1,2 @@
+man walks and turns frequently with something in his hand#man/NOUN walk/VERB and/CCONJ turn/VERB frequently/ADV with/ADP something/PRON in/ADP his/DET hand/NOUN#0.0#0.0
+while holding their right arm in front of them, someone walks forward, turns around and walks back, then turns around again and walks forward.#while/SCONJ hold/VERB their/DET right/ADJ arm/NOUN in/ADP front/NOUN of/ADP them/PRON someone/PRON walk/VERB forward/ADV turn/VERB around/ADV and/CCONJ walk/VERB back/ADV then/ADV turn/VERB around/ADP again/ADV and/CCONJ walk/VERB forward/ADV#0.0#0.0

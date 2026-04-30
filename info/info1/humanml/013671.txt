@@ -1,0 +1,3 @@
+a man jumps on the spot three times.#a/DET man/NOUN jump/VERB on/ADP the/DET spot/NOUN three/NUM time/NOUN#0.0#0.0
+a man jumps up and down with arms stiffly at his sides.#a/DET man/NOUN jump/VERB up/ADV and/CCONJ down/ADV with/ADP arm/NOUN stiffly/ADV at/ADP his/DET side/NOUN#0.0#0.0
+a person jumps three times on the spot.#a/DET person/NOUN jump/VERB three/NUM time/NOUN on/ADP the/DET spot/NOUN#0.0#0.0

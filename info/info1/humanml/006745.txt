@@ -1,0 +1,3 @@
+someone has received a phone call that they seem to be fidgety on#someone/PRON has/AUX receive/VERB a/DET phone/NOUN call/NOUN that/DET they/PRON seem/VERB to/PART be/AUX fidgety/ADV on/ADP#0.0#0.0
+a person takes out their phone and makes a phone call, then sends a text and puts the phone away.#a/DET person/NOUN take/VERB out/ADP their/DET phone/NOUN and/CCONJ make/VERB a/DET phone/NOUN call/NOUN then/ADV send/VERB a/DET text/NOUN and/CCONJ put/VERB the/DET phone/NOUN away/ADV#0.0#0.0
+a person sitting down answers a phone call, then hangs up after talking for a moment.#a/DET person/NOUN sit/VERB down/ADP answer/NOUN a/DET phone/NOUN call/NOUN then/ADV hang/VERB up/ADP after/ADP talk/VERB for/ADP a/DET moment/NOUN#0.0#0.0

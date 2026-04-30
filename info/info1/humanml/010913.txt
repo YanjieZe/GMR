@@ -1,0 +1,3 @@
+a person is sneaking forward#a/DET person/NOUN is/AUX sneak/VERB forward/ADV#0.0#0.0
+a person crouches and slowly moves forward in a sneaking posture.#a/DET person/NOUN crouch/VERB and/CCONJ slowly/ADV move/VERB forward/ADV in/ADP a/DET sneaking/NOUN posture/NOUN#0.0#0.0
+a person slowly walked forward#a/DET person/NOUN slowly/ADV walk/VERB forward/ADV#0.0#0.0

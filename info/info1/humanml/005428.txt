@@ -1,0 +1,3 @@
+a person moves their arms in circles in the same direction, but in opposite parts of the motion#a/DET person/NOUN move/VERB their/DET arm/NOUN in/ADP circle/NOUN in/ADP the/DET same/ADJ direction/NOUN but/CCONJ in/ADP opposite/ADJ part/NOUN of/ADP the/DET motion/NOUN#0.0#0.0
+a person acts like they are juggling.#a/DET person/NOUN act/VERB like/SCONJ they/PRON are/AUX juggle/VERB#0.0#0.0
+a man swings an object between his left and right hands.#a/DET man/NOUN swing/VERB an/DET object/NOUN between/ADP his/DET left/ADJ and/CCONJ right/ADJ hand/NOUN#0.0#0.0

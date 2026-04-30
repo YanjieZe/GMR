@@ -1,0 +1,3 @@
+a person looks at the bottom of his left shoe#a/DET person/NOUN look/VERB at/ADP the/DET bottom/NOUN of/ADP his/DET left/ADJ shoe/NOUN#0.0#0.0
+the figure is reaching and stretching it's left leg#the/DET figure/NOUN is/AUX reach/VERB and/CCONJ stretch/VERB it/PRON left/VERB leg/NOUN#0.0#0.0
+a person leans forward to lift up their shoe and examine it.#a/DET person/NOUN lean/VERB forward/ADV to/PART lift/VERB up/ADP their/DET shoe/NOUN and/CCONJ examine/VERB it/PRON#0.0#0.0

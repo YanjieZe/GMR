@@ -1,0 +1,3 @@
+a person stands on the right leg while bending and moving the left leg in a variety of positions.#a/DET person/NOUN stand/VERB on/ADP the/DET right/ADJ leg/NOUN while/SCONJ bend/VERB and/CCONJ move/VERB the/DET left/ADJ leg/NOUN in/ADP a/DET variety/NOUN of/ADP position/NOUN#0.0#0.0
+the man bends his left leg in many directions above the ground.#the/DET man/NOUN bend/VERB his/DET left/ADJ leg/NOUN in/ADP many/ADJ direction/NOUN above/ADP the/DET ground/NOUN#0.0#0.0
+a person standing on his right leg does kicking motions with his left#a/DET person/NOUN stand/VERB on/ADP his/DET right/ADJ leg/NOUN does/AUX kick/VERB motion/NOUN with/ADP his/DET left/NOUN#0.0#0.0

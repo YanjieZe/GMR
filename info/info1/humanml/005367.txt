@@ -1,0 +1,3 @@
+a person goes and sits down#a/DET person/NOUN go/VERB and/CCONJ sit/VERB down/ADP#0.0#0.0
+a man turns to his right then sits down on a chair, shifting his left leg up and down as he does.#a/DET man/NOUN turn/VERB to/ADP his/DET right/NOUN then/ADV sit/VERB down/ADP on/ADP a/DET chair/NOUN shift/VERB his/DET left/ADJ leg/NOUN up/ADP and/CCONJ down/ADV as/SCONJ he/PRON does/AUX#0.0#0.0
+sitting down in a chair.#sit/VERB down/ADP in/ADP a/DET chair/NOUN#0.0#0.0

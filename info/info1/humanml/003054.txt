@@ -1,0 +1,3 @@
+a person is doing the salsa dance.#a/DET person/NOUN is/AUX do/VERB the/DET salsa/NOUN dance/NOUN#0.0#0.0
+a man dancing slowly, left and right.#a/DET man/NOUN dance/VERB slowly/ADV left/ADJ and/CCONJ right/INTJ#0.0#0.0
+a man is dancing around in a circle.#a/DET man/NOUN is/AUX dance/VERB around/ADV in/ADP a/DET circle/NOUN#0.0#0.0

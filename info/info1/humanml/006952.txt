@@ -1,0 +1,3 @@
+a person takes a big step forward.#a/DET person/NOUN take/VERB a/DET big/ADJ step/NOUN forward/ADV#0.0#0.0
+a person takes one big step forward with left leg, leaning forward slightly when planting left leg during first step. right leg follows but does not go further then left leg#a/DET person/NOUN take/VERB one/NUM big/ADJ step/NOUN forward/ADV with/ADP left/ADJ leg/NOUN lean/VERB forward/ADV slightly/ADV when/ADV plant/VERB left/ADJ leg/NOUN during/ADP first/ADJ step/NOUN right/ADJ leg/NOUN follow/VERB but/CCONJ does/AUX not/PART go/VERB further/ADV then/ADV left/VERB leg/NOUN#0.0#0.0
+a person takes one big step up to the left.#a/DET person/NOUN take/VERB one/NUM big/ADJ step/NOUN up/ADP to/ADP the/DET left/NOUN#0.0#0.0

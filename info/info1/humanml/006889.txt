@@ -1,0 +1,3 @@
+person lifts both hands to shoulders and waves twice.#person/NOUN lift/VERB both/DET hand/NOUN to/ADP shoulder/NOUN and/CCONJ wave/NOUN twice/ADV#0.0#0.0
+a person waves with both hands.#a/DET person/NOUN wave/VERB with/ADP both/DET hand/NOUN#0.0#0.0
+a person waves both arms and lowers them.#a/DET person/NOUN wave/VERB both/DET arm/NOUN and/CCONJ lower/VERB them/PRON#0.0#0.0

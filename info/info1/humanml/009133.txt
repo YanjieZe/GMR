@@ -1,0 +1,2 @@
+a person walks to his left in a circle#a/DET person/NOUN walk/VERB to/ADP his/DET left/NOUN in/ADP a/DET circle/NOUN#0.0#0.0
+the person starts walking up and down the room#the/DET person/NOUN start/VERB walk/VERB up/ADV and/CCONJ down/ADP the/DET room/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks forward, turns and jogs back ending with a three-quarter turn.#a/DET person/NOUN walk/VERB forward/ADV turn/VERB and/CCONJ jog/VERB back/ADV end/VERB with/ADP a/DET threequarter/NOUN turn/NOUN#0.0#0.0
+the person is walking forward.#the/DET person/NOUN is/AUX walk/VERB forward/ADV#0.0#0.0
+the man takes 5 steps slowly forward turns and jobs back.#the/DET man/NOUN take/VERB step/NOUN slowly/ADV forward/ADV turn/VERB and/CCONJ job/NOUN back/ADP#0.0#0.0

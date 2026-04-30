@@ -1,0 +1,3 @@
+person walks up then bumps into something and takes a slight step back then continues walking#person/NOUN walk/VERB up/ADP then/ADV bump/NOUN into/ADP something/PRON and/CCONJ take/VERB a/DET slight/ADJ step/NOUN back/ADV then/ADV continue/VERB walk/VERB#0.0#0.0
+a person walks forward then stumbles backward and walks forward again#a/DET person/NOUN walk/VERB forward/ADV then/ADV stumble/VERB backward/ADV and/CCONJ walk/VERB forward/ADV again/ADV#0.0#0.0
+a man walks forward is pushed backwards but recovers quickly and continues to walk forward.#a/DET man/NOUN walk/VERB forward/ADV is/AUX push/VERB backwards/ADV but/CCONJ recover/NOUN quickly/ADV and/CCONJ continue/VERB to/PART walk/VERB forward/ADV#0.0#0.0

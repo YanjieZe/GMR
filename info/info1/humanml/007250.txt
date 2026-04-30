@@ -1,0 +1,3 @@
+a man steps forward onto his knees, using his hands for balance.#a/DET man/NOUN step/VERB forward/ADV onto/ADP his/DET knee/NOUN use/VERB his/DET hand/NOUN for/ADP balance/NOUN#0.0#0.0
+a person kneels to the ground, assisted by using his hands.#a/DET person/NOUN kneel/VERB to/ADP the/DET ground/NOUN assist/VERB by/ADP use/VERB his/DET hand/NOUN#0.0#0.0
+a person sat on the knee#a/DET person/NOUN sit/VERB on/ADP the/DET knee/NOUN#0.0#0.0

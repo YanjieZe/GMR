@@ -1,0 +1,3 @@
+a person who seems to be playing guitar#a/DET person/NOUN who/PRON seem/VERB to/PART be/AUX play/VERB guitar/NOUN#0.0#0.0
+the person is playing a guitar.#the/DET person/NOUN is/AUX play/VERB a/DET guitar/NOUN#0.0#0.0
+wave arm around near chest.#wave/PROPN arm/PROPN around/ADP near/SCONJ chest/NOUN#0.0#0.0

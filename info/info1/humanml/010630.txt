@@ -1,0 +1,3 @@
+wake on the floor and create a some drew.#wake/VERB on/ADP the/DET floor/NOUN and/CCONJ create/VERB a/DET some/DET drew/NOUN#0.0#0.0
+a person paces slowly back and forth.#a/DET person/NOUN pace/VERB slowly/ADV back/ADV and/CCONJ forth/ADV#0.0#0.0
+a person carefully paces back and forth, their arms loose at their sides.#a/DET person/NOUN carefully/ADV pace/VERB back/ADV and/CCONJ forth/ADV their/DET arm/NOUN loose/ADJ at/ADP their/DET side/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+the man waves his arms around making baseball signals.#the/DET man/NOUN wave/VERB his/DET arm/NOUN around/ADP make/VERB baseball/NOUN signal/NOUN#0.0#0.0
+the person is doing arm exercises.#the/DET person/NOUN is/AUX do/VERB arm/NOUN exercise/NOUN#0.0#0.0
+a person seems to be doing some type of warmup, first raising both hands as if to wave, then lifting and moving them around in various/random patterns.#a/DET person/NOUN seem/VERB to/PART be/AUX do/VERB some/DET type/NOUN of/ADP warmup/PROPN first/ADV raise/VERB both/DET hand/NOUN as/SCONJ if/SCONJ to/PART wave/VERB then/ADV lift/VERB and/CCONJ move/VERB them/PRON around/ADV in/ADP various/ADJ random/ADJ pattern/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person raises their right hand slightly to look at their watch.#a/DET person/NOUN raise/VERB their/DET right/ADJ hand/NOUN slightly/ADV to/PART look/VERB at/ADP their/DET watch/NOUN#0.0#0.0
+a person checking his/her wrist like checking the time as if he/she is waiting for something#a/DET person/NOUN check/VERB his/DET her/DET wrist/NOUN like/SCONJ check/VERB the/DET time/NOUN as/SCONJ if/SCONJ he/PRON she/PRON is/AUX wait/VERB for/ADP something/PRON#0.0#0.0
+a person looks at their right wrist then drops it.#a/DET person/NOUN look/VERB at/ADP their/DET right/ADJ wrist/NOUN then/ADV drop/VERB it/PRON#0.0#0.0

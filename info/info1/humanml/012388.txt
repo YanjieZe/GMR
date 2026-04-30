@@ -1,0 +1,3 @@
+this person ducks under something then climbs up and over it.#this/DET person/NOUN duck/VERB under/ADP something/PRON then/ADV climb/VERB up/ADV and/CCONJ over/ADP it/PRON#0.0#0.0
+a person climbs a ladder#a/DET person/NOUN climb/VERB a/DET ladder/NOUN#0.0#0.0
+a person ducks down to walk underneath a bar or fence in front of them. they then turn left, walk around something, then turn left again to climb up a ladder or something.#a/DET person/NOUN duck/VERB down/ADP to/PART walk/VERB underneath/ADP a/DET bar/NOUN or/CCONJ fence/NOUN in/ADP front/NOUN of/ADP them/PRON they/PRON then/ADV turn/VERB left/ADV walk/VERB around/ADP something/PRON then/ADV turn/VERB left/VERB again/ADV to/PART climb/VERB up/ADP a/DET ladder/NOUN or/CCONJ something/PRON#0.0#0.0

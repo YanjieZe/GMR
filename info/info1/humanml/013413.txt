@@ -1,0 +1,3 @@
+a person walks forward from one end to the other.#a/DET person/NOUN walk/VERB forward/ADV from/ADP one/NUM end/NOUN to/ADP the/DET other/ADJ#0.0#0.0
+a person walks directly forwards on the ground.#a/DET person/NOUN walk/VERB directly/ADV forwards/ADV on/ADP the/DET ground/NOUN#0.0#0.0
+a person takes five steps forward.#a/DET person/NOUN take/VERB five/NUM step/NOUN forward/ADV#0.0#0.0

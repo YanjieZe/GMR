@@ -1,0 +1,3 @@
+a person is crwoched down with their knees bent, puts their right arm up and down three times.#a/DET person/NOUN is/AUX crwoche/VERB down/ADP with/ADP their/DET knee/NOUN bent/ADJ put/VERB their/DET right/ADJ arm/NOUN up/ADV and/CCONJ down/ADV three/NUM time/NOUN#0.0#0.0
+person he’s eating with his right finger.#person/NOUN he/PRON eat/VERB with/ADP his/DET right/ADJ finger/NOUN#0.0#0.0
+a worker sits at a circuit board.#a/DET worker/NOUN sit/VERB at/ADP a/DET circuit/NOUN board/NOUN#0.0#0.0

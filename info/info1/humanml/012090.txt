@@ -1,0 +1,3 @@
+a person washes himself with his right arm#a/DET person/NOUN wash/VERB himself/PRON with/ADP his/DET right/ADJ arm/NOUN#0.0#0.0
+a person appears to be holding an item with their left hand and is moving their right hand on top of it, then he touches the floor on either side of him with his hands#a/DET person/NOUN appear/VERB to/PART be/AUX hold/VERB an/DET item/NOUN with/ADP their/DET left/ADJ hand/NOUN and/CCONJ is/AUX move/VERB their/DET right/ADJ hand/NOUN on/ADP top/NOUN of/ADP it/PRON then/ADV he/PRON touch/VERB the/DET floor/NOUN on/ADP either/DET side/NOUN of/ADP him/PRON with/ADP his/DET hand/NOUN#0.0#0.0
+the man is showering his left arm#the/DET man/NOUN is/AUX shower/VERB his/DET left/ADJ arm/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person picks and item up and then lets it go.#a/DET person/NOUN pick/VERB and/CCONJ item/VERB up/ADP and/CCONJ then/ADV let/VERB it/PRON go/VERB#0.0#0.0
+a person picking something up  by bending down to the ground#a/DET person/NOUN pick/VERB something/PRON up/ADV by/ADP bend/VERB down/ADP to/ADP the/DET ground/NOUN#0.0#0.0
+a person bends down to touch their toes#a/DET person/NOUN bend/VERB down/ADP to/PART touch/VERB their/DET toe/NOUN#0.0#0.0

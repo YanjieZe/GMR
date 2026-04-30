@@ -1,0 +1,3 @@
+a person walks slowly forward while holding on to handrails.#a/DET person/NOUN walk/VERB slowly/ADV forward/ADV while/SCONJ hold/VERB on/ADP to/ADP handrail/NOUN#0.0#0.0
+a person holds on to something while carefully walking.#a/DET person/NOUN hold/VERB on/ADP to/ADP something/PRON while/SCONJ carefully/ADV walk/VERB#0.0#0.0
+a person takes very slow steps forward, both of their arms holding onto something at either side for support.#a/DET person/NOUN take/VERB very/ADV slow/ADJ step/NOUN forward/ADV both/DET of/ADP their/DET arm/NOUN hold/VERB onto/ADP something/PRON at/ADP either/DET side/NOUN for/ADP support/NOUN#0.0#0.0

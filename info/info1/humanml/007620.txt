@@ -1,0 +1,3 @@
+a man walks forward turning to the left.#a/DET man/NOUN walk/VERB forward/ADV turn/VERB to/ADP the/DET left/NOUN#0.0#0.0
+a person walks forward and to the right.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ to/ADP the/DET right/NOUN#0.0#0.0
+a person is walking clockwise for 90 degrees#a/DET person/NOUN is/AUX walk/VERB clockwise/NOUN for/ADP degree/NOUN#0.0#0.0

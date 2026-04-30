@@ -1,0 +1,3 @@
+the person hesitates then slowly puts their right foot first and takes 5 steps forward and then stops.#the/DET person/NOUN hesitate/VERB then/ADV slowly/ADV put/VERB their/DET right/ADJ foot/NOUN first/ADV and/CCONJ take/VERB step/NOUN forward/ADV and/CCONJ then/ADV stop/VERB#0.0#0.0
+a man slowly walks forward.#a/DET man/NOUN slowly/ADV walk/VERB forward/ADV#0.0#0.0
+a man walks forward very slowly.#a/DET man/NOUN walk/VERB forward/ADV very/ADV slowly/ADV#0.0#0.0

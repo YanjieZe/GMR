@@ -1,0 +1,3 @@
+a person showming something with both hands#a/DET person/NOUN showme/VERB something/PRON with/ADP both/DET hand/NOUN#0.0#0.0
+a person flexes their arms to one side, then another, and then flexes again.#a/DET person/NOUN flex/VERB their/DET arm/NOUN to/ADP one/NUM side/NOUN then/ADV another/DET and/CCONJ then/ADV flex/VERB again/ADV#0.0#0.0
+moving hands side to side in sync.#move/VERB hand/NOUN side/VERB to/PART side/VERB in/ADP sync/NOUN#0.0#0.0

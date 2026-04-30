@@ -1,0 +1,3 @@
+a person walks forward while swinging their arms#a/DET person/NOUN walk/VERB forward/ADV while/SCONJ swinge/VERB their/DET arm/NOUN#0.0#0.0
+a person walks slowly on a treadmill.#a/DET person/NOUN walk/VERB slowly/ADV on/ADP a/DET treadmill/NOUN#0.0#0.0
+a man walks forwards on the same spot, infinitely.#a/DET man/NOUN walk/VERB forwards/ADV on/ADP the/DET same/ADJ spot/NOUN infinitely/ADV#0.0#0.0

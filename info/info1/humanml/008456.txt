@@ -1,0 +1,3 @@
+a person lowers and raises their arms at their sides, while crouching.#a/DET person/NOUN lower/VERB and/CCONJ raise/VERB their/DET arm/NOUN at/ADP their/DET side/NOUN while/SCONJ crouch/VERB#0.0#0.0
+the person stands still while squatted and t-poses at the end.#the/DET person/NOUN stand/VERB still/ADV while/SCONJ squatted/ADJ and/CCONJ tpose/NOUN at/ADP the/DET end/NOUN#0.0#0.0
+a sitting person sits very still.#a/DET sit/VERB person/NOUN sit/VERB very/ADV still/ADV#0.0#0.0

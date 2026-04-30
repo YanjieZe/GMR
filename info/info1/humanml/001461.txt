@@ -1,0 +1,3 @@
+a person walking around in circle's#a/DET person/NOUN walk/VERB around/ADV in/ADP circle/NOUN#0.0#0.0
+a man walks around in a circle.#a/DET man/NOUN walk/VERB around/ADV in/ADP a/DET circle/NOUN#0.0#0.0
+a person who walked in a circle#a/DET person/NOUN who/PRON walk/VERB in/ADP a/DET circle/NOUN#0.0#0.0

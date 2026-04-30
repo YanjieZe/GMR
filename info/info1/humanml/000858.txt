@@ -1,0 +1,3 @@
+a person is walking in a circle while swinging his arms around.#a/DET person/NOUN is/AUX walk/VERB in/ADP a/DET circle/NOUN while/SCONJ swinge/VERB his/DET arm/NOUN around/ADV#0.0#0.0
+a person lazily walks in a clockwise circle, swinging their arms loosely as they go.#a/DET person/NOUN lazily/ADV walk/VERB in/ADP a/DET clockwise/NOUN circle/NOUN swinge/VERB their/DET arm/NOUN loosely/ADV as/SCONJ they/PRON go/VERB#0.0#0.0
+a man walks slowly in a clockwise circle, with his arms hanging limply by his sides as if he's bored.#a/DET man/NOUN walk/VERB slowly/ADV in/ADP a/DET clockwise/ADJ circle/NOUN with/ADP his/DET arm/NOUN hang/VERB limply/ADV by/ADP his/DET side/NOUN as/SCONJ if/SCONJ he/PRON bore/VERB#0.0#0.0

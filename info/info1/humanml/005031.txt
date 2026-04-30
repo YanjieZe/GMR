@@ -1,0 +1,3 @@
+a person does a drinking motion with his right arm#a/DET person/NOUN does/AUX a/DET drinking/NOUN motion/NOUN with/ADP his/DET right/ADJ arm/NOUN#0.0#0.0
+a figure seems to look upward and to use their hand to help them look at or read something eye level or higher#a/DET figure/NOUN seem/VERB to/PART look/VERB upward/ADV and/CCONJ to/PART use/VERB their/DET hand/NOUN to/PART help/VERB them/PRON look/VERB at/ADP or/CCONJ read/VERB something/PRON eye/NOUN level/NOUN or/CCONJ higher/ADJ#0.0#0.0
+a person lunges toward the left while lifting their right arm up, then repeats the motion.#a/DET person/NOUN lunge/VERB toward/ADP the/DET left/ADJ while/SCONJ lift/VERB their/DET right/ADJ arm/NOUN up/ADP then/ADV repeat/VERB the/DET motion/NOUN#0.0#0.0

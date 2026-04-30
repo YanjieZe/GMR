@@ -1,0 +1,3 @@
+a person stands and moves right hand side to side#a/DET person/NOUN stand/VERB and/CCONJ move/VERB right/ADJ hand/NOUN side/NOUN to/PART side/VERB#0.0#0.0
+a person moves their right arm in a circular, clockwise motion, like stirring a pot.#a/DET person/NOUN move/VERB their/DET right/ADJ arm/NOUN in/ADP a/DET circular/ADJ clockwise/ADJ motion/NOUN like/SCONJ stir/VERB a/DET pot/NOUN#0.0#0.0
+a man bends his right forearm towards his left-front side, and makes an anti-clockwise stirring motion.#a/DET man/NOUN bend/VERB his/DET right/ADJ forearm/NOUN towards/ADP his/DET leftfront/NOUN side/NOUN and/CCONJ make/VERB an/DET anticlockwise/NOUN stir/VERB motion/NOUN#0.0#0.0

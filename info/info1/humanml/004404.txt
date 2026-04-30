@@ -1,0 +1,3 @@
+someone hold heads in hands and bend to the left, trying to dodge something.#someone/PRON hold/VERB head/NOUN in/ADP hand/NOUN and/CCONJ bend/VERB to/ADP the/DET left/NOUN try/VERB to/PART dodge/VERB something/PRON#0.0#0.0
+a man walking sideways and holding his right knee feeling the pain while walking#a/DET man/NOUN walk/VERB sideways/ADV and/CCONJ hold/VERB his/DET right/ADJ knee/NOUN feel/VERB the/DET pain/NOUN while/SCONJ walk/VERB#0.0#0.0
+a man picks something up and then walks backwards.#a/DET man/NOUN pick/VERB something/PRON up/ADP and/CCONJ then/ADV walk/VERB backwards/ADV#0.0#0.0

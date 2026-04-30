@@ -1,0 +1,3 @@
+person standing walks forward then back with large kicking or marching gait#person/NOUN stand/VERB walk/VERB forward/ADV then/ADV back/ADV with/ADP large/ADJ kicking/NOUN or/CCONJ marching/NOUN gait/NOUN#0.0#0.0
+a man walks forward and the turns around and walks back.#a/DET man/NOUN walk/VERB forward/ADV and/CCONJ the/DET turn/NOUN around/ADP and/CCONJ walk/VERB back/ADV#0.0#0.0
+a man walks forward, kicking up his feet, then turns and goes the opposite direction, still kicking his feet.#a/DET man/NOUN walk/VERB forward/ADV kick/VERB up/ADP his/DET foot/NOUN then/ADV turn/VERB and/CCONJ go/VERB the/DET opposite/ADJ direction/NOUN still/ADV kick/VERB his/DET foot/NOUN#0.0#0.0

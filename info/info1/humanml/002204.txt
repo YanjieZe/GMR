@@ -1,0 +1,3 @@
+a skeleton lifts his red hand toward the sky and then lowers it down to his side.#a/DET skeleton/NOUN lift/VERB his/DET red/ADJ hand/NOUN toward/ADP the/DET sky/NOUN and/CCONJ then/ADV lower/VERB it/PRON down/ADP to/ADP his/DET side/NOUN#0.0#0.0
+a man raises his right had to answer a question.#a/DET man/NOUN raise/VERB his/DET right/NOUN had/AUX to/PART answer/VERB a/DET question/NOUN#0.0#0.0
+someone raising their right hand.#someone/PRON raise/VERB their/DET right/ADJ hand/NOUN#0.0#0.0

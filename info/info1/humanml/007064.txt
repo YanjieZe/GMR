@@ -1,0 +1,3 @@
+a person picks up a long object, flips it upright while turning left, then steadily places it on something.#a/DET person/NOUN pick/VERB up/ADP a/DET long/ADJ object/NOUN flip/VERB it/PRON upright/ADV while/SCONJ turn/VERB left/ADV then/ADV steadily/ADV place/VERB it/PRON on/ADP something/PRON#0.0#0.0
+moving hands from side to side slowly.#move/VERB hand/NOUN from/ADP side/NOUN to/PART side/VERB slowly/ADV#0.0#0.0
+a person gestures grabing something then puts it down to their right#a/DET person/NOUN gesture/VERB grab/VERB something/PRON then/ADV put/VERB it/PRON down/ADP to/ADP their/DET right/NOUN#0.0#0.0

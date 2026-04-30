@@ -1,0 +1,3 @@
+a person steps backward, jumps up, runs forward, then runs backward.#a/DET person/NOUN step/VERB backward/ADV jump/VERB up/ADP run/VERB forward/ADV then/ADV run/VERB backward/ADV#0.0#0.0
+person takes a step back and then jumps up and walks forwards#person/NOUN take/VERB a/DET step/NOUN back/ADV and/CCONJ then/ADV jump/VERB up/ADP and/CCONJ walk/VERB forwards/ADV#0.0#0.0
+a person kicks in the air, runs forward and then trots backward to their original location.#a/DET person/NOUN kick/VERB in/ADP the/DET air/NOUN run/VERB forward/ADV and/CCONJ then/ADV trot/VERB backward/ADV to/ADP their/DET original/ADJ location/NOUN#0.0#0.0

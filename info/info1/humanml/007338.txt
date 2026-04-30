@@ -1,0 +1,3 @@
+the man is moving his right arm#the/DET man/NOUN is/AUX move/VERB his/DET right/ADJ arm/NOUN#0.0#0.0
+stick person is standing making motions of washing dishes. then walks diagonal to place item on the ground with right hand.#stick/PROPN person/NOUN is/AUX stand/VERB make/VERB motion/NOUN of/ADP wash/VERB dish/NOUN then/ADV walk/VERB diagonal/ADJ to/PART place/NOUN item/NOUN on/ADP the/DET ground/NOUN with/ADP right/ADJ hand/NOUN#0.0#9.0
+moving hands in a circular motion then walking.#move/VERB hand/NOUN in/ADP a/DET circular/ADJ motion/NOUN then/ADV walk/VERB#0.0#0.0

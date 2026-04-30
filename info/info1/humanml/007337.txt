@@ -1,0 +1,3 @@
+a man standing moving hands and arms in circular motion.#a/DET man/NOUN stand/VERB move/VERB hand/NOUN and/CCONJ arm/NOUN in/ADP circular/ADJ motion/NOUN#0.0#0.0
+a person loosens their shoulders and arms up by wiggling and twisting them around.#a/DET person/NOUN loosen/VERB their/DET shoulder/NOUN and/CCONJ arm/NOUN up/ADV by/ADP wiggle/VERB and/CCONJ twist/VERB them/PRON around/ADV#0.0#0.0
+a person makes circular motions with their wrists, then with different parts of their arms.#a/DET person/NOUN make/VERB circular/ADJ motion/NOUN with/ADP their/DET wrist/NOUN then/ADV with/ADP different/ADJ part/NOUN of/ADP their/DET arm/NOUN#0.0#0.0

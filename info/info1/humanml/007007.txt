@@ -1,0 +1,3 @@
+a person pull down the hands and start to make a circle#a/DET person/NOUN pull/VERB down/ADP the/DET hand/NOUN and/CCONJ start/VERB to/PART make/VERB a/DET circle/NOUN#0.0#0.0
+lowering arms from shoulder height to waist then bending arms 90 degrees forward and rotating circular#lower/VERB arm/NOUN from/ADP shoulder/NOUN height/NOUN to/ADP waist/NOUN then/ADV bend/VERB arm/NOUN degree/NOUN forward/ADV and/CCONJ rotate/VERB circular/ADJ#0.0#0.0
+a persons with arms raised to the side then makes vertical circles in front of them#a/DET person/NOUN with/ADP arm/NOUN raise/VERB to/ADP the/DET side/NOUN then/ADV make/VERB vertical/ADJ circle/NOUN in/ADP front/NOUN of/ADP them/PRON#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks forward starting with their left foot for 5 steps.#a/DET person/NOUN walk/VERB forward/ADV start/VERB with/ADP their/DET left/ADJ foot/NOUN for/ADP step/NOUN#0.0#0.0
+the person is walking forward.#the/DET person/NOUN is/AUX walk/VERB forward/ADV#0.0#0.0
+a person walks forward and then stops after a few steps.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ then/ADV stop/VERB after/ADP a/DET few/ADJ step/NOUN#0.0#0.0

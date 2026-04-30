@@ -1,0 +1,3 @@
+walking forward with arms outstretched.#walk/VERB forward/ADV with/ADP arm/NOUN outstretche/VERB#0.0#0.0
+figure walks forward arms raised to the side, feet in front of eachother#figure/NOUN walk/VERB forward/ADV arm/NOUN raise/VERB to/ADP the/DET side/NOUN foot/NOUN in/ADP front/NOUN of/ADP eachother/NOUN#0.0#0.0
+a person balance walks forward.#a/DET person/NOUN balance/NOUN walk/VERB forward/ADV#0.0#0.0

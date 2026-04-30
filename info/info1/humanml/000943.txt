@@ -1,0 +1,3 @@
+person moves backwards and forwards with their arms out like they have wings.#person/NOUN move/VERB backwards/ADV and/CCONJ forwards/ADV with/ADP their/DET arm/NOUN out/ADP like/SCONJ they/PRON have/AUX wing/NOUN#0.0#10.0
+a person acting like a bird#a/DET person/NOUN act/VERB like/SCONJ a/DET bird/NOUN#0.0#0.0
+person is walking around and dancing#person/NOUN is/AUX walk/VERB around/ADV and/CCONJ dance/VERB#0.0#0.0

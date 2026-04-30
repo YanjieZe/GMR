@@ -1,0 +1,3 @@
+the person is dancing galley across the floor.#the/DET person/NOUN is/AUX dance/VERB galley/NOUN across/ADP the/DET floor/NOUN#0.0#0.0
+a person dances from side to side, swinging their arms and crossing their feet#a/DET person/NOUN dance/VERB from/ADP side/NOUN to/ADP side/NOUN swinge/VERB their/DET arm/NOUN and/CCONJ cross/VERB their/DET foot/NOUN#0.0#0.0
+a figure appears to be dancing and sashaying from side to side#a/DET figure/NOUN appear/VERB to/PART be/AUX dance/VERB and/CCONJ sashay/VERB from/ADP side/NOUN to/ADP side/VERB#0.0#0.0

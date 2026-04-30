@@ -1,0 +1,3 @@
+a person is walking around casually#a/DET person/NOUN is/AUX walk/VERB around/ADP casually/ADV#0.0#0.0
+a person walks from left to right, arms at their sides, turns to the left and walks from right to left.#a/DET person/NOUN walk/VERB from/ADP left/NOUN to/ADP right/NOUN arm/NOUN at/ADP their/DET side/NOUN turn/VERB to/ADP the/DET left/NOUN and/CCONJ walk/VERB from/ADP right/NOUN to/ADP left/NOUN#0.0#0.0
+a person walks towards the left side turns around and walks to the right side.#a/DET person/NOUN walk/VERB towards/ADP the/DET left/ADJ side/NOUN turn/VERB around/ADV and/CCONJ walk/VERB to/ADP the/DET right/ADJ side/NOUN#0.0#0.0

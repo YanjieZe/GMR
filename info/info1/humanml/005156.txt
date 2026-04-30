@@ -1,0 +1,3 @@
+a person walks forward and kicks their leg out while turning around.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ kick/VERB their/DET leg/NOUN out/ADP while/SCONJ turn/VERB around/ADV#0.0#0.0
+a person wakls  forward, then turns on his left foot and goes back#a/DET person/NOUN wakls/PROPN forward/ADV then/ADV turn/VERB on/ADP his/DET left/ADJ foot/NOUN and/CCONJ go/VERB back/ADV#0.0#0.0
+a person walks forward, turns around then walks back.#a/DET person/NOUN walk/VERB forward/ADV turn/VERB around/ADV then/ADV walk/VERB back/ADV#0.0#0.0

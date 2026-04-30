@@ -1,0 +1,3 @@
+a person brings their right hand up to make a salute before returning their arm to a resting position.#a/DET person/NOUN bring/VERB their/DET right/ADJ hand/NOUN up/ADP to/PART make/VERB a/DET salute/NOUN before/ADP return/VERB their/DET arm/NOUN to/ADP a/DET resting/NOUN position/NOUN#0.0#0.0
+right hand drops from the shoulder then goes back up to the shoulder again and repeats.#right/ADJ hand/NOUN drop/VERB from/ADP the/DET shoulder/NOUN then/ADV go/VERB back/ADV up/ADV to/ADP the/DET shoulder/NOUN again/ADV and/CCONJ repeat/VERB#0.0#0.0
+person brings their right hand up to eye level displaying their palm, twice.#person/NOUN bring/VERB their/DET right/ADJ hand/NOUN up/ADP to/ADP eye/NOUN level/NOUN display/VERB their/DET palm/NOUN twice/ADV#0.0#0.0

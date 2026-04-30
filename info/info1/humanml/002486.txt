@@ -1,0 +1,3 @@
+a person is walking forwards, but stumbles and steps back, then carries on forward.#a/DET person/NOUN is/AUX walk/VERB forwards/ADV but/CCONJ stumble/NOUN and/CCONJ step/NOUN back/ADV then/ADV carry/VERB on/ADP forward/ADV#0.0#0.0
+a person makes stiff staggering motions forward.#a/DET person/NOUN make/VERB stiff/ADJ staggering/ADJ motion/NOUN forward/ADV#0.0#0.0
+the person is walking slowly or actingl ike a zombie.#the/DET person/NOUN is/AUX walk/VERB slowly/ADV or/CCONJ actingl/ADJ ike/VERB a/DET zombie/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks forward slowly in an unbalanced fashion.#a/DET person/NOUN walk/VERB forward/ADV slowly/ADV in/ADP an/DET unbalanced/ADJ fashion/NOUN#0.0#0.0
+person walks forward slowly.#person/NOUN walk/VERB forward/ADV slowly/ADV#0.0#0.0
+a person walks forward sadly, wobbling a bit.#a/DET person/NOUN walk/VERB forward/ADV sadly/ADV wobble/VERB a/DET bit/NOUN#0.0#0.0

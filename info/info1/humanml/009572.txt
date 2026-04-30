@@ -1,0 +1,3 @@
+putting arm out forward.#put/VERB arm/NOUN out/ADP forward/ADV#0.0#0.0
+the legs moving forward and backward and shake the hands.#the/DET leg/NOUN move/VERB forward/ADV and/CCONJ backward/ADV and/CCONJ shake/VERB the/DET hand/NOUN#0.0#0.0
+a person paint with their left then right hand#a/DET person/NOUN paint/NOUN with/ADP their/DET left/NOUN then/ADV right/INTJ hand/NOUN#0.0#0.0

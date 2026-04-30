@@ -1,0 +1,3 @@
+a person grabbed something with both hands#a/DET person/NOUN grab/VERB something/PRON with/ADP both/DET hand/NOUN#0.0#0.0
+person puts hands up holds them left then puts them down.#person/NOUN put/VERB hand/NOUN up/ADP hold/VERB them/PRON left/VERB then/ADV put/VERB them/PRON down/ADP#0.0#0.0
+the man raises his hands to move something.#the/DET man/NOUN raise/VERB his/DET hand/NOUN to/PART move/VERB something/PRON#0.0#0.0

@@ -1,0 +1,3 @@
+a person gathering force to throw something.#a/DET person/NOUN gather/VERB force/NOUN to/PART throw/VERB something/PRON#0.0#0.0
+a person makes a snowball and throws it.#a/DET person/NOUN make/VERB a/DET snowball/ADJ and/CCONJ throw/VERB it/PRON#0.0#0.0
+a person slowly gets ready to throw an object, and then throws it over hand#a/DET person/NOUN slowly/ADV get/VERB ready/ADJ to/PART throw/VERB an/DET object/NOUN and/CCONJ then/ADV throw/VERB it/PRON over/ADP hand/NOUN#0.0#0.0

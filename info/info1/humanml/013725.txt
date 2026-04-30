@@ -1,0 +1,3 @@
+a man walking forward, spinning around on one foot, then walking back.#a/DET man/NOUN walk/VERB forward/ADV spin/VERB around/ADP on/ADP one/NUM foot/NOUN then/ADV walk/VERB back/ADV#0.0#0.0
+walking forward and then back.#walk/VERB forward/ADV and/CCONJ then/ADV back/ADV#0.0#0.0
+a person walks forward, and then spins on their foot to head back where they came from.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ then/ADV spin/VERB on/ADP their/DET foot/NOUN to/PART head/VERB back/ADV where/ADV they/PRON come/VERB from/ADP#0.0#0.0

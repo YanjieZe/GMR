@@ -1,0 +1,3 @@
+a person stands hips slouched, then turns on an angle, counterclockwise, then turns again counterclockwise.#a/DET person/NOUN stand/VERB hip/NOUN slouch/VERB then/ADV turn/VERB on/ADP an/DET angle/NOUN counterclockwise/NOUN then/ADV turn/VERB again/ADV counterclockwise/ADJ#0.0#0.0
+a person stands contrapoint, and shifts to face away after a few seconds.#a/DET person/NOUN stand/VERB contrapoint/NOUN and/CCONJ shift/NOUN to/PART face/VERB away/ADV after/ADP a/DET few/ADJ second/NOUN#0.0#0.0
+a person stands and turns with one hip out.#a/DET person/NOUN stand/VERB and/CCONJ turn/VERB with/ADP one/NUM hip/NOUN out/ADP#0.0#0.0

@@ -1,0 +1,3 @@
+a person jumps in the air with both arms at their side. ther person raises their right foot after the jump#a/DET person/NOUN jump/VERB in/ADP the/DET air/NOUN with/ADP both/DET arm/NOUN at/ADP their/DET side/NOUN ther/PROPN person/NOUN raise/VERB their/DET right/ADJ foot/NOUN after/ADP the/DET jump/NOUN#0.0#0.0
+a man jumps with both hands at his sides.#a/DET man/NOUN jump/VERB with/ADP both/DET hand/NOUN at/ADP his/DET side/NOUN#0.0#0.0
+a man makes a jump#a/DET man/NOUN make/VERB a/DET jump/NOUN#0.0#0.0

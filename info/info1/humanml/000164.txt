@@ -1,0 +1,3 @@
+person is walking like in a cat-walk back and forth#person/NOUN is/AUX walk/VERB like/SCONJ in/ADP a/DET catwalk/NOUN back/ADV and/CCONJ forth/ADV#0.0#0.0
+a man walks, turns around and walks back then turns around again and returns to his original location.#a/DET man/NOUN walk/VERB turn/VERB around/ADV and/CCONJ walk/VERB back/ADV then/ADV turn/VERB around/ADP again/ADV and/CCONJ return/NOUN to/ADP his/DET original/ADJ location/NOUN#0.0#0.0
+a person walks to the end of the runway, turns around and walks back.#a/DET person/NOUN walk/VERB to/ADP the/DET end/NOUN of/ADP the/DET runway/NOUN turn/VERB around/ADV and/CCONJ walk/VERB back/ADV#0.0#0.0

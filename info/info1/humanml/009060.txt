@@ -1,0 +1,3 @@
+a person sits on an object, then stands up to sit on the ground cross legged before standing up again#a/DET person/NOUN sit/VERB on/ADP an/DET object/NOUN then/ADV stand/VERB up/ADP to/PART sit/VERB on/ADP the/DET ground/NOUN cross/NOUN legge/VERB before/ADP stand/VERB up/ADP again/ADV#0.0#0.0
+a person sits on the floor and stands up.#a/DET person/NOUN sit/VERB on/ADP the/DET floor/NOUN and/CCONJ stand/VERB up/ADP#0.0#0.0
+a person sits down, gets up and then sits cross legged on the ground and then stands.#a/DET person/NOUN sit/VERB down/ADV get/VERB up/ADV and/CCONJ then/ADV sit/VERB cross/PROPN legged/ADJ on/ADP the/DET ground/NOUN and/CCONJ then/ADV stand/VERB#0.0#0.0

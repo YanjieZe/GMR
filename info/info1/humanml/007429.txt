@@ -1,0 +1,3 @@
+a person is casting a fishing line.#a/DET person/NOUN is/AUX cast/VERB a/DET fishing/NOUN line/NOUN#0.0#0.0
+a person standing throws something.#a/DET person/NOUN stand/VERB throw/NOUN something/PRON#0.0#0.0
+person lifts right arm up throws something then brings both hands together#person/NOUN lift/VERB right/ADJ arm/NOUN up/ADP throw/NOUN something/PRON then/ADV bring/VERB both/DET hand/NOUN together/ADV#0.0#0.0

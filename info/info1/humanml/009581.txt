@@ -1,0 +1,3 @@
+a person waves with little enthusiasm.#a/DET person/NOUN wave/VERB with/ADP little/ADJ enthusiasm/NOUN#0.0#0.0
+waving hand while standing.#wave/VERB hand/NOUN while/SCONJ stand/VERB#0.0#0.0
+a person raises their hand and waves#a/DET person/NOUN raise/VERB their/DET hand/NOUN and/CCONJ wave/NOUN#0.0#0.0

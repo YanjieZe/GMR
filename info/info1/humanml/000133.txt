@@ -1,0 +1,3 @@
+individual appears to run and jump.#individual/PROPN appear/VERB to/PART run/VERB and/CCONJ jump/VERB#1.0#3.0
+a person runs and then jumps and stops, then continues to run forward.#a/DET person/NOUN run/VERB and/CCONJ then/ADV jump/VERB and/CCONJ stop/VERB then/ADV continue/VERB to/PART run/VERB forward/ADV#0.0#0.0
+a person runs forward, jumps, then continues running#a/DET person/NOUN run/VERB forward/ADV jumps/PROPN then/ADV continue/VERB run/VERB#0.0#0.0

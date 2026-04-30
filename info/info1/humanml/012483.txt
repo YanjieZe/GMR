@@ -1,0 +1,3 @@
+a person shuffles side to side, arms up, moving quickly, as if playing a game.#a/DET person/NOUN shuffle/VERB side/NOUN to/PART side/VERB arm/NOUN up/ADV move/VERB quickly/ADV as/SCONJ if/SCONJ play/VERB a/DET game/NOUN#0.0#0.0
+a person sidesteps very quickly to his right, then left, then right and left again.#a/DET person/NOUN sidestep/VERB very/ADV quickly/ADV to/ADP his/DET right/NOUN then/ADV left/VERB then/ADV right/INTJ and/CCONJ left/VERB again/ADV#0.0#0.0
+person moves from side to side with knees bent and arms on guard#person/NOUN move/VERB from/ADP side/NOUN to/ADP side/VERB with/ADP knee/NOUN bent/ADJ and/CCONJ arm/NOUN on/ADP guard/NOUN#0.0#0.0

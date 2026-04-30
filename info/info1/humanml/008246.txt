@@ -1,0 +1,3 @@
+the toon is walking slowly with their hands raised to the end of the plane.#the/DET toon/NOUN is/AUX walk/VERB slowly/ADV with/ADP their/DET hand/NOUN raise/VERB to/ADP the/DET end/NOUN of/ADP the/DET plane/NOUN#0.0#6.0
+a person walks while hilding their hands out to their side.#a/DET person/NOUN walk/VERB while/SCONJ hilde/VERB their/DET hand/NOUN out/ADP to/ADP their/DET side/NOUN#0.0#0.0
+person is balancing on a balance beam walking forward.#person/NOUN is/AUX balance/VERB on/ADP a/DET balance/NOUN beam/NOUN walk/VERB forward/ADV#0.0#0.0

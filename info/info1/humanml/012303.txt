@@ -1,0 +1,3 @@
+waving hand to someone known for 3 seconds#wave/VERB hand/NOUN to/ADP someone/PRON know/VERB for/ADP second/NOUN#2.0#5.0
+the person hesitates before waving with their right hand.#the/DET person/NOUN hesitate/VERB before/ADP wave/VERB with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+a person stands in place while waving hello or goodbye.#a/DET person/NOUN stand/VERB in/ADP place/NOUN while/SCONJ wave/VERB hello/INTJ or/CCONJ goodbye/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks around and bends over.#a/DET person/NOUN walk/VERB around/ADV and/CCONJ bend/VERB over/ADP#0.0#0.0
+the man is doing a back up toss#the/DET man/NOUN is/AUX do/VERB a/DET back/NOUN up/ADV toss/NOUN#0.0#0.0
+a person walks back, picks something up, and throws it while spinning.#a/DET person/NOUN walk/VERB back/ADV pick/VERB something/PRON up/ADP and/CCONJ throw/VERB it/PRON while/SCONJ spin/VERB#0.0#0.0

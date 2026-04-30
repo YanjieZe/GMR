@@ -1,0 +1,3 @@
+as a person walks, he twists his ankle, walks some more and twists the other foot.#as/SCONJ a/DET person/NOUN walk/VERB he/PRON twist/VERB his/DET ankle/NOUN walk/VERB some/DET more/ADV and/CCONJ twist/VERB the/DET other/ADJ foot/NOUN#0.0#0.0
+a person is walking with difficulty, then turns and continues walking#a/DET person/NOUN is/AUX walk/VERB with/ADP difficulty/NOUN then/ADV turn/VERB and/CCONJ continue/VERB walk/VERB#0.0#0.0
+a man is walking forward, stumbles, turns around a bit then continues to walk#a/DET man/NOUN is/AUX walk/VERB forward/ADV stumble/NOUN turn/VERB around/ADV a/DET bit/NOUN then/ADV continue/VERB to/PART walk/VERB#0.0#0.0

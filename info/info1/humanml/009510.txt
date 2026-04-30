@@ -1,0 +1,3 @@
+the person is walking on uneven terrain.#the/DET person/NOUN is/AUX walk/VERB on/ADP uneven/ADJ terrain/NOUN#0.0#0.0
+a person walked in right direction and backwards and after jumped#a/DET person/NOUN walk/VERB in/ADP right/ADJ direction/NOUN and/CCONJ backward/NOUN and/CCONJ after/ADP jump/VERB#0.0#0.0
+a person is walking around.#a/DET person/NOUN is/AUX walk/VERB around/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+someone jump high up then in 360#someone/PRON jump/NOUN high/ADV up/ADV then/ADV in/ADP#0.0#0.0
+the man does a jumping twist#the/DET man/NOUN does/AUX a/DET jumping/NOUN twist/NOUN#0.0#0.0
+a person does a small jump, then does another jump while turning around#a/DET person/NOUN does/AUX a/DET small/ADJ jump/NOUN then/ADV does/AUX another/DET jump/NOUN while/SCONJ turn/VERB around/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+the person walks in a straight line and places their right hand to support their weight against something.#the/DET person/NOUN walk/VERB in/ADP a/DET straight/ADJ line/NOUN and/CCONJ place/VERB their/DET right/ADJ hand/NOUN to/PART support/VERB their/DET weight/NOUN against/ADP something/PRON#0.0#0.0
+a person is walking and moving left arm.#a/DET person/NOUN is/AUX walk/VERB and/CCONJ move/VERB left/ADJ arm/NOUN#0.0#0.0
+a person walks forward while touching something with his right hand.#a/DET person/NOUN walk/VERB forward/ADV while/SCONJ touch/VERB something/PRON with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0

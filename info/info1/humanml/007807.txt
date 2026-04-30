@@ -1,0 +1,3 @@
+a person walks on a treadmill slowly.#a/DET person/NOUN walk/VERB on/ADP a/DET treadmill/NOUN slowly/ADV#0.0#0.0
+a person is walking, placing one foot in front of the other, on a belt that circulates, enabling the person to effectively slowly walk in place.#a/DET person/NOUN is/AUX walk/VERB place/VERB one/NUM foot/NOUN in/ADP front/NOUN of/ADP the/DET other/ADJ on/ADP a/DET belt/NOUN that/DET circulate/VERB enable/VERB the/DET person/NOUN to/PART effectively/ADV slowly/ADV walk/VERB in/ADP place/NOUN#0.0#0.0
+a person walks on a treadmill#a/DET person/NOUN walk/VERB on/ADP a/DET treadmill/NOUN#0.0#0.0

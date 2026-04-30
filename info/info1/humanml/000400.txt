@@ -1,0 +1,2 @@
+someone staggers forwards to the left and put their right arm on an object.#someone/PRON stagger/VERB forwards/ADV to/ADP the/DET left/NOUN and/CCONJ put/VERB their/DET right/ADJ arm/NOUN on/ADP an/DET object/NOUN#0.0#0.0
+person walks slowly like it pain and uses something to help keep balance#person/NOUN walk/VERB slowly/ADV like/SCONJ it/PRON pain/VERB and/CCONJ use/VERB something/PRON to/PART help/VERB keep/VERB balance/NOUN#0.0#0.0

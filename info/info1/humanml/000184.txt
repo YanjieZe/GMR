@@ -1,0 +1,3 @@
+a person is playing tennis#a/DET person/NOUN is/AUX play/VERB tennis/NOUN#0.0#0.0
+a figure swings its arms while holding something with both hands, then takes steps backward.#a/DET figure/NOUN swing/VERB its/DET arm/NOUN while/SCONJ hold/VERB something/PRON with/ADP both/DET hand/NOUN then/ADV take/VERB step/NOUN backward/ADJ#0.0#0.0
+a person hits a tennis ball with a double handed backhand twice.#a/DET person/NOUN hit/VERB a/DET tennis/NOUN ball/NOUN with/ADP a/DET double/ADJ handed/ADJ backhand/ADP twice/ADV#0.0#0.0

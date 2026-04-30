@@ -1,0 +1,3 @@
+raising hands above head and stretching.#raise/VERB hand/NOUN above/ADP head/NOUN and/CCONJ stretching/NOUN#0.0#0.0
+a person stretches with both arms, by raising their arms above their head.#a/DET person/NOUN stretch/VERB with/ADP both/DET arm/NOUN by/ADP raise/VERB their/DET arm/NOUN above/ADP their/DET head/NOUN#0.0#0.0
+a person locks their hands, stretches up to their left, then up to their right, before bringing their arms back down to their sides.#a/DET person/NOUN lock/VERB their/DET hand/NOUN stretch/VERB up/ADP to/ADP their/DET left/NOUN then/ADV up/ADP to/ADP their/DET right/NOUN before/ADP bring/VERB their/DET arm/NOUN back/ADV down/ADV to/ADP their/DET side/NOUN#0.0#0.0

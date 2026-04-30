@@ -1,0 +1,3 @@
+person looks like they are making arm and leg circles as if they are doing breast stroke.#person/NOUN look/VERB like/SCONJ they/PRON are/AUX make/VERB arm/NOUN and/CCONJ leg/NOUN circle/NOUN as/SCONJ if/SCONJ they/PRON are/AUX do/VERB breast/NOUN stroke/NOUN#0.0#0.0
+a man gets on his stomach and imitates a swimming motion/#a/DET man/NOUN get/VERB on/ADP his/DET stomach/NOUN and/CCONJ imitate/VERB a/DET swimming/NOUN#0.0#0.0
+the person lays on the ground and does a swimming motion with their arms and legs.#the/DET person/NOUN lay/VERB on/ADP the/DET ground/NOUN and/CCONJ does/AUX a/DET swimming/NOUN motion/NOUN with/ADP their/DET arm/NOUN and/CCONJ leg/NOUN#0.0#0.0

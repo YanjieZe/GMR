@@ -1,0 +1,3 @@
+a person gets down on their knees#a/DET person/NOUN get/VERB down/ADV on/ADP their/DET knee/NOUN#0.0#0.0
+a person kneeling down with the support of his right hand#a/DET person/NOUN kneel/VERB down/ADP with/ADP the/DET support/NOUN of/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+a man standing then kneels down to the ground.#a/DET man/NOUN stand/VERB then/ADV kneel/VERB down/ADP to/ADP the/DET ground/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+the person is wobbling in place.#the/DET person/NOUN is/AUX wobble/VERB in/ADP place/NOUN#0.0#0.0
+the figure rotates its upper body clockwise the rotates its hips clockwise#the/DET figure/NOUN rotate/VERB its/DET upper/ADJ body/NOUN clockwise/VERB the/DET rotate/NOUN its/DET hip/NOUN clockwise/VERB#0.0#0.0
+a person rotates the top of their body in a circle, then rotates their hips in a circle#a/DET person/NOUN rotate/VERB the/DET top/NOUN of/ADP their/DET body/NOUN in/ADP a/DET circle/NOUN then/ADV rotate/VERB their/DET hip/NOUN in/ADP a/DET circle/NOUN#0.0#0.0

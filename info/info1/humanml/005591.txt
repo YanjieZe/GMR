@@ -1,0 +1,3 @@
+a person sways and puts right hand out to waist height then puts arm back down.#a/DET person/NOUN sway/VERB and/CCONJ put/VERB right/ADJ hand/NOUN out/ADP to/ADP waist/NOUN height/NOUN then/ADV put/VERB arm/NOUN back/ADV down/ADV#0.0#0.0
+this person reaches forward as if to open something.#this/DET person/NOUN reach/VERB forward/ADV as/SCONJ if/SCONJ to/PART open/VERB something/PRON#0.0#0.0
+a person extends his right arm out and back in#a/DET person/NOUN extend/VERB his/DET right/ADJ arm/NOUN out/ADP and/CCONJ back/ADV in/ADV#0.0#0.0

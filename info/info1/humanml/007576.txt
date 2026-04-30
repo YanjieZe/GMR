@@ -1,0 +1,3 @@
+a person holds something in front of them.#a/DET person/NOUN hold/VERB something/PRON in/ADP front/NOUN of/ADP them/PRON#0.0#0.0
+a person is holding something#a/DET person/NOUN is/AUX hold/VERB something/PRON#0.0#10.0
+person has right hand raised and sways slightly back and forth.#person/NOUN has/AUX right/ADJ hand/NOUN raise/VERB and/CCONJ sway/VERB slightly/ADV back/ADV and/CCONJ forth/ADV#0.0#0.0

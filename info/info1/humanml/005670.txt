@@ -1,0 +1,3 @@
+a person walks to his left in a quarter circle.#a/DET person/NOUN walk/VERB to/ADP his/DET left/NOUN in/ADP a/DET quarter/NOUN circle/NOUN#0.0#0.0
+a man steps forward, turning to his left as he walks, and stopping in a standing position.#a/DET man/NOUN step/VERB forward/ADV turn/VERB to/ADP his/DET left/NOUN as/SCONJ he/PRON walk/VERB and/CCONJ stop/VERB in/ADP a/DET standing/ADJ position/NOUN#0.0#0.0
+a person takes five steps curving forward and to their left.#a/DET person/NOUN take/VERB five/NUM step/NOUN curve/VERB forward/ADV and/CCONJ to/ADP their/DET left/NOUN#0.0#0.0

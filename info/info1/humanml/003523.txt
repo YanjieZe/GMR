@@ -1,0 +1,3 @@
+the figure is pushing an imaginary object with two arms#the/DET figure/NOUN is/AUX push/VERB an/DET imaginary/ADJ object/NOUN with/ADP two/NUM arm/NOUN#0.0#0.0
+a person turns to his left, grabs a broom and begins pushing the broom.#a/DET person/NOUN turn/VERB to/ADP his/DET left/NOUN grab/VERB a/DET broom/NOUN and/CCONJ begin/VERB push/VERB the/DET broom/NOUN#0.0#0.0
+the right hand extends across the body to the left side, where the left hand joins the right hand in a sweeping motion.#the/DET right/ADJ hand/NOUN extend/VERB across/ADP the/DET body/NOUN to/ADP the/DET left/ADJ side/NOUN where/ADV the/DET left/ADJ hand/NOUN join/VERB the/DET right/ADJ hand/NOUN in/ADP a/DET sweeping/ADJ motion/NOUN#0.0#0.0

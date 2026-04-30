@@ -1,0 +1,3 @@
+the person hugs themselves, fumbles their hands together and does a shaking motion, and then hugs themselves again.#the/DET person/NOUN hug/VERB themselves/PRON fumble/VERB their/DET hand/NOUN together/ADV and/CCONJ does/AUX a/DET shaking/NOUN motion/NOUN and/CCONJ then/ADV hug/VERB themselves/PRON again/ADV#0.0#0.0
+a man holds his arms close to his body.#a/DET man/NOUN hold/VERB his/DET arm/NOUN close/ADV to/ADP his/DET body/NOUN#0.0#0.0
+a person crosses their arms in fear.#a/DET person/NOUN cross/VERB their/DET arm/NOUN in/ADP fear/NOUN#0.0#0.0

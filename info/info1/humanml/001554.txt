@@ -1,0 +1,3 @@
+a person is walking forward along a set straight line.#a/DET person/NOUN is/AUX walk/VERB forward/ADV along/ADP a/DET set/VERB straight/ADJ line/NOUN#0.0#0.0
+the man walks forward and wobbles from side to side as if walking a plank.#the/DET man/NOUN walk/VERB forward/ADV and/CCONJ wobble/NOUN from/ADP side/NOUN to/PART side/VERB as/SCONJ if/SCONJ walk/VERB a/DET plank/NOUN#0.0#0.0
+a person is walking on a balance beam with arms at their sides.#a/DET person/NOUN is/AUX walk/VERB on/ADP a/DET balance/NOUN beam/NOUN with/ADP arm/NOUN at/ADP their/DET side/NOUN#0.0#0.0

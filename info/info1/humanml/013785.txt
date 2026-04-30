@@ -1,0 +1,3 @@
+a person picks up something heavy and sets it to the right, then picks up another.#a/DET person/NOUN pick/VERB up/ADP something/PRON heavy/ADJ and/CCONJ set/VERB it/PRON to/ADP the/DET right/NOUN then/ADV pick/VERB up/ADP another/DET#0.0#0.0
+a person bends down to pick up two things, one at a time, using both hands#a/DET person/NOUN bend/VERB down/ADP to/PART pick/VERB up/ADP two/NUM thing/NOUN one/NUM at/ADP a/DET time/NOUN use/VERB both/DET hand/NOUN#0.0#0.0
+person bends down to the ground to grab an object with both hands and then set the object on a table#person/NOUN bend/VERB down/ADP to/ADP the/DET ground/NOUN to/PART grab/VERB an/DET object/NOUN with/ADP both/DET hand/NOUN and/CCONJ then/ADV set/VERB the/DET object/NOUN on/ADP a/DET table/NOUN#0.0#0.0

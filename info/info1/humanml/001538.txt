@@ -1,0 +1,3 @@
+a person walks up and tosses something.#a/DET person/NOUN walk/VERB up/ADV and/CCONJ toss/VERB something/PRON#0.0#0.0
+a person walks forwards and swings their right arm backwards twice.#a/DET person/NOUN walk/VERB forwards/ADV and/CCONJ swing/VERB their/DET right/ADJ arm/NOUN backwards/ADV twice/ADV#0.0#0.0
+a person walks up, grabs an item, turns, and places it down.#a/DET person/NOUN walk/VERB up/ADP grab/VERB an/DET item/NOUN turn/VERB and/CCONJ place/VERB it/PRON down/ADP#0.0#0.0

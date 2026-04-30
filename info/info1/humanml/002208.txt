@@ -1,0 +1,3 @@
+the person is doing upper body twist.#the/DET person/NOUN is/AUX do/VERB upper/ADJ body/NOUN twist/NOUN#0.0#0.0
+a person lifts their arms above their head with elbows bent, then rotates their torso to either side to stretch.#a/DET person/NOUN lift/VERB their/DET arm/NOUN above/ADP their/DET head/NOUN with/ADP elbow/NOUN bent/ADJ then/ADV rotate/VERB their/DET torso/NOUN to/ADP either/DET side/NOUN to/PART stretch/VERB#0.0#0.0
+person stands in one spot and does upper body stretching excercises#person/NOUN stand/VERB in/ADP one/NUM spot/NOUN and/CCONJ does/AUX upper/ADJ body/NOUN stretch/VERB excercise/NOUN#0.0#10.0

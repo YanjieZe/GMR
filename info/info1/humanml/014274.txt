@@ -1,0 +1,3 @@
+the person jumped back and forth round and round.#the/DET person/NOUN jump/VERB back/ADV and/CCONJ forth/ADV round/ADJ and/CCONJ round/ADV#0.0#0.0
+a person walked backwards, and grabbed something and start jump#a/DET person/NOUN walk/VERB backwards/ADV and/CCONJ grab/VERB something/PRON and/CCONJ start/VERB jump/PROPN#0.0#0.0
+the man jumps rope around.#the/DET man/NOUN jump/VERB rope/VERB around/ADV#0.0#0.0

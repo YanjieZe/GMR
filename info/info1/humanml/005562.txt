@@ -1,0 +1,3 @@
+a person steps forward, staggers suddenly to his left, then slowly walks back to his original course.#a/DET person/NOUN step/VERB forward/ADV stagger/NOUN suddenly/ADV to/ADP his/DET left/NOUN then/ADV slowly/ADV walk/VERB back/ADV to/ADP his/DET original/ADJ course/NOUN#0.0#0.0
+the person is walking like he is drunk#the/DET person/NOUN is/AUX walk/VERB like/SCONJ he/PRON is/AUX drunk/ADJ#0.0#0.0
+a man is walking forward but then gets pushed to the left, then continues walking#a/DET man/NOUN is/AUX walk/VERB forward/ADV but/CCONJ then/ADV get/VERB push/VERB to/ADP the/DET left/NOUN then/ADV continue/VERB walk/VERB#0.0#0.0

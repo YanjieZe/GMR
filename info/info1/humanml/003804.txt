@@ -1,0 +1,3 @@
+a man bends at the knees and takes a short jump forward.#a/DET man/NOUN bend/VERB at/ADP the/DET knee/NOUN and/CCONJ take/VERB a/DET short/ADJ jump/NOUN forward/ADV#0.0#0.0
+person crouches slightly and takes a leap forward with both feet.#person/NOUN crouch/VERB slightly/ADV and/CCONJ take/VERB a/DET leap/NOUN forward/ADV with/ADP both/DET foot/NOUN#0.0#0.0
+a person swings their arms backwards and then jumps forward with both feet.#a/DET person/NOUN swing/VERB their/DET arm/NOUN backwards/ADV and/CCONJ then/ADV jump/VERB forward/ADV with/ADP both/DET foot/NOUN#0.0#0.0

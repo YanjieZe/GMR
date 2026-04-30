@@ -1,0 +1,3 @@
+a person picks up an object with both hands and carefully places it on a pedestal then returns to get another piece.#a/DET person/NOUN pick/VERB up/ADP an/DET object/NOUN with/ADP both/DET hand/NOUN and/CCONJ carefully/ADV place/VERB it/PRON on/ADP a/DET pedestal/NOUN then/ADV return/VERB to/PART get/AUX another/DET piece/NOUN#0.0#0.0
+person opens drawer, takes something out, and then puts it back in#person/NOUN open/VERB drawer/NOUN take/VERB something/PRON out/ADP and/CCONJ then/ADV put/VERB it/PRON back/ADV in/ADP#0.0#0.0
+a person picks something up and then puts it back down#a/DET person/NOUN pick/VERB something/PRON up/ADP and/CCONJ then/ADV put/VERB it/PRON back/ADV down/ADP#0.0#0.0

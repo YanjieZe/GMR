@@ -1,0 +1,3 @@
+person uses hand to do a wiping motion, then moves backwards. appears like he's cleaning something#person/NOUN use/VERB hand/NOUN to/PART do/AUX a/DET wiping/ADJ motion/NOUN then/ADV move/VERB backwards/ADV appear/VERB like/SCONJ he/PRON clean/VERB something/PRON#0.0#10.0
+a person leans down and presses against something with their right hand before standing up and raising their arms#a/DET person/NOUN lean/VERB down/ADP and/CCONJ press/NOUN against/ADP something/PRON with/ADP their/DET right/ADJ hand/NOUN before/ADP stand/VERB up/ADP and/CCONJ raise/VERB their/DET arm/NOUN#0.0#0.0
+the person is moving something.#the/DET person/NOUN is/AUX move/VERB something/PRON#0.0#0.0

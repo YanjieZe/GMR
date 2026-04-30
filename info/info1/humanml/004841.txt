@@ -1,0 +1,3 @@
+a person struggling to push arms forward and upwards, arms shaking.#a/DET person/NOUN struggle/VERB to/PART push/VERB arm/NOUN forward/ADV and/CCONJ upwards/ADJ arm/NOUN shake/VERB#0.0#0.0
+a person with arms raised and elbows bent begins slowly making a punching motion with right hand and then again with their left hand.#a/DET person/NOUN with/ADP arm/NOUN raise/VERB and/CCONJ elbow/VERB bent/NOUN begin/VERB slowly/ADV make/VERB a/DET punching/NOUN motion/NOUN with/ADP right/ADJ hand/NOUN and/CCONJ then/ADV again/ADV with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0
+robot is moving his both hands in upward direction.#robot/PROPN is/AUX move/VERB his/DET both/DET hand/NOUN in/ADP upward/ADJ direction/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+with his left foot behind him, a person bends his left leg at the knee and moves his body in that direction as if warming up for a sporting event.#with/ADP his/DET left/ADJ foot/NOUN behind/ADP him/PRON a/DET person/NOUN bend/VERB his/DET left/ADJ leg/NOUN at/ADP the/DET knee/NOUN and/CCONJ move/VERB his/DET body/NOUN in/ADP that/DET direction/NOUN as/SCONJ if/SCONJ warm/VERB up/ADP for/ADP a/DET sporting/NOUN event/NOUN#0.0#0.0
+a person is leaning to the left.#a/DET person/NOUN is/AUX lean/VERB to/ADP the/DET left/NOUN#0.0#0.0
+a person is standing in stance while shifting their left hand.#a/DET person/NOUN is/AUX stand/VERB in/ADP stance/NOUN while/SCONJ shift/VERB their/DET left/ADJ hand/NOUN#0.0#0.0

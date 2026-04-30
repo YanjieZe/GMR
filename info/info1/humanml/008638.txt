@@ -1,0 +1,3 @@
+person walks downwards before jumping once.#person/NOUN walk/VERB downwards/ADV before/ADP jump/VERB once/ADV#0.0#0.0
+a person walks downstairs, before making a little jump at the bottom.#a/DET person/NOUN walk/VERB downstairs/ADV before/ADP make/VERB a/DET little/ADJ jump/NOUN at/ADP the/DET bottom/NOUN#0.0#0.0
+the person is walking downstairs.#the/DET person/NOUN is/AUX walk/VERB downstairs/ADV#0.0#0.0

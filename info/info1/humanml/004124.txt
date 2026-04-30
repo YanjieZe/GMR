@@ -1,0 +1,3 @@
+man walks forward moving hands and neck.#man/NOUN walk/VERB forward/ADV move/VERB hand/NOUN and/CCONJ neck/NOUN#1.0#8.0
+a man walks 4 paces forward, then wipes his feet on the ground.#a/DET man/NOUN walk/VERB pace/NOUN forward/ADV then/ADV wipe/VERB his/DET foot/NOUN on/ADP the/DET ground/NOUN#0.0#0.0
+a person walks forward and climbs up two steps with both hands by their sides.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ climb/VERB up/ADV two/NUM step/NOUN with/ADP both/DET hand/NOUN by/ADP their/DET side/NOUN#0.0#0.0

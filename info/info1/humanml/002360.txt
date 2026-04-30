@@ -1,0 +1,3 @@
+a person appears to be dancing.#a/DET person/NOUN appear/VERB to/PART be/AUX dance/VERB#0.0#0.0
+moving the hips and shoulders side to side making it a little dance.#move/VERB the/DET hip/NOUN and/CCONJ shoulder/NOUN side/VERB to/PART side/VERB make/VERB it/PRON a/DET little/ADJ dance/NOUN#0.0#0.0
+a person is swaying from side to side on the spot, while elevating their arms and swinging them at the same time.#a/DET person/NOUN is/AUX sway/VERB from/ADP side/NOUN to/PART side/VERB on/ADP the/DET spot/NOUN while/SCONJ elevate/VERB their/DET arm/NOUN and/CCONJ swinge/VERB them/PRON at/ADP the/DET same/ADJ time/NOUN#0.0#0.0

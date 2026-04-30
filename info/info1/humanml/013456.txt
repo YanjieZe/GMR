@@ -1,0 +1,3 @@
+a person moves backwards and sits in a chair.#a/DET person/NOUN move/VERB backwards/ADV and/CCONJ sit/VERB in/ADP a/DET chair/NOUN#0.0#0.0
+a person backs up diagonally and sits down and then stands back up to his original position.#a/DET person/NOUN back/VERB up/ADP diagonally/ADV and/CCONJ sit/VERB down/ADV and/CCONJ then/ADV stand/VERB back/ADV up/ADP to/ADP his/DET original/ADJ position/NOUN#0.0#0.0
+a person sits with some arm rests higher than its motion's center.#a/DET person/NOUN sit/VERB with/ADP some/DET arm/NOUN rest/VERB higher/ADJ than/SCONJ its/DET motion/NOUN center/NOUN#0.0#0.0

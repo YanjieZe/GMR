@@ -1,0 +1,3 @@
+the person is walking forward and turns right.#the/DET person/NOUN is/AUX walk/VERB forward/ADV and/CCONJ turn/VERB right/ADJ#0.0#0.0
+this person is taking two steps forward without moving their arms the. spins on one foot to turn backwards then takes 2 stels forward.#this/DET person/NOUN is/AUX take/VERB two/NUM step/NOUN forward/ADV without/ADP move/VERB their/DET arm/NOUN the/DET spin/VERB on/ADP one/NUM foot/NOUN to/PART turn/VERB backwards/ADV then/ADV take/VERB stel/NOUN forward/ADV#0.0#0.0
+person walks forward, turns right, walks back#person/NOUN walk/VERB forward/ADV turn/VERB right/ADJ walk/VERB back/ADV#0.0#0.0

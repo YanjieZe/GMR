@@ -1,0 +1,3 @@
+a man faces the camera and stands in place while raising his right arm, then waves his right hand before returning to a standing position.#a/DET man/NOUN face/VERB the/DET camera/NOUN and/CCONJ stand/VERB in/ADP place/NOUN while/SCONJ raise/VERB his/DET right/ADJ arm/NOUN then/ADV wave/VERB his/DET right/ADJ hand/NOUN before/ADP return/VERB to/ADP a/DET standing/ADJ position/NOUN#0.0#0.0
+a person is standing up and waves.#a/DET person/NOUN is/AUX stand/VERB up/ADP and/CCONJ wave/NOUN#0.0#0.0
+person waves right hand at camera#person/NOUN wave/VERB right/ADJ hand/NOUN at/ADP camera/NOUN#0.0#0.0

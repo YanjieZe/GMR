@@ -1,0 +1,2 @@
+a man stands on the ground and the walks clockwise making a semi sircle and then stops.#a/DET man/NOUN stand/VERB on/ADP the/DET ground/NOUN and/CCONJ the/DET walk/NOUN clockwise/VERB make/VERB a/DET semi/ADJ sircle/NOUN and/CCONJ then/ADV stop/VERB#0.0#0.0
+a person walking to the right making a quarter of a circle.#a/DET person/NOUN walk/VERB to/ADP the/DET right/NOUN make/VERB a/DET quarter/NOUN of/ADP a/DET circle/NOUN#0.0#0.0

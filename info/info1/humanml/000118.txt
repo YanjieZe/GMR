@@ -1,0 +1,3 @@
+person walks forwards slowly and normally without swinging arms#person/NOUN walk/VERB forwards/ADV slowly/ADV and/CCONJ normally/ADV without/ADP swinge/VERB arm/NOUN#0.0#0.0
+someone gingerly steps over several gaps in the floor.#someone/PRON gingerly/ADV step/VERB over/ADP several/ADJ gap/NOUN in/ADP the/DET floor/NOUN#0.0#0.0
+the figure walks slowly and takes a few rather lumbering steps foward, their arms sway gently beside their sides and give off an altogether rather unaffected air.#the/DET figure/NOUN walk/VERB slowly/ADV and/CCONJ take/VERB a/DET few/ADJ rather/ADV lumber/VERB step/NOUN foward/ADJ their/DET arm/NOUN sway/VERB gently/ADV beside/ADP their/DET side/NOUN and/CCONJ give/VERB off/ADP an/DET altogether/ADV rather/ADV unaffected/ADJ air/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a man is side stepping to the left.#a/DET man/NOUN is/AUX side/NOUN step/VERB to/ADP the/DET left/NOUN#0.0#0.0
+a person side steps diagonally to their left across the space#a/DET person/NOUN side/NOUN step/VERB diagonally/ADV to/ADP their/DET left/VERB across/ADP the/DET space/NOUN#0.0#0.0
+a person is walking sideways by moving their feet side by side horizontally.#a/DET person/NOUN is/AUX walk/VERB sideways/ADV by/ADP move/VERB their/DET foot/NOUN side/ADJ by/ADP side/NOUN horizontally/ADV#0.0#0.0

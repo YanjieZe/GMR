@@ -1,0 +1,3 @@
+person is drinking something from big container#person/NOUN is/AUX drink/VERB something/PRON from/ADP big/ADJ container/NOUN#0.0#0.0
+a person holds both hands near their face while tilting their head backward slightly.#a/DET person/NOUN hold/VERB both/DET hand/NOUN near/SCONJ their/DET face/NOUN while/SCONJ tilt/VERB their/DET head/NOUN backward/ADV slightly/ADV#0.0#0.0
+a person holds a large container up to their face as if taking a drink#a/DET person/NOUN hold/VERB a/DET large/ADJ container/NOUN up/ADP to/ADP their/DET face/NOUN as/SCONJ if/SCONJ take/VERB a/DET drink/NOUN#0.0#0.0

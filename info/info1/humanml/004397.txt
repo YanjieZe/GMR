@@ -1,0 +1,3 @@
+the person walks to their left#the/DET person/NOUN walk/VERB to/ADP their/DET left/NOUN#0.0#0.0
+with purpose, she strides around something and up to the counter.#with/ADP purpose/NOUN she/PRON stride/VERB around/ADP something/PRON and/CCONJ up/ADP to/ADP the/DET counter/NOUN#0.0#0.0
+a person walks forwards and to the left.#a/DET person/NOUN walk/VERB forwards/ADV and/CCONJ to/ADP the/DET left/NOUN#0.0#0.0

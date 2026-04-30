@@ -1,0 +1,3 @@
+a person is standing and jumps backward.#a/DET person/NOUN is/AUX stand/VERB and/CCONJ jump/VERB backward/ADV#0.0#6.0
+the person took a step and jump backwards.#the/DET person/NOUN take/VERB a/DET step/NOUN and/CCONJ jump/NOUN backwards/ADV#0.0#0.0
+a person jumps backward.#a/DET person/NOUN jump/VERB backward/ADV#0.0#0.0

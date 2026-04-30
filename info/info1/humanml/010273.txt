@@ -1,0 +1,3 @@
+a person raises their hands above their shoulders while bouncing on their toes then stops bouncing and returns their arms to their sides.#a/DET person/NOUN raise/VERB their/DET hand/NOUN above/ADP their/DET shoulder/NOUN while/SCONJ bounce/VERB on/ADP their/DET toe/NOUN then/ADV stop/VERB bounce/VERB and/CCONJ return/VERB their/DET arm/NOUN to/ADP their/DET side/NOUN#0.0#0.0
+the person is bouncing on his feet with his arms in the air.#the/DET person/NOUN is/AUX bounce/VERB on/ADP his/DET foot/NOUN with/ADP his/DET arm/NOUN in/ADP the/DET air/NOUN#0.0#0.0
+a person raises both arms above their head and then bounces on their toes.#a/DET person/NOUN raise/VERB both/DET arm/NOUN above/ADP their/DET head/NOUN and/CCONJ then/ADV bounce/VERB on/ADP their/DET toe/NOUN#0.0#0.0

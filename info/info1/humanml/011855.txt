@@ -1,0 +1,3 @@
+a man with left arm over shoulder.#a/DET man/NOUN with/ADP left/ADJ arm/NOUN over/ADP shoulder/NOUN#0.0#0.0
+somebody is smelling their right armpit.#somebody/PRON is/AUX smell/VERB their/DET right/ADJ armpit/NOUN#0.0#0.0
+a man stretches his right arm over his head.#a/DET man/NOUN stretch/VERB his/DET right/ADJ arm/NOUN over/ADP his/DET head/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+he warms up with a body lean#he/PRON warm/VERB up/ADP with/ADP a/DET body/NOUN lean/ADJ#0.0#0.0
+a person stretches his right arm into the air.#a/DET person/NOUN stretch/VERB his/DET right/ADJ arm/NOUN into/ADP the/DET air/NOUN#0.0#0.0
+with the left hand on the hip, the right arm reaches over the body.#with/ADP the/DET left/ADJ hand/NOUN on/ADP the/DET hip/NOUN the/DET right/ADJ arm/NOUN reach/VERB over/ADP the/DET body/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person looks from side to side and then wipes quickly at their face.#a/DET person/NOUN look/VERB from/ADP side/NOUN to/ADP side/NOUN and/CCONJ then/ADV wipe/NOUN quickly/ADV at/ADP their/DET face/NOUN#0.0#0.0
+a person raised the hands and scratched the face#a/DET person/NOUN raise/VERB the/DET hand/NOUN and/CCONJ scratch/VERB the/DET face/NOUN#0.0#0.0
+a person stands with their elbows bent/ hands in front of the face, pivots body from left to right, then scratches head quickly with right hand.#a/DET person/NOUN stand/VERB with/ADP their/DET elbow/NOUN hand/NOUN in/ADP front/NOUN of/ADP the/DET face/NOUN pivot/NOUN body/NOUN from/ADP left/VERB to/ADP right/NOUN then/ADV scratch/VERB head/NOUN quickly/ADV with/ADP right/ADJ hand/NOUN#0.0#0.0

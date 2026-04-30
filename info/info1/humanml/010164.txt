@@ -1,0 +1,3 @@
+moving arms up and down near face.#move/VERB arm/NOUN up/ADV and/CCONJ down/ADV near/SCONJ face/NOUN#0.0#0.0
+the person is playing the drums with both hands.#the/DET person/NOUN is/AUX play/VERB the/DET drum/NOUN with/ADP both/DET hand/NOUN#0.0#0.0
+person jerks both hands up and down while turning to the left and then right slightly.#person/NOUN jerk/VERB both/DET hand/VERB up/ADV and/CCONJ down/ADP while/SCONJ turn/VERB to/ADP the/DET left/NOUN and/CCONJ then/ADV right/ADV slightly/ADV#0.0#0.0

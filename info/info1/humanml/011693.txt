@@ -1,0 +1,3 @@
+crouching then standing and walking forward.#crouch/VERB then/ADV stand/VERB and/CCONJ walk/VERB forward/ADV#0.0#0.0
+a person gets up from squatting position and then squats again.#a/DET person/NOUN get/VERB up/ADP from/ADP squat/VERB position/NOUN and/CCONJ then/ADV squat/VERB again/ADV#0.0#0.0
+a squatting person stands up, shuffles their feet, and then returns to the squatting position.#a/DET squat/VERB person/NOUN stand/VERB up/ADP shuffle/VERB their/DET foot/NOUN and/CCONJ then/ADV return/VERB to/ADP the/DET squat/VERB position/NOUN#0.0#0.0

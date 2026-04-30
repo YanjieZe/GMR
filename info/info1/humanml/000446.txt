@@ -1,0 +1,3 @@
+a person hoping on a platform#a/DET person/NOUN hope/VERB on/ADP a/DET platform/NOUN#0.0#0.0
+person swings arms back whilst bending slightly at the knee and then leaps forward with both feet at the same time.#person/NOUN swing/VERB arm/NOUN back/ADV whilst/SCONJ bend/VERB slightly/ADV at/ADP the/DET knee/NOUN and/CCONJ then/ADV leap/VERB forward/ADV with/ADP both/DET foot/NOUN at/ADP the/DET same/ADJ time/NOUN#0.0#0.0
+a person jumps forward with both feet.#a/DET person/NOUN jump/VERB forward/ADV with/ADP both/DET foot/NOUN#0.0#0.0

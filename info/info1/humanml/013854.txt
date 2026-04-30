@@ -1,0 +1,3 @@
+a person who is standing with his hands by his sides moves four steps backwards starting with his left foot and comes to a stop.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP his/DET hand/NOUN by/ADP his/DET side/NOUN move/VERB four/NUM step/NOUN backwards/ADV start/VERB with/ADP his/DET left/ADJ foot/NOUN and/CCONJ come/VERB to/ADP a/DET stop/NOUN#0.0#0.0
+the sim walks backwards down the plane.#the/DET sim/PROPN walk/VERB backwards/ADV down/ADP the/DET plane/NOUN#0.0#4.0
+a person walking backwards in a straight line#a/DET person/NOUN walk/VERB backwards/ADV in/ADP a/DET straight/ADJ line/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person sits down at a chair, then moves the chair around while they are still in it.#a/DET person/NOUN sit/VERB down/ADP at/ADP a/DET chair/NOUN then/ADV move/VERB the/DET chair/NOUN around/ADV while/SCONJ they/PRON are/AUX still/ADV in/ADP it/PRON#0.0#0.0
+the person sits down in multiple chairs then stands up#the/DET person/NOUN sit/VERB down/ADV in/ADP multiple/ADJ chair/NOUN then/ADV stand/VERB up/ADP#0.0#0.0
+person moves slightly clock wise then sits down on a chair and moves tip toed with chair to there right side#person/NOUN move/VERB slightly/ADV clock/NOUN wise/ADJ then/ADV sit/VERB down/ADP on/ADP a/DET chair/NOUN and/CCONJ move/NOUN tip/NOUN toe/VERB with/ADP chair/NOUN to/ADP there/ADV right/ADJ side/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+person squats down into the crouch position.#person/NOUN squat/VERB down/ADP into/ADP the/DET crouch/ADJ position/NOUN#0.0#0.0
+a person sits down quickly.#a/DET person/NOUN sit/VERB down/ADP quickly/ADV#0.0#0.0
+a person shakes as they begin to squat on both feet.#a/DET person/NOUN shake/VERB as/SCONJ they/PRON begin/VERB to/PART squat/VERB on/ADP both/DET foot/NOUN#0.0#0.0

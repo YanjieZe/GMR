@@ -1,0 +1,3 @@
+a man bends his right arm at the elbow in a struggling motion.#a/DET man/NOUN bend/VERB his/DET right/ADJ arm/NOUN at/ADP the/DET elbow/NOUN in/ADP a/DET struggle/VERB motion/NOUN#0.0#0.0
+the person is lifting weights weights  with his right arm.#the/DET person/NOUN is/AUX lift/VERB weight/NOUN weights/PROPN with/ADP his/DET right/ADJ arm/NOUN#0.0#0.0
+a person raises their red arm and puts it back down twice.#a/DET person/NOUN raise/VERB their/DET red/ADJ arm/NOUN and/CCONJ put/VERB it/PRON back/ADV down/ADP twice/ADV#0.0#0.0

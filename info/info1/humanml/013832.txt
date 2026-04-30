@@ -1,0 +1,3 @@
+a man jumps low then jumps high then waves his arms in an arc around his body.#a/DET man/NOUN jump/VERB low/ADJ then/ADV jump/VERB high/ADV then/ADV wave/VERB his/DET arm/NOUN in/ADP an/DET arc/NOUN around/ADP his/DET body/NOUN#0.0#0.0
+the person is doing jump up and down warm-ups.#the/DET person/NOUN is/AUX do/VERB jump/NOUN up/ADV and/CCONJ down/ADP warmup/NOUN#0.0#0.0
+jumping up and down in place.#jump/VERB up/ADP and/CCONJ down/ADP in/ADP place/NOUN#0.0#0.0

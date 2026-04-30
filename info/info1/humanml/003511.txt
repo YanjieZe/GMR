@@ -1,0 +1,3 @@
+a person walks in a clockwise circle and stops.#a/DET person/NOUN walk/VERB in/ADP a/DET clockwise/NOUN circle/NOUN and/CCONJ stop/NOUN#0.0#0.0
+the man is doing catwalk#the/DET man/NOUN is/AUX do/VERB catwalk/NOUN#0.0#0.0
+a person walks in a counter-clockwise circle.#a/DET person/NOUN walk/VERB in/ADP a/DET counterclockwise/ADJ circle/NOUN#0.0#0.0

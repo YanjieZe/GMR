@@ -1,0 +1,3 @@
+a person runs forward quickly#a/DET person/NOUN run/VERB forward/ADV quickly/ADV#0.0#0.0
+a person running across a room#a/DET person/NOUN run/VERB across/ADP a/DET room/NOUN#0.0#0.0
+a person who stands with his arms by his sides runs forward four steps and stops.#a/DET person/NOUN who/PRON stand/VERB with/ADP his/DET arm/NOUN by/ADP his/DET side/NOUN run/VERB forward/ADV four/NUM step/NOUN and/CCONJ stop/NOUN#0.0#0.0

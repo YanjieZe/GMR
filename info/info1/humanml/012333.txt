@@ -1,0 +1,3 @@
+the person is wiping something off.#the/DET person/NOUN is/AUX wipe/VERB something/PRON off/ADP#0.0#0.0
+this person is bent over petting an animal.#this/DET person/NOUN is/AUX bent/ADJ over/ADP pet/VERB an/DET animal/NOUN#0.0#0.0
+person is wiping a table#person/NOUN is/AUX wipe/VERB a/DET table/NOUN#0.0#0.0

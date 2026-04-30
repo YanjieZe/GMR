@@ -1,0 +1,2 @@
+a man paces back and forth along the same line.#a/DET man/NOUN pace/VERB back/ADV and/CCONJ forth/ADV along/ADP the/DET same/ADJ line/NOUN#0.0#0.0
+a man turns and walks back before turning around and walking again.#a/DET man/NOUN turn/VERB and/CCONJ walk/VERB back/ADV before/ADP turn/VERB around/ADV and/CCONJ walk/VERB again/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+person does two cart wheels#person/NOUN does/AUX two/NUM cart/NOUN wheel/NOUN#0.0#0.0
+a figure performs a forward cartwheel starting with the left hand then immediately returns back to starting position by performing a forward cartwheel starting with the right hand.#a/DET figure/NOUN perform/VERB a/DET forward/ADJ cartwheel/NOUN start/VERB with/ADP the/DET left/ADJ hand/NOUN then/ADV immediately/ADV return/VERB back/ADV to/ADP start/VERB position/NOUN by/ADP perform/VERB a/DET forward/ADJ cartwheel/NOUN start/VERB with/ADP the/DET right/ADJ hand/NOUN#0.0#0.0
+the person did a cart wheel.#the/DET person/NOUN did/AUX a/DET cart/NOUN wheel/NOUN#0.0#0.0

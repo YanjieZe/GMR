@@ -1,0 +1,3 @@
+a man gets on his knees and crawls to the the right and then to the left.#a/DET man/NOUN get/VERB on/ADP his/DET knee/NOUN and/CCONJ crawl/VERB to/ADP the/DET the/DET right/NOUN and/CCONJ then/ADV to/ADP the/DET left/NOUN#0.0#0.0
+a person gets down on their knees and starts crawling.#a/DET person/NOUN get/VERB down/ADV on/ADP their/DET knee/NOUN and/CCONJ start/VERB crawl/VERB#0.0#0.0
+a person gets down on all fours, crawls to the right and then to the left before standing back up.#a/DET person/NOUN get/VERB down/ADV on/ADP all/DET four/NOUN crawl/VERB to/ADP the/DET right/NOUN and/CCONJ then/ADV to/ADP the/DET left/NOUN before/ADP stand/VERB back/ADV up/ADV#0.0#0.0

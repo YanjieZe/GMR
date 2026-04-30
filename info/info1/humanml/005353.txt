@@ -1,0 +1,3 @@
+figure makes gesture around lower half then hugs themself.#figure/NOUN make/VERB gesture/NOUN around/ADP lower/ADJ half/NOUN then/ADV hug/VERB themself/PRON#0.0#0.0
+a person walks forward,embarrassingly covers up their private area with both hands, and then grabs both shoulders before standing straight.#a/DET person/NOUN walk/VERB forward/ADV embarrassingly/ADV cover/VERB up/ADP their/DET private/ADJ area/NOUN with/ADP both/DET hand/NOUN and/CCONJ then/ADV grab/VERB both/DET shoulder/NOUN before/ADP stand/VERB straight/ADV#0.0#0.0
+an individual shivers and covers their front waist then their own shoulders.#an/DET individual/ADJ shiver/NOUN and/CCONJ cover/VERB their/DET front/ADJ waist/NOUN then/ADV their/DET own/ADJ shoulder/NOUN#0.0#0.0

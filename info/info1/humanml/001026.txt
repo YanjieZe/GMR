@@ -1,0 +1,3 @@
+person pours something into a container#person/NOUN pour/VERB something/PRON into/ADP a/DET container/NOUN#0.0#10.0
+a person mixes and pours a drink.#a/DET person/NOUN mix/VERB and/CCONJ pour/VERB a/DET drink/NOUN#0.0#0.0
+a man moves something with his right arm.#a/DET man/NOUN move/VERB something/PRON with/ADP his/DET right/ADJ arm/NOUN#0.0#0.0

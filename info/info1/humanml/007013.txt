@@ -1,0 +1,3 @@
+person standing with feet spread apart and appears to be calling out a football or basketball play.#person/NOUN stand/VERB with/ADP foot/NOUN spread/VERB apart/ADV and/CCONJ appear/VERB to/PART be/AUX call/VERB out/ADP a/DET football/NOUN or/CCONJ basketball/NOUN play/NOUN#0.0#0.0
+a person raisiing both right and left hands then letting them back down to side.#a/DET person/NOUN raisie/VERB both/CCONJ right/ADJ and/CCONJ left/VERB hand/NOUN then/ADV let/VERB them/PRON back/VERB down/ADP to/ADP side/VERB#0.0#0.0
+person stands still then puts both hands on their head and release#person/NOUN stand/VERB still/ADV then/ADV put/VERB both/DET hand/NOUN on/ADP their/DET head/NOUN and/CCONJ release/NOUN#0.0#0.0

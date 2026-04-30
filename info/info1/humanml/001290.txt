@@ -1,0 +1,3 @@
+the person is moving something around.#the/DET person/NOUN is/AUX move/VERB something/PRON around/ADV#0.0#0.0
+a man sitting down moves both of his hands side to side and then puts his left hand on his right shoulder.#a/DET man/NOUN sit/VERB down/ADP move/NOUN both/DET of/ADP his/DET hand/NOUN side/NOUN to/PART side/VERB and/CCONJ then/ADV put/VERB his/DET left/ADJ hand/NOUN on/ADP his/DET right/ADJ shoulder/NOUN#0.0#0.0
+a person is squatting. while they are squatting they move their hands left to right horizontally.#a/DET person/NOUN is/AUX squat/VERB while/SCONJ they/PRON are/AUX squat/VERB they/PRON move/VERB their/DET hand/NOUN left/VERB to/ADP right/ADV horizontally/ADV#0.0#0.0

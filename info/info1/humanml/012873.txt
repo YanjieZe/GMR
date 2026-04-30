@@ -1,0 +1,3 @@
+moving forwarded on the lake.#move/VERB forward/VERB on/ADP the/DET lake/NOUN#0.0#0.0
+the tread mill is slow#the/DET tread/NOUN mill/NOUN is/AUX slow/ADJ#0.0#0.0
+person is walking slowly on a treadmill.#person/NOUN is/AUX walk/VERB slowly/ADV on/ADP a/DET treadmill/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person side steps to the front right and then swag walks to the back left.#a/DET person/NOUN side/NOUN step/NOUN to/ADP the/DET front/ADJ right/ADV and/CCONJ then/ADV swag/VERB walk/VERB to/ADP the/DET back/NOUN left/NOUN#0.0#0.0
+this person steps foot over foot, turns to left and walks briskly.#this/DET person/NOUN step/VERB foot/NOUN over/ADP foot/NOUN turn/VERB to/ADP left/NOUN and/CCONJ walk/VERB briskly/ADV#0.0#0.0
+a person walks sideways, then walks confidently in a diagonal line.#a/DET person/NOUN walk/VERB sideways/ADV then/ADV walk/VERB confidently/ADV in/ADP a/DET diagonal/ADJ line/NOUN#0.0#0.0

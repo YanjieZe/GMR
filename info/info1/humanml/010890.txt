@@ -1,0 +1,3 @@
+the person is drinking water turning around and putting something on the shelf.#the/DET person/NOUN is/AUX drink/VERB water/NOUN turn/VERB around/ADP and/CCONJ put/VERB something/PRON on/ADP the/DET shelf/NOUN#0.0#0.0
+figure appears to be getting items off of a shelf#figure/NOUN appear/VERB to/PART be/AUX get/VERB item/NOUN off/ADP of/ADP a/DET shelf/NOUN#0.0#0.0
+a person walks forward and drinks water#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ drink/VERB water/NOUN#0.0#0.0

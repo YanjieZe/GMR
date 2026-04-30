@@ -1,0 +1,3 @@
+a person cautiously walks toward a slippery spot on the ground and then carefully steps across it.#a/DET person/NOUN cautiously/ADV walk/VERB toward/ADP a/DET slippery/ADJ spot/NOUN on/ADP the/DET ground/NOUN and/CCONJ then/ADV carefully/ADV step/VERB across/ADP it/PRON#0.0#0.0
+a man takes a few steps forward hesitates then continues walking forward.#a/DET man/NOUN take/VERB a/DET few/ADJ step/NOUN forward/ADV hesitate/NOUN then/ADV continue/VERB walk/VERB forward/ADV#0.0#0.0
+the man is seesawing down#the/DET man/NOUN is/AUX seesaw/VERB down/ADP#0.0#0.0

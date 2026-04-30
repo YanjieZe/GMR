@@ -1,0 +1,3 @@
+a person uses their right hand to throw a ball then uses both hands to catch it.#a/DET person/NOUN use/VERB their/DET right/ADJ hand/NOUN to/PART throw/VERB a/DET ball/NOUN then/ADV use/VERB both/DET hand/NOUN to/PART catch/VERB it/PRON#0.0#0.0
+a person throws with right hand and catches with both hands.#a/DET person/NOUN throw/VERB with/ADP right/ADJ hand/NOUN and/CCONJ catch/NOUN with/ADP both/DET hand/NOUN#0.0#0.0
+a person makes a throwing motion, and a catching motion.#a/DET person/NOUN make/VERB a/DET throwing/NOUN motion/NOUN and/CCONJ a/DET catching/NOUN motion/NOUN#0.0#4.0

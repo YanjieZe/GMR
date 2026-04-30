@@ -1,0 +1,3 @@
+a person jogs, stops, and walks slowly back towards their original spot.#a/DET person/NOUN jog/VERB stop/VERB and/CCONJ walk/VERB slowly/ADV back/ADV towards/ADP their/DET original/ADJ spot/NOUN#0.0#0.0
+a person runs from the top left of the screen to the bottom right and then returns to walk back.#a/DET person/NOUN run/VERB from/ADP the/DET top/ADJ left/NOUN of/ADP the/DET screen/NOUN to/ADP the/DET bottom/NOUN right/ADV and/CCONJ then/ADV return/VERB to/PART walk/VERB back/ADV#0.0#0.0
+a man runs forwards, turns around and walks back.#a/DET man/NOUN run/VERB forwards/ADV turn/VERB around/ADV and/CCONJ walk/VERB back/ADV#0.0#0.0

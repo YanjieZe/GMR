@@ -1,0 +1,3 @@
+person walks a medium pace forward#person/NOUN walk/VERB a/DET medium/ADJ pace/NOUN forward/ADV#0.0#0.0
+the person is walking back-and-forth with his head down.#the/DET person/NOUN is/AUX walk/VERB backandforth/ADJ with/ADP his/DET head/NOUN down/ADV#0.0#0.0
+a person steps back, walks forward and then starts to walk back hunched.#a/DET person/NOUN step/VERB back/ADV walk/VERB forward/ADV and/CCONJ then/ADV start/VERB to/PART walk/VERB back/ADV hunch/VERB#0.0#0.0

@@ -1,0 +1,3 @@
+the person appears to be swimming.#the/DET person/NOUN appear/VERB to/PART be/AUX swim/VERB#0.0#0.0
+someone is swimming in the water#someone/PRON is/AUX swim/VERB in/ADP the/DET water/NOUN#0.0#0.0
+laying face down as hands and legs move simultaneously together in circular motion.#lay/VERB face/NOUN down/ADP as/SCONJ hand/NOUN and/CCONJ leg/NOUN move/VERB simultaneously/ADV together/ADV in/ADP circular/ADJ motion/NOUN#0.0#0.0

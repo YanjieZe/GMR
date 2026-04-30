@@ -1,0 +1,3 @@
+someone lightly jogs forward and hesitantly looks over the edge.#someone/PRON lightly/ADV jog/VERB forward/ADV and/CCONJ hesitantly/ADV look/VERB over/ADP the/DET edge/NOUN#0.0#0.0
+a person walks forward bouncing then bounces in place.#a/DET person/NOUN walk/VERB forward/ADV bounce/VERB then/ADV bounce/VERB in/ADP place/NOUN#0.0#0.0
+person edges back and forth and takes small steps forward#person/NOUN edge/VERB back/ADV and/CCONJ forth/ADV and/CCONJ take/VERB small/ADJ step/NOUN forward/ADV#0.0#0.0

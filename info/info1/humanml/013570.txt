@@ -1,0 +1,3 @@
+the person lifts both hands, no higher than their waste, from left to right#the/DET person/NOUN lift/VERB both/DET hand/NOUN no/ADV higher/ADJ than/SCONJ their/DET waste/NOUN from/ADP left/VERB to/ADP right/ADJ#0.0#0.0
+person bends over slightly and puts something down#person/NOUN bend/VERB over/ADP slightly/ADV and/CCONJ put/VERB something/PRON down/ADP#0.0#0.0
+an object is moved from left to right.#an/DET object/NOUN is/AUX move/VERB from/ADP left/NOUN to/ADP right/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person waves their arms and body around fully extended.#a/DET person/NOUN wave/VERB their/DET arm/NOUN and/CCONJ body/NOUN around/ADP fully/ADV extend/VERB#0.0#0.0
+a man twists his upper torso and then begins to walk backwards.#a/DET man/NOUN twist/VERB his/DET upper/ADJ torso/NOUN and/CCONJ then/ADV begin/VERB to/PART walk/VERB backwards/ADV#0.0#0.0
+a person opens their arms and begins swinging them around while stepping back.#a/DET person/NOUN open/VERB their/DET arm/NOUN and/CCONJ begin/VERB swinge/VERB them/PRON around/ADV while/SCONJ step/VERB back/ADV#0.0#0.0

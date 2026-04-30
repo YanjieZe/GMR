@@ -1,0 +1,3 @@
+a man jumps from side to side with his hands to his torso.#a/DET man/NOUN jump/VERB from/ADP side/NOUN to/PART side/VERB with/ADP his/DET hand/NOUN to/ADP his/DET torso/NOUN#0.0#0.0
+a man shuffles back and forth between his two feet.#a/DET man/NOUN shuffle/VERB back/ADV and/CCONJ forth/ADV between/ADP his/DET two/NUM foot/NOUN#0.0#0.0
+a person jumps from side to side while moving both hands#a/DET person/NOUN jump/VERB from/ADP side/NOUN to/PART side/VERB while/SCONJ move/VERB both/DET hand/NOUN#0.0#0.0

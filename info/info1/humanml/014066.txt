@@ -1,0 +1,3 @@
+a person runs very fast in a diagonal direction.#a/DET person/NOUN run/VERB very/ADV fast/ADV in/ADP a/DET diagonal/ADJ direction/NOUN#0.0#0.0
+running in a diagonal line.#run/VERB in/ADP a/DET diagonal/ADJ line/NOUN#0.0#0.0
+a person is running and then turns slightly to the right#a/DET person/NOUN is/AUX run/VERB and/CCONJ then/ADV turn/VERB slightly/ADV to/ADP the/DET right/NOUN#0.0#0.0

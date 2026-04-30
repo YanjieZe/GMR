@@ -1,0 +1,3 @@
+a person turns clockwise 180 degrees and wide steps forward.#a/DET person/NOUN turn/VERB clockwise/ADJ degree/NOUN and/CCONJ wide/ADJ step/NOUN forward/ADV#0.0#10.0
+said person was tip toeing through an area#say/VERB person/NOUN was/AUX tip/NOUN toe/VERB through/ADP an/DET area/NOUN#0.0#0.0
+a person turns around the opposite way, then walks in a zig-zag motion#a/DET person/NOUN turn/VERB around/ADP the/DET opposite/ADJ way/NOUN then/ADV walk/VERB in/ADP a/DET zigzag/NOUN motion/NOUN#0.0#0.0

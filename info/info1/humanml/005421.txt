@@ -1,0 +1,3 @@
+a man waves with his left hand.#a/DET man/NOUN wave/VERB with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0
+a person waves slowly with their left hand#a/DET person/NOUN wave/VERB slowly/ADV with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0
+a person raises his left hand and waves.#a/DET person/NOUN raise/VERB his/DET left/ADJ hand/NOUN and/CCONJ wave/NOUN#0.0#0.0

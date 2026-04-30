@@ -1,0 +1,3 @@
+a person is swimming.#a/DET person/NOUN is/AUX swim/VERB#0.0#0.0
+someone is freestyle swimming and pushes off an object.#someone/PRON is/AUX freestyle/ADJ swimming/NOUN and/CCONJ push/VERB off/ADP an/DET object/NOUN#0.0#0.0
+a person swimming forward bt using hands and legs#a/DET person/NOUN swim/VERB forward/ADV bt/PROPN use/VERB hand/NOUN and/CCONJ leg/NOUN#0.0#0.0

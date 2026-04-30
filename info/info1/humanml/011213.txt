@@ -1,0 +1,3 @@
+he stands and wobbles slightly, as if trying to stay steady in the wind#he/PRON stand/VERB and/CCONJ wobble/VERB slightly/ADV as/SCONJ if/SCONJ try/VERB to/PART stay/VERB steady/ADJ in/ADP the/DET wind/NOUN#0.0#0.0
+a figure stands with its arms sort of out to its sides, swaying slightly back and forth tentatively#a/DET figure/NOUN stand/VERB with/ADP its/DET arm/NOUN sort/ADV of/ADV out/SCONJ to/ADP its/DET side/NOUN sway/VERB slightly/ADV back/ADV and/CCONJ forth/ADV tentatively/ADV#0.0#0.0
+a person holds both arms out to the sides and sways slightly back and forth#a/DET person/NOUN hold/VERB both/DET arm/NOUN out/ADV to/ADP the/DET side/NOUN and/CCONJ sway/VERB slightly/ADV back/ADV and/CCONJ forth/ADV#0.0#0.0

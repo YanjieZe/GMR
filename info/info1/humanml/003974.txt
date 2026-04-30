@@ -1,0 +1,3 @@
+the person is climbing on a stepstool to change a lightbulb.#the/DET person/NOUN is/AUX climb/VERB on/ADP a/DET stepstool/NOUN to/PART change/VERB a/DET lightbulb/NOUN#0.0#0.0
+a person takes a step to the right side and up onto a ladder to change a lightbulb.#a/DET person/NOUN take/VERB a/DET step/NOUN to/ADP the/DET right/ADJ side/NOUN and/CCONJ up/ADV onto/ADP a/DET ladder/NOUN to/PART change/VERB a/DET lightbulb/NOUN#0.0#0.0
+a person climbs onto a step stool to replace an overhead lightbulb.#a/DET person/NOUN climb/VERB onto/ADP a/DET step/NOUN stool/NOUN to/PART replace/VERB an/DET overhead/ADJ lightbulb/NOUN#0.0#0.0

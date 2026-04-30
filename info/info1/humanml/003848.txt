@@ -1,0 +1,3 @@
+a man is swinging his arms#a/DET man/NOUN is/AUX swinge/VERB his/DET arm/NOUN#0.0#4.0
+a man is standing with feet apart slightly bent over holding a golf club then brings the club back and swings at a golf ball really hard.#a/DET man/NOUN is/AUX stand/VERB with/ADP foot/NOUN apart/ADV slightly/ADV bent/ADJ over/ADP hold/VERB a/DET golf/NOUN club/NOUN then/ADV bring/VERB the/DET club/NOUN back/ADP and/CCONJ swing/VERB at/ADP a/DET golf/NOUN ball/NOUN really/ADV hard/ADV#0.0#0.0
+a man swings both his arms together to his right, down across his body, and to the left.#a/DET man/NOUN swing/VERB both/CCONJ his/DET arm/NOUN together/ADV to/ADP his/DET right/NOUN down/ADV across/ADP his/DET body/NOUN and/CCONJ to/ADP the/DET left/NOUN#0.0#0.0

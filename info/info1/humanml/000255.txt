@@ -1,0 +1,3 @@
+a person is walking heel to toe in a straight line.#a/DET person/NOUN is/AUX walk/VERB heel/NOUN to/ADP toe/NOUN in/ADP a/DET straight/ADJ line/NOUN#0.0#0.0
+a person walking forward then stumbled an continues with poor balance#a/DET person/NOUN walk/VERB forward/ADV then/ADV stumble/VERB an/DET continue/NOUN with/ADP poor/ADJ balance/NOUN#0.0#0.0
+a person walks forward stops and raises its arm then walks forward again.#a/DET person/NOUN walk/VERB forward/ADV stop/VERB and/CCONJ raise/VERB its/DET arm/NOUN then/ADV walk/VERB forward/ADV again/ADV#0.0#0.0

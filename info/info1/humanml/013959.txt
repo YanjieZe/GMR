@@ -1,0 +1,3 @@
+a person is crouched down in fighting stance and stands to go into a flurry of fighting techniques.#a/DET person/NOUN is/AUX crouch/VERB down/ADV in/ADP fight/VERB stance/NOUN and/CCONJ stand/VERB to/PART go/VERB into/ADP a/DET flurry/NOUN of/ADP fighting/NOUN technique/NOUN#0.0#0.0
+a person does fighting maneuvers.#a/DET person/NOUN does/AUX fighting/NOUN maneuver/NOUN#0.0#0.0
+a person that is practicing kung fu#a/DET person/NOUN that/DET is/AUX practice/VERB kung/PROPN fu/PROPN#0.0#0.0

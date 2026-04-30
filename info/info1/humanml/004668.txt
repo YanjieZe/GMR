@@ -1,0 +1,3 @@
+person is hunched over creeping diagonally down.#person/NOUN is/AUX hunch/VERB over/ADP creep/VERB diagonally/ADV down/ADV#0.0#0.0
+person crouches down with both shoulders and legs wide apart from back to front#person/NOUN crouch/VERB down/ADP with/ADP both/DET shoulder/NOUN and/CCONJ leg/NOUN wide/ADV apart/ADV from/ADP back/ADV to/ADP front/NOUN#0.0#0.0
+a person walks in a sneaky way forwards.#a/DET person/NOUN walk/VERB in/ADP a/DET sneaky/ADJ way/NOUN forwards/ADV#0.0#0.0

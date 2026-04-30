@@ -1,0 +1,3 @@
+a figure walks briskly up stairs#a/DET figure/NOUN walk/VERB briskly/ADV up/ADP stair/NOUN#0.0#0.0
+a person takes steps forward#a/DET person/NOUN take/VERB step/NOUN forward/ADV#0.0#0.0
+a person walks up some stairs quickly.#a/DET person/NOUN walk/VERB up/ADP some/DET stair/NOUN quickly/ADV#0.0#0.0

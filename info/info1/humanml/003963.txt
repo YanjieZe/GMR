@@ -1,0 +1,3 @@
+the person is  is walking around on all fours.#the/DET person/NOUN is/AUX is/AUX walk/VERB around/ADP on/ADP all/DET four/NOUN#0.0#0.0
+a person bends over close to the ground and then crawls back and forth.#a/DET person/NOUN bend/VERB over/ADV close/ADV to/ADP the/DET ground/NOUN and/CCONJ then/ADV crawl/VERB back/ADV and/CCONJ forth/ADV#0.0#0.0
+both hands are place on the ground from standing up and then moving around in a crawl like way.#both/DET hand/NOUN are/AUX place/NOUN on/ADP the/DET ground/NOUN from/ADP stand/VERB up/ADP and/CCONJ then/ADV move/VERB around/ADV in/ADP a/DET crawl/NOUN like/SCONJ way/NOUN#0.0#0.0

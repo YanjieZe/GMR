@@ -1,0 +1,3 @@
+the person jumps a few times and then does three jumping jacks.#the/DET person/NOUN jump/VERB a/DET few/ADJ time/NOUN and/CCONJ then/ADV does/AUX three/NUM jump/VERB jack/NOUN#0.0#0.0
+a person hops up and down and slightly to the left a few times, then completes several jumping jacks.#a/DET person/NOUN hop/VERB up/ADV and/CCONJ down/ADV and/CCONJ slightly/ADV to/ADP the/DET left/ADJ a/DET few/ADJ time/NOUN then/ADV complete/VERB several/ADJ jump/VERB jack/NOUN#0.0#0.0
+msn quickly does jumping jacks#msn/PROPN quickly/ADV does/AUX jump/VERB jack/NOUN#0.0#0.0

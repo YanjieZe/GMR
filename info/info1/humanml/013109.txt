@@ -1,0 +1,3 @@
+a person stretches their back, moving left, right, forward and back.#a/DET person/NOUN stretch/VERB their/DET back/NOUN move/VERB left/VERB right/INTJ forward/ADV and/CCONJ back/ADV#0.0#0.0
+a man twists his torso back and forth, then stretches side to side, then back and forwards towards the floor, all with outstretched or raised hands.#a/DET man/NOUN twist/VERB his/DET torso/NOUN back/ADV and/CCONJ forth/ADV then/ADV stretch/VERB side/NOUN to/PART side/VERB then/ADV back/ADV and/CCONJ forwards/VERB towards/ADP the/DET floor/NOUN all/ADV with/ADP outstretched/ADJ or/CCONJ raise/VERB hand/NOUN#0.0#0.0
+the person is doing exercise stretches.#the/DET person/NOUN is/AUX do/VERB exercise/NOUN stretch/NOUN#0.0#0.0

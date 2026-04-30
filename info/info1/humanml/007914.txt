@@ -1,0 +1,3 @@
+a person runs in place then alternatingly touches their elbows to their knees.#a/DET person/NOUN run/VERB in/ADP place/NOUN then/ADV alternatingly/ADV touch/VERB their/DET elbow/NOUN to/ADP their/DET knee/NOUN#0.0#0.0
+stand and doing the exerises#stand/VERB and/CCONJ do/VERB the/DET exerise/NOUN#0.0#0.0
+the man is doing a leg excercise#the/DET man/NOUN is/AUX do/VERB a/DET leg/NOUN excercise/NOUN#0.0#0.0

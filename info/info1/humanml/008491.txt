@@ -1,0 +1,3 @@
+a person jumps straight up, then climbs some stairs forward#a/DET person/NOUN jump/VERB straight/ADV up/ADV then/ADV climb/VERB some/DET stair/NOUN forward/ADV#0.0#0.0
+a person jumps, then walks up a few stairs while his right hand is resting on a railing#a/DET person/NOUN jump/VERB then/ADV walk/VERB up/ADP a/DET few/ADJ stair/NOUN while/SCONJ his/DET right/ADJ hand/NOUN is/AUX rest/VERB on/ADP a/DET railing/NOUN#0.0#0.0
+a person does a small jump before walking up some stairs#a/DET person/NOUN does/AUX a/DET small/ADJ jump/NOUN before/ADP walk/VERB up/ADP some/DET stair/NOUN#0.0#0.0

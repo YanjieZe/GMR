@@ -1,0 +1,3 @@
+a person walks up the stairs and stands still.#a/DET person/NOUN walk/VERB up/ADP the/DET stair/NOUN and/CCONJ stand/VERB still/ADV#0.0#0.0
+a person goes up the stairs.#a/DET person/NOUN go/VERB up/ADP the/DET stair/NOUN#0.0#0.0
+person walks up four steps#person/NOUN walk/VERB up/ADV four/NUM step/NOUN#0.0#5.0

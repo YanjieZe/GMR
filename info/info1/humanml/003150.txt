@@ -1,0 +1,3 @@
+the person is standing there.#the/DET person/NOUN is/AUX stand/VERB there/ADV#0.0#0.0
+putting the right arm forward drops down to the waist.#put/VERB the/DET right/ADJ arm/NOUN forward/ADV drop/VERB down/ADV to/ADP the/DET waist/NOUN#0.0#0.0
+a person reaches out with their right arm, with their elbow bent and their hand raised in front of them. then returns to a neutral position with both arms by the person's side.#a/DET person/NOUN reach/VERB out/ADP with/ADP their/DET right/ADJ arm/NOUN with/ADP their/DET elbow/NOUN bent/NOUN and/CCONJ their/DET hand/NOUN raise/VERB in/ADP front/NOUN of/ADP them/PRON then/ADV return/VERB to/ADP a/DET neutral/ADJ position/NOUN with/ADP both/DET arm/NOUN by/ADP the/DET person/NOUN side/NOUN#0.0#0.0

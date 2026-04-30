@@ -1,0 +1,3 @@
+a person spreads their legs, goes into a squat and jumps twice.#a/DET person/NOUN spread/VERB their/DET leg/NOUN go/VERB into/ADP a/DET squat/NOUN and/CCONJ jump/VERB twice/ADV#0.0#0.0
+a person performs two vertical squat jumps.#a/DET person/NOUN perform/VERB two/NUM vertical/ADJ squat/NOUN jump/NOUN#0.0#0.0
+a person is squatting up and down.#a/DET person/NOUN is/AUX squat/VERB up/ADP and/CCONJ down/ADV#0.0#0.0

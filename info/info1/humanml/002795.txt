@@ -1,0 +1,3 @@
+a person jogging in place.#a/DET person/NOUN jog/VERB in/ADP place/NOUN#0.0#0.0
+a person jogs in place.#a/DET person/NOUN jog/VERB in/ADP place/NOUN#0.0#0.0
+a person jogs on the same spot.#a/DET person/NOUN jog/VERB on/ADP the/DET same/ADJ spot/NOUN#0.0#0.0

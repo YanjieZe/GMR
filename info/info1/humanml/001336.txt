@@ -1,0 +1,3 @@
+a man stands up from bowing and then steps back.#a/DET man/NOUN stand/VERB up/ADP from/ADP bowing/NOUN and/CCONJ then/ADV step/VERB back/ADV#0.0#0.0
+a person is doubled over holding their abdomen with their right hand, then standing and taking a few steps back.#a/DET person/NOUN is/AUX double/VERB over/ADP hold/VERB their/DET abdoman/NOUN with/ADP their/DET right/ADJ hand/NOUN then/ADV stand/VERB and/CCONJ take/VERB a/DET few/ADJ step/NOUN back/ADV#0.0#0.0
+a body stands up and moves backward diagonally to the left.#a/DET body/NOUN stand/VERB up/ADP and/CCONJ move/VERB backward/ADV diagonally/ADV to/ADP the/DET left/NOUN#0.0#0.0

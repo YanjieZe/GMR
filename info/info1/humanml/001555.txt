@@ -1,0 +1,3 @@
+he walks forward directly then stops#he/PRON walk/VERB forward/ADV directly/ADV then/ADV stop/VERB#0.0#0.0
+a man runs to a stop and then turns back by his left side and does a cartwheel.#a/DET man/NOUN run/VERB to/ADP a/DET stop/NOUN and/CCONJ then/ADV turn/VERB back/ADV by/ADP his/DET left/ADJ side/NOUN and/CCONJ does/AUX a/DET cartwheel/NOUN#0.0#0.0
+a person walks forward, turns, then does a cartwheel#a/DET person/NOUN walk/VERB forward/ADV turn/VERB then/ADV does/AUX a/DET cartwheel/NOUN#0.0#0.0

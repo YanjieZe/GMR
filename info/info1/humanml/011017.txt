@@ -1,0 +1,3 @@
+a person takes multiple steps towards the camera with the two final steps appearing be going up a set of stairs.#a/DET person/NOUN take/VERB multiple/ADJ step/NOUN towards/ADP the/DET camera/NOUN with/ADP the/DET two/NUM final/ADJ step/NOUN appear/VERB be/AUX go/VERB up/ADP a/DET set/NOUN of/ADP stair/NOUN#0.0#0.0
+the stick figure walks in a forward motion, with a slight sway, from left to right.#the/DET stick/NOUN figure/NOUN walk/VERB in/ADP a/DET forward/ADJ motion/NOUN with/ADP a/DET slight/ADJ sway/NOUN from/ADP left/VERB to/ADP right/NOUN#0.0#0.0
+person is casually walking up some stairs#person/NOUN is/AUX casually/ADV walk/VERB up/ADP some/DET stair/NOUN#0.0#0.0

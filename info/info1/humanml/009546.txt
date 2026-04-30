@@ -1,0 +1,3 @@
+a person waves with their right hand.#a/DET person/NOUN wave/VERB with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+a left red hand waved.#a/DET left/ADJ red/ADJ hand/NOUN wave/VERB#0.0#0.0
+a person uses their right arm to wave to the neighbor#a/DET person/NOUN use/VERB their/DET right/ADJ arm/NOUN to/PART wave/VERB to/ADP the/DET neighbor/NOUN#0.0#0.0

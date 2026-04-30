@@ -1,0 +1,3 @@
+a person sways, puts both arms up, does half of a 180 turn, and walks a few steps forward.#a/DET person/NOUN sway/VERB put/VERB both/DET arm/NOUN up/ADP does/AUX half/NOUN of/ADP a/DET turn/NOUN and/CCONJ walk/VERB a/DET few/ADJ step/NOUN forward/ADV#0.0#0.0
+the person appears to be dancing, then rotating clockwise, and walks to the edge#the/DET person/NOUN appear/VERB to/PART be/AUX dance/VERB then/ADV rotate/VERB clockwise/NOUN and/CCONJ walk/VERB to/ADP the/DET edge/NOUN#0.0#0.0
+he makes a threatening motion with both arms and then turns around, takes a few steps and sulks.#he/PRON make/VERB a/DET threatening/ADJ motion/NOUN with/ADP both/DET arm/NOUN and/CCONJ then/ADV turn/VERB around/ADV take/VERB a/DET few/ADJ step/NOUN and/CCONJ sulk/NOUN#0.0#0.0

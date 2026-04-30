@@ -1,0 +1,3 @@
+person walks forward, stumbles back, and continues forward#person/NOUN walk/VERB forward/ADV stumble/NOUN back/ADV and/CCONJ continue/VERB forward/ADV#0.0#0.0
+a person walks forward, is pushed backward, and then resumes walking forward.#a/DET person/NOUN walk/VERB forward/ADV is/AUX push/VERB backward/ADV and/CCONJ then/ADV resume/VERB walk/VERB forward/ADV#0.0#0.0
+this person walks forward then skips then continues to walk.#this/DET person/NOUN walk/VERB forward/ADV then/ADV skip/VERB then/ADV continue/VERB to/PART walk/VERB#0.0#0.0

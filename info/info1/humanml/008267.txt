@@ -1,0 +1,3 @@
+a person swings each arms in a windmill pattern.#a/DET person/NOUN swing/VERB each/DET arm/NOUN in/ADP a/DET windmill/ADJ pattern/NOUN#0.0#0.0
+a person standing and swinging the right arms backward, swings the left hand forward and later tries swinging it backwards.#a/DET person/NOUN stand/VERB and/CCONJ swinge/VERB the/DET right/ADJ arm/NOUN backward/ADV swing/VERB the/DET left/ADJ hand/NOUN forward/ADV and/CCONJ later/ADV try/VERB swinge/VERB it/PRON backwards/ADV#0.0#0.0
+a person is swinging his right arm.#a/DET person/NOUN is/AUX swinge/VERB his/DET right/ADJ arm/NOUN#0.0#0.0

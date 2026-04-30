@@ -1,0 +1,3 @@
+a person moving forward climbs down the stairs.#a/DET person/NOUN move/VERB forward/ADV climb/NOUN down/ADP the/DET stair/NOUN#0.0#0.0
+a man climbs down the stairs holding the railing.#a/DET man/NOUN climb/VERB down/ADP the/DET stair/NOUN hold/VERB the/DET railing/NOUN#0.0#0.0
+a person walks down stairs with their left hand on a rail.#a/DET person/NOUN walk/VERB down/ADP stair/NOUN with/ADP their/DET left/ADJ hand/NOUN on/ADP a/DET rail/NOUN#0.0#0.0

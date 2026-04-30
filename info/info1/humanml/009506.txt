@@ -1,0 +1,3 @@
+a person walks around and struts their stuff#a/DET person/NOUN walk/VERB around/ADV and/CCONJ strut/VERB their/DET stuff/NOUN#0.0#0.0
+a man walks forward, his feet crossing each other as he goes.#a/DET man/NOUN walk/VERB forward/ADV his/DET foot/NOUN cross/VERB each/DET other/ADJ as/SCONJ he/PRON go/VERB#0.0#0.0
+person walks up and down hands on hips and feet going in straight line with each other#person/NOUN walk/VERB up/ADV and/CCONJ down/ADP hand/NOUN on/ADP hip/NOUN and/CCONJ foot/NOUN go/VERB in/ADP straight/ADJ line/NOUN with/ADP each/DET other/ADJ#0.0#0.0

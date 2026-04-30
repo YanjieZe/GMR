@@ -1,0 +1,3 @@
+a person jogs in place, slowly at first, then increases speed. they then back up and squat down.#a/DET person/NOUN jog/VERB in/ADP place/NOUN slowly/ADV at/ADP first/ADV then/ADV increase/VERB speed/NOUN they/PRON then/ADV back/VERB up/ADP and/CCONJ squat/VERB down/ADV#0.0#0.0
+from a squat a person stands up, jogs slowly in place, then faster, stops , backs up and squats again.#from/ADP a/DET squat/NOUN a/DET person/NOUN stand/VERB up/ADP jog/VERB slowly/ADV in/ADP place/NOUN then/ADV faster/ADV stop/VERB back/VERB up/ADP and/CCONJ squat/NOUN again/ADV#0.0#0.0
+a man is running in place and then steps backwards and crouches.#a/DET man/NOUN is/AUX run/VERB in/ADP place/NOUN and/CCONJ then/ADV step/VERB backwards/ADV and/CCONJ crouch/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person raises left arm up and at the elbow bends arm up and down twice.#a/DET person/NOUN raise/VERB left/VERB arm/NOUN up/ADP and/CCONJ at/ADP the/DET elbow/ADJ bend/NOUN arm/VERB up/ADV and/CCONJ down/ADV twice/ADV#0.0#1.0
+a figure waves its left arm 3 times#a/DET figure/NOUN wave/VERB its/DET left/ADJ arm/NOUN time/NOUN#0.0#0.0
+the figure flexes its right arm twice.#the/DET figure/NOUN flex/VERB its/DET right/ADJ arm/NOUN twice/ADV#0.0#0.0

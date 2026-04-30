@@ -1,0 +1,3 @@
+a person washing a wall before moving to another location#a/DET person/NOUN wash/VERB a/DET wall/NOUN before/ADP move/VERB to/ADP another/DET location/NOUN#0.0#0.0
+the person is washing someone’s back#the/DET person/NOUN is/AUX wash/VERB someone/PRON back/ADV#0.0#0.0
+a person  is wiping something up and down.#a/DET person/NOUN is/AUX wipe/VERB something/PRON up/ADV and/CCONJ down/ADV#0.0#0.0

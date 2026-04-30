@@ -1,0 +1,3 @@
+a person is doing the salsa#a/DET person/NOUN is/AUX do/VERB the/DET salsa/NOUN#0.0#0.0
+a person dances elegantly with a partner#a/DET person/NOUN dance/VERB elegantly/ADV with/ADP a/DET partner/NOUN#0.0#0.0
+a person dances with their arms out in front of them, like a salsa.#a/DET person/NOUN dance/VERB with/ADP their/DET arm/NOUN out/ADP in/ADP front/NOUN of/ADP them/PRON like/SCONJ a/DET salsa/NOUN#0.0#0.0

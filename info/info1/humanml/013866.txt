@@ -1,0 +1,3 @@
+person makes kicking ball motion left leg#person/NOUN make/VERB kick/VERB ball/NOUN motion/NOUN left/VERB leg/NOUN#0.0#0.0
+the person kicks an object#the/DET person/NOUN kick/VERB an/DET object/NOUN#0.0#0.0
+a person kicks something with their left foot.#a/DET person/NOUN kick/VERB something/PRON with/ADP their/DET left/ADJ foot/NOUN#0.0#0.0

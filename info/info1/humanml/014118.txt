@@ -1,0 +1,3 @@
+the person is jumping up and down.#the/DET person/NOUN is/AUX jump/VERB up/ADP and/CCONJ down/ADV#0.0#0.0
+to jump, reposition your feet to shoulder width apart, bend your knees and push off the ground from the balls of your feet.#to/PART jump/VERB reposition/VERB your/DET foot/NOUN to/PART shoulder/VERB width/NOUN apart/ADV bend/VERB your/DET knee/NOUN and/CCONJ push/VERB off/ADP the/DET ground/NOUN from/ADP the/DET ball/NOUN of/ADP your/DET foot/NOUN#0.0#0.0
+a person jumps up.#a/DET person/NOUN jump/VERB up/ADP#0.0#0.0

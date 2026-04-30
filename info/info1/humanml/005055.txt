@@ -1,0 +1,3 @@
+a person appears to open something, like a microwave, and then take something out and place it on the ground.#a/DET person/NOUN appear/VERB to/PART open/VERB something/PRON like/SCONJ a/DET microwave/NOUN and/CCONJ then/ADV take/VERB something/PRON out/ADP and/CCONJ place/VERB it/PRON on/ADP the/DET ground/NOUN#0.0#0.0
+walks forward opens a compartment and grabs 2 objects then picks another from the ground#walk/VERB forward/ADV open/VERB a/DET compartment/NOUN and/CCONJ grab/NOUN object/NOUN then/ADV pick/VERB another/DET from/ADP the/DET ground/NOUN#0.0#0.0
+a person grabbed something with right hand and put it somewhere#a/DET person/NOUN grab/VERB something/PRON with/ADP right/ADJ hand/NOUN and/CCONJ put/VERB it/PRON somewhere/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+moving the hands speaking some thing.#move/VERB the/DET hand/NOUN speak/VERB some/DET thing/NOUN#0.0#0.0
+a person lowers their arms then moves them side to side and lowers them.#a/DET person/NOUN lower/VERB their/DET arm/NOUN then/ADV move/VERB them/PRON side/NOUN to/PART side/VERB and/CCONJ lower/VERB them/PRON#0.0#0.0
+a person begins standing with arms outstretched, parallel to the ground. he then brings his arms down and makes a "no" motion with his hands.#a/DET person/NOUN begin/VERB stand/VERB with/ADP arm/NOUN outstretche/VERB parallel/ADJ to/ADP the/DET ground/NOUN he/PRON then/ADV bring/VERB his/DET arm/NOUN down/ADP and/CCONJ make/VERB a/DET no/DET motion/NOUN with/ADP his/DET hand/NOUN#0.0#0.0

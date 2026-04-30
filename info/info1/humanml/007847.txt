@@ -1,0 +1,3 @@
+the person is warming up his elbows.#the/DET person/NOUN is/AUX warm/VERB up/ADP his/DET elbow/NOUN#0.0#0.0
+a person stretches each arm over their shoulder.#a/DET person/NOUN stretch/VERB each/DET arm/NOUN over/ADP their/DET shoulder/NOUN#0.0#0.0
+a person is dancing and lifting their right arm up twice then their left arm up twice, all while shimmying.#a/DET person/NOUN is/AUX dance/VERB and/CCONJ lift/VERB their/DET right/ADJ arm/NOUN up/ADP twice/ADV then/ADV their/DET left/ADJ arm/NOUN up/ADP twice/ADV all/DET while/SCONJ shimmy/VERB#0.0#0.0

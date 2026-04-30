@@ -1,0 +1,3 @@
+person is sitting down then getting up.#person/NOUN is/AUX sit/VERB down/ADP then/ADV get/VERB up/ADV#0.0#0.0
+person walks back slowly into a chair and sits then gets back up#person/NOUN walk/VERB back/ADV slowly/ADV into/ADP a/DET chair/NOUN and/CCONJ sit/VERB then/ADV get/VERB back/ADV up/ADV#0.0#0.0
+person walks backwards and sits in imaginary chair#person/NOUN walk/VERB backwards/ADV and/CCONJ sit/VERB in/ADP imaginary/ADJ chair/NOUN#0.0#0.0

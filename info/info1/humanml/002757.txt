@@ -1,0 +1,3 @@
+a person breaks into a quick jog forward.#a/DET person/NOUN break/VERB into/ADP a/DET quick/ADJ jog/NOUN forward/ADV#0.0#0.0
+a person runs straight forward.#a/DET person/NOUN run/VERB straight/ADV forward/ADV#0.0#0.0
+a person jogs forward and then stops.#a/DET person/NOUN jog/VERB forward/ADV and/CCONJ then/ADV stop/VERB#0.0#0.0

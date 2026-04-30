@@ -1,0 +1,3 @@
+a person quickly steps back and to his left.#a/DET person/NOUN quickly/ADV step/VERB back/ADV and/CCONJ to/ADP his/DET left/NOUN#0.0#0.0
+person was pushed but did not fall.#person/NOUN was/AUX push/VERB but/CCONJ did/AUX not/PART fall/VERB#0.0#0.0
+a figure stumbled backwards sloppily#a/DET figure/NOUN stumble/VERB backwards/ADV sloppily/ADV#0.0#0.0

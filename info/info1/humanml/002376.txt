@@ -1,0 +1,3 @@
+a person standing then put both arms out to do arm stretches.#a/DET person/NOUN stand/VERB then/ADV put/VERB both/DET arm/NOUN out/ADP to/PART do/AUX arm/NOUN stretch/NOUN#0.0#0.0
+a person lifts arms and twists body to the right and left.#a/DET person/NOUN lift/VERB arm/NOUN and/CCONJ twist/NOUN body/NOUN to/ADP the/DET right/NOUN and/CCONJ left/VERB#0.0#0.0
+a person stretching both arms as far as he/she can from his/her body#a/DET person/NOUN stretch/VERB both/DET arm/NOUN as/ADV far/ADV as/SCONJ he/PRON she/PRON can/VERB from/ADP his/DET her/DET body/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person stretches toward their let with their right arm.#a/DET person/NOUN stretch/VERB toward/ADP their/DET let/NOUN with/ADP their/DET right/ADJ arm/NOUN#0.0#0.0
+a man stands with his right arm up in the air and pivots to his side as if stretching.#a/DET man/NOUN stand/VERB with/ADP his/DET right/ADJ arm/NOUN up/ADP in/ADP the/DET air/NOUN and/CCONJ pivot/NOUN to/ADP his/DET side/NOUN as/SCONJ if/SCONJ stretch/VERB#0.0#0.0
+a person holds their slightly bent arm over their head, waves down slightly, and then waves back up.#a/DET person/NOUN hold/VERB their/DET slightly/ADV bent/ADJ arm/NOUN over/ADP their/DET head/NOUN wave/VERB down/ADP slightly/ADV and/CCONJ then/ADV wave/VERB back/ADV up/ADV#0.0#0.0

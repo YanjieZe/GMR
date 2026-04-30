@@ -1,0 +1,3 @@
+the figure stays put but moves arms upward.#the/DET figure/NOUN stay/VERB put/VERB but/CCONJ move/VERB arm/NOUN upward/ADV#0.0#0.0
+a person stands forward and doing the call with his right arm.#a/DET person/NOUN stand/VERB forward/ADV and/CCONJ do/VERB the/DET call/NOUN with/ADP his/DET right/ADJ arm/NOUN#0.0#0.0
+a man takes an object from his side and places it next to his head.#a/DET man/NOUN take/VERB an/DET object/NOUN from/ADP his/DET side/NOUN and/CCONJ place/VERB it/PRON next/ADV to/ADP his/DET head/NOUN#0.0#0.0

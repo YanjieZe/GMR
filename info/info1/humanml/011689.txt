@@ -1,0 +1,3 @@
+a man jumps up in place.#a/DET man/NOUN jump/VERB up/ADP in/ADP place/NOUN#0.0#0.0
+the man jumps high happily#the/DET man/NOUN jump/VERB high/ADV happily/ADV#0.0#0.0
+a person jumps once on the spot.#a/DET person/NOUN jump/VERB once/ADV on/ADP the/DET spot/NOUN#0.0#0.0

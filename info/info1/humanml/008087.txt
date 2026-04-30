@@ -1,0 +1,3 @@
+a person stands with his left hand in front of his body.#a/DET person/NOUN stand/VERB with/ADP his/DET left/ADJ hand/NOUN in/ADP front/NOUN of/ADP his/DET body/NOUN#0.0#0.0
+a person seeming to be standing up reaching down with left hand seeming to be checking phone and placing it back down to pocket.#a/DET person/NOUN seeming/ADJ to/PART be/AUX stand/VERB up/ADP reach/VERB down/ADP with/ADP left/ADJ hand/NOUN seeming/NOUN to/PART be/AUX check/VERB phone/NOUN and/CCONJ place/VERB it/PRON back/ADV down/ADP to/ADP pocket/NOUN#0.0#0.0
+a man shifts an object in his left hand.#a/DET man/NOUN shift/VERB an/DET object/NOUN in/ADP his/DET left/ADJ hand/NOUN#0.0#0.0

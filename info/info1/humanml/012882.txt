@@ -1,0 +1,3 @@
+a man crouching down reaches up with his left hand and then brings it down again#a/DET man/NOUN crouch/VERB down/ADP reach/VERB up/ADP with/ADP his/DET left/ADJ hand/NOUN and/CCONJ then/ADV bring/VERB it/PRON down/ADP again/ADV#0.0#1.0
+someone who sits and eats something with their left hand#someone/PRON who/PRON sit/VERB and/CCONJ eat/VERB something/PRON with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0
+the person is sitting down eating with his left hand.#the/DET person/NOUN is/AUX sit/VERB down/ADP eat/VERB with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0

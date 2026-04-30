@@ -1,0 +1,3 @@
+a person runs towards the right side.#a/DET person/NOUN run/VERB towards/ADP the/DET right/ADJ side/NOUN#0.0#0.0
+a person runs forward on an angle to her right.#a/DET person/NOUN run/VERB forward/ADV on/ADP an/DET angle/NOUN to/ADP her/PRON right/NOUN#0.0#0.0
+person is running straight ahead#person/NOUN is/AUX run/VERB straight/ADV ahead/ADV#0.0#0.0

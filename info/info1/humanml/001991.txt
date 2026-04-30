@@ -1,0 +1,3 @@
+a person steps side to side to the left.#a/DET person/NOUN step/VERB side/NOUN to/PART side/VERB to/ADP the/DET left/NOUN#0.0#0.0
+stick an took one step to the left.#stick/VERB an/DET take/VERB one/NUM step/NOUN to/ADP the/DET left/NOUN#0.0#0.0
+a man takes a step to the left.#a/DET man/NOUN take/VERB a/DET step/NOUN to/ADP the/DET left/NOUN#0.0#0.0

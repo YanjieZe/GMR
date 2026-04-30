@@ -1,0 +1,3 @@
+a person with a left red side and right blue side holds hands#a/DET person/NOUN with/ADP a/DET left/ADJ red/ADJ side/NOUN and/CCONJ right/ADJ blue/ADJ side/NOUN hold/VERB hand/NOUN#0.0#0.0
+a person gets his hands together to hold them and then lowers them back again.#a/DET person/NOUN get/VERB his/DET hand/NOUN together/ADV to/PART hold/VERB them/PRON and/CCONJ then/ADV lower/VERB them/PRON back/ADV again/ADV#0.0#0.0
+a man lifts his hands to clasp them together at chest level, and then brings them back to rest at  his sides.#a/DET man/NOUN lift/VERB his/DET hand/NOUN to/PART clasp/VERB them/PRON together/ADV at/ADP chest/NOUN level/NOUN and/CCONJ then/ADV bring/VERB them/PRON back/ADV to/ADP rest/NOUN at/ADP his/DET side/NOUN#0.0#0.0

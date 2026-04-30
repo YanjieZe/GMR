@@ -1,0 +1,3 @@
+the man sits then moves forward#the/DET man/NOUN sit/VERB then/ADV move/VERB forward/ADV#0.0#0.0
+the person sat down from standing.#the/DET person/NOUN sit/VERB down/ADP from/ADP standing/NOUN#0.0#0.0
+a person steps back carefully to have a seat, then stands again and takes a couple steps forward.#a/DET person/NOUN step/VERB back/ADV carefully/ADV to/PART have/AUX a/DET seat/NOUN then/ADV stand/VERB again/ADV and/CCONJ take/VERB a/DET couple/NOUN step/NOUN forward/ADV#0.0#0.0

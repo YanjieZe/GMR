@@ -1,0 +1,3 @@
+a person ties their left shoe and then eats something with their right hand.#a/DET person/NOUN tie/VERB their/DET left/ADJ shoe/NOUN and/CCONJ then/ADV eat/VERB something/PRON with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+the person is down on his knee tying his shoe.#the/DET person/NOUN is/AUX down/ADV on/ADP his/DET knee/NOUN tie/VERB his/DET shoe/NOUN#0.0#0.0
+a person bending down over left foot tying their shoe, then stands up and covers mouth with right hand.#a/DET person/NOUN bend/VERB down/ADP over/ADP left/ADJ foot/NOUN tie/VERB their/DET shoe/NOUN then/ADV stand/VERB up/ADP and/CCONJ cover/VERB mouth/NOUN with/ADP right/ADJ hand/NOUN#0.0#0.0

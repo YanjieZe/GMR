@@ -1,0 +1,3 @@
+a figuer appears to be washing windows#a/DET figuer/NOUN appear/VERB to/PART be/AUX wash/VERB window/NOUN#0.0#0.0
+a person uses their right arm to wipe a glass window#a/DET person/NOUN use/VERB their/DET right/ADJ arm/NOUN to/PART wipe/VERB a/DET glass/NOUN window/NOUN#0.0#0.0
+a person washes windows.#a/DET person/NOUN wash/VERB window/NOUN#0.0#0.0

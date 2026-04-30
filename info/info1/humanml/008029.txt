@@ -1,0 +1,3 @@
+the person was getting a food delivery.#the/DET person/NOUN was/AUX get/VERB a/DET food/NOUN delivery/NOUN#0.0#0.0
+a person grabbed something and used the right hand to show the jesture to someone#a/DET person/NOUN grab/VERB something/PRON and/CCONJ use/VERB the/DET right/ADJ hand/NOUN to/PART show/VERB the/DET jesture/NOUN to/ADP someone/PRON#0.0#0.0
+a person gestures good bye and then turns around.#a/DET person/NOUN gesture/VERB good/ADJ bye/INTJ and/CCONJ then/ADV turn/VERB around/ADV#0.0#0.0

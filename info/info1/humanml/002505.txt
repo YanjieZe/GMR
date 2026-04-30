@@ -1,0 +1,3 @@
+person looks like they are doing lunges and stretching to the left.#person/NOUN look/VERB like/SCONJ they/PRON are/AUX do/VERB lunge/NOUN and/CCONJ stretch/VERB to/ADP the/DET left/NOUN#1.0#2.0
+a person who looks like they are gonna throw something#a/DET person/NOUN who/PRON look/VERB like/SCONJ they/PRON are/AUX go/VERB na/PART throw/VERB something/PRON#0.0#0.0
+a person pretends to lift a heavy object to the side from a kneeled position.#a/DET person/NOUN pretend/VERB to/PART lift/VERB a/DET heavy/ADJ object/NOUN to/ADP the/DET side/NOUN from/ADP a/DET kneeled/ADJ position/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+s person is taking something off the shelf#s/PROPN person/NOUN is/AUX take/VERB something/PRON off/ADP the/DET shelf/NOUN#0.0#0.0
+a person is waving their arms up and down.#a/DET person/NOUN is/AUX wave/VERB their/DET arm/NOUN up/ADV and/CCONJ down/ADV#0.0#0.0
+a man raises his right arm, lowers it and then raises his left.#a/DET man/NOUN raise/VERB his/DET right/ADJ arm/NOUN lower/VERB it/PRON and/CCONJ then/ADV raise/VERB his/DET left/NOUN#0.0#0.0

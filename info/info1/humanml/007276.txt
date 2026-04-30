@@ -1,0 +1,3 @@
+a person crosses and uncrosses hands while swiveling legs and torso.#a/DET person/NOUN cross/VERB and/CCONJ uncross/VERB hand/NOUN while/SCONJ swivel/VERB leg/NOUN and/CCONJ torso/VERB#0.0#0.0
+person is performing some kind of dance#person/NOUN is/AUX perform/VERB some/DET kind/NOUN of/ADP dance/NOUN#0.0#0.0
+a person is rotating his ankles as well as his wrists#a/DET person/NOUN is/AUX rotate/VERB his/DET ankle/NOUN as/ADV well/ADV as/SCONJ his/DET wrist/NOUN#0.0#0.0

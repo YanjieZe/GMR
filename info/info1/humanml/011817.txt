@@ -1,0 +1,2 @@
+the man walks slowly from one side to the other in a diagonal fashion.  he stops, turns around, and walks half way back.#the/DET man/NOUN walk/VERB slowly/ADV from/ADP one/NUM side/NOUN to/ADP the/DET other/ADJ in/ADP a/DET diagonal/ADJ fashion/NOUN he/PRON stop/VERB turn/VERB around/ADV and/CCONJ walk/VERB half/ADJ way/ADV back/ADV#0.0#0.0
+a person walks forward slowly, turns around, and then walks back.#a/DET person/NOUN walk/VERB forward/ADV slowly/ADV turn/VERB around/ADV and/CCONJ then/ADV walk/VERB back/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person put his hand to uis face to yell#a/DET person/NOUN put/VERB his/DET hand/NOUN to/ADP uis/PROPN face/NOUN to/PART yell/PROPN#0.0#0.0
+a man is standing and brings both hands to his face as if he is guarding his face.#a/DET man/NOUN is/AUX stand/VERB and/CCONJ bring/VERB both/DET hand/NOUN to/ADP his/DET face/NOUN as/SCONJ if/SCONJ he/PRON is/AUX guard/VERB his/DET face/NOUN#0.0#0.0
+a man bends his arms and raises his hands towards the region of his eyes.#a/DET man/NOUN bend/VERB his/DET arm/NOUN and/CCONJ raise/VERB his/DET hand/NOUN towards/ADP the/DET region/NOUN of/ADP his/DET eye/NOUN#0.0#0.0

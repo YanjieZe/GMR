@@ -1,0 +1,3 @@
+a person raised the right hand while balancing#a/DET person/NOUN raise/VERB the/DET right/ADJ hand/NOUN while/SCONJ balance/VERB#0.0#0.0
+the person is trying to keep his balance.#the/DET person/NOUN is/AUX try/VERB to/PART keep/VERB his/DET balance/NOUN#0.0#0.0
+a person balances on the left leg and makes wide circles with the right leg.#a/DET person/NOUN balance/VERB on/ADP the/DET left/ADJ leg/NOUN and/CCONJ make/VERB wide/ADJ circle/NOUN with/ADP the/DET right/ADJ leg/NOUN#0.0#0.0

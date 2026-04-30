@@ -1,0 +1,3 @@
+a figure throws with their right hand then catches#a/DET figure/NOUN throw/VERB with/ADP their/DET right/ADJ hand/NOUN then/ADV catch/VERB#0.0#0.0
+a person throws something with their right hand.#a/DET person/NOUN throw/VERB something/PRON with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+person is playing catch with someone#person/NOUN is/AUX play/VERB catch/NOUN with/ADP someone/PRON#0.0#0.0

@@ -1,0 +1,3 @@
+a person stretches both arms above their head#a/DET person/NOUN stretch/VERB both/DET arm/NOUN above/ADP their/DET head/NOUN#0.0#0.0
+a person raises both hands above their head, then lowers them to starting position.#a/DET person/NOUN raise/VERB both/DET hand/NOUN above/ADP their/DET head/NOUN then/ADV lower/VERB them/PRON to/ADP start/VERB position/NOUN#0.0#0.0
+person reaches straight into the air, then puts arms back to their sides.#person/NOUN reach/VERB straight/ADV into/ADP the/DET air/NOUN then/ADV put/VERB arm/NOUN back/ADV to/ADP their/DET side/NOUN#0.0#0.0

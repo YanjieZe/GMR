@@ -1,0 +1,3 @@
+a person twists to the right, then steps backward to the left, and sits down.#a/DET person/NOUN twist/VERB to/ADP the/DET right/NOUN then/ADV step/VERB backward/ADV to/ADP the/DET left/NOUN and/CCONJ sit/VERB down/ADP#0.0#0.0
+a person looks around, takes a seat in a chair and then stands up.#a/DET person/NOUN look/VERB around/ADV take/VERB a/DET seat/NOUN in/ADP a/DET chair/NOUN and/CCONJ then/ADV stand/VERB up/ADP#0.0#0.0
+a person steps back and sits down on something, then stands back up and steps forward.#a/DET person/NOUN step/VERB back/ADP and/CCONJ sit/VERB down/ADP on/ADP something/PRON then/ADV stand/VERB back/ADV up/ADV and/CCONJ step/VERB forward/ADV#0.0#0.0

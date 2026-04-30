@@ -1,0 +1,3 @@
+a man sprints forwards, stumbles with his arms placed wide, and then takes a seated position whilst looking over his right shoulder.#a/DET man/NOUN sprint/NOUN forwards/ADV stumble/NOUN with/ADP his/DET arm/NOUN place/VERB wide/ADV and/CCONJ then/ADV take/VERB a/DET seated/ADJ position/NOUN whilst/SCONJ look/VERB over/ADP his/DET right/ADJ shoulder/NOUN#0.0#0.0
+a person runs to get the only remaining seat.#a/DET person/NOUN run/VERB to/PART get/AUX the/DET only/ADV remain/VERB seat/NOUN#0.0#0.0
+a person hurriedly throws themselves into a chair#a/DET person/NOUN hurriedly/ADV throw/VERB themselves/PRON into/ADP a/DET chair/NOUN#0.0#0.0

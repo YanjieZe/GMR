@@ -1,0 +1,3 @@
+subject starts facing forward then turns 180 degrees by pivoting on his left foot and slowly moving in a clockwise rotation#subject/ADJ start/VERB face/VERB forward/ADV then/ADV turn/VERB degree/NOUN by/ADP pivot/VERB on/ADP his/DET left/ADJ foot/NOUN and/CCONJ slowly/ADV move/VERB in/ADP a/DET clockwise/NOUN rotation/NOUN#0.0#0.0
+a person slowly rotates their stance counter clockwise#a/DET person/NOUN slowly/ADV rotate/VERB their/DET stance/NOUN counter/NOUN clockwise/NOUN#0.0#0.0
+a person is looking up around them.#a/DET person/NOUN is/AUX look/VERB up/ADP around/ADP them/PRON#0.0#0.0

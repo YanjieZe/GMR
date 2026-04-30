@@ -1,0 +1,3 @@
+a person walks in a s shape#a/DET person/NOUN walk/VERB in/ADP a/DET s/PROPN shape/NOUN#0.0#0.0
+a person walks in a wide winding path, creating large semicircular loops.#a/DET person/NOUN walk/VERB in/ADP a/DET wide/ADJ winding/NOUN path/NOUN create/VERB large/ADJ semicircular/ADJ loop/NOUN#0.0#0.0
+person walking in an s shape#person/NOUN walk/VERB in/ADP an/DET s/PROPN shape/NOUN#0.0#0.0

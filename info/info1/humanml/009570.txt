@@ -1,0 +1,3 @@
+the person was picking something very large up and tilting it.#the/DET person/NOUN was/AUX pick/VERB something/PRON very/ADV large/ADJ up/ADP and/CCONJ tilt/VERB it/PRON#0.0#0.0
+a person is lifting something very heavy.#a/DET person/NOUN is/AUX lift/VERB something/PRON very/ADV heavy/ADJ#0.0#0.0
+this person lifts as if the item is very heavy.#this/DET person/NOUN lift/VERB as/SCONJ if/SCONJ the/DET item/NOUN is/AUX very/ADV heavy/ADJ#0.0#0.0

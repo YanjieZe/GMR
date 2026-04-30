@@ -1,0 +1,3 @@
+a person who is running takes two strides, stops, resumes running and takes another stride.#a/DET person/NOUN who/PRON is/AUX run/VERB take/VERB two/NUM stride/NOUN stop/NOUN resume/VERB run/VERB and/CCONJ take/VERB another/DET stride/NOUN#0.0#0.0
+the man jogs then stands then jogs again#the/DET man/NOUN jog/VERB then/ADV stand/VERB then/ADV jog/VERB again/ADV#0.0#0.0
+a person jogs a few steps, stops, and then jogs some more.#a/DET person/NOUN jog/VERB a/DET few/ADJ step/NOUN stop/VERB and/CCONJ then/ADV jog/VERB some/DET more/ADV#0.0#0.0

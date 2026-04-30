@@ -1,0 +1,3 @@
+a person holds up both arms, puts them down, then gets onto all fours and rises to their knees#a/DET person/NOUN hold/VERB up/ADP both/DET arm/NOUN put/VERB them/PRON down/ADP then/ADV get/VERB onto/ADP all/DET four/NOUN and/CCONJ rise/VERB to/ADP their/DET knee/NOUN#0.0#0.0
+a man raises both arms, then kneels down.#a/DET man/NOUN raise/VERB both/DET arm/NOUN then/ADV kneel/VERB down/ADP#0.0#6.0
+person looks to be getting down on their knees ready for a race#person/NOUN look/VERB to/PART be/AUX get/VERB down/ADP on/ADP their/DET knee/NOUN ready/ADJ for/ADP a/DET race/NOUN#0.0#0.0

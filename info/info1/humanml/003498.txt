@@ -1,0 +1,3 @@
+a person appears to be sitting and driving a car.#a/DET person/NOUN appear/VERB to/PART be/AUX sit/VERB and/CCONJ drive/VERB a/DET car/NOUN#0.0#0.0
+man sits moving, arms, hands, legs, and feet.#man/NOUN sit/VERB move/VERB arm/NOUN hand/NOUN leg/NOUN and/CCONJ foot/NOUN#2.0#2.0
+a person sitting on the ground turns a steering wheel#a/DET person/NOUN sit/VERB on/ADP the/DET ground/NOUN turn/VERB a/DET steering/NOUN wheel/NOUN#0.0#0.0

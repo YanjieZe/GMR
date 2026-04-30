@@ -1,0 +1,2 @@
+a person walks forward carrying something.#a/DET person/NOUN walk/VERB forward/ADV carry/VERB something/PRON#0.0#0.0
+a woman walks at a steady pace while holding something with both hands facing up.#a/DET woman/NOUN walk/VERB at/ADP a/DET steady/ADJ pace/NOUN while/SCONJ hold/VERB something/PRON with/ADP both/DET hand/NOUN face/VERB up/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person is shaking his body#a/DET person/NOUN is/AUX shake/VERB his/DET body/NOUN#2.0#5.0
+a person puts out their spout. their body shakes and then tips to the right side as if pouring something out.#a/DET person/NOUN put/VERB out/ADP their/DET spout/NOUN their/DET body/NOUN shake/VERB and/CCONJ then/ADV tip/VERB to/ADP the/DET right/ADJ side/NOUN as/SCONJ if/SCONJ pour/VERB something/PRON out/ADP#0.0#0.0
+this person is motioning hands as if to talk to someone.#this/DET person/NOUN is/AUX motion/VERB hand/NOUN as/SCONJ if/SCONJ to/PART talk/VERB to/ADP someone/PRON#0.0#0.0

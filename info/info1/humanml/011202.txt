@@ -1,0 +1,3 @@
+person is doing cross legged posing#person/NOUN is/AUX do/VERB cross/NOUN legged/ADJ posing/NOUN#0.0#0.0
+the person is doing a standup leg crossover position.#the/DET person/NOUN is/AUX do/VERB a/DET standup/NOUN leg/NOUN crossover/NOUN position/NOUN#0.0#0.0
+a figure moves daintily toe to toe#a/DET figure/NOUN move/VERB daintily/ADV toe/NOUN to/ADP toe/NOUN#0.0#0.0

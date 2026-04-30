@@ -1,0 +1,3 @@
+a person raises their right hand above their head.#a/DET person/NOUN raise/VERB their/DET right/ADJ hand/NOUN above/ADP their/DET head/NOUN#0.0#0.0
+the person stretches their right arm above their head.#the/DET person/NOUN stretch/VERB their/DET right/ADJ arm/NOUN above/ADP their/DET head/NOUN#0.0#0.0
+stick figure is holding its right rm up in the air#stick/PROPN figure/NOUN is/AUX hold/VERB its/DET right/ADJ rm/PROPN up/ADV in/ADP the/DET air/NOUN#0.0#2.0

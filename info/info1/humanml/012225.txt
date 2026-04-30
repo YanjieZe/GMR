@@ -1,0 +1,3 @@
+the person was missing something with his right hand.#the/DET person/NOUN was/AUX miss/VERB something/PRON with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+a person washes right arm.#a/DET person/NOUN wash/VERB right/ADJ arm/NOUN#0.0#0.0
+the person is moving his hands around.#the/DET person/NOUN is/AUX move/VERB his/DET hand/NOUN around/ADV#0.0#0.0

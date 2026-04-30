@@ -1,0 +1,3 @@
+the person is walking downstairs.#the/DET person/NOUN is/AUX walk/VERB downstairs/ADV#0.0#0.0
+a person who is standing with his hands by his sides walks down five steps.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP his/DET hand/NOUN by/ADP his/DET side/NOUN walk/VERB down/ADV five/NUM step/NOUN#0.0#0.0
+a person walks down stairs then stops.#a/DET person/NOUN walk/VERB down/ADP stair/NOUN then/ADV stop/VERB#0.0#0.0

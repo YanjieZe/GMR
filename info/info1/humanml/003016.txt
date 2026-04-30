@@ -1,0 +1,3 @@
+a man spins around in place.#a/DET man/NOUN spin/VERB around/ADV in/ADP place/NOUN#0.0#0.0
+a woman doing a ballerina spin.#a/DET woman/NOUN do/VERB a/DET ballerina/NOUN spin/NOUN#0.0#0.0
+the man spins in a circle on his left foot.#the/DET man/NOUN spin/VERB in/ADP a/DET circle/NOUN on/ADP his/DET left/ADJ foot/NOUN#0.0#0.0

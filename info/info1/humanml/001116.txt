@@ -1,0 +1,3 @@
+a person is throwing a ball, catches it back and then throw it again and catch it again.#a/DET person/NOUN is/AUX throw/VERB a/DET ball/NOUN catch/VERB it/PRON back/ADV and/CCONJ then/ADV throw/VERB it/PRON again/ADV and/CCONJ catch/VERB it/PRON again/ADV#0.0#0.0
+person moves forward raises right arm in a throwing position#person/NOUN move/VERB forward/ADV raise/VERB right/ADJ arm/NOUN in/ADP a/DET throwing/NOUN position/NOUN#6.0#9.0
+the person is throwing something#the/DET person/NOUN is/AUX throw/VERB something/PRON#0.0#0.0

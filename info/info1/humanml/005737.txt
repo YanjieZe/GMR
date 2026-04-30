@@ -1,0 +1,3 @@
+a person is swiftly walking forward in place.#a/DET person/NOUN is/AUX swiftly/ADV walk/VERB forward/ADV in/ADP place/NOUN#0.0#0.0
+a person is walking forward, swinging their arms.#a/DET person/NOUN is/AUX walk/VERB forward/ADV swinge/VERB their/DET arm/NOUN#0.0#0.0
+he does treadmill very fast#he/PRON does/AUX treadmill/VERB very/ADV fast/ADV#0.0#0.0

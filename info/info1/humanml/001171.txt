@@ -1,0 +1,3 @@
+the person is getting a shower and washing his right arm.#the/DET person/NOUN is/AUX get/VERB a/DET shower/NOUN and/CCONJ wash/VERB his/DET right/ADJ arm/NOUN#0.0#0.0
+a person grabbing items with left hand.#a/DET person/NOUN grab/VERB item/NOUN with/ADP left/ADJ hand/NOUN#0.0#0.0
+the man is showering his right arm#the/DET man/NOUN is/AUX shower/VERB his/DET right/ADJ arm/NOUN#0.0#0.0

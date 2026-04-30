@@ -1,0 +1,3 @@
+this person has both arms extended out to his sides and moves them is small circles.#this/DET person/NOUN has/AUX both/DET arm/NOUN extend/VERB out/ADP to/ADP his/DET side/NOUN and/CCONJ move/VERB them/PRON is/AUX small/ADJ circle/NOUN#0.0#0.0
+a person raised the both hands#a/DET person/NOUN raise/VERB the/DET both/DET hand/NOUN#0.0#0.0
+the person is standing with their arms out twisiting their wrists#the/DET person/NOUN is/AUX stand/VERB with/ADP their/DET arm/NOUN out/ADV twisite/VERB their/DET wrist/NOUN#0.0#0.0

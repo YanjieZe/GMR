@@ -1,0 +1,3 @@
+a man is holding both hands at eye level in a boxing motion while he advances to someone or something in a straight line.#a/DET man/NOUN is/AUX hold/VERB both/DET hand/NOUN at/ADP eye/NOUN level/NOUN in/ADP a/DET boxing/NOUN motion/NOUN while/SCONJ he/PRON advance/VERB to/ADP someone/PRON or/CCONJ something/PRON in/ADP a/DET straight/ADJ line/NOUN#0.0#0.0
+a man is in motion#a/DET man/NOUN is/AUX in/ADP motion/NOUN#0.0#0.0
+person is in a defensive posture moving horizontal sliding feet among the floor#person/NOUN is/AUX in/ADP a/DET defensive/ADJ posture/NOUN move/VERB horizontal/ADJ slide/VERB foot/NOUN among/ADP the/DET floor/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+the person lowers their arms and raises them back up.#the/DET person/NOUN lower/VERB their/DET arm/NOUN and/CCONJ raise/VERB them/PRON back/ADV up/ADP#0.0#0.0
+person holds arms out then down then out again.#person/NOUN hold/VERB arm/NOUN out/ADV then/ADV down/ADV then/ADV out/ADV again/ADV#0.0#0.0
+the person is fixated in a squatting position, and raises their arms up twice and holds them there.#the/DET person/NOUN is/AUX fixate/VERB in/ADP a/DET squat/VERB position/NOUN and/CCONJ raise/VERB their/DET arm/NOUN up/ADV twice/ADV and/CCONJ hold/VERB them/PRON there/ADV#0.0#0.0

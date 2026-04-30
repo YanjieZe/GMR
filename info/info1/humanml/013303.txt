@@ -1,0 +1,3 @@
+the person is doing a quick punch kick.#the/DET person/NOUN is/AUX do/VERB a/DET quick/ADJ punch/NOUN kick/NOUN#0.0#0.0
+person widely punches forward with their right arm while simultaneously kicking forward with their left leg before standing still#person/NOUN widely/ADV punch/VERB forward/ADV with/ADP their/DET right/ADJ arm/NOUN while/SCONJ simultaneously/ADV kick/VERB forward/ADV with/ADP their/DET left/ADJ leg/NOUN before/ADP stand/VERB still/ADV#0.0#0.0
+a person violently thrashes their right arm in the air, then their left arm while kicking with their left leg.#a/DET person/NOUN violently/ADV thrash/VERB their/DET right/ADJ arm/NOUN in/ADP the/DET air/NOUN then/ADV their/DET left/ADJ arm/NOUN while/SCONJ kick/VERB with/ADP their/DET left/ADJ leg/NOUN#0.0#0.0

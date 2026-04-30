@@ -1,0 +1,3 @@
+a person is standing, before stepping twice onto a plane with their left leg, shuffling, stepping down onto a plane, shuffling, then stepping over an object.#a/DET person/NOUN is/AUX stand/VERB before/ADP step/VERB twice/ADV onto/ADP a/DET plane/NOUN with/ADP their/DET left/ADJ leg/NOUN shuffling/NOUN step/VERB down/ADP onto/ADP a/DET plane/NOUN shuffling/NOUN then/ADV step/VERB over/ADP an/DET object/NOUN#0.0#10.0
+a person is walking over things.#a/DET person/NOUN is/AUX walk/VERB over/ADP thing/NOUN#0.0#0.0
+a person climbs two steps, turns, steps down one stair, turns and steps over an obstacle.#a/DET person/NOUN climb/VERB two/NUM step/NOUN turn/NOUN step/VERB down/ADV one/NUM stair/NOUN turn/VERB and/CCONJ step/VERB over/ADP an/DET obstacle/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person stands still with their legs slightly bent.#a/DET person/NOUN stand/VERB still/ADV with/ADP their/DET leg/NOUN slightly/ADV bent/ADJ#0.0#7.0
+person has arms out at side, lowers, them, then puts them back#person/NOUN has/AUX arm/NOUN out/ADV at/ADP side/NOUN lower/NOUN them/PRON then/ADV put/VERB them/PRON back/ADV#0.0#0.0
+a person lowers his arms, jiggles shoulders slightly and then raises arms.#a/DET person/NOUN lower/VERB his/DET arm/NOUN jiggle/NOUN shoulder/NOUN slightly/ADV and/CCONJ then/ADV raise/VERB arm/NOUN#0.0#0.0

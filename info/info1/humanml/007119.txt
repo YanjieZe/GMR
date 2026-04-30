@@ -1,0 +1,3 @@
+crawling forward and back.#crawl/VERB forward/ADV and/CCONJ back/ADV#0.0#0.0
+band on the floor and  move forward  and  backward  create some thing like a draw.#band/NOUN on/ADP the/DET floor/NOUN and/CCONJ move/VERB forward/ADV and/CCONJ backward/ADJ create/VERB some/DET thing/NOUN like/SCONJ a/DET draw/NOUN#0.0#0.0
+a person gets on all fours and crawls around.#a/DET person/NOUN get/VERB on/ADP all/DET four/NOUN and/CCONJ crawl/VERB around/ADV#0.0#0.0

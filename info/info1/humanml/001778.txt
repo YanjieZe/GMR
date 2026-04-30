@@ -1,0 +1,3 @@
+a person hops up and down a couple times while swinging their arms back and forth#a/DET person/NOUN hop/VERB up/ADV and/CCONJ down/ADP a/DET couple/NOUN time/NOUN while/SCONJ swinge/VERB their/DET arm/NOUN back/ADV and/CCONJ forth/ADV#0.0#0.0
+a figure takes a slight hop before swingin both arms toward its back#a/DET figure/NOUN take/VERB a/DET slight/ADJ hop/NOUN before/ADP swingin/VERB both/DET arm/NOUN toward/ADP its/DET back/NOUN#0.0#0.0
+a person jumping up and down and waving their arms.#a/DET person/NOUN jump/VERB up/ADP and/CCONJ down/ADV and/CCONJ wave/VERB their/DET arm/NOUN#0.0#0.0

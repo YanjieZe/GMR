@@ -1,0 +1,3 @@
+a person bends forward, as if nodding their head.#a/DET person/NOUN bend/VERB forward/ADV as/SCONJ if/SCONJ nod/VERB their/DET head/NOUN#0.0#0.0
+man bending forward in frontward position.#man/NOUN bend/VERB forward/ADV in/ADP frontward/ADJ position/NOUN#0.0#0.0
+a person bows slightly, bending at the torso.#a/DET person/NOUN bow/VERB slightly/ADV bend/VERB at/ADP the/DET torso/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+he runs forward directly then stops#he/PRON run/VERB forward/ADV directly/ADV then/ADV stop/VERB#0.0#0.0
+a person runs forward fast#a/DET person/NOUN run/VERB forward/ADV fast/ADV#0.0#0.0
+a person is jogging at a brisk pace.#a/DET person/NOUN is/AUX jog/VERB at/ADP a/DET brisk/ADJ pace/NOUN#0.0#0.0

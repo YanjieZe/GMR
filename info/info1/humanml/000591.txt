@@ -1,0 +1,3 @@
+a person squats, pantamimes a lifting motion.. elbows bent and arms extended, swinging his hips side to side#a/DET person/NOUN squat/VERB pantamime/VERB a/DET lift/VERB motion/NOUN elbow/NOUN bent/ADJ and/CCONJ arm/NOUN extend/VERB swinge/VERB his/DET hip/NOUN side/NOUN to/PART side/VERB#0.0#0.0
+a person looking down, searching around the floor.#a/DET person/NOUN look/VERB down/ADV search/VERB around/ADP the/DET floor/NOUN#0.0#0.0
+a man bends down and looks back and forth from right to left.#a/DET man/NOUN bend/VERB down/ADP and/CCONJ look/VERB back/ADV and/CCONJ forth/ADV from/ADP right/NOUN to/ADP left/NOUN#1.0#10.0

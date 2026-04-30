@@ -1,0 +1,3 @@
+a person is throwing a basketball with both hands.#a/DET person/NOUN is/AUX throw/VERB a/DET basketball/NOUN with/ADP both/DET hand/NOUN#0.0#0.0
+a person who is standing with his hands above his head, bends his legs at his knees, jumps up and throws his hands high in the air.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP his/DET hand/NOUN above/ADP his/DET head/NOUN bend/VERB his/DET leg/NOUN at/ADP his/DET knee/NOUN jump/VERB up/ADV and/CCONJ throw/VERB his/DET hand/NOUN high/ADJ in/ADP the/DET air/NOUN#0.0#0.0
+shooting a basketball while standing.#shoot/VERB a/DET basketball/NOUN while/SCONJ stand/VERB#0.0#0.0

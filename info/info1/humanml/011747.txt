@@ -1,0 +1,3 @@
+the man lays down on the ground and swim.#the/DET man/NOUN lay/VERB down/ADP on/ADP the/DET ground/NOUN and/CCONJ swim/NOUN#0.0#0.0
+the person gets on the floor and does swimming movements#the/DET person/NOUN get/VERB on/ADP the/DET floor/NOUN and/CCONJ does/AUX swimming/NOUN movement/NOUN#0.0#0.0
+a person moves his arms and legs in and out, identical to swimming.#a/DET person/NOUN move/VERB his/DET arm/NOUN and/CCONJ leg/NOUN in/ADP and/CCONJ out/ADV identical/ADJ to/ADP swimming/NOUN#7.0#9.0

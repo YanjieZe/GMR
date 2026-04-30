@@ -1,0 +1,3 @@
+a person walks forward and to the right in a quarter circle#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ to/ADP the/DET right/NOUN in/ADP a/DET quarter/NOUN circle/NOUN#0.0#0.0
+a person walks a path that bends to the right.#a/DET person/NOUN walk/VERB a/DET path/NOUN that/DET bend/VERB to/ADP the/DET right/NOUN#0.0#0.0
+a person with his hands at his sides takes four steps forward as he moves to his right.#a/DET person/NOUN with/ADP his/DET hand/NOUN at/ADP his/DET side/NOUN take/VERB four/NUM step/NOUN forward/ADV as/SCONJ he/PRON move/VERB to/ADP his/DET right/NOUN#0.0#0.0

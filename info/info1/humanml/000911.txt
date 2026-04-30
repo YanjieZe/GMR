@@ -1,0 +1,3 @@
+the person is jumping and spinning.#the/DET person/NOUN is/AUX jump/VERB and/CCONJ spin/VERB#0.0#0.0
+he does a airkick in the air#he/PRON does/AUX a/DET airkick/NOUN in/ADP the/DET air/NOUN#0.0#0.0
+a person kicks their leg in the air then jumps into a spin#a/DET person/NOUN kick/VERB their/DET leg/NOUN in/ADP the/DET air/NOUN then/ADV jump/VERB into/ADP a/DET spin/NOUN#0.0#0.0

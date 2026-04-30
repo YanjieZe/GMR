@@ -1,0 +1,3 @@
+a person stands up while raising their arms.#a/DET person/NOUN stand/VERB up/ADP while/SCONJ raise/VERB their/DET arm/NOUN#0.0#0.0
+moving arms up and down.#move/VERB arm/NOUN up/ADV and/CCONJ down/ADV#0.0#0.0
+a person is squatting and stands up with both hands in the air.#a/DET person/NOUN is/AUX squat/VERB and/CCONJ stand/VERB up/ADP with/ADP both/DET hand/NOUN in/ADP the/DET air/NOUN#0.0#0.0

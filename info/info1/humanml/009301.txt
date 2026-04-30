@@ -1,0 +1,3 @@
+a person raises his arm and wiggles his elbow twice before taking two steps back.#a/DET person/NOUN raise/VERB his/DET arm/NOUN and/CCONJ wiggle/VERB his/DET elbow/NOUN twice/ADV before/ADP take/VERB two/NUM step/NOUN back/ADV#0.0#0.0
+a person moves his right hand as if shaking a salt shaker then takes a few steps backward.#a/DET person/NOUN move/VERB his/DET right/ADJ hand/NOUN as/SCONJ if/SCONJ shake/VERB a/DET salt/NOUN shaker/NOUN then/ADV take/VERB a/DET few/ADJ step/NOUN backward/ADV#0.0#0.0
+a person is swiping his right arm, then walks back#a/DET person/NOUN is/AUX swipe/VERB his/DET right/ADJ arm/NOUN then/ADV walk/VERB back/ADV#0.0#0.0

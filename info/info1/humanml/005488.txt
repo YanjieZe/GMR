@@ -1,0 +1,3 @@
+the person is doing body stretches.#the/DET person/NOUN is/AUX do/VERB body/NOUN stretch/NOUN#0.0#0.0
+a person stands with elbows bent and arms at shoulder height, bends backwards at the waist slightly then touches the ground with hands several times.#a/DET person/NOUN stand/VERB with/ADP elbow/NOUN bent/ADJ and/CCONJ arm/NOUN at/ADP shoulder/NOUN height/NOUN bend/VERB backwards/ADV at/ADP the/DET waist/NOUN slightly/ADV then/ADV touch/VERB the/DET ground/NOUN with/ADP hand/NOUN several/ADJ time/NOUN#0.0#0.0
+a person raised the hands and bend the body#a/DET person/NOUN raise/VERB the/DET hand/NOUN and/CCONJ bend/VERB the/DET body/NOUN#0.0#0.0

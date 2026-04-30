@@ -1,0 +1,3 @@
+a person walking and turns left.#a/DET person/NOUN walk/VERB and/CCONJ turn/VERB left/VERB#0.0#0.0
+a person walks forward in a left curve.#a/DET person/NOUN walk/VERB forward/ADV in/ADP a/DET left/ADJ curve/NOUN#0.0#0.0
+a person walks in a curved motion to the front right side of the square.#a/DET person/NOUN walk/VERB in/ADP a/DET curved/ADJ motion/NOUN to/ADP the/DET front/ADJ right/ADJ side/NOUN of/ADP the/DET square/NOUN#0.0#0.0

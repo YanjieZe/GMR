@@ -1,0 +1,3 @@
+a person punches out with each hand.#a/DET person/NOUN punch/VERB out/ADP with/ADP each/DET hand/NOUN#0.0#0.0
+a person throws an overhand right , left-hook, combination punch.#a/DET person/NOUN throw/VERB an/DET overhand/NOUN right/NOUN lefthook/NOUN combination/NOUN punch/NOUN#0.0#0.0
+she was boxing with her right arm#she/PRON was/AUX box/VERB with/ADP her/DET right/ADJ arm/NOUN#0.0#0.0

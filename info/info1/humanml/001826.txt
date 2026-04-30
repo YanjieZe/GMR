@@ -1,0 +1,3 @@
+a person is standing looking around.#a/DET person/NOUN is/AUX stand/VERB look/VERB around/ADV#0.0#0.0
+broad shoulders like a scarecrow#broad/ADJ shoulder/NOUN like/SCONJ a/DET scarecrow/NOUN#0.0#0.0
+a person stands with shoulders up and slowly sways to the left.#a/DET person/NOUN stand/VERB with/ADP shoulder/NOUN up/ADP and/CCONJ slowly/ADV sway/VERB to/ADP the/DET left/NOUN#1.0#10.0

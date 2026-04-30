@@ -1,0 +1,3 @@
+a man crosses his arms and then lowers them.#a/DET man/NOUN cross/VERB his/DET arm/NOUN and/CCONJ then/ADV lower/VERB them/PRON#0.0#0.0
+a person folding both arms together#a/DET person/NOUN fold/VERB both/DET arm/NOUN together/ADV#0.0#0.0
+someone crosses his hands for a second and then puts them back down#someone/PRON cross/VERB his/DET hand/NOUN for/ADP a/DET second/NOUN and/CCONJ then/ADV put/VERB them/PRON back/ADV down/ADP#0.0#0.0

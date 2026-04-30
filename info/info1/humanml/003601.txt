@@ -1,0 +1,3 @@
+he lifts left foot and swings it sideways#he/PRON lift/VERB left/VERB foot/NOUN and/CCONJ swing/VERB it/PRON sideways/ADV#0.0#0.0
+this person gently lifts and kicks with the left leg.#this/DET person/NOUN gently/ADV lift/VERB and/CCONJ kick/NOUN with/ADP the/DET left/ADJ leg/NOUN#0.0#0.0
+standing person with slightly outstretched arms balances on right leg while doing ballet moves with left leg.#stand/VERB person/NOUN with/ADP slightly/ADV outstretche/VERB arm/NOUN balance/NOUN on/ADP right/ADJ leg/NOUN while/SCONJ do/VERB ballet/NOUN move/NOUN with/ADP left/ADJ leg/NOUN#0.0#0.0

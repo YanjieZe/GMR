@@ -1,0 +1,3 @@
+a person pushing something with his left shoulder while stepping forward.#a/DET person/NOUN push/VERB something/PRON with/ADP his/DET left/ADJ shoulder/NOUN while/SCONJ step/VERB forward/ADV#0.0#0.0
+a standing person drunkenly stumbles forward a half step..#a/DET stand/VERB person/NOUN drunkenly/ADV stumble/NOUN forward/ADV a/DET half/ADJ step/NOUN#0.0#0.0
+a person stands briefy, then takes one step forward.#a/DET person/NOUN stand/VERB briefy/PROPN then/ADV take/VERB one/NUM step/NOUN forward/ADV#0.0#0.0

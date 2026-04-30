@@ -1,0 +1,3 @@
+a person claps their hands in front of them, drops them, then repeats.#a/DET person/NOUN clap/VERB their/DET hand/NOUN in/ADP front/NOUN of/ADP them/PRON drop/VERB them/PRON then/ADV repeat/VERB#0.0#0.0
+a person is claps in 3 different ways.#a/DET person/NOUN is/AUX clap/NOUN in/ADP different/ADJ way/NOUN#0.0#0.0
+person claps hands, lowers arms and raises them to clap again, lowers arms, but only slightly raises them to clap a third time.#person/NOUN claps/PROPN hand/NOUN lower/VERB arm/NOUN and/CCONJ raise/VERB them/PRON to/PART clap/VERB again/ADV lower/VERB arm/NOUN but/CCONJ only/ADV slightly/ADV raise/VERB them/PRON to/PART clap/VERB a/DET third/ADJ time/NOUN#0.0#0.0

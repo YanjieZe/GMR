@@ -1,0 +1,3 @@
+a squatting person puts something up to their head.#a/DET squat/VERB person/NOUN put/VERB something/PRON up/ADP to/ADP their/DET head/NOUN#0.0#0.0
+a person squats while quickly moving their hands back and fourth held up at shoulder height.#a/DET person/NOUN squat/VERB while/SCONJ quickly/ADV move/VERB their/DET hand/NOUN back/ADV and/CCONJ fourth/ADV hold/VERB up/ADP at/ADP shoulder/NOUN height/NOUN#0.0#0.0
+a person is crouching, puts their right hand up to their face, and jostles their hand near their mouth.#a/DET person/NOUN is/AUX crouch/VERB put/VERB their/DET right/ADJ hand/NOUN up/ADP to/ADP their/DET face/NOUN and/CCONJ jostle/VERB their/DET hand/NOUN near/SCONJ their/DET mouth/NOUN#0.0#0.0

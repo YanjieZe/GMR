@@ -1,0 +1,3 @@
+person walks forward and moves their right hand across them, then steps back#person/NOUN walk/VERB forward/ADV and/CCONJ move/VERB their/DET right/ADJ hand/NOUN across/ADP them/PRON then/ADV step/VERB back/ADV#0.0#0.0
+a person walks forward and hands come close together, right hand then moves slightly away, before person steps back.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ hand/NOUN come/VERB close/ADV together/ADV right/ADJ hand/NOUN then/ADV move/VERB slightly/ADV away/ADV before/ADP person/NOUN step/VERB back/ADV#0.0#0.0
+a person steps forward, slides something to the right, and steps back again.#a/DET person/NOUN step/VERB forward/ADV slide/VERB something/PRON to/ADP the/DET right/NOUN and/CCONJ step/VERB back/ADV again/ADV#0.0#0.0

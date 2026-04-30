@@ -1,0 +1,3 @@
+a person sits in a  chair then stands back up.#a/DET person/NOUN sit/VERB in/ADP a/DET chair/NOUN then/ADV stand/VERB back/ADV up/ADV#0.0#0.0
+a person takes a step back, sits down and raises shoulders#a/DET person/NOUN take/VERB a/DET step/NOUN back/ADV sit/VERB down/ADP and/CCONJ raise/VERB shoulder/NOUN#0.0#0.0
+a person backs up and sits in a chair with their arms at their sides and then gets up from the chair#a/DET person/NOUN back/VERB up/ADP and/CCONJ sit/VERB in/ADP a/DET chair/NOUN with/ADP their/DET arm/NOUN at/ADP their/DET side/NOUN and/CCONJ then/ADV get/VERB up/ADP from/ADP the/DET chair/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+stick figure turns counter clock ways for half a circle, then back clock ways#stick/PROPN figure/NOUN turn/VERB counter/NOUN clock/NOUN way/NOUN for/ADP half/DET a/DET circle/NOUN then/ADV back/ADV clock/NOUN way/NOUN#0.0#0.0
+a man slowly turns left and then turns right.#a/DET man/NOUN slowly/ADV turn/VERB left/VERB and/CCONJ then/ADV turn/VERB right/ADJ#0.0#0.0
+starting forward, a person uses their feet to walk around in a circular motion and around to end up across from where they started.#start/VERB forward/ADV a/DET person/NOUN use/VERB their/DET foot/NOUN to/PART walk/VERB around/ADV in/ADP a/DET circular/ADJ motion/NOUN and/CCONJ around/ADV to/PART end/VERB up/ADP across/ADP from/ADP where/ADV they/PRON start/VERB#5.0#7.0

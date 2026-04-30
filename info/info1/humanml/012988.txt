@@ -1,0 +1,3 @@
+the man is doing floss dance#the/DET man/NOUN is/AUX do/VERB floss/NOUN dance/PROPN#0.0#0.0
+person is doing a dance#person/NOUN is/AUX do/VERB a/DET dance/NOUN#0.0#0.0
+the figure person is happily doing the dance move called the "floss".#the/DET figure/NOUN person/NOUN is/AUX happily/ADV do/VERB the/DET dance/NOUN move/NOUN call/VERB the/DET floss/NOUN#0.0#0.0

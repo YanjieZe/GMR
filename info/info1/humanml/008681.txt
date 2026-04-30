@@ -1,0 +1,3 @@
+a man walk and make a right turn.#a/DET man/NOUN walk/NOUN and/CCONJ make/VERB a/DET right/ADJ turn/NOUN#0.0#0.0
+a figure walks forward and turns to the right#a/DET figure/NOUN walk/VERB forward/ADV and/CCONJ turn/VERB to/ADP the/DET right/NOUN#0.0#0.0
+a person walked forward in right direction#a/DET person/NOUN walk/VERB forward/ADV in/ADP right/ADJ direction/NOUN#0.0#0.0

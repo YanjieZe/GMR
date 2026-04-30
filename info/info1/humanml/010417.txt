@@ -1,0 +1,3 @@
+a person walks forwards, which looks like they are walking on an incline.#a/DET person/NOUN walk/VERB forwards/ADV which/DET look/VERB like/SCONJ they/PRON are/AUX walk/VERB on/ADP an/DET incline/NOUN#0.0#6.0
+this person is walking over something.#this/DET person/NOUN is/AUX walk/VERB over/ADP something/PRON#0.0#0.0
+a person steps up, takes three steps forward and steps down.#a/DET person/NOUN step/VERB up/ADP take/VERB three/NUM step/NOUN forward/ADV and/CCONJ step/VERB down/ADP#0.0#0.0

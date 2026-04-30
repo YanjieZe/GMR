@@ -1,0 +1,3 @@
+a person kicks alternating legs#a/DET person/NOUN kick/VERB alternate/VERB leg/NOUN#0.0#0.0
+he kicks high in the air#he/PRON kick/VERB high/ADV in/ADP the/DET air/NOUN#0.0#0.0
+a person walks forward and aggressively kicks out with the right foot twice. steps back and steps forward again and kicks twice with the left foot twice. steps out and kicks out again with the left foot once#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ aggressively/ADV kick/VERB out/ADP with/ADP the/DET right/ADJ foot/NOUN twice/ADV step/VERB back/ADV and/CCONJ step/VERB forward/ADV again/ADV and/CCONJ kick/VERB twice/ADV with/ADP the/DET left/ADJ foot/NOUN twice/ADV step/VERB out/ADP and/CCONJ kick/VERB out/ADP again/ADV with/ADP the/DET left/ADJ foot/NOUN once/ADV#0.0#0.0

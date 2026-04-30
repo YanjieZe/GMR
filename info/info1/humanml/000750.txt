@@ -1,0 +1,3 @@
+a man postures his arms like holding a dance partner and dances the waltz from the left hand side to the right hand side.#a/DET man/NOUN posture/VERB his/DET arm/NOUN like/SCONJ hold/VERB a/DET dance/NOUN partner/NOUN and/CCONJ dance/VERB the/DET waltz/NOUN from/ADP the/DET left/ADJ hand/NOUN side/NOUN to/ADP the/DET right/ADJ hand/NOUN side/NOUN#0.0#0.0
+a person dances the cha cha cha.#a/DET person/NOUN dance/VERB the/DET cha/PROPN cha/PROPN cha/PROPN#0.0#0.0
+a person is dancing, holding an invisible partner, moving from one side to another.#a/DET person/NOUN is/AUX dance/VERB hold/VERB an/DET invisible/ADJ partner/NOUN move/VERB from/ADP one/NUM side/NOUN to/ADP another/DET#0.0#0.0

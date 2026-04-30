@@ -1,0 +1,3 @@
+a person who shakes his hands then puts his left hand up#a/DET person/NOUN who/PRON shake/VERB his/DET hand/NOUN then/ADV put/VERB his/DET left/ADJ hand/NOUN up/ADP#0.0#0.0
+a person is drinking with left hand.#a/DET person/NOUN is/AUX drink/VERB with/ADP left/ADJ hand/NOUN#0.0#0.0
+a figure gestures in a way that evokes pressing elevator buttons or an intercom button near to collarbone height. then, the figure gestures higher -- head level -- with its left hand.#a/DET figure/NOUN gesture/NOUN in/ADP a/DET way/NOUN that/DET evoke/VERB press/VERB elevator/NOUN button/NOUN or/CCONJ an/DET intercom/ADJ button/NOUN near/ADV to/PART collarbone/VERB height/NOUN then/ADV the/DET figure/NOUN gesture/VERB higher/ADJ head/NOUN level/NOUN with/ADP its/DET left/ADJ hand/NOUN#0.0#0.0

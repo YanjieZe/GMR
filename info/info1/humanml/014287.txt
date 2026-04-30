@@ -1,0 +1,3 @@
+a person holding their hands together stands still.#a/DET person/NOUN hold/VERB their/DET hand/NOUN together/ADV stand/VERB still/ADV#0.0#0.0
+a figure stands with its hands pressed together, perhaps as though in prayer#a/DET figure/NOUN stand/VERB with/ADP its/DET hand/NOUN press/VERB together/ADV perhaps/ADV as/SCONJ though/ADV in/ADP prayer/NOUN#0.0#0.0
+a person is standing upright and putting their hands together in a praying motion.#a/DET person/NOUN is/AUX stand/VERB upright/ADV and/CCONJ put/VERB their/DET hand/NOUN together/ADV in/ADP a/DET praying/ADJ motion/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person casually jogs forward.#a/DET person/NOUN casually/ADV jog/VERB forward/ADV#0.0#0.0
+a person jogs straight forward.#a/DET person/NOUN jog/VERB straight/ADV forward/ADV#0.0#0.0
+a person starts running and stops#a/DET person/NOUN start/VERB run/VERB and/CCONJ stop/NOUN#0.0#0.0

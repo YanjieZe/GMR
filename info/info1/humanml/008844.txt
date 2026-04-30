@@ -1,0 +1,3 @@
+person quickly runs forward into their left.#person/NOUN quickly/ADV run/VERB forward/ADV into/ADP their/DET left/NOUN#0.0#0.0
+person was running to the left.#person/NOUN was/AUX run/VERB to/ADP the/DET left/NOUN#0.0#0.0
+a person runs forward then turn left as their running.#a/DET person/NOUN run/VERB forward/ADV then/ADV turn/VERB left/VERB as/SCONJ their/DET running/NOUN#0.0#0.0

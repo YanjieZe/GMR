@@ -1,0 +1,3 @@
+the person is walking forwards slowly then trips#the/DET person/NOUN is/AUX walk/VERB forwards/ADV slowly/ADV then/ADV trip/NOUN#0.0#0.0
+the person is walking forward before he stumbles forward as if being pushed in the back#the/DET person/NOUN is/AUX walk/VERB forward/ADV before/ADP he/PRON stumble/VERB forward/ADV as/SCONJ if/SCONJ being/AUX push/VERB in/ADP the/DET back/NOUN#0.0#0.0
+person walks and trips and almost falls#person/NOUN walk/VERB and/CCONJ trip/NOUN and/CCONJ almost/ADV fall/VERB#0.0#0.0

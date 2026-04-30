@@ -1,0 +1,3 @@
+jumping forward very quickly once.#jump/VERB forward/ADV very/ADV quickly/ADV once/ADV#0.0#0.0
+a person who is standing with his hands by his sides bends at the knees and takes a long jump forward.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP his/DET hand/NOUN by/ADP his/DET side/NOUN bend/VERB at/ADP the/DET knee/NOUN and/CCONJ take/VERB a/DET long/ADJ jump/NOUN forward/ADV#0.0#0.0
+a person jumps forward one long step.#a/DET person/NOUN jump/VERB forward/ADV one/NUM long/ADJ step/NOUN#0.0#0.0

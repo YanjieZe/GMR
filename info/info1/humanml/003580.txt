@@ -1,0 +1,3 @@
+a man walks forward before stopping.#a/DET man/NOUN walk/VERB forward/ADV before/ADP stop/VERB#0.0#0.0
+a man stepz then skips forward twice#a/DET man/NOUN stepz/ADV then/ADV skip/VERB forward/ADV twice/ADV#0.0#0.0
+a man walks in the forward direction bouncing time to time#a/DET man/NOUN walk/VERB in/ADP the/DET forward/ADJ direction/NOUN bounce/VERB time/NOUN to/ADP time/NOUN#0.0#0.0

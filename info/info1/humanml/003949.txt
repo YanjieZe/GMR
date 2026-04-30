@@ -1,0 +1,3 @@
+person approaches slowly then climbs stairs#person/NOUN approach/VERB slowly/ADV then/ADV climb/VERB stair/NOUN#0.0#0.0
+a person walking towards some stairs, then starts climbing for a total of 3 steps#a/DET person/NOUN walk/VERB towards/ADP some/DET stair/NOUN then/ADV start/VERB climb/VERB for/ADP a/DET total/NOUN of/ADP step/NOUN#0.0#0.0
+a person walking forward and climbing something.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ climb/VERB something/PRON#0.0#0.0

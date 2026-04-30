@@ -1,0 +1,3 @@
+the person changes the song on their smartphone#the/DET person/NOUN change/VERB the/DET song/NOUN on/ADP their/DET smartphone/NOUN#0.0#0.0
+the person has his arms up and then down at his side.#the/DET person/NOUN has/AUX his/DET arm/NOUN up/ADV and/CCONJ then/ADV down/ADV at/ADP his/DET side/NOUN#0.0#0.0
+a person picks something up with their right hand, looks at it, and then puts it down with their left hand.#a/DET person/NOUN pick/VERB something/PRON up/ADP with/ADP their/DET right/ADJ hand/NOUN look/VERB at/ADP it/PRON and/CCONJ then/ADV put/VERB it/PRON down/ADP with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks down a hill and places a box on the ground.#a/DET person/NOUN walk/VERB down/ADP a/DET hill/NOUN and/CCONJ place/VERB a/DET box/NOUN on/ADP the/DET ground/NOUN#0.0#0.0
+a person holding something walks forward, puts it down on the ground, then continue to walk forward.#a/DET person/NOUN hold/VERB something/PRON walk/VERB forward/ADV put/VERB it/PRON down/ADP on/ADP the/DET ground/NOUN then/ADV continue/VERB to/PART walk/VERB forward/ADV#0.0#0.0
+a person walks forward with a large object in their hands, puts the object down and continues to walk forward.#a/DET person/NOUN walk/VERB forward/ADV with/ADP a/DET large/ADJ object/NOUN in/ADP their/DET hand/NOUN put/VERB the/DET object/NOUN down/ADP and/CCONJ continue/VERB to/PART walk/VERB forward/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person opens something and takes a drink from it.#a/DET person/NOUN open/VERB something/PRON and/CCONJ take/VERB a/DET drink/NOUN from/ADP it/PRON#0.0#0.0
+the person is putting shampoo on their head and then closing the lid#the/DET person/NOUN is/AUX put/VERB shampoo/NOUN on/ADP their/DET head/NOUN and/CCONJ then/ADV close/VERB the/DET lid/NOUN#0.0#0.0
+man fills a cup with his left hand  and takes a quick drink with his right, before placing the cup back down#man/NOUN fill/VERB a/DET cup/NOUN with/ADP his/DET left/ADJ hand/NOUN and/CCONJ take/VERB a/DET quick/ADJ drink/NOUN with/ADP his/DET right/NOUN before/ADP place/VERB the/DET cup/NOUN back/ADV down/ADV#nan#0.0

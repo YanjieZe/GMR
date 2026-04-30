@@ -1,0 +1,3 @@
+a person standing points at something by lifting their right hand.#a/DET person/NOUN stand/VERB point/NOUN at/ADP something/PRON by/ADP lift/VERB their/DET right/ADJ hand/NOUN#0.0#0.0
+a persons quickly raises their right arm like they are looking at their watch, then puts it back down again.#a/DET person/NOUN quickly/ADV raise/VERB their/DET right/ADJ arm/NOUN like/SCONJ they/PRON are/AUX look/VERB at/ADP their/DET watch/NOUN then/ADV put/VERB it/PRON back/ADV down/ADP again/ADV#0.0#0.0
+a man raises his right arm up to chest level, then puts it back down.#a/DET man/NOUN raise/VERB his/DET right/ADJ arm/NOUN up/ADP to/ADP chest/NOUN level/NOUN then/ADV put/VERB it/PRON back/ADV down/ADP#0.0#0.0

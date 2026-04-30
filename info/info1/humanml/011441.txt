@@ -1,0 +1,3 @@
+a person walks forward in a cool manner and does a spin.#a/DET person/NOUN walk/VERB forward/ADV in/ADP a/DET cool/ADJ manner/NOUN and/CCONJ does/AUX a/DET spin/NOUN#0.0#0.0
+a person walking forward swinging their right arm and then turns around#a/DET person/NOUN walk/VERB forward/ADV swinge/VERB their/DET right/ADJ arm/NOUN and/CCONJ then/ADV turn/VERB around/ADV#0.0#0.0
+person is walking like they are drunk.#person/NOUN is/AUX walk/VERB like/SCONJ they/PRON are/AUX drunk/ADJ#0.0#0.0

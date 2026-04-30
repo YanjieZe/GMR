@@ -1,0 +1,3 @@
+a person walks slowly then stops#a/DET person/NOUN walk/VERB slowly/ADV then/ADV stop/VERB#0.0#0.0
+a man is walking. he takes a few short steps, then several long steps.#a/DET man/NOUN is/AUX walk/VERB he/PRON take/VERB a/DET few/ADJ short/ADJ step/NOUN then/ADV several/ADJ long/ADJ step/NOUN#0.0#0.0
+a man takes short steps forward at a gradual speed while gently swinging his arms.#a/DET man/NOUN take/VERB short/ADJ step/NOUN forward/ADV at/ADP a/DET gradual/ADJ speed/NOUN while/SCONJ gently/ADV swinge/VERB his/DET arm/NOUN#0.0#0.0

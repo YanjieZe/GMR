@@ -1,0 +1,3 @@
+a person uses their right hand to lift something up to drink.#a/DET person/NOUN use/VERB their/DET right/ADJ hand/NOUN to/PART lift/VERB something/PRON up/ADP to/PART drink/VERB#0.0#0.0
+a person reaches for something on the right with its right hand, then raises it towards its face.#a/DET person/NOUN reach/VERB for/ADP something/PRON on/ADP the/DET right/NOUN with/ADP its/DET right/ADJ hand/NOUN then/ADV raise/VERB it/PRON towards/ADP its/DET face/NOUN#0.0#3.0
+person moves right hand to mouth puts item down then puts back up to face#person/NOUN move/VERB right/ADJ hand/NOUN to/ADP mouth/NOUN put/VERB item/NOUN down/ADP then/ADV put/VERB back/ADV up/ADV to/ADP face/NOUN#0.0#0.0

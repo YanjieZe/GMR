@@ -1,0 +1,3 @@
+a person lifts their left wrist towards their face as if to look at a watch#a/DET person/NOUN lift/VERB their/DET left/ADJ wrist/NOUN towards/ADP their/DET face/NOUN as/SCONJ if/SCONJ to/PART look/VERB at/ADP a/DET watch/NOUN#0.0#0.0
+a person raises its left hand to its chest.#a/DET person/NOUN raise/VERB its/DET left/ADJ hand/NOUN to/ADP its/DET chest/NOUN#0.0#0.0
+a man stretches his left arm across his body.#a/DET man/NOUN stretch/VERB his/DET left/ADJ arm/NOUN across/ADP his/DET body/NOUN#0.0#0.0

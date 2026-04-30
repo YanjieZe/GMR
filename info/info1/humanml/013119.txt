@@ -1,0 +1,3 @@
+using both arms and calmly lifting and dropping from right to left.#use/VERB both/DET arm/NOUN and/CCONJ calmly/ADV lift/VERB and/CCONJ drop/VERB from/ADP right/NOUN to/ADP left/NOUN#0.0#0.0
+the person pick something up from the left and set it down on the right.#the/DET person/NOUN pick/VERB something/PRON up/ADP from/ADP the/DET left/NOUN and/CCONJ set/VERB it/PRON down/ADP on/ADP the/DET right/NOUN#0.0#0.0
+a person picks up something off a knee-high table and moves it from the left to the right of the table.#a/DET person/NOUN pick/VERB up/ADP something/PRON off/ADP a/DET kneehigh/NOUN table/NOUN and/CCONJ move/VERB it/PRON from/ADP the/DET left/NOUN to/ADP the/DET right/NOUN of/ADP the/DET table/NOUN#0.0#0.0

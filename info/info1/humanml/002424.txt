@@ -1,0 +1,3 @@
+balancing on 1 leg, a person almost falls but is able to gain balance.#balance/VERB on/ADP leg/NOUN a/DET person/NOUN almost/ADV fall/VERB but/CCONJ is/AUX able/ADJ to/PART gain/VERB balance/NOUN#6.0#8.0
+a man trying to balance at the left foot and finally loose the balance#a/DET man/NOUN try/VERB to/PART balance/VERB at/ADP the/DET left/ADJ foot/NOUN and/CCONJ finally/ADV loose/VERB the/DET balance/NOUN#0.0#0.0
+the man rotates his right leg then looses his balance.#the/DET man/NOUN rotate/VERB his/DET right/ADJ leg/NOUN then/ADV loose/VERB his/DET balance/NOUN#0.0#0.0

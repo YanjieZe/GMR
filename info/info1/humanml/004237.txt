@@ -1,0 +1,3 @@
+a person looks in different directions waiting for something.#a/DET person/NOUN look/VERB in/ADP different/ADJ direction/NOUN wait/VERB for/ADP something/PRON#0.0#0.0
+a person seeming to look around for something, then goes back to waitnig, then looks around again.#a/DET person/NOUN seeming/ADJ to/PART look/VERB around/ADP for/ADP something/PRON then/ADV go/VERB back/ADV to/ADP waitnig/PROPN then/ADV look/VERB around/ADP again/ADV#0.0#0.0
+a person is stepping left then right while holding his arms out in front.#a/DET person/NOUN is/AUX step/VERB left/VERB then/ADV right/ADV while/SCONJ hold/VERB his/DET arm/NOUN out/SCONJ in/ADP front/NOUN#0.0#0.0

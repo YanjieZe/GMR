@@ -1,0 +1,1 @@
+person is walking and veering right#person/NOUN is/AUX walk/VERB and/CCONJ veer/VERB right/ADV#0.0#0.0

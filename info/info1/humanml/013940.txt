@@ -1,0 +1,3 @@
+a man walks forward slowly, hunched slightly and with both arms bent and at his sides, before he stands to full height.#a/DET man/NOUN walk/VERB forward/ADV slowly/ADV hunch/VERB slightly/ADV and/CCONJ with/ADP both/DET arm/NOUN bent/ADJ and/CCONJ at/ADP his/DET side/NOUN before/ADP he/PRON stand/VERB to/ADP full/ADJ height/NOUN#0.0#0.0
+this person walks as if to sneak up on something.#this/DET person/NOUN walk/VERB as/SCONJ if/SCONJ to/PART sneak/VERB up/ADP on/ADP something/PRON#0.0#0.0
+the person is doing a sneaky walk.#the/DET person/NOUN is/AUX do/VERB a/DET sneaky/ADJ walk/NOUN#0.0#0.0

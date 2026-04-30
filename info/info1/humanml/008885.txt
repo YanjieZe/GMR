@@ -1,0 +1,3 @@
+a person leans forward, checks their watch, and then paces around.#a/DET person/NOUN lean/VERB forward/ADV check/VERB their/DET watch/NOUN and/CCONJ then/ADV pace/VERB around/ADV#0.0#0.0
+a man lifts his right arm to check the time on his watch. he walks to the left and looks doen at soemthing.#a/DET man/NOUN lift/VERB his/DET right/ADJ arm/NOUN to/PART check/VERB the/DET time/NOUN on/ADP his/DET watch/NOUN he/PRON walk/VERB to/ADP the/DET left/NOUN and/CCONJ look/VERB doen/PROPN at/ADP soemthing/NOUN#0.0#0.0
+a person looks at their right wrist then walks to the left .#a/DET person/NOUN look/VERB at/ADP their/DET right/ADJ wrist/NOUN then/ADV walk/VERB to/ADP the/DET left/NOUN#0.0#0.0

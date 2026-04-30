@@ -1,0 +1,3 @@
+a person shuffles to his left.#a/DET person/NOUN shuffle/VERB to/ADP his/DET left/NOUN#0.0#0.0
+a person reaches out to grab something with his right arm and then attempts to drag it backwards.#a/DET person/NOUN reach/VERB out/ADP to/PART grab/VERB something/PRON with/ADP his/DET right/ADJ arm/NOUN and/CCONJ then/ADV attempt/VERB to/PART drag/VERB it/PRON backwards/ADV#0.0#0.0
+person holds onto something with their right hand and pulls it#person/NOUN hold/VERB onto/ADP something/PRON with/ADP their/DET right/ADJ hand/NOUN and/CCONJ pull/VERB it/PRON#0.0#0.0

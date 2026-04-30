@@ -1,0 +1,3 @@
+running on the floor on same place.#run/VERB on/ADP the/DET floor/NOUN on/ADP same/ADJ place/NOUN#0.0#0.0
+a person jogging in place.#a/DET person/NOUN jog/VERB in/ADP place/NOUN#0.0#0.0
+a person is jogging in place.#a/DET person/NOUN is/AUX jog/VERB in/ADP place/NOUN#0.0#0.0

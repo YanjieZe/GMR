@@ -1,0 +1,3 @@
+a man stands prepared and aware, then suddenly takes an abrupt step backwards and regains his ready stance.#a/DET man/NOUN stand/VERB prepared/ADJ and/CCONJ aware/ADJ then/ADV suddenly/ADV take/VERB an/DET abrupt/ADJ step/NOUN backwards/ADV and/CCONJ regain/VERB his/DET ready/ADJ stance/NOUN#0.0#0.0
+the person was standing still.#the/DET person/NOUN was/AUX stand/VERB still/ADV#0.0#0.0
+a person is pushed backwards from the front.#a/DET person/NOUN is/AUX push/VERB backwards/ADV from/ADP the/DET front/NOUN#0.0#0.0

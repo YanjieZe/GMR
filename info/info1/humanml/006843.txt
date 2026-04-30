@@ -1,0 +1,3 @@
+a person holds a split pose and stretches.#a/DET person/NOUN hold/VERB a/DET split/NOUN pose/NOUN and/CCONJ stretch/NOUN#0.0#0.0
+person got tired during the workout.#person/NOUN get/VERB tired/ADJ during/ADP the/DET workout/NOUN#0.0#0.0
+the man is doing yoga#the/DET man/NOUN is/AUX do/VERB yoga/NOUN#0.0#0.0

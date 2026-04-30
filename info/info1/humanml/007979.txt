@@ -1,0 +1,3 @@
+a person is pushed from the right and continues walking.#a/DET person/NOUN is/AUX push/VERB from/ADP the/DET right/NOUN and/CCONJ continue/VERB walk/VERB#0.0#0.0
+a figure walks forward but then gets hit or startled and stumbles backward#a/DET figure/NOUN walk/VERB forward/ADV but/CCONJ then/ADV get/VERB hit/VERB or/CCONJ startle/VERB and/CCONJ stumble/NOUN backward/ADV#0.0#0.0
+walking forward then to the side.#walk/VERB forward/ADV then/ADV to/ADP the/DET side/NOUN#0.0#0.0

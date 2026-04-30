@@ -1,0 +1,3 @@
+a person starts dancing in an eratic fashion.#a/DET person/NOUN start/VERB dance/VERB in/ADP an/DET eratic/ADJ fashion/NOUN#0.0#0.0
+a person walks forward, turns around, and then starts dancing.#a/DET person/NOUN walk/VERB forward/ADV turn/VERB around/ADV and/CCONJ then/ADV start/VERB dancing/NOUN#0.0#0.0
+a person walking in a forward motion turns around and starts to shake his body in a dance#a/DET person/NOUN walk/VERB in/ADP a/DET forward/ADJ motion/NOUN turn/VERB around/ADP and/CCONJ start/VERB to/PART shake/VERB his/DET body/NOUN in/ADP a/DET dance/NOUN#0.0#0.0

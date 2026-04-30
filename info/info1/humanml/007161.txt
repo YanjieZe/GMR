@@ -1,0 +1,3 @@
+spinning around and walking in a diagonal line then back.#spin/VERB around/ADV and/CCONJ walk/VERB in/ADP a/DET diagonal/ADJ line/NOUN then/ADV back/ADV#0.0#0.0
+a person hunches over, then takes several steps forward in that position, then straightens up and walks backwards for several more steps.#a/DET person/NOUN hunch/VERB over/ADP then/ADV take/VERB several/ADJ step/NOUN forward/ADV in/ADP that/DET position/NOUN then/ADV straighten/VERB up/ADP and/CCONJ walk/VERB backwards/ADV for/ADP several/ADJ more/ADJ step/NOUN#0.0#0.0
+a person turns left and walks with a stooped back.#a/DET person/NOUN turn/VERB left/VERB and/CCONJ walk/VERB with/ADP a/DET stoop/VERB back/ADV#0.0#0.0

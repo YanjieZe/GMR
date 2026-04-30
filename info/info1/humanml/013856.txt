@@ -1,0 +1,3 @@
+a person coughs with their right hand, than left, stays standing for now.#a/DET person/NOUN cough/VERB with/ADP their/DET right/ADJ hand/NOUN than/SCONJ left/VERB stay/VERB stand/VERB for/ADP now/ADV#0.0#0.0
+the person is making a drum gesture with his arms.#the/DET person/NOUN is/AUX make/VERB a/DET drum/NOUN gesture/NOUN with/ADP his/DET arm/NOUN#0.0#0.0
+person puts right hand up to mouth area then puts arm down then lifts left hand to mouth  then puts both hands down to side#person/NOUN put/VERB right/ADJ hand/NOUN up/ADP to/ADP mouth/PROPN area/NOUN then/ADV put/VERB arm/NOUN down/ADP then/ADV lift/VERB left/VERB hand/NOUN to/ADP mouth/NOUN then/ADV put/VERB both/DET hand/NOUN down/ADP to/PART side/VERB#0.0#0.0

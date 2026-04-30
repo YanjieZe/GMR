@@ -1,0 +1,3 @@
+a person crouches on all fours, lifts their rear, then stands up and pivots to their left.#a/DET person/NOUN crouch/VERB on/ADP all/DET four/NOUN lift/VERB their/DET rear/NOUN then/ADV stand/VERB up/ADP and/CCONJ pivot/NOUN to/ADP their/DET left/NOUN#0.0#0.0
+the person is standing on his head.#the/DET person/NOUN is/AUX stand/VERB on/ADP his/DET head/NOUN#0.0#0.0
+the person looks to be doing yoga#the/DET person/NOUN look/VERB to/PART be/AUX do/VERB yoga/NOUN#0.0#0.0

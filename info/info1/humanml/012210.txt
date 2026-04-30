@@ -1,0 +1,3 @@
+a person is walking around in a squiggly line.#a/DET person/NOUN is/AUX walk/VERB around/ADP in/ADP a/DET squiggly/ADJ line/NOUN#0.0#0.0
+a man is walking in a 's' shaped movement like a snake.#a/DET man/NOUN is/AUX walk/VERB in/ADP a/DET shaped/ADJ movement/NOUN like/SCONJ a/DET snake/NOUN#0.0#0.0
+a person walks from side to side in a wavy path#a/DET person/NOUN walk/VERB from/ADP side/NOUN to/PART side/VERB in/ADP a/DET wavy/PROPN path/NOUN#0.0#0.0

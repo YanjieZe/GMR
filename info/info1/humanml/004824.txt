@@ -1,0 +1,3 @@
+a man raises his forearms and puts his hands together in front of him. then he lifts his right forearm and rests his right elbow on his left hand.#a/DET man/NOUN raise/VERB his/DET forearm/NOUN and/CCONJ put/VERB his/DET hand/NOUN together/ADV in/ADP front/NOUN of/ADP him/PRON then/ADV he/PRON lift/VERB his/DET right/ADJ forearm/NOUN and/CCONJ rest/VERB his/DET right/ADJ elbow/NOUN on/ADP his/DET left/ADJ hand/NOUN#0.0#0.0
+a stick figure checks the left elbow then moves its left hand.#a/DET stick/NOUN figure/NOUN check/VERB the/DET left/NOUN elbow/NOUN then/ADV move/VERB its/DET left/ADJ hand/NOUN#0.0#0.0
+a person lifts right hand to cry.#a/DET person/NOUN lift/VERB right/ADJ hand/NOUN to/PART cry/VERB#0.0#0.0

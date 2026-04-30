@@ -1,0 +1,3 @@
+a man walks straight, then turns around and walks back.#a/DET man/NOUN walk/VERB straight/ADV then/ADV turn/VERB around/ADV and/CCONJ walk/VERB back/ADV#0.0#0.0
+a person walks forwards then turns around on their left foot.#a/DET person/NOUN walk/VERB forward/NOUN then/ADV turn/VERB around/ADP on/ADP their/DET left/ADJ foot/NOUN#0.0#0.0
+a person paces forward, turns around and then walks the other way.#a/DET person/NOUN pace/VERB forward/ADV turn/VERB around/ADV and/CCONJ then/ADV walk/VERB the/DET other/ADJ way/NOUN#0.0#0.0

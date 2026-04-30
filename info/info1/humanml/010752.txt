@@ -1,0 +1,3 @@
+staying still then backing up.#stay/VERB still/ADV then/ADV back/VERB up/ADP#0.0#0.0
+a figure falls backwards slightly in a straight line#a/DET figure/NOUN fall/VERB backwards/ADV slightly/ADV in/ADP a/DET straight/ADJ line/NOUN#0.0#0.0
+a person slowly stepped backwards#a/DET person/NOUN slowly/ADV step/VERB backwards/ADV#0.0#0.0

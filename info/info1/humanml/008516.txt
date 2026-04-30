@@ -1,0 +1,3 @@
+a person does a side step to their left#a/DET person/NOUN does/AUX a/DET side/NOUN step/NOUN to/ADP their/DET left/NOUN#0.0#0.0
+a person steps to the left sideways.#a/DET person/NOUN step/VERB to/ADP the/DET left/NOUN sideway/NOUN#0.0#0.0
+a man taking a step to his left.#a/DET man/NOUN take/VERB a/DET step/NOUN to/ADP his/DET left/NOUN#0.0#0.0

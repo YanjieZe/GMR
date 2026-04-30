@@ -1,0 +1,3 @@
+a person shaking arms back#a/DET person/NOUN shake/VERB arm/NOUN back/ADV#0.0#0.0
+a standing person shakes their left and right arms in equal motions several times.#a/DET stand/VERB person/NOUN shake/VERB their/DET left/ADJ and/CCONJ right/ADJ arm/NOUN in/ADP equal/ADJ motion/NOUN several/ADJ time/NOUN#0.0#0.0
+a man stands are waves both hands back and forth in front of his body in a "no way" fashion.#a/DET man/NOUN stand/VERB are/AUX wave/NOUN both/DET hand/NOUN back/ADV and/CCONJ forth/ADV in/ADP front/NOUN of/ADP his/DET body/NOUN in/ADP a/DET no/DET way/NOUN fashion/NOUN#0.0#0.0

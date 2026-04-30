@@ -1,0 +1,3 @@
+a person is standing still, then walks forward and kicks something on the floor with his right foot#a/DET person/NOUN is/AUX stand/VERB still/ADV then/ADV walk/VERB forward/ADV and/CCONJ kick/VERB something/PRON on/ADP the/DET floor/NOUN with/ADP his/DET right/ADJ foot/NOUN#0.0#0.0
+a person takes two steps and throws sometime#a/DET person/NOUN take/VERB two/NUM step/NOUN and/CCONJ throw/NOUN sometime/ADV#0.0#0.0
+a man steps forward vigorously and then kicks something low with his right leg.#a/DET man/NOUN step/VERB forward/ADV vigorously/ADV and/CCONJ then/ADV kick/VERB something/PRON low/ADJ with/ADP his/DET right/ADJ leg/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person looks to their left and places their hands on their hips.#a/DET person/NOUN look/VERB to/ADP their/DET left/NOUN and/CCONJ place/VERB their/DET hand/NOUN on/ADP their/DET hip/NOUN#0.0#0.0
+a person rotates to the left then places both hands on their hips.#a/DET person/NOUN rotate/VERB to/ADP the/DET left/NOUN then/ADV place/VERB both/DET hand/NOUN on/ADP their/DET hip/NOUN#0.0#0.0
+a person walks and puts his hands on his hips.#a/DET person/NOUN walk/VERB and/CCONJ put/VERB his/DET hand/NOUN on/ADP his/DET hip/NOUN#0.0#0.0

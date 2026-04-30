@@ -1,0 +1,3 @@
+the person sidesteps to their left, then moves back to theuir starting position.#the/DET person/NOUN sidestep/VERB to/ADP their/DET left/NOUN then/ADV move/VERB back/ADV to/ADP theuir/NOUN start/VERB position/NOUN#0.0#0.0
+a person steps to the left side of them and steps back#a/DET person/NOUN step/VERB to/ADP the/DET left/ADJ side/NOUN of/ADP them/PRON and/CCONJ step/VERB back/ADV#0.0#0.0
+a person takes a couple steps diagonally and then comes back forward.#a/DET person/NOUN take/VERB a/DET couple/NOUN step/NOUN diagonally/ADV and/CCONJ then/ADV come/VERB back/ADV forward/ADV#0.0#0.0

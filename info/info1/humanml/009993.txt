@@ -1,0 +1,3 @@
+a person steps on an object and walks across it carefully.#a/DET person/NOUN step/VERB on/ADP an/DET object/NOUN and/CCONJ walk/VERB across/ADP it/PRON carefully/ADV#0.0#0.0
+a person steps up onto an object, walks across it, and then steps back down.#a/DET person/NOUN step/VERB up/ADP onto/ADP an/DET object/NOUN walk/VERB across/ADP it/PRON and/CCONJ then/ADV step/VERB back/ADV down/ADV#0.0#0.0
+a person who is standing with his hands at his sides steps up, takes three steps forward, then steps down.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP his/DET hand/NOUN at/ADP his/DET side/NOUN step/VERB up/ADP take/VERB three/NUM step/NOUN forward/ADV then/ADV step/VERB down/ADP#0.0#0.0

@@ -1,0 +1,3 @@
+man bends down to pick up briefcase with right hand and swings briefcase forward and backward.#man/NOUN bend/VERB down/ADP to/PART pick/VERB up/ADP briefcase/NOUN with/ADP right/ADJ hand/NOUN and/CCONJ swing/NOUN briefcase/VERB forward/ADV and/CCONJ backward/ADV#0.0#0.0
+the person leans over to pick up an object as it slightly swings#the/DET person/NOUN lean/VERB over/ADP to/PART pick/VERB up/ADP an/DET object/NOUN as/SCONJ it/PRON slightly/ADV swing/VERB#0.0#0.0
+a person picks up an object with their right hand and gently swings it back and forth.#a/DET person/NOUN pick/VERB up/ADP an/DET object/NOUN with/ADP their/DET right/ADJ hand/NOUN and/CCONJ gently/ADV swing/VERB it/PRON back/ADV and/CCONJ forth/ADV#0.0#0.0

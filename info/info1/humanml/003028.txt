@@ -1,0 +1,3 @@
+the person is is playing on the floor.#the/DET person/NOUN is/AUX is/AUX play/VERB on/ADP the/DET floor/NOUN#0.0#0.0
+a person swimming free style.#a/DET person/NOUN swim/VERB free/ADJ style/NOUN#0.0#0.0
+a person is swimming in water#a/DET person/NOUN is/AUX swim/VERB in/ADP water/NOUN#0.0#0.0

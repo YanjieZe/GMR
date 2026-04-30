@@ -1,0 +1,3 @@
+the man raises both arms and begins a slow bounce, which transforms into a light jump.#the/DET man/NOUN raise/VERB both/DET arm/NOUN and/CCONJ begin/VERB a/DET slow/ADJ bounce/NOUN which/DET transform/VERB into/ADP a/DET light/ADJ jump/NOUN#0.0#0.0
+a person stretches and bounces.#a/DET person/NOUN stretch/VERB and/CCONJ bounce/NOUN#0.0#0.0
+the person is standing on his toes.#the/DET person/NOUN is/AUX stand/VERB on/ADP his/DET toe/NOUN#0.0#0.0

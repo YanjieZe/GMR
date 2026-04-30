@@ -1,0 +1,3 @@
+person runs quickly straight forward#person/NOUN run/VERB quickly/ADV straight/ADV forward/ADV#0.0#0.0
+a person runs forward in a line.#a/DET person/NOUN run/VERB forward/ADV in/ADP a/DET line/NOUN#0.0#0.0
+a person runs forward and slightly to the right for 3 or 4 steps.#a/DET person/NOUN run/VERB forward/ADV and/CCONJ slightly/ADV to/ADP the/DET right/NOUN for/ADP or/CCONJ step/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person gets nudged backwards on their left shoulder.#a/DET person/NOUN get/VERB nudge/VERB backwards/ADV on/ADP their/DET left/ADJ shoulder/NOUN#0.0#0.0
+this person is standing and briefly moves.#this/DET person/NOUN is/AUX stand/VERB and/CCONJ briefly/ADV move/NOUN#0.0#0.0
+the person quickly gestures with his right hand, moving it waist high, stands stationary, and then quickly gestures with both hands to his left, again waist high.#the/DET person/NOUN quickly/ADV gesture/VERB with/ADP his/DET right/ADJ hand/NOUN move/VERB it/PRON waist/ADJ high/ADV stand/VERB stationary/ADJ and/CCONJ then/ADV quickly/ADV gesture/VERB with/ADP both/DET hand/NOUN to/ADP his/DET left/NOUN again/ADV waist/ADJ high/ADV#0.0#0.0

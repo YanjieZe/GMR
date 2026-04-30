@@ -1,0 +1,3 @@
+a person drastically stumbles around.#a/DET person/NOUN drastically/ADV stumble/VERB around/ADV#0.0#0.0
+person staggers around, leaning over briefly, then stumbling back a bit trying to maintain balance.#person/NOUN stagger/VERB around/ADV lean/VERB over/ADP briefly/ADV then/ADV stumble/VERB back/ADV a/DET bit/NOUN try/VERB to/PART maintain/VERB balance/NOUN#0.0#0.0
+person having trouble maintaining balance#person/NOUN have/VERB trouble/NOUN maintain/VERB balance/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person brings their hands to their face area and makes a motion similar to brushing their hair.#a/DET person/NOUN bring/VERB their/DET hand/NOUN to/ADP their/DET face/NOUN area/NOUN and/CCONJ make/VERB a/DET motion/NOUN similar/ADJ to/ADP brush/VERB their/DET hair/NOUN#0.0#0.0
+a person lifts their right hand up and moves it around, occasionally bringing up their left hand.#a/DET person/NOUN lift/VERB their/DET right/ADJ hand/NOUN up/ADP and/CCONJ move/VERB it/PRON around/ADV occasionally/ADV bring/VERB up/ADP their/DET left/ADJ hand/NOUN#0.0#0.0
+getting ready to brush their teeth.#get/VERB ready/ADJ to/PART brush/VERB their/DET tooth/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a man is moving both arms up and down to a beat.#a/DET man/NOUN is/AUX move/VERB both/DET arm/NOUN up/ADV and/CCONJ down/ADV to/ADP a/DET beat/NOUN#0.0#0.0
+someone has their right arm raised, they lower it before raising both arms and pushing them first up and down and then in front of them repeatedly.#someone/PRON has/AUX their/DET right/ADJ arm/NOUN raise/VERB they/PRON lower/VERB it/PRON before/ADP raise/VERB both/DET arm/NOUN and/CCONJ push/VERB them/PRON first/ADV up/ADP and/CCONJ down/ADV and/CCONJ then/ADV in/ADP front/NOUN of/ADP them/PRON repeatedly/ADV#0.0#0.0
+person is doing different dance moves#person/NOUN is/AUX do/VERB different/ADJ dance/NOUN move/NOUN#0.0#0.0

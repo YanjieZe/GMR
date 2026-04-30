@@ -1,0 +1,3 @@
+a person is walking briskly around a room#a/DET person/NOUN is/AUX walk/VERB briskly/ADV around/ADP a/DET room/NOUN#0.0#0.0
+a man walks slowly and then fast in a counter-clockwise motion.#a/DET man/NOUN walk/VERB slowly/ADV and/CCONJ then/ADV fast/ADV in/ADP a/DET counterclockwise/ADJ motion/NOUN#0.0#0.0
+a man walks in an anti clockwise direction starting a circle put then cutting across and making his way back to the centre of the room#a/DET man/NOUN walk/VERB in/ADP an/DET anti/ADJ clockwise/NOUN direction/NOUN start/VERB a/DET circle/NOUN put/VERB then/ADV cut/VERB across/ADV and/CCONJ make/VERB his/DET way/NOUN back/ADV to/ADP the/DET centre/NOUN of/ADP the/DET room/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+the person puts their hand on their face then squats down like theyre going underwater#the/DET person/NOUN put/VERB their/DET hand/NOUN on/ADP their/DET face/NOUN then/ADV squat/VERB down/ADP like/SCONJ they/PRON be/VERB go/VERB underwater/ADJ#0.0#0.0
+this person is doing swats and holding arms in front.#this/DET person/NOUN is/AUX do/VERB swat/NOUN and/CCONJ hold/VERB arm/NOUN in/ADP front/NOUN#0.0#0.0
+the person is standing up and down holding their head.#the/DET person/NOUN is/AUX stand/VERB up/ADP and/CCONJ down/ADV hold/VERB their/DET head/NOUN#0.0#0.0

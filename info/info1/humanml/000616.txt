@@ -1,0 +1,3 @@
+a person picks something up with his right hand, cradles it, then hold it up.#a/DET person/NOUN pick/VERB something/PRON up/ADP with/ADP his/DET right/ADJ hand/NOUN cradle/VERB it/PRON then/ADV hold/VERB it/PRON up/ADP#0.0#0.0
+a person picks something up from the ground, twists the top off and begins drinking or eating whatever it is.#a/DET person/NOUN pick/VERB something/PRON up/ADP from/ADP the/DET ground/NOUN twist/VERB the/DET top/NOUN off/ADP and/CCONJ begin/VERB drink/VERB or/CCONJ eat/VERB whatever/DET it/PRON is/AUX#0.0#0.0
+person picked up drink and is drinking.#person/NOUN pick/VERB up/ADP drink/NOUN and/CCONJ is/AUX drink/VERB#0.0#0.0

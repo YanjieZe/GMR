@@ -1,0 +1,3 @@
+a person begins to wave#a/DET person/NOUN begin/VERB to/PART wave/VERB#0.0#0.0
+the person is likely throwing fist up.#the/DET person/NOUN is/AUX likely/ADV throw/VERB fist/NOUN up/ADP#0.0#0.0
+a person was raising his left arm up while standing still.#a/DET person/NOUN was/AUX raise/VERB his/DET left/ADJ arm/NOUN up/ADP while/SCONJ stand/VERB still/ADV#0.0#0.0

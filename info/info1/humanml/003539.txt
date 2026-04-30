@@ -1,0 +1,3 @@
+a person is pushed by their left arm while walking forward.#a/DET person/NOUN is/AUX push/VERB by/ADP their/DET left/ADJ arm/NOUN while/SCONJ walk/VERB forward/ADV#0.0#0.0
+person steps forward three steps then stumbles then does one more step#person/NOUN step/VERB forward/ADV three/NUM step/NOUN then/ADV stumble/NOUN then/ADV does/AUX one/NUM more/ADJ step/NOUN#0.0#0.0
+a person walks forward, and appears to stumble catching themselves with their left foot.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ appear/VERB to/PART stumble/VERB catch/VERB themselves/PRON with/ADP their/DET left/ADJ foot/NOUN#0.0#0.0

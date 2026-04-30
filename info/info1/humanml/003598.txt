@@ -1,0 +1,3 @@
+a person performs four jumping jacks.#a/DET person/NOUN perform/VERB four/NUM jump/VERB jack/NOUN#0.0#0.0
+a person readies themselves in position, then completes four jumping-jacks and goes back to the relaxed position.#a/DET person/NOUN ready/VERB themselves/PRON in/ADP position/NOUN then/ADV complete/VERB four/NUM jumpingjack/NOUN and/CCONJ go/VERB back/ADV to/ADP the/DET relaxed/ADJ position/NOUN#0.0#0.0
+the person is doing jumping jacks.#the/DET person/NOUN is/AUX do/VERB jump/VERB jack/NOUN#0.0#0.0

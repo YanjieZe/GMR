@@ -1,0 +1,3 @@
+a person sways their hips back and forth, and then turns around and walks away.#a/DET person/NOUN sway/VERB their/DET hip/NOUN back/ADV and/CCONJ forth/ADV and/CCONJ then/ADV turn/VERB around/ADV and/CCONJ walk/VERB away/ADV#0.0#0.0
+he shakes around a lot#he/PRON shake/VERB around/ADP a/DET lot/NOUN#0.0#0.0
+a man sways his hips from side to side and the turns to the left.#a/DET man/NOUN sway/VERB his/DET hip/NOUN from/ADP side/NOUN to/ADP side/NOUN and/CCONJ the/DET turn/NOUN to/ADP the/DET left/NOUN#0.0#0.0

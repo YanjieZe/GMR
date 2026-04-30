@@ -1,0 +1,3 @@
+a person swings their arms in a wide circle.#a/DET person/NOUN swing/VERB their/DET arm/NOUN in/ADP a/DET wide/ADJ circle/NOUN#0.0#0.0
+the person is stretching its arms above its head.#the/DET person/NOUN is/AUX stretch/VERB its/DET arm/NOUN above/ADP its/DET head/NOUN#0.0#0.0
+a person raised the hands up#a/DET person/NOUN raise/VERB the/DET hand/NOUN up/ADP#0.0#0.0

@@ -1,0 +1,3 @@
+person points using their right arm#person/NOUN point/VERB use/VERB their/DET right/ADJ arm/NOUN#0.0#0.0
+person lifts right arm fully extended from by their side to shoulder height and lowers it back down to side#person/NOUN lift/VERB right/ADJ arm/NOUN fully/ADV extend/VERB from/ADP by/ADP their/DET side/NOUN to/ADP shoulder/NOUN height/NOUN and/CCONJ lower/VERB it/PRON back/ADV down/ADP to/PART side/VERB#0.0#0.0
+a man raises its right arm.#a/DET man/NOUN raise/VERB its/DET right/ADJ arm/NOUN#0.0#0.0

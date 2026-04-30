@@ -1,0 +1,3 @@
+a person eating something in a squatted down position#a/DET person/NOUN eat/VERB something/PRON in/ADP a/DET squat/VERB down/ADP position/NOUN#0.0#0.0
+the person was eating a hamburger#the/DET person/NOUN was/AUX eat/VERB a/DET hamburger/NOUN#0.0#0.0
+cowering in fear while squatting.#cower/VERB in/ADP fear/NOUN while/SCONJ squat/VERB#0.0#0.0

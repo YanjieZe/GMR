@@ -1,0 +1,3 @@
+person jumps on spot two times#person/NOUN jump/VERB on/ADP spot/NOUN two/NUM time/NOUN#0.0#0.0
+a person makes two small jumps without moving their arms much.#a/DET person/NOUN make/VERB two/NUM small/ADJ jump/NOUN without/ADP move/VERB their/DET arm/NOUN much/ADV#0.0#0.0
+a person jumps up and down twice.#a/DET person/NOUN jump/VERB up/ADV and/CCONJ down/ADV twice/ADV#0.0#0.0

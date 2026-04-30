@@ -1,0 +1,3 @@
+a person swipes an object over a surface, using their body weight as leverage.#a/DET person/NOUN swipe/VERB an/DET object/NOUN over/ADP a/DET surface/NOUN use/VERB their/DET body/NOUN weight/NOUN as/SCONJ leverage/NOUN#0.0#0.0
+this person is washing the windows#this/DET person/NOUN is/AUX wash/VERB the/DET window/NOUN#0.0#0.0
+the man is washing windows#the/DET man/NOUN is/AUX wash/VERB window/NOUN#0.0#0.0

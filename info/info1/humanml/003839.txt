@@ -1,0 +1,3 @@
+the hands are met at the middle of the waist shaking and go back down to the side of the body.#the/DET hand/NOUN are/AUX meet/VERB at/ADP the/DET middle/NOUN of/ADP the/DET waist/NOUN shaking/NOUN and/CCONJ go/VERB back/ADV down/ADV to/ADP the/DET side/NOUN of/ADP the/DET body/NOUN#0.0#0.0
+person brings both hands together then looks at wrist#person/NOUN bring/VERB both/DET hand/NOUN together/ADV then/ADV look/VERB at/ADP wrist/NOUN#0.0#0.0
+a man brings his hands towards his midriff in applause.#a/DET man/NOUN bring/VERB his/DET hand/NOUN towards/ADP his/DET midriff/NOUN in/ADP applause/NOUN#0.0#0.0

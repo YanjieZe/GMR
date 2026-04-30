@@ -1,0 +1,3 @@
+a person moves right arm forward to shoulder length and then brings it down, while the left arm moves slightly outwards and back.#a/DET person/NOUN move/VERB right/ADJ arm/NOUN forward/ADV to/ADP shoulder/NOUN length/NOUN and/CCONJ then/ADV bring/VERB it/PRON down/ADP while/SCONJ the/DET left/ADJ arm/NOUN move/VERB slightly/ADV outward/NOUN and/CCONJ back/ADV#0.0#0.0
+man standing forward with right arm reaching forward.#man/PROPN stand/VERB forward/ADV with/ADP right/ADJ arm/NOUN reach/VERB forward/ADV#0.0#0.0
+a person lifts right arm straifht in front to chin level and back down.#a/DET person/NOUN lift/VERB right/ADJ arm/NOUN straifht/PROPN in/ADP front/NOUN to/PART chin/VERB level/NOUN and/CCONJ back/ADV down/ADV#0.0#0.0

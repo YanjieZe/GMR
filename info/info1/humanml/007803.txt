@@ -1,0 +1,3 @@
+a person is side stepping to their left and then to their right#a/DET person/NOUN is/AUX side/NOUN step/VERB to/ADP their/DET left/NOUN and/CCONJ then/ADV to/ADP their/DET right/NOUN#0.0#0.0
+a man shuffles to the right without bending his knees, and the shuffles back to his left.#a/DET man/NOUN shuffle/VERB to/ADP the/DET right/NOUN without/ADP bend/VERB his/DET knee/NOUN and/CCONJ the/DET shuffle/NOUN back/ADV to/ADP his/DET left/NOUN#0.0#0.0
+a person walks upward to the left side and then walks backward to the right side#a/DET person/NOUN walk/VERB upward/ADV to/ADP the/DET left/ADJ side/NOUN and/CCONJ then/ADV walk/VERB backward/ADV to/ADP the/DET right/ADJ side/NOUN#0.0#0.0

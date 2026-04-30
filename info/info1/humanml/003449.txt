@@ -1,0 +1,3 @@
+a person takes a deliberately large step, to step over something.#a/DET person/NOUN take/VERB a/DET deliberately/ADV large/ADJ step/NOUN to/PART step/VERB over/ADP something/PRON#0.0#0.0
+individual took a big step.#individual/PROPN take/VERB a/DET big/ADJ step/NOUN#0.0#3.0
+a person takes a large step down.#a/DET person/NOUN take/VERB a/DET large/ADJ step/NOUN down/ADV#0.0#0.0

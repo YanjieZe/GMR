@@ -1,0 +1,3 @@
+a man moves his right arm in various directions.#a/DET man/NOUN move/VERB his/DET right/ADJ arm/NOUN in/ADP various/ADJ direction/NOUN#0.0#0.0
+the person is doing awkward arm movements to the head and then down in front.#the/DET person/NOUN is/AUX do/VERB awkward/ADJ arm/NOUN movement/NOUN to/ADP the/DET head/NOUN and/CCONJ then/ADV down/ADP in/ADP front/NOUN#0.0#0.0
+the man flails his right arm all around in the air.#the/DET man/NOUN flail/VERB his/DET right/ADJ arm/NOUN all/ADV around/ADV in/ADP the/DET air/NOUN#0.0#0.0

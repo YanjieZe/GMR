@@ -1,0 +1,3 @@
+a person kicks low with left foot followed by right foot.#a/DET person/NOUN kick/VERB low/ADJ with/ADP left/ADJ foot/NOUN follow/VERB by/ADP right/ADJ foot/NOUN#0.0#0.0
+a person kicks something with both legs in succession.#a/DET person/NOUN kick/VERB something/PRON with/ADP both/DET leg/NOUN in/ADP succession/NOUN#0.0#0.0
+he swings left foot forward and then right foot forward#he/PRON swing/VERB left/VERB foot/NOUN forward/ADV and/CCONJ then/ADV right/ADJ foot/NOUN forward/ADV#0.0#0.0

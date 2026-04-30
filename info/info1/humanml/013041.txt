@@ -1,0 +1,3 @@
+a person randomly moves by rotating across the ground, with a stiff body, elbows by their side, and forearms stretched in front of their torso.#a/DET person/NOUN randomly/ADV move/NOUN by/ADP rotate/VERB across/ADP the/DET ground/NOUN with/ADP a/DET stiff/ADJ body/NOUN elbow/NOUN by/ADP their/DET side/NOUN and/CCONJ forearm/NOUN stretch/VERB in/ADP front/NOUN of/ADP their/DET torso/NOUN#0.0#0.0
+a person seems to be listening to music and dancing at the same time#a/DET person/NOUN seem/VERB to/PART be/AUX listen/VERB to/ADP music/NOUN and/CCONJ dancing/NOUN at/ADP the/DET same/ADJ time/NOUN#0.0#0.0
+the person is dancing around#the/DET person/NOUN is/AUX dance/VERB around/ADV#0.0#0.0

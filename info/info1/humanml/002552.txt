@@ -1,0 +1,3 @@
+a person leans to the left with right arm above head.#a/DET person/NOUN lean/VERB to/ADP the/DET left/NOUN with/ADP right/ADJ arm/NOUN above/ADP head/NOUN#0.0#0.0
+a person with his left arm up shakes#a/DET person/NOUN with/ADP his/DET left/ADJ arm/NOUN up/ADP shake/NOUN#0.0#0.0
+the person has the right arm raised. he shakes his body with the arm still raised.#the/DET person/NOUN has/AUX the/DET right/ADJ arm/NOUN raise/VERB he/PRON shake/VERB his/DET body/NOUN with/ADP the/DET arm/NOUN still/ADV raise/VERB#0.0#0.0

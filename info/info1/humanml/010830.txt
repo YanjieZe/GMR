@@ -1,0 +1,3 @@
+a person shakes out their arms and shoulders while keeping their hands at their sides.#a/DET person/NOUN shake/VERB out/ADP their/DET arm/NOUN and/CCONJ shoulder/NOUN while/SCONJ keep/VERB their/DET hand/NOUN at/ADP their/DET side/NOUN#0.0#0.0
+a figure does the low down shoulder shimmy.#a/DET figure/NOUN does/AUX the/DET low/ADJ down/ADP shoulder/NOUN shimmy/NOUN#0.0#0.0
+the person is shaking both of his shoulders.#the/DET person/NOUN is/AUX shake/VERB both/DET of/ADP his/DET shoulder/NOUN#0.0#0.0

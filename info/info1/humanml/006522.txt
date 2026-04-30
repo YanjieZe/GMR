@@ -1,0 +1,3 @@
+the person is scratching their head in confusion.#the/DET person/NOUN is/AUX scratch/VERB their/DET head/NOUN in/ADP confusion/NOUN#0.0#0.0
+a person with his weight on his left leg takes two side steps, touches his head with his right hand and then lowers his arm.#a/DET person/NOUN with/ADP his/DET weight/NOUN on/ADP his/DET left/ADJ leg/NOUN take/VERB two/NUM side/NOUN step/NOUN touch/VERB his/DET head/NOUN with/ADP his/DET right/ADJ hand/NOUN and/CCONJ then/ADV lower/VERB his/DET arm/NOUN#0.0#0.0
+a person shields their eyes with their right hand and looks around.#a/DET person/NOUN shield/VERB their/DET eye/NOUN with/ADP their/DET right/ADJ hand/NOUN and/CCONJ look/VERB around/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks counterclockwise in a large curve while swinging their arms.#a/DET person/NOUN walk/VERB counterclockwise/NOUN in/ADP a/DET large/ADJ curve/NOUN while/SCONJ swinge/VERB their/DET arm/NOUN#0.0#0.0
+a person walks in a large, counterclockwise, circular shape.#a/DET person/NOUN walk/VERB in/ADP a/DET large/ADJ counterclockwise/ADJ circular/ADJ shape/NOUN#0.0#0.0
+a man walks in a counter clockwise circle.#a/DET man/NOUN walk/VERB in/ADP a/DET counter/NOUN clockwise/NOUN circle/NOUN#0.0#0.0

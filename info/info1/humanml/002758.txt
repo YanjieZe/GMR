@@ -1,0 +1,3 @@
+a person waddling forward and turning to the left#a/DET person/NOUN waddle/VERB forward/ADV and/CCONJ turn/VERB to/ADP the/DET left/NOUN#0.0#0.0
+a person takes six short steps (perhaps tip-toeing), then an additional step, while panning their head slowly to the left.#a/DET person/NOUN take/VERB six/NUM short/ADJ step/NOUN perhaps/ADV tiptoe/VERB then/ADV an/DET additional/ADJ step/NOUN while/SCONJ pan/VERB their/DET head/NOUN slowly/ADV to/ADP the/DET left/NOUN#0.0#0.0
+a person walks down a path then turns torso and looks to the left#a/DET person/NOUN walk/VERB down/ADP a/DET path/NOUN then/ADV turn/VERB torso/PRON and/CCONJ look/VERB to/ADP the/DET left/NOUN#0.0#0.0

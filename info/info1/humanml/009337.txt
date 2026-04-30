@@ -1,0 +1,3 @@
+the man is waving happily#the/DET man/NOUN is/AUX wave/VERB happily/ADV#0.0#0.0
+waving good bye to family or friends.#wave/VERB good/ADJ bye/NOUN to/ADP family/NOUN or/CCONJ friend/NOUN#0.0#0.0
+a person waves with their right arm#a/DET person/NOUN wave/VERB with/ADP their/DET right/ADJ arm/NOUN#0.0#0.0

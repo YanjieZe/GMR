@@ -1,0 +1,3 @@
+walking in a circular motion.#walk/VERB in/ADP a/DET circular/ADJ motion/NOUN#0.0#0.0
+a person walking in a strange way and in a circular motion#a/DET person/NOUN walk/VERB in/ADP a/DET strange/ADJ way/NOUN and/CCONJ in/ADP a/DET circular/ADJ motion/NOUN#0.0#0.0
+a person walks in a circle but stays facing the same direction throughout.#a/DET person/NOUN walk/VERB in/ADP a/DET circle/NOUN but/CCONJ stay/VERB face/VERB the/DET same/ADJ direction/NOUN throughout/ADV#0.0#0.0

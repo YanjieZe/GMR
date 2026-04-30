@@ -1,0 +1,3 @@
+swimming doing a backstroke.#swimming/NOUN do/VERB a/DET backstroke/NOUN#0.0#0.0
+a person does a backstroke in the water.#a/DET person/NOUN does/AUX a/DET backstroke/NOUN in/ADP the/DET water/NOUN#0.0#0.0
+the person seems to be on their back doing backstroke swimming motions with their arms and "swimming" with their feet.#the/DET person/NOUN seem/VERB to/PART be/AUX on/ADP their/DET back/NOUN do/VERB backstroke/ADJ swimming/NOUN motion/NOUN with/ADP their/DET arm/NOUN and/CCONJ swim/VERB with/ADP their/DET foot/NOUN#0.0#0.0

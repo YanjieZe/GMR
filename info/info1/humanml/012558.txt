@@ -1,0 +1,3 @@
+a person walks forward and then pulls something behind them.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ then/ADV pull/VERB something/PRON behind/ADP them/PRON#0.0#0.0
+person is stumbling while trying to pick up something#person/NOUN is/AUX stumble/VERB while/SCONJ try/VERB to/PART pick/VERB up/ADP something/PRON#0.0#0.0
+a man walks forward than backwards while moving his arms.#a/DET man/NOUN walk/VERB forward/ADV than/SCONJ backwards/ADV while/SCONJ move/VERB his/DET arm/NOUN#0.0#0.0

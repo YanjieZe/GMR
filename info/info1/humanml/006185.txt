@@ -1,0 +1,3 @@
+the person is running around in a circle.#the/DET person/NOUN is/AUX run/VERB around/ADV in/ADP a/DET circle/NOUN#0.0#0.0
+this person briskly walks in circles twice.#this/DET person/NOUN briskly/ADV walk/VERB in/ADP circle/NOUN twice/ADV#0.0#0.0
+a person walks in a counterclockwise oval to their original position and then proceeds to walk in a much smaller counterclockwise circle#a/DET person/NOUN walk/VERB in/ADP a/DET counterclockwise/ADJ oval/NOUN to/ADP their/DET original/ADJ position/NOUN and/CCONJ then/ADV proceed/VERB to/PART walk/VERB in/ADP a/DET much/ADV smaller/ADJ counterclockwise/NOUN circle/NOUN#0.0#0.0

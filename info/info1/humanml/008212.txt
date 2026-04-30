@@ -1,0 +1,3 @@
+a person claps their hands together approximately seven times.#a/DET person/NOUN clap/VERB their/DET hand/NOUN together/ADV approximately/ADV seven/NUM time/NOUN#0.0#0.0
+a person claps hands in front of body.#a/DET person/NOUN clap/VERB hand/NOUN in/ADP front/NOUN of/ADP body/NOUN#0.0#0.0
+a person raises both their hands and claps.#a/DET person/NOUN raise/VERB both/CCONJ their/DET hand/NOUN and/CCONJ clap/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person throws two front kicks, two side kicks then 2 punches.#a/DET person/NOUN throw/VERB two/NUM front/ADJ kick/NOUN two/NUM side/NOUN kick/NOUN then/ADV punch/NOUN#0.0#0.0
+a person kicks forward twice with their left leg, then kicks twice to the side with their left leg, then punches twice with their right hand.#a/DET person/NOUN kick/VERB forward/ADV twice/ADV with/ADP their/DET left/ADJ leg/NOUN then/ADV kick/VERB twice/ADV to/ADP the/DET side/NOUN with/ADP their/DET left/ADJ leg/NOUN then/ADV punch/VERB twice/ADV with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+in this picture a man stand in there#in/ADP this/DET picture/NOUN a/DET man/NOUN stand/VERB in/ADV there/ADV#1.0#6.0

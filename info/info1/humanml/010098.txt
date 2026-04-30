@@ -1,0 +1,3 @@
+a person jumps slightly up and down with feet a part and arms held outstretched to the sides, raised slightly#a/DET person/NOUN jump/VERB slightly/ADV up/ADV and/CCONJ down/ADP with/ADP foot/NOUN a/DET part/NOUN and/CCONJ arm/NOUN hold/VERB outstretche/VERB to/ADP the/DET side/NOUN raise/VERB slightly/ADV#0.0#0.0
+a person gently bounces up and down.#a/DET person/NOUN gently/ADV bounce/VERB up/ADP and/CCONJ down/ADV#0.0#0.0
+a person hops off the ground gently.#a/DET person/NOUN hop/VERB off/ADP the/DET ground/NOUN gently/ADV#0.0#0.0

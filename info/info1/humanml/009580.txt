@@ -1,0 +1,3 @@
+this person is moving as if his is playing a guitar.#this/DET person/NOUN is/AUX move/VERB as/SCONJ if/SCONJ his/DET is/AUX play/VERB a/DET guitar/NOUN#0.0#0.0
+a person does the dance to the tune "im a little teapot"#a/DET person/NOUN does/AUX the/DET dance/NOUN to/ADP the/DET tune/NOUN i/PRON be/VERB a/DET little/ADJ teapot/NOUN#0.0#0.0
+a man lowers his right hand then shakes his whole body then lens to the right then goes back to the original position.#a/DET man/NOUN lower/VERB his/DET right/ADJ hand/NOUN then/ADV shake/VERB his/DET whole/ADJ body/NOUN then/ADV len/VERB to/ADP the/DET right/NOUN then/ADV go/VERB back/ADV to/ADP the/DET original/ADJ position/NOUN#0.0#0.0

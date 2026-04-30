@@ -1,0 +1,3 @@
+the man tries to stand in a yoga tree pose and looses his balance.#the/DET man/NOUN try/VERB to/PART stand/VERB in/ADP a/DET yoga/NOUN tree/NOUN pose/NOUN and/CCONJ loose/VERB his/DET balance/NOUN#0.0#0.0
+the person is standing on one leg.#the/DET person/NOUN is/AUX stand/VERB on/ADP one/NUM leg/NOUN#0.0#0.0
+a person appears to balancing on one leg#a/DET person/NOUN appear/VERB to/ADP balance/VERB on/ADP one/NUM leg/NOUN#0.0#0.0

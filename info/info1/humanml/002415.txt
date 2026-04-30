@@ -1,0 +1,3 @@
+the person stood with his hands out of his side then he put them down a flapped them like a bird.#the/DET person/NOUN stand/VERB with/ADP his/DET hand/NOUN out/SCONJ of/ADP his/DET side/NOUN then/ADV he/PRON put/VERB them/PRON down/ADP a/DET flap/VERB them/PRON like/SCONJ a/DET bird/NOUN#0.0#0.0
+a person trying to hold dumbbells up at their side, getting tired towards the end.#a/DET person/NOUN try/VERB to/PART hold/VERB dumbbell/NOUN up/ADP at/ADP their/DET side/NOUN get/VERB tired/ADJ towards/ADP the/DET end/NOUN#0.0#0.0
+this person stands with arms out to the sides and lowers them then lifts.#this/DET person/NOUN stand/VERB with/ADP arm/NOUN out/SCONJ to/ADP the/DET side/NOUN and/CCONJ lower/VERB them/PRON then/ADV lift/VERB#0.0#0.0

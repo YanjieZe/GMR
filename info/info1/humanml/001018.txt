@@ -1,0 +1,2 @@
+a person shuffles to the left, then the right, takes a step backwards and then hobbles forward.#a/DET person/NOUN shuffle/VERB to/ADP the/DET left/NOUN then/ADV the/DET right/NOUN take/VERB a/DET step/NOUN backwards/ADV and/CCONJ then/ADV hobble/VERB forward/ADV#0.0#0.0
+a person moves around to create the shape of an eight#a/DET person/NOUN move/VERB around/ADP to/PART create/VERB the/DET shape/NOUN of/ADP an/DET eight/NUM#0.0#0.0

@@ -1,0 +1,3 @@
+the man leans forwards, hunched over, with his hands on his knees.#the/DET man/NOUN lean/VERB forwards/ADV hunch/VERB over/ADP with/ADP his/DET hand/NOUN on/ADP his/DET knee/NOUN#0.0#0.0
+a person resting their hands on their thighs. then they touch their face.#a/DET person/NOUN rest/VERB their/DET hand/NOUN on/ADP their/DET thigh/NOUN then/ADV they/PRON touch/VERB their/DET face/NOUN#0.0#0.0
+the man sits and holds face in hands#the/DET man/NOUN sit/VERB and/CCONJ hold/VERB face/NOUN in/ADP hand/NOUN#0.0#0.0

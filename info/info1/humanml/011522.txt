@@ -1,0 +1,3 @@
+the motion starts out by jumping to the side and then starts dancing to the macarina.#the/DET motion/NOUN start/VERB out/ADP by/ADP jump/VERB to/ADP the/DET side/NOUN and/CCONJ then/ADV start/VERB dancing/NOUN to/ADP the/DET macarina/NOUN#0.0#0.0
+the person is doing the macarena dance.#the/DET person/NOUN is/AUX do/VERB the/DET macarena/PROPN dance/NOUN#0.0#0.0
+person is doing macarena dance#person/NOUN is/AUX do/VERB macarena/PROPN dance/PROPN#0.0#0.0

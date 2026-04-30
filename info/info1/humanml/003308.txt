@@ -1,0 +1,3 @@
+a man throws an object with his right hand, then catching an object with both hands.#a/DET man/NOUN throw/VERB an/DET object/NOUN with/ADP his/DET right/ADJ hand/NOUN then/ADV catch/VERB an/DET object/NOUN with/ADP both/DET hand/NOUN#0.0#0.0
+this orrson waves forward with the right arm.#this/DET orrson/NOUN wave/VERB forward/ADV with/ADP the/DET right/ADJ arm/NOUN#0.0#0.0
+a person swats their hand forward then raises both hands before dropping them.#a/DET person/NOUN swat/VERB their/DET hand/NOUN forward/ADV then/ADV raise/VERB both/DET hand/NOUN before/ADP drop/VERB them/PRON#0.0#0.0

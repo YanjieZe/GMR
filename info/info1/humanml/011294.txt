@@ -1,0 +1,3 @@
+a person walks straight forward.#a/DET person/NOUN walk/VERB straight/ADV forward/ADV#0.0#0.0
+this person walks forward then stops.#this/DET person/NOUN walk/VERB forward/ADV then/ADV stop/VERB#0.0#0.0
+the person walks forward in a fairly straightforward line for avout 5 steps ans stops at the edge of the perimeter#the/DET person/NOUN walk/VERB forward/ADV in/ADP a/DET fairly/ADV straightforward/ADJ line/NOUN for/ADP avout/ADV step/NOUN ans/PROPN stop/NOUN at/ADP the/DET edge/NOUN of/ADP the/DET perimeter/NOUN#0.0#0.0

@@ -1,0 +1,2 @@
+a person walks forward then drastically to the left like they have been pushed then returns to walking normally#a/DET person/NOUN walk/VERB forward/ADV then/ADV drastically/ADV to/ADP the/DET left/NOUN like/INTJ they/PRON have/AUX been/AUX push/VERB then/ADV return/VERB to/ADP walk/VERB normally/ADV#0.0#0.0
+a person is walking and goes side to side#a/DET person/NOUN is/AUX walk/VERB and/CCONJ go/VERB side/NOUN to/PART side/VERB#0.0#0.0

@@ -1,0 +1,3 @@
+a person is sitting down with both hands up, and moves his right hand up#a/DET person/NOUN is/AUX sit/VERB down/ADP with/ADP both/DET hand/NOUN up/ADP and/CCONJ move/VERB his/DET right/ADJ hand/NOUN up/ADP#0.0#0.0
+a man is in a squatting position, hands at shoulder height, and he lifts his right arm before dropping it.#a/DET man/NOUN is/AUX in/ADP a/DET squat/VERB position/NOUN hand/NOUN at/ADP shoulder/NOUN height/NOUN and/CCONJ he/PRON lift/VERB his/DET right/ADJ arm/NOUN before/ADP drop/VERB it/PRON#0.0#0.0
+the man is eating with his finger#the/DET man/NOUN is/AUX eat/VERB with/ADP his/DET finger/NOUN#0.0#0.0

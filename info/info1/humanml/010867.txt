@@ -1,0 +1,3 @@
+this person is gesturing with both hands as if he is teaching.#this/DET person/NOUN is/AUX gesture/VERB with/ADP both/DET hand/NOUN as/SCONJ if/SCONJ he/PRON is/AUX teach/VERB#0.0#0.0
+a man mimes different motions with his hands.#a/DET man/NOUN mime/VERB different/ADJ motion/NOUN with/ADP his/DET hand/NOUN#0.0#0.0
+the sim appears to be driving a boat & looking through binoculars.#the/DET sim/PROPN appear/VERB to/PART be/AUX drive/VERB a/DET boat/NOUN look/VERB through/ADP binocular/NOUN#0.0#0.0

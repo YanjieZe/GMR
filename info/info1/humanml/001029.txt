@@ -1,0 +1,3 @@
+someone is walking forward and holding a handrail very carefully, as if they are afraid of falling.#someone/PRON is/AUX walk/VERB forward/ADV and/CCONJ hold/VERB a/DET handrail/NOUN very/ADV carefully/ADV as/SCONJ if/SCONJ they/PRON are/AUX afraid/ADJ of/ADP fall/VERB#0.0#0.0
+a person walks forward slowly while holding on to something on either side of them.#a/DET person/NOUN walk/VERB forward/ADV slowly/ADV while/SCONJ hold/VERB on/ADP to/ADP something/PRON on/ADP either/DET side/NOUN of/ADP them/PRON#0.0#0.0
+a person walks on uneven ground whilst holding on to handrail.#a/DET person/NOUN walk/VERB on/ADP uneven/ADJ ground/NOUN whilst/SCONJ hold/VERB on/ADP to/ADP handrail/PROPN#0.0#0.0

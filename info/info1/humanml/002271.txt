@@ -1,0 +1,3 @@
+a person opens an item in their right hand.#a/DET person/NOUN open/VERB an/DET item/NOUN in/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+a man makes the "time-out" sign with his hands.#a/DET man/NOUN make/VERB the/DET timeout/NOUN sign/NOUN with/ADP his/DET hand/NOUN#0.0#0.0
+the person is putting his left arm up to look at his watch.#the/DET person/NOUN is/AUX put/VERB his/DET left/ADJ arm/NOUN up/ADP to/PART look/VERB at/ADP his/DET watch/NOUN#0.0#0.0

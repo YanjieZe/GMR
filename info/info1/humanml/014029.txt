@@ -1,0 +1,3 @@
+person swivels left and right while holding up both hands to his mouth and cupping them.#person/NOUN swivel/VERB left/VERB and/CCONJ right/ADV while/SCONJ hold/VERB up/ADP both/DET hand/NOUN to/ADP his/DET mouth/NOUN and/CCONJ cup/VERB them/PRON#0.0#0.0
+person appears to be cupping hands over mouth#person/NOUN appear/VERB to/PART be/AUX cup/VERB hand/NOUN over/ADP mouth/NOUN#0.0#0.0
+a person puts their hands to their mouth as if shouting something.#a/DET person/NOUN put/VERB their/DET hand/NOUN to/ADP their/DET mouth/NOUN as/SCONJ if/SCONJ shout/VERB something/PRON#0.0#0.0

@@ -1,0 +1,3 @@
+a person lifts their left arm, returns it down, and walks backward.#a/DET person/NOUN lift/VERB their/DET left/ADJ arm/NOUN return/VERB it/PRON down/ADP and/CCONJ walk/VERB backward/ADV#0.0#0.0
+the figure lifts the right arm, puts right arm back down, stands, and then steps backward.#the/DET figure/NOUN lift/VERB the/DET right/ADJ arm/NOUN put/VERB right/ADJ arm/NOUN back/ADV down/ADV stand/VERB and/CCONJ then/ADV step/VERB backward/ADV#0.0#0.0
+a person raises their blue arm up and puts it down. then they take one step backwards.#a/DET person/NOUN raise/VERB their/DET blue/ADJ arm/NOUN up/ADP and/CCONJ put/VERB it/PRON down/ADP then/ADV they/PRON take/VERB one/NUM step/NOUN backwards/ADV#0.0#0.0

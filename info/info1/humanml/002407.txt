@@ -1,0 +1,3 @@
+a person walking holding a rail.#a/DET person/NOUN walk/VERB hold/VERB a/DET rail/NOUN#0.0#0.0
+a person is walking with a handrail and then steps down.#a/DET person/NOUN is/AUX walk/VERB with/ADP a/DET handrail/NOUN and/CCONJ then/ADV step/VERB down/ADP#0.0#0.0
+person staggers from front to their right and  puts out right arm for stability#person/NOUN stagger/VERB from/ADP front/NOUN to/ADP their/DET right/NOUN and/CCONJ put/VERB out/ADP right/ADJ arm/NOUN for/ADP stability/NOUN#0.0#0.0

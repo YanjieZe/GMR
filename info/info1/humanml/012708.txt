@@ -1,0 +1,3 @@
+person walks forward with right arm slightly extended as compared to left arm.#person/NOUN walk/VERB forward/ADV with/ADP right/ADJ arm/NOUN slightly/ADV extend/VERB as/SCONJ compare/VERB to/ADP left/ADJ arm/NOUN#0.0#0.0
+a person went down forward#a/DET person/NOUN go/VERB down/ADP forward/ADV#0.0#0.0
+a person is walking down steps.#a/DET person/NOUN is/AUX walk/VERB down/ADP step/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+person was pushed from behind but cab standing.#person/NOUN was/AUX push/VERB from/ADP behind/ADV but/CCONJ cab/NOUN standing/NOUN#0.0#0.0
+a person walks forward#a/DET person/NOUN walk/VERB forward/ADV#0.0#0.0
+the man jogs forward 2 steps.#the/DET man/NOUN jog/VERB forward/ADV step/NOUN#0.0#0.0

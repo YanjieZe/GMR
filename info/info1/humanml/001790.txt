@@ -1,0 +1,3 @@
+a man walks forward and then stops.#a/DET man/NOUN walk/VERB forward/ADV and/CCONJ then/ADV stop/VERB#0.0#0.0
+person walks forward and to the right#person/NOUN walk/VERB forward/ADV and/CCONJ to/ADP the/DET right/NOUN#0.0#0.0
+a man walks to the left and stops at the front.#a/DET man/NOUN walk/VERB to/ADP the/DET left/NOUN and/CCONJ stop/NOUN at/ADP the/DET front/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks forward at a angle#a/DET person/NOUN walk/VERB forward/ADV at/ADP a/DET angle/NOUN#0.0#0.0
+person walks right top to bottom left in a slow motion and stands still#person/NOUN walk/VERB right/ADJ top/NOUN to/ADP bottom/NOUN left/VERB in/ADP a/DET slow/ADJ motion/NOUN and/CCONJ stand/VERB still/ADV#0.0#0.0
+a person walks forward and to the right.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ to/ADP the/DET right/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks backwards, then forwards and while going forward they are pushed towards the left and crouch.#a/DET person/NOUN walk/VERB backwards/ADV then/ADV forwards/ADV and/CCONJ while/SCONJ go/VERB forward/ADV they/PRON are/AUX push/VERB towards/ADP the/DET left/NOUN and/CCONJ crouch/NOUN#0.0#0.0
+stick figure is walking back and waving its arms#stick/PROPN figure/NOUN is/AUX walk/VERB back/ADV and/CCONJ wave/VERB its/DET arm/NOUN#0.0#5.0
+a person walks back and forward waving its arms then squats.#a/DET person/NOUN walk/VERB back/ADV and/CCONJ forward/ADV wave/VERB its/DET arm/NOUN then/ADV squat/NOUN#0.0#0.0

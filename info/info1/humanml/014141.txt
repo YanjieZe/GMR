@@ -1,0 +1,3 @@
+a man, about face, raises both of his arms in the air and knocks with both hands.#a/DET man/NOUN about/ADP face/NOUN raise/VERB both/DET of/ADP his/DET arm/NOUN in/ADP the/DET air/NOUN and/CCONJ knock/NOUN with/ADP both/DET hand/NOUN#0.0#0.0
+a person puts their hands above their head and appears to hit with both hands.#a/DET person/NOUN put/VERB their/DET hand/NOUN above/ADP their/DET head/NOUN and/CCONJ appear/VERB to/PART hit/VERB with/ADP both/DET hand/NOUN#0.0#0.0
+the person is banging on a high object.#the/DET person/NOUN is/AUX bang/VERB on/ADP a/DET high/ADJ object/NOUN#0.0#0.0

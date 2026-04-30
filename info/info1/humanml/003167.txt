@@ -1,0 +1,3 @@
+a person lifts and object toward their head with both arms, then raises their left arm above their head.#a/DET person/NOUN lift/VERB and/CCONJ object/VERB toward/ADP their/DET head/NOUN with/ADP both/DET arm/NOUN then/ADV raise/VERB their/DET left/ADJ arm/NOUN above/ADP their/DET head/NOUN#0.0#0.0
+a man raises his right arm and then his left.#a/DET man/NOUN raise/VERB his/DET right/ADJ arm/NOUN and/CCONJ then/ADV his/DET left/NOUN#0.0#0.0
+a person is drinking something with his left hand.#a/DET person/NOUN is/AUX drink/VERB something/PRON with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0

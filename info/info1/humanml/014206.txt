@@ -1,0 +1,3 @@
+a figure winds up then throws as hard as they can#a/DET figure/NOUN wind/VERB up/ADP then/ADV throw/VERB as/ADV hard/ADV as/SCONJ they/PRON can/VERB#0.0#0.0
+a man steps forward with his left arm, holds something up with his right hand, and smacks it hard with his left hand, before stepping back.#a/DET man/NOUN step/VERB forward/ADV with/ADP his/DET left/ADJ arm/NOUN hold/VERB something/PRON up/ADP with/ADP his/DET right/ADJ hand/NOUN and/CCONJ smack/VERB it/PRON hard/ADJ with/ADP his/DET left/ADJ hand/NOUN before/ADP step/VERB back/ADV#0.0#5.5
+person is serving in tennis#person/NOUN is/AUX serve/VERB in/ADP tennis/NOUN#0.0#0.0

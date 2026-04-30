@@ -1,0 +1,3 @@
+a man turns around and walks forward.#a/DET man/NOUN turn/VERB around/ADP and/CCONJ walk/VERB forward/ADV#0.0#0.0
+a person walks while swaying his arms, turns around and walks back the same way.#a/DET person/NOUN walk/VERB while/SCONJ sway/VERB his/DET arm/NOUN turn/VERB around/ADV and/CCONJ walk/VERB back/ADV the/DET same/ADJ way/NOUN#0.0#0.0
+a person struts forward, than turns around and walks back.#a/DET person/NOUN strut/VERB forward/ADV than/SCONJ turn/VERB around/ADV and/CCONJ walk/VERB back/ADV#0.0#0.0

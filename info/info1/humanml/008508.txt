@@ -1,0 +1,3 @@
+the person is doing a wind up throw.#the/DET person/NOUN is/AUX do/VERB a/DET wind/NOUN up/ADP throw/NOUN#0.0#0.0
+a person winds up their left arm to pitch and then rolls both their arms in a stretch#a/DET person/NOUN wind/VERB up/ADP their/DET left/ADJ arm/NOUN to/PART pitch/NOUN and/CCONJ then/ADV roll/VERB both/DET their/DET arm/NOUN in/ADP a/DET stretch/NOUN#0.0#0.0
+a person does large reverse arm circles with their left arm, then does large forward arm circles with both arms.#a/DET person/NOUN does/AUX large/ADJ reverse/ADJ arm/NOUN circle/NOUN with/ADP their/DET left/ADJ arm/NOUN then/ADV does/AUX large/ADJ forward/ADV arm/NOUN circle/NOUN with/ADP both/DET arm/NOUN#0.0#0.0

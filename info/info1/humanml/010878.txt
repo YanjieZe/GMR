@@ -1,0 +1,3 @@
+person jogs, stops to bend over, then continues jogging.#person/NOUN jog/VERB stop/VERB to/PART bend/VERB over/ADP then/ADV continue/VERB jogging/NOUN#0.0#0.0
+a person who is running, stops, bends over and looks down while taking small steps, then resumes running.#a/DET person/NOUN who/PRON is/AUX run/VERB stop/VERB bend/VERB over/ADP and/CCONJ look/VERB down/ADP while/SCONJ take/VERB small/ADJ step/NOUN then/ADV resume/VERB run/VERB#0.0#0.0
+a figure sprints, pauses momentarily placing both hands on knees, then continues sprinting#a/DET figure/NOUN sprint/NOUN pause/VERB momentarily/ADV place/VERB both/DET hand/NOUN on/ADP knee/NOUN then/ADV continue/VERB sprinting/NOUN#0.0#0.0

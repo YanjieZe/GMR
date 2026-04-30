@@ -1,0 +1,3 @@
+a person is bowling during cricket#a/DET person/NOUN is/AUX bowl/VERB during/ADP cricket/NOUN#0.0#0.0
+bend down and basketball hoop jump. then angry throw afterwards#bend/VERB down/ADP and/CCONJ basketball/VERB hoop/PROPN jump/PROPN then/ADV angry/ADJ throw/NOUN afterwards/ADV#0.0#0.0
+the person is throwing a basketball.#the/DET person/NOUN is/AUX throw/VERB a/DET basketball/NOUN#0.0#0.0

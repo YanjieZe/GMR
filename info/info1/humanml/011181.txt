@@ -1,0 +1,3 @@
+a person swift the upper codre body, and start to stretch it#a/DET person/NOUN swift/VERB the/DET upper/ADJ codre/PROPN body/NOUN and/CCONJ start/VERB to/PART stretch/VERB it/PRON#0.0#0.0
+this person twist at the hips and bends left to right with arms extended.#this/DET person/NOUN twist/NOUN at/ADP the/DET hip/NOUN and/CCONJ bend/NOUN left/VERB to/ADP right/ADJ with/ADP arm/NOUN extend/VERB#0.0#0.0
+spinning body from side to side while raising arms.#spin/VERB body/NOUN from/ADP side/NOUN to/PART side/NOUN while/SCONJ raise/VERB arm/NOUN#0.0#0.0

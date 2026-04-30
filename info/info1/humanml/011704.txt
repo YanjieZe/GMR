@@ -1,0 +1,3 @@
+a man bends over at he holds something in his left hand and brushes its top and bottom with his right hand, before setting it down and sidestepping to his right.#a/DET man/NOUN bend/VERB over/ADP at/ADP he/PRON hold/VERB something/PRON in/ADP his/DET left/ADJ hand/NOUN and/CCONJ brush/VERB its/DET top/ADJ and/CCONJ bottom/NOUN with/ADP his/DET right/ADJ hand/NOUN before/ADP set/VERB it/PRON down/ADP and/CCONJ sidestep/VERB to/ADP his/DET right/NOUN#0.0#0.0
+person is washing on top and under a table#person/NOUN is/AUX wash/VERB on/ADP top/NOUN and/CCONJ under/ADP a/DET table/NOUN#0.0#0.0
+a person washes a car.#a/DET person/NOUN wash/VERB a/DET car/NOUN#0.0#0.0

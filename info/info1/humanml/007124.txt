@@ -1,0 +1,3 @@
+a person sidesteps to their left and moves their right hand as if writing something on a chalkboard.#a/DET person/NOUN sidestep/VERB to/ADP their/DET left/NOUN and/CCONJ move/VERB their/DET right/ADJ hand/NOUN as/SCONJ if/SCONJ write/VERB something/PRON on/ADP a/DET chalkboard/NOUN#0.0#0.0
+the person is drinking with his left hand.#the/DET person/NOUN is/AUX drink/VERB with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0
+an individual stands and appears to scribble on a wall board.#an/DET individual/ADJ stand/VERB and/CCONJ appear/VERB to/PART scribble/VERB on/ADP a/DET wall/PROPN board/PROPN#0.0#0.0

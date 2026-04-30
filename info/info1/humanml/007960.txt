@@ -1,0 +1,3 @@
+a man runs forward several steps, stopping in a standing position.#a/DET man/NOUN run/VERB forward/ADV several/ADJ step/NOUN stop/VERB in/ADP a/DET standing/ADJ position/NOUN#0.0#0.0
+figure moves forward quickly, moving arms with every step, and stops.#figure/NOUN move/VERB forward/ADV quickly/ADV move/VERB arm/NOUN with/ADP every/DET step/NOUN and/CCONJ stop/NOUN#0.0#0.0
+a person runs forward, swinging their arms a little.#a/DET person/NOUN run/VERB forward/ADV swinge/VERB their/DET arm/NOUN a/DET little/ADJ#0.0#0.0

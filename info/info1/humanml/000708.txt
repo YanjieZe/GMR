@@ -1,0 +1,3 @@
+she jumps up and down, kicking her heels in the air.#she/PRON jump/VERB up/ADV and/CCONJ down/ADV kick/VERB her/DET heel/NOUN in/ADP the/DET air/NOUN#0.0#0.0
+person is jumping up and down vigorously and putting their legs back#person/NOUN is/AUX jump/VERB up/ADP and/CCONJ down/ADV vigorously/ADV and/CCONJ put/VERB their/DET leg/NOUN back/ADV#0.0#0.0
+a person jumps multiple times.#a/DET person/NOUN jump/VERB multiple/ADJ time/NOUN#0.0#0.0

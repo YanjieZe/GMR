@@ -1,0 +1,3 @@
+person is making a basketball move#person/NOUN is/AUX make/VERB a/DET basketball/NOUN move/NOUN#0.0#0.0
+person brings both hands together and swings them in a circle around in front of him, before suddenly dashing forwards.#person/NOUN bring/VERB both/DET hand/NOUN together/ADV and/CCONJ swing/VERB them/PRON in/ADP a/DET circle/NOUN around/ADP in/ADP front/NOUN of/ADP him/PRON before/ADP suddenly/ADV dash/VERB forwards/ADV#0.0#0.0
+person faked someone out and then rn away.#person/NOUN fake/VERB someone/PRON out/ADP and/CCONJ then/ADV rn/VERB away/ADV#0.0#0.0

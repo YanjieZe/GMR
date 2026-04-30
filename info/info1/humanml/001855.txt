@@ -1,0 +1,3 @@
+a person raises his right hand above his shoulder and waves, then lowers his hand.#a/DET person/NOUN raise/VERB his/DET right/ADJ hand/NOUN above/ADP his/DET shoulder/NOUN and/CCONJ wave/NOUN then/ADV lower/VERB his/DET hand/NOUN#0.0#0.0
+a person raises his right arm and waves for a few seconds before putting his right arm back down.#a/DET person/NOUN raise/VERB his/DET right/ADJ arm/NOUN and/CCONJ wave/NOUN for/ADP a/DET few/ADJ second/NOUN before/ADP put/VERB his/DET right/ADJ arm/NOUN back/ADV down/ADV#0.0#0.0
+a person standing and waving with his right hand.#a/DET person/NOUN stand/VERB and/CCONJ wave/VERB with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0

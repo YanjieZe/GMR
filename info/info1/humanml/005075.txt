@@ -1,0 +1,3 @@
+person walks, hops, and continues walking#person/NOUN walk/VERB hop/NOUN and/CCONJ continue/VERB walk/VERB#0.0#0.0
+the man is walking on uneven terrain#the/DET man/NOUN is/AUX walk/VERB on/ADP uneven/ADJ terrain/NOUN#0.0#0.0
+a person walking and then leaping#a/DET person/NOUN walk/VERB and/CCONJ then/ADV leap/VERB#0.0#0.0

@@ -1,0 +1,3 @@
+a person holding right arm out, while lifting and lowing left arm in sequence.#a/DET person/NOUN hold/VERB right/ADJ arm/NOUN out/ADP while/SCONJ lift/VERB and/CCONJ low/VERB left/ADJ arm/NOUN in/ADP sequence/NOUN#0.0#0.0
+he does a wipe arm circle#he/PRON does/AUX a/DET wipe/NOUN arm/NOUN circle/NOUN#0.0#0.0
+a person has both arms up and then drops his left.#a/DET person/NOUN has/AUX both/DET arm/NOUN up/ADV and/CCONJ then/ADV drop/VERB his/DET left/NOUN#0.0#0.0

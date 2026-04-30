@@ -1,0 +1,3 @@
+a person can relieve pressure from their back by sitting down in a chair.#a/DET person/NOUN can/VERB relieve/VERB pressure/NOUN from/ADP their/DET back/NOUN by/ADP sit/VERB down/ADP in/ADP a/DET chair/NOUN#0.0#0.0
+the man sits down on the chair#the/DET man/NOUN sit/VERB down/ADP on/ADP the/DET chair/NOUN#0.0#0.0
+person puts arms to the side, sits down and motions some one forward with right hand#person/NOUN put/VERB arm/NOUN to/ADP the/DET side/NOUN sit/VERB down/ADV and/CCONJ motion/NOUN some/DET one/NUM forward/ADV with/ADP right/ADJ hand/NOUN#0.0#0.0

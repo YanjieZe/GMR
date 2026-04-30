@@ -1,0 +1,3 @@
+a man looks like he is walking forward and is also walking up something like stairs.#a/DET man/NOUN look/VERB like/SCONJ he/PRON is/AUX walk/VERB forward/ADV and/CCONJ is/AUX also/ADV walk/VERB up/ADP something/PRON like/SCONJ stair/NOUN#0.0#0.0
+a person walks forward then walks up something.#a/DET person/NOUN walk/VERB forward/ADV then/ADV walk/VERB up/ADP something/PRON#0.0#0.0
+a person walks forward increasing in escalation for each step.#a/DET person/NOUN walk/VERB forward/ADV increase/VERB in/ADP escalation/NOUN for/ADP each/DET step/NOUN#0.0#0.0

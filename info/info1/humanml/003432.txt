@@ -1,0 +1,3 @@
+a person sits on a ledge#a/DET person/NOUN sit/VERB on/ADP a/DET ledge/NOUN#0.0#0.0
+a person sits down on a stool.#a/DET person/NOUN sit/VERB down/ADP on/ADP a/DET stool/NOUN#0.0#0.0
+a person steps to a stool, turns clockwise and sits down, putting feet on rung, then puts hands in lap.#a/DET person/NOUN step/VERB to/ADP a/DET stool/NOUN turn/VERB clockwise/NOUN and/CCONJ sit/VERB down/ADV put/VERB foot/NOUN on/ADP rung/PROPN then/ADV put/VERB hand/NOUN in/ADP lap/NOUN#0.0#0.0

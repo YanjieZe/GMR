@@ -1,0 +1,3 @@
+a person sits down, takes a drink, puts the drink back down and gets back up#a/DET person/NOUN sit/VERB down/ADV take/VERB a/DET drink/NOUN put/VERB the/DET drink/NOUN back/ADV down/ADV and/CCONJ get/VERB back/ADV up/ADV#0.0#0.0
+a person takes a seat and answers a phone then stands back up.#a/DET person/NOUN take/VERB a/DET seat/NOUN and/CCONJ answer/VERB a/DET phone/NOUN then/ADV stand/VERB back/ADV up/ADV#0.0#0.0
+the person walk sideways inside down.#the/DET person/NOUN walk/VERB sideways/ADV inside/ADV down/ADV#0.0#0.0

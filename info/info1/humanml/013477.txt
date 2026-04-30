@@ -1,0 +1,3 @@
+a person jumps in place.#a/DET person/NOUN jump/VERB in/ADP place/NOUN#0.0#0.0
+the person is jumping up and down.#the/DET person/NOUN is/AUX jump/VERB up/ADP and/CCONJ down/ADV#0.0#0.0
+a man jumps up once with arms at his side#a/DET man/NOUN jump/VERB up/ADP once/ADV with/ADP arm/NOUN at/ADP his/DET side/NOUN#0.0#0.0

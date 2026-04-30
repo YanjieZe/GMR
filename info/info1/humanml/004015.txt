@@ -1,0 +1,3 @@
+person walks forward with left hand extended to side, trying to feel something.#person/NOUN walk/VERB forward/ADV with/ADP left/ADJ hand/NOUN extend/VERB to/PART side/VERB try/VERB to/PART feel/VERB something/PRON#0.0#0.0
+a person walks forward placing their hand onto a hand rail on there left hand side for stability.#a/DET person/NOUN walk/VERB forward/ADV place/VERB their/DET hand/NOUN onto/ADP a/DET hand/NOUN rail/NOUN on/ADV there/ADV left/ADJ hand/NOUN side/NOUN for/ADP stability/NOUN#0.0#0.0
+the man walks forward slowly#the/DET man/NOUN walk/VERB forward/ADV slowly/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+person stands and turns to right, then squats as if waiting to catch a ball.#person/NOUN stand/VERB and/CCONJ turn/VERB to/ADP right/INTJ then/ADV squat/VERB as/SCONJ if/SCONJ wait/VERB to/PART catch/VERB a/DET ball/NOUN#0.0#0.0
+a person turns, squats and clasps his hands together.#a/DET person/NOUN turn/VERB squat/NOUN and/CCONJ clasp/VERB his/DET hand/NOUN together/ADV#0.0#0.0
+the person was doing a crouch pose.#the/DET person/NOUN was/AUX do/VERB a/DET crouch/NOUN pose/NOUN#0.0#0.0

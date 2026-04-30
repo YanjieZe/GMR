@@ -1,0 +1,3 @@
+the person is hand mixing dough to bake something#the/DET person/NOUN is/AUX hand/NOUN mix/VERB dough/NOUN to/PART bake/VERB something/PRON#0.0#0.0
+a person is using both hands to mix dough#a/DET person/NOUN is/AUX use/VERB both/DET hand/NOUN to/PART mix/VERB dough/NOUN#0.0#0.0
+a person is mixing something around with their hands.#a/DET person/NOUN is/AUX mix/VERB something/PRON around/ADV with/ADP their/DET hand/NOUN#0.0#0.0

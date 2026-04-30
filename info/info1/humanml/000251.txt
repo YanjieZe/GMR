@@ -1,0 +1,3 @@
+a person takes a giant leap forward while his arms flail out to his sides.#a/DET person/NOUN take/VERB a/DET giant/ADJ leap/NOUN forward/ADV while/SCONJ his/DET arm/NOUN flail/VERB out/ADP to/ADP his/DET side/NOUN#0.0#0.0
+a person jumps forward with both legs and arms outsretched and lands in a squat and then stands straight.#a/DET person/NOUN jump/VERB forward/ADV with/ADP both/DET leg/NOUN and/CCONJ arm/NOUN outsretche/VERB and/CCONJ land/NOUN in/ADP a/DET squat/NOUN and/CCONJ then/ADV stand/VERB straight/ADV#0.0#0.0
+person takes a big jump forwards by using their arms as momentum#person/NOUN take/VERB a/DET big/ADJ jump/NOUN forwards/ADV by/ADP use/VERB their/DET arm/NOUN as/SCONJ momentum/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person stomps their left foot.#a/DET person/NOUN stomp/VERB their/DET left/ADJ foot/NOUN#0.0#0.0
+a person bends his left knee while raising his left leg off the ground and bending to his right at the waist.#a/DET person/NOUN bend/VERB his/DET left/ADJ knee/NOUN while/SCONJ raise/VERB his/DET left/ADJ leg/NOUN off/ADP the/DET ground/NOUN and/CCONJ bend/VERB to/ADP his/DET right/NOUN at/ADP the/DET waist/NOUN#0.0#0.0
+a person raised the right hand#a/DET person/NOUN raise/VERB the/DET right/ADJ hand/NOUN#0.0#0.0

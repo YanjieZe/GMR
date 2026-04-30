@@ -1,0 +1,3 @@
+as a person is walking forward he raises and drops both arms, then raises his right hand and moves it left and right.#as/SCONJ a/DET person/NOUN is/AUX walk/VERB forward/ADV he/PRON raise/VERB and/CCONJ drop/VERB both/DET arm/NOUN then/ADV raise/VERB his/DET right/ADJ hand/NOUN and/CCONJ move/VERB it/PRON left/VERB and/CCONJ right/INTJ#0.0#0.0
+a person walks forwards and swings their arms up#a/DET person/NOUN walk/VERB forwards/ADV and/CCONJ swing/VERB their/DET arm/NOUN up/ADP#0.0#0.0
+in this one a person is stand#in/ADP this/DET one/NOUN a/DET person/NOUN is/AUX stand/VERB#1.0#4.0

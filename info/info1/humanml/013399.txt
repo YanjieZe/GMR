@@ -1,0 +1,3 @@
+person carefully walks backwards while balancing.#person/NOUN carefully/ADV walk/VERB backwards/ADV while/SCONJ balance/VERB#0.0#0.0
+a person lifted their right leg up and then walked backwards. they are losing their balance and swinging their arms while walking back.#a/DET person/NOUN lift/VERB their/DET right/ADJ leg/NOUN up/ADP and/CCONJ then/ADV walk/VERB backwards/ADV they/PRON are/AUX lose/VERB their/DET balance/NOUN and/CCONJ swinge/VERB their/DET arm/NOUN while/SCONJ walk/VERB back/ADV#0.0#0.0
+a person walks carefully backwards.#a/DET person/NOUN walk/VERB carefully/ADV backwards/ADV#0.0#0.0

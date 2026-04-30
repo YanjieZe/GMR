@@ -1,0 +1,3 @@
+a person veers to the right while walking.#a/DET person/NOUN veer/VERB to/ADP the/DET right/NOUN while/SCONJ walk/VERB#0.0#0.0
+half moon walk in anticlockwise direction#half/ADJ moon/NOUN walk/NOUN in/ADP anticlockwise/NOUN direction/NOUN#0.0#0.0
+the person is making a right turn.#the/DET person/NOUN is/AUX make/VERB a/DET right/ADJ turn/NOUN#0.0#0.0

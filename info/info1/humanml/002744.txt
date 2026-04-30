@@ -1,0 +1,3 @@
+a person walks in a clockwise circle, while holding his right hand up at eye level#a/DET person/NOUN walk/VERB in/ADP a/DET clockwise/ADJ circle/NOUN while/SCONJ hold/VERB his/DET right/ADJ hand/NOUN up/ADP at/ADP eye/NOUN level/NOUN#0.0#0.0
+the person is walking around slowly.#the/DET person/NOUN is/AUX walk/VERB around/ADP slowly/ADV#0.0#0.0
+the figure walked around with an uneven gait and slouched posture.#the/DET figure/NOUN walk/VERB around/ADV with/ADP an/DET uneven/ADJ gait/NOUN and/CCONJ slouched/ADJ posture/NOUN#0.0#0.0

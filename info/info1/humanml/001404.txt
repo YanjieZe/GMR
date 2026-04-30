@@ -1,0 +1,3 @@
+a man walks forward in place slowly.#a/DET man/NOUN walk/VERB forward/ADV in/ADP place/NOUN slowly/ADV#0.0#0.0
+a person walks forward with arms apart.#a/DET person/NOUN walk/VERB forward/ADV with/ADP arm/NOUN apart/ADV#0.0#0.0
+a person walks in one place.#a/DET person/NOUN walk/VERB in/ADP one/NUM place/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+person shifts weight backwards, then forwards, before bringing hands together and rotating the right arm back in a throw.#person/NOUN shift/VERB weight/NOUN backwards/ADV then/ADV forwards/ADV before/ADP bring/VERB hand/NOUN together/ADV and/CCONJ rotate/VERB the/DET right/ADJ arm/NOUN back/ADV in/ADP a/DET throw/NOUN#0.0#0.0
+a person throws something and then catches something with their right hand.#a/DET person/NOUN throw/VERB something/PRON and/CCONJ then/ADV catch/VERB something/PRON with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+this person catches then throws as if playing baseball.#this/DET person/NOUN catch/VERB then/ADV throw/VERB as/SCONJ if/SCONJ play/VERB baseball/NOUN#0.0#0.0

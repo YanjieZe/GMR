@@ -1,0 +1,3 @@
+a person standing in place raises both arms to the side raising them above eye level.#a/DET person/NOUN stand/VERB in/ADP place/NOUN raise/VERB both/DET arm/NOUN to/ADP the/DET side/NOUN raise/VERB them/PRON above/ADP eye/NOUN level/NOUN#0.0#0.0
+the person is stretching arms out.#the/DET person/NOUN is/AUX stretch/VERB arm/NOUN out/ADV#0.0#0.0
+someone stretches both arms out to the side.#someone/PRON stretch/VERB both/DET arm/NOUN out/ADV to/ADP the/DET side/NOUN#0.0#0.0

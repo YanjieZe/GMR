@@ -1,0 +1,3 @@
+a person pushes an object into the ground with his right hand.#a/DET person/NOUN push/VERB an/DET object/NOUN into/ADP the/DET ground/NOUN with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+person steps forward with the right leg and bends down to pick something up from the ground with their right hand#person/NOUN step/VERB forward/ADV with/ADP the/DET right/ADJ leg/NOUN and/CCONJ bend/VERB down/ADP to/PART pick/VERB something/PRON up/ADP from/ADP the/DET ground/NOUN with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+a person bends down as if to pick something off the floor, then stands back up.#a/DET person/NOUN bend/VERB down/ADP as/SCONJ if/SCONJ to/PART pick/VERB something/PRON off/ADP the/DET floor/NOUN then/ADV stand/VERB back/ADV up/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person is walking forward using their right arm for support on something.#a/DET person/NOUN is/AUX walk/VERB forward/ADV use/VERB their/DET right/ADJ arm/NOUN for/ADP support/NOUN on/ADP something/PRON#0.0#0.0
+a person walking with support .#a/DET person/NOUN walk/VERB with/ADP support/NOUN#0.0#0.0
+someone moving while holding table#someone/PRON move/VERB while/SCONJ hold/VERB table/NOUN#0.0#0.0

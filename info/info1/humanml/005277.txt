@@ -1,0 +1,3 @@
+the person is jogging in place.#the/DET person/NOUN is/AUX jog/VERB in/ADP place/NOUN#0.0#0.0
+a person runs or jogs in place as if they are warming up for something#a/DET person/NOUN run/VERB or/CCONJ jog/VERB in/ADP place/NOUN as/SCONJ if/SCONJ they/PRON are/AUX warm/VERB up/ADP for/ADP something/PRON#0.0#0.0
+a person jogs in place#a/DET person/NOUN jog/VERB in/ADP place/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person jumps and stretches out her legs and arms to the sides, pauses, and then performs jumping jacks.#a/DET person/NOUN jump/VERB and/CCONJ stretch/VERB out/ADP her/DET leg/NOUN and/CCONJ arm/NOUN to/ADP the/DET side/NOUN pause/NOUN and/CCONJ then/ADV perform/VERB jump/VERB jack/NOUN#0.0#0.0
+the person performs star jumps#the/DET person/NOUN perform/VERB star/PROPN jump/VERB#0.0#0.0
+a person doing jumping jacks.#a/DET person/NOUN do/VERB jump/VERB jack/NOUN#0.0#0.0

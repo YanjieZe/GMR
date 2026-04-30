@@ -1,0 +1,3 @@
+figure walks forward, turns right, and walks back toward the direction they came from.#figure/NOUN walk/VERB forward/ADV turn/VERB right/ADJ and/CCONJ walk/VERB back/ADV toward/ADP the/DET direction/NOUN they/PRON come/VERB from/ADP#0.0#0.0
+the man walks forward and turns around to his right in a 180 degree fashion.#the/DET man/NOUN walk/VERB forward/ADV and/CCONJ turn/VERB around/ADP to/ADP his/DET right/NOUN in/ADP a/DET degree/NOUN fashion/NOUN#0.0#0.0
+a person walks two steps forwards then swings their right foot out to turn to the right and walks back.#a/DET person/NOUN walk/VERB two/NUM step/NOUN forwards/ADV then/ADV swing/VERB their/DET right/ADJ foot/NOUN out/ADP to/PART turn/VERB to/ADP the/DET right/NOUN and/CCONJ walk/VERB back/ADV#0.0#0.0

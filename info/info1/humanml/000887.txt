@@ -1,0 +1,3 @@
+a man is running in place.#a/DET man/NOUN is/AUX run/VERB in/ADP place/NOUN#0.0#0.0
+a person is jogging/hopping in place with their arms raised to waist level, almost as if getting ready for a fight or a race.#a/DET person/NOUN is/AUX jog/VERB hopping/NOUN in/ADP place/NOUN with/ADP their/DET arm/NOUN raise/VERB to/ADP waist/ADJ level/NOUN almost/ADV as/SCONJ if/SCONJ get/VERB ready/ADJ for/ADP a/DET fight/NOUN or/CCONJ a/DET race/NOUN#0.0#0.0
+the person is jogging in place.#the/DET person/NOUN is/AUX jog/VERB in/ADP place/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person walked backrwards, and showing something with hands#a/DET person/NOUN walk/VERB backrward/NOUN and/CCONJ show/VERB something/PRON with/ADP hand/NOUN#0.0#9.0
+the person is making hand jesters with his right and left hand.#the/DET person/NOUN is/AUX make/VERB hand/NOUN jester/NOUN with/ADP his/DET right/NOUN and/CCONJ left/VERB hand/NOUN#0.0#0.0
+man throws his hands up, possibly enticing a reaction or attempting to induce a reaction to produce a fight.#man/NOUN throw/VERB his/DET hand/NOUN up/ADP possibly/ADV entice/VERB a/DET reaction/NOUN or/CCONJ attempt/VERB to/PART induce/VERB a/DET reaction/NOUN to/PART produce/VERB a/DET fight/NOUN#0.0#0.0

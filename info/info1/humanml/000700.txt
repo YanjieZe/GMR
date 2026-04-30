@@ -1,0 +1,3 @@
+a person jogs in a straight line.#a/DET person/NOUN jog/VERB in/ADP a/DET straight/ADJ line/NOUN#0.0#0.0
+a man jogs forward on a slanted line.#a/DET man/NOUN jog/VERB forward/ADV on/ADP a/DET slanted/ADJ line/NOUN#0.0#0.0
+a person runs forward with arms bent at the elbow#a/DET person/NOUN run/VERB forward/ADV with/ADP arm/NOUN bent/NOUN at/ADP the/DET elbow/NOUN#0.0#0.0

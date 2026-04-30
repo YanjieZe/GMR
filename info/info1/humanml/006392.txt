@@ -1,0 +1,3 @@
+walking in a sideways pattern.#walk/VERB in/ADP a/DET sideways/NOUN pattern/NOUN#0.0#0.0
+a person walks sideways leading with the right leg then followed by the left leg.#a/DET person/NOUN walk/VERB sideways/ADV lead/VERB with/ADP the/DET right/ADJ leg/NOUN then/ADV follow/VERB by/ADP the/DET left/ADJ leg/NOUN#0.0#10.0
+a man walking off to the side and back.#a/DET man/NOUN walk/VERB off/ADP to/ADP the/DET side/NOUN and/CCONJ back/NOUN#0.0#0.0

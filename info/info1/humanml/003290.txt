@@ -1,0 +1,3 @@
+the person pick something up from the left and sat in on the right.#the/DET person/NOUN pick/VERB something/PRON up/ADP from/ADP the/DET left/NOUN and/CCONJ sit/VERB in/ADP on/ADP the/DET right/NOUN#0.0#0.0
+a man uses both hands to pick something up moves it a few inches to the right and puts down#a/DET man/NOUN use/VERB both/DET hand/NOUN to/PART pick/VERB something/PRON up/ADP move/NOUN it/PRON a/DET few/ADJ inch/NOUN to/ADP the/DET right/NOUN and/CCONJ put/VERB down/ADP#0.0#0.0
+a man picks something up and moves it to the left.#a/DET man/NOUN pick/VERB something/PRON up/ADP and/CCONJ move/VERB it/PRON to/ADP the/DET left/NOUN#0.0#0.0

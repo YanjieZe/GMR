@@ -1,0 +1,3 @@
+a red and blue stick figure walks slowly as he turns and waks in a big circle.#a/DET red/ADJ and/CCONJ blue/ADJ stick/NOUN figure/NOUN walk/VERB slowly/ADV as/SCONJ he/PRON turn/VERB and/CCONJ wak/VERB in/ADP a/DET big/ADJ circle/NOUN#0.0#0.0
+a person tentatively walks in a wide arc / semi circle front right to left across the ground#a/DET person/NOUN tentatively/ADV walk/VERB in/ADP a/DET wide/ADJ arc/NOUN semi/PROPN circle/PROPN front/NOUN right/ADV to/PART left/VERB across/ADP the/DET ground/NOUN#0.0#0.0
+a man walks slowly in a circular fashion and appears to be tired.#a/DET man/NOUN walk/VERB slowly/ADV in/ADP a/DET circular/ADJ fashion/NOUN and/CCONJ appear/VERB to/PART be/AUX tired/ADJ#0.0#0.0

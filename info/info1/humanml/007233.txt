@@ -1,0 +1,3 @@
+someone raises their arms, spreads their legs and clasps their hands#someone/PRON raise/VERB their/DET arm/NOUN spread/VERB their/DET leg/NOUN and/CCONJ clasp/NOUN their/DET hand/NOUN#0.0#0.0
+a person stands still, lifts something with both hands then crosses fingers in front of their chest.#a/DET person/NOUN stand/VERB still/ADV lift/VERB something/PRON with/ADP both/DET hand/NOUN then/ADV cross/VERB finger/NOUN in/ADP front/NOUN of/ADP their/DET chest/NOUN#0.0#0.0
+the sim is standing still, appearing to clutch both hands in front of their torso.#the/DET sim/PROPN is/AUX stand/VERB still/ADV appear/VERB to/PART clutch/VERB both/DET hand/NOUN in/ADP front/NOUN of/ADP their/DET torso/NOUN#0.0#0.0

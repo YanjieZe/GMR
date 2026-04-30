@@ -1,0 +1,3 @@
+someone is walking in place without changing their center of gravity#someone/PRON is/AUX walk/VERB in/ADP place/NOUN without/ADP change/VERB their/DET center/NOUN of/ADP gravity/NOUN#0.0#0.0
+person is walking forward likely on trendmill.#person/NOUN is/AUX walk/VERB forward/ADV likely/ADV on/ADP trendmill/NOUN#0.0#0.0
+this person is walking forward at an easy but steady pace, starting with the left foot and completing 8 steps, ending with the left foot forward.#this/DET person/NOUN is/AUX walk/VERB forward/ADV at/ADP an/DET easy/ADJ but/CCONJ steady/ADJ pace/NOUN start/VERB with/ADP the/DET left/ADJ foot/NOUN and/CCONJ complete/VERB step/NOUN end/VERB with/ADP the/DET left/ADJ foot/NOUN forward/ADV#0.0#0.0

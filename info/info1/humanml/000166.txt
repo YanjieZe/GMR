@@ -1,0 +1,3 @@
+the person raises their right arm and brings their hand to their face.#the/DET person/NOUN raise/VERB their/DET right/ADJ arm/NOUN and/CCONJ bring/VERB their/DET hand/NOUN to/ADP their/DET face/NOUN#0.0#0.0
+a person uses their right hand to tilt something towards their head#a/DET person/NOUN use/VERB their/DET right/ADJ hand/NOUN to/PART tilt/VERB something/PRON towards/ADP their/DET head/NOUN#0.0#0.0
+a man raises his right arm then brings it back down.#a/DET man/NOUN raise/VERB his/DET right/ADJ arm/NOUN then/ADV bring/VERB it/PRON back/ADV down/ADP#0.0#0.0

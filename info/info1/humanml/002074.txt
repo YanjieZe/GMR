@@ -1,0 +1,3 @@
+person is takign something throwing it then backing up.#person/NOUN is/AUX takign/X something/PRON throw/VERB it/PRON then/ADV back/VERB up/ADP#0.0#0.0
+a person seems to be throwing something a couple of times#a/DET person/NOUN seem/VERB to/PART be/AUX throw/VERB something/PRON a/DET couple/NOUN of/ADP time/NOUN#0.0#0.0
+a person stands focusing on something in front of them, then strikes out with their right hand twice.#a/DET person/NOUN stand/VERB focus/VERB on/ADP something/PRON in/ADP front/NOUN of/ADP them/PRON then/ADV strike/VERB out/ADP with/ADP their/DET right/ADJ hand/NOUN twice/ADV#0.0#0.0

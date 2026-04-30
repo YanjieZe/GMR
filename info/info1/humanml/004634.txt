@@ -1,0 +1,3 @@
+person moving his torso in circular motion from right to left#person/NOUN move/VERB his/DET torso/NOUN in/ADP circular/ADJ motion/NOUN from/ADP right/NOUN to/ADP left/ADV#0.0#0.0
+the man is moving his hips in a circular motion#the/DET man/NOUN is/AUX move/VERB his/DET hip/NOUN in/ADP a/DET circular/ADJ motion/NOUN#0.0#0.0
+a person swaying their head around and around#a/DET person/NOUN sway/VERB their/DET head/NOUN around/ADV and/CCONJ around/ADV#0.0#0.0

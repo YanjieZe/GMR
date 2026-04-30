@@ -1,0 +1,3 @@
+a person walks forward diagonally to the left.#a/DET person/NOUN walk/VERB forward/ADV diagonally/ADV to/ADP the/DET left/NOUN#0.0#0.0
+person goes down some steps and comes to a stand still#person/NOUN go/VERB down/ADP some/DET step/NOUN and/CCONJ come/VERB to/ADP a/DET stand/NOUN still/ADV#0.0#0.0
+a person walks down stairs.#a/DET person/NOUN walk/VERB down/ADP stair/NOUN#0.0#0.0

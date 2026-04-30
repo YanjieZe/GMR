@@ -1,0 +1,3 @@
+a person wipes down a tabletop.#a/DET person/NOUN wipe/VERB down/ADP a/DET tabletop/NOUN#0.0#0.0
+person is wiping table with left hand#person/NOUN is/AUX wipe/VERB table/NOUN with/ADP left/ADJ hand/NOUN#0.0#0.0
+uses left hand and circles it counter clock-wise.#use/VERB left/ADJ hand/NOUN and/CCONJ circle/VERB it/PRON counter/ADV clockwise/VERB#0.0#0.0

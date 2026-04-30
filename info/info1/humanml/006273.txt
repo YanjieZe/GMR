@@ -1,0 +1,3 @@
+the person is cleaning the windows in front of her.#the/DET person/NOUN is/AUX clean/VERB the/DET window/NOUN in/ADP front/NOUN of/ADP her/PRON#0.0#0.0
+a person raises their right hand and waves.#a/DET person/NOUN raise/VERB their/DET right/ADJ hand/NOUN and/CCONJ wave/NOUN#0.0#0.0
+a man waves to a crowd.#a/DET man/NOUN wave/VERB to/ADP a/DET crowd/NOUN#0.0#0.0

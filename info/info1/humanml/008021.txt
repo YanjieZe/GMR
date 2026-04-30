@@ -1,0 +1,3 @@
+a person walks forward then stops and then they turn left and go down some stairs then they turn again#a/DET person/NOUN walk/VERB forward/ADV then/ADV stop/VERB and/CCONJ then/ADV they/PRON turn/VERB left/ADV and/CCONJ go/VERB down/ADP some/DET stair/NOUN then/ADV they/PRON turn/VERB again/ADV#0.0#0.0
+the person is on an uneven terrain.#the/DET person/NOUN is/AUX on/ADP an/DET uneven/ADJ terrain/NOUN#0.0#0.0
+a person walks in an l shape stepping over an obstacle along the way.#a/DET person/NOUN walk/VERB in/ADP an/DET l/NOUN shape/NOUN step/VERB over/ADP an/DET obstacle/NOUN along/ADP the/DET way/NOUN#0.0#0.0

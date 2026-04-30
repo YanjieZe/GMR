@@ -1,0 +1,3 @@
+a man picks something up and puts it toward his head.#a/DET man/NOUN pick/VERB something/PRON up/ADP and/CCONJ put/VERB it/PRON toward/ADP his/DET head/NOUN#0.0#0.0
+a person lifts something with right hand and drinks.#a/DET person/NOUN lift/VERB something/PRON with/ADP right/ADJ hand/NOUN and/CCONJ drink/NOUN#0.0#0.0
+a person steps forward and reaches out with their right arm to lift something to their mouth and tips it in.#a/DET person/NOUN step/VERB forward/ADV and/CCONJ reach/VERB out/ADP with/ADP their/DET right/ADJ arm/NOUN to/PART lift/VERB something/PRON to/ADP their/DET mouth/NOUN and/CCONJ tip/VERB it/PRON in/ADP#0.0#0.0

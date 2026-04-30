@@ -1,0 +1,3 @@
+a person raising both his hands.#a/DET person/NOUN raise/VERB both/CCONJ his/DET hand/NOUN#0.0#0.0
+from a standing position the person raises their arms to chest height with their elbows bent and hands angled to mimick animal paws, and then turns at the waist from righ to left#from/ADP a/DET standing/ADJ position/NOUN the/DET person/NOUN raise/VERB their/DET arm/NOUN to/ADP chest/NOUN height/NOUN with/ADP their/DET elbow/NOUN bent/ADJ and/CCONJ hand/NOUN angle/VERB to/PART mimick/VERB animal/NOUN paw/NOUN and/CCONJ then/ADV turn/VERB at/ADP the/DET waist/NOUN from/ADP righ/NOUN to/ADP left/ADV#0.0#0.0
+a person looks left and right with binoculars.#a/DET person/NOUN look/VERB left/VERB and/CCONJ right/ADV with/ADP binocular/NOUN#0.0#0.0

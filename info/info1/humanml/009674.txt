@@ -1,0 +1,3 @@
+in this one a person is stand#in/ADP this/DET one/NOUN a/DET person/NOUN is/AUX stand/VERB#1.0#5.0
+a person walks forward then turns to the left and continues walking#a/DET person/NOUN walk/VERB forward/ADV then/ADV turn/VERB to/ADP the/DET left/NOUN and/CCONJ continue/VERB walk/VERB#0.0#0.0
+a person walks to another spot along a curved path.#a/DET person/NOUN walk/VERB to/ADP another/DET spot/NOUN along/ADP a/DET curved/ADJ path/NOUN#0.0#0.0

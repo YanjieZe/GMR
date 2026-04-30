@@ -1,0 +1,3 @@
+a person starts off standing forward then jumps backwards.#a/DET person/NOUN start/VERB off/ADP stand/VERB forward/ADV then/ADV jump/VERB backwards/ADV#0.0#0.0
+a person jumps and twists.#a/DET person/NOUN jump/VERB and/CCONJ twist/NOUN#0.0#0.0
+a person jumps and twirls counter clockwise 180 degrees.#a/DET person/NOUN jump/VERB and/CCONJ twirls/PROPN counter/NOUN clockwise/VERB degree/NOUN#0.0#0.0

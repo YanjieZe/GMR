@@ -1,0 +1,3 @@
+moving arm towards chest then down.#move/VERB arm/NOUN towards/ADP chest/NOUN then/ADV down/ADV#0.0#0.0
+the man extends his left arm up and grabs something from a shelf.#the/DET man/NOUN extend/VERB his/DET left/ADJ arm/NOUN up/ADP and/CCONJ grab/VERB something/PRON from/ADP a/DET shelf/NOUN#0.0#0.0
+a person lifts their arm up and takes a look at it.#a/DET person/NOUN lift/VERB their/DET arm/NOUN up/ADP and/CCONJ take/VERB a/DET look/NOUN at/ADP it/PRON#0.0#0.0

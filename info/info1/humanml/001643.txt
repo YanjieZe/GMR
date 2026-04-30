@@ -1,0 +1,3 @@
+a person jogs to the left then turns around to jog to the right before turning around one last time.#a/DET person/NOUN jog/VERB to/ADP the/DET left/NOUN then/ADV turn/VERB around/ADP to/ADP jog/PROPN to/ADP the/DET right/NOUN before/ADP turn/VERB around/ADP one/NUM last/ADJ time/NOUN#0.0#0.0
+a person runs from side to side.#a/DET person/NOUN run/VERB from/ADP side/NOUN to/ADP side/NOUN#0.0#0.0
+a person is jogging in a line back and forth before facing the center.#a/DET person/NOUN is/AUX jog/VERB in/ADP a/DET line/NOUN back/ADV and/CCONJ forth/ADV before/ADP face/VERB the/DET center/NOUN#0.0#0.0

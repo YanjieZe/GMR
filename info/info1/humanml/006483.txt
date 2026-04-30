@@ -1,0 +1,3 @@
+a person is walking forward.#a/DET person/NOUN is/AUX walk/VERB forward/ADV#0.0#0.0
+a woman jogs forward swinging her arms side-to-side.#a/DET woman/NOUN jog/VERB forward/ADV swinge/VERB her/DET arm/NOUN sidetoside/NOUN#0.0#0.0
+a person is jogging straight.#a/DET person/NOUN is/AUX jog/VERB straight/ADV#0.0#0.0

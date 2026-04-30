@@ -1,0 +1,3 @@
+a person slowly walked backwards#a/DET person/NOUN slowly/ADV walk/VERB backwards/ADV#0.0#0.0
+a person steps back in the box while stumbling a small amount left.#a/DET person/NOUN step/VERB back/ADV in/ADP the/DET box/NOUN while/SCONJ stumble/VERB a/DET small/ADJ amount/NOUN left/VERB#0.0#0.0
+a person stumbles backwards a few steps#a/DET person/NOUN stumble/VERB backwards/ADV a/DET few/ADJ step/NOUN#0.0#0.0

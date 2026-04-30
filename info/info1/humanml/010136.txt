@@ -1,0 +1,3 @@
+person makes motion of stuffing something into an object, then makes motion of picking up and putting on a lid as they walk across the room.#person/NOUN make/VERB motion/NOUN of/ADP stuff/VERB something/PRON into/ADP an/DET object/NOUN then/ADV make/VERB motion/NOUN of/ADP pick/VERB up/ADP and/CCONJ put/VERB on/ADP a/DET lid/NOUN as/SCONJ they/PRON walk/VERB across/ADP the/DET room/NOUN#0.0#5.0
+a person dries right arm.#a/DET person/NOUN dry/VERB right/ADJ arm/NOUN#0.0#0.0
+the person is drying his left arm.#the/DET person/NOUN is/AUX dry/VERB his/DET left/ADJ arm/NOUN#0.0#0.0

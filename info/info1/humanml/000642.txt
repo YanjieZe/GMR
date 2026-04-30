@@ -1,0 +1,3 @@
+a person walks forward, gets pushed by someone, and he stumbles back.#a/DET person/NOUN walk/VERB forward/ADV get/VERB push/VERB by/ADP someone/PRON and/CCONJ he/PRON stumble/VERB back/ADV#0.0#0.0
+a person walks forward and then backwards#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ then/ADV backwards/ADV#0.0#0.0
+a person walks forwards, then suddenly, as if bumping into something, starts walking backwards.#a/DET person/NOUN walk/VERB forwards/ADV then/ADV suddenly/ADV as/SCONJ if/SCONJ bump/VERB into/ADP something/PRON start/VERB walk/VERB backwards/ADV#0.0#0.0

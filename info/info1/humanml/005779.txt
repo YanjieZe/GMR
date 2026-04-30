@@ -1,0 +1,3 @@
+a man steps forward and swats at something.#a/DET man/NOUN step/VERB forward/ADV and/CCONJ swat/NOUN at/ADP something/PRON#0.0#0.0
+a man throws an object with his right hand.#a/DET man/NOUN throw/VERB an/DET object/NOUN with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+a person skips forward and throws multiple objects.#a/DET person/NOUN skip/VERB forward/ADV and/CCONJ throw/VERB multiple/ADJ object/NOUN#0.0#0.0

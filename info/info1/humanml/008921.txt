@@ -1,0 +1,3 @@
+the person is walking forward leaning over a table.#the/DET person/NOUN is/AUX walk/VERB forward/ADV lean/VERB over/ADP a/DET table/NOUN#0.0#0.0
+a person walks forward and picks up something#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ pick/VERB up/ADP something/PRON#0.0#0.0
+walking up to a surface to use as leverage to pick something up#walk/VERB up/ADP to/ADP a/DET surface/NOUN to/PART use/VERB as/SCONJ leverage/NOUN to/PART pick/VERB something/PRON up/ADP#0.0#0.0

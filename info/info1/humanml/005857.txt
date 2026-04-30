@@ -1,0 +1,3 @@
+a person walks forwards slowly starting with their left foot and making 7 full steps.#a/DET person/NOUN walk/VERB forwards/ADV slowly/ADV start/VERB with/ADP their/DET left/ADJ foot/NOUN and/CCONJ make/VERB full/ADJ step/NOUN#0.0#0.0
+a person walks forwards confidently.#a/DET person/NOUN walk/VERB forwards/ADP confidently/ADV#0.0#0.0
+someone walking in a strong manner#someone/PRON walk/VERB in/ADP a/DET strong/ADJ manner/NOUN#0.0#0.0

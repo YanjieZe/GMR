@@ -1,0 +1,3 @@
+a man seems to be walking forward and has a wide gait.#a/DET man/NOUN seem/VERB to/PART be/AUX walk/VERB forward/ADV and/CCONJ has/AUX a/DET wide/ADJ gait/NOUN#0.0#0.0
+a person walks forward.#a/DET person/NOUN walk/VERB forward/ADV#0.0#0.0
+walked slowly forward then stopped. arms were swing as he walked#walk/VERB slowly/ADV forward/ADV then/ADV stop/VERB arm/NOUN were/AUX swe/VERB as/SCONJ he/PRON walk/VERB#0.0#7.0

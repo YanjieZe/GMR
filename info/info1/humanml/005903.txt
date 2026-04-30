@@ -1,0 +1,3 @@
+a man does 3 star jumps.#a/DET man/NOUN does/AUX star/NOUN jump/NOUN#0.0#0.0
+a man does several jumping jacks.#a/DET man/NOUN does/AUX several/ADJ jump/VERB jack/NOUN#0.0#0.0
+the man does 3 jumping jacks.#the/DET man/NOUN does/AUX jump/VERB jack/NOUN#0.0#0.0

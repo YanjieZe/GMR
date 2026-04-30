@@ -1,0 +1,3 @@
+the person is walking on a balance beam.#the/DET person/NOUN is/AUX walk/VERB on/ADP a/DET balance/NOUN beam/NOUN#0.0#0.0
+figure walks toe to toe very slowly.#figure/NOUN walk/VERB toe/NOUN to/ADP toe/NOUN very/ADV slowly/ADV#0.0#0.0
+a person is going over a tightrope.#a/DET person/NOUN is/AUX go/VERB over/ADP a/DET tightrope/NOUN#0.0#0.0

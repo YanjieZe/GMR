@@ -1,0 +1,3 @@
+a person doing questionable motions with both hands#a/DET person/NOUN do/VERB questionable/ADJ motion/NOUN with/ADP both/DET hand/NOUN#0.0#0.0
+a man with elbows bent wiggles and sways from side to side.#a/DET man/NOUN with/ADP elbow/NOUN bent/ADJ wiggle/NOUN and/CCONJ sway/VERB from/ADP side/NOUN to/ADP side/NOUN#0.0#0.0
+a person with knees slightly bent is raising their elbows to the sides and with both hands close together sways from left to right.#a/DET person/NOUN with/ADP knee/NOUN slightly/ADV bent/ADJ is/AUX raise/VERB their/DET elbow/NOUN to/ADP the/DET side/NOUN and/CCONJ with/ADP both/DET hand/NOUN close/ADJ together/ADV sway/VERB from/ADP left/VERB to/ADP right/NOUN#0.0#0.0

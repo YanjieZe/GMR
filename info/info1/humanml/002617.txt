@@ -1,0 +1,3 @@
+a man moves backwards to the left and dodges something, then diagonally and dodges something else.#a/DET man/NOUN move/VERB backwards/ADV to/ADP the/DET left/NOUN and/CCONJ dodge/VERB something/PRON then/ADV diagonally/ADV and/CCONJ dodge/VERB something/PRON else/ADV#0.0#0.0
+the person is walking like he’s drunk.#the/DET person/NOUN is/AUX walk/VERB like/SCONJ he/PRON drunk/ADJ#0.0#0.0
+a person taking a step back down a level, and then returning to the higher level avoiding something by dodging.#a/DET person/NOUN take/VERB a/DET step/NOUN back/ADV down/ADP a/DET level/NOUN and/CCONJ then/ADV return/VERB to/ADP the/DET higher/ADJ level/NOUN avoid/VERB something/PRON by/ADP dodge/VERB#0.0#0.0

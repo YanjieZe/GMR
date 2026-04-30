@@ -1,0 +1,3 @@
+a person is walking up something then turns around and walks back down.#a/DET person/NOUN is/AUX walk/VERB up/ADP something/PRON then/ADV turn/VERB around/ADV and/CCONJ walk/VERB back/ADV down/ADV#0.0#0.0
+a figure climbing up stairs and climbing back down them#a/DET figure/NOUN climb/VERB up/ADP stair/NOUN and/CCONJ climb/VERB back/ADV down/ADP them/PRON#1.0#10.0
+a person walks up several steps while holding a handrail with their right hand, and then they turn around and walk back down.#a/DET person/NOUN walk/VERB up/ADP several/ADJ step/NOUN while/SCONJ hold/VERB a/DET handrail/NOUN with/ADP their/DET right/ADJ hand/NOUN and/CCONJ then/ADV they/PRON turn/VERB around/ADP and/CCONJ walk/VERB back/ADV down/ADV#0.0#0.0

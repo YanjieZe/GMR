@@ -1,0 +1,3 @@
+a person shakes their right hand up and down while holding their left arm outwards.#a/DET person/NOUN shake/VERB their/DET right/ADJ hand/NOUN up/ADP and/CCONJ down/ADV while/SCONJ hold/VERB their/DET left/ADJ arm/NOUN outward/NOUN#0.0#0.0
+a person played on something while grabed it with both hands#a/DET person/NOUN play/VERB on/ADP something/PRON while/SCONJ grab/VERB it/PRON with/ADP both/DET hand/NOUN#0.0#0.0
+a person strums their guitar quickly with their right hand.#a/DET person/NOUN strum/VERB their/DET guitar/NOUN quickly/ADV with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0

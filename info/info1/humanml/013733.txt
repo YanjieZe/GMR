@@ -1,0 +1,3 @@
+a person lifts a suitcase with right hand.#a/DET person/NOUN lift/VERB a/DET suitcase/NOUN with/ADP right/ADJ hand/NOUN#0.0#0.0
+a person who is standing and leaning to his right reaches down and picks something up with his right hand and lifts this item very slightly four times in a row.#a/DET person/NOUN who/PRON is/AUX stand/VERB and/CCONJ lean/VERB to/ADP his/DET right/ADJ reach/VERB down/ADP and/CCONJ pick/VERB something/PRON up/ADP with/ADP his/DET right/ADJ hand/NOUN and/CCONJ lift/VERB this/DET item/NOUN very/ADV slightly/ADV four/NUM time/NOUN in/ADP a/DET row/NOUN#0.0#0.0
+he starts carring a suitcase#he/PRON start/VERB carre/VERB a/DET suitcase/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+the person was pushed but didnt fall#the/DET person/NOUN was/AUX push/VERB but/CCONJ did/AUX nt/PART fall/VERB#0.0#0.0
+a man takes 1 step to the left.#a/DET man/NOUN take/VERB step/NOUN to/ADP the/DET left/NOUN#0.0#0.0
+a person slowly moved in left direction#a/DET person/NOUN slowly/ADV move/VERB in/ADP left/ADJ direction/NOUN#0.0#0.0

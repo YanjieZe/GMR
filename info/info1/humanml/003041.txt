@@ -1,0 +1,3 @@
+a person walks along narrow path.#a/DET person/NOUN walk/VERB along/ADP narrow/ADJ path/NOUN#0.0#0.0
+he walks forward slowly directly#he/PRON walk/VERB forward/ADV slowly/ADV directly/ADV#0.0#0.0
+person hesitantly walks forward towards the edge of the screen#person/NOUN hesitantly/ADV walk/VERB forward/ADV towards/ADP the/DET edge/NOUN of/ADP the/DET screen/NOUN#0.0#0.0

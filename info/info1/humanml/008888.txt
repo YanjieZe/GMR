@@ -1,0 +1,3 @@
+person is doing across punch to the right.#person/NOUN is/AUX do/VERB across/ADP punch/VERB to/ADP the/DET right/NOUN#0.0#0.0
+a person positions his arms and legs and uses the right arm to punch to the left.#a/DET person/NOUN position/VERB his/DET arm/NOUN and/CCONJ leg/NOUN and/CCONJ use/VERB the/DET right/ADJ arm/NOUN to/PART punch/VERB to/ADP the/DET left/NOUN#0.0#0.0
+a person punches forward with their left hand#a/DET person/NOUN punch/VERB forward/ADV with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+someone raises their right arm flat in front of them, then puts it back at their side.#someone/PRON raise/VERB their/DET right/ADJ arm/NOUN flat/ADJ in/ADP front/NOUN of/ADP them/PRON then/ADV put/VERB it/PRON back/ADV at/ADP their/DET side/NOUN#0.0#0.0
+a person raises one hand in front of them#a/DET person/NOUN raise/VERB one/NUM hand/NOUN in/ADP front/NOUN of/ADP them/PRON#0.0#0.0
+a person stretches their right arm in front of their chest then lowers it after.#a/DET person/NOUN stretch/VERB their/DET right/ADJ arm/NOUN in/ADP front/NOUN of/ADP their/DET chest/NOUN then/ADV lower/VERB it/PRON after/ADP#0.0#0.0

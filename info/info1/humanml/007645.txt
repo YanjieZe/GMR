@@ -1,0 +1,3 @@
+a person stands in a t-pose#a/DET person/NOUN stand/VERB in/ADP a/DET tpose/NOUN#0.0#0.0
+the person is standing with his arms straight out.#the/DET person/NOUN is/AUX stand/VERB with/ADP his/DET arm/NOUN straight/ADV out/ADV#0.0#0.0
+a person is t-posing (n/a)#a/DET person/NOUN is/AUX tpose/VERB n/NOUN a/NOUN#0.0#0.0

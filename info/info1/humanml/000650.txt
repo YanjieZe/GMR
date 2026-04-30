@@ -1,0 +1,3 @@
+this person appears to stumble as if frightened.#this/DET person/NOUN appear/VERB to/PART stumble/VERB as/SCONJ if/SCONJ frighten/VERB#0.0#0.0
+a person walking in drunk manner#a/DET person/NOUN walk/VERB in/ADP drunk/ADJ manner/NOUN#0.0#0.0
+a man stumbles forward before turning around.#a/DET man/NOUN stumble/VERB forward/ADV before/ADP turn/VERB around/ADV#0.0#0.0

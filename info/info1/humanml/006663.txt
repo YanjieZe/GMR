@@ -1,0 +1,3 @@
+a person is pushed forward softly.#a/DET person/NOUN is/AUX push/VERB forward/ADV softly/ADV#0.0#0.0
+a person steps one pace back.#a/DET person/NOUN step/VERB one/NUM pace/NOUN back/ADV#0.0#0.0
+a man standing with his arms to his sides and legs spread apart to shoulder width takes two steps back.#a/DET man/NOUN stand/VERB with/ADP his/DET arm/NOUN to/ADP his/DET side/NOUN and/CCONJ leg/NOUN spread/VERB apart/ADV to/ADP shoulder/VERB width/NOUN take/VERB two/NUM step/NOUN back/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person slightly raises their right arm while standing up#a/DET person/NOUN slightly/ADV raise/VERB their/DET right/ADJ arm/NOUN while/SCONJ stand/VERB up/ADP#0.0#0.0
+a person waves their left hand.#a/DET person/NOUN wave/VERB their/DET left/ADJ hand/NOUN#0.0#0.0
+a person lifts something heavy with their left arm.#a/DET person/NOUN lift/VERB something/PRON heavy/ADJ with/ADP their/DET left/ADJ arm/NOUN#0.0#0.0

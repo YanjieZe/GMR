@@ -1,0 +1,3 @@
+said person walked over and sit down#say/VERB person/NOUN walk/VERB over/ADV and/CCONJ sit/VERB down/ADP#0.0#0.0
+a person walks forward, turns and sits down, putting their hands on something before getting up and walking back the way they came.#a/DET person/NOUN walk/VERB forward/ADV turn/VERB and/CCONJ sit/VERB down/ADV put/VERB their/DET hand/NOUN on/ADP something/PRON before/ADP get/VERB up/ADP and/CCONJ walk/VERB back/ADV the/DET way/NOUN they/PRON come/VERB#0.0#0.0
+a person walks forward, turns, then sits, then stands and walks back#a/DET person/NOUN walk/VERB forward/ADV turn/VERB then/ADV sit/VERB then/ADV stand/VERB and/CCONJ walk/VERB back/ADV#0.0#0.0

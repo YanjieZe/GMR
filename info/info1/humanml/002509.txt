@@ -1,0 +1,3 @@
+a person walks downward in a straight line and avoids an object by stepping over it.#a/DET person/NOUN walk/VERB downward/ADV in/ADP a/DET straight/ADJ line/NOUN and/CCONJ avoid/VERB an/DET object/NOUN by/ADP step/VERB over/ADP it/PRON#0.0#0.0
+a person walks forward and steps over something while doing so.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ step/NOUN over/ADP something/PRON while/SCONJ do/VERB so/ADV#0.0#0.0
+the subject walks forward and takes one elongated step before returning to their normal gait.#the/DET subject/NOUN walk/VERB forward/ADV and/CCONJ take/VERB one/NUM elongated/ADJ step/NOUN before/ADP return/VERB to/ADP their/DET normal/ADJ gait/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+person leans to the left falls forward and staggers right#person/NOUN lean/VERB to/ADP the/DET left/NOUN fall/VERB forward/ADV and/CCONJ stagger/NOUN right/ADJ#0.0#0.0
+a person walks forward and bumps into something#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ bump/NOUN into/ADP something/PRON#0.0#0.0
+person runs forwards with legs tilted at an angle, then jumps forwards before losing balance and stumbling to the left. looks clumsy, almost playful#person/NOUN run/VERB forwards/ADJ with/ADP leg/NOUN tilt/VERB at/ADP an/DET angle/NOUN then/ADV jump/VERB forward/NOUN before/ADP lose/VERB balance/NOUN and/CCONJ stumble/VERB to/ADP the/DET left/NOUN look/VERB clumsy/ADJ almost/ADV playful/ADJ#0.0#0.0

@@ -1,0 +1,3 @@
+a person bounces in place, waving his hands at his sides.#a/DET person/NOUN bounce/VERB in/ADP place/NOUN wave/VERB his/DET hand/NOUN at/ADP his/DET side/NOUN#0.0#0.0
+jumping up and down quickly.#jump/VERB up/ADP and/CCONJ down/ADV quickly/ADV#0.0#0.0
+a person is slightly jumping in place while their hands are flapping.#a/DET person/NOUN is/AUX slightly/ADV jump/VERB in/ADP place/NOUN while/SCONJ their/DET hand/NOUN are/AUX flap/VERB#0.0#0.0

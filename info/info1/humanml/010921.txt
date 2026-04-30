@@ -1,0 +1,3 @@
+a person crosses one foot over the other in order to walk in a circle and then spins around.#a/DET person/NOUN cross/VERB one/NUM foot/NOUN over/ADP the/DET other/ADJ in/ADP order/NOUN to/PART walk/VERB in/ADP a/DET circle/NOUN and/CCONJ then/ADV spin/VERB around/ADV#0.0#0.0
+walking in a circular motion.#walk/VERB in/ADP a/DET circular/ADJ motion/NOUN#0.0#0.0
+a person walks casually in a clockwise circle#a/DET person/NOUN walk/VERB casually/ADV in/ADP a/DET clockwise/NOUN circle/NOUN#0.0#0.0

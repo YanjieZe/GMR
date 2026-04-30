@@ -1,0 +1,3 @@
+person crouches down lots of times hovering on knees with arms flapping#person/NOUN crouch/VERB down/ADP lot/NOUN of/ADP time/NOUN hover/VERB on/ADP knee/NOUN with/ADP arm/NOUN flap/VERB#0.0#0.0
+a person struggles to sit down.#a/DET person/NOUN struggle/VERB to/PART sit/VERB down/ADP#0.0#0.0
+person crouching down and sways from side to side as if they are loaing their balance.#person/NOUN crouch/VERB down/ADP and/CCONJ sway/VERB from/ADP side/NOUN to/PART side/VERB as/SCONJ if/SCONJ they/PRON are/AUX loae/VERB their/DET balance/NOUN#0.0#0.0

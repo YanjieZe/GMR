@@ -1,0 +1,3 @@
+a person walks slowly forward, puts hands on his hips then back down.#a/DET person/NOUN walk/VERB slowly/ADV forward/ADV put/VERB hand/NOUN on/ADP his/DET hip/NOUN then/ADV back/ADV down/ADP#0.0#0.0
+a person walks forward lazily and itches his sides with his right hand#a/DET person/NOUN walk/VERB forward/ADV lazily/ADV and/CCONJ itch/VERB his/DET side/NOUN with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+the person is doing a ghetto walk.#the/DET person/NOUN is/AUX do/VERB a/DET ghetto/NOUN walk/NOUN#0.0#0.0

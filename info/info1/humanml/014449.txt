@@ -1,0 +1,3 @@
+a person slowly jumped back#a/DET person/NOUN slowly/ADV jump/VERB back/ADV#0.0#0.0
+a person jumps up and down twice.#a/DET person/NOUN jump/VERB up/ADV and/CCONJ down/ADV twice/ADV#0.0#0.0
+a person jumps up once using arms for help#a/DET person/NOUN jump/VERB up/ADP once/ADV use/VERB arm/NOUN for/ADP help/NOUN#0.0#0.0

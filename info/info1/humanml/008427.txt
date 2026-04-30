@@ -1,0 +1,3 @@
+the person is walking down the slope.#the/DET person/NOUN is/AUX walk/VERB down/ADP the/DET slope/NOUN#0.0#0.0
+a person walks down a small hill.#a/DET person/NOUN walk/VERB down/ADP a/DET small/ADJ hill/NOUN#0.0#0.0
+person moves forward four steps#person/NOUN move/VERB forward/ADV four/NUM step/NOUN#0.0#0.0

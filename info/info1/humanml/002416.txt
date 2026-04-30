@@ -1,0 +1,3 @@
+a person is lightly pushed from behind.#a/DET person/NOUN is/AUX lightly/ADV push/VERB from/ADP behind/ADV#0.0#0.0
+a person is slightly pushed from behind.#a/DET person/NOUN is/AUX slightly/ADV push/VERB from/ADP behind/ADV#0.0#0.0
+a person stands still them moves their arms a bit.#a/DET person/NOUN stand/VERB still/ADV them/PRON move/VERB their/DET arm/NOUN a/DET bit/NOUN#0.0#0.0

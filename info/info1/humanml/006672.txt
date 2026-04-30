@@ -1,0 +1,3 @@
+a person walks forwards and squats.#a/DET person/NOUN walk/VERB forwards/ADJ and/CCONJ squat/NOUN#0.0#0.0
+standing person wobbles, then moves unsteadily forward then stops and crouches down#stand/VERB person/NOUN wobble/NOUN then/ADV move/VERB unsteadily/ADV forward/ADV then/ADV stop/VERB and/CCONJ crouch/NOUN down/ADV#0.0#0.0
+a person walks forward while not moving their arms.#a/DET person/NOUN walk/VERB forward/ADV while/SCONJ not/PART move/VERB their/DET arm/NOUN#0.0#0.0

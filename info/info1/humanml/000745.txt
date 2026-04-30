@@ -1,0 +1,3 @@
+the person is running very quickly.#the/DET person/NOUN is/AUX run/VERB very/ADV quickly/ADV#0.0#0.0
+a person is running fast in a forward direction.#a/DET person/NOUN is/AUX run/VERB fast/ADV in/ADP a/DET forward/ADJ direction/NOUN#0.0#0.0
+a person quickly sprints forward.#a/DET person/NOUN quickly/ADV sprint/VERB forward/ADV#0.0#0.0

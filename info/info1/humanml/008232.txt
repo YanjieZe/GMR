@@ -1,0 +1,3 @@
+a man pets a large dog.#a/DET man/NOUN pet/VERB a/DET large/ADJ dog/NOUN#0.0#0.0
+a person that puts their hands together and starts rubbing something on their head#a/DET person/NOUN that/DET put/VERB their/DET hand/NOUN together/ADV and/CCONJ start/VERB rub/VERB something/PRON on/ADP their/DET head/NOUN#0.0#0.0
+a person rubs their head with both hands.#a/DET person/NOUN rub/VERB their/DET head/NOUN with/ADP both/DET hand/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+left to right bob, arm contraction and pec contraction also a shuffle#left/VERB to/ADP right/ADJ bob/PROPN arm/NOUN contraction/NOUN and/CCONJ pec/PROPN contraction/NOUN also/ADV a/DET shuffle/NOUN#0.0#0.0
+a figure gesticulating with both hands while sligjtly swayong left and right#a/DET figure/NOUN gesticulate/VERB with/ADP both/DET hand/NOUN while/SCONJ sligjtly/ADV swayong/ADV left/VERB and/CCONJ right/ADJ#0.0#0.0
+a person flexes chest area by moving arms outwards and inwards.#a/DET person/NOUN flex/VERB chest/NOUN area/NOUN by/ADP move/VERB arm/NOUN outward/NOUN and/CCONJ inward/NOUN#0.0#0.0

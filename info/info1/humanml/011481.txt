@@ -1,0 +1,3 @@
+a person plays a guitar left handed.#a/DET person/NOUN play/VERB a/DET guitar/NOUN left/VERB hand/VERB#0.0#0.0
+a person standing still, brings their arms up like they are holding a guitar, and strum a guitar#a/DET person/NOUN stand/VERB still/ADV bring/VERB their/DET arm/NOUN up/ADP like/INTJ they/PRON are/AUX hold/VERB a/DET guitar/NOUN and/CCONJ strum/VERB a/DET guitar/NOUN#0.0#0.0
+a character stands still for a second and then proceeeds to raise his hands as if to strum a guitar.#a/DET character/NOUN stand/VERB still/ADV for/ADP a/DET second/ADJ and/CCONJ then/ADV proceeed/VERB to/PART raise/VERB his/DET hand/NOUN as/SCONJ if/SCONJ to/PART strum/VERB a/DET guitar/NOUN#0.0#0.0

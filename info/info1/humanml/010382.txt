@@ -1,0 +1,3 @@
+a person twist their torso from left to right then leans from left to right.#a/DET person/NOUN twist/VERB their/DET torso/NOUN from/ADP left/NOUN to/ADP right/ADV then/ADV lean/VERB from/ADP left/VERB to/ADP right/NOUN#0.0#0.0
+a person twists their torso from left to right.#a/DET person/NOUN twist/VERB their/DET torso/NOUN from/ADP left/NOUN to/ADP right/NOUN#0.0#2.0
+a person stretches their back out.#a/DET person/NOUN stretch/VERB their/DET back/NOUN out/ADP#0.0#0.0

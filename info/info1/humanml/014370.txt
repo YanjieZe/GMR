@@ -1,0 +1,3 @@
+the man does push recovery stand#the/DET man/NOUN does/AUX push/VERB recovery/NOUN stand/NOUN#0.0#0.0
+a person walks a few steps backwards while raising their left hand above their head appearing startled.#a/DET person/NOUN walk/VERB a/DET few/ADJ step/NOUN backwards/ADV while/SCONJ raise/VERB their/DET left/ADJ hand/NOUN above/ADP their/DET head/NOUN appear/VERB startle/VERB#0.0#0.0
+a person is pushed by an unseen force, and then manages to recover to their standing position.#a/DET person/NOUN is/AUX push/VERB by/ADP an/DET unseen/ADJ force/NOUN and/CCONJ then/ADV manage/VERB to/PART recover/VERB to/ADP their/DET standing/NOUN position/NOUN#0.0#0.0

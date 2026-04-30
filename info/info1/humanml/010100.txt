@@ -1,0 +1,3 @@
+a person runs to the right then quickly to the left.#a/DET person/NOUN run/VERB to/ADP the/DET right/NOUN then/ADV quickly/ADV to/ADP the/DET left/NOUN#0.0#0.0
+figure appears to be juking left#figure/NOUN appear/VERB to/PART be/AUX juke/VERB left/VERB#0.0#0.0
+person appears to be playing basketball.#person/NOUN appear/VERB to/PART be/AUX play/VERB basketball/NOUN#0.0#0.0

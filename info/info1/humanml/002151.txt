@@ -1,0 +1,3 @@
+a person walks in a diagonal direction.#a/DET person/NOUN walk/VERB in/ADP a/DET diagonal/ADJ direction/NOUN#0.0#0.0
+a man  while stepping forward, he takes a  long step over something.#a/DET man/NOUN while/SCONJ step/VERB forward/ADV he/PRON take/VERB a/DET long/ADJ step/NOUN over/ADP something/PRON#0.0#0.0
+person with right foot leading does five  steps from back centre to right side front#person/NOUN with/ADP right/ADJ foot/NOUN leading/NOUN does/AUX five/NUM step/NOUN from/ADP back/NOUN centre/NOUN to/ADP right/ADJ side/NOUN front/NOUN#0.0#0.0

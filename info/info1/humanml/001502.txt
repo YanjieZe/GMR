@@ -1,0 +1,3 @@
+the person is sitting down.#the/DET person/NOUN is/AUX sit/VERB down/ADP#0.0#0.0
+soneone almost sits down indian style then raises back up to stand.#soneone/NOUN almost/ADV sit/VERB down/ADP indian/ADJ style/NOUN then/ADV raise/VERB back/ADV up/ADV to/PART stand/VERB#0.0#0.0
+an indivual decides to sits down for a about a second with his legs crossed, and then stands up again.#an/DET indivual/NOUN decide/VERB to/PART sit/VERB down/ADP for/ADP a/DET about/ADV a/DET second/ADJ with/ADP his/DET leg/NOUN cross/VERB and/CCONJ then/ADV stand/VERB up/ADP again/ADV#0.0#0.0

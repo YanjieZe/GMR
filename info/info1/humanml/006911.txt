@@ -1,0 +1,3 @@
+the person did a tennis match with his right hand.#the/DET person/NOUN did/AUX a/DET tennis/NOUN match/NOUN with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+a person steps forward and throws something at the ground.#a/DET person/NOUN step/VERB forward/ADV and/CCONJ throw/VERB something/PRON at/ADP the/DET ground/NOUN#0.0#0.0
+person aggressive stands forward raises arm above head and darts it forward#person/NOUN aggressive/ADJ stand/VERB forward/ADV raise/VERB arm/NOUN above/ADP head/NOUN and/CCONJ dart/VERB it/PRON forward/ADV#0.0#0.0

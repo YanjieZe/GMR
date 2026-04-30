@@ -1,0 +1,3 @@
+he does a gesture while exercising#he/PRON does/AUX a/DET gesture/NOUN while/SCONJ exercise/VERB#0.0#0.0
+a person brings their knee up to the opposite elbow. this is repeated twice on the left side to the right knee. then the person puts their hands out flat in front of them and squats down 4 times#a/DET person/NOUN bring/VERB their/DET knee/NOUN up/ADP to/ADP the/DET opposite/ADJ elbow/NOUN this/DET is/AUX repeat/VERB twice/ADV on/ADP the/DET left/ADJ side/NOUN to/ADP the/DET right/ADJ knee/NOUN then/ADV the/DET person/NOUN put/VERB their/DET hand/NOUN out/ADV flat/ADV in/ADP front/NOUN of/ADP them/PRON and/CCONJ squat/VERB down/ADV time/NOUN#0.0#0.0
+the person is excercising around.#the/DET person/NOUN is/AUX excercise/VERB around/ADV#0.0#0.0

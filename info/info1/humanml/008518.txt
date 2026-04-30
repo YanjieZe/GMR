@@ -1,0 +1,3 @@
+person is leaving in a circular motion.#person/NOUN is/AUX leave/VERB in/ADP a/DET circular/ADJ motion/NOUN#0.0#0.0
+the man is standing in front of a counter and starts wiping the counter with a circular motion.#the/DET man/NOUN is/AUX stand/VERB in/ADP front/NOUN of/ADP a/DET counter/NOUN and/CCONJ start/VERB wipe/VERB the/DET counter/NOUN with/ADP a/DET circular/ADJ motion/NOUN#0.0#0.0
+this person stand stills and uses his left arm as if to clean a counter.#this/DET person/NOUN stand/VERB still/NOUN and/CCONJ use/VERB his/DET left/ADJ arm/NOUN as/SCONJ if/SCONJ to/PART clean/VERB a/DET counter/NOUN#0.0#0.0

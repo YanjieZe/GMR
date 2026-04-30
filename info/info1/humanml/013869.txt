@@ -1,0 +1,3 @@
+a person is spinning around.#a/DET person/NOUN is/AUX spin/VERB around/ADV#0.0#0.0
+a person spins around with his hands raised and then switches the spinning direction.#a/DET person/NOUN spin/VERB around/ADV with/ADP his/DET hand/NOUN raise/VERB and/CCONJ then/ADV switch/VERB the/DET spinning/NOUN direction/NOUN#0.0#0.0
+a person quickly spins around counterclockwise and then clockwise with his hands out to the side.#a/DET person/NOUN quickly/ADV spin/VERB around/ADP counterclockwise/NOUN and/CCONJ then/ADV clockwise/VERB with/ADP his/DET hand/NOUN out/ADP to/ADP the/DET side/NOUN#0.0#0.0

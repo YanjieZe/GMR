@@ -1,0 +1,3 @@
+person walks forward and turns around and walks back#person/NOUN walk/VERB forward/ADV and/CCONJ turn/VERB around/ADV and/CCONJ walk/VERB back/ADV#0.0#0.0
+a man walks forward and completely does an 180 turn with his right foot.#a/DET man/NOUN walk/VERB forward/ADV and/CCONJ completely/ADV does/AUX an/DET turn/NOUN with/ADP his/DET right/ADJ foot/NOUN#0.0#0.0
+the person steps forward, turns around and walks back#the/DET person/NOUN step/VERB forward/ADV turn/VERB around/ADV and/CCONJ walk/VERB back/ADV#0.0#0.0

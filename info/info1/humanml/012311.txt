@@ -1,0 +1,3 @@
+a person walks forward, then gets on its right knee then does a hand gesture.#a/DET person/NOUN walk/VERB forward/ADV then/ADV get/VERB on/ADP its/DET right/ADJ knee/NOUN then/ADV does/AUX a/DET hand/NOUN gesture/NOUN#0.0#0.0
+a person walks forward and then bows down.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ then/ADV bow/VERB down/ADP#0.0#0.0
+a person is walking forward and bowing to an audience.#a/DET person/NOUN is/AUX walk/VERB forward/ADV and/CCONJ bow/VERB to/ADP an/DET audience/NOUN#0.0#0.0

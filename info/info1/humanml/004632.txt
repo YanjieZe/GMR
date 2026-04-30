@@ -1,0 +1,3 @@
+the subject walks forward with the initial step being slightly to their left before straightening out#the/DET subject/NOUN walk/VERB forward/ADV with/ADP the/DET initial/ADJ step/NOUN being/AUX slightly/ADV to/ADP their/DET left/NOUN before/ADP straighten/VERB out/ADP#0.0#0.0
+someone is walking forward straight on the screen#someone/PRON is/AUX walk/VERB forward/ADV straight/ADV on/ADP the/DET screen/NOUN#0.0#0.0
+a person walks forward then stops#a/DET person/NOUN walk/VERB forward/ADV then/ADV stop/VERB#0.0#0.0

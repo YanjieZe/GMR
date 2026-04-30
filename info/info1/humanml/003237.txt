@@ -1,0 +1,3 @@
+a person does light punches with their right hand.#a/DET person/NOUN does/AUX light/VERB punch/NOUN with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+a man moves his right arm in front of him.#a/DET man/NOUN move/VERB his/DET right/ADJ arm/NOUN in/ADP front/NOUN of/ADP him/PRON#0.0#0.0
+a person is jabbing a punching bag.#a/DET person/NOUN is/AUX jab/VERB a/DET punching/NOUN bag/NOUN#0.0#0.0

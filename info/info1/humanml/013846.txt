@@ -1,0 +1,3 @@
+a person using the right arm to reach for something.#a/DET person/NOUN use/VERB the/DET right/ADJ arm/NOUN to/PART reach/VERB for/ADP something/PRON#0.0#0.0
+a person put his right hand on someone's shoulder#a/DET person/NOUN put/VERB his/DET right/ADJ hand/NOUN on/ADP someone/PRON shoulder/NOUN#0.0#0.0
+a person steps forward and puts their hand up.#a/DET person/NOUN step/VERB forward/ADV and/CCONJ put/VERB their/DET hand/NOUN up/ADP#0.0#0.0

@@ -1,0 +1,3 @@
+someone puts their hands on something in the order left-right-top-bottom.#someone/PRON put/VERB their/DET hand/NOUN on/ADP something/PRON in/ADP the/DET order/NOUN leftrighttopbottom/NOUN#0.0#0.0
+a person stands with both arms out at shoulder height, lowers them, then uses the left hand to continually touch something in front of the body.#a/DET person/NOUN stand/VERB with/ADP both/DET arm/NOUN out/ADV at/ADP shoulder/NOUN height/NOUN lower/VERB them/PRON then/ADV use/VERB the/DET left/ADJ hand/NOUN to/PART continually/ADV touch/VERB something/PRON in/ADP front/NOUN of/ADP the/DET body/NOUN#0.0#0.0
+a person raised the hands and after raised the left hand#a/DET person/NOUN raise/VERB the/DET hand/NOUN and/CCONJ after/ADV raise/VERB the/DET left/ADJ hand/NOUN#0.0#0.0

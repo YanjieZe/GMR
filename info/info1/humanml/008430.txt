@@ -1,0 +1,3 @@
+a person stands in place and looks like they are giggling or laughing and moving both their hands.#a/DET person/NOUN stand/VERB in/ADP place/NOUN and/CCONJ look/VERB like/SCONJ they/PRON are/AUX giggle/VERB or/CCONJ laugh/VERB and/CCONJ move/VERB both/DET their/DET hand/NOUN#0.0#0.0
+a person seems to be doubled-over laughing at something while using their hands in exclamation.#a/DET person/NOUN seem/VERB to/PART be/AUX doubledover/NOUN laugh/VERB at/ADP something/PRON while/SCONJ use/VERB their/DET hand/NOUN in/ADP exclamation/NOUN#0.0#0.0
+the man is laughing alot#the/DET man/NOUN is/AUX laugh/VERB alot/NOUN#0.0#0.0

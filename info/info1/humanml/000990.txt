@@ -1,0 +1,3 @@
+picture of a person standing on the floor with their legs slightly bent#picture/NOUN of/ADP a/DET person/NOUN stand/VERB on/ADP the/DET floor/NOUN with/ADP their/DET leg/NOUN slightly/ADV bent/ADJ#0.0#0.0
+a person stands without moving.#a/DET person/NOUN stand/VERB without/ADP move/VERB#0.0#0.0
+a person was just standing still.#a/DET person/NOUN was/AUX just/ADV stand/VERB still/ADV#0.0#0.0

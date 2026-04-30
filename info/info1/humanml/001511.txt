@@ -1,0 +1,3 @@
+a person positions their hand like theyre holding motorcyle handle bars.#a/DET person/NOUN position/VERB their/DET hand/NOUN like/INTJ they/PRON be/VERB hold/VERB motorcyle/ADJ handle/VERB bar/NOUN#0.0#0.0
+a person is standing still with arms raised shoulder high.#a/DET person/NOUN is/AUX stand/VERB still/ADV with/ADP arm/NOUN raise/VERB shoulder/NOUN high/ADJ#0.0#0.0
+person stands still with arms raised above shoulders#person/NOUN stand/VERB still/ADV with/ADP arm/NOUN raise/VERB above/ADP shoulder/NOUN#0.0#0.0

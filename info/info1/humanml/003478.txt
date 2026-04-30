@@ -1,0 +1,3 @@
+a stick figure is seen standing in place with his arms up, bending inwards.#a/DET stick/NOUN figure/NOUN is/AUX see/VERB stand/VERB in/ADP place/NOUN with/ADP his/DET arm/NOUN up/ADV bend/VERB inward/NOUN#0.0#0.0
+person stands stiff and attention with hands on hips#person/NOUN stand/VERB stiff/ADJ and/CCONJ attention/NOUN with/ADP hand/NOUN on/ADP hip/NOUN#0.0#0.0
+a person standing straight with their arms out front.#a/DET person/NOUN stand/VERB straight/ADV with/ADP their/DET arm/NOUN out/SCONJ front/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person struggles to walk using the railing on their right for assistance.#a/DET person/NOUN struggle/VERB to/PART walk/VERB use/VERB the/DET railing/NOUN on/ADP their/DET right/NOUN for/ADP assistance/NOUN#0.0#0.0
+a person walks forward while balancing their weight on an object.#a/DET person/NOUN walk/VERB forward/ADV while/SCONJ balance/VERB their/DET weight/NOUN on/ADP an/DET object/NOUN#0.0#0.0
+a person walks down while right hand pushes off something as the person walks down.#a/DET person/NOUN walk/VERB down/ADP while/SCONJ right/ADJ hand/NOUN push/VERB off/ADP something/PRON as/SCONJ the/DET person/NOUN walk/VERB down/ADV#0.0#0.0

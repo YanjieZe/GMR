@@ -1,0 +1,3 @@
+someone walks forward two steps and kicks their right leg up to turn around and walk two steps.#someone/PRON walk/VERB forward/ADV two/NUM step/NOUN and/CCONJ kick/VERB their/DET right/ADJ leg/NOUN up/ADP to/PART turn/VERB around/ADP and/CCONJ walk/VERB two/NUM step/NOUN#0.0#6.0
+a person walks forward, twirls around, then walks back to where it started.#a/DET person/NOUN walk/VERB forward/ADV twirls/PRON around/ADV then/ADV walk/VERB back/ADV to/ADP where/ADV it/PRON start/VERB#0.0#0.0
+person walks forwards then spins around and walks back#person/NOUN walk/VERB forwards/ADV then/ADV spin/VERB around/ADV and/CCONJ walk/VERB back/ADV#0.0#0.0

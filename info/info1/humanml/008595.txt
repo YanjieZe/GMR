@@ -1,0 +1,3 @@
+raising hands above head.#raise/VERB hand/NOUN above/ADP head/NOUN#0.0#0.0
+a perosn slowly walked backwards#a/DET perosn/NOUN slowly/ADV walk/VERB backwards/ADV#0.0#0.0
+a person steps back on right leg and thrusts right arm into air then down again.#a/DET person/NOUN step/VERB back/ADV on/ADP right/ADJ leg/NOUN and/CCONJ thrust/NOUN right/ADJ arm/NOUN into/ADP air/NOUN then/ADV down/ADV again/ADV#0.0#0.0

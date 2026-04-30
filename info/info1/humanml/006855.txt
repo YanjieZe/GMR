@@ -1,0 +1,3 @@
+a person is punching with their left hand.#a/DET person/NOUN is/AUX punch/VERB with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0
+a person hit with left hand a few times#a/DET person/NOUN hit/VERB with/ADP left/ADJ hand/NOUN a/DET few/ADJ time/NOUN#0.0#0.0
+person punches with left hand repeatedly.#person/NOUN punch/VERB with/ADP left/ADJ hand/NOUN repeatedly/ADV#nan#0.0

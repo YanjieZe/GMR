@@ -1,0 +1,3 @@
+a person is running forward and then backward in a circle.#a/DET person/NOUN is/AUX run/VERB forward/ADV and/CCONJ then/ADV backward/ADV in/ADP a/DET circle/NOUN#0.0#0.0
+a person jogs around the room in a counter clockwise direction.#a/DET person/NOUN jog/VERB around/ADP the/DET room/NOUN in/ADP a/DET counter/NOUN clockwise/NOUN direction/NOUN#0.0#0.0
+a person jogs on the spot and drifts ina#a/DET person/NOUN jog/VERB on/ADP the/DET spot/NOUN and/CCONJ drift/VERB ina/ADV#0.0#0.0

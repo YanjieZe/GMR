@@ -1,0 +1,3 @@
+a person squats down with their knees bent.#a/DET person/NOUN squat/VERB down/ADP with/ADP their/DET knee/NOUN bent/ADJ#0.0#0.0
+the person is sitting down#the/DET person/NOUN is/AUX sit/VERB down/ADP#0.0#0.0
+person stands still then sits back slightly into a chair#person/NOUN stand/VERB still/ADV then/ADV sit/VERB back/ADV slightly/ADV into/ADP a/DET chair/NOUN#0.0#0.0

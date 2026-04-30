@@ -1,0 +1,3 @@
+a person sitting down at first then proceeds to get up and walk to their left and stands still with their arms out in a t position#a/DET person/NOUN sit/VERB down/ADP at/ADP first/ADV then/ADV proceed/VERB to/PART get/AUX up/ADP and/CCONJ walk/VERB to/ADP their/DET left/NOUN and/CCONJ stand/VERB still/ADV with/ADP their/DET arm/NOUN out/ADP in/ADP a/DET t/NOUN position/NOUN#0.0#0.0
+a figure bounces their knees while sat down, stands and raises arms#a/DET figure/NOUN bounce/VERB their/DET knee/NOUN while/SCONJ sit/VERB down/ADP stand/VERB and/CCONJ raise/VERB arm/NOUN#0.0#0.0
+this person swats with knees bent then stands and moves left.#this/DET person/NOUN swat/VERB with/ADP knee/NOUN bent/ADJ then/ADV stand/VERB and/CCONJ move/NOUN left/ADV#0.0#0.0

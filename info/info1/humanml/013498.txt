@@ -1,0 +1,3 @@
+a person stays in the same spot and slowly lowers their arms in a casual way#a/DET person/NOUN stay/VERB in/ADP the/DET same/ADJ spot/NOUN and/CCONJ slowly/ADV lower/VERB their/DET arm/NOUN in/ADP a/DET casual/ADJ way/NOUN#0.0#0.0
+a person raises something to their face with both hands.#a/DET person/NOUN raise/VERB something/PRON to/ADP their/DET face/NOUN with/ADP both/DET hand/NOUN#0.0#0.0
+a person holds both hands near their head, then slowly and reluctantly lowers both hands to their sides.#a/DET person/NOUN hold/VERB both/DET hand/NOUN near/SCONJ their/DET head/NOUN then/ADV slowly/ADV and/CCONJ reluctantly/ADV lower/VERB both/DET hand/NOUN to/ADP their/DET side/NOUN#0.0#0.0

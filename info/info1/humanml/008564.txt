@@ -1,0 +1,3 @@
+a person is wrinkling a paper in their hands and moving their feet from side to side#a/DET person/NOUN is/AUX wrinkle/VERB a/DET paper/NOUN in/ADP their/DET hand/NOUN and/CCONJ move/VERB their/DET foot/NOUN from/ADP side/NOUN to/PART side/VERB#0.0#0.0
+the person is doing a wrist and ankle warm-up.#the/DET person/NOUN is/AUX do/VERB a/DET wrist/NOUN and/CCONJ ankle/NOUN warmup/PROPN#0.0#0.0
+the man spins his wrists around in a stretching fashion.  while doing these he is also moving the respective ankle in a circular motion.#the/DET man/NOUN spin/VERB his/DET wrist/NOUN around/ADV in/ADP a/DET stretching/ADJ fashion/NOUN while/SCONJ do/VERB these/DET he/PRON is/AUX also/ADV move/VERB the/DET respective/ADJ ankle/NOUN in/ADP a/DET circular/ADJ motion/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person raises their arms to stretch their back and waste, then they stretch their arms forwards.#a/DET person/NOUN raise/VERB their/DET arm/NOUN to/PART stretch/VERB their/DET back/NOUN and/CCONJ waste/NOUN then/ADV they/PRON stretch/VERB their/DET arm/NOUN forwards/ADV#0.0#0.0
+person joins hands at the top of his head and begins to stretch. he then takes his right arm in his left and stretches the muscles.#person/NOUN join/VERB hand/NOUN at/ADP the/DET top/NOUN of/ADP his/DET head/NOUN and/CCONJ begin/VERB to/PART stretch/VERB he/PRON then/ADV take/VERB his/DET right/ADJ arm/NOUN in/ADP his/DET left/NOUN and/CCONJ stretch/VERB the/DET muscle/NOUN#0.0#0.0
+the person is excercising stretching.#the/DET person/NOUN is/AUX excercise/VERB stretch/VERB#0.0#0.0

@@ -1,0 +1,3 @@
+a person jumps backwards and has to steady themselves.#a/DET person/NOUN jump/VERB backwards/ADV and/CCONJ has/AUX to/PART steady/VERB themselves/PRON#0.0#0.0
+someone pushes himself up and takes a step back#someone/PRON push/VERB himself/PRON up/ADP and/CCONJ take/VERB a/DET step/NOUN back/ADV#0.0#0.0
+a person jumps backward onto an object.#a/DET person/NOUN jump/VERB backward/ADV onto/ADP an/DET object/NOUN#0.0#0.0

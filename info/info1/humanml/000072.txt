@@ -1,0 +1,3 @@
+a person throws and upper cut with his right hand.#a/DET person/NOUN throw/VERB and/CCONJ upper/ADJ cut/NOUN with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+a person swings their right arm in a backhand motion and then swings it forward in an uppercut motion.#a/DET person/NOUN swing/VERB their/DET right/ADJ arm/NOUN in/ADP a/DET backhand/NOUN motion/NOUN and/CCONJ then/ADV swing/VERB it/PRON forward/ADV in/ADP an/DET uppercut/ADJ motion/NOUN#0.0#0.0
+person uses their right arm to point at something/someone and their points in another direction#person/NOUN use/VERB their/DET right/ADJ arm/NOUN to/PART point/VERB at/ADP something/PRON someone/PRON and/CCONJ their/DET point/NOUN in/ADP another/DET direction/NOUN#0.0#0.0

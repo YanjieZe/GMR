@@ -1,0 +1,3 @@
+in there is a stand behind it#in/ADP there/PRON is/AUX a/DET stand/NOUN behind/ADP it/PRON#1.0#6.0
+person takes a small jump back.#person/NOUN take/VERB a/DET small/ADJ jump/NOUN back/ADV#0.0#0.0
+a man stands with his arms flexed and makes a small jump backwards.#a/DET man/NOUN stand/VERB with/ADP his/DET arm/NOUN flex/VERB and/CCONJ make/VERB a/DET small/ADJ jump/NOUN backwards/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks with one foot in front of the other; right foot first, uses their hands to keep balance.#a/DET person/NOUN walk/VERB with/ADP one/NUM foot/NOUN in/ADP front/NOUN of/ADP the/DET other/ADJ right/ADJ foot/NOUN first/ADV use/VERB their/DET hand/NOUN to/PART keep/VERB balance/NOUN#0.0#0.0
+a person walks forward while using their arms mildly to balance.#a/DET person/NOUN walk/VERB forward/ADV while/SCONJ use/VERB their/DET arm/NOUN mildly/ADV to/PART balance/VERB#0.0#0.0
+someone walks forward using arms to propel themselves and stops with arms extended.#someone/PRON walk/VERB forward/ADV use/VERB arm/NOUN to/PART propel/VERB themselves/PRON and/CCONJ stop/VERB with/ADP arm/NOUN extend/VERB#0.0#0.0

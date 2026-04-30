@@ -1,0 +1,3 @@
+a person takes two steps forward, turns around and walks back to their original location.#a/DET person/NOUN take/VERB two/NUM step/NOUN forward/ADV turn/VERB around/ADV and/CCONJ walk/VERB back/ADV to/ADP their/DET original/ADJ location/NOUN#0.0#0.0
+person walks forward slowly pivots on left leg and returns to  original stance#person/NOUN walk/VERB forward/ADV slowly/ADV pivot/NOUN on/ADP left/ADJ leg/NOUN and/CCONJ return/NOUN to/ADP original/ADJ stance/NOUN#0.0#0.0
+a person walks and turns right to walk back.#a/DET person/NOUN walk/VERB and/CCONJ turn/VERB right/ADJ to/PART walk/VERB back/ADV#0.0#0.0

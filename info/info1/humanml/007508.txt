@@ -1,0 +1,3 @@
+a man throwing the valley ball diagonally from right to left and then catching back the ball#a/DET man/NOUN throw/VERB the/DET valley/PROPN ball/NOUN diagonally/ADV from/ADP right/NOUN to/ADP left/NOUN and/CCONJ then/ADV catch/VERB back/ADP the/DET ball/NOUN#0.0#0.0
+a person throws an object and then raises their arms to catch it once its thrown back.#a/DET person/NOUN throw/VERB an/DET object/NOUN and/CCONJ then/ADV raise/VERB their/DET arm/NOUN to/PART catch/VERB it/PRON once/SCONJ its/DET throw/VERB back/ADV#0.0#0.0
+a person throws something with his right hand and catches something.#a/DET person/NOUN throw/VERB something/PRON with/ADP his/DET right/ADJ hand/NOUN and/CCONJ catch/VERB something/PRON#0.0#0.0

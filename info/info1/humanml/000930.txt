@@ -1,0 +1,3 @@
+a person steps forward with right foot.#a/DET person/NOUN step/VERB forward/ADV with/ADP right/ADJ foot/NOUN#0.0#0.0
+a person walks a couple steps forward.#a/DET person/NOUN walk/VERB a/DET couple/NOUN step/NOUN forward/ADV#0.0#0.0
+person walking forward one step.#person/NOUN walk/VERB forward/ADV one/NUM step/NOUN#0.0#0.0

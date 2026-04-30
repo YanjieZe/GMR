@@ -1,0 +1,3 @@
+the person walks forward and frequently, in an obvious manner, turns in place to look behind them.#the/DET person/NOUN walk/VERB forward/ADV and/CCONJ frequently/ADV in/ADP an/DET obvious/ADJ manner/NOUN turn/VERB in/ADP place/NOUN to/PART look/VERB behind/ADP them/PRON#0.0#0.0
+a person walks in a clockwise circle while turning in different directions as if disoriented.#a/DET person/NOUN walk/VERB in/ADP a/DET clockwise/NOUN circle/NOUN while/SCONJ turn/VERB in/ADP different/ADJ direction/NOUN as/SCONJ if/SCONJ disorient/VERB#0.0#0.0
+a person walks in a circle while looking for something.#a/DET person/NOUN walk/VERB in/ADP a/DET circle/NOUN while/SCONJ look/VERB for/ADP something/PRON#0.0#0.0

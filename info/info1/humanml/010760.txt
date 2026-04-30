@@ -1,0 +1,3 @@
+someone throwing something very hard#someone/PRON throw/VERB something/PRON very/ADV hard/ADJ#0.0#0.0
+a person makes a slapping motion with their right hand.#a/DET person/NOUN make/VERB a/DET slapping/NOUN motion/NOUN with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+a person is throwing a ball.#a/DET person/NOUN is/AUX throw/VERB a/DET ball/NOUN#0.0#0.0

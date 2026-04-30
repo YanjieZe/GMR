@@ -1,0 +1,3 @@
+the person  is taking steps clean over some thing.#the/DET person/NOUN is/AUX take/VERB step/NOUN clean/ADJ over/ADP some/DET thing/NOUN#0.0#0.0
+person walks straight ahead awkwardly#person/NOUN walk/VERB straight/ADV ahead/ADV awkwardly/ADV#0.0#0.0
+he starts to clean a lot#he/PRON start/VERB to/PART clean/VERB a/DET lot/NOUN#0.0#0.0

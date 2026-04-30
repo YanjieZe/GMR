@@ -1,0 +1,3 @@
+the man shakes something places it on the table and steps backwards.#the/DET man/NOUN shake/VERB something/PRON place/NOUN it/PRON on/ADP the/DET table/NOUN and/CCONJ step/NOUN backwards/ADV#0.0#0.0
+the person walks backwards by three steps#the/DET person/NOUN walk/VERB backwards/ADV by/ADP three/NUM step/NOUN#4.0#7.0
+the person lunges forward then walks backwards with shoulders spread out.#the/DET person/NOUN lunge/VERB forward/ADV then/ADV walk/VERB backwards/ADV with/ADP shoulder/NOUN spread/VERB out/ADP#0.0#0.0

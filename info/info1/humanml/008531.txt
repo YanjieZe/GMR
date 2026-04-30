@@ -1,0 +1,3 @@
+a man standing with his legs bent, lifts his arms in a "t-pose".#a/DET man/NOUN stand/VERB with/ADP his/DET leg/NOUN bent/ADJ lift/VERB his/DET arm/NOUN in/ADP a/DET tpose/NOUN#0.0#0.0
+a person places their hands on their hips, then outstretches their arms.#a/DET person/NOUN place/VERB their/DET hand/NOUN on/ADP their/DET hip/NOUN then/ADV outstretche/VERB their/DET arm/NOUN#0.0#0.0
+a man is squatting and then stretches his arms out.#a/DET man/NOUN is/AUX squat/VERB and/CCONJ then/ADV stretch/VERB his/DET arm/NOUN out/ADV#0.0#0.0

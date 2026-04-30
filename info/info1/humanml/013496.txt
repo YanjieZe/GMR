@@ -1,0 +1,3 @@
+a person taking something and giving it away#a/DET person/NOUN take/VERB something/PRON and/CCONJ give/VERB it/PRON away/ADV#0.0#0.0
+someone picking up something and placing it higher#someone/PRON pick/VERB up/ADP something/PRON and/CCONJ place/VERB it/PRON higher/ADJ#0.0#0.0
+a person grabs something with their right hand.#a/DET person/NOUN grab/VERB something/PRON with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0

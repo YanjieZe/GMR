@@ -1,0 +1,3 @@
+a figure jogs down stairs#a/DET figure/NOUN jog/VERB down/ADV stair/NOUN#0.0#0.0
+person walks forward in a speedy fashion#person/NOUN walk/VERB forward/ADV in/ADP a/DET speedy/ADJ fashion/NOUN#0.0#0.0
+figure runs forward swinging its arms#figure/NOUN run/VERB forward/ADV swinge/VERB its/DET arm/NOUN#0.0#0.0

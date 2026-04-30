@@ -1,0 +1,3 @@
+a person walks backwards, pushes forward, and then walks forward.#a/DET person/NOUN walk/VERB backwards/ADV push/VERB forward/ADV and/CCONJ then/ADV walk/VERB forward/ADV#0.0#0.0
+person was walking backwards and was pushed.#person/NOUN was/AUX walk/VERB backwards/ADV and/CCONJ was/AUX push/VERB#0.0#0.0
+a person walks backwards then pushes forwards with both arms and walks forward#a/DET person/NOUN walk/VERB backwards/ADV then/ADV push/VERB forwards/ADV with/ADP both/DET arm/NOUN and/CCONJ walk/VERB forward/ADV#0.0#0.0

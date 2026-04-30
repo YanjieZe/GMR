@@ -1,0 +1,3 @@
+this person stretches his right arm over head while standing still.#this/DET person/NOUN stretch/VERB his/DET right/ADJ arm/NOUN over/ADP head/NOUN while/SCONJ stand/VERB still/ADV#0.0#0.0
+raising arms above head.#raise/VERB arm/NOUN above/ADP head/NOUN#0.0#0.0
+the person exhibits a laughing motion, then proudly flexes his right hand upwards as if he is fist-bumping to the sky.#the/DET person/NOUN exhibit/VERB a/DET laughing/NOUN motion/NOUN then/ADV proudly/ADV flex/VERB his/DET right/ADJ hand/NOUN upwards/ADV as/SCONJ if/SCONJ he/PRON is/AUX fistbumpe/VERB to/ADP the/DET sky/NOUN#0.0#5.0

@@ -1,0 +1,3 @@
+a person squats and then jumps up with arms above their head.#a/DET person/NOUN squat/VERB and/CCONJ then/ADV jump/VERB up/ADP with/ADP arm/NOUN above/ADP their/DET head/NOUN#0.0#0.0
+a person slowly jumoed vertical#a/DET person/NOUN slowly/ADV jumoe/VERB vertical/ADJ#0.0#0.0
+this person jumps slowly upwards.#this/DET person/NOUN jump/VERB slowly/ADV upwards/ADJ#0.0#0.0

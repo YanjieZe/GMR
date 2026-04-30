@@ -1,0 +1,3 @@
+a person is walking downhill#a/DET person/NOUN is/AUX walk/VERB downhill/ADV#0.0#0.0
+a person walks forward while grabbing onto things on either side of him#a/DET person/NOUN walk/VERB forward/ADV while/SCONJ grab/VERB onto/ADP thing/NOUN on/ADP either/DET side/NOUN of/ADP him/PRON#0.0#0.0
+person is walking carefully with hands swinging#person/NOUN is/AUX walk/VERB carefully/ADV with/ADP hand/NOUN swinge/VERB#0.0#0.0

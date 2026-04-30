@@ -1,0 +1,3 @@
+he slowly walks down the stairs#he/PRON slowly/ADV walk/VERB down/ADP the/DET stair/NOUN#0.0#0.0
+a person walks down the stairs while holding the rail with their left hand.#a/DET person/NOUN walk/VERB down/ADP the/DET stair/NOUN while/SCONJ hold/VERB the/DET rail/NOUN with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0
+a person walks down some stairs while holding onto the side#a/DET person/NOUN walk/VERB down/ADP some/DET stair/NOUN while/SCONJ hold/VERB onto/ADP the/DET side/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person boastfully meanders across a room in a confident manner.#a/DET person/NOUN boastfully/ADV meander/VERB across/ADP a/DET room/NOUN in/ADP a/DET confident/ADJ manner/NOUN#0.0#0.0
+a figure struts forward confidently#a/DET figure/NOUN strut/VERB forward/ADV confidently/ADV#0.0#0.0
+a person struts forward, diagonally to the left, then turns to the right.#a/DET person/NOUN strut/VERB forward/ADV diagonally/ADV to/ADP the/DET left/NOUN then/ADV turn/VERB to/ADP the/DET right/NOUN#0.0#0.0

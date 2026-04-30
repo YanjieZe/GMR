@@ -1,0 +1,3 @@
+a person stumbles to the right but quickly catches himself.#a/DET person/NOUN stumble/VERB to/ADP the/DET right/NOUN but/CCONJ quickly/ADV catch/VERB himself/PRON#0.0#0.0
+a person is pushed on his left arm, stumbles to his right, and then recovers to a stable standing position.#a/DET person/NOUN is/AUX push/VERB on/ADP his/DET left/ADJ arm/NOUN stumble/NOUN to/ADP his/DET right/NOUN and/CCONJ then/ADV recover/NOUN to/ADP a/DET stable/ADJ standing/NOUN position/NOUN#0.0#0.0
+a person is pushed from their left, stumbles, and recovers with their left foot.#a/DET person/NOUN is/AUX push/VERB from/ADP their/DET left/NOUN stumble/NOUN and/CCONJ recover/NOUN with/ADP their/DET left/ADJ foot/NOUN#0.0#0.0

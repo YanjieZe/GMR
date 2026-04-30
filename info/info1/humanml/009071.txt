@@ -1,0 +1,3 @@
+a person sways their arms back and forth while bent over.#a/DET person/NOUN sway/VERB their/DET arm/NOUN back/ADV and/CCONJ forth/ADV while/SCONJ bent/ADJ over/ADP#0.0#0.0
+a person swings thier arms around.#a/DET person/NOUN swing/VERB thier/ADJ arm/NOUN around/ADV#0.0#0.0
+a person swings his arms back and forth and bounces#a/DET person/NOUN swing/VERB his/DET arm/NOUN back/ADV and/CCONJ forth/ADV and/CCONJ bounce/NOUN#0.0#0.0

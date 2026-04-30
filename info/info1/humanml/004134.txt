@@ -1,0 +1,3 @@
+the man stretches his arms.#the/DET man/NOUN stretch/VERB his/DET arm/NOUN#0.0#0.0
+a person raised his hands, and slowly doing the warm up the elbows, and hands#a/DET person/NOUN raise/VERB his/DET hand/NOUN and/CCONJ slowly/ADV do/VERB the/DET warm/VERB up/ADP the/DET elbow/NOUN and/CCONJ hand/NOUN#0.0#0.0
+a person has both arms elevated and moves their hands back and forth between outstretched and their head, they then lower both arms.#a/DET person/NOUN has/AUX both/DET arm/NOUN elevate/VERB and/CCONJ move/VERB their/DET hand/NOUN back/ADV and/CCONJ forth/ADV between/ADP outstretched/ADJ and/CCONJ their/DET head/NOUN they/PRON then/ADV lower/VERB both/DET arm/NOUN#0.0#0.0

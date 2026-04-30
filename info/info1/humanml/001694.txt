@@ -1,0 +1,3 @@
+the person bends over to pick something up with his right hand.#the/DET person/NOUN bend/VERB over/ADP to/PART pick/VERB something/PRON up/ADP with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+robot walked forward and pick up something from ground with the right hand#robot/PROPN walk/VERB forward/ADV and/CCONJ pick/VERB up/ADP something/PRON from/ADP ground/NOUN with/ADP the/DET right/ADJ hand/NOUN#0.0#0.0
+a person bends forward and reaches down with hand.#a/DET person/NOUN bend/VERB forward/ADV and/CCONJ reach/VERB down/ADP with/ADP hand/NOUN#0.0#0.0

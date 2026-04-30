@@ -1,0 +1,3 @@
+a person is scrubbing something then puts it up somewhere.#a/DET person/NOUN is/AUX scrub/VERB something/PRON then/ADV put/VERB it/PRON up/ADP somewhere/ADV#0.0#0.0
+the man lifts something touches it with his hand and releases it.#the/DET man/NOUN lift/VERB something/PRON touch/VERB it/PRON with/ADP his/DET hand/NOUN and/CCONJ release/VERB it/PRON#0.0#0.0
+a man is crouching and touches both of his hands together.#a/DET man/NOUN is/AUX crouch/VERB and/CCONJ touch/VERB both/DET of/ADP his/DET hand/NOUN together/ADV#0.0#0.0

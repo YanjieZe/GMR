@@ -1,0 +1,3 @@
+a person waves, swinging both arms out them back in and down#a/DET person/NOUN wave/VERB swinge/VERB both/DET arm/NOUN out/ADP them/PRON back/ADV in/ADP and/CCONJ down/ADV#0.0#0.0
+he does a wave both#he/PRON does/AUX a/DET wave/NOUN both/DET#0.0#0.0
+a person lifts both arms over its head waving to someone they know.#a/DET person/NOUN lift/VERB both/DET arm/NOUN over/ADP its/DET head/NOUN wave/VERB to/ADP someone/PRON they/PRON know/VERB#0.0#4.0

@@ -1,0 +1,3 @@
+the person was dancing around in a boxing stance.#the/DET person/NOUN was/AUX dance/VERB around/ADV in/ADP a/DET boxing/NOUN stance/NOUN#0.0#0.0
+this person is jumping and bouncing left to right.#this/DET person/NOUN is/AUX jump/VERB and/CCONJ bounce/VERB left/VERB to/ADP right/NOUN#0.0#0.0
+person jumps from left to right foot while holding their arms in front of them in a defensive position, then does a few punches.#person/NOUN jump/VERB from/ADP left/VERB to/ADP right/ADJ foot/NOUN while/SCONJ hold/VERB their/DET arm/NOUN in/ADP front/NOUN of/ADP them/PRON in/ADP a/DET defensive/ADJ position/NOUN then/ADV does/AUX a/DET few/ADJ punch/NOUN#0.0#0.0

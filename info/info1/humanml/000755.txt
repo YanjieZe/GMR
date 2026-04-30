@@ -1,0 +1,3 @@
+a person powerfully jumps straight into the air, then rebounds with a small hop backwards.#a/DET person/NOUN powerfully/ADV jump/VERB straight/ADV into/ADP the/DET air/NOUN then/ADV rebound/VERB with/ADP a/DET small/ADJ hop/NOUN backwards/ADV#0.0#0.0
+a person stands in place and jumps up.#a/DET person/NOUN stand/VERB in/ADP place/NOUN and/CCONJ jump/VERB up/ADP#0.0#0.0
+somone jumps up and down while lifting their arms.#somone/PROPN jump/VERB up/ADV and/CCONJ down/ADV while/SCONJ lift/VERB their/DET arm/NOUN#0.0#0.0

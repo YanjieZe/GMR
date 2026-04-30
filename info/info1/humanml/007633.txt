@@ -1,0 +1,3 @@
+a person sat on the knee#a/DET person/NOUN sit/VERB on/ADP the/DET knee/NOUN#0.0#0.0
+person person is holding on to a stool to get down.#person/NOUN person/NOUN is/AUX hold/VERB on/ADP to/ADP a/DET stool/NOUN to/PART get/AUX down/ADP#0.0#0.0
+a person kneels down on both knees.#a/DET person/NOUN kneel/VERB down/ADP on/ADP both/DET knee/NOUN#0.0#0.0

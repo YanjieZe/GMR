@@ -1,0 +1,3 @@
+a person is balancing an object on their head and walks forward, then kneels down, then moves their right arm to the right.#a/DET person/NOUN is/AUX balance/VERB an/DET object/NOUN on/ADP their/DET head/NOUN and/CCONJ walk/VERB forward/ADV then/ADV kneel/VERB down/ADP then/ADV move/VERB their/DET right/ADJ arm/NOUN to/ADP the/DET right/NOUN#0.0#0.0
+he is trying to walk straight while balancing something on his head.#he/PRON is/AUX try/VERB to/PART walk/VERB straight/ADV while/SCONJ balance/VERB something/PRON on/ADP his/DET head/NOUN#0.0#0.0
+a person balances an object on the head and crouches down.#a/DET person/NOUN balance/VERB an/DET object/NOUN on/ADP the/DET head/NOUN and/CCONJ crouch/NOUN down/ADP#0.0#0.0

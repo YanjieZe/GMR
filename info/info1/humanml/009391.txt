@@ -1,0 +1,3 @@
+a person raises both hands in the air.#a/DET person/NOUN raise/VERB both/DET hand/NOUN in/ADP the/DET air/NOUN#0.0#0.0
+a person with their arms spread, bent at the elbow, raises their hands straight up and down#a/DET person/NOUN with/ADP their/DET arm/NOUN spread/NOUN bent/ADJ at/ADP the/DET elbow/NOUN raise/VERB their/DET hand/NOUN straight/ADV up/ADV and/CCONJ down/ADV#0.0#0.0
+a person aggresively lifts weights above their head.#a/DET person/NOUN aggresively/ADV lift/VERB weight/NOUN above/ADP their/DET head/NOUN#0.0#0.0

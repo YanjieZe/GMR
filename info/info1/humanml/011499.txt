@@ -1,0 +1,3 @@
+person walks forward in a  stagger, then turns around and walks the same way back.#person/NOUN walk/VERB forward/ADV in/ADP a/DET stagger/NOUN then/ADV turn/VERB around/ADV and/CCONJ walk/VERB the/DET same/ADJ way/NOUN back/ADV#0.0#0.0
+a person walking forward and backward dragging his right foot.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ backward/ADV drag/VERB his/DET right/ADJ foot/NOUN#0.0#0.0
+a person walks diagonally until turning around, walking back to where they orginally started.#a/DET person/NOUN walk/VERB diagonally/ADV until/ADP turn/VERB around/ADV walk/VERB back/ADV to/ADP where/ADV they/PRON orginally/ADV start/VERB#0.0#10.0

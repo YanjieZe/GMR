@@ -1,0 +1,3 @@
+a person holds up both of their hands in front of their face and then leans back to dodge an obstacle.#a/DET person/NOUN hold/VERB up/ADP both/DET of/ADP their/DET hand/NOUN in/ADP front/NOUN of/ADP their/DET face/NOUN and/CCONJ then/ADV lean/VERB back/ADV to/PART dodge/VERB an/DET obstacle/NOUN#0.0#0.0
+the person has both hands up near his chest.#the/DET person/NOUN has/AUX both/DET hand/NOUN up/ADP near/SCONJ his/DET chest/NOUN#0.0#0.0
+a man stands ready to defend, then sways back to avoid a punch.#a/DET man/NOUN stand/VERB ready/ADJ to/PART defend/VERB then/ADV sway/VERB back/ADV to/PART avoid/VERB a/DET punch/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person is standing straight, and bows forward slowly.#a/DET person/NOUN is/AUX stand/VERB straight/ADV and/CCONJ bow/VERB forward/ADV slowly/ADV#0.0#0.0
+bending down then up.#bend/VERB down/ADV then/ADV up/ADV#0.0#0.0
+a man leans forward and looks at the ground without moving his legs, whilst his arms remain almost motionless.#a/DET man/NOUN lean/VERB forward/ADV and/CCONJ look/VERB at/ADP the/DET ground/NOUN without/ADP move/VERB his/DET leg/NOUN whilst/SCONJ his/DET arm/NOUN remain/VERB almost/ADV motionless/ADJ#0.0#0.0

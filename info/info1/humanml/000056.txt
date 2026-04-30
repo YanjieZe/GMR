@@ -1,0 +1,3 @@
+the figure walks forward and looks like he trips on something.#the/DET figure/NOUN walk/VERB forward/ADV and/CCONJ look/VERB like/SCONJ he/PRON trip/VERB on/ADP something/PRON#0.0#0.0
+a person walks forward and stumbles#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ stumble/NOUN#0.0#0.0
+a person walks forward and stumbles to the left, then continues to walk.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ stumble/NOUN to/ADP the/DET left/NOUN then/ADV continue/VERB to/PART walk/VERB#0.0#0.0

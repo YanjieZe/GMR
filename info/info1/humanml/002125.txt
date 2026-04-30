@@ -1,0 +1,3 @@
+a person side steps to the left then the right.#a/DET person/NOUN side/NOUN step/NOUN to/ADP the/DET left/NOUN then/ADV the/DET right/NOUN#0.0#0.0
+a person sidesteps to the right, then left, then right again.#a/DET person/NOUN sidestep/VERB to/ADP the/DET right/NOUN then/ADV left/VERB then/ADV right/ADV again/ADV#0.0#0.0
+person moves steps to their left then a few steps to their right and then a few more steps to their left#person/NOUN move/VERB step/NOUN to/ADP their/DET left/NOUN then/ADV a/DET few/ADJ step/NOUN to/ADP their/DET right/NOUN and/CCONJ then/ADV a/DET few/ADJ more/ADJ step/NOUN to/ADP their/DET left/NOUN#0.0#0.0

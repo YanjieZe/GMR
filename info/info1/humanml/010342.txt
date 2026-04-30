@@ -1,0 +1,3 @@
+the person is walking forward.#the/DET person/NOUN is/AUX walk/VERB forward/ADV#0.0#0.0
+walking towards camera hips swinging lazily.#walk/VERB towards/ADP camera/NOUN hip/NOUN swinge/VERB lazily/ADV#0.0#0.0
+a person walks forward normally#a/DET person/NOUN walk/VERB forward/ADV normally/ADV#0.0#0.0

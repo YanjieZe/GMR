@@ -1,0 +1,3 @@
+person is walking with arms out unsteadily#person/NOUN is/AUX walk/VERB with/ADP arm/NOUN out/ADV unsteadily/ADV#0.0#0.0
+a person raises both their arms laterally and walks forward in a zig-zag manner.#a/DET person/NOUN raise/VERB both/CCONJ their/DET arm/NOUN laterally/ADV and/CCONJ walk/VERB forward/ADV in/ADP a/DET zigzag/PROPN manner/NOUN#0.0#0.0
+a person balancing while attempting to walk in a straight line#a/DET person/NOUN balance/VERB while/SCONJ attempt/VERB to/PART walk/VERB in/ADP a/DET straight/ADJ line/NOUN#0.0#0.0

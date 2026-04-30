@@ -1,0 +1,3 @@
+a person hops around, jumping off of different objects.#a/DET person/NOUN hop/VERB around/ADV jump/VERB off/ADP of/ADP different/ADJ object/NOUN#0.0#0.0
+person walking like trying to walk around a crack on the sidewalk#person/NOUN walk/VERB like/SCONJ try/VERB to/PART walk/VERB around/ADP a/DET crack/NOUN on/ADP the/DET sidewalk/NOUN#0.0#0.0
+a person moves forward and hops from right to left carefully.#a/DET person/NOUN move/VERB forward/ADV and/CCONJ hop/VERB from/ADP right/NOUN to/ADP left/VERB carefully/ADV#0.0#0.0

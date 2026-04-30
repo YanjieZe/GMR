@@ -1,0 +1,3 @@
+person was walking towards the left.#person/NOUN was/AUX walk/VERB towards/ADP the/DET left/NOUN#0.0#0.0
+a person walk slowly in a counterclockwise direction for about a quater of a circle.#a/DET person/NOUN walk/VERB slowly/ADV in/ADP a/DET counterclockwise/ADJ direction/NOUN for/ADP about/ADV a/DET quater/NOUN of/ADP a/DET circle/NOUN#0.0#0.0
+a person walks forward and turns to the left#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ turn/VERB to/ADP the/DET left/NOUN#0.0#0.0

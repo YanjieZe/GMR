@@ -1,0 +1,3 @@
+a person jumping over a puddle#a/DET person/NOUN jump/VERB over/ADP a/DET puddle/NOUN#0.0#0.0
+a person takes a small hop forward.#a/DET person/NOUN take/VERB a/DET small/ADJ hop/NOUN forward/ADV#0.0#0.0
+a person jumps forward carefully.#a/DET person/NOUN jump/VERB forward/ADV carefully/ADV#0.0#0.0

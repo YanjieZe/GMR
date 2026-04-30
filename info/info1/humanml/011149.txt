@@ -1,0 +1,3 @@
+a person walks on something with his arms extended horizontally to try to maintain his balance.#a/DET person/NOUN walk/VERB on/ADP something/PRON with/ADP his/DET arm/NOUN extend/VERB horizontally/ADV to/PART try/VERB to/PART maintain/VERB his/DET balance/NOUN#0.0#0.0
+a person holds their arms to the side to balance and walks in a straight line.#a/DET person/NOUN hold/VERB their/DET arm/NOUN to/ADP the/DET side/NOUN to/PART balance/VERB and/CCONJ walk/VERB in/ADP a/DET straight/ADJ line/NOUN#0.0#0.0
+an individual sticks out their arms and balance walks forward.#an/DET individual/ADJ stick/NOUN out/ADP their/DET arm/NOUN and/CCONJ balance/NOUN walk/VERB forward/ADV#0.0#0.0

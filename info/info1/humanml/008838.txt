@@ -1,0 +1,3 @@
+person picked up his phone made a call and then put it back down.#person/NOUN pick/VERB up/ADP his/DET phone/NOUN make/VERB a/DET call/NOUN and/CCONJ then/ADV put/VERB it/PRON back/ADV down/ADP#0.0#0.0
+person squats down and scratches their head with their right hand#person/NOUN squat/VERB down/ADP and/CCONJ scratch/VERB their/DET head/NOUN with/ADP their/DET right/ADJ hand/NOUN#0.0#4.0
+a man raises his right hand, then lowers it back down.#a/DET man/NOUN raise/VERB his/DET right/ADJ hand/NOUN then/ADV lower/VERB it/PRON back/ADV down/ADP#0.0#0.0

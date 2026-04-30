@@ -1,0 +1,3 @@
+the girl jumps down from the bed onto her feet and slowly walks away.#the/DET girl/NOUN jump/VERB down/ADP from/ADP the/DET bed/NOUN onto/ADP her/DET foot/NOUN and/CCONJ slowly/ADV walk/VERB away/ADV#0.0#0.0
+a man is doing squats.#a/DET man/NOUN is/AUX do/VERB squat/NOUN#0.0#0.0
+a person is weightlifting something above their head with both arms.#a/DET person/NOUN is/AUX weightlift/VERB something/PRON above/ADP their/DET head/NOUN with/ADP both/DET arm/NOUN#0.0#0.0

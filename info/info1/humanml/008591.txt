@@ -1,0 +1,3 @@
+clapping hands near chest.#clap/VERB hand/NOUN near/SCONJ chest/NOUN#0.0#0.0
+a person puts their hands together and rubs them together.#a/DET person/NOUN put/VERB their/DET hand/NOUN together/ADV and/CCONJ rub/VERB them/PRON together/ADV#0.0#0.0
+the person is posing as a subject.#the/DET person/NOUN is/AUX pose/VERB as/SCONJ a/DET subject/NOUN#0.0#0.0

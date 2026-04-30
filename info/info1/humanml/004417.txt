@@ -1,0 +1,3 @@
+a person either throwing or hitting something with his right arm twice.#a/DET person/NOUN either/CCONJ throw/VERB or/CCONJ hit/VERB something/PRON with/ADP his/DET right/ADJ arm/NOUN twice/ADV#0.0#0.0
+a person throws object with right hand.#a/DET person/NOUN throw/VERB object/NOUN with/ADP right/ADJ hand/NOUN#0.0#0.0
+a person motions throwing a ball and then throws the ball.#a/DET person/NOUN motion/NOUN throw/VERB a/DET ball/NOUN and/CCONJ then/ADV throw/VERB the/DET ball/NOUN#0.0#0.0

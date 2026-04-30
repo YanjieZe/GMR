@@ -1,0 +1,3 @@
+a person throws with right hand and catches with both hands.#a/DET person/NOUN throw/VERB with/ADP right/ADJ hand/NOUN and/CCONJ catch/NOUN with/ADP both/DET hand/NOUN#0.0#0.0
+a person makes an over hand, right handed throw. makes a two handed catch in front of the face, then makes another right handed toss.#a/DET person/NOUN make/VERB an/DET over/ADP hand/NOUN right/ADJ handed/ADJ throw/NOUN make/VERB a/DET two/NUM handed/ADJ catch/NOUN in/ADP front/NOUN of/ADP the/DET face/NOUN then/ADV make/VERB another/DET right/ADV handed/ADJ toss/NOUN#0.0#0.0
+person is throwing a ball forward.#person/NOUN is/AUX throw/VERB a/DET ball/NOUN forward/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+person throws arms up then swings arms then points right arm forward.#person/NOUN throw/VERB arm/NOUN up/ADV then/ADV swing/VERB arm/NOUN then/ADV point/VERB right/ADJ arm/NOUN forward/ADV#0.0#0.0
+a person is swinging their arms around as exercise#a/DET person/NOUN is/AUX swinge/VERB their/DET arm/NOUN around/ADV as/SCONJ exercise/NOUN#0.0#0.0
+a person appears to be warming up their shoulders and arms, then scans the horizon and sees something while pointing to it.#a/DET person/NOUN appear/VERB to/PART be/AUX warm/VERB up/ADP their/DET shoulder/NOUN and/CCONJ arm/NOUN then/ADV scan/VERB the/DET horizon/NOUN and/CCONJ see/VERB something/PRON while/SCONJ point/VERB to/ADP it/PRON#0.0#0.0

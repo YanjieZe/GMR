@@ -1,0 +1,3 @@
+a person grabbed something and put it down#a/DET person/NOUN grab/VERB something/PRON and/CCONJ put/VERB it/PRON down/ADP#0.0#0.0
+moving hands from side to side.#move/VERB hand/NOUN from/ADP side/NOUN to/ADP side/NOUN#0.0#0.0
+the person bend towards right side and left side move his hands together with his body then stop.#the/DET person/NOUN bend/VERB towards/ADP right/ADJ side/NOUN and/CCONJ left/VERB side/NOUN move/VERB his/DET hand/NOUN together/ADV with/ADP his/DET body/NOUN then/ADV stop/VERB#0.0#0.0

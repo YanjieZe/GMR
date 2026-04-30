@@ -1,0 +1,3 @@
+dancing while walking forward.#dance/VERB while/SCONJ walk/VERB forward/ADV#0.0#0.0
+the man starts to walk left#the/DET man/NOUN start/VERB to/PART walk/VERB left/ADV#0.0#0.0
+the man stands and kicks out with his right leg and his right arm, turns around and walks backwards. much like dancing.#the/DET man/NOUN stand/VERB and/CCONJ kick/VERB out/ADP with/ADP his/DET right/ADJ leg/NOUN and/CCONJ his/DET right/ADJ arm/NOUN turn/VERB around/ADV and/CCONJ walk/VERB backwards/ADV much/ADV like/SCONJ dancing/NOUN#0.0#0.0

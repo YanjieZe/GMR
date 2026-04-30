@@ -1,0 +1,3 @@
+a person grabs his left wrist with his right hand, rests his arms, then lifts them slightly again and returns them to a relaxed position.#a/DET person/NOUN grab/VERB his/DET left/ADJ wrist/NOUN with/ADP his/DET right/ADJ hand/NOUN rest/VERB his/DET arm/NOUN then/ADV lift/VERB them/PRON slightly/ADV again/ADV and/CCONJ return/VERB them/PRON to/ADP a/DET relaxed/ADJ position/NOUN#0.0#0.0
+a person puts his hands together.#a/DET person/NOUN put/VERB his/DET hand/NOUN together/ADV#0.0#0.0
+a person looks at their left wrist, then swings his hands#a/DET person/NOUN look/VERB at/ADP their/DET left/ADJ wrist/NOUN then/ADV swing/VERB his/DET hand/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person lifts his left hand up, then right hand up and waves them about, then put his hands down#a/DET person/NOUN lift/VERB his/DET left/ADJ hand/NOUN up/ADP then/ADV right/INTJ hand/VERB up/ADP and/CCONJ wave/VERB them/PRON about/ADP then/ADV put/VERB his/DET hand/NOUN down/ADP#0.0#0.0
+a person is being a mime#a/DET person/NOUN is/AUX being/AUX a/DET mime/NOUN#0.0#0.0
+a person makes pantomime hand gestures above his head with both hands.#a/DET person/NOUN make/VERB pantomime/ADJ hand/NOUN gesture/NOUN above/ADP his/DET head/NOUN with/ADP both/DET hand/NOUN#0.0#0.0

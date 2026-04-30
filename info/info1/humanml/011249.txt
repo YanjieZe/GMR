@@ -1,0 +1,3 @@
+the person is walking holding  his arms.#the/DET person/NOUN is/AUX walk/VERB hold/VERB his/DET arm/NOUN#0.0#0.0
+walking forward while holding arm.#walk/VERB forward/ADV while/SCONJ hold/VERB arm/NOUN#0.0#0.0
+a person holds their arm while walking forward at an angle and leaning to the side#a/DET person/NOUN hold/VERB their/DET arm/NOUN while/SCONJ walk/VERB forward/ADV at/ADP an/DET angle/NOUN and/CCONJ lean/VERB to/ADP the/DET side/NOUN#0.0#0.0

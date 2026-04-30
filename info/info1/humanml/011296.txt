@@ -1,0 +1,3 @@
+a person is sitting in a chair eating a burger.#a/DET person/NOUN is/AUX sit/VERB in/ADP a/DET chair/NOUN eat/VERB a/DET burger/NOUN#0.0#0.0
+figure cowers on haunches, hands raised in front of them#figure/NOUN cower/NOUN on/ADP haunch/NOUN hand/NOUN raise/VERB in/ADP front/NOUN of/ADP them/PRON#0.0#0.0
+a person sitting down, has their arms up beside their head.#a/DET person/NOUN sit/VERB down/ADP has/AUX their/DET arm/NOUN up/ADP beside/ADP their/DET head/NOUN#0.0#0.0

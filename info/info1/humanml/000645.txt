@@ -1,0 +1,3 @@
+man stands up from the ground and begins pretending to throw an object, then proceeds to shoot an air basketball.#man/NOUN stand/VERB up/ADP from/ADP the/DET ground/NOUN and/CCONJ begin/VERB pretend/VERB to/PART throw/VERB an/DET object/NOUN then/ADV proceed/VERB to/PART shoot/VERB an/DET air/NOUN basketball/NOUN#0.0#0.0
+person is throwing an object.#person/NOUN is/AUX throw/VERB an/DET object/NOUN#0.0#0.0
+man gets up from a sitting position.#man/NOUN get/VERB up/ADV from/ADP a/DET sit/VERB position/NOUN#0.0#0.0

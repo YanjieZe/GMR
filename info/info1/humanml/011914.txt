@@ -1,0 +1,3 @@
+running up and down vertically#run/VERB up/ADP and/CCONJ down/ADV vertically/ADV#0.0#0.0
+a person hurries forward then turns and hurries backward then turns again and hurries back forward.#a/DET person/NOUN hurry/VERB forward/ADV then/ADV turn/VERB and/CCONJ hurry/NOUN backward/ADV then/ADV turn/VERB again/ADV and/CCONJ hurry/NOUN back/ADV forward/ADV#0.0#0.0
+a person shuffles quickly forwards, turns, does it again several times, while writhing the hands and front of the body.#a/DET person/NOUN shuffle/NOUN quickly/ADV forwards/ADV turn/VERB does/AUX it/PRON again/ADV several/ADJ time/NOUN while/SCONJ writhe/VERB the/DET hand/NOUN and/CCONJ front/NOUN of/ADP the/DET body/NOUN#0.0#0.0

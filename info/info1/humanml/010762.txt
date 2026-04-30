@@ -1,0 +1,3 @@
+the person is doing ballet twirls.#the/DET person/NOUN is/AUX do/VERB ballet/NOUN twirl/NOUN#0.0#0.0
+a person is doing a dance.#a/DET person/NOUN is/AUX do/VERB a/DET dance/NOUN#0.0#0.0
+a man spins around, plays the air guitar, then does a little dance.#a/DET man/NOUN spin/VERB around/ADV play/VERB the/DET air/NOUN guitar/NOUN then/ADV does/AUX a/DET little/ADJ dance/NOUN#0.0#0.0

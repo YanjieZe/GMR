@@ -1,0 +1,3 @@
+person walks forward in slow manner#person/NOUN walk/VERB forward/ADV in/ADP slow/ADJ manner/NOUN#0.0#0.0
+a person walks carefully forward on a beam.#a/DET person/NOUN walk/VERB carefully/ADV forward/ADV on/ADP a/DET beam/NOUN#0.0#0.0
+a man walks forward slowly, moving his arms, before stopping in a standing position.#a/DET man/NOUN walk/VERB forward/ADV slowly/ADV move/VERB his/DET arm/NOUN before/ADP stop/VERB in/ADP a/DET standing/ADJ position/NOUN#0.0#0.0

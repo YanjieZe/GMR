@@ -1,0 +1,3 @@
+the person walked up to someone and greeted them.#the/DET person/NOUN walk/VERB up/ADP to/ADP someone/PRON and/CCONJ greet/VERB them/PRON#0.0#0.0
+a person is walking around and acknowledging people greeting him.#a/DET person/NOUN is/AUX walk/VERB around/ADV and/CCONJ acknowledge/VERB people/NOUN greet/VERB him/PRON#0.0#0.0
+the man waves with his right arm one direction then turns 180 degrees and waves in the other direction.#the/DET man/NOUN wave/VERB with/ADP his/DET right/ADJ arm/NOUN one/NUM direction/NOUN then/ADV turn/VERB degree/NOUN and/CCONJ wave/NOUN in/ADP the/DET other/ADJ direction/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person raises their arms and lowers them.#a/DET person/NOUN raise/VERB their/DET arm/NOUN and/CCONJ lower/VERB them/PRON#0.0#0.0
+a person stands still, lifts their left and right arm up and down at the same time serveral times#a/DET person/NOUN stand/VERB still/ADV lift/VERB their/DET left/ADJ and/CCONJ right/ADJ arm/NOUN up/ADV and/CCONJ down/ADV at/ADP the/DET same/ADJ time/NOUN serveral/ADJ time/NOUN#0.0#0.0
+a person lowers their arms from shoulder height, raises them back to shoulder height and lowers them again.#a/DET person/NOUN lower/VERB their/DET arm/NOUN from/ADP shoulder/NOUN height/NOUN raise/VERB them/PRON back/ADV to/ADP shoulder/NOUN height/NOUN and/CCONJ lower/VERB them/PRON again/ADV#0.0#0.0

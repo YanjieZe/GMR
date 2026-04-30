@@ -1,0 +1,3 @@
+a person steps to their right and puts their right arm in the air.#a/DET person/NOUN step/VERB to/ADP their/DET right/NOUN and/CCONJ put/VERB their/DET right/ADJ arm/NOUN in/ADP the/DET air/NOUN#0.0#0.0
+a person stands tall and salutes#a/DET person/NOUN stand/VERB tall/ADJ and/CCONJ salute/NOUN#0.0#0.0
+the person raises their hand as if saluting.#the/DET person/NOUN raise/VERB their/DET hand/NOUN as/SCONJ if/SCONJ saluting/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a man does warm up exercises, rotating the arms and shoulders with circular motions.#a/DET man/NOUN does/AUX warm/VERB up/ADP exercise/NOUN rotate/VERB the/DET arm/NOUN and/CCONJ shoulder/NOUN with/ADP circular/ADJ motion/NOUN#0.0#0.0
+a person stretches their arms out in circles.#a/DET person/NOUN stretch/VERB their/DET arm/NOUN out/ADP in/ADP circle/NOUN#0.0#0.0
+a person is looking around and then swings their arms around#a/DET person/NOUN is/AUX look/VERB around/ADV and/CCONJ then/ADV swing/VERB their/DET arm/NOUN around/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person bends their knees into a slight squat before jumping forward.#a/DET person/NOUN bend/VERB their/DET knee/NOUN into/ADP a/DET slight/ADJ squat/NOUN before/ADP jump/VERB forward/ADV#0.0#0.0
+he jumps forward straight and parallel#he/PRON jump/VERB forward/ADV straight/ADV and/CCONJ parallel/ADJ#0.0#0.0
+a person jumps forward using arms to gain momentum.#a/DET person/NOUN jump/VERB forward/ADV use/VERB arm/NOUN to/PART gain/VERB momentum/NOUN#0.0#0.0

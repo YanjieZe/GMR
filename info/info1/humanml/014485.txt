@@ -1,0 +1,3 @@
+a person kicks back their right foot.#a/DET person/NOUN kick/VERB back/ADP their/DET right/ADJ foot/NOUN#0.0#0.0
+person was stomping with his right foot.#person/NOUN was/AUX stomp/VERB with/ADP his/DET right/ADJ foot/NOUN#0.0#0.0
+a person lift left leg up and back down.#a/DET person/NOUN lift/NOUN left/VERB leg/NOUN up/ADP and/CCONJ back/VERB down/ADV#0.0#0.0

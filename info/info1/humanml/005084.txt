@@ -1,0 +1,3 @@
+a figure walks forward lightly kicking one foot out#a/DET figure/NOUN walk/VERB forward/ADV lightly/ADV kick/VERB one/NUM foot/NOUN out/ADP#0.0#0.0
+a person walks while swinging his arms.#a/DET person/NOUN walk/VERB while/SCONJ swinge/VERB his/DET arm/NOUN#0.0#0.0
+the man is marching like a soldier#the/DET man/NOUN is/AUX march/VERB like/SCONJ a/DET soldier/NOUN#0.0#0.0

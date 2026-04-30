@@ -1,0 +1,3 @@
+the person jumps from the straight up position, then as that person keeps jumping his/her arms are swinging from the innercia while performing additional 2 jumps.#the/DET person/NOUN jump/VERB from/ADP the/DET straight/ADJ up/ADJ position/NOUN then/ADV as/SCONJ that/DET person/NOUN keep/VERB jump/VERB his/DET her/DET arm/NOUN are/AUX swinge/VERB from/ADP the/DET innercia/NOUN while/SCONJ perform/VERB additional/ADJ jump/NOUN#0.0#6.0
+a person bends down and jumps up  3 times with arms swaying.#a/DET person/NOUN bend/VERB down/ADP and/CCONJ jump/VERB up/ADP time/NOUN with/ADP arm/NOUN sway/VERB#0.0#0.0
+a man jumps three times.#a/DET man/NOUN jump/VERB three/NUM time/NOUN#0.0#0.0

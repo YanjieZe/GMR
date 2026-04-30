@@ -1,0 +1,3 @@
+a person walks backwards, then turns around then walks backwards again.#a/DET person/NOUN walk/VERB backwards/ADV then/ADV turn/VERB around/ADP then/ADV walk/VERB backwards/ADV again/ADV#0.0#0.0
+a person walks backwards 6 1/2 steps, turns around and returns walking backwards 7 steps.#a/DET person/NOUN walk/VERB backwards/ADV step/NOUN turn/VERB around/ADV and/CCONJ return/NOUN walk/VERB backwards/ADP step/NOUN#0.0#0.0
+a person is waling backwards.#a/DET person/NOUN is/AUX wale/VERB backwards/ADV#0.0#0.0

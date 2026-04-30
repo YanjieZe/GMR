@@ -1,0 +1,3 @@
+someone appears to be stretching they turn their upper body in a counter clockwise direction and then leans upper body from side to side#someone/PRON appear/VERB to/PART be/AUX stretch/VERB they/PRON turn/VERB their/DET upper/ADJ body/NOUN in/ADP a/DET counter/NOUN clockwise/NOUN direction/NOUN and/CCONJ then/ADV lean/VERB upper/ADJ body/NOUN from/ADP side/NOUN to/PART side/VERB#0.0#0.0
+a person turns with their arms to stretch.#a/DET person/NOUN turn/VERB with/ADP their/DET arm/NOUN to/PART stretch/VERB#0.0#0.0
+a person is stretching side to side and back about to lean forward.#a/DET person/NOUN is/AUX stretch/VERB side/NOUN to/PART side/NOUN and/CCONJ back/VERB about/ADV to/PART lean/VERB forward/ADV#0.0#0.0

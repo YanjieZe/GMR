@@ -1,0 +1,3 @@
+gets down on knees and hops backwards by a inch#get/VERB down/ADV on/ADP knee/NOUN and/CCONJ hop/VERB backwards/ADV by/ADP a/DET inch/NOUN#0.0#0.0
+a person gets into a sprinter's stance and then stands up.#a/DET person/NOUN get/VERB into/ADP a/DET sprinter/NOUN stance/NOUN and/CCONJ then/ADV stand/VERB up/ADP#0.0#0.0
+someone swings their arm back to get into a low crouched position, like a runners start.#someone/PRON swing/VERB their/DET arm/NOUN back/ADV to/PART get/AUX into/ADP a/DET low/ADJ crouched/ADJ position/NOUN like/SCONJ a/DET runner/NOUN start/VERB#0.0#0.0

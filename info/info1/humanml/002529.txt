@@ -1,0 +1,3 @@
+a person is walking forward as if attracting someone.#a/DET person/NOUN is/AUX walk/VERB forward/ADV as/SCONJ if/SCONJ attract/VERB someone/PRON#0.0#0.0
+a person walks forward slowly in a seductive and relaxed manner.#a/DET person/NOUN walk/VERB forward/ADV slowly/ADV in/ADP a/DET seductive/ADJ and/CCONJ relaxed/ADJ manner/NOUN#0.0#0.0
+a man is standing still swaying and then walks slowly towards the 1 o'clock.#a/DET man/NOUN is/AUX stand/VERB still/ADV sway/VERB and/CCONJ then/ADV walk/VERB slowly/ADV towards/ADP the/DET#0.0#0.0

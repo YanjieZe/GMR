@@ -1,0 +1,3 @@
+robot moved from left to right and turned his body towards right.#robot/PROPN move/VERB from/ADP left/NOUN to/ADP right/NOUN and/CCONJ turn/VERB his/DET body/NOUN towards/ADP right/ADV#0.0#0.0
+a person walk from his left hand sidealong the diagonal.#a/DET person/NOUN walk/VERB from/ADP his/DET left/ADJ hand/NOUN sidealong/VERB the/DET diagonal/ADJ#0.0#0.0
+a person walks forward two steps then turns right while walking two more steps before coming to a halt.#a/DET person/NOUN walk/VERB forward/ADV two/NUM step/NOUN then/ADV turn/VERB right/ADJ while/SCONJ walk/VERB two/NUM more/ADJ step/NOUN before/ADP come/VERB to/ADP a/DET halt/NOUN#0.0#0.0

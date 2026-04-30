@@ -1,0 +1,2 @@
+a person claps his hands together then turns and squats down as if to be sitting in a chair.#a/DET person/NOUN clap/VERB his/DET hand/NOUN together/ADV then/ADV turn/VERB and/CCONJ squat/VERB down/ADP as/SCONJ if/SCONJ to/PART be/AUX sit/VERB in/ADP a/DET chair/NOUN#0.0#0.0
+a man claps his hands, walks forward and then sits down in a chair facing the left side.#a/DET man/NOUN clap/VERB his/DET hand/NOUN walk/VERB forward/ADV and/CCONJ then/ADV sit/VERB down/ADP in/ADP a/DET chair/NOUN face/VERB the/DET left/ADJ side/NOUN#0.0#0.0

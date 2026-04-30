@@ -1,0 +1,3 @@
+a person gracefully dances forward, moving their arms and swinging their legs, then turns in a half circle.#a/DET person/NOUN gracefully/ADV dance/VERB forward/ADV move/VERB their/DET arm/NOUN and/CCONJ swinge/VERB their/DET leg/NOUN then/ADV turn/VERB in/ADP a/DET half/ADJ circle/NOUN#0.0#0.0
+a person is doing ballet.#a/DET person/NOUN is/AUX do/VERB ballet/NOUN#0.0#0.0
+a man dances throwing both arms up, takes a step to the left and then a step to the back whilst continuing to dance with his arms.#a/DET man/NOUN dance/VERB throw/VERB both/DET arm/NOUN up/ADP take/VERB a/DET step/NOUN to/ADP the/DET left/NOUN and/CCONJ then/ADV a/DET step/NOUN to/ADP the/DET back/NOUN whilst/SCONJ continue/VERB to/PART dance/VERB with/ADP his/DET arm/NOUN#0.0#0.0

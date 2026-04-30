@@ -1,0 +1,3 @@
+a person is on his knees and stands up using his right hand as support on the floor#a/DET person/NOUN is/AUX on/ADP his/DET knee/NOUN and/CCONJ stand/VERB up/ADP use/VERB his/DET right/ADJ hand/NOUN as/SCONJ support/NOUN on/ADP the/DET floor/NOUN#0.0#0.0
+a person gets up from their knees and takes a step back.#a/DET person/NOUN get/VERB up/ADV from/ADP their/DET knee/NOUN and/CCONJ take/VERB a/DET step/NOUN back/ADV#0.0#0.0
+getting up using your right hand then taking a moment to balance yourself#get/VERB up/ADP use/VERB your/DET right/ADJ hand/NOUN then/ADV take/VERB a/DET moment/NOUN to/PART balance/VERB yourself/PRON#0.0#0.0

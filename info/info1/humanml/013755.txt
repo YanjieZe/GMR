@@ -1,0 +1,3 @@
+a person is marching forward.#a/DET person/NOUN is/AUX march/VERB forward/ADV#0.0#0.0
+a person walking forward swinging both right and left arms.#a/DET person/NOUN walk/VERB forward/ADV swinge/VERB both/CCONJ right/ADJ and/CCONJ left/VERB arm/NOUN#0.0#0.0
+a man strolls forward, swinging his arms.#a/DET man/NOUN stroll/VERB forward/ADV swinge/VERB his/DET arm/NOUN#0.0#0.0

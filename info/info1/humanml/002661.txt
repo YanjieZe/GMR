@@ -1,0 +1,3 @@
+a person throws something upwards with two hands.#a/DET person/NOUN throw/VERB something/PRON upwards/ADJ with/ADP two/NUM hand/NOUN#0.0#0.0
+a person turns around (toward their left) and then flings their arms up a few times.#a/DET person/NOUN turn/VERB around/ADV toward/ADP their/DET left/NOUN and/CCONJ then/ADV fling/VERB their/DET arm/NOUN up/ADP a/DET few/ADJ time/NOUN#0.0#0.0
+a person has both hands together and throws them into the air.#a/DET person/NOUN has/AUX both/DET hand/NOUN together/ADV and/CCONJ throw/VERB them/PRON into/ADP the/DET air/NOUN#0.0#0.0

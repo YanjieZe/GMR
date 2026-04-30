@@ -1,0 +1,3 @@
+a person walks forward, turns around and walks back.#a/DET person/NOUN walk/VERB forward/ADV turn/VERB around/ADV and/CCONJ walk/VERB back/ADV#0.0#0.0
+figure appears to be walking and turning#figure/NOUN appear/VERB to/PART be/AUX walk/VERB and/CCONJ turn/VERB#0.0#0.0
+he turns left then stops#he/PRON turn/VERB left/VERB then/ADV stop/VERB#0.0#0.0

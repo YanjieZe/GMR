@@ -1,0 +1,3 @@
+a person, with arms spread and bent at elbow, repetedly raising hands above head before moving them back to shoulder hieght#a/DET person/NOUN with/ADP arm/NOUN spread/VERB and/CCONJ bend/VERB at/ADP elbow/NOUN repetedly/ADV raise/VERB hand/NOUN above/ADP head/NOUN before/ADP move/VERB them/PRON back/ADV to/ADP shoulder/NOUN hieght/NOUN#0.0#0.0
+a person does repetive overhead presses.#a/DET person/NOUN does/AUX repetive/VERB overhead/ADJ press/NOUN#0.0#6.0
+a person is moving his hands up and down.#a/DET person/NOUN is/AUX move/VERB his/DET hand/NOUN up/ADV and/CCONJ down/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person grabs his forearm muscle then lets it go.#a/DET person/NOUN grab/VERB his/DET forearm/NOUN muscle/NOUN then/ADV let/VERB it/PRON go/VERB#0.0#0.0
+a man standing holding left arm.#a/DET man/NOUN stand/VERB hold/VERB left/ADJ arm/NOUN#0.0#0.0
+a person pours something from an object into another object.#a/DET person/NOUN pour/VERB something/PRON from/ADP an/DET object/NOUN into/ADP another/DET object/NOUN#0.0#0.0

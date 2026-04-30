@@ -1,0 +1,3 @@
+a person walks in an arc#a/DET person/NOUN walk/VERB in/ADP an/DET arc/NOUN#0.0#0.0
+the body walks in a left bend.#the/DET body/NOUN walk/VERB in/ADP a/DET left/ADJ bend/NOUN#0.0#0.0
+person walks in half circle on platform#person/NOUN walk/VERB in/ADP half/DET circle/NOUN on/ADP platform/NOUN#0.0#0.0

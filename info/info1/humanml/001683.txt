@@ -1,0 +1,3 @@
+he does a shower on left arm#he/PRON does/AUX a/DET shower/NOUN on/ADP left/ADJ arm/NOUN#0.0#0.0
+the person looks to be exercising.#the/DET person/NOUN look/VERB to/PART be/AUX exercise/VERB#0.0#0.0
+a person is in the shower, lathering himself with soap, and then places the soap in the soap holder.#a/DET person/NOUN is/AUX in/ADP the/DET shower/NOUN lather/VERB himself/PRON with/ADP soap/NOUN and/CCONJ then/ADV place/VERB the/DET soap/NOUN in/ADP the/DET soap/NOUN holder/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+the person is moving their right hand around while sitting or crouching.#the/DET person/NOUN is/AUX move/VERB their/DET right/ADJ hand/NOUN around/ADV while/SCONJ sit/VERB or/CCONJ crouch/VERB#0.0#0.0
+a worker with one leg on a platform appears to pull on something.#a/DET worker/NOUN with/ADP one/NUM leg/NOUN on/ADP a/DET platform/NOUN appear/VERB to/PART pull/VERB on/ADP something/PRON#0.0#0.0
+he is eating with his fingers#he/PRON is/AUX eat/VERB with/ADP his/DET finger/NOUN#0.0#0.0

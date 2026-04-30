@@ -1,0 +1,3 @@
+a person wlowly walked forward#a/DET person/NOUN wlowly/ADV walk/VERB forward/ADV#0.0#0.0
+a person steps up, then walks foward.#a/DET person/NOUN step/VERB up/ADP then/ADV walk/VERB foward/ADJ#0.0#0.0
+a person takes 3 steps forward, slows a step, then continues walking forward.#a/DET person/NOUN take/VERB step/NOUN forward/ADV slow/VERB a/DET step/NOUN then/ADV continue/VERB walk/VERB forward/ADV#0.0#0.0

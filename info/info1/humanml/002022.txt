@@ -1,0 +1,2 @@
+a person walks forward and makes a left turn.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ make/VERB a/DET left/ADJ turn/NOUN#0.0#0.0
+a man walks downward then turns right to keep on walking.#a/DET man/NOUN walk/VERB downward/ADV then/ADV turn/VERB right/ADJ to/PART keep/VERB on/ADP walk/VERB#0.0#0.0

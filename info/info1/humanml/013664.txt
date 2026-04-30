@@ -1,0 +1,3 @@
+standing up and then walking around then sitting back down.#stand/VERB up/ADP and/CCONJ then/ADV walk/VERB around/ADV then/ADV sit/VERB back/ADV down/ADV#0.0#0.0
+a person stands up walks in a clockwise circle returns to where they were and sits back down#a/DET person/NOUN stand/VERB up/ADP walk/NOUN in/ADP a/DET clockwise/ADJ circle/NOUN return/VERB to/ADP where/ADV they/PRON were/AUX and/CCONJ sit/VERB back/ADV down/ADV#0.0#0.0
+a person, stand up and start walked and made a circle#a/DET person/NOUN stand/VERB up/ADP and/CCONJ start/VERB walk/VERB and/CCONJ make/VERB a/DET circle/NOUN#0.0#0.0

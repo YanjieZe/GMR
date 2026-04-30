@@ -1,0 +1,3 @@
+the person is knocking on something.#the/DET person/NOUN is/AUX knock/VERB on/ADP something/PRON#0.0#0.0
+a person is swinging ther left arm over their chest#a/DET person/NOUN is/AUX swinge/VERB ther/ADV left/ADJ arm/NOUN over/ADP their/DET chest/NOUN#0.0#0.0
+a person jerks their right hand up and past their face.#a/DET person/NOUN jerk/VERB their/DET right/ADJ hand/NOUN up/ADP and/CCONJ past/ADP their/DET face/NOUN#0.0#0.0

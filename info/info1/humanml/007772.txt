@@ -1,0 +1,3 @@
+a person is using binoculars#a/DET person/NOUN is/AUX use/VERB binocular/NOUN#0.0#0.0
+a person shouting for something#a/DET person/NOUN shout/VERB for/ADP something/PRON#0.0#0.0
+a man raises up his hands ,moves them right to left trying to find something and then lowers them down.#a/DET man/NOUN raise/VERB up/ADP his/DET hand/NOUN move/VERB them/PRON right/ADJ to/ADP left/VERB try/VERB to/PART find/VERB something/PRON and/CCONJ then/ADV lower/VERB them/PRON down/ADP#0.0#0.0

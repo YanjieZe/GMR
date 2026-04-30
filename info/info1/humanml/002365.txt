@@ -1,0 +1,3 @@
+a person jogs a few steps, swinging their arms naturally.#a/DET person/NOUN jog/VERB a/DET few/ADJ step/NOUN swinge/VERB their/DET arm/NOUN naturally/ADV#0.0#0.0
+person sprits forward four steps#person/NOUN sprit/VERB forward/ADV four/NUM step/NOUN#0.0#0.0
+a person is running forward.#a/DET person/NOUN is/AUX run/VERB forward/ADV#0.0#0.0

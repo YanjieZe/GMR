@@ -1,0 +1,3 @@
+the person is doing light hopping up and down.#the/DET person/NOUN is/AUX do/VERB light/NOUN hop/VERB up/ADV and/CCONJ down/ADV#0.0#0.0
+a person is lightly hopping in place.#a/DET person/NOUN is/AUX lightly/ADV hop/VERB in/ADP place/NOUN#0.0#0.0
+a person hops in place 5 times.#a/DET person/NOUN hop/VERB in/ADP place/NOUN time/NOUN#0.0#0.0

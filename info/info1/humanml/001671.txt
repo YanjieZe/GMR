@@ -1,0 +1,3 @@
+person jogs on the spot#person/NOUN jog/VERB on/ADP the/DET spot/NOUN#0.0#0.0
+a person jogs on the spot#a/DET person/NOUN jog/VERB on/ADP the/DET spot/NOUN#0.0#0.0
+person moves their hands up and down and buck their legs as if they're running#person/NOUN move/VERB their/DET hand/NOUN up/ADV and/CCONJ down/ADV and/CCONJ buck/VERB their/DET leg/NOUN as/SCONJ if/SCONJ they/PRON run/VERB#0.0#0.0

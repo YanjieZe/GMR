@@ -1,0 +1,3 @@
+the subject is trowing a kick with the right foot.#the/DET subject/NOUN is/AUX trowe/VERB a/DET kick/NOUN with/ADP the/DET right/ADJ foot/NOUN#0.0#0.0
+a person lifts their left foot, bends at the knee and kicks forward.#a/DET person/NOUN lift/VERB their/DET left/ADJ foot/NOUN bend/NOUN at/ADP the/DET knee/NOUN and/CCONJ kick/VERB forward/ADV#0.0#0.0
+a person stomping the ground.#a/DET person/NOUN stomp/VERB the/DET ground/NOUN#0.0#0.0

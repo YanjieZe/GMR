@@ -1,0 +1,3 @@
+the person is running forward.#the/DET person/NOUN is/AUX run/VERB forward/ADV#0.0#0.0
+a man is running forward#a/DET man/NOUN is/AUX run/VERB forward/ADV#0.0#0.0
+a person who is jogging with his hands by his sides takes three quick steps forward.#a/DET person/NOUN who/PRON is/AUX jog/VERB with/ADP his/DET hand/NOUN by/ADP his/DET side/NOUN take/VERB three/NUM quick/ADJ step/NOUN forward/ADV#0.0#0.0

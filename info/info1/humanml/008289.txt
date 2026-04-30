@@ -1,0 +1,3 @@
+person is doing 360 jumps#person/NOUN is/AUX do/VERB jump/NOUN#0.0#0.0
+the person turns around, then spins while during each of two jumps.#the/DET person/NOUN turn/VERB around/ADV then/ADV spin/VERB while/SCONJ during/ADP each/DET of/ADP two/NUM jump/NOUN#0.0#0.0
+an individual turns on it’s axis, and follows with 2 rotating jumps.#an/DET individual/ADJ turn/VERB on/ADP it/PRON axis/ADJ and/CCONJ follow/VERB with/ADP rotate/VERB jump/NOUN#0.0#0.0

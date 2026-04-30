@@ -1,0 +1,3 @@
+person is walking in backwards motion#person/NOUN is/AUX walk/VERB in/ADP backwards/ADP motion/NOUN#0.0#0.0
+a man walks slowly backwards, stops, raises his hands quickly, then takes one step forward.#a/DET man/NOUN walk/VERB slowly/ADV backwards/ADV stop/NOUN raise/VERB his/DET hand/NOUN quickly/ADV then/ADV take/VERB one/NUM step/NOUN forward/ADV#0.0#0.0
+a person sways while walking backwards.#a/DET person/NOUN sway/VERB while/SCONJ walk/VERB backwards/ADV#0.0#0.0

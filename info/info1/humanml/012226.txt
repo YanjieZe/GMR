@@ -1,0 +1,2 @@
+he is limping his leg hurts#he/PRON is/AUX limp/VERB his/DET leg/NOUN hurt/NOUN#0.0#0.0
+the man empties the bag of fertilizer on the ground#the/DET man/NOUN empty/VERB the/DET bag/NOUN of/ADP fertilizer/NOUN on/ADP the/DET ground/NOUN#0.0#0.0

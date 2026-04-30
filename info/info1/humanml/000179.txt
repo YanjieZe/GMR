@@ -1,0 +1,3 @@
+a person holds their right arm bent at the elbow and bends their left arm up and down#a/DET person/NOUN hold/VERB their/DET right/ADJ arm/NOUN bent/NOUN at/ADP the/DET elbow/NOUN and/CCONJ bend/VERB their/DET left/ADJ arm/NOUN up/ADV and/CCONJ down/ADV#0.0#0.0
+someone strains to raise and lower a dumbell in their left hand.#someone/PRON strain/VERB to/PART raise/VERB and/CCONJ lower/VERB a/DET dumbell/NOUN in/ADP their/DET left/ADJ hand/NOUN#0.0#0.0
+a person stands with their right arm out, bent at the elbow. their left arm is forward, curling up at the elbow.#a/DET person/NOUN stand/VERB with/ADP their/DET right/ADJ arm/NOUN out/ADP bent/ADJ at/ADP the/DET elbow/NOUN their/DET left/ADJ arm/NOUN is/AUX forward/ADV curl/VERB up/ADP at/ADP the/DET elbow/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+the person is walking down arms out.#the/DET person/NOUN is/AUX walk/VERB down/ADP arm/NOUN out/ADV#0.0#0.0
+a person is walking and using their left hand to support themselves by using a wall.#a/DET person/NOUN is/AUX walk/VERB and/CCONJ use/VERB their/DET left/ADJ hand/NOUN to/PART support/VERB themselves/PRON by/ADP use/VERB a/DET wall/NOUN#0.0#0.0
+a man is walking while holding a handrail#a/DET man/NOUN is/AUX walk/VERB while/SCONJ hold/VERB a/DET handrail/NOUN#0.0#0.0

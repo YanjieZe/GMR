@@ -1,0 +1,3 @@
+a person runs and stops.#a/DET person/NOUN run/VERB and/CCONJ stop/NOUN#0.0#0.0
+a person pauses after stepping forward, then takes off running.#a/DET person/NOUN pause/VERB after/ADP step/VERB forward/ADV then/ADV take/VERB off/ADP run/VERB#0.0#0.0
+a person runs, stops running and starts again.#a/DET person/NOUN run/VERB stop/VERB run/VERB and/CCONJ start/VERB again/ADV#0.0#0.0

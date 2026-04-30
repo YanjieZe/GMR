@@ -1,0 +1,3 @@
+person aims and throws a baseball#person/NOUN aim/VERB and/CCONJ throw/VERB a/DET baseball/NOUN#0.0#8.0
+a pitcher winds up and throws the ball, and the ball quickly comes back to him; he catches it, and without haste, he throws it back again.#a/DET pitcher/NOUN wind/VERB up/ADP and/CCONJ throw/VERB the/DET ball/NOUN and/CCONJ the/DET ball/NOUN quickly/ADV come/VERB back/ADV to/ADP him/PRON he/PRON catch/VERB it/PRON and/CCONJ without/ADP haste/NOUN he/PRON throw/VERB it/PRON back/ADV again/ADV#0.0#0.0
+a person is throwing something with their right arm.#a/DET person/NOUN is/AUX throw/VERB something/PRON with/ADP their/DET right/ADJ arm/NOUN#0.0#0.0

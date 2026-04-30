@@ -1,0 +1,3 @@
+walking forward slowly while limping.#walk/VERB forward/ADV slowly/ADV while/SCONJ limp/VERB#0.0#0.0
+a man walks forwards slowly using his left leg, whilst dragging his right leg with difficulty.#a/DET man/NOUN walk/VERB forwards/ADV slowly/ADV use/VERB his/DET left/ADJ leg/NOUN whilst/SCONJ drag/VERB his/DET right/ADJ leg/NOUN with/ADP difficulty/NOUN#0.0#0.0
+a person walking very slowly and dragging one leg.#a/DET person/NOUN walk/VERB very/ADV slowly/ADV and/CCONJ drag/VERB one/NUM leg/NOUN#0.0#0.0

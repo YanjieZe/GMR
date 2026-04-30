@@ -1,0 +1,3 @@
+a person carelessly walking left to right.#a/DET person/NOUN carelessly/ADV walk/VERB left/ADV to/ADP right/NOUN#0.0#0.0
+a person walks from right to left, then back to their starting position with both arms by side.#a/DET person/NOUN walk/VERB from/ADP right/NOUN to/ADP left/NOUN then/ADV back/ADV to/ADP their/DET start/VERB position/NOUN with/ADP both/DET arm/NOUN by/ADP side/NOUN#0.0#0.0
+turns left hits wall walks right#turn/VERB left/ADJ hit/NOUN wall/PROPN walk/VERB right/ADV#0.0#0.0

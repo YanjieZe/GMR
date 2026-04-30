@@ -1,0 +1,3 @@
+a figure kicks with its right foot slowly#a/DET figure/NOUN kick/VERB with/ADP its/DET right/ADJ foot/NOUN slowly/ADV#0.0#0.0
+this person swings his right foot while standing.#this/DET person/NOUN swing/VERB his/DET right/ADJ foot/NOUN while/SCONJ stand/VERB#0.0#0.0
+the person is wiping some thing off of his right foot.#the/DET person/NOUN is/AUX wipe/VERB some/DET thing/NOUN off/ADP of/ADP his/DET right/ADJ foot/NOUN#0.0#0.0

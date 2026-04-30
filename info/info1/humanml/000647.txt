@@ -1,0 +1,2 @@
+from a standing position, the person walks at a moderate pace forward, turning their body to be facing right when they stop.#from/ADP a/DET standing/ADJ position/NOUN the/DET person/NOUN walk/VERB at/ADP a/DET moderate/ADJ pace/NOUN forward/ADV turn/VERB their/DET body/NOUN to/PART be/AUX face/VERB right/ADV when/ADV they/PRON stop/VERB#0.0#0.0
+character is walking in a quarter circle, heading to the right.#character/NOUN is/AUX walk/VERB in/ADP a/DET quarter/NOUN circle/NOUN head/VERB to/ADP the/DET right/NOUN#1.0#4.0

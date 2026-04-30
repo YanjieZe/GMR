@@ -1,0 +1,3 @@
+pwesaon ia moving pr picking something up tall or long.#pwesaon/PROPN ia/PROPN move/VERB pr/ADV pick/VERB something/PRON up/ADP tall/ADJ or/CCONJ long/ADJ#0.0#0.0
+she pulls something on the table towards her, then moves a counter to the right, then pulls two more things towards her.#she/PRON pull/VERB something/PRON on/ADP the/DET table/NOUN towards/ADP her/PRON then/ADV move/VERB a/DET counter/NOUN to/ADP the/DET right/NOUN then/ADV pull/VERB two/NUM more/ADJ thing/NOUN towards/ADP her/PRON#0.0#0.0
+a person using both of their hands to do something.#a/DET person/NOUN use/VERB both/DET of/ADP their/DET hand/NOUN to/PART do/AUX something/PRON#0.0#0.0

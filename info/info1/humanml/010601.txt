@@ -1,0 +1,3 @@
+a figure walks forward to the left then turns back and seems to place something on a shelf#a/DET figure/NOUN walk/VERB forward/ADV to/ADP the/DET left/NOUN then/ADV turn/VERB back/ADV and/CCONJ seem/VERB to/PART place/VERB something/PRON on/ADP a/DET shelf/NOUN#0.0#0.0
+a person walks forward turns around walks back grabs something above their head.#a/DET person/NOUN walk/VERB forward/ADV turn/VERB around/ADV walk/VERB back/ADV grab/NOUN something/PRON above/ADP their/DET head/NOUN#0.0#0.0
+a person walks back and forth several times, occasionally reaching up to touch something unseen.#a/DET person/NOUN walk/VERB back/ADV and/CCONJ forth/ADV several/ADJ time/NOUN occasionally/ADV reach/VERB up/ADP to/PART touch/VERB something/PRON unseen/ADJ#0.0#0.0

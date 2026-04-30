@@ -1,0 +1,3 @@
+the person takes a step over the gap#the/DET person/NOUN take/VERB a/DET step/NOUN over/ADP the/DET gap/NOUN#0.0#0.0
+the person walk forward and stuffed over something.#the/DET person/NOUN walk/VERB forward/ADV and/CCONJ stuff/VERB over/ADP something/PRON#0.0#0.0
+person carefully walks forwards then takes a big step over something.#person/NOUN carefully/ADV walk/VERB forwards/ADV then/ADV take/VERB a/DET big/ADJ step/NOUN over/ADP something/PRON#0.0#0.0

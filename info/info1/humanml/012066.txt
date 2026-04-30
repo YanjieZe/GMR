@@ -1,0 +1,1 @@
+this person walks forward and to the right, turns and bends forward while walking.#this/DET person/NOUN walk/VERB forward/ADV and/CCONJ to/ADP the/DET right/NOUN turn/VERB and/CCONJ bend/VERB forward/ADV while/SCONJ walk/VERB#0.0#0.0

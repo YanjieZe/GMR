@@ -1,0 +1,3 @@
+a man remains still for a few seconds, before hopping backwards.#a/DET man/NOUN remain/VERB still/ADV for/ADP a/DET few/ADJ second/NOUN before/ADP hop/VERB backwards/ADV#0.0#0.0
+jump back side on the floor.#jump/VERB back/ADV side/NOUN on/ADP the/DET floor/NOUN#0.0#0.0
+a person slowly jumps backward.#a/DET person/NOUN slowly/ADV jump/VERB backward/ADV#0.0#0.0

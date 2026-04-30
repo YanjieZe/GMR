@@ -1,0 +1,3 @@
+man waiting and looking at the watch#man/NOUN wait/VERB and/CCONJ look/VERB at/ADP the/DET watch/NOUN#0.0#0.0
+a standing man raises his right hand to his chest and then lowers it again.#a/DET stand/VERB man/NOUN raise/VERB his/DET right/ADJ hand/NOUN to/ADP his/DET chest/NOUN and/CCONJ then/ADV lower/VERB it/PRON again/ADV#0.0#0.0
+the person lifts their right arm looking to check the time#the/DET person/NOUN lift/VERB their/DET right/ADJ arm/NOUN look/VERB to/PART check/VERB the/DET time/NOUN#0.0#0.0

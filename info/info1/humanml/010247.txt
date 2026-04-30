@@ -1,0 +1,3 @@
+a person jogging or running forwards#a/DET person/NOUN jog/VERB or/CCONJ running/NOUN forwards/ADV#0.0#0.0
+a figure runs forward four steps.#a/DET figure/NOUN run/VERB forward/ADV four/NUM step/NOUN#0.0#0.0
+person runs five steps forward#person/NOUN run/VERB five/NUM step/NOUN forward/ADV#0.0#0.0

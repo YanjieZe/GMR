@@ -1,0 +1,3 @@
+a man lifts his left leg and does several kicks.#a/DET man/NOUN lift/VERB his/DET left/ADJ leg/NOUN and/CCONJ does/AUX several/ADJ kick/NOUN#0.0#0.0
+a person standing on one leg, while performing possible martial arts/kicks with the other.#a/DET person/NOUN stand/VERB on/ADP one/NUM leg/NOUN while/SCONJ perform/VERB possible/ADJ martial/ADJ art/NOUN kick/NOUN with/ADP the/DET other/ADJ#0.0#0.0
+a person stands on their right leg, kicking and blocking with their left leg.#a/DET person/NOUN stand/VERB on/ADP their/DET right/ADJ leg/NOUN kick/VERB and/CCONJ block/VERB with/ADP their/DET left/ADJ leg/NOUN#0.0#0.0

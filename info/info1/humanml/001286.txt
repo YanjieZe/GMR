@@ -1,0 +1,3 @@
+the person is jogging in place.#the/DET person/NOUN is/AUX jog/VERB in/ADP place/NOUN#0.0#0.0
+the man is doing a jog#the/DET man/NOUN is/AUX do/VERB a/DET jog/NOUN#0.0#0.0
+a person running fast using both arms.#a/DET person/NOUN run/VERB fast/ADV use/VERB both/DET arm/NOUN#0.0#0.0

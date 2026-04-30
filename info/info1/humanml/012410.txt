@@ -1,0 +1,3 @@
+a person raises one arm up and points the other towards the floor as they stretch.#a/DET person/NOUN raise/VERB one/NUM arm/NOUN up/ADP and/CCONJ point/VERB the/DET other/ADJ towards/ADP the/DET floor/NOUN as/SCONJ they/PRON stretch/VERB#0.0#0.0
+a person in the standing position raises their right arm.#a/DET person/NOUN in/ADP the/DET standing/ADJ position/NOUN raise/VERB their/DET right/ADJ arm/NOUN#nan#0.0
+a person stands still and drinks a beverage quickly#a/DET person/NOUN stand/VERB still/ADV and/CCONJ drink/VERB a/DET beverage/NOUN quickly/ADV#0.0#0.0

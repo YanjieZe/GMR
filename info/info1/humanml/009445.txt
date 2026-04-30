@@ -1,0 +1,3 @@
+the person was running forward.#the/DET person/NOUN was/AUX run/VERB forward/ADV#0.0#0.0
+a person is running forward.#a/DET person/NOUN is/AUX run/VERB forward/ADV#0.0#0.0
+person from a standing position runs forward very quickly#person/NOUN from/ADP a/DET standing/ADJ position/NOUN run/VERB forward/ADV very/ADV quickly/ADV#0.0#0.0

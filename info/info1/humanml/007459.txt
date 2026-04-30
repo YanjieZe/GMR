@@ -1,0 +1,3 @@
+a person military presses weights above their head.#a/DET person/NOUN military/ADJ press/NOUN weight/NOUN above/ADP their/DET head/NOUN#0.0#0.0
+a person is standing and looks like he is lifting a dumbell above his head. both his arms arm moving up and down.#a/DET person/NOUN is/AUX stand/VERB and/CCONJ look/VERB like/SCONJ he/PRON is/AUX lift/VERB a/DET dumbell/NOUN above/ADP his/DET head/NOUN both/CCONJ his/DET arm/NOUN arm/NOUN move/VERB up/ADV and/CCONJ down/ADV#0.0#0.0
+a person with both arms stretched, bent up at elbow, bring their arms straight up and then back#a/DET person/NOUN with/ADP both/DET arm/NOUN stretch/VERB bend/VERB up/ADP at/ADP elbow/NOUN bring/VERB their/DET arm/NOUN straight/ADV up/ADV and/CCONJ then/ADV back/ADV#0.0#0.0

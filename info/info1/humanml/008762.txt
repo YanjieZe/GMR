@@ -1,0 +1,3 @@
+walking forward and to the side.#walk/VERB forward/ADV and/CCONJ to/ADP the/DET side/NOUN#0.0#0.0
+a person walks forward, stumbles to the left, recovers, and continues walking.#a/DET person/NOUN walk/VERB forward/ADV stumble/NOUN to/ADP the/DET left/NOUN recover/NOUN and/CCONJ continue/VERB walk/VERB#0.0#0.0
+a man is walking and side steps to the left but continues to walk forward.#a/DET man/NOUN is/AUX walk/VERB and/CCONJ side/NOUN step/NOUN to/ADP the/DET left/NOUN but/CCONJ continue/VERB to/PART walk/VERB forward/ADV#0.0#0.0

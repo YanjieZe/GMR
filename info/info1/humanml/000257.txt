@@ -1,0 +1,3 @@
+a person walks forward slowly.#a/DET person/NOUN walk/VERB forward/ADV slowly/ADV#0.0#0.0
+a person walks downward in a straight line carefully with one foot in front of the other.#a/DET person/NOUN walk/VERB downward/ADV in/ADP a/DET straight/ADJ line/NOUN carefully/ADV with/ADP one/NUM foot/NOUN in/ADP front/NOUN of/ADP the/DET other/ADJ#0.0#0.0
+someone is walking forward placing each foot in front of the other#someone/PRON is/AUX walk/VERB forward/ADV place/VERB each/DET foot/NOUN in/ADP front/NOUN of/ADP the/DET other/ADJ#0.0#0.0

@@ -1,0 +1,3 @@
+a person jogs in place#a/DET person/NOUN jog/VERB in/ADP place/NOUN#0.0#0.0
+a person jogging in place.#a/DET person/NOUN jog/VERB in/ADP place/NOUN#0.0#0.0
+the person is doing some jumping excercise.#the/DET person/NOUN is/AUX do/VERB some/DET jumping/NOUN excercise/NOUN#0.0#0.0

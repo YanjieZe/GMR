@@ -1,0 +1,3 @@
+the figure walks forward and picks something up with their right hand before turning around and walking forwards.#the/DET figure/NOUN walk/VERB forward/ADV and/CCONJ pick/VERB something/PRON up/ADP with/ADP their/DET right/ADJ hand/NOUN before/ADP turn/VERB around/ADV and/CCONJ walk/VERB forwards/ADV#0.0#0.0
+a person walks forward waves red hand ,walks back , then forward again.#a/DET person/NOUN walk/VERB forward/ADV wave/NOUN red/ADJ hand/NOUN walk/VERB back/ADV then/ADV forward/ADV again/ADV#0.0#0.0
+the person is walking forward swinging his hands.#the/DET person/NOUN is/AUX walk/VERB forward/ADV swinge/VERB his/DET hand/NOUN#0.0#0.0

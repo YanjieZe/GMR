@@ -1,0 +1,3 @@
+a man walks forward to the left and then sits down.#a/DET man/NOUN walk/VERB forward/ADV to/ADP the/DET left/NOUN and/CCONJ then/ADV sit/VERB down/ADP#0.0#0.0
+a person walking and then sitting down#a/DET person/NOUN walk/VERB and/CCONJ then/ADV sit/VERB down/ADP#0.0#0.0
+person starts out with both arms extended then lowered them to walk three steps forward then turn to right to sit in a chair#person/NOUN start/VERB out/ADP with/ADP both/DET arm/NOUN extend/VERB then/ADV lower/VERB them/PRON to/PART walk/VERB three/NUM step/NOUN forward/ADV then/ADV turn/VERB to/ADP right/NOUN to/PART sit/VERB in/ADP a/DET chair/NOUN#0.0#0.0

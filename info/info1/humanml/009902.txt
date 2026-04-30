@@ -1,0 +1,3 @@
+a person lowers and raises their arms perpendicular to their body to 90 degrees.#a/DET person/NOUN lower/VERB and/CCONJ raise/VERB their/DET arm/NOUN perpendicular/ADJ to/ADP their/DET body/NOUN to/ADP degree/NOUN#0.0#0.0
+a person raised the hands and pull it down#a/DET person/NOUN raise/VERB the/DET hand/NOUN and/CCONJ pull/VERB it/PRON down/ADP#0.0#0.0
+a person repeatedly raises arms outward to about shoulder level, then drops them to a relaxed position.#a/DET person/NOUN repeatedly/ADV raise/VERB arm/NOUN outward/ADV to/ADP about/ADP shoulder/NOUN level/NOUN then/ADV drop/VERB them/PRON to/ADP a/DET relaxed/ADJ position/NOUN#0.0#0.0

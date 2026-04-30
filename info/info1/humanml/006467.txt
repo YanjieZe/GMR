@@ -1,0 +1,3 @@
+a person lifts their left arm and then right arm.#a/DET person/NOUN lift/VERB their/DET left/ADJ arm/NOUN and/CCONJ then/ADV right/ADJ arm/NOUN#0.0#0.0
+a person alternates between waving with their left and right hands#a/DET person/NOUN alternate/VERB between/ADP wave/VERB with/ADP their/DET left/ADJ and/CCONJ right/ADJ hand/NOUN#0.0#0.0
+a person swings left arm up and back, then the right arm, then the left arm again.#a/DET person/NOUN swing/VERB left/VERB arm/NOUN up/ADP and/CCONJ back/ADV then/ADV the/DET right/ADJ arm/NOUN then/ADV the/DET left/ADJ arm/NOUN again/ADV#0.0#0.0

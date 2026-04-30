@@ -1,0 +1,3 @@
+a man walks straight down with his arm on a bar or surface#a/DET man/NOUN walk/VERB straight/ADV down/ADV with/ADP his/DET arm/NOUN on/ADP a/DET bar/NOUN or/CCONJ surface/NOUN#0.0#0.0
+the person is walking down the steps holding onto the railing.#the/DET person/NOUN is/AUX walk/VERB down/ADP the/DET step/NOUN hold/VERB onto/ADP the/DET railing/NOUN#0.0#0.0
+a man walks forward as a gray box appears on the ground. as he walks over it a crack emerges from the ground on the box#a/DET man/NOUN walk/VERB forward/ADV as/SCONJ a/DET gray/ADJ box/NOUN appear/VERB on/ADP the/DET ground/NOUN as/SCONJ he/PRON walk/VERB over/ADP it/PRON a/DET crack/NOUN emerge/VERB from/ADP the/DET ground/NOUN on/ADP the/DET box/NOUN#0.0#0.0

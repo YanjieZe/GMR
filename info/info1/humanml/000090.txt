@@ -1,0 +1,3 @@
+a person walks forward, spins around, and walks back#a/DET person/NOUN walk/VERB forward/ADV spin/VERB around/ADV and/CCONJ walk/VERB back/ADV#0.0#0.0
+person walks up and spins round then walks back#person/NOUN walk/VERB up/ADP and/CCONJ spin/VERB round/ADJ then/ADV walk/VERB back/ADV#0.0#0.0
+the person took 2 steps, spins on right foot and returns to starting position#the/DET person/NOUN take/VERB step/NOUN spin/VERB on/ADP right/ADJ foot/NOUN and/CCONJ return/NOUN to/ADP start/VERB position/NOUN#0.0#0.0

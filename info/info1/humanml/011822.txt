@@ -1,0 +1,3 @@
+a person walks forward a few steps#a/DET person/NOUN walk/VERB forward/ADV a/DET few/ADJ step/NOUN#0.0#0.0
+a man walks forward with arms down at his side.#a/DET man/NOUN walk/VERB forward/ADV with/ADP arm/NOUN down/ADV at/ADP his/DET side/NOUN#0.0#0.0
+.a person walks forward slowly.#person/NOUN walk/VERB forward/ADV slowly/ADV#0.0#0.0

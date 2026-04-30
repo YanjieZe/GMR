@@ -1,0 +1,3 @@
+the person is walking around in a figure 8.#the/DET person/NOUN is/AUX walk/VERB around/ADP in/ADP a/DET figure/NOUN#0.0#0.0
+a man walks anticlockwise and then clockwise making a s shape.#a/DET man/NOUN walk/VERB anticlockwise/NOUN and/CCONJ then/ADV clockwise/VERB make/VERB a/DET s/PROPN shape/NOUN#0.0#0.0
+a person walks in a s shape to the left.#a/DET person/NOUN walk/VERB in/ADP a/DET s/PROPN shape/NOUN to/ADP the/DET left/NOUN#0.0#0.0

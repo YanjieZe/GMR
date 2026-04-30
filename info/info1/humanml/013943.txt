@@ -1,0 +1,3 @@
+a person is walking while using a hand rail.#a/DET person/NOUN is/AUX walk/VERB while/SCONJ use/VERB a/DET hand/NOUN rail/NOUN#0.0#0.0
+a person descends stairs slowly while holding onto the rail.#a/DET person/NOUN descend/VERB stair/NOUN slowly/ADV while/SCONJ hold/VERB onto/ADP the/DET rail/NOUN#0.0#0.0
+a person is walking while holding onto something with his right hand.#a/DET person/NOUN is/AUX walk/VERB while/SCONJ hold/VERB onto/ADP something/PRON with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0

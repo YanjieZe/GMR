@@ -1,0 +1,3 @@
+the person is mixing up food.#the/DET person/NOUN is/AUX mix/VERB up/ADP food/NOUN#0.0#0.0
+taking a couple of steps and reaching out for something#take/VERB a/DET couple/NOUN of/ADP step/NOUN and/CCONJ reach/VERB out/ADP for/ADP something/PRON#0.0#0.0
+man walks before lifting his left hand#man/NOUN walk/VERB before/ADP lift/VERB his/DET left/ADJ hand/NOUN#0.0#0.0

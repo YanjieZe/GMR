@@ -1,0 +1,3 @@
+a person walking fast down stairs.#a/DET person/NOUN walk/VERB fast/ADV down/ADP stair/NOUN#0.0#0.0
+a person places their right hand on something then takes several steps down as they walk forward while sliding their hand along the object.#a/DET person/NOUN place/VERB their/DET right/ADJ hand/NOUN on/ADP something/PRON then/ADV take/VERB several/ADJ step/NOUN down/ADV as/SCONJ they/PRON walk/VERB forward/ADV while/SCONJ slide/VERB their/DET hand/NOUN along/ADP the/DET object/NOUN#0.0#0.0
+he walks slowly downstairs directly#he/PRON walk/VERB slowly/ADV downstairs/ADV directly/ADV#0.0#0.0

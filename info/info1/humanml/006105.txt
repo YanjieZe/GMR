@@ -1,0 +1,3 @@
+a man pushes his arm overhead as though throwing something, brings his hands together, then repeats the throwing motion.#a/DET man/NOUN push/VERB his/DET arm/NOUN overhead/ADV as/SCONJ though/SCONJ throw/VERB something/PRON bring/VERB his/DET hand/NOUN together/ADV then/ADV repeat/VERB the/DET throwing/NOUN motion/NOUN#0.0#0.0
+a person throws something with its right hand.#a/DET person/NOUN throw/VERB something/PRON with/ADP its/DET right/ADJ hand/NOUN#0.0#0.0
+a man throws something above his right shoulder.#a/DET man/NOUN throw/VERB something/PRON above/ADP his/DET right/ADJ shoulder/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+the person was walking forward slowly.#the/DET person/NOUN was/AUX walk/VERB forward/ADV slowly/ADV#0.0#0.0
+a person walks forward with a slight limp.#a/DET person/NOUN walk/VERB forward/ADV with/ADP a/DET slight/ADJ limp/NOUN#0.0#0.0
+the sim is walking down the plane at normal rate of speed.#the/DET sim/PROPN is/AUX walk/VERB down/ADP the/DET plane/NOUN at/ADP normal/ADJ rate/NOUN of/ADP speed/NOUN#0.0#8.0

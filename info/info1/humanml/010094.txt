@@ -1,0 +1,3 @@
+a man claps his hands 5 times.#a/DET man/NOUN clap/VERB his/DET hand/NOUN time/NOUN#0.0#0.0
+a man stands and claps his hands together.#a/DET man/NOUN stand/VERB and/CCONJ clap/VERB his/DET hand/NOUN together/ADV#0.0#0.0
+a man is clapping whilst standing up#a/DET man/NOUN is/AUX clap/VERB whilst/SCONJ stand/VERB up/ADP#0.0#0.0

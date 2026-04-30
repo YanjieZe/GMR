@@ -1,0 +1,3 @@
+a figure walks slowly in a circle then stops, turns, and raises their arms#a/DET figure/NOUN walk/VERB slowly/ADV in/ADP a/DET circle/NOUN then/ADV stop/VERB turn/VERB and/CCONJ raise/VERB their/DET arm/NOUN#0.0#0.0
+the man walks aimlessly in a circle stops and raises his arms.#the/DET man/NOUN walk/VERB aimlessly/ADV in/ADP a/DET circle/NOUN stop/VERB and/CCONJ raise/VERB his/DET arm/NOUN#0.0#0.0
+a person walks left in a clovkwise motion until they turn, walking off course.#a/DET person/NOUN walk/VERB left/VERB in/ADP a/DET clovkwise/NOUN motion/NOUN until/ADP they/PRON turn/VERB walk/VERB off/ADP course/ADV#0.0#0.0

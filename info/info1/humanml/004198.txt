@@ -1,0 +1,3 @@
+a person raises their hand to their face and then folds their hands together.#a/DET person/NOUN raise/VERB their/DET hand/NOUN to/ADP their/DET face/NOUN and/CCONJ then/ADV fold/VERB their/DET hand/NOUN together/ADV#0.0#0.0
+the hands go up towards the chest and then moves the arms downwards sightly to the right to the waist.#the/DET hand/NOUN go/VERB up/ADV towards/ADP the/DET chest/NOUN and/CCONJ then/ADV move/VERB the/DET arm/NOUN downwards/ADV sightly/ADV to/ADP the/DET right/NOUN to/ADP the/DET waist/NOUN#0.0#0.0
+man brings locked fingers to chin, then moves hands to the side#man/NOUN bring/VERB lock/VERB finger/NOUN to/PART chin/VERB then/ADV move/VERB hand/NOUN to/ADP the/DET side/NOUN#0.0#0.0

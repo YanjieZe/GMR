@@ -1,0 +1,3 @@
+a man ;does poses with his arms.#a/DET man/NOUN does/AUX pose/NOUN with/ADP his/DET arm/NOUN#0.0#0.0
+the hands are thrown up in the air and back down into a v shape of the arms toward the chest.#the/DET hand/NOUN are/AUX throw/VERB up/ADP in/ADP the/DET air/NOUN and/CCONJ back/VERB down/ADV into/ADP a/DET v/NOUN shape/NOUN of/ADP the/DET arm/NOUN toward/ADP the/DET chest/NOUN#1.0#3.0
+person lifts both arms aggressively before bringing them in to chin height, torso movement is left to right whilst holding arms out#person/NOUN lift/VERB both/CCONJ arm/NOUN aggressively/ADV before/ADP bring/VERB them/PRON in/ADP to/PART chin/PROPN height/PROPN torso/PROPN movement/NOUN is/AUX left/VERB to/ADP right/ADJ whilst/INTJ hold/VERB arm/NOUN out/ADP#6.0#9.0

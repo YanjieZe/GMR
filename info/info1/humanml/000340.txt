@@ -1,0 +1,3 @@
+a person thanking his fans#a/DET person/NOUN thank/VERB his/DET fan/NOUN#0.0#0.0
+a person throws something with their right arm and then catches it with both hands.#a/DET person/NOUN throw/VERB something/PRON with/ADP their/DET right/ADJ arm/NOUN and/CCONJ then/ADV catch/VERB it/PRON with/ADP both/DET hand/NOUN#0.0#0.0
+a person puts their right hand forward then uses both hands to pick something up#a/DET person/NOUN put/VERB their/DET right/ADJ hand/NOUN forward/ADV then/ADV use/VERB both/DET hand/NOUN to/PART pick/VERB something/PRON up/ADP#0.0#0.0

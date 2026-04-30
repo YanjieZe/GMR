@@ -1,0 +1,3 @@
+a person is sitting and then raises their right hand and then moves both hands side to side in front of their chest then reaches for their left shoulder with their right hand.#a/DET person/NOUN is/AUX sit/VERB and/CCONJ then/ADV raise/VERB their/DET right/ADJ hand/NOUN and/CCONJ then/ADV move/VERB both/DET hand/NOUN side/VERB to/PART side/VERB in/ADP front/NOUN of/ADP their/DET chest/NOUN then/ADV reach/VERB for/ADP their/DET left/ADJ shoulder/NOUN with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+the person is doing an experiment.#the/DET person/NOUN is/AUX do/VERB an/DET experiment/NOUN#0.0#0.0
+the man raises his hand plays the piano thepats himself.#the/DET man/NOUN raise/VERB his/DET hand/NOUN play/VERB the/DET piano/NOUN thepat/VERB himself/PRON#0.0#0.0

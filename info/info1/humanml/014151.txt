@@ -1,0 +1,3 @@
+a man walks forward bends at the knee to pick something up then turns around and walks backwards.#a/DET man/NOUN walk/VERB forward/ADV bend/NOUN at/ADP the/DET knee/NOUN to/PART pick/VERB something/PRON up/ADP then/ADV turn/VERB around/ADP and/CCONJ walk/VERB backwards/ADV#0.0#0.0
+a man walks forward, strecthes to reach his toes, then walks back.#a/DET man/NOUN walk/VERB forward/ADV strecthe/VERB to/PART reach/VERB his/DET toe/NOUN then/ADV walk/VERB back/ADV#0.0#0.0
+a person bends over and picks something up.#a/DET person/NOUN bend/VERB over/ADP and/CCONJ pick/VERB something/PRON up/ADP#0.0#0.0

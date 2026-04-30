@@ -1,0 +1,3 @@
+a man stands still for a moment before taking one step forward.#a/DET man/NOUN stand/VERB still/ADV for/ADP a/DET moment/NOUN before/ADP take/VERB one/NUM step/NOUN forward/ADV#0.0#0.0
+a person steps forward a short distance.#a/DET person/NOUN step/VERB forward/ADV a/DET short/ADJ distance/NOUN#0.0#0.0
+a person gently steps forward starting with their left foot followed by the right#a/DET person/NOUN gently/ADV step/VERB forward/ADV start/VERB with/ADP their/DET left/ADJ foot/NOUN follow/VERB by/ADP the/DET right/NOUN#0.0#0.0

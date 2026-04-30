@@ -1,0 +1,3 @@
+the person is standing with arms by their side#the/DET person/NOUN is/AUX stand/VERB with/ADP arm/NOUN by/ADP their/DET side/NOUN#0.0#0.0
+a person who is standing with his arms extended at shoulder height drops his hands to his knees and holds that position before raising his arms to his original position.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP his/DET arm/NOUN extend/VERB at/ADP shoulder/NOUN height/NOUN drop/VERB his/DET hand/NOUN to/ADP his/DET knee/NOUN and/CCONJ hold/VERB that/DET position/NOUN before/ADP raise/VERB his/DET arm/NOUN to/ADP his/DET original/ADJ position/NOUN#0.0#0.0
+in there is a person stand behind it#in/ADP there/PRON is/AUX a/DET person/NOUN stand/VERB behind/ADP it/PRON#1.0#6.0

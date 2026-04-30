@@ -1,0 +1,3 @@
+a person hunches forward, both arms are curled back, then moves upper body side to side.#a/DET person/NOUN hunch/VERB forward/ADV both/DET arm/NOUN are/AUX curl/VERB back/ADV then/ADV move/VERB upper/ADJ body/NOUN side/NOUN to/PART side/VERB#0.0#0.0
+a person bends down slightly, motioning up and down, with their hands slightly elevated.#a/DET person/NOUN bend/VERB down/ADP slightly/ADV motion/VERB up/ADP and/CCONJ down/ADV with/ADP their/DET hand/NOUN slightly/ADV elevate/VERB#0.0#0.0
+person is making animal like gestures#person/NOUN is/AUX make/VERB animal/NOUN like/SCONJ gesture/NOUN#0.0#0.0

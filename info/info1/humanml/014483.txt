@@ -1,0 +1,3 @@
+starting with their left foot, a person salsa dances forward and backward before turning around while continuing to dance.#start/VERB with/ADP their/DET left/ADJ foot/NOUN a/DET person/NOUN salsa/NOUN dance/NOUN forward/ADV and/CCONJ backward/ADV before/ADP turn/VERB around/ADP while/SCONJ continue/VERB to/PART dance/VERB#0.0#0.0
+a person dance smoothly, holding someone in both his hands.#a/DET person/NOUN dance/NOUN smoothly/ADV hold/VERB someone/PRON in/ADP both/CCONJ his/DET hand/NOUN#0.0#0.0
+person is dancing with himself#person/NOUN is/AUX dance/VERB with/ADP himself/PRON#0.0#0.0

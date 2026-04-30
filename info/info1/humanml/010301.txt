@@ -1,0 +1,3 @@
+a man walks in a clockwise circle#a/DET man/NOUN walk/VERB in/ADP a/DET clockwise/NOUN circle/NOUN#0.0#0.0
+a person who is standing with his hands by his sides takes eight steps in a clockwise motion and stops.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP his/DET hand/NOUN by/ADP his/DET side/NOUN take/VERB eight/NUM step/NOUN in/ADP a/DET clockwise/ADJ motion/NOUN and/CCONJ stop/NOUN#0.0#0.0
+person briskly walking, almost pacing, in a counter-clockwise direction.#person/NOUN briskly/ADV walk/VERB almost/ADV pace/VERB in/ADP a/DET counterclockwise/ADJ direction/NOUN#0.0#0.0

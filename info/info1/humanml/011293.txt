@@ -1,0 +1,3 @@
+a man standing crosses his arms over his chest.#a/DET man/NOUN stand/VERB cross/VERB his/DET arm/NOUN over/ADP his/DET chest/NOUN#0.0#0.0
+person appears to have hands on hips and then crosses arms.#person/NOUN appear/VERB to/PART have/AUX hand/NOUN on/ADP hip/NOUN and/CCONJ then/ADV cross/VERB arm/NOUN#0.0#0.0
+a person places their hands on their hips very briefly before crossing them over their chest.#a/DET person/NOUN place/VERB their/DET hand/NOUN on/ADP their/DET hip/NOUN very/ADV briefly/ADV before/ADP cross/VERB them/PRON over/ADP their/DET chest/NOUN#0.0#0.0

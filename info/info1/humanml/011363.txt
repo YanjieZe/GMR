@@ -1,0 +1,3 @@
+the man is running and scrambling#the/DET man/NOUN is/AUX run/VERB and/CCONJ scramble/VERB#0.0#0.0
+this person moves quickly left then right to sit down.#this/DET person/NOUN move/VERB quickly/ADV left/VERB then/ADV right/ADJ to/PART sit/VERB down/ADP#0.0#0.0
+this person swings both arms as though he is doing a workout, and moves quickly with his whole body.#this/DET person/NOUN swing/VERB both/DET arm/NOUN as/SCONJ though/SCONJ he/PRON is/AUX do/VERB a/DET workout/NOUN and/CCONJ move/NOUN quickly/ADV with/ADP his/DET whole/ADJ body/NOUN#0.0#0.0

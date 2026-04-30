@@ -1,0 +1,3 @@
+a man kicks the ground behind him with his right foot, then walks backwards, then jogs before a few steps, then walks backwards again.#a/DET man/NOUN kick/VERB the/DET ground/NOUN behind/ADP him/PRON with/ADP his/DET right/ADJ foot/NOUN then/ADV walk/VERB backwards/ADV then/ADV jog/VERB before/ADP a/DET few/ADJ step/NOUN then/ADV walk/VERB backwards/ADV again/ADV#0.0#0.0
+a figure prepares to kick a football field goal#a/DET figure/NOUN prepare/VERB to/PART kick/VERB a/DET football/NOUN field/NOUN goal/NOUN#0.0#0.0
+the person backed up then ram forward and kick the soccer ball than that up again.#the/DET person/NOUN back/VERB up/ADP then/ADV ram/VERB forward/ADV and/CCONJ kick/VERB the/DET soccer/NOUN ball/NOUN than/SCONJ that/DET up/ADP again/ADV#0.0#0.0

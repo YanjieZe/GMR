@@ -1,0 +1,3 @@
+a person sits and holds both hands to their mouth, eating something.#a/DET person/NOUN sit/VERB and/CCONJ hold/VERB both/DET hand/NOUN to/ADP their/DET mouth/NOUN eat/VERB something/PRON#0.0#0.0
+a person squatting down moves his arms slightly#a/DET person/NOUN squat/VERB down/ADP move/VERB his/DET arm/NOUN slightly/ADV#0.0#0.0
+moving hands near face while sitting.#move/VERB hand/NOUN near/SCONJ face/NOUN while/SCONJ sit/VERB#0.0#0.0

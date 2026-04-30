@@ -1,0 +1,3 @@
+a person extends his right arm and hand out in front of him in a pronated position.#a/DET person/NOUN extend/VERB his/DET right/ADJ arm/NOUN and/CCONJ hand/VERB out/ADP in/ADP front/NOUN of/ADP him/PRON in/ADP a/DET pronated/ADJ position/NOUN#0.0#0.0
+peron standing and put left arm out.#peron/PROPN standing/PROPN and/CCONJ put/VERB left/ADJ arm/NOUN out/ADP#0.0#0.0
+a person puts his right arm forward.#a/DET person/NOUN put/VERB his/DET right/ADJ arm/NOUN forward/ADV#0.0#0.0

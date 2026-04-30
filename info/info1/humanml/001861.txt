@@ -1,0 +1,3 @@
+a person quickly walks forward.#a/DET person/NOUN quickly/ADV walk/VERB forward/ADV#0.0#0.0
+a person walks straight forward at moderate speed.#a/DET person/NOUN walk/VERB straight/ADV forward/ADV at/ADP moderate/ADJ speed/NOUN#0.0#0.0
+a person quickly walks forward.#a/DET person/NOUN quickly/ADV walk/VERB forward/ADV#0.0#0.0

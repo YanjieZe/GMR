@@ -1,0 +1,3 @@
+a person holding an item turns back, then left, then back, like he's been followed#a/DET person/NOUN hold/VERB an/DET item/NOUN turn/VERB back/ADV then/ADV left/VERB then/ADV back/ADV like/SCONJ he/PRON been/AUX follow/VERB#0.0#0.0
+stick person has arms up looks worred and paces around and near the end bends over#stick/PROPN person/NOUN has/AUX arm/NOUN up/ADP look/VERB worre/VERB and/CCONJ pace/NOUN around/ADV and/CCONJ near/SCONJ the/DET end/NOUN bend/NOUN over/ADP#0.0#0.0
+a prairie dog curiously looks around the room, waiting for something exciting.#a/DET prairie/NOUN dog/NOUN curiously/ADV look/VERB around/ADP the/DET room/NOUN wait/VERB for/ADP something/PRON exciting/ADJ#0.0#0.0

@@ -1,0 +1,3 @@
+a figure walks in a straight line, turns and sits facing away, then stands and walks away#a/DET figure/NOUN walk/VERB in/ADP a/DET straight/ADJ line/NOUN turn/VERB and/CCONJ sit/VERB face/VERB away/ADV then/ADV stand/VERB and/CCONJ walk/VERB away/ADV#0.0#0.0
+a person walks quickly forward, turns and sits, and then stands up and walks away.#a/DET person/NOUN walk/VERB quickly/ADV forward/ADV turn/VERB and/CCONJ sit/VERB and/CCONJ then/ADV stand/VERB up/ADP and/CCONJ walk/VERB away/ADV#0.0#0.0
+a person walks to a chair, sits, and walks away.#a/DET person/NOUN walk/VERB to/ADP a/DET chair/NOUN sit/VERB and/CCONJ walk/VERB away/ADV#0.0#0.0

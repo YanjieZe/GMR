@@ -1,0 +1,3 @@
+a person walks upstairs and stands.#a/DET person/NOUN walk/VERB upstairs/ADV and/CCONJ stand/VERB#0.0#0.0
+person walks up a flight of stairs#person/NOUN walk/VERB up/ADP a/DET flight/NOUN of/ADP stair/NOUN#0.0#0.0
+a person appears to be walking up stairs.#a/DET person/NOUN appear/VERB to/PART be/AUX walk/VERB up/ADP stair/NOUN#0.0#0.0

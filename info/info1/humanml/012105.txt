@@ -1,0 +1,3 @@
+a man is taking a garden hoe and tilling his ground with it to prepare his garden.#a/DET man/NOUN is/AUX take/VERB a/DET garden/NOUN hoe/NOUN and/CCONJ till/VERB his/DET ground/NOUN with/ADP it/PRON to/PART prepare/VERB his/DET garden/NOUN#0.0#0.0
+a person shakes out a push broom then continues to use it to clean around them.#a/DET person/NOUN shake/VERB out/ADP a/DET push/NOUN broom/NOUN then/ADV continue/VERB to/PART use/VERB it/PRON to/PART clean/VERB around/ADP them/PRON#0.0#0.0
+a person moving both arms toward and away from body as if mopping the floor.#a/DET person/NOUN move/VERB both/DET arm/NOUN toward/ADP and/CCONJ away/ADV from/ADP body/NOUN as/SCONJ if/SCONJ mop/VERB the/DET floor/NOUN#0.0#0.0

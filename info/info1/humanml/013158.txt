@@ -1,0 +1,3 @@
+the person was fighting with someone with his elbow.#the/DET person/NOUN was/AUX fight/VERB with/ADP someone/PRON with/ADP his/DET elbow/NOUN#0.0#0.0
+a person kicks and then starts shadowboxing.#a/DET person/NOUN kick/VERB and/CCONJ then/ADV start/VERB shadowbox/VERB#0.0#0.0
+a person practices their job while boxing#a/DET person/NOUN practice/VERB their/DET job/NOUN while/SCONJ box/VERB#0.0#0.0

@@ -1,0 +1,3 @@
+a person raises their right arm then lowers it.#a/DET person/NOUN raise/VERB their/DET right/ADJ arm/NOUN then/ADV lower/VERB it/PRON#0.0#0.0
+a person drinks from a bottle#a/DET person/NOUN drink/VERB from/ADP a/DET bottle/NOUN#0.0#0.0
+a man holds something at chest level in both hands, then lowers his left arm as his right lifts to his head as though drinking something, before lowering his right arm.#a/DET man/NOUN hold/VERB something/PRON at/ADP chest/NOUN level/NOUN in/ADP both/DET hand/NOUN then/ADV lower/VERB his/DET left/ADJ arm/NOUN as/SCONJ his/DET right/NOUN lift/VERB to/ADP his/DET head/NOUN as/SCONJ though/SCONJ drink/VERB something/PRON before/ADP lower/VERB his/DET right/ADJ arm/NOUN#0.0#0.0

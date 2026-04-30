@@ -1,0 +1,3 @@
+a man side steps to the left and the walks forward beofre turning around and walking back.#a/DET man/NOUN side/NOUN step/NOUN to/ADP the/DET left/NOUN and/CCONJ the/DET walk/NOUN forward/ADV beofre/VERB turn/VERB around/ADP and/CCONJ walk/VERB back/ADV#0.0#0.0
+man takes a long side step, then walks around.#man/NOUN take/VERB a/DET long/ADJ side/NOUN step/NOUN then/ADV walk/VERB around/ADV#0.0#0.0
+a person walks forward, turns, and walks back#a/DET person/NOUN walk/VERB forward/ADV turn/VERB and/CCONJ walk/VERB back/ADV#0.0#0.0

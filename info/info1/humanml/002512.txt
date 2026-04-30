@@ -1,0 +1,3 @@
+a person kneels down while placing thier right hand on a stool.#a/DET person/NOUN kneel/VERB down/ADP while/SCONJ place/VERB thier/ADJ right/ADJ hand/NOUN on/ADP a/DET stool/NOUN#0.0#0.0
+a person standes on his knees#a/DET person/NOUN stand/VERB on/ADP his/DET knee/NOUN#0.0#0.0
+a person bends down and gets on their knees.#a/DET person/NOUN bend/VERB down/ADP and/CCONJ get/VERB on/ADP their/DET knee/NOUN#0.0#0.0

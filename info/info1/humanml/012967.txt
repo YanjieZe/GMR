@@ -1,0 +1,3 @@
+a man walks backwards keeping his legs wide apart#a/DET man/NOUN walk/VERB backwards/ADV keep/VERB his/DET leg/NOUN wide/ADV apart/ADV#0.0#0.0
+a person takes four steps backwards and quarter pivots to their right#a/DET person/NOUN take/VERB four/NUM step/NOUN backwards/ADV and/CCONJ quarter/VERB pivot/NOUN to/ADP their/DET right/NOUN#0.0#0.0
+this person walks back with large steps.#this/DET person/NOUN walk/VERB back/ADV with/ADP large/ADJ step/NOUN#0.0#0.0

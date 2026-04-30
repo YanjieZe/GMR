@@ -1,0 +1,3 @@
+a man tries to open a jar.#a/DET man/NOUN try/VERB to/PART open/VERB a/DET jar/NOUN#0.0#0.0
+moving hands around near chest and face.#move/VERB hand/NOUN around/ADP near/SCONJ chest/NOUN and/CCONJ face/NOUN#0.0#0.0
+a person hesitantly puts their right hand on their left shoulder, lifts their left hand, then puts their right hand on their left shoulder again.#a/DET person/NOUN hesitantly/ADV put/VERB their/DET right/ADJ hand/NOUN on/ADP their/DET left/ADJ shoulder/NOUN lift/VERB their/DET left/ADJ hand/NOUN then/ADV put/VERB their/DET right/ADJ hand/NOUN on/ADP their/DET left/ADJ shoulder/NOUN again/ADV#0.0#0.0

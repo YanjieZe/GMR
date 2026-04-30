@@ -1,0 +1,3 @@
+a person holding a rail walking upstairs then back down.#a/DET person/NOUN hold/VERB a/DET rail/NOUN walk/VERB upstairs/ADV then/ADV back/ADV down/ADV#0.0#0.0
+the person is stepping down stairs.#the/DET person/NOUN is/AUX step/VERB down/ADP stair/NOUN#0.0#0.0
+a person walking up and down a set of stairs while using the handrail.#a/DET person/NOUN walk/VERB up/ADP and/CCONJ down/ADP a/DET set/NOUN of/ADP stair/NOUN while/SCONJ use/VERB the/DET handrail/NOUN#0.0#0.0

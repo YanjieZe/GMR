@@ -1,0 +1,3 @@
+a person walks forward and side kicks then puts his hand to his face#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ side/VERB kick/NOUN then/ADV put/VERB his/DET hand/NOUN to/ADP his/DET face/NOUN#0.0#0.0
+a figure kicks and then wipes their chin#a/DET figure/NOUN kick/NOUN and/CCONJ then/ADV wipe/VERB their/DET chin/NOUN#0.0#0.0
+a person kicks out with one leg, before moving back to a resting position.#a/DET person/NOUN kick/VERB out/ADP with/ADP one/NUM leg/NOUN before/ADP move/VERB back/ADV to/ADP a/DET resting/NOUN position/NOUN#0.0#0.0

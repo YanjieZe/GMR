@@ -1,0 +1,3 @@
+a person steps back and starts sitting down before changing their mind and jumping up#a/DET person/NOUN step/VERB back/ADV and/CCONJ start/VERB sit/VERB down/ADP before/ADP change/VERB their/DET mind/NOUN and/CCONJ jump/VERB up/ADP#0.0#0.0
+a person sits back into a chair and then stands back up.#a/DET person/NOUN sit/VERB back/ADV into/ADP a/DET chair/NOUN and/CCONJ then/ADV stand/VERB back/ADV up/ADV#0.0#0.0
+figure goes while forward a step backward then sits down then up.#figure/NOUN go/VERB while/SCONJ forward/ADV a/DET step/NOUN backward/ADV then/ADV sit/VERB down/ADV then/ADV up/ADV#0.0#0.0

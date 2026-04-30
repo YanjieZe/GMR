@@ -1,0 +1,3 @@
+a person walks backwards, turns around toward his left and then walks away.#a/DET person/NOUN walk/VERB backwards/ADV turn/VERB around/ADP toward/ADP his/DET left/NOUN and/CCONJ then/ADV walk/VERB away/ADV#0.0#0.0
+person walks backward, then turns around and walks normally#person/NOUN walk/VERB backward/ADV then/ADV turn/VERB around/ADV and/CCONJ walk/VERB normally/ADV#0.0#0.0
+person walks backwards unbalanced and then does a 180 and walks in a straight line.#person/NOUN walk/VERB backwards/ADV unbalanced/ADJ and/CCONJ then/ADV does/AUX a/DET and/CCONJ walk/VERB in/ADP a/DET straight/ADJ line/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+walking forward and then to the side.#walk/VERB forward/ADV and/CCONJ then/ADV to/ADP the/DET side/NOUN#0.0#0.0
+a man walks forward and then trips towards the right.#a/DET man/NOUN walk/VERB forward/ADV and/CCONJ then/ADV trip/VERB towards/ADP the/DET right/NOUN#0.0#0.0
+a person recovering from a push to their left#a/DET person/NOUN recover/VERB from/ADP a/DET push/NOUN to/ADP their/DET left/NOUN#0.0#0.0

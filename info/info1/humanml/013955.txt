@@ -1,0 +1,3 @@
+a person warms up pectorals by moving arms inwards and outwards.#a/DET person/NOUN warm/VERB up/ADP pectoral/NOUN by/ADP move/VERB arm/NOUN inward/NOUN and/CCONJ outward/NOUN#0.0#0.0
+the man exercises his arms by waving them inward then outward.#the/DET man/NOUN exercise/VERB his/DET arm/NOUN by/ADP wave/VERB them/PRON inward/ADV then/ADV outward/ADV#0.0#0.0
+person moving hands in various motions#person/NOUN move/VERB hand/NOUN in/ADP various/ADJ motion/NOUN#0.0#0.0

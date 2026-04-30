@@ -1,0 +1,3 @@
+a person feints a left move, then runs right.#a/DET person/NOUN feint/VERB a/DET left/ADJ move/NOUN then/ADV run/VERB right/ADV#0.0#0.0
+the man moves from one place to another quickly#the/DET man/NOUN move/VERB from/ADP one/NUM place/NOUN to/ADP another/DET quickly/ADV#0.0#0.0
+a person is stationary receives an ball in his hands and aggressively moves forward#a/DET person/NOUN is/AUX stationary/ADJ receive/VERB an/DET ball/NOUN in/ADP his/DET hand/NOUN and/CCONJ aggressively/ADV move/VERB forward/ADV#0.0#1.0

@@ -1,0 +1,3 @@
+person crouches forward slightly, then runs ahead, then backs up quickly and flaps his arms once.#person/NOUN crouch/VERB forward/ADV slightly/ADV then/ADV run/VERB ahead/ADV then/ADV back/VERB up/ADP quickly/ADV and/CCONJ flap/VERB his/DET arm/NOUN once/ADV#0.0#0.0
+a person crouch walks slowly from the front to the back and increases into a run.#a/DET person/NOUN crouch/NOUN walk/VERB slowly/ADV from/ADP the/DET front/NOUN to/ADP the/DET back/NOUN and/CCONJ increase/NOUN into/ADP a/DET run/NOUN#0.0#0.0
+a person bends over and moves forward and backward, then stands up and runs forward and back#a/DET person/NOUN bend/VERB over/ADP and/CCONJ move/NOUN forward/ADV and/CCONJ backward/ADV then/ADV stand/VERB up/ADP and/CCONJ run/VERB forward/ADV and/CCONJ back/ADV#0.0#0.0

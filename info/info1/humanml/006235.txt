@@ -1,0 +1,3 @@
+the man does a wavelike dance using his arms and slightly sways.#the/DET man/NOUN does/AUX a/DET wavelike/ADJ dance/NOUN use/VERB his/DET arm/NOUN and/CCONJ slightly/ADV sway/NOUN#0.0#0.0
+a person wiggles their hips back and forth while waving their arms.#a/DET person/NOUN wiggle/VERB their/DET hip/NOUN back/ADV and/CCONJ forth/ADV while/SCONJ wave/VERB their/DET arm/NOUN#0.0#0.0
+the person is standing up wiggling his arms back-and-forth#the/DET person/NOUN is/AUX stand/VERB up/ADP wiggle/VERB his/DET arm/NOUN backandforth/NOUN#0.0#0.0

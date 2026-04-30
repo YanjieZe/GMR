@@ -1,0 +1,3 @@
+the person is walking around the bend to the right.#the/DET person/NOUN is/AUX walk/VERB around/ADP the/DET bend/NOUN to/ADP the/DET right/NOUN#0.0#0.0
+person walks forward and veers to the right#person/NOUN walk/VERB forward/ADV and/CCONJ veer/NOUN to/ADP the/DET right/NOUN#0.0#0.0
+figure appears to be walking slightly into the right#figure/NOUN appear/VERB to/PART be/AUX walk/VERB slightly/ADV into/ADP the/DET right/NOUN#0.0#0.0

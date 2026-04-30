@@ -1,0 +1,3 @@
+a person reaches to their crotch with their right hand and pull something down.#a/DET person/NOUN reach/VERB to/ADP their/DET crotch/NOUN with/ADP their/DET right/ADJ hand/NOUN and/CCONJ pull/VERB something/PRON down/ADP#0.0#0.0
+moving arms in a circular motion while standing still.#move/VERB arm/NOUN in/ADP a/DET circular/ADJ motion/NOUN while/SCONJ stand/VERB still/ADV#0.0#0.0
+person appears to unzip the front of their pants.#person/NOUN appear/VERB to/PART unzip/VERB the/DET front/NOUN of/ADP their/DET pant/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person punches several times before pushing something to their right.#a/DET person/NOUN punch/VERB several/ADJ time/NOUN before/ADP push/VERB something/PRON to/ADP their/DET right/NOUN#0.0#0.0
+a person does some shadow boxing then pushes something in front of them#a/DET person/NOUN does/AUX some/DET shadow/NOUN boxing/NOUN then/ADV push/VERB something/PRON in/ADP front/NOUN of/ADP them/PRON#0.0#0.0
+a person is punching the air.#a/DET person/NOUN is/AUX punch/VERB the/DET air/NOUN#0.0#0.0

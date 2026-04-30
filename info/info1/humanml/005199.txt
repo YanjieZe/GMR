@@ -1,0 +1,3 @@
+a man holding his partner dances in a counter clockwise direction while facing forward.#a/DET man/NOUN hold/VERB his/DET partner/NOUN dance/NOUN in/ADP a/DET counter/NOUN clockwise/NOUN direction/NOUN while/SCONJ face/VERB forward/ADV#0.0#0.0
+the person is dancing the waltz.#the/DET person/NOUN is/AUX dance/VERB the/DET waltz/NOUN#0.0#0.0
+stick figure walks forward walks forward then steps to the side then steps backwards then to the side again#stick/PROPN figure/NOUN walk/VERB forward/ADV walk/VERB forward/ADV then/ADV step/VERB to/ADP the/DET side/NOUN then/ADV step/VERB backwards/ADV then/ADV to/ADP the/DET side/NOUN again/ADV#1.0#10.0

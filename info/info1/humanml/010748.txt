@@ -1,0 +1,3 @@
+the  person with walking forward and hurt his right foot.#the/DET person/NOUN with/ADP walk/VERB forward/ADV and/CCONJ hurt/VERB his/DET right/ADJ foot/NOUN#0.0#0.0
+a man is wobbling and stumbling as he walks#a/DET man/NOUN is/AUX wobble/VERB and/CCONJ stumble/VERB as/SCONJ he/PRON walk/VERB#0.0#0.0
+the person is walking forward then appears to hurt their right foot and then stands and sways back and forth.#the/DET person/NOUN is/AUX walk/VERB forward/ADV then/ADV appear/VERB to/PART hurt/VERB their/DET right/ADJ foot/NOUN and/CCONJ then/ADV stand/VERB and/CCONJ sway/VERB back/ADV and/CCONJ forth/ADV#0.0#0.0

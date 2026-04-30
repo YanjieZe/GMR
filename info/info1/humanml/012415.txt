@@ -1,0 +1,3 @@
+the man is walking backward#the/DET man/NOUN is/AUX walk/VERB backward/ADV#0.0#0.0
+a person walks straight backwards at a constant rate.#a/DET person/NOUN walk/VERB straight/ADV backwards/ADV at/ADP a/DET constant/ADJ rate/NOUN#0.0#0.0
+a person takes several steps backwards.#a/DET person/NOUN take/VERB several/ADJ step/NOUN backwards/ADV#0.0#0.0

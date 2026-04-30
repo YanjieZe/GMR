@@ -1,0 +1,3 @@
+raising there hands and moves them around#raise/VERB there/PRON hand/NOUN and/CCONJ move/VERB them/PRON around/ADV#0.0#0.0
+a person is standing on a platform that moves from right to left, the persons body appears to slightly twist as the platform is moving.#a/DET person/NOUN is/AUX stand/VERB on/ADP a/DET platform/NOUN that/DET move/VERB from/ADP right/NOUN to/ADP left/NOUN the/DET person/NOUN body/NOUN appear/VERB to/PART slightly/ADV twist/VERB as/SCONJ the/DET platform/NOUN is/AUX move/VERB#0.0#0.0
+a man moves his hands in front of him as though to emote.#a/DET man/NOUN move/VERB his/DET hand/NOUN in/ADP front/NOUN of/ADP him/PRON as/SCONJ though/ADV to/PART emote/VERB#0.0#0.0

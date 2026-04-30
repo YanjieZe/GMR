@@ -1,0 +1,2 @@
+a person walks in a southern direction for a few steps, then turns and faces in a northwestern direction and walks forward.#a/DET person/NOUN walk/VERB in/ADP a/DET southern/ADJ direction/NOUN for/ADP a/DET few/ADJ step/NOUN then/ADV turn/VERB and/CCONJ face/VERB in/ADP a/DET northwestern/ADJ direction/NOUN and/CCONJ walk/VERB forward/ADV#0.0#0.0
+a person walking in a very sassy manner#a/DET person/NOUN walk/VERB in/ADP a/DET very/ADV sassy/ADJ manner/NOUN#0.0#0.0

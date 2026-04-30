@@ -1,0 +1,3 @@
+this person is hopping around in circles.#this/DET person/NOUN is/AUX hop/VERB around/ADV in/ADP circle/NOUN#0.0#0.0
+a person walks in a counterclockwise motion, walks forward, and then walks backwards to the left.#a/DET person/NOUN walk/VERB in/ADP a/DET counterclockwise/ADJ motion/NOUN walk/VERB forward/ADV and/CCONJ then/ADV walk/VERB backwards/ADV to/ADP the/DET left/NOUN#0.0#0.0
+a person runs in a small circle facing forward.#a/DET person/NOUN run/VERB in/ADP a/DET small/ADJ circle/NOUN face/VERB forward/ADV#0.0#0.0

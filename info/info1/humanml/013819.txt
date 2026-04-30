@@ -1,0 +1,3 @@
+a person is playing golf#a/DET person/NOUN is/AUX play/VERB golf/NOUN#0.0#0.0
+the person was doing a golf putt.#the/DET person/NOUN was/AUX do/VERB a/DET golf/NOUN putt/NOUN#0.0#0.0
+this person has both hands as if to grip a golf club.#this/DET person/NOUN has/AUX both/DET hand/NOUN as/SCONJ if/SCONJ to/PART grip/VERB a/DET golf/NOUN club/NOUN#0.0#0.0

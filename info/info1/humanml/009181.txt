@@ -1,0 +1,3 @@
+a person does a swimming motion while standing.#a/DET person/NOUN does/AUX a/DET swimming/NOUN motion/NOUN while/SCONJ stand/VERB#0.0#0.0
+a man stands and moves his arms as though he were swimming, first in the front crawl position and then in the breaststroke position.#a/DET man/NOUN stand/VERB and/CCONJ move/VERB his/DET arm/NOUN as/SCONJ though/SCONJ he/PRON were/AUX swim/VERB first/ADV in/ADP the/DET front/ADJ crawl/NOUN position/NOUN and/CCONJ then/ADV in/ADP the/DET breaststroke/NOUN position/NOUN#0.0#0.0
+the person is swimming with his arms#the/DET person/NOUN is/AUX swim/VERB with/ADP his/DET arm/NOUN#0.0#0.0

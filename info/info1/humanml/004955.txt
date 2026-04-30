@@ -1,0 +1,3 @@
+a person who seems to be doing a dance move#a/DET person/NOUN who/PRON seem/VERB to/PART be/AUX do/VERB a/DET dance/NOUN move/NOUN#0.0#0.0
+the man lowers his arms leans forward and puts his arms behind him.#the/DET man/NOUN lower/VERB his/DET arm/NOUN lean/VERB forward/ADV and/CCONJ put/VERB his/DET arm/NOUN behind/ADP him/PRON#0.0#0.0
+a man very slowly stretches his arms out.#a/DET man/NOUN very/ADV slowly/ADV stretch/VERB his/DET arm/NOUN out/ADV#0.0#0.0

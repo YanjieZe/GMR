@@ -1,0 +1,3 @@
+a person lifting something over their head.#a/DET person/NOUN lift/VERB something/PRON over/ADP their/DET head/NOUN#0.0#0.0
+the person is lifting the dumbbell over his head.#the/DET person/NOUN is/AUX lift/VERB the/DET dumbbell/NOUN over/ADP his/DET head/NOUN#0.0#0.0
+a person working out by what it seems as 2 dumbells#a/DET person/NOUN work/VERB out/ADP by/ADP what/PRON it/PRON seem/VERB as/SCONJ dumbell/NOUN#0.0#0.0

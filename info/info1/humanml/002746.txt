@@ -1,0 +1,3 @@
+he looks around then stops#he/PRON look/VERB around/ADP then/ADV stop/VERB#0.0#0.0
+a person appears to be punching with their left hand; twice to the front, then twice to their side.#a/DET person/NOUN appear/VERB to/PART be/AUX punch/VERB with/ADP their/DET left/ADJ hand/NOUN twice/ADV to/ADP the/DET front/NOUN then/ADV twice/ADV to/ADP their/DET side/NOUN#0.0#0.0
+a person is punching the air#a/DET person/NOUN is/AUX punch/VERB the/DET air/NOUN#0.0#0.0

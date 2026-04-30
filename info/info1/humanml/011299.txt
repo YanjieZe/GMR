@@ -1,0 +1,3 @@
+a person is standing still, then proceeds to clap, then stands still again#a/DET person/NOUN is/AUX stand/VERB still/ADV then/ADV proceed/VERB to/ADP clap/NOUN then/ADV stand/VERB still/ADV again/ADV#0.0#0.0
+a person claps their hands#a/DET person/NOUN clap/VERB their/DET hand/NOUN#0.0#0.0
+a person is standing straight, and quickly rubs their hands together.#a/DET person/NOUN is/AUX stand/VERB straight/ADV and/CCONJ quickly/ADV rub/VERB their/DET hand/NOUN together/ADV#0.0#0.0

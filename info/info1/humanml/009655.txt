@@ -1,0 +1,3 @@
+the person is hunched over searching for something.#the/DET person/NOUN is/AUX hunch/VERB over/ADP search/VERB for/ADP something/PRON#0.0#0.0
+a person is cleaning up by putting trash in a trash bag.#a/DET person/NOUN is/AUX clean/VERB up/ADP by/ADP put/VERB trash/NOUN in/ADP a/DET trash/NOUN bag/NOUN#0.0#0.0
+person is cleaning up a room.#person/NOUN is/AUX clean/VERB up/ADP a/DET room/NOUN#0.0#0.0

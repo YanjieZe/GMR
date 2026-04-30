@@ -1,0 +1,3 @@
+the person walked forward and a medium pace.#the/DET person/NOUN walk/VERB forward/ADV and/CCONJ a/DET medium/ADJ pace/NOUN#0.0#0.0
+person is walking straight ahead#person/NOUN is/AUX walk/VERB straight/ADV ahead/ADV#0.0#0.0
+a man walks in a straight line forward slightly deviating to the left#a/DET man/NOUN walk/VERB in/ADP a/DET straight/ADJ line/NOUN forward/ADV slightly/ADV deviate/VERB to/ADP the/DET left/NOUN#0.0#0.0

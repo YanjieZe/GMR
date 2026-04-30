@@ -1,0 +1,3 @@
+a person limping somewhere with a hurt leg#a/DET person/NOUN limp/VERB somewhere/ADV with/ADP a/DET hurt/ADJ leg/NOUN#0.0#0.0
+a person is walking with an injured leg#a/DET person/NOUN is/AUX walk/VERB with/ADP an/DET injured/ADJ leg/NOUN#0.0#0.0
+a person limps as they walk forward#a/DET person/NOUN limp/VERB as/SCONJ they/PRON walk/VERB forward/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person is pushed and stumbles forward.#a/DET person/NOUN is/AUX push/VERB and/CCONJ stumble/NOUN forward/ADV#0.0#0.0
+a man stumbles over, but he doesnt fall.#a/DET man/NOUN stumble/VERB over/ADP but/CCONJ he/PRON does/AUX nt/PART fall/VERB#0.0#0.0
+a person loses balance and moves forward with both hands going backwards and their head going down.#a/DET person/NOUN lose/VERB balance/NOUN and/CCONJ move/VERB forward/ADV with/ADP both/DET hand/NOUN go/VERB backwards/ADV and/CCONJ their/DET head/NOUN go/VERB down/ADV#0.0#0.0

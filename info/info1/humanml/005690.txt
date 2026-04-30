@@ -1,0 +1,3 @@
+a person walks backwards several steps.#a/DET person/NOUN walk/VERB backwards/ADP several/ADJ step/NOUN#0.0#0.0
+he does the seesaw backwards#he/PRON does/AUX the/DET seesaw/NOUN backwards/ADV#0.0#0.0
+a man takes slow, uneven, and tentative steps backwards.#a/DET man/NOUN take/VERB slow/ADJ uneven/ADJ and/CCONJ tentative/ADJ step/NOUN backwards/ADV#0.0#0.0

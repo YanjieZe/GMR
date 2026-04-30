@@ -1,0 +1,3 @@
+person moves from back centre to front right then moves back one step and leans forward#person/NOUN move/VERB from/ADP back/ADJ centre/NOUN to/ADP front/VERB right/ADV then/ADV move/VERB back/ADV one/NUM step/NOUN and/CCONJ lean/VERB forward/ADV#0.0#0.0
+a person walks forward, then bends down to pick something up.#a/DET person/NOUN walk/VERB forward/ADV then/ADV bend/VERB down/ADP to/PART pick/VERB something/PRON up/ADP#0.0#0.0
+man walks forward and stops, take several steps backwards, and bends down to pick something up.#man/NOUN walk/VERB forward/ADV and/CCONJ stop/VERB take/VERB several/ADJ step/NOUN backwards/ADV and/CCONJ bend/VERB down/ADP to/PART pick/VERB something/PRON up/ADP#0.0#0.0

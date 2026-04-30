@@ -1,0 +1,3 @@
+a person holds both hands together and makes some circular motions, putting their upper body into it.#a/DET person/NOUN hold/VERB both/DET hand/NOUN together/ADV and/CCONJ make/VERB some/DET circular/ADJ motion/NOUN put/VERB their/DET upper/ADJ body/NOUN into/ADP it/PRON#0.0#0.0
+a person emulates a fish.#a/DET person/NOUN emulate/VERB a/DET fish/NOUN#0.0#0.0
+a person makes a fishing-like motion with their arms and hands.#a/DET person/NOUN make/VERB a/DET fishinglike/ADJ motion/NOUN with/ADP their/DET arm/NOUN and/CCONJ hand/NOUN#0.0#0.0

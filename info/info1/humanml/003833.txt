@@ -1,0 +1,3 @@
+a person who is driving a heavy duty vehicle.#a/DET person/NOUN who/PRON is/AUX drive/VERB a/DET heavy/ADJ duty/NOUN vehicle/NOUN#0.0#0.0
+a person who got in a car and  started driving#a/DET person/NOUN who/PRON get/VERB in/ADP a/DET car/NOUN and/CCONJ start/VERB drive/VERB#0.0#0.0
+a man sits down and leans back before putting his arms in the air.#a/DET man/NOUN sit/VERB down/ADP and/CCONJ lean/VERB back/ADV before/ADP put/VERB his/DET arm/NOUN in/ADP the/DET air/NOUN#0.0#0.0

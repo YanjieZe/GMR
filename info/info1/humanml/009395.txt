@@ -1,0 +1,3 @@
+a person raised the hands,and start to warm up them#a/DET person/NOUN raise/VERB the/DET hand/NOUN and/CCONJ start/VERB to/PART warm/VERB up/ADP them/PRON#0.0#0.0
+a person is swirling their arms in a circle.#a/DET person/NOUN is/AUX swirl/VERB their/DET arm/NOUN in/ADP a/DET circle/NOUN#0.0#4.0
+a person stretches there hands and arms, then their back, and finally their legs.#a/DET person/NOUN stretch/VERB there/PRON hand/NOUN and/CCONJ arm/NOUN then/ADV their/DET back/NOUN and/CCONJ finally/ADV their/DET leg/NOUN#0.0#0.0

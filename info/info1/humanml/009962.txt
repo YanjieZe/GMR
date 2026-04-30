@@ -1,0 +1,3 @@
+a person is getting pushed from behind.#a/DET person/NOUN is/AUX get/VERB push/VERB from/ADP behind/ADV#0.0#0.0
+a person stumbles then stops and stands.#a/DET person/NOUN stumble/NOUN then/ADV stop/VERB and/CCONJ stand/VERB#0.0#0.0
+a person takes a step forward.#a/DET person/NOUN take/VERB a/DET step/NOUN forward/ADV#0.0#0.0

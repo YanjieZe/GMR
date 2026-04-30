@@ -1,0 +1,3 @@
+a man lifts his ams and bends them repeatedly.#a/DET man/NOUN lift/VERB his/DET ams/NOUN and/CCONJ bend/VERB them/PRON repeatedly/ADV#0.0#0.0
+a person lowers their arm and then raises them again, waving to a friend, before lowering them once more.#a/DET person/NOUN lower/VERB their/DET arm/NOUN and/CCONJ then/ADV raise/VERB them/PRON again/ADV wave/VERB to/ADP a/DET friend/NOUN before/ADP lower/VERB them/PRON once/ADV more/ADV#0.0#0.0
+a person stretches their arms straight out, then repetedtly brings their hands to their head, before repeating the process#a/DET person/NOUN stretch/VERB their/DET arm/NOUN straight/ADV out/ADV then/ADV repetedtly/ADV bring/VERB their/DET hand/NOUN to/ADP their/DET head/NOUN before/ADP repeat/VERB the/DET process/NOUN#0.0#0.0

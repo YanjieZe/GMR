@@ -1,0 +1,3 @@
+a person has arms outstretched to the the side and moves hands up and down and slightly forward and back, to stretch.#a/DET person/NOUN has/AUX arm/NOUN outstretche/VERB to/ADP the/DET the/DET side/NOUN and/CCONJ move/VERB hand/NOUN up/ADV and/CCONJ down/ADV and/CCONJ slightly/ADV forward/ADV and/CCONJ back/ADV to/PART stretch/VERB#0.0#0.0
+a person moves both arms up#a/DET person/NOUN move/VERB both/DET arm/NOUN up/ADP#0.0#0.0
+a man stretches his arms to the sides and bends them.#a/DET man/NOUN stretch/VERB his/DET arm/NOUN to/ADP the/DET side/NOUN and/CCONJ bend/VERB them/PRON#0.0#0.0

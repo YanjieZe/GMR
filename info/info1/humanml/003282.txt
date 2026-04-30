@@ -1,0 +1,3 @@
+the person is standing up being flexable#the/DET person/NOUN is/AUX stand/VERB up/ADP being/AUX flexable/ADJ#0.0#0.0
+a person has both legs spread apart and hands down.#a/DET person/NOUN has/AUX both/DET leg/NOUN spread/VERB apart/ADV and/CCONJ hand/VERB down/ADP#0.0#0.0
+person puts left leg outwards and doing a slight squat whilst putting left hand on hip#person/NOUN put/VERB left/VERB leg/NOUN outward/NOUN and/CCONJ do/VERB a/DET slight/ADJ squat/NOUN whilst/SCONJ put/VERB left/ADJ hand/NOUN on/ADP hip/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person is holding something in front of them and swings to the right.#a/DET person/NOUN is/AUX hold/VERB something/PRON in/ADP front/NOUN of/ADP them/PRON and/CCONJ swing/VERB to/ADP the/DET right/NOUN#0.0#0.0
+the person has their hands together in front of them and then swings them to their left.#the/DET person/NOUN has/AUX their/DET hand/NOUN together/ADV in/ADP front/NOUN of/ADP them/PRON and/CCONJ then/ADV swing/VERB them/PRON to/ADP their/DET left/NOUN#0.0#0.0
+holding hands together, a person moves them to the right slightly while holding them in front#hold/VERB hand/NOUN together/ADV a/DET person/NOUN move/VERB them/PRON to/ADP the/DET right/NOUN slightly/ADV while/SCONJ hold/VERB them/PRON in/ADP front/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+holding and rocking a baby#hold/VERB and/CCONJ rock/VERB a/DET baby/NOUN#0.0#0.0
+a person has their hands out in front of them interconnected and acting like they are swimming around.#a/DET person/NOUN has/AUX their/DET hand/NOUN out/ADP in/ADP front/NOUN of/ADP them/PRON interconnect/VERB and/CCONJ act/VERB like/SCONJ they/PRON are/AUX swim/VERB around/ADV#0.0#0.0
+a person holds something in its hands and moves his arms side to side, then moves it up and side to side again#a/DET person/NOUN hold/VERB something/PRON in/ADP its/DET hand/NOUN and/CCONJ move/VERB his/DET arm/NOUN side/NOUN to/PART side/VERB then/ADV move/VERB it/PRON up/ADP and/CCONJ side/VERB to/PART side/VERB again/ADV#0.0#0.0

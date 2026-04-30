@@ -1,0 +1,3 @@
+a person does a four cartwheels, each time coming back to where they started#a/DET person/NOUN does/AUX a/DET four/NUM cartwheel/NOUN each/DET time/NOUN come/VERB back/ADV to/ADP where/ADV they/PRON start/VERB#0.0#0.0
+a man attempts to do cartwheels several times in a row.#a/DET man/NOUN attempt/VERB to/PART do/AUX cartwheel/NOUN several/ADJ time/NOUN in/ADP a/DET row/NOUN#0.0#0.0
+a person is doing multiple cart wheels.#a/DET person/NOUN is/AUX do/VERB multiple/ADJ cart/NOUN wheel/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+figure springs side to side and moves forward.#figure/NOUN spring/NOUN side/NOUN to/PART side/VERB and/CCONJ move/VERB forward/ADV#0.0#0.0
+a person moves quickly side to side with their legs wide apart and bending over slightly, then stands up and takes a couple steps backward.#a/DET person/NOUN move/VERB quickly/ADV side/VERB to/PART side/VERB with/ADP their/DET leg/NOUN wide/ADJ apart/ADV and/CCONJ bend/VERB over/ADV slightly/ADV then/ADV stand/VERB up/ADP and/CCONJ take/VERB a/DET couple/NOUN step/NOUN backward/ADV#0.0#5.0
+a person doing quick lateral steps.#a/DET person/NOUN do/VERB quick/ADJ lateral/ADJ step/NOUN#0.0#0.0

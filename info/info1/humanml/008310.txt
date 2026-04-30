@@ -1,0 +1,3 @@
+person is walking backwards with their toes bent .#person/NOUN is/AUX walk/VERB backwards/ADV with/ADP their/DET toe/NOUN bent/ADJ#0.0#0.0
+a person walks slowly backwards while on their toes.#a/DET person/NOUN walk/VERB slowly/ADV backwards/ADV while/SCONJ on/ADP their/DET toe/NOUN#0.0#0.0
+a person is walking backward while looking at the ground.#a/DET person/NOUN is/AUX walk/VERB backward/ADV while/SCONJ look/VERB at/ADP the/DET ground/NOUN#0.0#0.0

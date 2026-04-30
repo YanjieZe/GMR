@@ -1,0 +1,3 @@
+moving hands back and forth while standing.#move/VERB hand/NOUN back/ADV and/CCONJ forth/ADV while/SCONJ stand/VERB#0.0#0.0
+a person is hunched over and lifts something up with their left hand.#a/DET person/NOUN is/AUX hunch/VERB over/ADP and/CCONJ lift/VERB something/PRON up/ADP with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0
+an old man looks at their watch.#an/DET old/ADJ man/NOUN look/VERB at/ADP their/DET watch/NOUN#0.0#0.0

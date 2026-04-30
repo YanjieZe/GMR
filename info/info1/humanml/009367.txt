@@ -1,0 +1,3 @@
+the person is facing forward but backing up holding onto a rail.#the/DET person/NOUN is/AUX face/VERB forward/ADV but/CCONJ back/VERB up/ADP hold/VERB onto/ADP a/DET rail/NOUN#0.0#0.0
+a person raises their arm slightly, then starts to walk up something.#a/DET person/NOUN raise/VERB their/DET arm/NOUN slightly/ADV then/ADV start/VERB to/PART walk/VERB up/ADV something/PRON#0.0#0.0
+a person walks up with their right hand around someone.#a/DET person/NOUN walk/VERB up/ADP with/ADP their/DET right/ADJ hand/NOUN around/ADP someone/PRON#0.0#0.0

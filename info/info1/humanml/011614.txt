@@ -1,0 +1,3 @@
+a person bends down, the places their right hand on their stomach.#a/DET person/NOUN bend/VERB down/ADP the/DET place/NOUN their/DET right/ADJ hand/NOUN on/ADP their/DET stomach/NOUN#0.0#0.0
+the person that is playing a musical instrument.#the/DET person/NOUN that/DET is/AUX play/VERB a/DET musical/ADJ instrument/NOUN#0.0#0.0
+holding their shirt while looking down at something in front of them#hold/VERB their/DET shirt/NOUN while/SCONJ look/VERB down/ADP at/ADP something/PRON in/ADP front/NOUN of/ADP them/PRON#0.0#0.0

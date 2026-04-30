@@ -1,0 +1,3 @@
+a person walking around in a s shape.#a/DET person/NOUN walk/VERB around/ADV in/ADP a/DET s/PROPN shape/NOUN#0.0#0.0
+person is walking around.#person/NOUN is/AUX walk/VERB around/ADV#0.0#0.0
+a person walks around randomly.#a/DET person/NOUN walk/VERB around/ADV randomly/ADV#0.0#0.0

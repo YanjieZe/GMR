@@ -1,0 +1,2 @@
+a person reaches down to touch their foot, and then makes a series of jumps in a box shape.#a/DET person/NOUN reach/VERB down/ADP to/PART touch/VERB their/DET foot/NOUN and/CCONJ then/ADV make/VERB a/DET series/NOUN of/ADP jumps/PROPN in/ADP a/DET box/NOUN shape/NOUN#0.0#0.0
+the person is making a box jump.#the/DET person/NOUN is/AUX make/VERB a/DET box/NOUN jump/NOUN#0.0#0.0

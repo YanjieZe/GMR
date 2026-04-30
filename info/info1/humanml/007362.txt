@@ -1,0 +1,3 @@
+a person squats with their arms above their head.#a/DET person/NOUN squat/VERB with/ADP their/DET arm/NOUN above/ADP their/DET head/NOUN#0.0#0.0
+a man squats down and up while holding something  above his head.#a/DET man/NOUN squat/VERB down/ADV and/CCONJ up/ADV while/SCONJ hold/VERB something/PRON above/ADP his/DET head/NOUN#0.0#0.0
+a figure crouches and crumples in frustration, gesturing wildly#a/DET figure/NOUN crouch/NOUN and/CCONJ crumple/NOUN in/ADP frustration/NOUN gesture/VERB wildly/ADV#0.0#0.0

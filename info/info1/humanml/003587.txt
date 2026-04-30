@@ -1,0 +1,3 @@
+a person bear crawls across and back in the space#a/DET person/NOUN bear/VERB crawl/NOUN across/ADV and/CCONJ back/ADV in/ADP the/DET space/NOUN#0.0#0.0
+the person drops to the floor and crawls using their hand and fleet to contact the ground.#the/DET person/NOUN drop/VERB to/ADP the/DET floor/NOUN and/CCONJ crawl/NOUN use/VERB their/DET hand/NOUN and/CCONJ fleet/NOUN to/PART contact/VERB the/DET ground/NOUN#0.0#0.0
+a person crawling on floor, right and left hands.#a/DET person/NOUN crawl/VERB on/ADP floor/NOUN right/INTJ and/CCONJ left/VERB hand/NOUN#0.0#0.0

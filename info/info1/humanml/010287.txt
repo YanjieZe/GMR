@@ -1,0 +1,3 @@
+the person is pretending they are an elephant.#the/DET person/NOUN is/AUX pretend/VERB they/PRON are/AUX an/DET elephant/NOUN#0.0#0.0
+hunched over, arms dangling, a person sways to and fro.#hunch/VERB over/ADP arm/NOUN dangle/VERB a/DET person/NOUN sway/VERB to/ADP and/CCONJ fro/PROPN#0.0#0.0
+a man is hunched over, and he brings his left hand over to join his right as he makes slow stirring motions.#a/DET man/NOUN is/AUX hunch/VERB over/ADV and/CCONJ he/PRON bring/VERB his/DET left/ADJ hand/NOUN over/ADP to/PART join/VERB his/DET right/NOUN as/SCONJ he/PRON make/VERB slow/ADJ stirring/ADJ motion/NOUN#0.0#0.0

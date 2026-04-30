@@ -1,0 +1,3 @@
+a man crawls around on the ground.#a/DET man/NOUN crawl/VERB around/ADP on/ADP the/DET ground/NOUN#0.0#0.0
+a person crouches down and moves on their hands and feet like an animal.#a/DET person/NOUN crouch/VERB down/ADV and/CCONJ move/NOUN on/ADP their/DET hand/NOUN and/CCONJ foot/NOUN like/SCONJ an/DET animal/NOUN#0.0#0.0
+the man crab crawls across the area and back.#the/DET man/NOUN crab/PROPN crawl/VERB across/ADP the/DET area/NOUN and/CCONJ back/NOUN#0.0#0.0

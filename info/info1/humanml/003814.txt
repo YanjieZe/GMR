@@ -1,0 +1,2 @@
+a person walking and changing their path to the left#a/DET person/NOUN walk/VERB and/CCONJ change/VERB their/DET path/NOUN to/ADP the/DET left/NOUN#0.0#0.0
+a person walks to the left with ease.#a/DET person/NOUN walk/VERB to/ADP the/DET left/NOUN with/ADP ease/NOUN#0.0#0.0

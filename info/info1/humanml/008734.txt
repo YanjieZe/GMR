@@ -1,0 +1,3 @@
+a person bows slighly once.#a/DET person/NOUN bow/VERB slighly/ADV once/ADV#0.0#0.0
+a person doing a slight bow#a/DET person/NOUN do/VERB a/DET slight/ADJ bow/NOUN#0.0#0.0
+a figure leans forward taking a bow#a/DET figure/NOUN lean/VERB forward/ADV take/VERB a/DET bow/NOUN#0.0#0.0

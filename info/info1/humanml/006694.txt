@@ -1,0 +1,3 @@
+a man is walking backwards slowly, stands still, looks around and walks forwards slowly#a/DET man/NOUN is/AUX walk/VERB backwards/ADV slowly/ADV stand/VERB still/ADV look/VERB around/ADV and/CCONJ walk/VERB forwards/ADV slowly/ADV#0.0#0.0
+a person slkwly climbs three steps of an invisible ladder.#a/DET person/NOUN slkwly/ADV climb/VERB three/NUM step/NOUN of/ADP an/DET invisible/ADJ ladder/NOUN#0.0#0.0
+a person hesitantly climbs a ladder#a/DET person/NOUN hesitantly/ADV climb/VERB a/DET ladder/NOUN#0.0#0.0

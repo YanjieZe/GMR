@@ -1,0 +1,3 @@
+a person raises right arm and wipes in a circular motion.#a/DET person/NOUN raise/VERB right/ADJ arm/NOUN and/CCONJ wipe/NOUN in/ADP a/DET circular/ADJ motion/NOUN#0.0#0.0
+a person is performing a circular wiping motion.#a/DET person/NOUN is/AUX perform/VERB a/DET circular/ADJ wiping/ADJ motion/NOUN#0.0#0.0
+a person moves their hand clockwise at waist level#a/DET person/NOUN move/VERB their/DET hand/NOUN clockwise/NOUN at/ADP waist/ADJ level/NOUN#0.0#0.0

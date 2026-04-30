@@ -1,0 +1,3 @@
+the toon is on the ground in a push up fashion, doing a push up, crawling backward & doing another push up.#the/DET toon/NOUN is/AUX on/ADP the/DET ground/NOUN in/ADP a/DET push/NOUN up/ADV fashion/NOUN do/VERB a/DET push/NOUN up/ADV crawl/VERB backward/ADJ do/VERB another/DET push/NOUN up/ADV#0.0#10.0
+a person is on their hands and feet, and they crawl around the floor awkwardly.#a/DET person/NOUN is/AUX on/ADP their/DET hand/NOUN and/CCONJ foot/NOUN and/CCONJ they/PRON crawl/VERB around/ADP the/DET floor/NOUN awkwardly/ADV#0.0#0.0
+someone crawling around on the ground looking very aggressive#someone/PRON crawl/VERB around/ADP on/ADP the/DET ground/NOUN look/VERB very/ADV aggressive/ADJ#0.0#0.0

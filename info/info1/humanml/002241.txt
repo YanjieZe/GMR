@@ -1,0 +1,2 @@
+a person walks forward and puts their hand on something two times, before continuing to walk forward.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ put/VERB their/DET hand/NOUN on/ADP something/PRON two/NUM time/NOUN before/ADP continue/VERB to/PART walk/VERB forward/ADV#0.0#0.0
+a person walking diagonally while holding on to something.#a/DET person/NOUN walk/VERB diagonally/ADV while/SCONJ hold/VERB on/ADP to/ADP something/PRON#0.0#0.0

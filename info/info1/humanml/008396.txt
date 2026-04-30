@@ -1,0 +1,3 @@
+the person shakes both of their hands, and then later uses the right hand to reach something and returns it back.#the/DET person/NOUN shake/VERB both/DET of/ADP their/DET hand/NOUN and/CCONJ then/ADV later/ADV use/VERB the/DET right/ADJ hand/NOUN to/PART reach/VERB something/PRON and/CCONJ return/VERB it/PRON back/ADV#0.0#0.0
+the sim is using both left & right hand to express emotion as to appear to be in a conversation.#the/DET sim/PROPN is/AUX use/VERB both/DET left/ADJ right/ADJ hand/NOUN to/PART express/VERB emotion/NOUN as/SCONJ to/PART appear/VERB to/PART be/AUX in/ADP a/DET conversation/NOUN#0.0#10.0
+a person gestures and converses.#a/DET person/NOUN gesture/VERB and/CCONJ converse/NOUN#0.0#0.0

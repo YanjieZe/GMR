@@ -1,0 +1,3 @@
+a person crosses his right leg over and poses. then crosses his left leg over and poses.#a/DET person/NOUN cross/VERB his/DET right/ADJ leg/NOUN over/ADP and/CCONJ pose/NOUN then/ADV cross/VERB his/DET left/ADJ leg/NOUN over/ADP and/CCONJ pose/NOUN#0.0#0.0
+a men cross his leg side by side#a/DET man/NOUN cross/VERB his/DET leg/NOUN side/NOUN by/ADP side/NOUN#0.0#0.0
+someone crosses their left foot over their right and then their right foot over the left.#someone/PRON cross/VERB their/DET left/ADJ foot/NOUN over/ADP their/DET right/NOUN and/CCONJ then/ADV their/DET right/ADJ foot/NOUN over/ADP the/DET left/NOUN#0.0#0.0

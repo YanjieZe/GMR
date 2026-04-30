@@ -1,0 +1,3 @@
+person is fixing then throwing something i think.#person/NOUN is/AUX fix/VERB then/ADV throw/VERB something/PRON i/PRON think/VERB#0.0#0.0
+a person walks forward and puts something down before eventually pulling on a lever.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ put/VERB something/PRON down/ADP before/ADP eventually/ADV pull/VERB on/ADP a/DET lever/NOUN#0.0#0.0
+a person gently moves something to the left.#a/DET person/NOUN gently/ADV move/VERB something/PRON to/ADP the/DET left/NOUN#0.0#0.0

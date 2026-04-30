@@ -1,0 +1,3 @@
+a figure hops up and down once then walks forward#a/DET figure/NOUN hop/VERB up/ADV and/CCONJ down/ADV once/ADV then/ADV walk/VERB forward/ADV#0.0#0.0
+person does a small hop and then takes a quick step forward#person/NOUN does/AUX a/DET small/ADJ hop/NOUN and/CCONJ then/ADV take/VERB a/DET quick/ADJ step/NOUN forward/ADV#0.0#0.0
+a person hops in place, then takes a couple of steps forward.#a/DET person/NOUN hop/VERB in/ADP place/NOUN then/ADV take/VERB a/DET couple/NOUN of/ADP step/NOUN forward/ADV#0.0#0.0

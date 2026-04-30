@@ -1,0 +1,3 @@
+raising hands to face.#raise/VERB hand/NOUN to/PART face/VERB#0.0#0.0
+person is trying to focus someone in its camera.#person/NOUN is/AUX try/VERB to/PART focus/VERB someone/PRON in/ADP its/DET camera/NOUN#0.0#0.0
+a man bends his arms to touch an object in front of him.#a/DET man/NOUN bend/VERB his/DET arm/NOUN to/PART touch/VERB an/DET object/NOUN in/ADP front/NOUN of/ADP him/PRON#0.0#0.0

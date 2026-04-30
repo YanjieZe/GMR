@@ -1,0 +1,3 @@
+a person walks around obstacles.#a/DET person/NOUN walk/VERB around/ADP obstacle/NOUN#0.0#0.0
+the body walks forward and slowly twirls backwards to keep walking.#the/DET body/NOUN walk/VERB forward/ADV and/CCONJ slowly/ADV twirl/VERB backwards/ADV to/PART keep/VERB walk/VERB#0.0#3.0
+a person walks around and stops.#a/DET person/NOUN walk/VERB around/ADV and/CCONJ stop/NOUN#0.0#0.0

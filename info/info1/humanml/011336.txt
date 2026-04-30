@@ -1,0 +1,3 @@
+figure appears to be walking slow#figure/NOUN appear/VERB to/PART be/AUX walk/VERB slow/ADJ#0.0#0.0
+a man walks forward slowly, keeping his arms low at his sides, before stopping in a standing position.#a/DET man/NOUN walk/VERB forward/ADV slowly/ADV keep/VERB his/DET arm/NOUN low/ADJ at/ADP his/DET side/NOUN before/ADP stop/VERB in/ADP a/DET standing/ADJ position/NOUN#0.0#0.0
+the man is walking slowly#the/DET man/NOUN is/AUX walk/VERB slowly/ADV#0.0#0.0

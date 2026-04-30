@@ -1,0 +1,3 @@
+the man does 2 karate kicks to the right then 2 kicks to the left.#the/DET man/NOUN does/AUX karate/NOUN kick/NOUN to/ADP the/DET right/NOUN then/ADV kick/NOUN to/ADP the/DET left/NOUN#0.0#0.0
+the person was doing a sidekick with his right leg.#the/DET person/NOUN was/AUX do/VERB a/DET sidekick/NOUN with/ADP his/DET right/ADJ leg/NOUN#0.0#0.0
+a person kicks to his right several times and then kicks forward with his left foot several times.#a/DET person/NOUN kick/VERB to/ADP his/DET right/ADJ several/ADJ time/NOUN and/CCONJ then/ADV kick/VERB forward/ADV with/ADP his/DET left/ADJ foot/NOUN several/ADJ time/NOUN#0.0#0.0

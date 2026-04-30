@@ -1,0 +1,3 @@
+a person slightly bows their head.#a/DET person/NOUN slightly/ADV bow/VERB their/DET head/NOUN#0.0#0.0
+person takes a bow quickly#person/NOUN take/VERB a/DET bow/NOUN quickly/ADV#0.0#0.0
+a person leans forward, then stands straight again.#a/DET person/NOUN lean/VERB forward/ADV then/ADV stand/VERB straight/ADV again/ADV#0.0#0.0

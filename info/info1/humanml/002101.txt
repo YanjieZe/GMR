@@ -1,0 +1,3 @@
+a man jumps backward with his hands at his sides.#a/DET man/NOUN jump/VERB backward/ADJ with/ADP his/DET hand/NOUN at/ADP his/DET side/NOUN#0.0#0.0
+a man jumps backwards in a straight line and lands on his feet.#a/DET man/NOUN jump/VERB backwards/ADV in/ADP a/DET straight/ADJ line/NOUN and/CCONJ land/NOUN on/ADP his/DET foot/NOUN#0.0#0.0
+a person jumps backwards onto an object.#a/DET person/NOUN jump/VERB backwards/ADV onto/ADP an/DET object/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a man takes steps from left to right#a/DET man/NOUN take/VERB step/NOUN from/ADP left/VERB to/ADP right/ADJ#0.0#0.0
+a person walks forward while making a turn to their right.#a/DET person/NOUN walk/VERB forward/ADV while/SCONJ make/VERB a/DET turn/NOUN to/ADP their/DET right/NOUN#0.0#0.0
+figure walks forward and to the left walking in a circular motion#figure/NOUN walk/VERB forward/ADV and/CCONJ to/ADP the/DET left/ADJ walk/VERB in/ADP a/DET circular/ADJ motion/NOUN#2.0#5.0

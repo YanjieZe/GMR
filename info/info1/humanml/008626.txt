@@ -1,0 +1,3 @@
+a person makes basketball gestures.#a/DET person/NOUN make/VERB basketball/NOUN gesture/NOUN#0.0#0.0
+a person makes gestures with their hands in front of them.#a/DET person/NOUN make/VERB gesture/NOUN with/ADP their/DET hand/NOUN in/ADP front/NOUN of/ADP them/PRON#0.0#0.0
+a person pushes something aside then makes rolling motions with his hands.#a/DET person/NOUN push/VERB something/PRON aside/ADV then/ADV make/VERB rolling/ADJ motion/NOUN with/ADP his/DET hand/NOUN#0.0#0.0

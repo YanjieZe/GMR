@@ -1,0 +1,3 @@
+person appears to pick something up with right hand then walks forward slowly.#person/NOUN appear/VERB to/PART pick/VERB something/PRON up/ADP with/ADP right/ADJ hand/NOUN then/ADV walk/VERB forward/ADV slowly/ADV#0.0#0.0
+the man walks forward while swinging his arms back and forth at his sides.#the/DET man/NOUN walk/VERB forward/ADV while/SCONJ swinge/VERB his/DET arm/NOUN back/ADV and/CCONJ forth/ADV at/ADP his/DET side/NOUN#0.0#0.0
+a person bends their head forward, sraightens back up, and walks forward#a/DET person/NOUN bend/VERB their/DET head/NOUN forward/ADV sraighten/VERB back/ADV up/ADV and/CCONJ walk/VERB forward/ADV#0.0#0.0

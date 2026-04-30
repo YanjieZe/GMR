@@ -1,0 +1,3 @@
+a person is sitting and then has their arms raised to their sides.#a/DET person/NOUN is/AUX sit/VERB and/CCONJ then/ADV has/AUX their/DET arm/NOUN raise/VERB to/ADP their/DET side/NOUN#0.0#0.0
+a person drops their arms to their sides for several seconds before raising them to just below shoulder level.#a/DET person/NOUN drop/VERB their/DET arm/NOUN to/ADP their/DET side/NOUN for/ADP several/ADJ second/NOUN before/ADP raise/VERB them/PRON to/ADP just/ADV below/ADP shoulder/NOUN level/NOUN#0.0#0.0
+a standing person lowers his arms to his sides and then raises them again in a t-pose.#a/DET stand/VERB person/NOUN lower/VERB his/DET arm/NOUN to/ADP his/DET side/NOUN and/CCONJ then/ADV raise/VERB them/PRON again/ADV in/ADP a/DET tpose/NOUN#0.0#0.0

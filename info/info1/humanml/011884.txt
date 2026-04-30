@@ -1,0 +1,3 @@
+a person is spinning slowly in place, reaching hands out occasionally.#a/DET person/NOUN is/AUX spin/VERB slowly/ADV in/ADP place/NOUN reach/VERB hand/NOUN out/ADV occasionally/ADV#0.0#0.0
+a person uses his left arm to touch his head, dances backwards into small counter-clockwise circle and uses his hands to spin someone.#a/DET person/NOUN use/VERB his/DET left/ADJ arm/NOUN to/PART touch/VERB his/DET head/NOUN dance/VERB backwards/ADV into/ADP small/ADJ counterclockwise/PROPN circle/NOUN and/CCONJ use/VERB his/DET hand/NOUN to/PART spin/VERB someone/PRON#0.0#0.0
+a man is salsa dancing with someone.#a/DET man/NOUN is/AUX salsa/PROPN dancing/NOUN with/ADP someone/PRON#0.0#0.0

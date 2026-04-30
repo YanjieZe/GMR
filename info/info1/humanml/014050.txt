@@ -1,0 +1,3 @@
+a person who seems to be shadow boxing#a/DET person/NOUN who/PRON seem/VERB to/PART be/AUX shadow/NOUN boxing/NOUN#0.0#0.0
+the person is boxing left and right.#the/DET person/NOUN is/AUX box/VERB left/VERB and/CCONJ right/INTJ#0.0#0.0
+a boxer dodging their opponent's attacks and preparing to launch an attack back.#a/DET boxer/NOUN dodge/VERB their/DET opponent/NOUN attack/NOUN and/CCONJ prepare/VERB to/PART launch/VERB an/DET attack/NOUN back/ADV#0.0#0.0

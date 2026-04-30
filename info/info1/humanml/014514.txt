@@ -1,0 +1,3 @@
+a person walking slightly than average#a/DET person/NOUN walk/VERB slightly/ADV than/SCONJ average/ADJ#0.0#0.0
+a person who is standing with his hands down by his sides takes four determined steps forward and stops.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP his/DET hand/NOUN down/ADP by/ADP his/DET side/NOUN take/VERB four/NUM determined/ADJ step/NOUN forward/ADV and/CCONJ stop/NOUN#0.0#0.0
+a person walks down a hill.#a/DET person/NOUN walk/VERB down/ADP a/DET hill/NOUN#0.0#0.0

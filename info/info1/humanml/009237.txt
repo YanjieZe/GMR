@@ -1,0 +1,3 @@
+a man waves, then turns around and repeats.#a/DET man/NOUN wave/VERB then/ADV turn/VERB around/ADV and/CCONJ repeat/NOUN#0.0#0.0
+the person is seen to be greeting someone by raising the hand#the/DET person/NOUN is/AUX see/VERB to/PART be/AUX greet/VERB someone/PRON by/ADP raise/VERB the/DET hand/NOUN#0.0#0.0
+a person waves with their right hand and walks around.#a/DET person/NOUN wave/VERB with/ADP their/DET right/ADJ hand/NOUN and/CCONJ walk/VERB around/ADV#0.0#0.0

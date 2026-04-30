@@ -1,0 +1,3 @@
+the figure walks in a counter clockwise circle.#the/DET figure/NOUN walk/VERB in/ADP a/DET counter/NOUN clockwise/NOUN circle/NOUN#0.0#0.0
+a man walks in a circle counter-clockwise.#a/DET man/NOUN walk/VERB in/ADP a/DET circle/NOUN counterclockwise/NOUN#0.0#0.0
+a man like figure walks round in a circular motion and stops on the very spot he started from.#a/DET man/NOUN like/SCONJ figure/NOUN walk/VERB round/ADV in/ADP a/DET circular/ADJ motion/NOUN and/CCONJ stop/NOUN on/ADP the/DET very/ADJ spot/NOUN he/PRON start/VERB from/ADP#0.0#0.0

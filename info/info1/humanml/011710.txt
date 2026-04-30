@@ -1,0 +1,3 @@
+a man picks up both hands and motions like he is strumming a guitar slowly.#a/DET man/NOUN pick/VERB up/ADP both/DET hand/NOUN and/CCONJ motion/NOUN like/SCONJ he/PRON is/AUX strum/VERB a/DET guitar/NOUN slowly/ADV#nan#nan
+a person strums an air guitar twice.#a/DET person/NOUN strum/VERB an/DET air/NOUN guitar/NOUN twice/ADV#0.0#0.0
+a person plays a few riffs from the guitar#a/DET person/NOUN play/VERB a/DET few/ADJ riff/NOUN from/ADP the/DET guitar/NOUN#0.0#0.0

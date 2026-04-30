@@ -1,0 +1,3 @@
+a person doing torso-twists, side-bends, and a lower back/hamstring stretch.#a/DET person/NOUN do/VERB torsotwist/NOUN sidebend/NOUN and/CCONJ a/DET lower/ADJ back/NOUN hamstre/VERB stretch/NOUN#0.0#0.0
+excerisizing. with stretches and leans forward#excerisize/VERB with/ADP stretch/NOUN and/CCONJ lean/NOUN forward/ADV#0.0#0.0
+a person does trunk twists stretches and then does some other stretches#a/DET person/NOUN does/AUX trunk/NOUN twist/NOUN stretch/NOUN and/CCONJ then/ADV does/AUX some/DET other/ADJ stretch/NOUN#0.0#0.0

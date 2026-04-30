@@ -1,0 +1,3 @@
+a person bends over to pick something up with their right hand two times. then they turn around anti-clockwise to walk away.#a/DET person/NOUN bend/VERB over/ADP to/PART pick/VERB something/PRON up/ADP with/ADP their/DET right/ADJ hand/NOUN two/NUM time/NOUN then/ADV they/PRON turn/VERB around/ADP anticlockwise/NOUN to/PART walk/VERB away/ADV#0.0#0.0
+person picked up an object.#person/NOUN pick/VERB up/ADP an/DET object/NOUN#0.0#0.0
+a man bends down and puts his right hand down to his right foot two times before turning on a 180 degree angle.#a/DET man/NOUN bend/VERB down/ADP and/CCONJ put/VERB his/DET right/ADJ hand/NOUN down/ADP to/ADP his/DET right/ADJ foot/NOUN two/NUM time/NOUN before/ADP turn/VERB on/ADP a/DET degree/NOUN angle/NOUN#0.0#0.0

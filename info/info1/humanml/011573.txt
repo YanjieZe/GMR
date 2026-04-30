@@ -1,0 +1,3 @@
+a person bends both arms in front of body at shoulder level,flaps them and then unfolds them.#a/DET person/NOUN bend/VERB both/DET arm/NOUN in/ADP front/NOUN of/ADP body/NOUN at/ADP shoulder/NOUN level/NOUN flap/VERB them/PRON and/CCONJ then/ADV unfold/VERB them/PRON#0.0#0.0
+a person is standing while waving their arms seven times rapidly from their elbows and stops.#a/DET person/NOUN is/AUX stand/VERB while/SCONJ wave/VERB their/DET arm/NOUN seven/NUM time/NOUN rapidly/ADV from/ADP their/DET elbow/NOUN and/CCONJ stop/NOUN#0.0#0.0
+the person is leading his hands#the/DET person/NOUN is/AUX lead/VERB his/DET hand/NOUN#0.0#0.0

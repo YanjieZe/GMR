@@ -1,0 +1,3 @@
+a person hops up and down#a/DET person/NOUN hop/VERB up/ADV and/CCONJ down/ADV#0.0#0.0
+a person stands arms relaxed and bounces on their feet up and down#a/DET person/NOUN stand/VERB arm/NOUN relaxed/ADJ and/CCONJ bounce/NOUN on/ADP their/DET foot/NOUN up/ADV and/CCONJ down/ADV#0.0#0.0
+a person jumps continuously on the spot.#a/DET person/NOUN jump/VERB continuously/ADV on/ADP the/DET spot/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a man walks forward with a normal gate.#a/DET man/NOUN walk/VERB forward/ADV with/ADP a/DET normal/ADJ gate/NOUN#0.0#0.0
+a person walks forward at a steady pace.#a/DET person/NOUN walk/VERB forward/ADV at/ADP a/DET steady/ADJ pace/NOUN#0.0#0.0
+a man walks forwards at a medium speed while swinging his arms gently.#a/DET man/NOUN walk/VERB forwards/ADV at/ADP a/DET medium/ADJ speed/NOUN while/SCONJ swinge/VERB his/DET arm/NOUN gently/ADV#0.0#0.0

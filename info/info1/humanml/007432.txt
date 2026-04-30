@@ -1,0 +1,3 @@
+the man is running forward#the/DET man/NOUN is/AUX run/VERB forward/ADV#0.0#0.0
+a person quickens forwards as if spooked.#a/DET person/NOUN quicken/VERB forwards/ADV as/SCONJ if/SCONJ spook/VERB#0.0#0.0
+person stands still then sprints forward at speed#person/NOUN stand/VERB still/ADV then/ADV sprint/VERB forward/ADV at/ADP speed/NOUN#0.0#0.0

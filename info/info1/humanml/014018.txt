@@ -1,0 +1,3 @@
+a person walks forward swinging its arms.#a/DET person/NOUN walk/VERB forward/ADV swinge/VERB its/DET arm/NOUN#0.0#3.0
+a person who is standing with his hands by his sides quickly takes six steps forward and stops.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP his/DET hand/NOUN by/ADP his/DET side/NOUN quickly/ADV take/VERB six/NUM step/NOUN forward/ADV and/CCONJ stop/NOUN#0.0#0.0
+walking forward and then stopping.#walk/VERB forward/ADV and/CCONJ then/ADV stop/VERB#0.0#0.0

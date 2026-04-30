@@ -1,0 +1,3 @@
+a person is greeting other person by bowing.#a/DET person/NOUN is/AUX greet/VERB other/ADJ person/NOUN by/ADP bow/VERB#0.0#0.0
+a person who is leaning slightly to his left takes a step forward and bows, takes another step forward, only this time to his right and bows, then straightens up and takes another step.#a/DET person/NOUN who/PRON is/AUX lean/VERB slightly/ADV to/ADP his/DET left/NOUN take/VERB a/DET step/NOUN forward/ADV and/CCONJ bow/NOUN take/VERB another/DET step/NOUN forward/ADV only/ADV this/DET time/NOUN to/ADP his/DET right/NOUN and/CCONJ bow/NOUN then/ADV straighten/VERB up/ADP and/CCONJ take/VERB another/DET step/NOUN#0.0#0.0
+the person is greeting people with a bow.#the/DET person/NOUN is/AUX greet/VERB people/NOUN with/ADP a/DET bow/NOUN#0.0#0.0

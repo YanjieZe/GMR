@@ -1,0 +1,3 @@
+the person got up from a kneel with his right arm.#the/DET person/NOUN get/VERB up/ADP from/ADP a/DET kneel/NOUN with/ADP his/DET right/ADJ arm/NOUN#0.0#0.0
+person gets up from floor off right knee and right hand#person/NOUN get/VERB up/ADV from/ADP floor/NOUN off/ADP right/ADJ knee/NOUN and/CCONJ right/ADJ hand/NOUN#0.0#0.0
+a person stands up from a kneeling position#a/DET person/NOUN stand/VERB up/ADP from/ADP a/DET kneeling/NOUN position/NOUN#0.0#0.0

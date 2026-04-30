@@ -1,0 +1,3 @@
+the right hand flings forward to the left side, the left hand meets the right hand, and is drag back right the shoulder.#the/DET right/ADJ hand/NOUN fling/NOUN forward/ADV to/ADP the/DET left/ADJ side/NOUN the/DET left/ADJ hand/NOUN meet/VERB the/DET right/ADJ hand/NOUN and/CCONJ is/AUX drag/VERB back/ADV right/ADP the/DET shoulder/NOUN#0.0#0.0
+a man throws a ball.#a/DET man/NOUN throw/VERB a/DET ball/NOUN#0.0#0.0
+the person is casting a fishing line#the/DET person/NOUN is/AUX cast/VERB a/DET fishing/NOUN line/NOUN#0.0#0.0

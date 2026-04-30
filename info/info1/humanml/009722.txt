@@ -1,0 +1,3 @@
+character is standing with hands to their chest, using their right and left legs to shuffle slightly in a dancing fashion.#character/NOUN is/AUX stand/VERB with/ADP hand/NOUN to/ADP their/DET chest/NOUN use/VERB their/DET right/NOUN and/CCONJ left/VERB leg/NOUN to/PART shuffle/VERB slightly/ADV in/ADP a/DET dancing/NOUN fashion/NOUN#0.0#4.0
+moving hands in a circular motion quickly.#move/VERB hand/NOUN in/ADP a/DET circular/ADJ motion/NOUN quickly/ADV#0.0#0.0
+a man dancing moving left leg and moving arms.#a/DET man/NOUN dance/VERB move/VERB left/ADJ leg/NOUN and/CCONJ move/VERB arm/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person walking around, unsure of where to go.#a/DET person/NOUN walk/VERB around/ADV unsure/ADJ of/ADP where/ADV to/PART go/VERB#0.0#0.0
+a person walks clockwise making a diamond pattern and returns to his original spot.#a/DET person/NOUN walk/VERB clockwise/NOUN make/VERB a/DET diamond/NOUN pattern/NOUN and/CCONJ return/NOUN to/ADP his/DET original/ADJ spot/NOUN#0.0#0.0
+a person walks in an ovular shape#a/DET person/NOUN walk/VERB in/ADP an/DET ovular/ADJ shape/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks to the right, then walks forward and uses his right leg to leap to the left.#a/DET person/NOUN walk/VERB to/ADP the/DET right/NOUN then/ADV walk/VERB forward/ADV and/CCONJ use/VERB his/DET right/ADJ leg/NOUN to/PART leap/VERB to/ADP the/DET left/NOUN#0.0#0.0
+a man walks from the right side to the left side and hops over an obstacle.#a/DET man/NOUN walk/VERB from/ADP the/DET right/ADJ side/NOUN to/ADP the/DET left/ADJ side/NOUN and/CCONJ hop/VERB over/ADP an/DET obstacle/NOUN#0.0#0.0
+person walk to the right and stepped up.#person/NOUN walk/VERB to/ADP the/DET right/NOUN and/CCONJ step/VERB up/ADV#0.0#0.0

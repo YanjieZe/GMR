@@ -1,0 +1,3 @@
+the person was bent over doing arm stretches.#the/DET person/NOUN was/AUX bent/ADJ over/ADP do/VERB arm/NOUN stretch/NOUN#0.0#0.0
+someone trying to scare someone#someone/PRON try/VERB to/PART scare/VERB someone/PRON#0.0#0.0
+person is warming up arms doing arms circles#person/NOUN is/AUX warm/VERB up/ADP arm/NOUN do/VERB arm/NOUN circle/NOUN#0.0#0.0

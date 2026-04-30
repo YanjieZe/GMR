@@ -1,0 +1,3 @@
+a person crouches and crawls from one end to the other#a/DET person/NOUN crouch/VERB and/CCONJ crawl/NOUN from/ADP one/NUM end/NOUN to/ADP the/DET other/ADJ#0.0#0.0
+a person gets on all fours and crawls diagonally across the ground before standing back up.#a/DET person/NOUN get/VERB on/ADP all/DET four/NOUN and/CCONJ crawl/VERB diagonally/ADV across/ADP the/DET ground/NOUN before/ADP stand/VERB back/ADV up/ADV#0.0#0.0
+a person steps back, kneels down, crawls forward, stands up and then takes several steps.#a/DET person/NOUN step/VERB back/ADV kneel/VERB down/ADV crawl/VERB forward/ADV stand/VERB up/ADV and/CCONJ then/ADV take/VERB several/ADJ step/NOUN#0.0#0.0

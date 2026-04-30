@@ -1,0 +1,3 @@
+a man gets up from a kneeling position and walks towards the right.#a/DET man/NOUN get/VERB up/ADP from/ADP a/DET kneel/VERB position/NOUN and/CCONJ walk/VERB towards/ADP the/DET right/NOUN#0.0#0.0
+a person stumbles, then straightens up and continues walking.#a/DET person/NOUN stumble/VERB then/ADV straighten/VERB up/ADP and/CCONJ continue/VERB walk/VERB#0.0#0.0
+person staggers up drags left and walks forward#person/NOUN stagger/VERB up/ADV drag/VERB left/VERB and/CCONJ walk/VERB forward/ADV#0.0#0.0

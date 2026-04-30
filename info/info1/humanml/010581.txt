@@ -1,0 +1,3 @@
+the person is crouching down.#the/DET person/NOUN is/AUX crouch/VERB down/ADP#0.0#0.0
+a person sits down, slightly with their arms raised, then gets off the chair and backs up.#a/DET person/NOUN sit/VERB down/ADV slightly/ADV with/ADP their/DET arm/NOUN raise/VERB then/ADV get/VERB off/ADP the/DET chair/NOUN and/CCONJ back/VERB up/ADP#0.0#0.0
+a person sits on a chair backwards and crosses their arms over the top of the chair.#a/DET person/NOUN sit/VERB on/ADP a/DET chair/NOUN backwards/ADV and/CCONJ cross/VERB their/DET arm/NOUN over/ADP the/DET top/NOUN of/ADP the/DET chair/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+someone waits a moment and jumps to the right#someone/PRON wait/VERB a/DET moment/NOUN and/CCONJ jump/VERB to/ADP the/DET right/NOUN#0.0#0.0
+a person jumps sideways to the left.#a/DET person/NOUN jump/VERB sideways/ADV to/ADP the/DET left/NOUN#0.0#0.0
+a person takes a large hop to the side.#a/DET person/NOUN take/VERB a/DET large/ADJ hop/NOUN to/ADP the/DET side/NOUN#0.0#0.0

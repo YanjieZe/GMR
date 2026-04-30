@@ -1,0 +1,3 @@
+the person walks backwards while dribbling the ball#the/DET person/NOUN walk/VERB backwards/ADV while/SCONJ dribble/VERB the/DET ball/NOUN#0.0#0.0
+a person bounces a ball on the ground and walks backwards#a/DET person/NOUN bounce/VERB a/DET ball/NOUN on/ADP the/DET ground/NOUN and/CCONJ walk/VERB backwards/ADV#0.0#0.0
+a person walks backwards while doing the motion of dribbling a basketball.#a/DET person/NOUN walk/VERB backwards/ADV while/SCONJ do/VERB the/DET motion/NOUN of/ADP dribble/VERB a/DET basketball/NOUN#0.0#0.0

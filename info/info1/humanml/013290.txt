@@ -1,0 +1,3 @@
+a person walks in place slowly.#a/DET person/NOUN walk/VERB in/ADP place/NOUN slowly/ADV#0.0#0.0
+walking forward in place slowly.#walk/VERB forward/ADV in/ADP place/NOUN slowly/ADV#0.0#0.0
+he does a normal walk#he/PRON does/AUX a/DET normal/ADJ walk/NOUN#0.0#0.0

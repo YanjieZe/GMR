@@ -1,0 +1,3 @@
+a person holds their face while crying.#a/DET person/NOUN hold/VERB their/DET face/NOUN while/SCONJ cry/VERB#0.0#0.0
+a person cries standing up.#a/DET person/NOUN cry/VERB stand/VERB up/ADP#0.0#0.0
+a person stands up from the ground, crying like a child, blowing her nose and sobbing.#a/DET person/NOUN stand/VERB up/ADP from/ADP the/DET ground/NOUN cry/VERB like/SCONJ a/DET child/NOUN blow/VERB her/DET nose/NOUN and/CCONJ sob/VERB#0.0#0.0

@@ -1,0 +1,3 @@
+the man is cutting a banana#the/DET man/NOUN is/AUX cut/VERB a/DET banana/NOUN#0.0#0.0
+a figure grabs something and starts making a cutting motion on whatever else he has in the blue colored hand#a/DET figure/NOUN grab/NOUN something/PRON and/CCONJ start/VERB make/VERB a/DET cutting/ADJ motion/NOUN on/ADP whatever/DET else/ADV he/PRON has/AUX in/ADP the/DET blue/ADJ colored/ADJ hand/NOUN#0.0#0.0
+a person is cutting something with a knife#a/DET person/NOUN is/AUX cut/VERB something/PRON with/ADP a/DET knife/NOUN#0.0#0.0

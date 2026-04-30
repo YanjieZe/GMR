@@ -1,0 +1,3 @@
+a person jumps in front of them.#a/DET person/NOUN jump/VERB in/ADP front/NOUN of/ADP them/PRON#0.0#0.0
+a person bends their knees and hops forward.#a/DET person/NOUN bend/VERB their/DET knee/NOUN and/CCONJ hop/VERB forward/ADV#0.0#0.0
+he is jumping from one point to another.#he/PRON is/AUX jump/VERB from/ADP one/NUM point/NOUN to/ADP another/DET#0.0#0.0

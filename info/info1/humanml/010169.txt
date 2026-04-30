@@ -1,0 +1,3 @@
+a person starts lightly jogging, then stops.#a/DET person/NOUN start/VERB lightly/ADV jog/VERB then/ADV stop/VERB#0.0#0.0
+a person quickly jogs forward.#a/DET person/NOUN quickly/ADV jog/VERB forward/ADV#0.0#0.0
+a person runs forward fast.#a/DET person/NOUN run/VERB forward/ADV fast/ADV#0.0#0.0

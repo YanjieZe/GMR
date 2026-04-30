@@ -1,0 +1,3 @@
+a person walks forward, turns around, sits, stands and returns to their original location.#a/DET person/NOUN walk/VERB forward/ADV turn/VERB around/ADV sit/VERB stand/VERB and/CCONJ return/VERB to/ADP their/DET original/ADJ location/NOUN#0.0#0.0
+someone uses both of their legs in a squat position in order to sit down.#someone/PRON use/VERB both/DET of/ADP their/DET leg/NOUN in/ADP a/DET squat/ADJ position/NOUN in/ADP order/NOUN to/PART sit/VERB down/ADP#2.0#6.0
+a person walks forward while swinging their arms, turns around a squats, then stands back up and walks again.#a/DET person/NOUN walk/VERB forward/ADV while/SCONJ swinge/VERB their/DET arm/NOUN turn/VERB around/ADP a/DET squat/NOUN then/ADV stand/VERB back/ADV up/ADV and/CCONJ walk/VERB again/ADV#0.0#0.0

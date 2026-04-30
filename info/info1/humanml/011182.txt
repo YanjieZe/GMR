@@ -1,0 +1,3 @@
+a person standing with his legs apart and moving the right arms slightly down.#a/DET person/NOUN stand/VERB with/ADP his/DET leg/NOUN apart/ADV and/CCONJ move/VERB the/DET right/ADJ arm/NOUN slightly/ADV down/ADV#0.0#0.0
+a man steps his right leg back and leans on it before returning to standing position#a/DET man/NOUN step/VERB his/DET right/ADJ leg/NOUN back/ADV and/CCONJ lean/VERB on/ADP it/PRON before/ADP return/VERB to/ADP stand/VERB position/NOUN#0.0#0.0
+someone is standing with their legs spread wide, then they bring them closer together#someone/PRON is/AUX stand/VERB with/ADP their/DET leg/NOUN spread/VERB wide/ADV then/ADV they/PRON bring/VERB them/PRON closer/ADV together/ADV#0.0#0.0

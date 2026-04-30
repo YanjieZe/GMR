@@ -1,0 +1,3 @@
+the person is placing some thing from the right onto the left.#the/DET person/NOUN is/AUX place/VERB some/DET thing/NOUN from/ADP the/DET right/NOUN onto/ADP the/DET left/NOUN#0.0#0.0
+a figure lifts something from waist height on the left and sets it down to the right#a/DET figure/NOUN lift/VERB something/PRON from/ADP waist/NOUN height/NOUN on/ADP the/DET left/NOUN and/CCONJ set/VERB it/PRON down/ADP to/ADP the/DET right/NOUN#0.0#0.0
+a person pick something up in front of them and lays it to the left.#a/DET person/NOUN pick/VERB something/PRON up/ADP in/ADP front/NOUN of/ADP them/PRON and/CCONJ lay/VERB it/PRON to/ADP the/DET left/NOUN#0.0#0.0

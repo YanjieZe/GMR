@@ -1,0 +1,3 @@
+the person bows its head forward#the/DET person/NOUN bow/VERB its/DET head/NOUN forward/ADV#0.0#0.0
+a person stands still and then bows forward using only their torso as a pivot point#a/DET person/NOUN stand/VERB still/ADV and/CCONJ then/ADV bow/VERB forward/ADV use/VERB only/ADV their/DET torso/NOUN as/SCONJ a/DET pivot/NOUN point/NOUN#0.0#0.0
+a figure bows slightly to the back#a/DET figure/NOUN bow/VERB slightly/ADV to/ADP the/DET back/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks forward and stumbles when walking.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ stumble/NOUN when/ADV walk/VERB#0.0#0.0
+as a person walks forward he is pushed by someone from behind, stumbles, and recovers his balance.#as/SCONJ a/DET person/NOUN walk/VERB forward/ADV he/PRON is/AUX push/VERB by/ADP someone/PRON from/ADP behind/ADV stumble/NOUN and/CCONJ recover/VERB his/DET balance/NOUN#0.0#0.0
+a man walks forward at a slow pace and trips but catches himself.#a/DET man/NOUN walk/VERB forward/ADV at/ADP a/DET slow/ADJ pace/NOUN and/CCONJ trip/NOUN but/CCONJ catch/VERB himself/PRON#1.0#3.0

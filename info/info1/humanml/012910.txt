@@ -1,0 +1,3 @@
+character enters the scene and starts to travel in a zig zag pattern avoiding certain terain.#character/NOUN enter/VERB the/DET scene/NOUN and/CCONJ start/VERB to/PART travel/VERB in/ADP a/DET zig/X zag/X pattern/NOUN avoid/VERB certain/ADJ terain/NOUN#0.0#0.0
+a figure walks forward, zigzagging back and forth#a/DET figure/NOUN walk/VERB forward/ADV zigzag/VERB back/ADV and/CCONJ forth/ADV#0.0#0.0
+the man is doing parkour#the/DET man/NOUN is/AUX do/VERB parkour/NOUN#0.0#0.0

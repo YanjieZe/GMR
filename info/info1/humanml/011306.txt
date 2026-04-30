@@ -1,0 +1,3 @@
+the person presses something with their right hand before walking in an anti clockwise circle#the/DET person/NOUN press/VERB something/PRON with/ADP their/DET right/ADJ hand/NOUN before/ADP walk/VERB in/ADP an/DET anti/ADJ clockwise/NOUN circle/NOUN#0.0#0.0
+a person walks in a counter-clockwise oval#a/DET person/NOUN walk/VERB in/ADP a/DET counterclockwise/NOUN oval/NOUN#3.0#10.0
+the person did something with his hand then walked around in a circle.#the/DET person/NOUN did/AUX something/PRON with/ADP his/DET hand/NOUN then/ADV walk/VERB around/ADV in/ADP a/DET circle/NOUN#0.0#0.0

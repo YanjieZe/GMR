@@ -1,0 +1,3 @@
+someone grabs an object and then appears to clean it#someone/PRON grab/VERB an/DET object/NOUN and/CCONJ then/ADV appear/VERB to/PART clean/VERB it/PRON#0.0#0.0
+a person picks something with right arm, then pets it while holding in left hand#a/DET person/NOUN pick/VERB something/PRON with/ADP right/ADJ arm/NOUN then/ADV pet/VERB it/PRON while/SCONJ hold/VERB in/ADP left/ADJ hand/NOUN#0.0#0.0
+a person leans down, picks something up, and then brushes an object.#a/DET person/NOUN lean/VERB down/ADP pick/VERB something/PRON up/ADP and/CCONJ then/ADV brush/VERB an/DET object/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+stick man does fighting movements kicks in the air punches the air and stops#stick/PROPN man/NOUN does/AUX fight/VERB movement/NOUN kick/NOUN in/ADP the/DET air/NOUN punch/VERB the/DET air/NOUN and/CCONJ stop/NOUN#0.0#0.0
+a person does karate by striking with their hands and kicking their legs.#a/DET person/NOUN does/AUX karate/NOUN by/ADP strike/VERB with/ADP their/DET hand/NOUN and/CCONJ kick/VERB their/DET leg/NOUN#0.0#0.0
+a person kicks and punches in a manner consistant with martial arts.#a/DET person/NOUN kick/VERB and/CCONJ punch/NOUN in/ADP a/DET manner/NOUN consistant/ADJ with/ADP martial/ADJ art/NOUN#0.0#0.0

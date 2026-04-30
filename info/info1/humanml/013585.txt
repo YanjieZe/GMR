@@ -1,0 +1,3 @@
+this person sits as if to play a drum.#this/DET person/NOUN sit/VERB as/SCONJ if/SCONJ to/PART play/VERB a/DET drum/NOUN#0.0#0.0
+a person goes from standing to sitting in a chair#a/DET person/NOUN go/VERB from/ADP stand/VERB to/ADP sit/VERB in/ADP a/DET chair/NOUN#0.0#0.0
+a person sits down, shivering.#a/DET person/NOUN sit/VERB down/ADV shiver/VERB#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks forward and then turns to the left to walk away.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ then/ADV turn/VERB to/ADP the/DET left/NOUN to/PART walk/VERB away/ADV#0.0#0.0
+a person walks forward, and then takes a sharp turn left, back to where they started.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ then/ADV take/VERB a/DET sharp/ADJ turn/NOUN left/VERB back/ADV to/ADP where/ADV they/PRON start/VERB#0.0#0.0
+this person takes two steps forward, spins then takes two steps back.#this/DET person/NOUN take/VERB two/NUM step/NOUN forward/ADV spin/NOUN then/ADV take/VERB two/NUM step/NOUN back/ADV#0.0#0.0

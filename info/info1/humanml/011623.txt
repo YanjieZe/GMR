@@ -1,0 +1,3 @@
+a hunched person drags something around the floor with both hands.#a/DET hunch/VERB person/NOUN drag/VERB something/PRON around/ADP the/DET floor/NOUN with/ADP both/DET hand/NOUN#0.0#0.0
+a person limps back and forth, dragging their right leg with their hands.#a/DET person/NOUN limp/VERB back/ADV and/CCONJ forth/ADV drag/VERB their/DET right/ADJ leg/NOUN with/ADP their/DET hand/NOUN#0.0#0.0
+a man iss walking around whilst holding his right leg with both his hands#a/DET man/NOUN iss/PROPN walk/VERB around/ADV whilst/SCONJ hold/VERB his/DET right/ADJ leg/NOUN with/ADP both/CCONJ his/DET hand/NOUN#0.0#0.0

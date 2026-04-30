@@ -1,0 +1,3 @@
+a person waves both arms in a back and forth motion.#a/DET person/NOUN wave/VERB both/DET arm/NOUN in/ADP a/DET back/NOUN and/CCONJ forth/ADJ motion/NOUN#0.0#0.0
+a person waving someone down.#a/DET person/NOUN wave/VERB someone/PRON down/ADP#0.0#0.0
+a man pulls both his arms up to shoulder level then reaches twice towards his head. his arms then return to the side.#a/DET man/NOUN pull/VERB both/CCONJ his/DET arm/NOUN up/ADP to/ADP shoulder/NOUN level/NOUN then/ADV reach/VERB twice/ADV towards/ADP his/DET head/NOUN his/DET arm/NOUN then/ADV return/VERB to/ADP the/DET side/NOUN#0.0#0.0

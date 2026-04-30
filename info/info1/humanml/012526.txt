@@ -1,0 +1,3 @@
+a person jumps and raises their hands midway and then begins to jump again.#a/DET person/NOUN jump/VERB and/CCONJ raise/VERB their/DET hand/NOUN midway/ADV and/CCONJ then/ADV begin/VERB to/PART jump/VERB again/ADV#0.0#0.0
+the man steps and holds his side then leaps into the air twice.#the/DET man/NOUN step/VERB and/CCONJ hold/VERB his/DET side/NOUN then/ADV leap/VERB into/ADP the/DET air/NOUN twice/ADV#0.0#0.0
+the man is doing a jump matrix#the/DET man/NOUN is/AUX do/VERB a/DET jump/NOUN matrix/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+someone scrolls from right to left and then stands#someone/PRON scroll/VERB from/ADP right/NOUN to/ADP left/VERB and/CCONJ then/ADV stand/VERB#0.0#0.0
+a person shuffles 2 steps to the left, 3 steps to the right and 1 step back to center.#a/DET person/NOUN shuffle/VERB step/NOUN to/ADP the/DET left/NOUN step/NOUN to/ADP the/DET right/NOUN and/CCONJ step/NOUN back/ADV to/ADP center/NOUN#0.0#0.0
+walking from side to side then stopping.#walk/VERB from/ADP side/NOUN to/PART side/VERB then/ADV stop/VERB#0.0#0.0

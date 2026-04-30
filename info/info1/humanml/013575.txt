@@ -1,0 +1,3 @@
+a person walks in a counterclockwise circle, before stopping.#a/DET person/NOUN walk/VERB in/ADP a/DET counterclockwise/ADJ circle/NOUN before/ADP stop/VERB#0.0#0.0
+a person walks in a counter clockwise circle.#a/DET person/NOUN walk/VERB in/ADP a/DET counter/NOUN clockwise/NOUN circle/NOUN#0.0#0.0
+the sim is walking in a circle shape, counter clockwise.#the/DET sim/PROPN is/AUX walk/VERB in/ADP a/DET circle/NOUN shape/NOUN counter/NOUN clockwise/NOUN#0.0#0.0

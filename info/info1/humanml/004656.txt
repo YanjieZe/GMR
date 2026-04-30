@@ -1,0 +1,3 @@
+the right hand extends above the side while the legs step up to climb.#the/DET right/ADJ hand/NOUN extend/VERB above/ADP the/DET side/NOUN while/SCONJ the/DET leg/NOUN step/VERB up/ADV to/PART climb/VERB#0.0#0.0
+a person walks up imaginary steps.#a/DET person/NOUN walk/VERB up/ADP imaginary/ADJ step/NOUN#0.0#0.0
+a person going up the stairs with the support of the right sided railing.#a/DET person/NOUN go/VERB up/ADP the/DET stair/NOUN with/ADP the/DET support/NOUN of/ADP the/DET right/ADJ sided/ADJ railing/NOUN#0.0#0.0

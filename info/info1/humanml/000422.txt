@@ -1,0 +1,3 @@
+a person is spinning around#a/DET person/NOUN is/AUX spin/VERB around/ADV#0.0#0.0
+a kid spin around getting dizzy#a/DET kid/ADJ spin/NOUN around/ADP get/VERB dizzy/ADJ#0.0#0.0
+a person holds their arms out and spins in circles, then spins the opposite direction#a/DET person/NOUN hold/VERB their/DET arm/NOUN out/ADP and/CCONJ spin/VERB in/ADP circle/NOUN then/ADV spin/VERB the/DET opposite/ADJ direction/NOUN#0.0#0.0

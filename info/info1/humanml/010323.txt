@@ -1,0 +1,3 @@
+a person cleaning the floor by sweeping, mopping or using a vacuum cleaner#a/DET person/NOUN clean/VERB the/DET floor/NOUN by/ADP sweep/VERB mop/VERB or/CCONJ use/VERB a/DET vacuum/NOUN cleaner/NOUN#0.0#0.0
+the person is vacuuming something.#the/DET person/NOUN is/AUX vacuum/VERB something/PRON#0.0#0.0
+a person uses a vacuum while moving from left to right.#a/DET person/NOUN use/VERB a/DET vacuum/NOUN while/SCONJ move/VERB from/ADP left/ADV to/ADP right/NOUN#0.0#0.0

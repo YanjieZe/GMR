@@ -1,0 +1,3 @@
+a person walks forward then backs into sitting into a chair.#a/DET person/NOUN walk/VERB forward/ADV then/ADV back/VERB into/ADP sit/VERB into/ADP a/DET chair/NOUN#0.0#0.0
+a person walks forward, turns around and sits down, then walks forward again and turns around once more.#a/DET person/NOUN walk/VERB forward/ADV turn/VERB around/ADV and/CCONJ sit/VERB down/ADV then/ADV walk/VERB forward/ADV again/ADV and/CCONJ turn/VERB around/ADP once/ADV more/ADJ#0.0#0.0
+a person walks forward, sit on the chair ,gets up and walks back.#a/DET person/NOUN walk/VERB forward/ADV sit/VERB on/ADP the/DET chair/NOUN get/VERB up/ADV and/CCONJ walk/VERB back/ADV#0.0#0.0

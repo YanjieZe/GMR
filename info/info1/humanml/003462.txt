@@ -1,0 +1,3 @@
+a person takes small steps and moves while crouching#a/DET person/NOUN take/VERB small/ADJ step/NOUN and/CCONJ move/NOUN while/SCONJ crouch/VERB#0.0#0.0
+the man sneaks around in a counterclockwise circle.#the/DET man/NOUN sneak/VERB around/ADP in/ADP a/DET counterclockwise/ADJ circle/NOUN#0.0#0.0
+he crouches forward and tiptoes around cautiously, stopping a couple of times, apparently not wanting to be seen.#he/PRON crouch/VERB forward/ADV and/CCONJ tiptoe/NOUN around/ADP cautiously/ADV stop/VERB a/DET couple/NOUN of/ADP time/NOUN apparently/ADV not/PART want/VERB to/PART be/AUX see/VERB#0.0#0.0

@@ -1,0 +1,3 @@
+person is flexing their arm muscles#person/NOUN is/AUX flex/VERB their/DET arm/NOUN muscle/NOUN#0.0#0.0
+a person doing a body building flex pose.#a/DET person/NOUN do/VERB a/DET body/NOUN building/NOUN flex/NOUN pose/NOUN#0.0#0.0
+a person walks forward, turns around and then makes several poses with their arms.#a/DET person/NOUN walk/VERB forward/ADV turn/VERB around/ADV and/CCONJ then/ADV make/VERB several/ADJ pose/NOUN with/ADP their/DET arm/NOUN#0.0#0.0

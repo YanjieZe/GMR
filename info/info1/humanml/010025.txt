@@ -1,0 +1,3 @@
+the person is leaning on a table#the/DET person/NOUN is/AUX lean/VERB on/ADP a/DET table/NOUN#0.0#0.0
+walking forward and bending down.#walk/VERB forward/ADV and/CCONJ bend/VERB down/ADP#0.0#0.0
+person is leaning down on a table#person/NOUN is/AUX lean/VERB down/ADP on/ADP a/DET table/NOUN#0.0#0.0

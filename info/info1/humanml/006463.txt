@@ -1,0 +1,3 @@
+he is imitating an elephant feeding itself with its trunk.#he/PRON is/AUX imitate/VERB an/DET elephant/NOUN feed/VERB itself/PRON with/ADP its/DET trunk/NOUN#0.0#0.0
+a man stretches out his right hand to dig.#a/DET man/NOUN stretch/VERB out/ADP his/DET right/ADJ hand/NOUN to/PART dig/VERB#0.0#0.0
+a man is scooping up leaves to put in a collection bag.#a/DET man/NOUN is/AUX scoop/VERB up/ADP leave/NOUN to/PART put/VERB in/ADP a/DET collection/NOUN bag/NOUN#0.0#0.0

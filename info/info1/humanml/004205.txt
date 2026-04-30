@@ -1,0 +1,3 @@
+stick person is danceing from forward to the right and then tonthe left with both arms up#stick/PROPN person/NOUN is/AUX dance/VERB from/ADP forward/ADV to/ADP the/DET right/NOUN and/CCONJ then/ADV tonthe/DET left/VERB with/ADP both/DET arm/NOUN up/ADP#0.0#0.0
+a person is demonstrating the dance steps for a waltz.#a/DET person/NOUN is/AUX demonstrate/VERB the/DET dance/NOUN step/NOUN for/ADP a/DET waltz/NOUN#0.0#0.0
+a person dances cha cha cha.#a/DET person/NOUN dance/VERB cha/PROPN cha/PROPN cha/NOUN#0.0#0.0

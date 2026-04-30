@@ -1,0 +1,3 @@
+a person takes two steps backwards.#a/DET person/NOUN take/VERB two/NUM step/NOUN backwards/ADV#0.0#0.0
+person is backing up.#person/NOUN is/AUX back/VERB up/ADP#0.0#0.0
+a person takes one step.#a/DET person/NOUN take/VERB one/NUM step/NOUN#0.0#0.0

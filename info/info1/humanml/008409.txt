@@ -1,0 +1,3 @@
+the person is walking very wide-legged#the/DET person/NOUN is/AUX walk/VERB very/ADV widelegged/ADJ#0.0#0.0
+person is walking fast, using both legs and arms as swivels to walk faster. person feels determined, focused, and authoritative#person/NOUN is/AUX walk/VERB fast/ADV use/VERB both/DET leg/NOUN and/CCONJ arm/NOUN as/SCONJ swivel/NOUN to/PART walk/VERB faster/ADV person/NOUN feel/VERB determine/VERB focus/VERB and/CCONJ authoritative/ADJ#0.0#0.0
+a person just walking down#a/DET person/NOUN just/ADV walk/VERB down/ADP#0.0#0.0

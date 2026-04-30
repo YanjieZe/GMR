@@ -1,0 +1,3 @@
+a person takes a step back and to the left, sits on an invisible object, gets up to stand, and takes smaller steps back to the original position.#a/DET person/NOUN take/VERB a/DET step/NOUN back/ADV and/CCONJ to/ADP the/DET left/NOUN sit/VERB on/ADP an/DET invisible/ADJ object/NOUN get/VERB up/ADV to/PART stand/VERB and/CCONJ take/VERB smaller/ADJ step/NOUN back/ADV to/ADP the/DET original/ADJ position/NOUN#0.0#0.0
+he sits in a chair and gets back up.#he/PRON sit/VERB in/ADP a/DET chair/NOUN and/CCONJ get/VERB back/ADV up/ADV#0.0#0.0
+person steps to right sits down and then stands up to return to first position.#person/NOUN step/VERB to/PART right/ADV sit/VERB down/ADV and/CCONJ then/ADV stand/VERB up/ADP to/PART return/VERB to/ADP first/ADJ position/NOUN#0.0#0.0

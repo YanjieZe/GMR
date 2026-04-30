@@ -1,0 +1,3 @@
+the person tries to stable themselves standing still but takes a step forward after losing balance#the/DET person/NOUN try/VERB to/PART stable/VERB themselves/PRON stand/VERB still/ADV but/CCONJ take/VERB a/DET step/NOUN forward/ADV after/ADP lose/VERB balance/NOUN#0.0#0.0
+a person uses his arms to maintain balance, takes a step forward and puts his arms back down#a/DET person/NOUN use/VERB his/DET arm/NOUN to/PART maintain/VERB balance/NOUN take/VERB a/DET step/NOUN forward/ADV and/CCONJ put/VERB his/DET arm/NOUN back/ADV down/ADV#0.0#0.0
+a person stumbles forward while maintaining his balance.#a/DET person/NOUN stumble/VERB forward/ADV while/SCONJ maintain/VERB his/DET balance/NOUN#0.0#0.0

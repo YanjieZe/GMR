@@ -1,0 +1,3 @@
+a man walking in a zig zag motion.#a/DET man/NOUN walk/VERB in/ADP a/DET zig/NOUN zag/X motion/NOUN#0.0#0.0
+a man walks forward taking a step before wife stepping to his left and then to his right in a zig zag pattern.#a/DET man/NOUN walk/VERB forward/ADV take/VERB a/DET step/NOUN before/ADP wife/NOUN step/VERB to/ADP his/DET left/NOUN and/CCONJ then/ADV to/ADP his/DET right/NOUN in/ADP a/DET zig/X zag/X pattern/NOUN#0.0#0.0
+a person erratically walks forward in a zigzag.#a/DET person/NOUN erratically/ADV walk/VERB forward/ADV in/ADP a/DET zigzag/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person sat on something and leaned the hands near to face#a/DET person/NOUN sit/VERB on/ADP something/PRON and/CCONJ lean/VERB the/DET hand/NOUN near/ADJ to/PART face/VERB#0.0#0.0
+a person crouches and holds their hands up worryingly.#a/DET person/NOUN crouch/VERB and/CCONJ hold/VERB their/DET hand/NOUN up/ADP worryingly/ADV#0.0#0.0
+the person is ensuring the object is tied tight#the/DET person/NOUN is/AUX ensure/VERB the/DET object/NOUN is/AUX tie/VERB tight/ADJ#0.0#0.0

@@ -1,0 +1,3 @@
+a person steps on stairs and walks down one stair, takes a couple of small steps, turns, and walks up one step.#a/DET person/NOUN step/VERB on/ADP stair/NOUN and/CCONJ walk/VERB down/ADV one/NUM stair/NOUN take/VERB a/DET couple/NOUN of/ADP small/ADJ step/NOUN turn/VERB and/CCONJ walk/VERB up/ADV one/NUM step/NOUN#0.0#0.0
+a person walks on uneven terrain.#a/DET person/NOUN walk/VERB on/ADP uneven/ADJ terrain/NOUN#0.0#0.0
+a person walks over top of something, turns around, and walks back over it.#a/DET person/NOUN walk/VERB over/ADP top/NOUN of/ADP something/PRON turn/VERB around/ADV and/CCONJ walk/VERB back/ADV over/ADP it/PRON#0.0#0.0

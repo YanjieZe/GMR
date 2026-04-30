@@ -1,0 +1,3 @@
+a person performs left punches with his left hand in the kick boxing#a/DET person/NOUN perform/VERB left/VERB punch/NOUN with/ADP his/DET left/ADJ hand/NOUN in/ADP the/DET kick/NOUN boxing/NOUN#0.0#0.0
+a person punches something straight out then lower and lower.#a/DET person/NOUN punch/VERB something/PRON straight/ADV out/ADV then/ADV lower/ADV and/CCONJ lower/ADJ#0.0#0.0
+person was fighting with a left punch.#person/NOUN was/AUX fight/VERB with/ADP a/DET left/ADJ punch/NOUN#0.0#0.0

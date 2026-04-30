@@ -1,0 +1,3 @@
+with arms out to the sides a person walks forward#with/ADP arm/NOUN out/SCONJ to/ADP the/DET side/NOUN a/DET person/NOUN walk/VERB forward/ADV#0.0#0.0
+a person walks forward with their arms extended to the side.#a/DET person/NOUN walk/VERB forward/ADV with/ADP their/DET arm/NOUN extend/VERB to/ADP the/DET side/NOUN#0.0#0.0
+a man raises his arms then walks across a room.#a/DET man/NOUN raise/VERB his/DET arm/NOUN then/ADV walk/VERB across/ADP a/DET room/NOUN#0.0#0.0

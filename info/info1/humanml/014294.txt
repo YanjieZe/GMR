@@ -1,0 +1,3 @@
+person does light bouncy jump, skips forward with left leg swinging forward#person/NOUN does/AUX light/ADJ bouncy/NOUN jump/NOUN skip/VERB forward/ADV with/ADP left/ADJ leg/NOUN swinge/VERB forward/ADV#0.0#0.0
+a person hops forward and kicks a soccer ball with his right foot.#a/DET person/NOUN hop/VERB forward/ADV and/CCONJ kick/VERB a/DET soccer/NOUN ball/NOUN with/ADP his/DET right/ADJ foot/NOUN#0.0#0.0
+a person kicks a ball.#a/DET person/NOUN kick/VERB a/DET ball/NOUN#0.0#0.0

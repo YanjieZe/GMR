@@ -1,0 +1,3 @@
+a person walks forward with their arms raised toward the ceiling.#a/DET person/NOUN walk/VERB forward/ADV with/ADP their/DET arm/NOUN raise/VERB toward/ADP the/DET ceiling/NOUN#nan#nan
+the person is walking over a balance beam.#the/DET person/NOUN is/AUX walk/VERB over/ADP a/DET balance/NOUN beam/NOUN#0.0#0.0
+this person walks forward while raises both arms above his head.#this/DET person/NOUN walk/VERB forward/ADV while/SCONJ raise/VERB both/DET arm/NOUN above/ADP his/DET head/NOUN#0.0#0.0

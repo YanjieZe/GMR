@@ -1,0 +1,3 @@
+a figure steps backward cockily, swinging their arms#a/DET figure/NOUN step/VERB backward/ADV cockily/ADV swinge/VERB their/DET arm/NOUN#0.0#0.0
+a person steps back with his right leg, dragging his left leg on the ground.#a/DET person/NOUN step/VERB back/ADV with/ADP his/DET right/ADJ leg/NOUN drag/VERB his/DET left/ADJ leg/NOUN on/ADP the/DET ground/NOUN#0.0#0.0
+the person appears to stumble backwards.#the/DET person/NOUN appear/VERB to/PART stumble/VERB backwards/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+the person is singing i’m a little tea pot.#the/DET person/NOUN is/AUX singe/VERB i/PRON a/DET little/ADJ tea/NOUN pot/NOUN#0.0#0.0
+someone picks up something with the left arm and lifts something with the right arm#someone/PRON pick/VERB up/ADP something/PRON with/ADP the/DET left/ADJ arm/NOUN and/CCONJ lift/VERB something/PRON with/ADP the/DET right/ADJ arm/NOUN#0.0#0.0
+using both hands to handle an object, lifts object and puts it under their right shoulder, and then bucks hips. appears to be cooking, perhaps#use/VERB both/DET hand/NOUN to/PART handle/VERB an/DET object/NOUN lift/VERB object/NOUN and/CCONJ put/VERB it/PRON under/ADP their/DET right/ADJ shoulder/NOUN and/CCONJ then/ADV buck/VERB hip/NOUN appear/VERB to/PART be/AUX cook/VERB perhaps/ADV#0.0#0.0

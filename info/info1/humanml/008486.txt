@@ -1,0 +1,3 @@
+someone bounces between either foot and swings their arms back and forth in front of their chest.#someone/PRON bounce/VERB between/ADP either/DET foot/NOUN and/CCONJ swing/VERB their/DET arm/NOUN back/ADV and/CCONJ forth/ADV in/ADP front/NOUN of/ADP their/DET chest/NOUN#0.0#0.0
+a person jogs backwards, forwards and then does a complete turn.#a/DET person/NOUN jog/VERB backwards/ADV forwards/ADV and/CCONJ then/ADV does/AUX a/DET complete/ADJ turn/NOUN#0.0#0.0
+a person jogs in place, moving slightly back and forth while doing so but staying in the same general area.#a/DET person/NOUN jog/VERB in/ADP place/NOUN move/VERB slightly/ADV back/ADV and/CCONJ forth/ADV while/SCONJ do/VERB so/ADV but/CCONJ stay/VERB in/ADP the/DET same/ADJ general/ADJ area/NOUN#0.0#0.0

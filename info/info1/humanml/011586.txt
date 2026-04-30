@@ -1,0 +1,3 @@
+person is sipping a drink#person/NOUN is/AUX sip/VERB a/DET drink/NOUN#0.0#0.0
+the person is sipping  a martini to drink.#the/DET person/NOUN is/AUX sip/VERB a/DET martini/NOUN to/PART drink/VERB#0.0#0.0
+the person sips wine out of the glass#the/DET person/NOUN sip/VERB wine/NOUN out/SCONJ of/ADP the/DET glass/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person jumps and turns around in mid air.#a/DET person/NOUN jump/VERB and/CCONJ turn/VERB around/ADV in/ADP mid/ADJ air/NOUN#0.0#0.0
+a man jumps up and faces the opposite direction.#a/DET man/NOUN jump/VERB up/ADP and/CCONJ face/VERB the/DET opposite/ADJ direction/NOUN#0.0#0.0
+the person did a jump and turned around the opposite direction#the/DET person/NOUN did/AUX a/DET jump/NOUN and/CCONJ turn/VERB around/ADP the/DET opposite/ADJ direction/NOUN#0.0#0.0

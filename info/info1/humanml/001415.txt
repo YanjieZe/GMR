@@ -1,0 +1,3 @@
+the person is moving something in the air.#the/DET person/NOUN is/AUX move/VERB something/PRON in/ADP the/DET air/NOUN#0.0#0.0
+a person tries to reach something by stretching#a/DET person/NOUN try/VERB to/PART reach/VERB something/PRON by/ADP stretch/VERB#0.0#0.0
+a person lifts both his arms up and stretchs.#a/DET person/NOUN lift/VERB both/CCONJ his/DET arm/NOUN up/ADP and/CCONJ stretch/NOUN#0.0#0.0

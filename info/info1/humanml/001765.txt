@@ -1,0 +1,3 @@
+a person who is hunched forward stumbles to regain posture, sways body from side to side and hunches forward one more time before standing upright.#a/DET person/NOUN who/PRON is/AUX hunch/VERB forward/ADP stumble/NOUN to/PART regain/VERB posture/NOUN sway/VERB body/NOUN from/ADP side/NOUN to/ADP side/NOUN and/CCONJ hunch/VERB forward/ADV one/NUM more/ADJ time/NOUN before/ADP stand/VERB upright/ADV#0.0#0.0
+a man's hips wobble as he stands.#a/DET man/NOUN hip/NOUN wobble/VERB as/SCONJ he/PRON stand/VERB#0.0#0.0
+a person rocks forward and backward while standing in place#a/DET person/NOUN rock/VERB forward/ADV and/CCONJ backward/ADV while/SCONJ stand/VERB in/ADP place/NOUN#0.0#0.0

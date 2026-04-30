@@ -1,0 +1,3 @@
+a person walking forward four steps with their arms down beside them and then they stop.#a/DET person/NOUN walk/VERB forward/ADV four/NUM step/NOUN with/ADP their/DET arm/NOUN down/ADV beside/ADP them/PRON and/CCONJ then/ADV they/PRON stop/VERB#0.0#0.0
+a person walks in a diagonal line from the right to the left side.#a/DET person/NOUN walk/VERB in/ADP a/DET diagonal/ADJ line/NOUN from/ADP the/DET right/NOUN to/ADP the/DET left/ADJ side/NOUN#0.0#0.0
+someone walking at a diagonal.#someone/PRON walk/VERB at/ADP a/DET diagonal/NOUN#0.0#0.0

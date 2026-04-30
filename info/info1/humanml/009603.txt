@@ -1,0 +1,3 @@
+a person hops into the air one time and then stops.#a/DET person/NOUN hop/VERB into/ADP the/DET air/NOUN one/NUM time/NOUN and/CCONJ then/ADV stop/VERB#0.0#0.0
+a person jumps up with both feet, then lands and takes one step back with left foot.#a/DET person/NOUN jump/VERB up/ADP with/ADP both/DET foot/NOUN then/ADV land/VERB and/CCONJ take/VERB one/NUM step/NOUN back/ADV with/ADP left/ADJ foot/NOUN#0.0#0.0
+a person slowly jumped forward#a/DET person/NOUN slowly/ADV jump/VERB forward/ADV#0.0#0.0

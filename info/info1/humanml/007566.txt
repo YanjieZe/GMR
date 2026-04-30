@@ -1,0 +1,3 @@
+person is warming up their arms#person/NOUN is/AUX warm/VERB up/ADP their/DET arm/NOUN#0.0#0.0
+a figure waves above their head with one arm at a time, gesturing#a/DET figure/NOUN wave/NOUN above/ADP their/DET head/NOUN with/ADP one/NUM arm/NOUN at/ADP a/DET time/NOUN gesture/VERB#0.0#0.0
+the person is doing arm warm-up exercises.#the/DET person/NOUN is/AUX do/VERB arm/PROPN warmup/PROPN exercise/VERB#0.0#0.0

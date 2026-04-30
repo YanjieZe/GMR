@@ -1,0 +1,3 @@
+a person walks backwards slowly, before moving to the right, crossing one leg over the other in a crab walk#a/DET person/NOUN walk/VERB backwards/ADV slowly/ADV before/ADP move/VERB to/ADP the/DET right/NOUN cross/VERB one/NUM leg/NOUN over/ADP the/DET other/ADJ in/ADP a/DET crab/NOUN walk/NOUN#0.0#0.0
+he walked backwards, then crisscross his legs to walk rightward.#he/PRON walk/VERB backwards/ADV then/ADV crisscross/VERB his/DET leg/NOUN to/PART walk/VERB rightward/ADJ#0.0#0.0
+a person walks side to side crisscrossing their legs.#a/DET person/NOUN walk/VERB side/NOUN to/PART side/VERB crisscross/VERB their/DET leg/NOUN#0.0#0.0

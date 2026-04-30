@@ -1,0 +1,3 @@
+the man drops his outstretched arms the claps to the left and then to the right.#the/DET man/NOUN drop/VERB his/DET outstretched/ADJ arm/NOUN the/DET clap/NOUN to/ADP the/DET left/NOUN and/CCONJ then/ADV to/ADP the/DET right/NOUN#0.0#0.0
+a person gently claps both hands together repeatedly while shifting their weight from left to right#a/DET person/NOUN gently/ADV clap/VERB both/DET hand/NOUN together/ADV repeatedly/ADV while/SCONJ shift/VERB their/DET weight/NOUN from/ADP left/VERB to/ADP right/ADJ#0.0#0.0
+figure applauds with two hands#figure/NOUN applaud/VERB with/ADP two/NUM hand/NOUN#0.0#0.0

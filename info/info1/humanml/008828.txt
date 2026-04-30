@@ -1,0 +1,3 @@
+a person is excersising using arms and legs#a/DET person/NOUN is/AUX excersise/VERB use/VERB arm/NOUN and/CCONJ leg/NOUN#0.0#0.0
+a man stands marching in place, then picks up the pace to a slow jog.#a/DET man/NOUN stand/VERB march/VERB in/ADP place/NOUN then/ADV pick/VERB up/ADP the/DET pace/NOUN to/ADP a/DET slow/ADJ jog/NOUN#0.0#0.0
+the person is marching in place.#the/DET person/NOUN is/AUX march/VERB in/ADP place/NOUN#0.0#0.0

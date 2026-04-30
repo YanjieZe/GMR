@@ -1,0 +1,3 @@
+a sitting person sits up straight, than stands and finally sits back down.#a/DET sit/VERB person/NOUN sit/VERB up/ADP straight/ADV than/SCONJ stand/VERB and/CCONJ finally/ADV sit/VERB back/ADV down/ADV#0.0#0.0
+a man sits down, stands up and then sits back down again.#a/DET man/NOUN sit/VERB down/ADV stand/VERB up/ADV and/CCONJ then/ADV sit/VERB back/ADV down/ADV again/ADV#0.0#0.0
+a person stands up from a sit down position, then sits back down.#a/DET person/NOUN stand/VERB up/ADP from/ADP a/DET sit/NOUN down/ADP position/NOUN then/ADV sit/VERB back/ADV down/ADV#0.0#0.0

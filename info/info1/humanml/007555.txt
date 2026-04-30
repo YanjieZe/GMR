@@ -1,0 +1,3 @@
+the man walked in small circles pacing frantically.#the/DET man/NOUN walk/VERB in/ADP small/ADJ circle/NOUN pace/VERB frantically/ADV#0.0#0.0
+a person walks forward, spins around, then walks back to where they were originally standing.#a/DET person/NOUN walk/VERB forward/ADV spin/VERB around/ADV then/ADV walk/VERB back/ADV to/ADP where/ADV they/PRON were/AUX originally/ADV stand/VERB#nan#0.0
+walking forward then the body twirls around fast and keeps walking.#walk/VERB forward/ADV then/ADV the/DET body/NOUN twirl/VERB around/ADP fast/ADV and/CCONJ keep/VERB walk/VERB#0.0#0.0

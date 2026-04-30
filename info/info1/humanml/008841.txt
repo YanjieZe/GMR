@@ -1,0 +1,3 @@
+person is hopping on one foot at a time alternating between left and right#person/NOUN is/AUX hop/VERB on/ADP one/NUM foot/NOUN at/ADP a/DET time/NOUN alternate/VERB between/ADP left/ADJ and/CCONJ right/ADJ#0.0#0.0
+a person hops on their left foot then stands on both feet.#a/DET person/NOUN hop/VERB on/ADP their/DET left/ADJ foot/NOUN then/ADV stand/VERB on/ADP both/DET foot/NOUN#0.0#0.0
+a figure hops on one foot at a time as though doing a jig#a/DET figure/NOUN hop/VERB on/ADP one/NUM foot/NOUN at/ADP a/DET time/NOUN as/SCONJ though/SCONJ do/VERB a/DET jig/NOUN#0.0#0.0

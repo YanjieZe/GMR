@@ -1,0 +1,3 @@
+a person walks forward up a slight incline.#a/DET person/NOUN walk/VERB forward/ADV up/ADP a/DET slight/ADJ incline/NOUN#0.0#0.0
+a man walks forward slowly.#a/DET man/NOUN walk/VERB forward/ADV slowly/ADV#0.0#0.0
+a person walks forward up a slight slope.#a/DET person/NOUN walk/VERB forward/ADV up/ADP a/DET slight/ADJ slope/NOUN#0.0#0.0

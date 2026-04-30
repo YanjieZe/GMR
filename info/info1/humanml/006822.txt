@@ -1,0 +1,3 @@
+a person walks backwards down steps.#a/DET person/NOUN walk/VERB backwards/ADV down/ADP step/NOUN#0.0#0.0
+a person slowly steps down some stairs backwards.#a/DET person/NOUN slowly/ADV step/VERB down/ADP some/DET stair/NOUN backwards/ADV#0.0#0.0
+a person walks backwards down stairs carefully.#a/DET person/NOUN walk/VERB backwards/ADV down/ADV stair/NOUN carefully/ADV#0.0#0.0

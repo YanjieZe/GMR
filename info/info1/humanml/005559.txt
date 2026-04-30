@@ -1,0 +1,3 @@
+a person who is standing with his hands by his sides takes one step forward and three steps to his right and stops.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP his/DET hand/NOUN by/ADP his/DET side/NOUN take/VERB one/NUM step/NOUN forward/ADV and/CCONJ three/NUM step/NOUN to/ADP his/DET right/NOUN and/CCONJ stop/NOUN#0.0#0.0
+moving forward on the right side.#move/VERB forward/ADV on/ADP the/DET right/ADJ side/NOUN#0.0#0.0
+a person walks at a bend to the right.#a/DET person/NOUN walk/VERB at/ADP a/DET bend/NOUN to/ADP the/DET right/NOUN#0.0#0.0

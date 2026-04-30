@@ -1,0 +1,3 @@
+the person has both of his hands up in place#the/DET person/NOUN has/AUX both/DET of/ADP his/DET hand/NOUN up/ADP in/ADP place/NOUN#0.0#0.0
+a person stands on the spot with both their arms up by their chest#a/DET person/NOUN stand/VERB on/ADP the/DET spot/NOUN with/ADP both/CCONJ their/DET arm/NOUN up/ADP by/ADP their/DET chest/NOUN#0.0#0.0
+a person stands with both hands touching each other in front of their face.#a/DET person/NOUN stand/VERB with/ADP both/DET hand/NOUN touch/VERB each/DET other/ADJ in/ADP front/NOUN of/ADP their/DET face/NOUN#0.0#0.0

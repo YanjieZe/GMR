@@ -1,0 +1,3 @@
+the person walks up a ramp.#the/DET person/NOUN walk/VERB up/ADP a/DET ramp/NOUN#0.0#0.0
+a man moved forward swinging his right arm side to side.#a/DET man/NOUN move/VERB forward/ADV swinge/VERB his/DET right/ADJ arm/NOUN side/NOUN to/PART side/VERB#0.0#0.0
+a man walks forward slightly swinging his arms.#a/DET man/NOUN walk/VERB forward/ADV slightly/ADV swinge/VERB his/DET arm/NOUN#0.0#0.0

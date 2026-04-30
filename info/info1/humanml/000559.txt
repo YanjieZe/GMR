@@ -1,0 +1,3 @@
+a person walks backwards the goes up steps bacward.#a/DET person/NOUN walk/VERB backwards/ADV the/DET go/VERB up/ADP step/NOUN bacward/NOUN#0.0#0.0
+a person walks backwards and then climbs stairs backwards#a/DET person/NOUN walk/VERB backwards/ADV and/CCONJ then/ADV climb/VERB stair/NOUN backwards/ADV#0.0#0.0
+a man walks backwards then climbs backwards up something, such as a flight of stairs.#a/DET man/NOUN walk/VERB backwards/ADV then/ADV climb/VERB backwards/ADV up/ADV something/PRON such/ADJ as/SCONJ a/DET flight/NOUN of/ADP stair/NOUN#0.0#0.0

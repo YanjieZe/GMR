@@ -1,0 +1,3 @@
+a person pretends to catch a basketball, shoot it twice, then dribble it.#a/DET person/NOUN pretend/VERB to/PART catch/VERB a/DET basketball/NOUN shoot/VERB it/PRON twice/ADV then/ADV dribble/VERB it/PRON#0.0#0.0
+someone tossing a ball ball and forth#someone/PRON toss/VERB a/DET ball/NOUN ball/NOUN and/CCONJ forth/ADV#0.0#0.0
+a person doing two jump shots and and then bouncing the basketball#a/DET person/NOUN do/VERB two/NUM jump/NOUN shot/NOUN and/CCONJ and/CCONJ then/ADV bounce/VERB the/DET basketball/NOUN#0.0#0.0

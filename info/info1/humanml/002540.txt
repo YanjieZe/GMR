@@ -1,0 +1,3 @@
+person person to swaying  in half circles.#person/NOUN person/NOUN to/ADP sway/VERB in/ADP half/NOUN circle/NOUN#0.0#0.0
+a person leans back and shakes back and forth while angulating their hips.#a/DET person/NOUN lean/VERB back/ADP and/CCONJ shake/VERB back/ADV and/CCONJ forth/ADV while/SCONJ angulate/VERB their/DET hip/NOUN#1.0#8.0
+a person rocking their hips and back around.#a/DET person/NOUN rock/VERB their/DET hip/NOUN and/CCONJ back/ADV around/ADV#0.0#0.0

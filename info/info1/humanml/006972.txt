@@ -1,0 +1,3 @@
+the person is walking backwards pulling something.#the/DET person/NOUN is/AUX walk/VERB backwards/ADV pull/VERB something/PRON#0.0#0.0
+a man is walking around backwards whilst his hands are together in front of him#a/DET man/NOUN is/AUX walk/VERB around/ADP backwards/ADV whilst/SCONJ his/DET hand/NOUN are/AUX together/ADV in/ADP front/NOUN of/ADP him/PRON#0.0#0.0
+strafes counterclockwise relative to camera in one full circle, then reverses for one third circle. always faces toward camera with hands held forward.#strafe/NOUN counterclockwise/PROPN relative/ADJ to/ADP camera/NOUN in/ADP one/NUM full/ADJ circle/NOUN then/ADV reverse/VERB for/ADP one/NUM third/ADJ circle/NOUN always/ADV face/VERB toward/ADP camera/NOUN with/ADP hand/NOUN hold/VERB forward/ADV#0.0#0.0

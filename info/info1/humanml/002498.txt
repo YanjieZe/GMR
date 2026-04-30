@@ -1,0 +1,3 @@
+a person is walking while holding a hand rail#a/DET person/NOUN is/AUX walk/VERB while/SCONJ hold/VERB a/DET hand/NOUN rail/NOUN#0.0#0.0
+a person holds the handrail with his right arm while walking#a/DET person/NOUN hold/VERB the/DET handrail/NOUN with/ADP his/DET right/ADJ arm/NOUN while/SCONJ walk/VERB#0.0#0.0
+person moves forward two steps with right arm out to side#person/NOUN move/VERB forward/ADV two/NUM step/NOUN with/ADP right/ADJ arm/NOUN out/ADP to/PART side/VERB#0.0#0.0

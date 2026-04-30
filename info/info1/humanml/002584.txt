@@ -1,0 +1,3 @@
+a person stretching arm outs.#a/DET person/NOUN stretch/VERB arm/NOUN out/NOUN#0.0#0.0
+a person doing stretching exercises alternating the arms#a/DET person/NOUN do/VERB stretch/VERB exercise/NOUN alternate/VERB the/DET arm/NOUN#0.0#0.0
+a person waves with both hands#a/DET person/NOUN wave/VERB with/ADP both/DET hand/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+the person waddles low to the ground and then stands up and walks back.#the/DET person/NOUN waddle/VERB low/ADJ to/ADP the/DET ground/NOUN and/CCONJ then/ADV stand/VERB up/ADP and/CCONJ walk/VERB back/ADV#0.0#0.0
+he moves around  then stops#he/PRON move/VERB around/ADP then/ADV stop/VERB#0.0#0.0
+a person squatted down walks forward, stands, then walks backward.#a/DET person/NOUN squat/VERB down/ADP walk/VERB forward/ADV stand/VERB then/ADV walk/VERB backward/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person grabbed something and hit with it something#a/DET person/NOUN grab/VERB something/PRON and/CCONJ hit/VERB with/ADP it/PRON something/PRON#0.0#0.0
+a person standing with feet width apart face down looking at the ground hand on top of one another swinging arms back then forward with great force.#a/DET person/NOUN stand/VERB with/ADP foot/NOUN width/ADJ apart/ADV face/VERB down/ADP look/VERB at/ADP the/DET ground/NOUN hand/NOUN on/ADP top/NOUN of/ADP one/NOUN another/DET swinge/VERB arm/NOUN back/ADV then/ADV forward/ADV with/ADP great/ADJ force/NOUN#1.0#3.0
+a person swings his hands together like they are swinging a golf club#a/DET person/NOUN swing/VERB his/DET hand/NOUN together/ADV like/INTJ they/PRON are/AUX swinge/VERB a/DET golf/NOUN club/NOUN#0.0#0.0

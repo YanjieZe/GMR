@@ -1,0 +1,3 @@
+the person moves their hands as if looking for something in a refrigerator or cabinet.#the/DET person/NOUN move/VERB their/DET hand/NOUN as/SCONJ if/SCONJ look/VERB for/ADP something/PRON in/ADP a/DET refrigerator/NOUN or/CCONJ cabinet/NOUN#0.0#0.0
+stick figure using its hand to descride or motion someone#stick/PROPN figure/NOUN use/VERB its/DET hand/NOUN to/ADP descride/VERB or/CCONJ motion/VERB someone/PRON#1.0#10.0
+a person is talking and describing the subject with their hands.#a/DET person/NOUN is/AUX talk/VERB and/CCONJ describe/VERB the/DET subject/NOUN with/ADP their/DET hand/NOUN#0.0#0.0

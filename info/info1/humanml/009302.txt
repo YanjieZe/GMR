@@ -1,0 +1,3 @@
+person is running in place and then stands still#person/NOUN is/AUX run/VERB in/ADP place/NOUN and/CCONJ then/ADV stand/VERB still/ADV#0.0#0.0
+person is jogging in place.#person/NOUN is/AUX jog/VERB in/ADP place/NOUN#0.0#0.0
+a man is running in place.#a/DET man/NOUN is/AUX run/VERB in/ADP place/NOUN#0.0#0.0

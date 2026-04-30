@@ -1,0 +1,3 @@
+the person is rotating both of his arms forward.#the/DET person/NOUN is/AUX rotate/VERB both/DET of/ADP his/DET arm/NOUN forward/ADV#0.0#0.0
+person is rotating arms. first, rotates clockwise, then anticlockwise. appear to be warming up#person/NOUN is/AUX rotate/VERB arm/NOUN first/ADV rotate/NOUN clockwise/VERB then/ADV anticlockwise/NOUN appear/VERB to/PART be/AUX warm/VERB up/ADP#0.0#0.0
+a person is winding arms forward and backwards.#a/DET person/NOUN is/AUX wind/VERB arm/NOUN forward/ADV and/CCONJ backwards/ADV#0.0#0.0

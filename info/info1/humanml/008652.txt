@@ -1,0 +1,3 @@
+a person sits in place on an object.#a/DET person/NOUN sit/VERB in/ADP place/NOUN on/ADP an/DET object/NOUN#0.0#0.0
+the person was standing still#the/DET person/NOUN was/AUX stand/VERB still/ADV#0.0#0.0
+a person stands still with knees bent#a/DET person/NOUN stand/VERB still/ADV with/ADP knee/NOUN bent/ADJ#0.0#0.0

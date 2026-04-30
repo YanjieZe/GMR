@@ -1,0 +1,3 @@
+a person walking rolling both arms clockwise to warm up shoulders#a/DET person/NOUN walk/VERB roll/VERB both/DET arm/NOUN clockwise/NOUN to/PART warm/VERB up/ADP shoulder/NOUN#0.0#0.0
+a person walking around while stretching their arms.#a/DET person/NOUN walk/VERB around/ADV while/SCONJ stretch/VERB their/DET arm/NOUN#0.0#0.0
+man takes a step to the left then walks forward doing arm circles, then turns around and starts walking back.#man/NOUN take/VERB a/DET step/NOUN to/ADP the/DET left/NOUN then/ADV walk/VERB forward/ADV do/VERB arm/NOUN circle/NOUN then/ADV turn/VERB around/ADP and/CCONJ start/VERB walk/VERB back/ADV#0.0#0.0

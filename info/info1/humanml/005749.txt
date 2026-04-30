@@ -1,0 +1,3 @@
+a person moonwalks back and to the side, then moonwalks forward.#a/DET person/NOUN moonwalk/VERB back/ADV and/CCONJ to/ADP the/DET side/NOUN then/ADV moonwalk/NOUN forward/ADV#0.0#0.0
+a person is leaning forward and moving erratically while walking slowly.#a/DET person/NOUN is/AUX lean/VERB forward/ADV and/CCONJ move/VERB erratically/ADV while/SCONJ walk/VERB slowly/ADV#0.0#0.0
+a person walks slowly back and to the right then walks forward#a/DET person/NOUN walk/VERB slowly/ADV back/ADV and/CCONJ to/ADP the/DET right/NOUN then/ADV walk/VERB forward/ADV#0.0#0.0

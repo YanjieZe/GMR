@@ -1,0 +1,3 @@
+standing the right hand is raised with elbow bent to head level and then returned to starting position.#stand/VERB the/DET right/ADJ hand/NOUN is/AUX raise/VERB with/ADP elbow/PROPN bent/NOUN to/PART head/VERB level/NOUN and/CCONJ then/ADV return/VERB to/ADP start/VERB position/NOUN#0.0#0.0
+a person uses their right hand to take a drink.#a/DET person/NOUN use/VERB their/DET right/ADJ hand/NOUN to/PART take/VERB a/DET drink/NOUN#0.0#0.0
+a person raised the right hand#a/DET person/NOUN raise/VERB the/DET right/ADJ hand/NOUN#0.0#0.0

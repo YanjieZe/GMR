@@ -1,0 +1,3 @@
+the person is posing for a photograph.#the/DET person/NOUN is/AUX pose/VERB for/ADP a/DET photograph/NOUN#0.0#0.0
+the man raises his hands to his chest and claps them together.#the/DET man/NOUN raise/VERB his/DET hand/NOUN to/ADP his/DET chest/NOUN and/CCONJ clap/VERB them/PRON together/ADV#0.0#0.0
+a man stands and puts his hands together near the chest, starts to rub them and then lowers down his hands.#a/DET man/NOUN stand/VERB and/CCONJ put/VERB his/DET hand/NOUN together/ADV near/SCONJ the/DET chest/NOUN start/VERB to/PART rub/VERB them/PRON and/CCONJ then/ADV lower/VERB down/ADP his/DET hand/NOUN#0.0#0.0

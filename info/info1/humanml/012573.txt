@@ -1,0 +1,3 @@
+a man walks forward while using his right hands for stability.#a/DET man/NOUN walk/VERB forward/ADV while/SCONJ use/VERB his/DET right/ADJ hand/NOUN for/ADP stability/NOUN#0.0#0.0
+walking forward with arms outstretched.#walk/VERB forward/ADV with/ADP arm/NOUN outstretche/VERB#0.0#0.0
+a person walks forward with a cane.#a/DET person/NOUN walk/VERB forward/ADV with/ADP a/DET cane/NOUN#0.0#8.0

@@ -1,0 +1,3 @@
+a person jumps forward and kicks out with their right foot.#a/DET person/NOUN jump/VERB forward/ADV and/CCONJ kick/VERB out/ADP with/ADP their/DET right/ADJ foot/NOUN#0.0#0.0
+he does a jump kick#he/PRON does/AUX a/DET jump/NOUN kick/NOUN#0.0#0.0
+a person runs and does a jumping kick.#a/DET person/NOUN run/VERB and/CCONJ does/AUX a/DET jump/VERB kick/NOUN#0.0#0.0

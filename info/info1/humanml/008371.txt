@@ -1,0 +1,3 @@
+a man walks forward; right, left, right, left, right, left, moving three paces.#a/DET man/NOUN walk/VERB forward/ADV right/INTJ left/ADJ right/INTJ left/ADJ right/INTJ left/VERB move/VERB three/NUM pace/NOUN#0.0#0.0
+a man walks in a wavy line diagonally to his left#a/DET man/NOUN walk/VERB in/ADP a/DET wavy/ADJ line/NOUN diagonally/ADV to/ADP his/DET left/NOUN#1.0#4.0
+a person slowly walks forward with their arms swinging gently at their sides.#a/DET person/NOUN slowly/ADV walk/VERB forward/ADV with/ADP their/DET arm/NOUN swinge/VERB gently/ADV at/ADP their/DET side/NOUN#0.0#0.0

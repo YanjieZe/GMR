@@ -1,0 +1,3 @@
+the person is picking something up and squeezing it.#the/DET person/NOUN is/AUX pick/VERB something/PRON up/ADP and/CCONJ squeeze/VERB it/PRON#0.0#0.0
+a person adjusting a bow-tie#a/DET person/NOUN adjust/VERB a/DET bowtie/NOUN#5.0#8.0
+this person is putting his hands together.#this/DET person/NOUN is/AUX put/VERB his/DET hand/NOUN together/ADV#0.0#0.0

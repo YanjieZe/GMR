@@ -1,0 +1,3 @@
+swings right arm up to head#swing/NOUN right/ADV arm/NOUN up/ADP to/PART head/VERB#0.0#0.0
+a person waves their arms as they put their hand above their eyes.#a/DET person/NOUN wave/VERB their/DET arm/NOUN as/SCONJ they/PRON put/VERB their/DET hand/NOUN above/ADP their/DET eye/NOUN#0.0#0.0
+a man moves his right forearm slowly in a circular motion.#a/DET man/NOUN move/VERB his/DET right/ADJ forearm/NOUN slowly/ADV in/ADP a/DET circular/ADJ motion/NOUN#0.0#0.0

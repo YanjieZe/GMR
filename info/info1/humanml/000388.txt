@@ -1,0 +1,3 @@
+a person is standing and making a frustrated gesture.#a/DET person/NOUN is/AUX stand/VERB and/CCONJ make/VERB a/DET frustrated/ADJ gesture/NOUN#0.0#0.0
+a person swats their right hand while standing in place 3 times, then shrugs their shoulders#a/DET person/NOUN swat/VERB their/DET right/ADJ hand/NOUN while/SCONJ stand/VERB in/ADP place/NOUN time/NOUN then/ADV shrug/VERB their/DET shoulder/NOUN#0.0#0.0
+a person raises their arms, bends them at the elbows, and moves them up and down#a/DET person/NOUN raise/VERB their/DET arm/NOUN bend/VERB them/PRON at/ADP the/DET elbow/NOUN and/CCONJ move/VERB them/PRON up/ADP and/CCONJ down/ADV#0.0#0.0

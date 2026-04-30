@@ -1,0 +1,3 @@
+the person steps forward, then runs forward.#the/DET person/NOUN step/VERB forward/ADV then/ADV run/VERB forward/ADV#0.0#0.0
+a person runs forward, stops, and then runs forward again.#a/DET person/NOUN run/VERB forward/ADV stop/VERB and/CCONJ then/ADV run/VERB forward/ADV again/ADV#0.0#0.0
+a person runs, stops, and then runs again.#a/DET person/NOUN run/VERB stop/NOUN and/CCONJ then/ADV run/VERB again/ADV#0.0#0.0

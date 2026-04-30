@@ -1,0 +1,3 @@
+a person executes an uppercut punch with the right hand.#a/DET person/NOUN execute/VERB an/DET uppercut/ADJ punch/NOUN with/ADP the/DET right/ADJ hand/NOUN#0.0#0.0
+a person gives an uppercut with his right hand#a/DET person/NOUN give/VERB an/DET uppercut/NOUN with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+the man made an "uppercut" motion with his left arm rightwards.#the/DET man/NOUN make/VERB an/DET uppercut/ADJ motion/NOUN with/ADP his/DET left/ADJ arm/NOUN rightwards/ADP#0.0#0.0

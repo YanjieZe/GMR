@@ -1,0 +1,3 @@
+a person holds their hands up to their face while sitting down#a/DET person/NOUN hold/VERB their/DET hand/NOUN up/ADP to/ADP their/DET face/NOUN while/SCONJ sit/VERB down/ADP#0.0#0.0
+a person who is sitting is holding some kind of food in front of his face.#a/DET person/NOUN who/PRON is/AUX sit/VERB is/AUX hold/VERB some/DET kind/NOUN of/ADP food/NOUN in/ADP front/NOUN of/ADP his/DET face/NOUN#0.0#0.0
+the person sits down while eating a hamburger#the/DET person/NOUN sit/VERB down/ADP while/SCONJ eat/VERB a/DET hamburger/NOUN#0.0#0.0

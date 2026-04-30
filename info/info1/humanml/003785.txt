@@ -1,0 +1,3 @@
+a person is scrubbing a window#a/DET person/NOUN is/AUX scrub/VERB a/DET window/NOUN#0.0#0.0
+a man shakes his right arm and then puts something down.#a/DET man/NOUN shake/VERB his/DET right/ADJ arm/NOUN and/CCONJ then/ADV put/VERB something/PRON down/ADP#0.0#0.0
+person rotates hand in air lots of times then brings hand to right hip#person/NOUN rotate/VERB hand/NOUN in/ADP air/NOUN lot/NOUN of/ADP time/NOUN then/ADV bring/VERB hand/NOUN to/ADP right/ADJ hip/NOUN#0.0#0.0

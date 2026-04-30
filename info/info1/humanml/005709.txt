@@ -1,0 +1,3 @@
+a person unsurely walks forward in an crooked, diagonal line.#a/DET person/NOUN unsurely/ADV walk/VERB forward/ADV in/ADP an/DET crooked/ADJ diagonal/ADJ line/NOUN#0.0#0.0
+a person walking  forward in a relaxed way.#a/DET person/NOUN walk/VERB forward/ADV in/ADP a/DET relaxed/ADJ way/NOUN#0.0#0.0
+person is walking slowly diagonally.#person/NOUN is/AUX walk/VERB slowly/ADV diagonally/ADV#0.0#0.0

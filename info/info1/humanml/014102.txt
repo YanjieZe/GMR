@@ -1,0 +1,3 @@
+a person jogging in place.#a/DET person/NOUN jog/VERB in/ADP place/NOUN#0.0#0.0
+a person moves in a jogging motion in a counter clockwise circle.#a/DET person/NOUN move/VERB in/ADP a/DET jogging/ADJ motion/NOUN in/ADP a/DET counter/NOUN clockwise/NOUN circle/NOUN#0.0#0.0
+a person who is standing with his arms out from his sides looks forward while jogging in a small, counterclockwise circle.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP his/DET arm/NOUN out/ADV from/ADP his/DET side/NOUN look/VERB forward/ADV while/SCONJ jog/VERB in/ADP a/DET small/ADJ counterclockwise/ADJ circle/NOUN#0.0#0.0

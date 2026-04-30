@@ -1,0 +1,3 @@
+the body walks in a clockwise circle.#the/DET body/NOUN walk/VERB in/ADP a/DET clockwise/ADJ circle/NOUN#0.0#0.0
+man walks in a clockwise circle and retraces short of his original position.#man/NOUN walk/VERB in/ADP a/DET clockwise/ADJ circle/NOUN and/CCONJ retrace/NOUN short/ADJ of/ADP his/DET original/ADJ position/NOUN#2.0#7.0
+a person walks in a clockwise direction.#a/DET person/NOUN walk/VERB in/ADP a/DET clockwise/ADJ direction/NOUN#0.0#0.0

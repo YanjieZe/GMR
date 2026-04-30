@@ -1,0 +1,3 @@
+a person looks around then awkwardly waves with their right hand.#a/DET person/NOUN look/VERB around/ADP then/ADV awkwardly/ADV wave/NOUN with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+a person slightly lifts his right hand and adjusts their neck. the person then uses the right hand to make a "high-five" motion.#a/DET person/NOUN slightly/ADV lift/VERB his/DET right/ADJ hand/NOUN and/CCONJ adjust/VERB their/DET neck/NOUN the/DET person/NOUN then/ADV use/VERB the/DET right/ADJ hand/NOUN to/PART make/VERB a/DET highfive/ADJ motion/NOUN#0.0#0.0
+a person picks up his right hand.#a/DET person/NOUN pick/VERB up/ADP his/DET right/ADJ hand/NOUN#0.0#0.0

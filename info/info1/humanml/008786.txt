@@ -1,0 +1,3 @@
+waving hands while walking around.#wave/VERB hand/NOUN while/SCONJ walk/VERB around/ADV#0.0#0.0
+moving like a dancing on the floor.#move/VERB like/SCONJ a/DET dancing/NOUN on/ADP the/DET floor/NOUN#0.0#0.0
+kirsten is shaking his hands like he’s to arguing with someone.#kirsten/PROPN is/AUX shake/VERB his/DET hand/NOUN like/SCONJ he/PRON to/ADP argue/VERB with/ADP someone/PRON#0.0#0.0

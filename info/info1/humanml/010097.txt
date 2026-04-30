@@ -1,0 +1,3 @@
+the person is throwing with both hands.#the/DET person/NOUN is/AUX throw/VERB with/ADP both/DET hand/NOUN#0.0#0.0
+a person takes a step forward with right foot and has both hands over their head, throwing an object forward.#a/DET person/NOUN take/VERB a/DET step/NOUN forward/ADV with/ADP right/ADJ foot/NOUN and/CCONJ has/AUX both/DET hand/NOUN over/ADP their/DET head/NOUN throw/VERB an/DET object/NOUN forward/ADV#0.0#0.0
+a person hits an object over their head with both hands.#a/DET person/NOUN hit/VERB an/DET object/NOUN over/ADP their/DET head/NOUN with/ADP both/DET hand/NOUN#0.0#0.0

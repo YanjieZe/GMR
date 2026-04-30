@@ -1,0 +1,3 @@
+a person catches an object with both hands and runs forward slightly to his right.#a/DET person/NOUN catch/VERB an/DET object/NOUN with/ADP both/DET hand/NOUN and/CCONJ run/VERB forward/ADV slightly/ADV to/ADP his/DET right/NOUN#0.0#0.0
+someone driving down the lane#someone/PRON drive/VERB down/ADP the/DET lane/NOUN#0.0#0.0
+a person catches something and runs forward.#a/DET person/NOUN catch/VERB something/PRON and/CCONJ run/VERB forward/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a steps forward and then sprints forward.#a/DET step/NOUN forward/ADV and/CCONJ then/ADV sprint/VERB forward/ADV#0.0#0.0
+someone runs forward a few steps and then stops to stand still.#someone/PRON run/VERB forward/ADV a/DET few/ADJ step/NOUN and/CCONJ then/ADV stop/VERB to/PART stand/VERB still/ADV#0.0#0.0
+a person runs several steps forward.#a/DET person/NOUN run/VERB several/ADJ step/NOUN forward/ADV#0.0#0.0

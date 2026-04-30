@@ -1,0 +1,3 @@
+the person takes 3 steps and makes himself a drink with sugar.#the/DET person/NOUN take/VERB step/NOUN and/CCONJ make/VERB himself/PRON a/DET drink/NOUN with/ADP sugar/NOUN#0.0#0.0
+a person walks forward and pours something with their right and then stirs it.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ pour/VERB something/PRON with/ADP their/DET right/NOUN and/CCONJ then/ADV stir/VERB it/PRON#0.0#0.0
+a person walks up to a table, pours something and then puts a cover on it#a/DET person/NOUN walk/VERB up/ADP to/ADP a/DET table/NOUN pour/VERB something/PRON and/CCONJ then/ADV put/VERB a/DET cover/NOUN on/ADP it/PRON#0.0#0.0

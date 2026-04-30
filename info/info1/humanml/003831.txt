@@ -1,0 +1,3 @@
+a person swinging golf club or swinging and hitting ball with a bat.#a/DET person/NOUN swinge/VERB golf/NOUN club/NOUN or/CCONJ swinging/NOUN and/CCONJ hit/VERB ball/NOUN with/ADP a/DET bat/NOUN#0.0#0.0
+someone imitating a golf swing#someone/PRON imitate/VERB a/DET golf/NOUN swing/NOUN#0.0#0.0
+a man swings an object to the right with both of his hands.#a/DET man/NOUN swing/VERB an/DET object/NOUN to/ADP the/DET right/NOUN with/ADP both/DET of/ADP his/DET hand/NOUN#0.0#0.0

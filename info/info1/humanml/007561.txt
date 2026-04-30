@@ -1,0 +1,3 @@
+a man walks in a curve, then a straight line, then doubles back.#a/DET man/NOUN walk/VERB in/ADP a/DET curve/NOUN then/ADV a/DET straight/ADJ line/NOUN then/ADV double/VERB back/ADV#0.0#0.0
+a person walks to his right.#a/DET person/NOUN walk/VERB to/ADP his/DET right/NOUN#0.0#0.0
+a man walks forward, turns right and walks, stops, turns around and runs, stops again to turn around and runs again.#a/DET man/NOUN walk/VERB forward/ADV turn/VERB right/ADJ and/CCONJ walk/VERB stop/NOUN turn/VERB around/ADV and/CCONJ run/VERB stop/VERB again/ADV to/PART turn/VERB around/ADP and/CCONJ run/VERB again/ADV#0.0#0.0

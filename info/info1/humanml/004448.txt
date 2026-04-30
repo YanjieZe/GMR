@@ -1,0 +1,3 @@
+person does a walking handstand and then stands upright#person/NOUN does/AUX a/DET walk/VERB handstand/NOUN and/CCONJ then/ADV stand/VERB upright/ADJ#0.0#0.0
+a child attempts to showoff their novice breakdance skills by doing a handstand while kicking their legs to showoff their balance..#a/DET child/NOUN attempt/VERB to/PART showoff/VERB their/DET novice/NOUN breakdance/NOUN skill/NOUN by/ADP do/VERB a/DET handstand/NOUN while/SCONJ kick/VERB their/DET leg/NOUN to/PART showoff/VERB their/DET balance/NOUN#0.0#0.0
+a person is doing a handstand#a/DET person/NOUN is/AUX do/VERB a/DET handstand/NOUN#0.0#0.0

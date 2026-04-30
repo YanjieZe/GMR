@@ -1,0 +1,3 @@
+person trots forward and then turns around#person/NOUN trot/VERB forward/ADV and/CCONJ then/ADV turn/VERB around/ADV#0.0#0.0
+a stick figure without a head seems to be walking up a hill, and then turns around.#a/DET stick/NOUN figure/NOUN without/ADP a/DET head/NOUN seem/VERB to/PART be/AUX walk/VERB up/ADP a/DET hill/NOUN and/CCONJ then/ADV turn/VERB around/ADV#1.0#2.0
+a man steps backwards then turns around.#a/DET man/NOUN step/VERB backwards/ADV then/ADV turn/VERB around/ADV#0.0#0.0

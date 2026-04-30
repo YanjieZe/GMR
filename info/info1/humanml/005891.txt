@@ -1,0 +1,3 @@
+the man picks up a brushes nd brushes someone's hair then puts the brush back down.#the/DET man/NOUN pick/VERB up/ADP a/DET brush/NOUN nd/PROPN brush/VERB someone/PRON hair/NOUN then/ADV put/VERB the/DET brush/NOUN back/ADV down/ADV#0.0#0.0
+the person picks something up and uses it, and then returns it.#the/DET person/NOUN pick/VERB something/PRON up/ADP and/CCONJ use/VERB it/PRON and/CCONJ then/ADV return/VERB it/PRON#0.0#0.0
+a person grebbaed something and put it somewhere#a/DET person/NOUN grebbae/VERB something/PRON and/CCONJ put/VERB it/PRON somewhere/ADV#0.0#0.0

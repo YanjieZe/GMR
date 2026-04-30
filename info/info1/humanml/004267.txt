@@ -1,0 +1,3 @@
+a man runs over a bench and gets down twice.#a/DET man/NOUN run/VERB over/ADP a/DET bench/NOUN and/CCONJ get/VERB down/ADV twice/ADV#0.0#0.0
+a man runs up stairs and jumps to the ground.#a/DET man/NOUN run/VERB up/ADP stair/NOUN and/CCONJ jump/VERB to/ADP the/DET ground/NOUN#0.0#0.0
+the person is running and jumping.#the/DET person/NOUN is/AUX run/VERB and/CCONJ jump/VERB#0.0#0.0

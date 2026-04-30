@@ -1,0 +1,3 @@
+a person that is jogging in place.#a/DET person/NOUN that/DET is/AUX jog/VERB in/ADP place/NOUN#0.0#0.0
+person is running in place#person/NOUN is/AUX run/VERB in/ADP place/NOUN#0.0#0.0
+a person is jogging forward, their arms bounce as they jog.#a/DET person/NOUN is/AUX jog/VERB forward/ADV their/DET arm/NOUN bounce/NOUN as/SCONJ they/PRON jog/VERB#0.0#0.0

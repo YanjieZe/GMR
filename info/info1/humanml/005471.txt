@@ -1,0 +1,3 @@
+a person makes tiny steps in place with their hands over their head.#a/DET person/NOUN make/VERB tiny/ADJ step/NOUN in/ADP place/NOUN with/ADP their/DET hand/NOUN over/ADP their/DET head/NOUN#0.0#4.0
+a person dances rhythmically with their partner who leads the dance, and they execute a few spins.#a/DET person/NOUN dance/VERB rhythmically/ADV with/ADP their/DET partner/NOUN who/PRON lead/VERB the/DET dance/NOUN and/CCONJ they/PRON execute/VERB a/DET few/ADJ spin/NOUN#0.0#0.0
+the person is doing a salsa dance.#the/DET person/NOUN is/AUX do/VERB a/DET salsa/NOUN dance/NOUN#0.0#0.0

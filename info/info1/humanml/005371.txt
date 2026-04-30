@@ -1,0 +1,3 @@
+a person sits cross legged and then stands back up.#a/DET person/NOUN sit/VERB cross/PROPN legged/PROPN and/CCONJ then/ADV stand/VERB back/ADV up/ADV#0.0#0.0
+man sit down in a indian style position then stand back up.#man/INTJ sit/VERB down/ADP in/ADP a/DET indian/ADJ style/NOUN position/NOUN then/ADV stand/VERB back/ADV up/ADV#0.0#0.0
+a person sits down cross legged, then stands up.#a/DET person/NOUN sit/VERB down/ADP cross/NOUN legge/VERB then/ADV stand/VERB up/ADP#0.0#0.0

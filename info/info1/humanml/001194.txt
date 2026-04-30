@@ -1,0 +1,3 @@
+a person stretches their right arm above their head.#a/DET person/NOUN stretch/VERB their/DET right/ADJ arm/NOUN above/ADP their/DET head/NOUN#0.0#0.0
+a person has their right arm extended above their head and reaches it out to their left, stretching.#a/DET person/NOUN has/AUX their/DET right/ADJ arm/NOUN extend/VERB above/ADP their/DET head/NOUN and/CCONJ reach/VERB it/PRON out/ADP to/ADP their/DET left/NOUN stretch/VERB#0.0#0.0
+a person with right arm raised up and left arm at center reaches right hand over head.#a/DET person/NOUN with/ADP right/ADJ arm/NOUN raise/VERB up/ADP and/CCONJ left/VERB arm/NOUN at/ADP center/NOUN reach/VERB right/ADJ hand/NOUN over/ADP head/NOUN#0.0#1.0

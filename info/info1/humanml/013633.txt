@@ -1,0 +1,3 @@
+a person walks forward after appearing to lift something with their right hand and swinging their right arm slightly whilst walking.#a/DET person/NOUN walk/VERB forward/ADV after/ADP appear/VERB to/PART lift/VERB something/PRON with/ADP their/DET right/ADJ hand/NOUN and/CCONJ swinge/VERB their/DET right/ADJ arm/NOUN slightly/ADV whilst/SCONJ walk/VERB#0.0#0.0
+a person reaches over picks something up with left hand abd walks away.#a/DET person/NOUN reach/VERB over/ADP pick/NOUN something/PRON up/ADP with/ADP left/ADJ hand/NOUN abd/PROPN walk/VERB away/ADV#0.0#0.0
+the person was lifting a bunch of weights.#the/DET person/NOUN was/AUX lift/VERB a/DET bunch/NOUN of/ADP weight/NOUN#0.0#0.0

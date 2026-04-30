@@ -1,0 +1,3 @@
+a person lifts his arms to the side then down and back up#a/DET person/NOUN lift/VERB his/DET arm/NOUN to/ADP the/DET side/NOUN then/ADV down/ADV and/CCONJ back/VERB up/ADP#0.0#0.0
+a person puts their arms out to the side then on their hips then back out to their sides#a/DET person/NOUN put/VERB their/DET arm/NOUN out/SCONJ to/ADP the/DET side/NOUN then/ADV on/ADP their/DET hip/NOUN then/ADV back/ADV out/ADP to/ADP their/DET side/NOUN#0.0#0.0
+he put his hands on this thighs.#he/PRON put/VERB his/DET hand/NOUN on/ADP this/DET thigh/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+person raises right arms in waving motion#person/NOUN raise/VERB right/ADJ arm/NOUN in/ADP wave/VERB motion/NOUN#0.0#0.0
+a person waving with right hand.#a/DET person/NOUN wave/VERB with/ADP right/ADJ hand/NOUN#0.0#0.0
+a person waves their right hand#a/DET person/NOUN wave/VERB their/DET right/ADJ hand/NOUN#0.0#0.0

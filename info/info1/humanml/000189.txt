@@ -1,0 +1,3 @@
+a figure walking in a straight line, swinging their left arm far greater than the right arm.#a/DET figure/NOUN walk/VERB in/ADP a/DET straight/ADJ line/NOUN swinge/VERB their/DET left/ADJ arm/NOUN far/ADV greater/ADJ than/SCONJ the/DET right/ADJ arm/NOUN#0.0#0.0
+someone walking forward with their arms swinging#someone/PRON walk/VERB forward/ADV with/ADP their/DET arm/NOUN swinge/VERB#0.0#0.0
+someone is walking with both of their hands swinging by their side.#someone/PRON is/AUX walk/VERB with/ADP both/DET of/ADP their/DET hand/NOUN swinge/VERB by/ADP their/DET side/NOUN#0.0#0.0

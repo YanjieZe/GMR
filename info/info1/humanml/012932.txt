@@ -1,0 +1,3 @@
+robot opened his right arm, start touching handrail and walking forward.#robot/PROPN open/VERB his/DET right/ADJ arm/NOUN start/VERB touch/VERB handrail/NOUN and/CCONJ walk/VERB forward/ADV#0.0#0.0
+a person walks forward while having their right arm out to the side.#a/DET person/NOUN walk/VERB forward/ADV while/SCONJ have/VERB their/DET right/ADJ arm/NOUN out/ADP to/ADP the/DET side/NOUN#0.0#0.0
+a person raises their right hand and walks forward.#a/DET person/NOUN raise/VERB their/DET right/ADJ hand/NOUN and/CCONJ walk/VERB forward/ADV#0.0#0.0

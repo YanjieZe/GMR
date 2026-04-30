@@ -1,0 +1,3 @@
+someone with outstretched arms spins clockwise#someone/PRON with/ADP outstretched/ADJ arm/NOUN spin/NOUN clockwise/VERB#0.0#0.0
+the person spins their body very fast#the/DET person/NOUN spin/VERB their/DET body/NOUN very/ADV fast/ADV#0.0#0.0
+a person spins in circles with their arms out.#a/DET person/NOUN spin/VERB in/ADP circle/NOUN with/ADP their/DET arm/NOUN out/ADP#0.0#0.0

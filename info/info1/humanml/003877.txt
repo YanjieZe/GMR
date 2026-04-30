@@ -1,0 +1,3 @@
+a person bends forward at the waist, walking forward and flapping hands back and forth behind their body.#a/DET person/NOUN bend/VERB forward/ADV at/ADP the/DET waist/NOUN walk/VERB forward/ADV and/CCONJ flap/VERB hand/NOUN back/ADV and/CCONJ forth/ADV behind/ADP their/DET body/NOUN#0.0#0.0
+a person moving forward while bending over and waving their arm behind their back.#a/DET person/NOUN move/VERB forward/ADV while/SCONJ bend/VERB over/ADV and/CCONJ wave/VERB their/DET arm/NOUN behind/ADP their/DET back/NOUN#0.0#10.0
+a man leans forward, then flaps his arms like a chicken.#a/DET man/NOUN lean/VERB forward/ADV then/ADV flap/VERB his/DET arm/NOUN like/SCONJ a/DET chicken/NOUN#0.0#0.0

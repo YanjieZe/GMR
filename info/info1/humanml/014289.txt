@@ -1,0 +1,3 @@
+the man is walking straight backwards#the/DET man/NOUN is/AUX walk/VERB straight/ADV backwards/ADV#0.0#0.0
+a person walks backwards in a straight line#a/DET person/NOUN walk/VERB backwards/ADV in/ADP a/DET straight/ADJ line/NOUN#0.0#0.0
+the man takes 5 steps backwards.#the/DET man/NOUN take/VERB step/NOUN backwards/ADV#0.0#0.0

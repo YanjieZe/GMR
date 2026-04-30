@@ -1,0 +1,3 @@
+person is standing with shoulders slumped and looking lazy#person/NOUN is/AUX stand/VERB with/ADP shoulder/NOUN slump/VERB and/CCONJ look/VERB lazy/ADJ#0.0#0.0
+a figure sways imposing their bulk.#a/DET figure/NOUN sway/VERB impose/VERB their/DET bulk/NOUN#0.0#0.0
+person just stumbles forwards and then backwards.#person/NOUN just/ADV stumble/NOUN forwards/ADV and/CCONJ then/ADV backwards/ADV#0.0#0.0

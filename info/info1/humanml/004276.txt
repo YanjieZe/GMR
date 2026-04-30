@@ -1,0 +1,3 @@
+a person raises both hands, then just left, then right, then left again#a/DET person/NOUN raise/VERB both/DET hand/NOUN then/ADV just/ADV left/VERB then/ADV right/INTJ then/ADV left/VERB again/ADV#0.0#0.0
+the person is putting both arms up and waves his arms.#the/DET person/NOUN is/AUX put/VERB both/DET arm/NOUN up/ADP and/CCONJ wave/VERB his/DET arm/NOUN#0.0#0.0
+a person waves arms above head and then left arm up followed by right arm up.#a/DET person/NOUN wave/VERB arm/NOUN above/ADP head/NOUN and/CCONJ then/ADV left/VERB arm/NOUN up/ADP follow/VERB by/ADP right/ADJ arm/NOUN up/ADP#0.0#0.0

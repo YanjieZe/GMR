@@ -1,0 +1,3 @@
+a person bowing down like in a theater play#a/DET person/NOUN bow/VERB down/ADP like/INTJ in/ADP a/DET theater/NOUN play/NOUN#0.0#0.0
+the man does a formal bow.#the/DET man/NOUN does/AUX a/DET formal/ADJ bow/NOUN#0.0#0.0
+a man bows his head and body.#a/DET man/NOUN bow/VERB his/DET head/NOUN and/CCONJ body/NOUN#0.0#0.0

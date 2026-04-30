@@ -1,0 +1,3 @@
+a person is sitting down with their arms on their knees#a/DET person/NOUN is/AUX sit/VERB down/ADP with/ADP their/DET arm/NOUN on/ADP their/DET knee/NOUN#0.0#0.0
+the man sits down then stands up#the/DET man/NOUN sit/VERB down/ADP then/ADV stand/VERB up/ADP#0.0#0.0
+a sitting person looks left, looks right, and then looks left again.#a/DET sit/VERB person/NOUN look/VERB left/VERB look/VERB right/ADJ and/CCONJ then/ADV look/VERB left/VERB again/ADV#0.0#0.0

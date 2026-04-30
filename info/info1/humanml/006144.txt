@@ -1,0 +1,3 @@
+person starts to hesitantly walk backwards until the they stand still.#person/NOUN start/VERB to/PART hesitantly/ADV walk/VERB backwards/ADV until/ADP the/DET they/PRON stand/VERB still/ADV#0.0#0.0
+a person takes a few steps backwards, and then carefully takes more steps backwards while ascending.#a/DET person/NOUN take/VERB a/DET few/ADJ step/NOUN backwards/ADV and/CCONJ then/ADV carefully/ADV take/VERB more/ADJ step/NOUN backwards/ADV while/SCONJ ascend/VERB#0.0#0.0
+a man walks backwards and then up some stairs.#a/DET man/NOUN walk/VERB backwards/ADV and/CCONJ then/ADV up/ADP some/DET stair/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+this person is standing, slightly bent forward and appears to be organizing.#this/DET person/NOUN is/AUX stand/VERB slightly/ADV bent/ADJ forward/ADV and/CCONJ appear/VERB to/PART be/AUX organize/VERB#0.0#0.0
+moving hand forward in a circular motion.#move/VERB hand/NOUN forward/ADV in/ADP a/DET circular/ADJ motion/NOUN#0.0#0.0
+the person is drying off the right arm.#the/DET person/NOUN is/AUX dry/VERB off/ADP the/DET right/ADJ arm/NOUN#0.0#0.0

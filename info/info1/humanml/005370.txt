@@ -1,0 +1,3 @@
+the man standing still for a photograph.#the/DET man/NOUN stand/VERB still/ADV for/ADP a/DET photograph/NOUN#0.0#0.0
+a person who is standing with his hands by his hips raises his right arm and points his hand forward, then lowers his arm to his original stance.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP his/DET hand/NOUN by/ADP his/DET hip/NOUN raise/VERB his/DET right/ADJ arm/NOUN and/CCONJ point/VERB his/DET hand/NOUN forward/ADV then/ADV lower/VERB his/DET arm/NOUN to/ADP his/DET original/ADJ stance/NOUN#0.0#0.0
+the person reaches out with their right hand and puts the hand back down.#the/DET person/NOUN reach/VERB out/ADP with/ADP their/DET right/ADJ hand/NOUN and/CCONJ put/VERB the/DET hand/NOUN back/ADV down/ADV#0.0#0.0

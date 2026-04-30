@@ -1,0 +1,3 @@
+a person places a cup into a bowl#a/DET person/NOUN place/VERB a/DET cup/NOUN into/ADP a/DET bowl/NOUN#0.0#0.0
+a person steps forward picks something up and sets it down.#a/DET person/NOUN step/VERB forward/ADV pick/VERB something/PRON up/ADP and/CCONJ set/VERB it/PRON down/ADP#0.0#0.0
+a figure walks forward and seems to press a button on a counter#a/DET figure/NOUN walk/VERB forward/ADV and/CCONJ seem/VERB to/PART press/VERB a/DET button/NOUN on/ADP a/DET counter/NOUN#0.0#0.0

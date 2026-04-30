@@ -1,0 +1,3 @@
+person has hands on their knees and then brings arms up .#person/NOUN has/AUX hand/NOUN on/ADP their/DET knee/NOUN and/CCONJ then/ADV bring/VERB arm/NOUN up/ADP#0.0#0.0
+person has hands on knees and puts arms out to sides#person/NOUN has/AUX hand/NOUN on/ADP knee/NOUN and/CCONJ put/VERB arm/NOUN out/ADV to/ADP side/NOUN#0.0#0.0
+he stood in a squated stance before raising both of his arms.#he/PRON stand/VERB in/ADP a/DET squat/VERB stance/NOUN before/ADP raise/VERB both/DET of/ADP his/DET arm/NOUN#0.0#0.0

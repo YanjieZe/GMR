@@ -1,0 +1,3 @@
+a figure calls to someone in the distance in exasperation#a/DET figure/NOUN call/VERB to/ADP someone/PRON in/ADP the/DET distance/NOUN in/ADP exasperation/NOUN#0.0#0.0
+person is shouting and communicating with hand gestures#person/NOUN is/AUX shout/VERB and/CCONJ communicate/VERB with/ADP hand/NOUN gesture/NOUN#0.0#0.0
+figure appears to be explaining something with hand gestures#figure/NOUN appear/VERB to/PART be/AUX explain/VERB something/PRON with/ADP hand/NOUN gesture/NOUN#0.0#0.0

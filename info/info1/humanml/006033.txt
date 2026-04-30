@@ -1,0 +1,3 @@
+moving the hands and littly  band the legs and move front.#move/VERB the/DET hand/NOUN and/CCONJ littly/ADV band/VERB the/DET leg/NOUN and/CCONJ move/NOUN front/ADV#0.0#0.0
+person moves by twitching both arms in a robotic way#person/NOUN move/VERB by/ADP twitch/VERB both/DET arm/NOUN in/ADP a/DET robotic/ADJ way/NOUN#0.0#0.0
+person is doing robotic like movements#person/NOUN is/AUX do/VERB robotic/ADJ like/SCONJ movement/NOUN#0.0#0.0

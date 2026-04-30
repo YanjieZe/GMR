@@ -1,0 +1,3 @@
+a man continuing bending forward at the waist with his arms dangling in front of him.#a/DET man/NOUN continue/VERB bend/VERB forward/ADV at/ADP the/DET waist/NOUN with/ADP his/DET arm/NOUN dangle/VERB in/ADP front/NOUN of/ADP him/PRON#0.0#0.0
+stretching while standing still.#stretch/VERB while/SCONJ stand/VERB still/ADV#0.0#0.0
+the sim is standing at a crouch, shaking both arms in front of them in a defensive position.#the/DET sim/PROPN is/AUX stand/VERB at/ADP a/DET crouch/NOUN shake/VERB both/DET arm/NOUN in/ADP front/NOUN of/ADP them/PRON in/ADP a/DET defensive/ADJ position/NOUN#0.0#10.0

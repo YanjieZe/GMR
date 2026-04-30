@@ -1,0 +1,3 @@
+a person stretches to their left, stretches down then interlaces their fingers and stretches upwards.#a/DET person/NOUN stretch/VERB to/ADP their/DET left/NOUN stretch/VERB down/ADV then/ADV interlace/VERB their/DET finger/NOUN and/CCONJ stretch/NOUN upwards/ADV#0.0#0.0
+a person raised the hands and start warm up#a/DET person/NOUN raise/VERB the/DET hand/NOUN and/CCONJ start/VERB warm/ADJ up/ADP#0.0#0.0
+the person is stretching their body.#the/DET person/NOUN is/AUX stretch/VERB their/DET body/NOUN#0.0#0.0

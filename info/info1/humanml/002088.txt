@@ -1,0 +1,3 @@
+a person is cleaning a window#a/DET person/NOUN is/AUX clean/VERB a/DET window/NOUN#0.0#0.0
+a person raises their hand to their ear.#a/DET person/NOUN raise/VERB their/DET hand/NOUN to/ADP their/DET ear/NOUN#0.0#0.0
+a figure performs a lifting motion with its left arm, leaning slightly#a/DET figure/NOUN perform/VERB a/DET lifting/NOUN motion/NOUN with/ADP its/DET left/ADJ arm/NOUN lean/VERB slightly/ADV#0.0#0.0

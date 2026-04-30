@@ -1,0 +1,3 @@
+a person lifts his forearms like he is lifting weights. he does this three times.#a/DET person/NOUN lift/VERB his/DET forearm/NOUN like/SCONJ he/PRON is/AUX lift/VERB weight/NOUN he/PRON does/AUX this/DET three/NUM time/NOUN#0.0#0.0
+a person lifts an object from waist height to their chest three times.#a/DET person/NOUN lift/VERB an/DET object/NOUN from/ADP waist/NOUN height/NOUN to/ADP their/DET chest/NOUN three/NUM time/NOUN#0.0#0.0
+a man is standing and doing elbow curls with imaginary weights.#a/DET man/NOUN is/AUX stand/VERB and/CCONJ do/VERB elbow/ADJ curl/NOUN with/ADP imaginary/ADJ weight/NOUN#0.0#0.0

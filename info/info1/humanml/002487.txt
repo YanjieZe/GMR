@@ -1,0 +1,3 @@
+a person throws their hand up forward then claps.#a/DET person/NOUN throw/VERB their/DET hand/NOUN up/ADP forward/ADV then/ADV clap/NOUN#0.0#0.0
+raise right arm, wind back elbow and right shoulder, swing arm forward while rotating hips.#raise/VERB right/ADJ arm/NOUN wind/VERB back/ADP elbow/NOUN and/CCONJ right/ADJ shoulder/NOUN swing/VERB arm/NOUN forward/ADV while/SCONJ rotate/VERB hip/NOUN#0.0#0.0
+person is throwing baseball.#person/NOUN is/AUX throw/VERB baseball/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person jumps lifting his hands in the air .#a/DET person/NOUN jump/VERB lift/VERB his/DET hand/NOUN in/ADP the/DET air/NOUN#0.0#0.0
+a person jump up high#a/DET person/NOUN jump/VERB up/ADP high/ADV#0.0#0.0
+a person is jumping in the air.#a/DET person/NOUN is/AUX jump/VERB in/ADP the/DET air/NOUN#0.0#0.0

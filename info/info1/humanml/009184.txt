@@ -1,0 +1,3 @@
+a person raises both hands and places them in front of themselves#a/DET person/NOUN raise/VERB both/DET hand/NOUN and/CCONJ place/VERB them/PRON in/ADP front/NOUN of/ADP themselves/PRON#0.0#0.0
+a person puts his hands together in front of him then rests them on his side#a/DET person/NOUN put/VERB his/DET hand/NOUN together/ADV in/ADP front/NOUN of/ADP him/PRON then/ADV rest/VERB them/PRON on/ADP his/DET side/NOUN#0.0#0.0
+a person grabs their wrist as if to look at the time on their watch.#a/DET person/NOUN grab/VERB their/DET wrist/NOUN as/SCONJ if/SCONJ to/PART look/VERB at/ADP the/DET time/NOUN on/ADP their/DET watch/NOUN#0.0#0.0

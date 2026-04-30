@@ -1,0 +1,3 @@
+this person sits crossed leg on the floor then stands up.#this/DET person/NOUN sit/VERB cross/VERB leg/NOUN on/ADP the/DET floor/NOUN then/ADV stand/VERB up/ADP#0.0#0.0
+a person sat down with his legs crossed.#a/DET person/NOUN sit/VERB down/ADP with/ADP his/DET leg/NOUN cross/VERB#0.0#0.0
+a stick figure decides to sit down from a standing position into a pretzel-style.#a/DET stick/NOUN figure/NOUN decide/VERB to/PART sit/VERB down/ADP from/ADP a/DET stand/VERB position/NOUN into/ADP a/DET pretzelstyle/NOUN#0.0#0.0

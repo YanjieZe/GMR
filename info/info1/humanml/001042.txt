@@ -1,0 +1,3 @@
+a person is performing a partner dance.#a/DET person/NOUN is/AUX perform/VERB a/DET partner/NOUN dance/NOUN#0.0#0.0
+person is practicing dancing with a partner#person/NOUN is/AUX practice/VERB dance/VERB with/ADP a/DET partner/NOUN#0.0#0.0
+a person is dancing in a twirling motion while holding their arms up as if they were dancing with a partner.#a/DET person/NOUN is/AUX dance/VERB in/ADP a/DET twirling/NOUN motion/NOUN while/SCONJ hold/VERB their/DET arm/NOUN up/ADP as/SCONJ if/SCONJ they/PRON were/AUX dance/VERB with/ADP a/DET partner/NOUN#0.0#0.0

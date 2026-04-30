@@ -1,0 +1,3 @@
+a person lifts up both arms in unison and drops them, repeatedly.#a/DET person/NOUN lift/VERB up/ADP both/DET arm/NOUN in/ADP unison/PROPN and/CCONJ drop/VERB them/PRON repeatedly/ADV#0.0#0.0
+a person lifts something in both hands at the same time.#a/DET person/NOUN lift/VERB something/PRON in/ADP both/DET hand/NOUN at/ADP the/DET same/ADJ time/NOUN#0.0#0.0
+a person puts his arms up and down twice as if lifting dumbbells.#a/DET person/NOUN put/VERB his/DET arm/NOUN up/ADP and/CCONJ down/ADV twice/ADV as/SCONJ if/SCONJ lift/VERB dumbbell/NOUN#0.0#0.0

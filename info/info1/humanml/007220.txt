@@ -1,0 +1,3 @@
+a person shivers with their arms, then cuts wood, and finally makes a swimming motion.#a/DET person/NOUN shiver/VERB with/ADP their/DET arm/NOUN then/ADV cut/VERB wood/NOUN and/CCONJ finally/ADV make/VERB a/DET swimming/NOUN motion/NOUN#0.0#0.0
+the person wants to go on a vacation.#the/DET person/NOUN want/VERB to/PART go/VERB on/ADP a/DET vacation/NOUN#0.0#0.0
+a person appears to be describing a story with a series of enthusiastic hand motions.#a/DET person/NOUN appear/VERB to/PART be/AUX describe/VERB a/DET story/NOUN with/ADP a/DET series/NOUN of/ADP enthusiastic/ADJ hand/NOUN motion/NOUN#0.0#0.0

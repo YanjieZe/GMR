@@ -1,0 +1,3 @@
+a person is bent over, holding their left knee, and trying to stretch it out.#a/DET person/NOUN is/AUX bent/ADJ over/ADP hold/VERB their/DET left/ADJ knee/NOUN and/CCONJ try/VERB to/PART stretch/VERB it/PRON out/ADP#0.0#0.0
+a person holds their left kneee as if it's hurt.#a/DET person/NOUN hold/VERB their/DET left/ADJ kneee/PROPN as/SCONJ if/SCONJ it/PRON hurt/VERB#0.0#0.0
+a person is bend over with both hands together.#a/DET person/NOUN is/AUX bend/NOUN over/ADP with/ADP both/DET hand/NOUN together/ADV#0.0#0.0

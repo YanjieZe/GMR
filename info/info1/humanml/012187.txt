@@ -1,0 +1,3 @@
+the person is doing the salsa dance.#the/DET person/NOUN is/AUX do/VERB the/DET salsa/NOUN dance/NOUN#0.0#0.0
+a person dances the salsa.#a/DET person/NOUN dance/VERB the/DET salsa/NOUN#0.0#0.0
+a man holds his hands together in front of his chest, before dancing forward and moving his hands in small circles in front of his body.#a/DET man/NOUN hold/VERB his/DET hand/NOUN together/ADV in/ADP front/NOUN of/ADP his/DET chest/NOUN before/ADP dance/VERB forward/ADV and/CCONJ move/VERB his/DET hand/NOUN in/ADP small/ADJ circle/NOUN in/ADP front/NOUN of/ADP his/DET body/NOUN#0.0#4.5

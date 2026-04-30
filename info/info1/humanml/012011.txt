@@ -1,0 +1,3 @@
+a person moves in clockwise direction#a/DET person/NOUN move/VERB in/ADP clockwise/ADJ direction/NOUN#0.0#10.0
+the person is walking in a clockwise circle.#the/DET person/NOUN is/AUX walk/VERB in/ADP a/DET clockwise/ADJ circle/NOUN#0.0#0.0
+person walks in a clockwise three quarter circle#person/NOUN walk/VERB in/ADP a/DET clockwise/ADJ three/NUM quarter/NOUN circle/NOUN#0.0#0.0

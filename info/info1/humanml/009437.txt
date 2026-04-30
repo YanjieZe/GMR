@@ -1,0 +1,3 @@
+a person walks quickly sideways leading with right leg.#a/DET person/NOUN walk/VERB quickly/ADV sideways/ADV lead/VERB with/ADP right/ADJ leg/NOUN#0.0#1.0
+the character is crouching down and shuffling.#the/DET character/NOUN is/AUX crouch/VERB down/ADP and/CCONJ shuffle/VERB#0.0#1.0
+a person is running to the left#a/DET person/NOUN is/AUX run/VERB to/ADP the/DET left/NOUN#0.0#0.0

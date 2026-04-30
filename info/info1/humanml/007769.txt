@@ -1,0 +1,3 @@
+man stands up bend body forward, bend body backward and position bend body back in a  straight upward position repeats the same maneuver again.#man/NOUN stand/VERB up/ADP bend/NOUN body/NOUN forward/ADV bend/VERB body/NOUN backward/ADV and/CCONJ position/NOUN bend/NOUN body/NOUN back/ADV in/ADP a/DET straight/ADV upward/ADJ position/NOUN repeat/VERB the/DET same/ADJ maneuver/NOUN again/ADV#0.0#0.0
+the person repeatedly stands up and bows.#the/DET person/NOUN repeatedly/ADV stand/VERB up/ADP and/CCONJ bow/NOUN#0.0#0.0
+bending down multiple times.#bend/VERB down/ADP multiple/ADJ time/NOUN#0.0#0.0

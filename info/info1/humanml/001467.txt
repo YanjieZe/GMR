@@ -1,0 +1,3 @@
+person side steps to the left and then sits down. then, gets back up#person/NOUN side/NOUN step/NOUN to/ADP the/DET left/NOUN and/CCONJ then/ADV sit/VERB down/ADP then/ADV get/VERB back/ADV up/ADV#0.0#0.0
+a person sits down and then gets up and goes back to the same place#a/DET person/NOUN sit/VERB down/ADV and/CCONJ then/ADV get/VERB up/ADV and/CCONJ go/VERB back/ADV to/ADP the/DET same/ADJ place/NOUN#0.0#0.0
+a person sidesteps right to an armchair, sits for a moment, and then stands and sidesteps back to the left.#a/DET person/NOUN sidestep/VERB right/ADV to/ADP an/DET armchair/NOUN sit/VERB for/ADP a/DET moment/NOUN and/CCONJ then/ADV stand/VERB and/CCONJ sidestep/VERB back/ADV to/ADP the/DET left/NOUN#0.0#0.0

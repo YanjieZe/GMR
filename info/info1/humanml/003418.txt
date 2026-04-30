@@ -1,0 +1,3 @@
+a person runs in a corcle clockwise then counter clockwise.#a/DET person/NOUN run/VERB in/ADP a/DET corcle/NOUN clockwise/NOUN then/ADV counter/ADV clockwise/NOUN#0.0#0.0
+a person jogs around in a circle#a/DET person/NOUN jog/VERB around/ADV in/ADP a/DET circle/NOUN#0.0#0.0
+a person runs carefully in a counter clockwise circle, stops, then turns around and runs in a clockwise circle.#a/DET person/NOUN run/VERB carefully/ADV in/ADP a/DET counter/NOUN clockwise/NOUN circle/NOUN stop/VERB then/ADV turn/VERB around/ADP and/CCONJ run/VERB in/ADP a/DET clockwise/ADJ circle/NOUN#0.0#0.0

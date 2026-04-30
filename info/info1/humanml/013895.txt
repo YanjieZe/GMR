@@ -1,0 +1,3 @@
+person picks up something and looks at it#person/NOUN pick/VERB up/ADP something/PRON and/CCONJ look/VERB at/ADP it/PRON#0.0#0.0
+the person is looking at something through their camera.#the/DET person/NOUN is/AUX look/VERB at/ADP something/PRON through/ADP their/DET camera/NOUN#0.0#0.0
+a man lifts his right hand up for a moment and then lowers it down.#a/DET man/NOUN lift/VERB his/DET right/ADJ hand/NOUN up/ADP for/ADP a/DET moment/NOUN and/CCONJ then/ADV lower/VERB it/PRON down/ADP#0.0#0.0

@@ -1,0 +1,3 @@
+a person starts to jog slowly then begins slowing even more to a walk then a complete stop#a/DET person/NOUN start/VERB to/ADP jog/PROPN slowly/ADV then/ADV begin/VERB slow/VERB even/ADV more/ADV to/ADP a/DET walk/NOUN then/ADV a/DET complete/ADJ stop/NOUN#0.0#0.0
+a man who is running straight forward.#a/DET man/NOUN who/PRON is/AUX run/VERB straight/ADV forward/ADV#0.0#0.0
+a person runs forward for a second and then slows to a walk continue the movement forward.#a/DET person/NOUN run/VERB forward/ADV for/ADP a/DET second/NOUN and/CCONJ then/ADV slow/VERB to/ADP a/DET walk/NOUN continue/VERB the/DET movement/NOUN forward/ADV#0.0#0.0

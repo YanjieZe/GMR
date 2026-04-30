@@ -1,0 +1,3 @@
+a person is coughing into their hand#a/DET person/NOUN is/AUX cough/VERB into/ADP their/DET hand/NOUN#0.0#0.0
+a person hunches over, resting their left hand on their knee, holding their right hand up to their face as they cough.#a/DET person/NOUN hunch/VERB over/ADP rest/VERB their/DET left/ADJ hand/NOUN on/ADP their/DET knee/NOUN hold/VERB their/DET right/ADJ hand/NOUN up/ADP to/ADP their/DET face/NOUN as/SCONJ they/PRON cough/VERB#0.0#0.0
+a man is bending over and holding his hand in front of him.#a/DET man/NOUN is/AUX bend/VERB over/ADP and/CCONJ hold/VERB his/DET hand/NOUN in/ADP front/NOUN of/ADP him/PRON#0.0#0.0

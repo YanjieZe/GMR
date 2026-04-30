@@ -1,0 +1,3 @@
+a person swings their arms back and forward at opposite intervals, while stepping from side to side starting with their right leg#a/DET person/NOUN swing/VERB their/DET arm/NOUN back/ADV and/CCONJ forward/ADV at/ADP opposite/ADJ interval/NOUN while/SCONJ step/VERB from/ADP side/NOUN to/ADP side/VERB start/VERB with/ADP their/DET right/ADJ leg/NOUN#0.0#0.0
+a person walking around dancing with shoulder, arms and legs.#a/DET person/NOUN walk/VERB around/ADP dance/VERB with/ADP shoulder/NOUN arm/NOUN and/CCONJ leg/NOUN#0.0#0.0
+a person moving their left and right leg in a slow motion as if doing a dance.#a/DET person/NOUN move/VERB their/DET left/ADJ and/CCONJ right/ADJ leg/NOUN in/ADP a/DET slow/ADJ motion/NOUN as/SCONJ if/SCONJ do/VERB a/DET dance/NOUN#0.0#0.0

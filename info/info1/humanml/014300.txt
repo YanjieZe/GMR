@@ -1,0 +1,3 @@
+a person quickly rubs their fingers together before lowering their arms and then raising their red arm to motion to somebody to stop.#a/DET person/NOUN quickly/ADV rub/VERB their/DET finger/NOUN together/ADV before/ADP lower/VERB their/DET arm/NOUN and/CCONJ then/ADV raise/VERB their/DET red/ADJ arm/NOUN to/ADP motion/NOUN to/ADP somebody/PRON to/PART stop/VERB#0.0#0.0
+the the person raises their arms slightly while sitting down#the/DET the/DET person/NOUN raise/VERB their/DET arm/NOUN slightly/ADV while/SCONJ sit/VERB down/ADP#0.0#0.0
+a person squats and then puts their hand up in a stop motion#a/DET person/NOUN squat/VERB and/CCONJ then/ADV put/VERB their/DET hand/NOUN up/ADP in/ADP a/DET stop/NOUN motion/NOUN#3.0#10.0

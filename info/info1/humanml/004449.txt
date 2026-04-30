@@ -1,0 +1,3 @@
+a man stretches his leg.#a/DET man/NOUN stretch/VERB his/DET leg/NOUN#0.0#0.0
+person does squats on their back lag and extends their left leg forward#person/NOUN does/AUX squat/NOUN on/ADP their/DET back/NOUN lag/NOUN and/CCONJ extend/VERB their/DET left/ADJ leg/NOUN forward/ADV#0.0#3.0
+a person bends towards his right and goes up and down.#a/DET person/NOUN bend/VERB towards/ADP his/DET right/NOUN and/CCONJ go/VERB up/ADP and/CCONJ down/ADV#0.0#0.0

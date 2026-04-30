@@ -1,0 +1,3 @@
+the man repeats sitting down and getting back up#the/DET man/NOUN repeat/VERB sit/VERB down/ADP and/CCONJ get/VERB back/ADV up/ADP#0.0#0.0
+a person walks forward, then sits down, stands to adjust something under his leg and sits back down.#a/DET person/NOUN walk/VERB forward/ADV then/ADV sit/VERB down/ADP stand/VERB to/PART adjust/VERB something/PRON under/ADP his/DET leg/NOUN and/CCONJ sit/VERB back/ADV down/ADV#0.0#0.0
+the person is sitting down and then standing up.#the/DET person/NOUN is/AUX sit/VERB down/ADP and/CCONJ then/ADV stand/VERB up/ADP#0.0#0.0

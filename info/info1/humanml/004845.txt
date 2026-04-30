@@ -1,0 +1,3 @@
+person is leaning down then getting up and walking.#person/NOUN is/AUX lean/VERB down/ADV then/ADV get/VERB up/ADP and/CCONJ walk/VERB#0.0#0.0
+a peson stretches their leg before working in a semi circle#a/DET peson/NOUN stretch/VERB their/DET leg/NOUN before/ADP work/VERB in/ADP a/DET semi/ADJ circle/NOUN#0.0#0.0
+a person reaches down to their right foot, in pain, then they slightly limp while walking and bring their right foot up to rub it.#a/DET person/NOUN reach/VERB down/ADP to/ADP their/DET right/ADJ foot/NOUN in/ADP pain/NOUN then/ADV they/PRON slightly/ADV limp/VERB while/SCONJ walk/VERB and/CCONJ bring/VERB their/DET right/ADJ foot/NOUN up/ADP to/PART rub/VERB it/PRON#0.0#0.0

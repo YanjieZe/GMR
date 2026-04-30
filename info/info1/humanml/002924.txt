@@ -1,0 +1,3 @@
+both hands go to the middle of the chest then do a clapping motion together.#both/DET hand/NOUN go/VERB to/ADP the/DET middle/NOUN of/ADP the/DET chest/NOUN then/ADV do/AUX a/DET clap/VERB motion/NOUN together/ADV#0.0#0.0
+a person giving an applause#a/DET person/NOUN give/VERB an/DET applause/NOUN#0.0#0.0
+a person claps their hands#a/DET person/NOUN clap/VERB their/DET hand/NOUN#0.0#0.0

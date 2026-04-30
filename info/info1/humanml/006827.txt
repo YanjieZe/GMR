@@ -1,0 +1,3 @@
+a person walks straight backwards, and then comes to a stop.#a/DET person/NOUN walk/VERB straight/ADV backwards/ADV and/CCONJ then/ADV come/VERB to/ADP a/DET stop/NOUN#0.0#0.0
+the sim walks backwards down the plane.#the/DET sim/PROPN walk/VERB backwards/ADV down/ADP the/DET plane/NOUN#0.0#0.0
+a person walks straight backwards.#a/DET person/NOUN walk/VERB straight/ADV backwards/ADV#0.0#0.0

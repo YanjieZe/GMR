@@ -1,0 +1,3 @@
+stick figure sits down with legs crossed then stands back up#stick/PROPN figure/NOUN sit/VERB down/ADP with/ADP leg/NOUN cross/VERB then/ADV stand/VERB back/ADV up/ADV#1.0#7.0
+person crosses legs together and sits down then gets back up#person/NOUN cross/VERB leg/NOUN together/ADV and/CCONJ sit/VERB down/ADP then/ADV get/VERB back/ADV up/ADV#0.0#0.0
+a man goes to sit down cross-legged, before stopping and standing up again.#a/DET man/NOUN go/VERB to/PART sit/VERB down/ADP crosslegged/ADJ before/ADP stop/VERB and/CCONJ stand/VERB up/ADP again/ADV#0.0#0.0

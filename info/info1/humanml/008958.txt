@@ -1,0 +1,3 @@
+a man holds a golf club with both hands.#a/DET man/NOUN hold/VERB a/DET golf/NOUN club/NOUN with/ADP both/DET hand/NOUN#0.0#0.0
+this person swing forward with hands in front as if to play golf.#this/DET person/NOUN swing/VERB forward/ADV with/ADP hand/NOUN in/ADP front/NOUN as/SCONJ if/SCONJ to/PART play/VERB golf/NOUN#0.0#0.0
+a person swings an object back and forth#a/DET person/NOUN swing/VERB an/DET object/NOUN back/ADV and/CCONJ forth/ADV#0.0#0.0

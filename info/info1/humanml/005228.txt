@@ -1,0 +1,3 @@
+a person limps forward with a hurt right leg.#a/DET person/NOUN limp/VERB forward/ADV with/ADP a/DET hurt/ADJ right/ADJ leg/NOUN#0.0#0.0
+a man is walking bent over with both of his hand resting on his thigh.#a/DET man/NOUN is/AUX walk/VERB bent/ADJ over/ADP with/ADP both/DET of/ADP his/DET hand/NOUN rest/VERB on/ADP his/DET thigh/NOUN#0.0#0.0
+a person walks as if they're dragging something on their right side.#a/DET person/NOUN walk/VERB as/SCONJ if/SCONJ they/PRON drag/VERB something/PRON on/ADP their/DET right/ADJ side/NOUN#0.0#0.0

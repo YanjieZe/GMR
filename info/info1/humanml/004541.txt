@@ -1,0 +1,3 @@
+person jumps off the ground lightly#person/NOUN jump/VERB off/ADP the/DET ground/NOUN lightly/ADV#0.0#0.0
+a person jumps once on the spot.#a/DET person/NOUN jump/VERB once/ADV on/ADP the/DET spot/NOUN#0.0#0.0
+a person jumps up only one time.#a/DET person/NOUN jump/VERB up/ADP only/ADV one/NUM time/NOUN#0.0#0.0

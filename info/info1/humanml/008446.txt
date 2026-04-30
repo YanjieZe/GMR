@@ -1,0 +1,3 @@
+a person walks to his right then turns around to make a jump#a/DET person/NOUN walk/VERB to/ADP his/DET right/NOUN then/ADV turn/VERB around/ADP to/PART make/VERB a/DET jump/NOUN#0.0#8.0
+a man walks to the left then walks to the right and skips.#a/DET man/NOUN walk/VERB to/ADP the/DET left/NOUN then/ADV walk/VERB to/ADP the/DET right/NOUN and/CCONJ skip/NOUN#0.0#0.0
+walking and jumping back to beginning#walk/VERB and/CCONJ jump/VERB back/ADV to/ADP beginning/NOUN#0.0#0.0

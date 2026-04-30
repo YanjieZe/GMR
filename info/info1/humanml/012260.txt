@@ -1,0 +1,3 @@
+a man sidesteps to his left, then crosses his arms and bends down to the ground, before lifting back up to a standing position.#a/DET man/NOUN sidestep/VERB to/ADP his/DET left/NOUN then/ADV cross/VERB his/DET arm/NOUN and/CCONJ bend/VERB down/ADP to/ADP the/DET ground/NOUN before/ADP lift/VERB back/ADV up/ADV to/ADP a/DET standing/ADJ position/NOUN#0.0#0.0
+a person sat on florr and crossed the legs and stand up#a/DET person/NOUN sit/VERB on/ADP florr/PROPN and/CCONJ cross/VERB the/DET leg/NOUN and/CCONJ stand/VERB up/ADP#0.0#0.0
+the person cross his legs to pick up something on the ground#the/DET person/NOUN cross/VERB his/DET leg/NOUN to/PART pick/VERB up/ADP something/PRON on/ADP the/DET ground/NOUN#0.0#0.0

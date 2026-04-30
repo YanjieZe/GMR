@@ -1,0 +1,3 @@
+the person walks forward then starts  using a mixing motion#the/DET person/NOUN walk/VERB forward/ADV then/ADV start/VERB use/VERB a/DET mixing/ADJ motion/NOUN#0.0#0.0
+a person walks forward, stops and then shakes their hand.#a/DET person/NOUN walk/VERB forward/ADV stop/NOUN and/CCONJ then/ADV shake/VERB their/DET hand/NOUN#0.0#0.0
+a man walks, picks something up, and shakes it.#a/DET man/NOUN walk/VERB pick/VERB something/PRON up/ADP and/CCONJ shake/VERB it/PRON#0.0#0.0

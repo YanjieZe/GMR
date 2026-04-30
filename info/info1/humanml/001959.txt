@@ -1,0 +1,3 @@
+stick figure squats then jumps forward.#stick/PROPN figure/NOUN squat/NOUN then/ADV jump/VERB forward/ADV#0.0#0.0
+a person jumps forward with both legs.#a/DET person/NOUN jump/VERB forward/ADV with/ADP both/DET leg/NOUN#0.0#0.0
+a person bends over and does a standing jump forward.#a/DET person/NOUN bend/VERB over/ADP and/CCONJ does/AUX a/DET stand/VERB jump/NOUN forward/ADV#0.0#0.0

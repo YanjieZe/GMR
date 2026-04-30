@@ -1,0 +1,3 @@
+this person rolls on the floor then lifts himself up.#this/DET person/NOUN roll/VERB on/ADP the/DET floor/NOUN then/ADV lift/VERB himself/PRON up/ADP#0.0#0.0
+person is laying down on their left side and rolls over to their left to sit up and then stand up.#person/NOUN is/AUX lay/VERB down/ADP on/ADP their/DET left/ADJ side/NOUN and/CCONJ roll/VERB over/ADP to/ADP their/DET left/NOUN to/PART sit/VERB up/ADP and/CCONJ then/ADV stand/VERB up/ADP#0.0#0.0
+a person rolls over, stands up from the ground, and leans forward.#a/DET person/NOUN roll/VERB over/ADP stand/VERB up/ADP from/ADP the/DET ground/NOUN and/CCONJ lean/VERB forward/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person hops twice, crouching slightly before each jump and keeping their arms low at their sides.#a/DET person/NOUN hop/VERB twice/ADV crouch/VERB slightly/ADV before/ADP each/DET jump/NOUN and/CCONJ keep/VERB their/DET arm/NOUN low/ADJ at/ADP their/DET side/NOUN#0.0#0.0
+a person hopping up and down.#a/DET person/NOUN hop/VERB up/ADV and/CCONJ down/ADV#0.0#0.0
+the person is jumping up and down.#the/DET person/NOUN is/AUX jump/VERB up/ADP and/CCONJ down/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks while holding a hand rail#a/DET person/NOUN walk/VERB while/SCONJ hold/VERB a/DET hand/NOUN rail/NOUN#0.0#0.0
+a person walks on a beam of some sort.#a/DET person/NOUN walk/VERB on/ADP a/DET beam/NOUN of/ADP some/DET sort/NOUN#0.0#0.0
+a person sneaking through a hallway.#a/DET person/NOUN sneak/VERB through/ADP a/DET hallway/NOUN#0.0#0.0

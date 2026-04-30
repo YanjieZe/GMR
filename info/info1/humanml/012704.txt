@@ -1,0 +1,3 @@
+a person sits down backwards#a/DET person/NOUN sit/VERB down/ADP backwards/ADV#0.0#0.0
+person takes a step backwards before performing a squat like motion#person/NOUN take/VERB a/DET step/NOUN backwards/ADV before/ADP perform/VERB a/DET squat/NOUN like/SCONJ motion/NOUN#0.0#0.0
+a person steps backwards, sits and then pushes himself up again.#a/DET person/NOUN step/VERB backwards/ADV sit/NOUN and/CCONJ then/ADV push/VERB himself/PRON up/ADP again/ADV#0.0#0.0

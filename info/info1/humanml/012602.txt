@@ -1,0 +1,3 @@
+a person is repeatedly raising and lowering their forearms.#a/DET person/NOUN is/AUX repeatedly/ADV raise/VERB and/CCONJ lower/VERB their/DET forearm/NOUN#0.0#0.0
+a man keeps his legs still as he flexes both arms in front of him several times.#a/DET man/NOUN keep/VERB his/DET leg/NOUN still/ADV as/SCONJ he/PRON flex/VERB both/DET arm/NOUN in/ADP front/NOUN of/ADP him/PRON several/ADJ time/NOUN#0.0#0.0
+a person lifts something with both hands and does this twice.#a/DET person/NOUN lift/VERB something/PRON with/ADP both/DET hand/NOUN and/CCONJ does/AUX this/DET twice/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person curls both arms up and down twice.#a/DET person/NOUN curl/VERB both/DET arm/NOUN up/ADV and/CCONJ down/ADV twice/ADV#0.0#0.0
+a person performing two handed bicep curls#a/DET person/NOUN perform/VERB two/NUM hand/VERB bicep/NOUN curl/NOUN#0.0#0.0
+raising hands up and down.#raise/VERB hand/NOUN up/ADV and/CCONJ down/ADV#0.0#0.0

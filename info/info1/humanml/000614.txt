@@ -1,0 +1,3 @@
+the man walks forward, spins around and walks back.#the/DET man/NOUN walk/VERB forward/ADV spin/VERB around/ADV and/CCONJ walk/VERB back/ADV#0.0#0.0
+a person walks forward and then swings around to the right and walks back.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ then/ADV swing/VERB around/ADV to/ADP the/DET right/NOUN and/CCONJ walk/VERB back/ADV#0.0#0.0
+person takes two steps forward swings left foot to pivot body to walk back to position but does not turn around#person/NOUN take/VERB two/NUM step/NOUN forward/ADV swing/NOUN left/VERB foot/NOUN to/PART pivot/VERB body/NOUN to/PART walk/VERB back/ADV to/ADP position/NOUN but/CCONJ does/AUX not/PART turn/VERB around/ADV#0.0#0.0

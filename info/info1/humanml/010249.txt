@@ -1,0 +1,3 @@
+a person gets into the push-up position with an angled back and thrusts their hips#a/DET person/NOUN get/VERB into/ADP the/DET pushup/NOUN position/NOUN with/ADP an/DET angle/VERB back/NOUN and/CCONJ thrust/VERB their/DET hip/NOUN#0.0#0.0
+the person is crawling across the floor like a crab#the/DET person/NOUN is/AUX crawl/VERB across/ADP the/DET floor/NOUN like/SCONJ a/DET crab/NOUN#0.0#0.0
+someone starts on the floor then does push up while moving the body in wave motion.#someone/PRON start/VERB on/ADP the/DET floor/NOUN then/ADV does/AUX push/VERB up/ADP while/SCONJ move/VERB the/DET body/NOUN in/ADP wave/NOUN motion/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person takes a big step to the left and down#a/DET person/NOUN take/VERB a/DET big/ADJ step/NOUN to/ADP the/DET left/NOUN and/CCONJ down/ADV#0.0#0.0
+a person steps down to left with left foot.#a/DET person/NOUN step/VERB down/ADP to/ADP left/VERB with/ADP left/ADJ foot/NOUN#0.0#0.0
+the person is steping back and forth.#the/DET person/NOUN is/AUX step/VERB back/ADV and/CCONJ forth/ADV#0.0#0.0

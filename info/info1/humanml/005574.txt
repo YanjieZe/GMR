@@ -1,0 +1,3 @@
+a person sits on a chair and leans back, relaxing and folding their legs.#a/DET person/NOUN sit/VERB on/ADP a/DET chair/NOUN and/CCONJ lean/VERB back/ADV relax/VERB and/CCONJ fold/VERB their/DET leg/NOUN#0.0#0.0
+the toon appears to be grabbing a office chair, taking a seat and raising their legs before reclining.#the/DET toon/NOUN appear/VERB to/PART be/AUX grab/VERB a/DET office/NOUN chair/NOUN take/VERB a/DET seat/NOUN and/CCONJ raise/VERB their/DET leg/NOUN before/ADP recline/VERB#0.0#10.0
+a person sit somewhere and just relaxed#a/DET person/NOUN sit/VERB somewhere/ADV and/CCONJ just/ADV relaxed/ADJ#0.0#10.0

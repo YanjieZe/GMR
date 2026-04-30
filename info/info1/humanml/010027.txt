@@ -1,0 +1,3 @@
+the man peels something in his left hand stooped over then stands, puts it in his left and and backs up.#the/DET man/NOUN peel/VERB something/PRON in/ADP his/DET left/ADJ hand/NOUN stoop/VERB over/ADP then/ADV stand/VERB put/VERB it/PRON in/ADP his/DET left/NOUN and/CCONJ and/CCONJ back/VERB up/ADP#0.0#0.0
+figure appears to be scooping up an item#figure/NOUN appear/VERB to/PART be/AUX scoop/VERB up/ADP an/DET item/NOUN#0.0#0.0
+a person is drying their right arm#a/DET person/NOUN is/AUX dry/VERB their/DET right/ADJ arm/NOUN#0.0#0.0

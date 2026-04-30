@@ -1,0 +1,3 @@
+the person is walking down the cat walk.#the/DET person/NOUN is/AUX walk/VERB down/ADP the/DET cat/NOUN walk/NOUN#0.0#0.0
+a man walks in a mostly straight line with his hands on his hips, turns around at the end#a/DET man/NOUN walk/VERB in/ADP a/DET mostly/ADV straight/ADJ line/NOUN with/ADP his/DET hand/NOUN on/ADP his/DET hip/NOUN turn/VERB around/ADV at/ADP the/DET end/NOUN#0.0#0.0
+the hands are on the hips as the body walks around pacing in a jagged line.#the/DET hand/NOUN are/AUX on/ADP the/DET hip/NOUN as/SCONJ the/DET body/NOUN walk/VERB around/ADP pace/VERB in/ADP a/DET jagged/ADJ line/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks around in an "s" line.#a/DET person/NOUN walk/VERB around/ADV in/ADP an/DET s/PART line/NOUN#0.0#0.0
+a man walks in multiple directions.#a/DET man/NOUN walk/VERB in/ADP multiple/ADJ direction/NOUN#0.0#0.0
+a person walking in a serpentine pattern.#a/DET person/NOUN walk/VERB in/ADP a/DET serpentine/ADJ pattern/NOUN#0.0#0.0

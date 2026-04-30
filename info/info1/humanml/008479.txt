@@ -1,0 +1,3 @@
+subjects hops up and down twice.#subject/NOUN hop/VERB up/ADV and/CCONJ down/ADV twice/ADV#0.0#0.0
+man standing straight up with his hands down to his sides bends slightly at the knees and hops in the air two times.#man/PROPN stand/VERB straight/ADV up/ADV with/ADP his/DET hand/NOUN down/ADP to/ADP his/DET side/NOUN bend/VERB slightly/ADV at/ADP the/DET knee/NOUN and/CCONJ hop/NOUN in/ADP the/DET air/NOUN two/NUM time/NOUN#0.0#0.0
+person is jumping up and down#person/NOUN is/AUX jump/VERB up/ADP and/CCONJ down/ADP#0.0#0.0

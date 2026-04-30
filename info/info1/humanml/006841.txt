@@ -1,0 +1,3 @@
+a person is creeping/ tiptowing.#a/DET person/NOUN is/AUX tiptowing/NOUN#0.0#0.0
+a person crouches slights and sneaks forward then turns around and sneaks back#a/DET person/NOUN crouch/VERB slight/NOUN and/CCONJ sneak/NOUN forward/ADV then/ADV turn/VERB around/ADV and/CCONJ sneak/NOUN back/ADP#0.0#0.0
+a person is sneaking, they turn around and sneak in the opposite direction.#a/DET person/NOUN is/AUX sneak/VERB they/PRON turn/VERB around/ADP and/CCONJ sneak/VERB in/ADP the/DET opposite/ADJ direction/NOUN#0.0#0.0

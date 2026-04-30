@@ -1,0 +1,3 @@
+a person is doing a brisk walk/jog.#a/DET person/NOUN is/AUX do/VERB a/DET brisk/ADJ walk/NOUN jog/NOUN#0.0#0.0
+a person takes five paces forward, jogging at first then coming to a standstill.#a/DET person/NOUN take/VERB five/NUM pace/NOUN forward/ADV jog/VERB at/ADP first/ADV then/ADV come/VERB to/ADP a/DET standstill/NOUN#0.0#0.0
+person runs forward a few steps#person/NOUN run/VERB forward/ADV a/DET few/ADJ step/NOUN#0.0#0.0

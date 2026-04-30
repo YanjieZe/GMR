@@ -1,0 +1,3 @@
+a person walks around with their arms bent backwards, imitating a chicken#a/DET person/NOUN walk/VERB around/ADP with/ADP their/DET arm/NOUN bent/ADJ backwards/ADV imitate/VERB a/DET chicken/NOUN#0.0#0.0
+person lifts both arms up with elbows out; while slightly bending over. walks forward, then turns right while bobbing.#person/NOUN lift/VERB both/DET arm/NOUN up/ADP with/ADP elbow/NOUN out/ADP while/SCONJ slightly/ADV bend/VERB over/ADP walk/VERB forward/ADV then/ADV turn/VERB right/ADV while/SCONJ bob/VERB#0.0#0.0
+a person walks around slowly mimicking a chicken.#a/DET person/NOUN walk/VERB around/ADV slowly/ADV mimic/VERB a/DET chicken/NOUN#0.0#0.0

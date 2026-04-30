@@ -1,0 +1,3 @@
+a person is walking backwards.#a/DET person/NOUN is/AUX walk/VERB backwards/ADV#0.0#0.0
+a person walks backward while slightly crouched over.#a/DET person/NOUN walk/VERB backward/ADJ while/SCONJ slightly/ADV crouch/VERB over/ADP#0.0#0.0
+a person takes 11 steps backwards.#a/DET person/NOUN take/VERB step/NOUN backwards/ADV#0.0#0.0

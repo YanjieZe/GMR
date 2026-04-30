@@ -1,0 +1,3 @@
+a person raised the both hands and show some jesture#a/DET person/NOUN raise/VERB the/DET both/DET hand/NOUN and/CCONJ show/VERB some/DET jesture/NOUN#0.0#0.0
+a person moves their arms in front of them close together and then far apart, several times.#a/DET person/NOUN move/VERB their/DET arm/NOUN in/ADP front/NOUN of/ADP them/PRON close/VERB together/ADV and/CCONJ then/ADV far/ADV apart/ADV several/ADJ time/NOUN#0.0#0.0
+moving hands towards chest then up and down.#move/VERB hand/NOUN towards/ADP chest/NOUN then/ADV up/ADP and/CCONJ down/ADV#0.0#0.0

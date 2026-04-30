@@ -1,0 +1,3 @@
+the arms barely curled moves to the right.#the/DET arm/NOUN barely/ADV curl/VERB move/NOUN to/ADP the/DET right/NOUN#0.0#0.0
+person appears to pick some thing up with both hands then puts it down towards they’re right.#person/NOUN appear/VERB to/PART pick/VERB some/DET thing/NOUN up/ADP with/ADP both/DET hand/NOUN then/ADV put/VERB it/PRON down/ADP towards/ADP they/PRON right/ADJ#0.0#0.0
+this person acts to move and lift something to the right.#this/DET person/NOUN act/VERB to/PART move/VERB and/CCONJ lift/VERB something/PRON to/ADP the/DET right/NOUN#0.0#0.0

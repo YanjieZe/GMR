@@ -1,0 +1,3 @@
+he makes a karate type low kick with his right foot.#he/PRON make/VERB a/DET karate/NOUN type/NOUN low/ADJ kick/NOUN with/ADP his/DET right/ADJ foot/NOUN#0.0#0.0
+a man kicks his leg.#a/DET man/NOUN kick/VERB his/DET leg/NOUN#0.0#0.0
+a person kicks with his left hand.#a/DET person/NOUN kick/VERB with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+person is side on with throwing or hitting something with their right hand they do this twice#person/NOUN is/AUX side/NOUN on/ADP with/ADP throw/VERB or/CCONJ hit/VERB something/PRON with/ADP their/DET right/ADJ hand/NOUN they/PRON do/AUX this/DET twice/ADV#0.0#0.0
+a man throws something over his head.#a/DET man/NOUN throw/VERB something/PRON over/ADP his/DET head/NOUN#0.0#0.0
+a person turns and hits something in the air.#a/DET person/NOUN turn/VERB and/CCONJ hit/VERB something/PRON in/ADP the/DET air/NOUN#0.0#0.0

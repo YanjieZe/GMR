@@ -1,0 +1,3 @@
+a person walks around rubbing something in front of them.#a/DET person/NOUN walk/VERB around/ADP rub/VERB something/PRON in/ADP front/NOUN of/ADP them/PRON#0.0#0.0
+moving hands back and forth.#move/VERB hand/NOUN back/ADV and/CCONJ forth/ADV#0.0#0.0
+a person grabbed something and put it somehwere#a/DET person/NOUN grab/VERB something/PRON and/CCONJ put/VERB it/PRON somehwere/ADV#0.0#0.0

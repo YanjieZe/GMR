@@ -1,0 +1,3 @@
+aman takes two steps, leans in and thoroughly washes his hands.#aman/PROPN take/VERB two/NUM step/NOUN lean/NOUN in/ADV and/CCONJ thoroughly/ADV wash/VERB his/DET hand/NOUN#0.0#0.0
+a person walks forward and begins washing his hands starting with his left, then his right.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ begin/VERB wash/VERB his/DET hand/NOUN start/VERB with/ADP his/DET left/NOUN then/ADV his/DET right/NOUN#0.0#0.0
+a man steps forward and starts rubbing his hands together like he is washing them.#a/DET man/NOUN step/VERB forward/ADV and/CCONJ start/VERB rub/VERB his/DET hand/NOUN together/ADV like/SCONJ he/PRON is/AUX wash/VERB them/PRON#0.0#0.0

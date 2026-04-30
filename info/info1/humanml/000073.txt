@@ -1,0 +1,3 @@
+a person walks forward while making small adjustments left and right#a/DET person/NOUN walk/VERB forward/ADV while/SCONJ make/VERB small/ADJ adjustment/NOUN left/VERB and/CCONJ right/ADJ#0.0#0.0
+person walks then steps over something#person/NOUN walk/VERB then/ADV step/VERB over/ADP something/PRON#0.0#0.0
+a person walks forward, stepping over an object, then continuing to walk and stop after.#a/DET person/NOUN walk/VERB forward/ADV step/VERB over/ADP an/DET object/NOUN then/ADV continue/VERB to/PART walk/VERB and/CCONJ stop/VERB after/ADP#0.0#0.0

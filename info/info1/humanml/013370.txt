@@ -1,0 +1,3 @@
+a person raised and showed some jesture#a/DET person/NOUN raise/VERB and/CCONJ show/VERB some/DET jesture/NOUN#0.0#0.0
+a person appears to be lifting weights#a/DET person/NOUN appear/VERB to/PART be/AUX lift/VERB weight/NOUN#0.0#0.0
+a person repeatedly lifts something in front of their head with both arms.#a/DET person/NOUN repeatedly/ADV lift/VERB something/PRON in/ADP front/NOUN of/ADP their/DET head/NOUN with/ADP both/DET arm/NOUN#0.0#0.0

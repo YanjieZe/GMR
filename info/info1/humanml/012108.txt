@@ -1,0 +1,3 @@
+the person is throwing a ball and then catches the ball.#the/DET person/NOUN is/AUX throw/VERB a/DET ball/NOUN and/CCONJ then/ADV catch/VERB the/DET ball/NOUN#0.0#0.0
+a person throws something and tries to dodge something right after.#a/DET person/NOUN throw/VERB something/PRON and/CCONJ try/VERB to/PART dodge/VERB something/PRON right/ADV after/ADV#0.0#0.0
+a man throws something with his right hand, then catches another object.#a/DET man/NOUN throw/VERB something/PRON with/ADP his/DET right/ADJ hand/NOUN then/ADV catch/VERB another/DET object/NOUN#0.0#0.0

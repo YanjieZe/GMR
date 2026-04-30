@@ -1,0 +1,3 @@
+person appears to salsa dance or something similar.#person/NOUN appear/VERB to/PART salsa/VERB dance/NOUN or/CCONJ something/PRON similar/ADJ#0.0#0.0
+this person walks forward and back as if to dance.#this/DET person/NOUN walk/VERB forward/ADV and/CCONJ back/ADV as/SCONJ if/SCONJ to/PART dance/VERB#0.0#0.0
+a figure does a salsa.#a/DET figure/NOUN does/AUX a/DET salsa/NOUN#0.0#0.0

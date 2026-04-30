@@ -1,0 +1,3 @@
+right hand is straight out to the side as the right calf goes forward, inside, and outside.#right/ADJ hand/NOUN is/AUX straight/ADV out/ADV to/ADP the/DET side/NOUN as/SCONJ the/DET right/ADJ calf/NOUN go/VERB forward/ADV inside/ADV and/CCONJ outside/ADV#0.0#4.0
+a man holds left arm up and does what appears to be ballet with left leg#a/DET man/NOUN hold/VERB left/ADJ arm/NOUN up/ADP and/CCONJ does/AUX what/PRON appear/VERB to/PART be/AUX ballet/NOUN with/ADP left/ADJ leg/NOUN#0.0#0.0
+a person raises their right leg and shakes it around with their right arm outstretched for balance.#a/DET person/NOUN raise/VERB their/DET right/ADJ leg/NOUN and/CCONJ shake/VERB it/PRON around/ADV with/ADP their/DET right/ADJ arm/NOUN outstretche/VERB for/ADP balance/NOUN#0.0#0.0

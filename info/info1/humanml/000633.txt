@@ -1,0 +1,3 @@
+a person stands while moving their right arm as if eating something with a spoon or fork three times.#a/DET person/NOUN stand/VERB while/SCONJ move/VERB their/DET right/ADJ arm/NOUN as/SCONJ if/SCONJ eat/VERB something/PRON with/ADP a/DET spoon/NOUN or/CCONJ fork/NOUN three/NUM time/NOUN#0.0#0.0
+eating food from waist height#eat/VERB food/NOUN from/ADP waist/NOUN height/NOUN#0.0#0.0
+someone holds their hands together in front of them and brings their right hand to their face in an eating gesture.#someone/PRON hold/VERB their/DET hand/NOUN together/ADV in/ADP front/NOUN of/ADP them/PRON and/CCONJ bring/VERB their/DET right/ADJ hand/NOUN to/ADP their/DET face/NOUN in/ADP an/DET eat/VERB gesture/NOUN#0.0#0.0

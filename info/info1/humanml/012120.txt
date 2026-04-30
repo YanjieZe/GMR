@@ -1,0 +1,3 @@
+a person walks in a straight line, stumbling once slightly to their left as they do.#a/DET person/NOUN walk/VERB in/ADP a/DET straight/ADJ line/NOUN stumble/VERB once/ADV slightly/ADV to/ADP their/DET left/NOUN as/SCONJ they/PRON do/AUX#0.0#0.0
+a person walks forward then stumbles to their left before regaining balance#a/DET person/NOUN walk/VERB forward/ADV then/ADV stumble/NOUN to/ADP their/DET left/NOUN before/ADP regain/VERB balance/NOUN#0.0#0.0
+the peson walk forward then side and forward.#the/DET peson/NOUN walk/VERB forward/ADV then/ADV side/NOUN and/CCONJ forward/ADV#0.5#1.5

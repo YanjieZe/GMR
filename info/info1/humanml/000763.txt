@@ -1,0 +1,3 @@
+a person does a single jumping jack.#a/DET person/NOUN does/AUX a/DET single/ADJ jumping/NOUN jack/NOUN#0.0#0.0
+a person is standing upright and does a full jumping jack.#a/DET person/NOUN is/AUX stand/VERB upright/ADV and/CCONJ does/AUX a/DET full/ADJ jumping/NOUN jack/NOUN#0.0#0.0
+a person standing in place does a low effort jumping jack without moving feet far apart.#a/DET person/NOUN stand/VERB in/ADP place/NOUN does/AUX a/DET low/ADJ effort/NOUN jump/VERB jack/NOUN without/ADP move/VERB foot/NOUN far/ADV apart/ADV#0.0#0.0

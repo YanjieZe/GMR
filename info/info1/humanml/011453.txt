@@ -1,0 +1,3 @@
+a person talking to a microphone and waving to an audience#a/DET person/NOUN talk/VERB to/ADP a/DET microphone/NOUN and/CCONJ wave/VERB to/ADP an/DET audience/NOUN#0.0#0.0
+politition waving to the crowd and shakimg hands#politition/NOUN wave/VERB to/ADP the/DET crowd/NOUN and/CCONJ shakimg/PROPN hand/NOUN#0.0#0.0
+a person cleaning a wall#a/DET person/NOUN clean/VERB a/DET wall/NOUN#0.0#0.0

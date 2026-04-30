@@ -1,0 +1,3 @@
+a man turns around and swings an object.#a/DET man/NOUN turn/VERB around/ADP and/CCONJ swing/VERB an/DET object/NOUN#0.0#0.0
+man walks forward and shoots something from his right hand, turns around, steps forward and throws something again with right hand.#man/NOUN walk/VERB forward/ADV and/CCONJ shoot/VERB something/PRON from/ADP his/DET right/ADJ hand/NOUN turn/VERB around/ADV step/VERB forward/ADV and/CCONJ throw/VERB something/PRON again/ADV with/ADP right/ADJ hand/NOUN#0.0#0.0
+the person backed up swung around and toss the ball.#the/DET person/NOUN back/VERB up/ADP swing/VERB around/ADP and/CCONJ toss/VERB the/DET ball/NOUN#0.0#0.0

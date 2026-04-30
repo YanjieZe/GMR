@@ -1,0 +1,3 @@
+a person walks straight, takes a half turn to the left, walks and then stops#a/DET person/NOUN walk/VERB straight/ADJ take/VERB a/DET half/ADJ turn/NOUN to/ADP the/DET left/NOUN walk/VERB and/CCONJ then/ADV stop/VERB#0.0#0.0
+a man walks forward, turns right and walks in that direction.#a/DET man/NOUN walk/VERB forward/ADV turn/VERB right/ADJ and/CCONJ walk/VERB in/ADP that/DET direction/NOUN#0.0#0.0
+a person walks forward, stops, turns directly to their left, then walks forward again.#a/DET person/NOUN walk/VERB forward/ADV stop/NOUN turn/VERB directly/ADV to/ADP their/DET left/NOUN then/ADV walk/VERB forward/ADV again/ADV#0.0#0.0

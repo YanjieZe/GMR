@@ -1,0 +1,3 @@
+person is hold their hands together.#person/NOUN is/AUX hold/VERB their/DET hand/NOUN together/ADV#0.0#0.0
+a person washes his hands.#a/DET person/NOUN wash/VERB his/DET hand/NOUN#0.0#0.0
+the person puts his hands together a is rubbing them together whilr he moves his arms slightly to his  left.#the/DET person/NOUN put/VERB his/DET hand/NOUN together/ADV a/DET is/AUX rub/VERB them/PRON together/ADV whilr/VERB he/PRON move/VERB his/DET arm/NOUN slightly/ADV to/ADP his/DET left/NOUN#0.0#0.0

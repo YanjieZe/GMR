@@ -1,0 +1,3 @@
+a person is pushed hard to their left and they recover into a standing position.#a/DET person/NOUN is/AUX push/VERB hard/ADV to/ADP their/DET left/NOUN and/CCONJ they/PRON recover/VERB into/ADP a/DET standing/ADJ position/NOUN#0.0#0.0
+someone is pushed and stumbles to the left.#someone/PRON is/AUX push/VERB and/CCONJ stumble/NOUN to/ADP the/DET left/NOUN#0.0#0.0
+a person gets pushed to the left#a/DET person/NOUN get/VERB push/VERB to/ADP the/DET left/NOUN#0.0#0.0

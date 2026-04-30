@@ -1,0 +1,3 @@
+this person is walking around the room.#this/DET person/NOUN is/AUX walk/VERB around/ADP the/DET room/NOUN#0.0#0.0
+a person walks in a counterclockwise circle.#a/DET person/NOUN walk/VERB in/ADP a/DET counterclockwise/ADJ circle/NOUN#0.0#0.0
+a person who is poised to walk takes two steps forward, then turns and walks counterclockwise and almost completes a circle while taking fifteen more steps.#a/DET person/NOUN who/PRON is/AUX poise/VERB to/PART walk/VERB take/VERB two/NUM step/NOUN forward/ADV then/ADV turn/VERB and/CCONJ walk/VERB counterclockwise/ADJ and/CCONJ almost/ADV complete/VERB a/DET circle/NOUN while/SCONJ take/VERB fifteen/NUM more/ADJ step/NOUN#0.0#0.0

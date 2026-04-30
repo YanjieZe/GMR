@@ -1,0 +1,3 @@
+a person walks forward with a specific type of gate, almost strutting a little.#a/DET person/NOUN walk/VERB forward/ADV with/ADP a/DET specific/ADJ type/NOUN of/ADP gate/NOUN almost/ADV strut/VERB a/DET little/ADJ#0.0#5.0
+a person briskly walks in a nearly straight line.#a/DET person/NOUN briskly/ADV walk/VERB in/ADP a/DET nearly/ADV straight/ADJ line/NOUN#0.0#0.0
+a person speed walking forward.#a/DET person/NOUN speed/NOUN walk/VERB forward/ADV#0.0#0.0

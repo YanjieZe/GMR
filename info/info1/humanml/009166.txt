@@ -1,0 +1,3 @@
+a person walks forward and the comes to a stand still#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ the/DET come/VERB to/ADP a/DET stand/NOUN still/ADV#0.0#0.0
+a person who seems to be walking down a walkway in a fashionshow#a/DET person/NOUN who/PRON seem/VERB to/PART be/AUX walk/VERB down/ADP a/DET walkway/NOUN in/ADP a/DET fashionshow/NOUN#0.0#0.0
+a person walks down some steps.#a/DET person/NOUN walk/VERB down/ADP some/DET step/NOUN#0.0#0.0

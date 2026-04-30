@@ -1,0 +1,3 @@
+dancing forward and with moving of hands and legs.#dance/VERB forward/ADV and/CCONJ with/ADP move/VERB of/ADP hand/NOUN and/CCONJ leg/NOUN#0.0#0.0
+a person appears to be doing a dance.#a/DET person/NOUN appear/VERB to/PART be/AUX do/VERB a/DET dance/NOUN#0.0#0.0
+a standing  woman gracefully dances forward, from the viewer's right to left, tapping toes and swaying arms in synchrony.#a/DET stand/VERB woman/NOUN gracefully/ADV dance/VERB forward/ADV from/ADP the/DET viewer/NOUN right/NOUN to/ADP left/VERB tap/VERB toe/NOUN and/CCONJ sway/VERB arm/NOUN in/ADP synchrony/NOUN#0.0#0.0

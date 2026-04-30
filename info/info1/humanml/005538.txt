@@ -1,0 +1,3 @@
+a person taking side steps and making a circle.#a/DET person/NOUN take/VERB side/ADJ step/NOUN and/CCONJ make/VERB a/DET circle/NOUN#0.0#0.0
+the person is sidestepping to the left and then to the right#the/DET person/NOUN is/AUX sidestep/VERB to/ADP the/DET left/NOUN and/CCONJ then/ADV to/ADP the/DET right/NOUN#0.0#0.0
+the stick-figure walks in a counter-clockwise motion.#the/DET stickfigure/NOUN walk/VERB in/ADP a/DET counterclockwise/ADJ motion/NOUN#0.0#0.0

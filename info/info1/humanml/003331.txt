@@ -1,0 +1,3 @@
+a person walks forward up stairs#a/DET person/NOUN walk/VERB forward/ADV up/ADV stair/NOUN#0.0#0.0
+a person walks up stairs.#a/DET person/NOUN walk/VERB up/ADP stair/NOUN#0.0#0.0
+a man marches in place.#a/DET man/NOUN march/VERB in/ADP place/NOUN#0.0#0.0

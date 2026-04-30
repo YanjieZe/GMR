@@ -1,0 +1,3 @@
+a man walks forward and stumbles on a step.#a/DET man/NOUN walk/VERB forward/ADV and/CCONJ stumble/NOUN on/ADP a/DET step/NOUN#0.0#0.0
+a person is pushed from the back and recovers.#a/DET person/NOUN is/AUX push/VERB from/ADP the/DET back/NOUN and/CCONJ recover/NOUN#0.0#0.0
+a person is pushed by their right shoulder from the back while walking.#a/DET person/NOUN is/AUX push/VERB by/ADP their/DET right/ADJ shoulder/NOUN from/ADP the/DET back/NOUN while/SCONJ walk/VERB#0.0#0.0

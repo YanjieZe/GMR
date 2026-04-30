@@ -1,0 +1,2 @@
+a person walks a loop clockwise with his arms out in front of him.#a/DET person/NOUN walk/VERB a/DET loop/NOUN clockwise/NOUN with/ADP his/DET arm/NOUN out/SCONJ in/ADP front/NOUN of/ADP him/PRON#0.0#0.0
+a man carries a large object with both hands and walks forward, turns around and walks in the opposite direction.#a/DET man/NOUN carry/VERB a/DET large/ADJ object/NOUN with/ADP both/DET hand/NOUN and/CCONJ walk/VERB forward/ADV turn/VERB around/ADV and/CCONJ walk/VERB in/ADP the/DET opposite/ADJ direction/NOUN#0.0#0.0

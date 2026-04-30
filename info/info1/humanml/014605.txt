@@ -1,0 +1,3 @@
+a person bending their elbows in front of them similar to bicep curls#a/DET person/NOUN bend/VERB their/DET elbow/NOUN in/ADP front/NOUN of/ADP them/PRON similar/ADJ to/ADP bicep/NOUN curl/NOUN#0.0#0.0
+a person standing raises both their arms slowly and then put them back down.#a/DET person/NOUN stand/VERB raise/VERB both/CCONJ their/DET arm/NOUN slowly/ADV and/CCONJ then/ADV put/VERB them/PRON back/ADV down/ADP#0.0#0.0
+person person is lifting up dumbbells.#person/NOUN person/NOUN is/AUX lift/VERB up/ADP dumbbell/NOUN#0.0#0.0

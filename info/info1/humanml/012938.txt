@@ -1,0 +1,3 @@
+a person stands in the same spot swaying back and forth moving their hands around#a/DET person/NOUN stand/VERB in/ADP the/DET same/ADJ spot/NOUN sway/VERB back/ADV and/CCONJ forth/ADV move/VERB their/DET hand/NOUN around/ADV#0.0#0.0
+a person shakes somebody's hands#a/DET person/NOUN shake/VERB somebody/PRON hand/NOUN#0.0#0.0
+the person is greeting someone with a handshake.#the/DET person/NOUN is/AUX greet/VERB someone/PRON with/ADP a/DET handshake/NOUN#0.0#0.0

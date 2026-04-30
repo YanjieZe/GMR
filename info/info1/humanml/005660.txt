@@ -1,0 +1,3 @@
+a person puts his left and right arm into the air.#a/DET person/NOUN put/VERB his/DET left/ADJ and/CCONJ right/ADJ arm/NOUN into/ADP the/DET air/NOUN#0.0#0.0
+he does a trial then stops#he/PRON does/AUX a/DET trial/NOUN then/ADV stop/VERB#0.0#0.0
+a person stretches their arms from their hips to their head.#a/DET person/NOUN stretch/VERB their/DET arm/NOUN from/ADP their/DET hip/NOUN to/ADP their/DET head/NOUN#0.0#0.0

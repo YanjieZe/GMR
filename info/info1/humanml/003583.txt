@@ -1,0 +1,3 @@
+a person waves both arms in the air.#a/DET person/NOUN wave/VERB both/DET arm/NOUN in/ADP the/DET air/NOUN#0.0#0.0
+the person raises their arms to the side#the/DET person/NOUN raise/VERB their/DET arm/NOUN to/ADP the/DET side/NOUN#0.0#0.0
+a man lifts and lowers his arms as they are folded inward and does so again as he extends his arms.#a/DET man/NOUN lift/VERB and/CCONJ lower/VERB his/DET arm/NOUN as/SCONJ they/PRON are/AUX fold/VERB inward/ADV and/CCONJ does/AUX so/ADV again/ADV as/SCONJ he/PRON extend/VERB his/DET arm/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person starts in a standing position then walks backwards.#a/DET person/NOUN start/VERB in/ADP a/DET standing/ADJ position/NOUN then/ADV walk/VERB backwards/ADV#0.0#0.0
+a person walks backwards, moving behind themselves while facing forward.#a/DET person/NOUN walk/VERB backwards/ADV move/VERB behind/ADP themselves/PRON while/SCONJ face/VERB forward/ADV#0.0#0.0
+a person walks forward as  blue line follows their stride.#a/DET person/NOUN walk/VERB forward/ADV as/SCONJ blue/ADJ line/NOUN follow/VERB their/DET stride/NOUN#0.0#0.0

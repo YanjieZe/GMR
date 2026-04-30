@@ -1,0 +1,3 @@
+a person grabbed soemthing and hit with it#a/DET person/NOUN grab/VERB soemthe/VERB and/CCONJ hit/VERB with/ADP it/PRON#0.0#0.0
+a person takes a chip shot in golf.#a/DET person/NOUN take/VERB a/DET chip/NOUN shoot/VERB in/ADP golf/NOUN#0.0#0.0
+the man practices a golf swing.#the/DET man/NOUN practice/VERB a/DET golf/NOUN swing/NOUN#0.0#0.0

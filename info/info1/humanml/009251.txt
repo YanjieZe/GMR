@@ -1,0 +1,3 @@
+person squatting then raising both arms to 90 degrees#person/NOUN squat/VERB then/ADV raise/VERB both/DET arm/NOUN to/ADP degree/NOUN#0.0#0.0
+standing in place with arms on legs.#stand/VERB in/ADP place/NOUN with/ADP arm/NOUN on/ADP leg/NOUN#0.0#0.0
+hands are placed inside the thigh as the right foot slight moves back and forth, and the arms raise upward.#hand/NOUN are/AUX place/VERB inside/ADP the/DET thigh/NOUN as/SCONJ the/DET right/ADJ foot/NOUN slight/ADJ move/NOUN back/ADV and/CCONJ forth/ADV and/CCONJ the/DET arm/NOUN raise/VERB upward/ADV#0.0#0.0

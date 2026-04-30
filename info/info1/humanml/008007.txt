@@ -1,0 +1,3 @@
+a person starting crouched forward, stands up and stretches right and left.#a/DET person/NOUN start/VERB crouched/ADJ forward/ADV stand/VERB up/ADP and/CCONJ stretch/VERB right/ADV and/CCONJ left/VERB#0.0#0.0
+the person does various stretches.#the/DET person/NOUN does/AUX various/ADJ stretch/NOUN#0.0#0.0
+a person swing the upper core body and raised the hands to warm up#a/DET person/NOUN swe/VERB the/DET upper/ADJ core/NOUN body/NOUN and/CCONJ raise/VERB the/DET hand/NOUN to/PART warm/VERB up/ADP#0.0#0.0

@@ -1,0 +1,3 @@
+a person sits down and gets up.#a/DET person/NOUN sit/VERB down/ADV and/CCONJ get/VERB up/ADV#0.0#0.0
+a person sits down on a recliner.#a/DET person/NOUN sit/VERB down/ADP on/ADP a/DET recliner/NOUN#0.0#0.0
+a person sits on something then standsup.#a/DET person/NOUN sit/VERB on/ADP something/PRON then/ADV standsup/VERB#0.0#0.0

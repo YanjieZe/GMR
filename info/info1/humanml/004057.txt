@@ -1,0 +1,3 @@
+a man continuously moves his hands forward and backwards.#a/DET man/NOUN continuously/ADV move/VERB his/DET hand/NOUN forward/ADV and/CCONJ backwards/ADV#0.0#0.0
+a person paddles at the air in front of them#a/DET person/NOUN paddle/NOUN at/ADP the/DET air/NOUN in/ADP front/NOUN of/ADP them/PRON#0.0#0.0
+he puts his hands out in front and makes a motion with his hands in a circular motion as one would pedal a bike.#he/PRON put/VERB his/DET hand/NOUN out/ADP in/ADP front/NOUN and/CCONJ make/VERB a/DET motion/NOUN with/ADP his/DET hand/NOUN in/ADP a/DET circular/ADJ motion/NOUN as/SCONJ one/PRON would/VERB pedal/VERB a/DET bike/NOUN#0.0#0.0

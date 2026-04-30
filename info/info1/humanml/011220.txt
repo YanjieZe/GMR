@@ -1,0 +1,3 @@
+person loses balance and regains it quickly#person/NOUN lose/VERB balance/NOUN and/CCONJ regain/VERB it/PRON quickly/ADV#0.0#0.0
+plants off left foot and quick shuffle to their right.#plant/NOUN off/ADP left/ADJ foot/NOUN and/CCONJ quick/ADJ shuffle/NOUN to/ADP their/DET right/NOUN#0.0#0.0
+person was pushed from the left but did not fall.#person/NOUN was/AUX push/VERB from/ADP the/DET left/NOUN but/CCONJ did/AUX not/PART fall/VERB#0.0#0.0

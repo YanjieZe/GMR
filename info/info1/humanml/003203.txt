@@ -1,0 +1,3 @@
+a person organizes items on a shelf with their left hand.#a/DET person/NOUN organize/VERB item/NOUN on/ADP a/DET shelf/NOUN with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0
+someone appears to be grabbing or organizing and then spreads their arms#someone/PRON appear/VERB to/PART be/AUX grab/VERB or/CCONJ organize/VERB and/CCONJ then/ADV spread/VERB their/DET arm/NOUN#0.0#0.0
+a person lifts arms to sort items then puts arms down#a/DET person/NOUN lift/VERB arm/NOUN to/PART sort/VERB item/NOUN then/ADV put/VERB arm/NOUN down/ADV#0.0#0.0

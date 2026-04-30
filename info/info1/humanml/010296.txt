@@ -1,0 +1,3 @@
+a person holds something with their left hand, reach at it with their right hand and lift that to their face repeatedly.#a/DET person/NOUN hold/VERB something/PRON with/ADP their/DET left/ADJ hand/NOUN reach/VERB at/ADP it/PRON with/ADP their/DET right/ADJ hand/NOUN and/CCONJ lift/VERB that/DET to/ADP their/DET face/NOUN repeatedly/ADV#0.0#0.0
+a man brings an object to his face with his right hand.#a/DET man/NOUN bring/VERB an/DET object/NOUN to/ADP his/DET face/NOUN with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+someone raises food with their right hand to their mouth.#someone/PRON raise/VERB food/NOUN with/ADP their/DET right/ADJ hand/NOUN to/ADP their/DET mouth/NOUN#0.0#0.0

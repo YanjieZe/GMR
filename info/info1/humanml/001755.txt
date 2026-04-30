@@ -1,0 +1,3 @@
+person moves backwards towards the left then right as though he is playing a sport game like football or baseketball#person/NOUN move/VERB backwards/ADV towards/ADP the/DET left/NOUN then/ADV right/ADV as/SCONJ though/SCONJ he/PRON is/AUX play/VERB a/DET sport/NOUN game/NOUN like/SCONJ football/NOUN or/CCONJ baseketball/NOUN#0.0#0.0
+stepping to the side then back.#step/VERB to/ADP the/DET side/NOUN then/ADV back/ADV#0.0#0.0
+a person sidesteps back and forth then moves backward.#a/DET person/NOUN sidestep/VERB back/ADV and/CCONJ forth/ADV then/ADV move/VERB backward/ADV#0.0#0.0

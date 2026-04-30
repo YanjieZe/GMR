@@ -1,0 +1,3 @@
+a person picks something up then places it on their head and walks forwards.#a/DET person/NOUN pick/VERB something/PRON up/ADV then/ADV place/VERB it/PRON on/ADP their/DET head/NOUN and/CCONJ walk/VERB forwards/ADV#0.0#0.0
+a person picks up an item, then walks with item above its head.#a/DET person/NOUN pick/VERB up/ADP an/DET item/NOUN then/ADV walk/VERB with/ADP item/NOUN above/ADP its/DET head/NOUN#0.0#10.0
+bending down and walking in a circle.#bend/VERB down/ADP and/CCONJ walk/VERB in/ADP a/DET circle/NOUN#0.0#0.0

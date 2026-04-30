@@ -1,0 +1,3 @@
+a person walks in a curved line, stops and then follows their footsteps#a/DET person/NOUN walk/VERB in/ADP a/DET curved/ADJ line/NOUN stop/VERB and/CCONJ then/ADV follow/VERB their/DET footstep/NOUN#0.0#0.0
+a person walks in a half moon pattern and then turns around to repeat their path.#a/DET person/NOUN walk/VERB in/ADP a/DET half/ADJ moon/NOUN pattern/NOUN and/CCONJ then/ADV turn/VERB around/ADP to/PART repeat/VERB their/DET path/NOUN#0.0#0.0
+this person marches around to the left to the right and back.#this/DET person/NOUN march/VERB around/ADP to/ADP the/DET left/NOUN to/ADP the/DET right/NOUN and/CCONJ back/ADV#0.0#0.0

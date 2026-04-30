@@ -1,0 +1,3 @@
+a person with arms stretched straight out brings both hands to crotch, then returns to original position#a/DET person/NOUN with/ADP arm/NOUN stretch/VERB straight/ADV out/ADV bring/VERB both/DET hand/NOUN to/PART crotch/VERB then/ADV return/VERB to/ADP original/ADJ position/NOUN#0.0#0.0
+a person puts hands together, then places them on his thighs and lastly outstretched from his sides.#a/DET person/NOUN put/VERB hand/NOUN together/ADV then/ADV place/VERB them/PRON on/ADP his/DET thigh/NOUN and/CCONJ lastly/ADV outstretche/VERB from/ADP his/DET side/NOUN#0.0#0.0
+a person sitting down with their hands in their lap.#a/DET person/NOUN sit/VERB down/ADP with/ADP their/DET hand/NOUN in/ADP their/DET lap/NOUN#0.0#0.0

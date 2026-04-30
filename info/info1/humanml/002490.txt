@@ -1,0 +1,3 @@
+a person walks forward a few steps with their arms swinging loosely at their sides.#a/DET person/NOUN walk/VERB forward/ADV a/DET few/ADJ step/NOUN with/ADP their/DET arm/NOUN swinge/VERB loosely/ADV at/ADP their/DET side/NOUN#0.0#0.0
+the person is taking four steps down.#the/DET person/NOUN is/AUX take/VERB four/NUM step/NOUN down/ADV#0.0#0.0
+a person walks forward, swinging their arms naturally.#a/DET person/NOUN walk/VERB forward/ADV swinge/VERB their/DET arm/NOUN naturally/ADV#0.0#0.0

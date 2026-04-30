@@ -1,0 +1,3 @@
+a person doing 2 steps#a/DET person/NOUN do/VERB step/NOUN#0.0#0.0
+person turns 180 degrees to the left then steps on something with his right leg and steps over it with left leg, then repeats one more step like previous#person/NOUN turn/VERB degree/NOUN to/ADP the/DET left/NOUN then/ADV step/VERB on/ADP something/PRON with/ADP his/DET right/ADJ leg/NOUN and/CCONJ step/NOUN over/ADP it/PRON with/ADP left/ADJ leg/NOUN then/ADV repeat/VERB one/NUM more/ADJ step/NOUN like/SCONJ previous/ADJ#0.0#0.0
+someone walks forward, stepping up with their right foot and down with their left.#someone/PRON walk/VERB forward/ADV step/VERB up/ADP with/ADP their/DET right/ADJ foot/NOUN and/CCONJ down/ADV with/ADP their/DET left/NOUN#0.0#0.0

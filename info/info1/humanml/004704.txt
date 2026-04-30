@@ -1,0 +1,3 @@
+a person covering his/her face and revealing it again#a/DET person/NOUN cover/VERB his/DET her/DET face/NOUN and/CCONJ reveal/VERB it/PRON again/ADV#0.0#0.0
+a person is standing up, playing peekaboo by covering their face with both hands#a/DET person/NOUN is/AUX stand/VERB up/ADP play/VERB peekaboo/NOUN by/ADP cover/VERB their/DET face/NOUN with/ADP both/DET hand/NOUN#0.0#0.0
+a man covers their face and then seems to scare someone#a/DET man/NOUN cover/VERB their/DET face/NOUN and/CCONJ then/ADV seem/VERB to/PART scare/VERB someone/PRON#0.0#0.0

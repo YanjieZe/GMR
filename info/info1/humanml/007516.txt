@@ -1,0 +1,3 @@
+standing on one leg and hopping.#stand/VERB on/ADP one/NUM leg/NOUN and/CCONJ hopping/NOUN#0.0#0.0
+a person balancing with their left leg.#a/DET person/NOUN balance/VERB with/ADP their/DET left/ADJ leg/NOUN#0.0#0.0
+a person standing on one leg and trying to balance#a/DET person/NOUN stand/VERB on/ADP one/NUM leg/NOUN and/CCONJ try/VERB to/PART balance/VERB#0.0#0.0

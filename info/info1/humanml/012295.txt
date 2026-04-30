@@ -1,0 +1,3 @@
+a man appears to slowly celebrate with a fist pump.#a/DET man/NOUN appear/VERB to/PART slowly/ADV celebrate/VERB with/ADP a/DET fist/NOUN pump/NOUN#0.0#0.0
+a man raises his left arm in the air.#a/DET man/NOUN raise/VERB his/DET left/ADJ arm/NOUN in/ADP the/DET air/NOUN#0.0#0.0
+the toon walks forward a couple of steps, before raising their right hand up.#the/DET toon/NOUN walk/VERB forward/ADV a/DET couple/NOUN of/ADP step/NOUN before/ADP raise/VERB their/DET right/ADJ hand/NOUN up/ADP#0.0#2.0

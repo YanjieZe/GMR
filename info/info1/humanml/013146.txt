@@ -1,0 +1,3 @@
+a person squats slightly moving from side to side then steps their left foot backward.#a/DET person/NOUN squat/VERB slightly/ADV move/VERB from/ADP side/NOUN to/PART side/NOUN then/ADV step/VERB their/DET left/ADJ foot/NOUN backward/ADV#0.0#0.0
+a figure grapples in a wrestling pose.#a/DET figure/NOUN grapple/VERB in/ADP a/DET wrestling/NOUN pose/NOUN#0.0#0.0
+person gets in quarter squat position, sways back and forth, then moves there left leg back a step.#person/NOUN get/VERB in/ADP quarter/NOUN squat/NOUN position/NOUN sway/VERB back/ADV and/CCONJ forth/ADV then/ADV move/VERB there/ADV left/VERB leg/NOUN back/ADV a/DET step/NOUN#0.0#0.0

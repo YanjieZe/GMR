@@ -1,0 +1,3 @@
+a person grabs the railing and walks up and then back down the stairs.#a/DET person/NOUN grab/VERB the/DET railing/NOUN and/CCONJ walk/VERB up/ADV and/CCONJ then/ADV back/ADV down/ADP the/DET stair/NOUN#0.0#0.0
+a person walking up and down the stairs.#a/DET person/NOUN walk/VERB up/ADP and/CCONJ down/ADP the/DET stair/NOUN#0.0#0.0
+a person walks up 4 steps by lifting one leg at a time then turns around and walks down those steps.#a/DET person/NOUN walk/VERB up/ADV step/NOUN by/ADP lift/VERB one/NUM leg/NOUN at/ADP a/DET time/NOUN then/ADV turn/VERB around/ADP and/CCONJ walk/VERB down/ADP those/DET step/NOUN#0.0#0.0

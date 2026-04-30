@@ -1,0 +1,2 @@
+a person stands and looks over their right shoulder behind them.#a/DET person/NOUN stand/VERB and/CCONJ look/VERB over/ADP their/DET right/ADJ shoulder/NOUN behind/ADP them/PRON#0.0#0.0
+person taking a few steps and looking around left to right.#person/NOUN take/VERB a/DET few/ADJ step/NOUN and/CCONJ look/VERB around/ADV left/VERB to/ADP right/ADJ#0.0#0.0

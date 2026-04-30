@@ -1,0 +1,3 @@
+sitting on a chair and getting up#sit/VERB on/ADP a/DET chair/NOUN and/CCONJ get/VERB up/ADP#0.0#0.0
+this person step back , sit down and then stand up again#this/DET person/NOUN step/VERB back/ADV sit/VERB down/ADP and/CCONJ then/ADV stand/VERB up/ADP again/ADV#0.0#0.0
+a person takes a step forward, gets on both knees, then leans on his right leg to get back up.#a/DET person/NOUN take/VERB a/DET step/NOUN forward/ADV get/VERB on/ADP both/DET knee/NOUN then/ADV lean/VERB on/ADP his/DET right/ADJ leg/NOUN to/PART get/AUX back/ADV up/ADV#0.0#0.0

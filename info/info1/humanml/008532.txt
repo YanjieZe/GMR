@@ -1,0 +1,3 @@
+the person is putting on his shirt.#the/DET person/NOUN is/AUX put/VERB on/ADP his/DET shirt/NOUN#0.0#0.0
+a person is turning something with its right hand, while holding something with its left hand#a/DET person/NOUN is/AUX turn/VERB something/PRON with/ADP its/DET right/ADJ hand/NOUN while/SCONJ hold/VERB something/PRON with/ADP its/DET left/ADJ hand/NOUN#0.0#0.0
+a person holds an item in their left hand and makes a twisting motion with their right hand.#a/DET person/NOUN hold/VERB an/DET item/NOUN in/ADP their/DET left/ADJ hand/NOUN and/CCONJ make/VERB a/DET twisting/NOUN motion/NOUN with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0

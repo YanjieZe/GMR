@@ -1,0 +1,3 @@
+stretching while leaning forward.#stretch/VERB while/SCONJ lean/VERB forward/ADV#0.0#0.0
+a person taps left leg while rolling left arm#a/DET person/NOUN tap/VERB left/VERB leg/NOUN while/SCONJ roll/VERB left/ADJ arm/NOUN#0.0#0.0
+this person is standing on his right leg with his left foot on a step.#this/DET person/NOUN is/AUX stand/VERB on/ADP his/DET right/ADJ leg/NOUN with/ADP his/DET left/ADJ foot/NOUN on/ADP a/DET step/NOUN#0.0#0.0

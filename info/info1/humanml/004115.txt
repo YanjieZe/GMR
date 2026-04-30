@@ -1,0 +1,3 @@
+a person gestures with their hands while making small foot movements, appearing to be dancing.#a/DET person/NOUN gesture/VERB with/ADP their/DET hand/NOUN while/SCONJ make/VERB small/ADJ foot/NOUN movement/NOUN appear/VERB to/PART be/AUX dance/VERB#0.0#0.0
+the man is warming up his ankle and wrists#the/DET man/NOUN is/AUX warm/VERB up/ADP his/DET ankle/NOUN and/CCONJ wrist/NOUN#0.0#0.0
+a person is doing a dance#a/DET person/NOUN is/AUX do/VERB a/DET dance/NOUN#0.0#0.0

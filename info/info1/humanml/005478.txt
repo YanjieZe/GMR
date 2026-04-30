@@ -1,0 +1,3 @@
+walk forward two steps, bend at the knee and waist as if picking something up. stand up and return to the starting position#walk/VERB forward/ADV two/NUM step/NOUN bend/VERB at/ADP the/DET knee/NOUN and/CCONJ waist/NOUN as/SCONJ if/SCONJ pick/VERB something/PRON up/ADP stand/VERB up/ADP and/CCONJ return/VERB to/ADP the/DET starting/NOUN position/NOUN#0.0#0.0
+person is lifting something heavy.#person/NOUN is/AUX lift/VERB something/PRON heavy/ADJ#0.0#0.0
+someone walks, stops and bends down, picks up something and puts it there, stands and leaves#someone/PRON walk/VERB stop/VERB and/CCONJ bend/VERB down/ADP pick/VERB up/ADP something/PRON and/CCONJ put/VERB it/PRON there/ADV stand/VERB and/CCONJ leave/NOUN#0.0#0.0

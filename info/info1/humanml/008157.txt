@@ -1,0 +1,3 @@
+a person turns to their left while leaping forward.#a/DET person/NOUN turn/VERB to/ADP their/DET left/NOUN while/SCONJ leap/VERB forward/ADV#0.0#0.0
+the person jumps forward and turns to his left.#the/DET person/NOUN jump/VERB forward/ADV and/CCONJ turn/VERB to/ADP his/DET left/NOUN#0.0#0.0
+a person jumps forwards and turns left in mid air.#a/DET person/NOUN jump/VERB forward/NOUN and/CCONJ turn/VERB left/VERB in/ADP mid/ADJ air/NOUN#0.0#0.0

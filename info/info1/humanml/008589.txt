@@ -1,0 +1,3 @@
+a man swings left arm across body.#a/DET man/NOUN swing/NOUN left/VERB arm/NOUN across/ADP body/NOUN#0.0#0.0
+the person was throwing a frisbee.#the/DET person/NOUN was/AUX throw/VERB a/DET frisbee/NOUN#0.0#0.0
+a person throws something with their right arm, then shifts back and forth on their feet.#a/DET person/NOUN throw/VERB something/PRON with/ADP their/DET right/ADJ arm/NOUN then/ADV shift/VERB back/ADV and/CCONJ forth/ADV on/ADP their/DET foot/NOUN#0.0#0.0

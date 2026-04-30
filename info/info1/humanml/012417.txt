@@ -1,0 +1,3 @@
+the man walks with a prideful step about 4 feet and then turns around to walk back to his original spot.#the/DET man/NOUN walk/VERB with/ADP a/DET prideful/ADJ step/NOUN about/ADV foot/NOUN and/CCONJ then/ADV turn/VERB around/ADP to/PART walk/VERB back/ADV to/ADP his/DET original/ADJ spot/NOUN#0.0#0.0
+a person drunkenly walks to their front right and then does a spin.#a/DET person/NOUN drunkenly/ADV walk/VERB to/ADP their/DET front/ADJ right/ADV and/CCONJ then/ADV does/AUX a/DET spin/NOUN#0.0#0.0
+this person walks slowly left foot over right foot then turns flopping arms around.#this/DET person/NOUN walk/VERB slowly/ADV left/VERB foot/NOUN over/ADP right/ADJ foot/NOUN then/ADV turn/VERB flop/VERB arm/NOUN around/ADV#0.0#0.0

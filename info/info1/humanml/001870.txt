@@ -1,0 +1,3 @@
+person walks to the right.then turns to the left and begins climbing a ladder. he sits on the ladder and swings its legs.#person/NOUN walk/VERB to/ADP the/DET turn/VERB to/ADP the/DET left/NOUN and/CCONJ begin/VERB climb/VERB a/DET ladder/NOUN he/PRON sit/VERB on/ADP the/DET ladder/NOUN and/CCONJ swing/VERB its/DET leg/NOUN#0.0#0.0
+person walks in semi circle before climbing a ladder#person/NOUN walk/VERB in/ADP semi/PROPN circle/NOUN before/ADP climb/VERB a/DET ladder/NOUN#0.0#0.0
+the person is walking around then climbing something.#the/DET person/NOUN is/AUX walk/VERB around/ADV then/ADV climb/VERB something/PRON#0.0#0.0

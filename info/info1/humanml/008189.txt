@@ -1,0 +1,3 @@
+spinning around then walking forward.#spin/VERB around/ADV then/ADV walk/VERB forward/ADV#0.0#0.0
+a person tries to place one foot in front of the other as they move in a mostly straight line.#a/DET person/NOUN try/VERB to/PART place/VERB one/NUM foot/NOUN in/ADP front/NOUN of/ADP the/DET other/ADJ as/SCONJ they/PRON move/VERB in/ADP a/DET mostly/ADV straight/ADJ line/NOUN#0.0#0.0
+the person seems off balance and their knees are shaking. they are having a lot of trouble walking straight.#the/DET person/NOUN seem/VERB off/ADP balance/NOUN and/CCONJ their/DET knee/NOUN are/AUX shake/VERB they/PRON are/AUX have/VERB a/DET lot/NOUN of/ADP trouble/NOUN walk/VERB straight/ADV#0.0#0.0

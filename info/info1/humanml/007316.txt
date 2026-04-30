@@ -1,0 +1,3 @@
+someone standing and with his hands up and head slightly up in a singing position.#someone/PRON stand/VERB and/CCONJ with/ADP his/DET hand/NOUN up/ADV and/CCONJ head/VERB slightly/ADV up/ADV in/ADP a/DET singing/NOUN position/NOUN#0.0#0.0
+a person grabbed something with rigth hand,and leaned it near to face#a/DET person/NOUN grab/VERB something/PRON with/ADP rigth/ADJ hand/NOUN and/CCONJ lean/VERB it/PRON near/ADJ to/PART face/VERB#0.0#0.0
+a person is holding his head with his right hand#a/DET person/NOUN is/AUX hold/VERB his/DET head/NOUN with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0

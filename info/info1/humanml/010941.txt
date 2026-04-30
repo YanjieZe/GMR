@@ -1,0 +1,3 @@
+the person is walking upstairs.#the/DET person/NOUN is/AUX walk/VERB upstairs/ADV#0.0#0.0
+the man goes up 5 steps holding the rail.#the/DET man/NOUN go/VERB up/ADV step/NOUN hold/VERB the/DET rail/NOUN#0.0#0.0
+a person climbs steps whilst holding on to a railing with their right hand#a/DET person/NOUN climb/VERB step/NOUN whilst/SCONJ hold/VERB on/ADP to/ADP a/DET railing/NOUN with/ADP their/DET right/ADJ hand/NOUN#1.0#2.0

@@ -1,0 +1,3 @@
+he mopes everything around him#he/PRON mope/VERB everything/PRON around/ADP him/PRON#0.0#0.0
+mopes around, walking in a half circle.#mope/NOUN around/ADV walk/VERB in/ADP a/DET half/ADJ circle/NOUN#0.0#0.0
+a person is walking around slouched#a/DET person/NOUN is/AUX walk/VERB around/ADP slouched/ADV#0.0#0.0

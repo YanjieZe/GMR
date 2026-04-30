@@ -1,0 +1,3 @@
+the person is sitting down.#the/DET person/NOUN is/AUX sit/VERB down/ADP#0.0#0.0
+a person slowly slides their back down a wall, bending their knees into a squat position.#a/DET person/NOUN slowly/ADV slide/VERB their/DET back/NOUN down/ADP a/DET wall/NOUN bend/VERB their/DET knee/NOUN into/ADP a/DET squat/ADJ position/NOUN#0.0#0.0
+a man squats down by bending his knees.#a/DET man/NOUN squat/VERB down/ADP by/ADP bend/VERB his/DET knee/NOUN#0.0#0.0

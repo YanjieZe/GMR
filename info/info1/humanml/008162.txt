@@ -1,0 +1,3 @@
+a person moves their arms around.#a/DET person/NOUN move/VERB their/DET arm/NOUN around/ADV#0.0#0.0
+waving arms side to side.#wave/VERB arm/NOUN side/NOUN to/PART side/VERB#0.0#0.0
+a man opening up his arms and started dancing.#a/DET man/NOUN open/VERB up/ADP his/DET arm/NOUN and/CCONJ start/VERB dance/VERB#0.0#0.0

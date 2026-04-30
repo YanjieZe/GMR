@@ -1,0 +1,2 @@
+a person walks forward in a curve to the left.#a/DET person/NOUN walk/VERB forward/ADV in/ADP a/DET curve/NOUN to/ADP the/DET left/NOUN#0.0#0.0
+a person walks in a clockwise circular patter to the their left#a/DET person/NOUN walk/VERB in/ADP a/DET clockwise/ADJ circular/ADJ patter/NOUN to/ADP the/DET their/DET left/NOUN#0.0#0.0

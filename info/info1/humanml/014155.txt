@@ -1,0 +1,3 @@
+a person punches left and puts their arms down.#a/DET person/NOUN punch/VERB left/VERB and/CCONJ put/VERB their/DET arm/NOUN down/ADV#0.0#0.0
+a person punches with their left hand#a/DET person/NOUN punch/VERB with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0
+person raises both hands in front their face, before quickly jabbing outwards with their left hand, before returning to their starting pose.#person/NOUN raise/VERB both/DET hand/NOUN in/ADP front/NOUN their/DET face/NOUN before/ADV quickly/ADV jab/VERB outward/NOUN with/ADP their/DET left/ADJ hand/NOUN before/ADP return/VERB to/ADP their/DET starting/NOUN pose/NOUN#0.0#0.0

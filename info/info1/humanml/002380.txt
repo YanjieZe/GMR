@@ -1,0 +1,3 @@
+a person stands still then moves their arms up slightly#a/DET person/NOUN stand/VERB still/ADV then/ADV move/VERB their/DET arm/NOUN up/ADV slightly/ADV#0.0#0.0
+this person is standing still and lifting arms.#this/DET person/NOUN is/AUX stand/VERB still/ADV and/CCONJ lift/VERB arm/NOUN#0.0#0.0
+person actually looks like one of those people that talk with their hands using odd motions with their hands maybe to explain the words they're expressing#person/NOUN actually/ADV look/VERB like/SCONJ one/NUM of/ADP those/DET people/NOUN that/DET talk/VERB with/ADP their/DET hand/NOUN use/VERB odd/ADJ motion/NOUN with/ADP their/DET hand/NOUN maybe/ADV to/PART explain/VERB the/DET word/NOUN they/PRON express/VERB#0.0#0.0

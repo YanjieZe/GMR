@@ -1,0 +1,3 @@
+a person walks upstairs and then back down#a/DET person/NOUN walk/VERB upstairs/ADV and/CCONJ then/ADV back/ADV down/ADP#0.0#0.0
+a man walks gradually up some steps, makes a half-turn, and walks gradually downwards again.#a/DET man/NOUN walk/VERB gradually/ADV up/ADP some/DET step/NOUN make/VERB a/DET halfturn/NOUN and/CCONJ walk/VERB gradually/ADV downwards/ADV again/ADV#0.0#0.0
+a person walking up then down the stairs#a/DET person/NOUN walk/VERB up/ADP then/ADV down/ADP the/DET stair/NOUN#0.0#0.0

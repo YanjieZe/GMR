@@ -1,0 +1,3 @@
+a person is walking then stops and sits down#a/DET person/NOUN is/AUX walk/VERB then/ADV stop/VERB and/CCONJ sit/VERB down/ADP#0.0#0.0
+a person walks forward, turns around and sits on a chair.#a/DET person/NOUN walk/VERB forward/ADV turn/VERB around/ADV and/CCONJ sit/VERB on/ADP a/DET chair/NOUN#0.0#9.0
+a person walks forward, briefly sits down, and then stands and walk back in the opposite direction.#a/DET person/NOUN walk/VERB forward/ADV briefly/ADV sit/VERB down/ADV and/CCONJ then/ADV stand/VERB and/CCONJ walk/VERB back/ADV in/ADP the/DET opposite/ADJ direction/NOUN#0.0#0.0

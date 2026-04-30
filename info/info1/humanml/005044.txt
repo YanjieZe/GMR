@@ -1,0 +1,3 @@
+a person is walking and steps over a large gap#a/DET person/NOUN is/AUX walk/VERB and/CCONJ step/NOUN over/ADP a/DET large/ADJ gap/NOUN#0.0#0.0
+a person walks foward and steps over a gap leading with the right foot.#a/DET person/NOUN walk/VERB foward/ADJ and/CCONJ step/NOUN over/ADP a/DET gap/NOUN lead/VERB with/ADP the/DET right/ADJ foot/NOUN#0.0#0.0
+a person considers their step then walks forward.#a/DET person/NOUN consider/VERB their/DET step/NOUN then/ADV walk/VERB forward/ADV#0.0#0.0

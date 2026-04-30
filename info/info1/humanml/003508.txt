@@ -1,0 +1,3 @@
+someone is waving his left hand.#someone/PRON is/AUX wave/VERB his/DET left/ADJ hand/NOUN#0.0#0.0
+a person raises right hand to head level, waves side to side a couple of times, and then drops the hand down.#a/DET person/NOUN raise/VERB right/ADJ hand/NOUN to/PART head/VERB level/NOUN wave/NOUN side/VERB to/PART side/VERB a/DET couple/NOUN of/ADP time/NOUN and/CCONJ then/ADV drop/VERB the/DET hand/NOUN down/ADP#0.0#0.0
+a person moves their right hand up and waves before putting it back down#a/DET person/NOUN move/VERB their/DET right/ADJ hand/NOUN up/ADP and/CCONJ wave/NOUN before/ADP put/VERB it/PRON back/ADV down/ADP#0.0#0.0

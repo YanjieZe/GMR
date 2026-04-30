@@ -1,0 +1,3 @@
+the person is bent over like a chicken.#the/DET person/NOUN is/AUX bent/ADJ over/ADP like/INTJ a/DET chicken/NOUN#0.0#0.0
+a person leans forward acting like a bird pecking.#a/DET person/NOUN lean/VERB forward/ADV act/VERB like/SCONJ a/DET bird/NOUN pecking/NOUN#0.0#0.0
+is is crouched over, shaking their shoulders.#is/AUX is/AUX crouch/VERB over/ADV shake/VERB their/DET shoulder/NOUN#0.0#0.0

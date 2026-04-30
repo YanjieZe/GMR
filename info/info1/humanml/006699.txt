@@ -1,0 +1,3 @@
+a person casually takes one step back.#a/DET person/NOUN casually/ADV take/VERB one/NUM step/NOUN back/ADV#0.0#0.0
+person takes one step backward to their right#person/NOUN take/VERB one/NUM step/NOUN backward/ADV to/ADP their/DET right/NOUN#0.0#0.0
+a person takes a quick step backwards and to their right.#a/DET person/NOUN take/VERB a/DET quick/ADJ step/NOUN backwards/ADV and/CCONJ to/ADP their/DET right/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person runs in place#a/DET person/NOUN run/VERB in/ADP place/NOUN#0.0#0.0
+person does an energized jog in place.#person/NOUN does/AUX an/DET energized/ADJ jog/NOUN in/ADP place/NOUN#0.0#0.0
+a person doing a short run in place#a/DET person/NOUN do/VERB a/DET short/ADJ run/NOUN in/ADP place/NOUN#0.0#0.0

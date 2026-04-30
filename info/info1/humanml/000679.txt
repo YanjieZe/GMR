@@ -1,0 +1,3 @@
+drunk walking animation turning around#drunk/ADJ walking/NOUN animation/NOUN turn/VERB around/ADV#0.0#0.0
+a person limping around loosely.#a/DET person/NOUN limp/VERB around/ADP loosely/ADV#0.0#0.0
+a person walks with a limp leg.#a/DET person/NOUN walk/VERB with/ADP a/DET limp/ADJ leg/NOUN#0.0#0.0

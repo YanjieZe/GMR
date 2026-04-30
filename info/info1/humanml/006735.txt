@@ -1,0 +1,3 @@
+the man makes a gesture and ties his laces#the/DET man/NOUN make/VERB a/DET gesture/NOUN and/CCONJ tie/VERB his/DET lace/NOUN#0.0#0.0
+a man takes his both hands and puts it on his hips and jumps up and down#a/DET man/NOUN take/VERB his/PRON both/DET hand/NOUN and/CCONJ put/VERB it/PRON on/ADP his/DET hip/NOUN and/CCONJ jump/VERB up/ADV and/CCONJ down/ADV#0.0#0.0
+a person ties their shoe.#a/DET person/NOUN tie/VERB their/DET shoe/NOUN#0.0#0.0

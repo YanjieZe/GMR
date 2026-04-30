@@ -1,0 +1,3 @@
+a person walk half the circle in the clockwise direction  and then start running from the next half .#a/DET person/NOUN walk/VERB half/DET the/DET circle/NOUN in/ADP the/DET clockwise/NOUN direction/NOUN and/CCONJ then/ADV start/VERB run/VERB from/ADP the/DET next/ADJ half/NOUN#0.0#0.0
+person walks in a circle half-way then starts to run around in the same circle#person/NOUN walk/VERB in/ADP a/DET circle/NOUN halfway/NOUN then/ADV start/VERB to/PART run/VERB around/ADV in/ADP the/DET same/ADJ circle/NOUN#0.0#0.0
+individual appears to go from walking to running in a clockwise motion.#individual/ADJ appear/VERB to/PART go/VERB from/ADP walk/VERB to/ADP run/VERB in/ADP a/DET clockwise/ADJ motion/NOUN#1.0#4.0

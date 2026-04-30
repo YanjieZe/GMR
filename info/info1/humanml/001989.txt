@@ -1,0 +1,3 @@
+someone in a fighting stance, kicking with their left foot.#someone/PRON in/ADP a/DET fighting/NOUN stance/NOUN kick/VERB with/ADP their/DET left/ADJ foot/NOUN#0.0#0.0
+a person is doing leg kicks with arms a head#a/DET person/NOUN is/AUX do/VERB leg/NOUN kick/NOUN with/ADP arm/NOUN a/DET head/NOUN#0.0#0.0
+the figure has its hands curled at jaw level, steps onto its right foot and raises left leg with bent knee to kick forward and return to starting stance.#the/DET figure/NOUN has/AUX its/DET hand/NOUN curl/VERB at/ADP jaw/NOUN level/NOUN step/VERB onto/ADP its/DET right/ADJ foot/NOUN and/CCONJ raise/VERB left/ADJ leg/NOUN with/ADP bent/ADJ knee/PROPN to/PART kick/VERB forward/ADV and/CCONJ return/VERB to/ADP start/VERB stance/NOUN#0.0#0.0

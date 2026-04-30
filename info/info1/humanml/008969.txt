@@ -1,0 +1,3 @@
+person reaches forward with hands, and makes repeated movements in front of themselves.#person/NOUN reach/VERB forward/ADV with/ADP hand/NOUN and/CCONJ make/VERB repeat/VERB movement/NOUN in/ADP front/NOUN of/ADP themselves/PRON#0.0#0.0
+a person hunches over slightly and grabs something with their hands.#a/DET person/NOUN hunch/VERB over/ADP slightly/ADV and/CCONJ grab/NOUN something/PRON with/ADP their/DET hand/NOUN#0.0#0.0
+a person gathers something with both hands.#a/DET person/NOUN gather/VERB something/PRON with/ADP both/DET hand/NOUN#0.0#0.0

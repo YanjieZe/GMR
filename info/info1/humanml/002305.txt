@@ -1,0 +1,3 @@
+person walks forward and then walks back looks as if they bump into something and turns around#person/NOUN walk/VERB forward/ADV and/CCONJ then/ADV walk/VERB back/ADV look/VERB as/SCONJ if/SCONJ they/PRON bump/VERB into/ADP something/PRON and/CCONJ turn/VERB around/ADV#0.0#0.0
+a person walks forward and reverse.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ reverse/VERB#0.0#0.0
+a man is slowly walking forward and walks backwards then forwards again.#a/DET man/NOUN is/AUX slowly/ADV walk/VERB forward/ADV and/CCONJ walk/VERB backwards/ADV then/ADV forwards/ADV again/ADV#0.0#0.0

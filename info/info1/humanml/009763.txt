@@ -1,0 +1,3 @@
+a person steps their right leg out and back to lean their body in that direaction#a/DET person/NOUN step/VERB their/DET right/ADJ leg/NOUN out/ADP and/CCONJ back/ADV to/PART lean/VERB their/DET body/NOUN in/ADP that/DET direaction/NOUN#0.0#0.0
+a person steps forward with their right leg, with their arms on their waist.#a/DET person/NOUN step/VERB forward/ADV with/ADP their/DET right/ADJ leg/NOUN with/ADP their/DET arm/NOUN on/ADP their/DET waist/NOUN#0.0#0.0
+the person is doing a warm-up with his elbows bent.#the/DET person/NOUN is/AUX do/VERB a/DET warmup/NOUN with/ADP his/DET elbow/NOUN bent/NOUN#0.0#0.0

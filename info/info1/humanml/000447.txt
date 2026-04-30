@@ -1,0 +1,3 @@
+a person stands still then slightly moves their arms#a/DET person/NOUN stand/VERB still/ADV then/ADV slightly/ADV move/VERB their/DET arm/NOUN#0.0#0.0
+person is standing still on the spot with arms by their side#person/NOUN is/AUX stand/VERB still/ADV on/ADP the/DET spot/NOUN with/ADP arm/NOUN by/ADP their/DET side/NOUN#0.0#0.0
+a person pushes themselves from behind#a/DET person/NOUN push/VERB themselves/PRON from/ADP behind/ADV#0.0#0.0

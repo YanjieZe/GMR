@@ -1,0 +1,3 @@
+a person clutches at backpain with right hand.#a/DET person/NOUN clutch/VERB at/ADP backpain/NOUN with/ADP right/ADJ hand/NOUN#0.0#0.0
+a man walks forward while leaning to his left with his right hand on his right hip, appearing to be in pain.#a/DET man/NOUN walk/VERB forward/ADV while/SCONJ lean/VERB to/ADP his/DET left/NOUN with/ADP his/DET right/ADJ hand/NOUN on/ADP his/DET right/ADJ hip/NOUN appear/VERB to/PART be/AUX in/ADP pain/NOUN#0.0#0.0
+a person stops walking and grabs their lower back in pain.#a/DET person/NOUN stop/VERB walk/VERB and/CCONJ grab/VERB their/DET lower/ADJ back/ADV in/ADP pain/NOUN#0.0#0.0

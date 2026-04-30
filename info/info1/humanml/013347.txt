@@ -1,0 +1,3 @@
+a person slowly walks forward.#a/DET person/NOUN slowly/ADV walk/VERB forward/ADV#0.0#0.0
+a person walking slowly is shoved from behind, but they quickly recover their composure.#a/DET person/NOUN walk/VERB slowly/ADV is/AUX shove/VERB from/ADP behind/ADV but/CCONJ they/PRON quickly/ADV recover/VERB their/DET composure/NOUN#0.0#0.0
+the person was push but did not fall down.#the/DET person/NOUN was/AUX push/NOUN but/CCONJ did/AUX not/PART fall/VERB down/ADP#0.0#0.0

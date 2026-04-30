@@ -1,0 +1,3 @@
+a person does motions to stretch out his back#a/DET person/NOUN does/AUX motion/NOUN to/PART stretch/VERB out/ADP his/DET back/NOUN#0.0#0.0
+character raises hand above head, twists to the right and left , and proceeds to stretch their back.#character/NOUN raise/VERB hand/NOUN above/ADP head/NOUN twist/VERB to/ADP the/DET right/NOUN and/CCONJ left/VERB and/CCONJ proceed/VERB to/PART stretch/VERB their/DET back/NOUN#0.0#0.0
+raising hands and turning side to side.#raise/VERB hand/NOUN and/CCONJ turn/VERB side/NOUN to/ADP side/VERB#0.0#0.0

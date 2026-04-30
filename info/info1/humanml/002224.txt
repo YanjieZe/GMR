@@ -1,0 +1,3 @@
+person in an aggressive stance walks casually forward in a horizontal direction#person/NOUN in/ADP an/DET aggressive/ADJ stance/NOUN walk/VERB casually/ADV forward/ADV in/ADP a/DET horizontal/ADJ direction/NOUN#0.0#0.0
+person walks quickly diagnal from right to left across matt#person/NOUN walk/VERB quickly/ADV diagnal/ADJ from/ADP right/NOUN to/ADP left/VERB across/ADP matt/PROPN#0.0#0.0
+the person is walking steadily#the/DET person/NOUN is/AUX walk/VERB steadily/ADV#0.0#0.0

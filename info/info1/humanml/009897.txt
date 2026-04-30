@@ -1,0 +1,3 @@
+a person picking something up#a/DET person/NOUN pick/VERB something/PRON up/ADP#0.0#0.0
+a person bends down and picks something up with their right hand#a/DET person/NOUN bend/VERB down/ADP and/CCONJ pick/VERB something/PRON up/ADP with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+a man squad down into a forward position, as if clearly ready to tackel the quaterback.#a/DET man/NOUN squad/VERB down/ADP into/ADP a/DET forward/ADJ position/NOUN as/SCONJ if/SCONJ clearly/ADV ready/ADJ to/PART tackel/VERB the/DET quaterback/NOUN#0.0#0.0

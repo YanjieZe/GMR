@@ -1,0 +1,3 @@
+a man keeps his hands at his head and then kicks with his right leg.#a/DET man/NOUN keep/VERB his/DET hand/NOUN at/ADP his/DET head/NOUN and/CCONJ then/ADV kick/VERB with/ADP his/DET right/ADJ leg/NOUN#0.0#0.0
+a person performing repeated right footed front kicks#a/DET person/NOUN perform/VERB repeat/VERB right/ADV footed/ADJ front/ADJ kick/NOUN#0.0#0.0
+person leans back then kicks something with their right leg and repeats the kicking motion#person/NOUN lean/VERB back/ADV then/ADV kick/VERB something/PRON with/ADP their/DET right/ADJ leg/NOUN and/CCONJ repeat/VERB the/DET kicking/NOUN motion/NOUN#0.0#0.0

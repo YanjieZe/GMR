@@ -1,0 +1,3 @@
+person bows very slightly to front once only arms fully extended#person/NOUN bow/VERB very/ADV slightly/ADV to/PART front/VERB once/ADV only/ADV arm/NOUN fully/ADV extend/VERB#0.0#0.0
+the person is performing a not so low forward leaning bow#the/DET person/NOUN is/AUX perform/VERB a/DET not/PART so/ADV low/ADJ forward/ADV lean/VERB bow/NOUN#0.0#0.0
+a person bends and bows slightly.#a/DET person/NOUN bend/VERB and/CCONJ bow/VERB slightly/ADV#0.0#0.0

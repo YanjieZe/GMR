@@ -1,0 +1,3 @@
+a figure gets down on all fours then raises its chest#a/DET figure/NOUN get/VERB down/ADP on/ADP all/DET four/NOUN then/ADV raise/VERB its/DET chest/NOUN#0.0#0.0
+a person gets on all fours then to their knees.#a/DET person/NOUN get/VERB on/ADP all/DET four/NOUN then/ADV to/ADP their/DET knee/NOUN#0.0#0.0
+person gets down on all fours#person/NOUN get/VERB down/ADV on/ADP all/DET four/NOUN#0.0#0.0

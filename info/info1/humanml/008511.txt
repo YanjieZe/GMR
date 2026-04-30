@@ -1,0 +1,3 @@
+a person performs two jumping jacks.#a/DET person/NOUN perform/VERB two/NUM jump/VERB jack/NOUN#0.0#0.0
+a person does two jumping jacks by jumping up, spreading his legs and raising his arms above his head.#a/DET person/NOUN does/AUX two/NUM jump/VERB jack/NOUN by/ADP jump/VERB up/ADP spread/VERB his/DET leg/NOUN and/CCONJ raise/VERB his/DET arm/NOUN above/ADP his/DET head/NOUN#0.0#0.0
+a person does two jumping jacks.#a/DET person/NOUN does/AUX two/NUM jump/VERB jack/NOUN#0.0#0.0

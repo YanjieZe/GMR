@@ -1,0 +1,3 @@
+starting with their left foot, a person walks in a circle from the bottom right.#start/VERB with/ADP their/DET left/ADJ foot/NOUN a/DET person/NOUN walk/VERB in/ADP a/DET circle/NOUN from/ADP the/DET bottom/NOUN right/ADV#0.0#0.0
+a person walks forward slowly in a small clockwise circle.#a/DET person/NOUN walk/VERB forward/ADV slowly/ADV in/ADP a/DET small/ADJ clockwise/NOUN circle/NOUN#0.0#0.0
+a person walks in a small circle, clockwise, then stops.#a/DET person/NOUN walk/VERB in/ADP a/DET small/ADJ circle/NOUN clockwise/NOUN then/ADV stop/VERB#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks forward slightly then walks backwards, then walks forward again.#a/DET person/NOUN walk/VERB forward/ADV slightly/ADV then/ADV walk/VERB backwards/ADV then/ADV walk/VERB forward/ADV again/ADV#0.0#0.0
+a person walks forward and back.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ back/ADV#0.0#0.0
+the body walks forward a few steps and then backwards a few steps to walk forward.#the/DET body/NOUN walk/VERB forward/ADV a/DET few/ADJ step/NOUN and/CCONJ then/ADV backwards/ADP a/DET few/ADJ step/NOUN to/PART walk/VERB forward/ADV#0.0#0.0

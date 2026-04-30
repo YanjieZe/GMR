@@ -1,0 +1,3 @@
+a person takes two steps backwards, beginning with his right leg.#a/DET person/NOUN take/VERB two/NUM step/NOUN backwards/ADV begin/VERB with/ADP his/DET right/ADJ leg/NOUN#0.0#0.0
+a person is pushed from the front and recovers.#a/DET person/NOUN is/AUX push/VERB from/ADP the/DET front/NOUN and/CCONJ recover/NOUN#0.0#0.0
+a person quickly takes one step backwards.#a/DET person/NOUN quickly/ADV take/VERB one/NUM step/NOUN backwards/ADV#0.0#0.0

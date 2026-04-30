@@ -1,0 +1,3 @@
+a young girl grasp the pencil in her left hand to write a sentence to her techer she got angry when she couldnt think of  what to write.#a/DET young/ADJ girl/NOUN grasp/VERB the/DET pencil/NOUN in/ADP her/DET left/ADJ hand/NOUN to/PART write/VERB a/DET sentence/NOUN to/ADP her/DET techer/NOUN she/PRON get/VERB angry/ADJ when/ADV she/PRON could/VERB nt/PART think/VERB of/ADP what/PRON to/PART write/VERB#0.0#0.0
+a person has both hands in front.#a/DET person/NOUN has/AUX both/DET hand/NOUN in/ADP front/NOUN#0.0#0.0
+the person stands with tehir arms stretched out in front of them.#the/DET person/NOUN stand/VERB with/ADP tehir/ADJ arm/NOUN stretch/VERB out/ADP in/ADP front/NOUN of/ADP them/PRON#0.0#0.0

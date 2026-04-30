@@ -1,0 +1,3 @@
+a person is playing basketball and move quickly to the left#a/DET person/NOUN is/AUX play/VERB basketball/NOUN and/CCONJ move/VERB quickly/ADV to/ADP the/DET left/NOUN#0.0#0.0
+a person is playing basketball, fakes a shot and dribbles forward.#a/DET person/NOUN is/AUX play/VERB basketball/NOUN fake/VERB a/DET shot/NOUN and/CCONJ dribble/NOUN forward/ADV#0.0#0.0
+a man  moves his arms and then runs forward.#a/DET man/NOUN move/VERB his/DET arm/NOUN and/CCONJ then/ADV run/VERB forward/ADV#0.0#0.0

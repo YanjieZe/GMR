@@ -1,0 +1,3 @@
+ski mountain lodge  go down the mountain slowly#ski/PROPN mountain/PROPN lodge/PROPN go/VERB down/ADP the/DET mountain/NOUN slowly/ADV#0.0#0.0
+person shuffles slowly forward. and then he holds out his hands sideways to the side as if celebrating#person/NOUN shuffle/VERB slowly/ADV forward/ADV and/CCONJ then/ADV he/PRON hold/VERB out/ADP his/DET hand/NOUN sideways/ADV to/ADP the/DET side/NOUN as/SCONJ if/SCONJ celebrate/VERB#0.0#0.0
+a figure carefully rolls forward on a log before putting out both arms in clelbration#a/DET figure/NOUN carefully/ADV roll/VERB forward/ADV on/ADP a/DET log/NOUN before/ADP put/VERB out/ADP both/DET arm/NOUN in/ADP clelbration/NOUN#0.0#0.0

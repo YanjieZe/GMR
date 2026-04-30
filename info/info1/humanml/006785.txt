@@ -1,0 +1,3 @@
+someone takes steps to the left then to the right raising their hands#someone/PRON take/VERB step/NOUN to/ADP the/DET left/NOUN then/ADV to/ADP the/DET right/NOUN raise/VERB their/DET hand/NOUN#0.0#0.0
+this person walks left then waves with left hand, turns and walks right then waves with left hand again.#this/DET person/NOUN walk/VERB left/VERB then/ADV wave/NOUN with/ADP left/ADJ hand/NOUN turn/VERB and/CCONJ walk/VERB right/ADV then/ADV wave/VERB with/ADP left/ADJ hand/NOUN again/ADV#0.0#0.0
+a character paces around left to right placing their hand close to their head to shield the sun.#a/DET character/NOUN pace/VERB around/ADV left/VERB to/ADP right/ADV place/VERB their/DET hand/NOUN close/ADV to/ADP their/DET head/NOUN to/PART shield/VERB the/DET sun/NOUN#0.0#0.0

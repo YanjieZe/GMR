@@ -1,0 +1,3 @@
+someone walks forwards, then takes two steps back, then walks forwards again.#someone/PRON walk/VERB forwards/ADV then/ADV take/VERB two/NUM step/NOUN back/ADV then/ADV walk/VERB forwards/ADJ again/ADV#0.0#0.0
+he does a push recovory#he/PRON does/AUX a/DET push/NOUN recovory/NOUN#0.0#0.0
+a figure walks forward sexily / like a woman#a/DET figure/NOUN walk/VERB forward/ADV sexily/ADV like/SCONJ a/DET woman/NOUN#0.0#0.0

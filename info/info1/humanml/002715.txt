@@ -1,0 +1,3 @@
+the person is standing and then lifts his right arm.#the/DET person/NOUN is/AUX stand/VERB and/CCONJ then/ADV lift/VERB his/DET right/ADJ arm/NOUN#0.0#0.0
+a person stands in one spot before waving or high-fiving with their right hand.#a/DET person/NOUN stand/VERB in/ADP one/NUM spot/NOUN before/ADP wave/VERB or/CCONJ highfive/VERB with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+a person gives a high five#a/DET person/NOUN give/VERB a/DET high/ADJ five/NUM#0.0#0.0

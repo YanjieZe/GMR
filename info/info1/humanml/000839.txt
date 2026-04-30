@@ -1,0 +1,3 @@
+a person stretches both arms gently up, then bends their elbows while keeping their arms above their head.#a/DET person/NOUN stretch/VERB both/DET arm/NOUN gently/ADV up/ADV then/ADV bend/VERB their/DET elbow/NOUN while/SCONJ keep/VERB their/DET arm/NOUN above/ADP their/DET head/NOUN#0.0#0.0
+a person with their arms above their head stretches their arms upwards.#a/DET person/NOUN with/ADP their/DET arm/NOUN above/ADP their/DET head/NOUN stretch/VERB their/DET arm/NOUN upwards/ADV#0.0#0.0
+a man has both of his arms raised.#a/DET man/NOUN has/AUX both/DET of/ADP his/DET arm/NOUN raise/VERB#0.0#0.0

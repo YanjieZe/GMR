@@ -1,0 +1,3 @@
+a person performs three jumping jacks.#a/DET person/NOUN perform/VERB three/NUM jump/VERB jack/NOUN#0.0#0.0
+the person is doing jumping jacks.#the/DET person/NOUN is/AUX do/VERB jump/VERB jack/NOUN#0.0#0.0
+person squat thrusts three times#person/NOUN squat/PROPN thrust/NOUN three/NUM time/NOUN#0.0#0.0

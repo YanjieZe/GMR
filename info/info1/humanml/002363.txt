@@ -1,0 +1,3 @@
+a person lifting a dumbbell twice with his left arm.#a/DET person/NOUN lift/VERB a/DET dumbbell/NOUN twice/ADV with/ADP his/DET left/ADJ arm/NOUN#0.0#0.0
+the person raises and lowers their left arm as if they were exercising their bicep#the/DET person/NOUN raise/VERB and/CCONJ lower/VERB their/DET left/ADJ arm/NOUN as/SCONJ if/SCONJ they/PRON were/AUX exercise/VERB their/DET bicep/NOUN#0.0#0.0
+a person is lifting his left hand multiple times.#a/DET person/NOUN is/AUX lift/VERB his/DET left/ADJ hand/NOUN multiple/NOUN time/NOUN#0.0#0.0

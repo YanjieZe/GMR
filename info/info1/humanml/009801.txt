@@ -1,0 +1,3 @@
+a person raised the hand and bent it#a/DET person/NOUN raise/VERB the/DET hand/NOUN and/CCONJ bend/VERB it/PRON#0.0#0.0
+a person is raising both arms.#a/DET person/NOUN is/AUX raise/VERB both/DET arm/NOUN#0.0#0.0
+raising hands near face.#raise/VERB hand/NOUN near/SCONJ face/NOUN#0.0#0.0

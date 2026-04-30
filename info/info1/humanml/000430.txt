@@ -1,0 +1,3 @@
+a person walks backwards slowly.#a/DET person/NOUN walk/VERB backwards/ADV slowly/ADV#0.0#0.0
+a person cautiously steps backwards.#a/DET person/NOUN cautiously/ADV step/VERB backwards/ADV#0.0#0.0
+a person takes 5 steps backwards staring with the left leg#a/DET person/NOUN take/VERB step/NOUN backwards/ADV stare/VERB with/ADP the/DET left/ADJ leg/NOUN#0.0#0.0

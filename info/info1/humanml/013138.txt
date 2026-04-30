@@ -1,0 +1,3 @@
+person slowly bends down and puts hands  on hips then raises right arm out and then left#person/NOUN slowly/ADV bend/VERB down/ADP and/CCONJ put/VERB hand/NOUN on/ADP hip/NOUN then/ADV raise/VERB right/ADJ arm/NOUN out/ADP and/CCONJ then/ADV left/VERB#0.0#0.0
+a person picks up two items and holds them up, then replaces them.#a/DET person/NOUN pick/VERB up/ADV two/NUM item/NOUN and/CCONJ hold/VERB them/PRON up/ADP then/ADV replace/VERB them/PRON#0.0#0.0
+person is pouring and mixing some thing.#person/NOUN is/AUX pour/VERB and/CCONJ mix/VERB some/DET thing/NOUN#0.0#0.0

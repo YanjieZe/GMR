@@ -1,0 +1,3 @@
+a person appears to be jogging.#a/DET person/NOUN appear/VERB to/PART be/AUX jog/VERB#0.0#0.0
+a person running forward and stops.#a/DET person/NOUN run/VERB forward/ADV and/CCONJ stop/NOUN#0.0#0.0
+a man is jogging forward, swinging his arms from front to back.#a/DET man/NOUN is/AUX jog/VERB forward/ADV swinge/VERB his/DET arm/NOUN from/ADP front/NOUN to/ADP back/NOUN#0.0#0.0

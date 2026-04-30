@@ -1,0 +1,3 @@
+a figure with arms out rotates down the moves hands around.#a/DET figure/NOUN with/ADP arm/NOUN out/SCONJ rotate/NOUN down/ADP the/DET move/NOUN hand/NOUN around/ADV#0.0#0.0
+a person with arm up and to the side. lowers arms and rotates in circular motion.#a/DET person/NOUN with/ADP arm/NOUN up/ADV and/CCONJ to/ADP the/DET side/NOUN lower/VERB arm/NOUN and/CCONJ rotate/NOUN in/ADP circular/ADJ motion/NOUN#0.0#0.0
+person reaches arms out to the side then most circular motions forward#person/NOUN reach/VERB arm/NOUN out/ADV to/ADP the/DET side/NOUN then/ADV most/ADJ circular/ADJ motion/NOUN forward/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person stands in a t pose with no movement at all#a/DET person/NOUN stand/VERB in/ADP a/DET t/NOUN pose/NOUN with/ADP no/DET movement/NOUN at/ADV all/ADV#0.0#0.0
+a person stands with his arms on his side#a/DET person/NOUN stand/VERB with/ADP his/DET arm/NOUN on/ADP his/DET side/NOUN#0.0#0.0
+a man has hand hands both up and at shoulder length#a/DET man/NOUN has/AUX hand/NOUN hand/NOUN both/CCONJ up/ADP and/CCONJ at/ADP shoulder/NOUN length/NOUN#0.0#0.0

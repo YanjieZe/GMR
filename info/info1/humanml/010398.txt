@@ -1,0 +1,3 @@
+a person is walking while swinging around his arms.#a/DET person/NOUN is/AUX walk/VERB while/SCONJ swinge/VERB around/ADP his/DET arm/NOUN#0.0#0.0
+man walks stretches arms, swings both arms around while walking#man/NOUN walk/VERB stretch/VERB arm/NOUN swing/VERB both/CCONJ arm/NOUN around/ADV while/SCONJ walk/VERB#0.0#0.0
+person is scampering all around.#person/NOUN is/AUX scamper/VERB all/ADV around/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+person walks up stairs holding onto bannister with right hand#person/NOUN walk/VERB up/ADP stair/NOUN hold/VERB onto/ADP bannister/NOUN with/ADP right/ADJ hand/NOUN#0.0#0.0
+a person is walking up stairs using their arms as support against wall or railing.#a/DET person/NOUN is/AUX walk/VERB up/ADP stair/NOUN use/VERB their/DET arm/NOUN as/SCONJ support/NOUN against/ADP wall/NOUN or/CCONJ railing/NOUN#0.0#0.0
+walking up stairs to the right#walk/VERB up/ADP stair/NOUN to/ADP the/DET right/NOUN#0.0#7.0

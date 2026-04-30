@@ -1,0 +1,3 @@
+a person reaches forwards with their right arm and gestures vaguely.#a/DET person/NOUN reach/VERB forwards/ADV with/ADP their/DET right/ADJ arm/NOUN and/CCONJ gesture/NOUN vaguely/ADV#0.0#0.0
+a person points repeatedly with their right hand#a/DET person/NOUN point/VERB repeatedly/ADV with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+a person raised right hand, and did some jesture with it#a/DET person/NOUN raise/VERB right/ADJ hand/NOUN and/CCONJ did/AUX some/DET jesture/NOUN with/ADP it/PRON#0.0#0.0

@@ -1,0 +1,3 @@
+stay stand on the place and run.#stay/VERB stand/NOUN on/ADP the/DET place/NOUN and/CCONJ run/NOUN#0.0#0.0
+a standing person is using both their left and right foot to do a slow jog in place#a/DET stand/VERB person/NOUN is/AUX use/VERB both/CCONJ their/DET left/ADJ and/CCONJ right/ADJ foot/NOUN to/PART do/AUX a/DET slow/ADJ jog/NOUN in/ADP place/NOUN#0.0#0.0
+someone is running in place and then stops.#someone/PRON is/AUX run/VERB in/ADP place/NOUN and/CCONJ then/ADV stop/VERB#0.0#0.0

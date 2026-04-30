@@ -1,0 +1,3 @@
+a person walks backwards carefully.#a/DET person/NOUN walk/VERB backwards/ADV carefully/ADV#0.0#0.0
+person is walking backwards in a straight line.#person/NOUN is/AUX walk/VERB backwards/ADV in/ADP a/DET straight/ADJ line/NOUN#0.0#0.0
+a person who is standing with his hands by his sides moves backwards four steps starting with his left foot.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP his/DET hand/NOUN by/ADP his/DET side/NOUN move/VERB backwards/ADV four/NUM step/NOUN start/VERB with/ADP his/DET left/ADJ foot/NOUN#0.0#0.0

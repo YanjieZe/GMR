@@ -1,0 +1,3 @@
+a person walks in a clockwise circle.#a/DET person/NOUN walk/VERB in/ADP a/DET clockwise/ADJ circle/NOUN#0.0#0.0
+a person walks in a large clock-wise circle and then stands in the same area he started walking.#a/DET person/NOUN walk/VERB in/ADP a/DET large/ADJ clockwise/NOUN circle/NOUN and/CCONJ then/ADV stand/VERB in/ADP the/DET same/ADJ area/NOUN he/PRON start/VERB walk/VERB#0.0#0.0
+a person walks in a clockwise circle with their arms down by their side.#a/DET person/NOUN walk/VERB in/ADP a/DET clockwise/NOUN circle/NOUN with/ADP their/DET arm/NOUN down/ADP by/ADP their/DET side/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+taking quick strides back and forth#take/VERB quick/ADJ stride/NOUN back/ADV and/CCONJ forth/ADV#0.0#0.0
+a person walks in a leftward arc, turns around and walks back along the same path.#a/DET person/NOUN walk/VERB in/ADP a/DET leftward/ADJ arc/NOUN turn/VERB around/ADV and/CCONJ walk/VERB back/ADV along/ADP the/DET same/ADJ path/NOUN#0.0#0.0
+a person walks in an angled line to the left, then back to the starting position.#a/DET person/NOUN walk/VERB in/ADP an/DET angle/VERB line/NOUN to/ADP the/DET left/NOUN then/ADV back/ADV to/ADP the/DET starting/NOUN position/NOUN#0.0#0.0

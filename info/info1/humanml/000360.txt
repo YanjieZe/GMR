@@ -1,0 +1,3 @@
+a small dip to gear up for a two legged hop#a/DET small/ADJ dip/NOUN to/PART gear/VERB up/ADP for/ADP a/DET two/NUM legged/ADJ hop/NOUN#0.0#0.0
+person jumps once on the spot#person/NOUN jump/VERB once/ADV on/ADP the/DET spot/NOUN#0.0#0.0
+i see someone jump up once#i/PRON see/VERB someone/PRON jump/VERB up/ADP once/ADV#0.0#0.0

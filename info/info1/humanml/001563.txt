@@ -1,0 +1,3 @@
+the person punches the air and jumps.#the/DET person/NOUN punch/VERB the/DET air/NOUN and/CCONJ jump/NOUN#0.0#0.0
+figure looks like he is getting ready for a boxing match.#figure/NOUN look/VERB like/SCONJ he/PRON is/AUX get/VERB ready/ADJ for/ADP a/DET boxing/NOUN match/NOUN#0.0#0.0
+person is punching the air then jumping.#person/NOUN is/AUX punch/VERB the/DET air/NOUN then/ADV jump/VERB#0.0#0.0

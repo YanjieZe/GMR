@@ -1,0 +1,2 @@
+a person briskly walks around and falls then gets up.#a/DET person/NOUN briskly/ADV walk/VERB around/ADV and/CCONJ fall/VERB then/ADV get/VERB up/ADP#0.0#0.0
+the person walks with both arms to his side and falls down.#the/DET person/NOUN walk/VERB with/ADP both/DET arm/NOUN to/ADP his/DET side/NOUN and/CCONJ fall/VERB down/ADP#0.0#0.0

@@ -1,0 +1,3 @@
+a man strides quickly from one side to the other#a/DET man/NOUN stride/VERB quickly/ADV from/ADP one/NUM side/NOUN to/ADP the/DET other/ADJ#0.0#0.0
+the person walks in a path that curves to their left.#the/DET person/NOUN walk/VERB in/ADP a/DET path/NOUN that/DET curve/VERB to/ADP their/DET left/NOUN#0.0#0.0
+a person walks briskly forward in an curved line#a/DET person/NOUN walk/VERB briskly/ADV forward/ADV in/ADP an/DET curved/ADJ line/NOUN#0.0#0.0

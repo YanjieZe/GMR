@@ -1,0 +1,3 @@
+this person uses both hands as if to show a measurement.#this/DET person/NOUN use/VERB both/DET hand/NOUN as/SCONJ if/SCONJ to/PART show/VERB a/DET measurement/NOUN#0.0#0.0
+a person spreads his hands apart in front of his face, then drops his hands down to his sides.#a/DET person/NOUN spread/VERB his/DET hand/NOUN apart/ADV in/ADP front/NOUN of/ADP his/DET face/NOUN then/ADV drop/VERB his/DET hand/NOUN down/ADP to/ADP his/DET side/NOUN#0.0#0.0
+person covers face with both hands and then quickly lifts hands away, like they are playing peekaboo.#person/NOUN cover/VERB face/NOUN with/ADP both/DET hand/NOUN and/CCONJ then/ADV quickly/ADV lift/VERB hand/NOUN away/ADV like/SCONJ they/PRON are/AUX play/VERB peekaboo/PROPN#0.0#0.0

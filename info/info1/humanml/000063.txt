@@ -1,0 +1,3 @@
+a person is drying their right arm#a/DET person/NOUN is/AUX dry/VERB their/DET right/ADJ arm/NOUN#0.0#0.0
+a person reaches down with the left arm. the person then reaches out with right arm and begins a scratching, rotating motion.#a/DET person/NOUN reach/VERB down/ADP with/ADP the/DET left/ADJ arm/NOUN the/DET person/NOUN then/ADV reach/VERB out/ADP with/ADP right/ADJ arm/NOUN and/CCONJ begin/VERB a/DET scratching/NOUN rotate/VERB motion/NOUN#0.0#0.0
+a person bends down to grab something, then moves their arm#a/DET person/NOUN bend/VERB down/ADP to/PART grab/VERB something/PRON then/ADV move/VERB their/DET arm/NOUN#0.0#0.0

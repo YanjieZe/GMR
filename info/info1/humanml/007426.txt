@@ -1,0 +1,3 @@
+a man swing a golf club from left to right.#a/DET man/NOUN swe/VERB a/DET golf/NOUN club/NOUN from/ADP left/VERB to/ADP right/NOUN#0.0#0.0
+person makes a golf swing#person/NOUN make/VERB a/DET golf/NOUN swing/NOUN#0.0#0.0
+person performs a golf swing#person/NOUN perform/VERB a/DET golf/NOUN swing/NOUN#0.0#0.0

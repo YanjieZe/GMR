@@ -1,0 +1,3 @@
+a person walks forward and then starts dancing.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ then/ADV start/VERB dancing/NOUN#0.0#0.0
+he does a salsa dance#he/PRON does/AUX a/DET salsa/ADJ dance/NOUN#0.0#0.0
+person moving forward then holding hands stomach height and then chest height and doing turns#person/NOUN move/VERB forward/ADV then/ADV hold/VERB hand/NOUN stomach/VERB height/ADV and/CCONJ then/ADV chest/VERB height/NOUN and/CCONJ do/VERB turn/NOUN#0.0#0.0

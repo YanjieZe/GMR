@@ -1,0 +1,3 @@
+a person stands still then puts their hands on their hip.#a/DET person/NOUN stand/VERB still/ADV then/ADV put/VERB their/DET hand/NOUN on/ADP their/DET hip/NOUN#0.0#0.0
+person stands still, then puts their hands on their hips.#person/NOUN stand/VERB still/ADV then/ADV put/VERB their/DET hand/NOUN on/ADP their/DET hip/NOUN#0.0#0.0
+a person stands with arms at his side and them raises them like putting them on his hips.#a/DET person/NOUN stand/VERB with/ADP arm/NOUN at/ADP his/DET side/NOUN and/CCONJ them/PRON raise/VERB them/PRON like/SCONJ put/VERB them/PRON on/ADP his/DET hip/NOUN#0.0#0.0

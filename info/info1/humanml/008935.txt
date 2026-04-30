@@ -1,0 +1,3 @@
+walking randomly and raising arms up.#walk/VERB randomly/ADV and/CCONJ raise/VERB arm/NOUN up/ADV#0.0#0.0
+angry dancing, gesturing, and jumping#angry/ADJ dancing/NOUN gesture/VERB and/CCONJ jump/VERB#0.0#0.0
+person appears to shake hands aggressively move to the right and shakes hands aggressively again.#person/NOUN appear/VERB to/PART shake/VERB hand/NOUN aggressively/ADV move/VERB to/ADP the/DET right/NOUN and/CCONJ shake/VERB hand/NOUN aggressively/ADV again/ADV#0.0#0.0

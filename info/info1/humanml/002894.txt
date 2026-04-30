@@ -1,0 +1,3 @@
+this figure seems to be casually waking#this/DET figure/NOUN seem/VERB to/PART be/AUX casually/ADV wake/VERB#0.0#0.0
+person walks forward then proceeds to turn around to walk back to where he started at#person/NOUN walk/VERB forward/ADV then/ADV proceed/VERB to/PART turn/VERB around/ADP to/PART walk/VERB back/ADV to/ADP where/ADV he/PRON start/VERB at/ADP#0.0#0.0
+a person walks up, turns around and walks back#a/DET person/NOUN walk/VERB up/ADP turn/VERB around/ADV and/CCONJ walk/VERB back/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+walking in a circular pattern.#walk/VERB in/ADP a/DET circular/ADJ pattern/NOUN#0.0#0.0
+left hand on the hip while the right hand is swung back and forth while walking around.#left/ADJ hand/NOUN on/ADP the/DET hip/NOUN while/SCONJ the/DET right/ADJ hand/NOUN is/AUX swing/VERB back/ADV and/CCONJ forth/ADV while/SCONJ walk/VERB around/ADV#0.0#0.0
+the person is walking with his handbag.#the/DET person/NOUN is/AUX walk/VERB with/ADP his/DET handbag/NOUN#0.0#0.0

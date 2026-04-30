@@ -1,0 +1,3 @@
+a man walks backwards with his arms stiffly at his sides.#a/DET man/NOUN walk/VERB backwards/ADV with/ADP his/DET arm/NOUN stiffly/NOUN at/ADP his/DET side/NOUN#0.0#0.0
+a person takes five steps backwards starting with their left leg and finishing with their legs together.#a/DET person/NOUN take/VERB five/NUM step/NOUN backwards/ADV start/VERB with/ADP their/DET left/ADJ leg/NOUN and/CCONJ finish/VERB with/ADP their/DET leg/NOUN together/ADV#0.0#0.0
+a person takes several steps backwards.#a/DET person/NOUN take/VERB several/ADJ step/NOUN backwards/ADV#0.0#0.0

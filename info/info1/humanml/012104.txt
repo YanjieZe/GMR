@@ -1,0 +1,3 @@
+the person is arguing with someone.#the/DET person/NOUN is/AUX argue/VERB with/ADP someone/PRON#0.0#0.0
+a person angerly moves their hands sideways back and forth in a no gesture.#a/DET person/NOUN angerly/ADV move/VERB their/DET hand/NOUN sideways/ADV back/ADV and/CCONJ forth/ADV in/ADP a/DET no/DET gesture/NOUN#0.0#0.0
+person using very animated arms motionsnto express anger, frustration, or disgust.#person/NOUN use/VERB very/ADV animated/ADJ arm/NOUN motionsnto/PROPN express/PROPN anger/NOUN frustration/NOUN or/CCONJ disgust/NOUN#0.0#0.0

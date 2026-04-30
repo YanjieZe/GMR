@@ -1,0 +1,3 @@
+the sim is balancing on their left foot, before alternating to their right foot.#the/DET sim/PROPN is/AUX balance/VERB on/ADP their/DET left/ADJ foot/NOUN before/ADP alternate/VERB to/ADP their/DET right/ADJ foot/NOUN#0.0#10.0
+a person raises their arms, and balances with their right leg then sets their arms down then balances with their left leg.#a/DET person/NOUN raise/VERB their/DET arm/NOUN and/CCONJ balance/NOUN with/ADP their/DET right/ADJ leg/NOUN then/ADV set/VERB their/DET arm/NOUN down/ADV then/ADV balance/VERB with/ADP their/DET left/ADJ leg/NOUN#0.0#0.0
+a person is standing on his right foot and then his left foot.#a/DET person/NOUN is/AUX stand/VERB on/ADP his/DET right/ADJ foot/NOUN and/CCONJ then/ADV his/DET left/ADJ foot/NOUN#0.0#0.0

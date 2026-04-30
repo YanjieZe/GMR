@@ -1,0 +1,3 @@
+a person who ran in a circle and then started rolling both hands repeatedly#a/DET person/NOUN who/PRON run/VERB in/ADP a/DET circle/NOUN and/CCONJ then/ADV start/VERB roll/VERB both/DET hand/NOUN repeatedly/ADV#0.0#0.0
+walking in a circle with hands near chest.#walk/VERB in/ADP a/DET circle/NOUN with/ADP hand/NOUN near/SCONJ chest/NOUN#0.0#0.0
+a person walks in a circle motion with both thier right and left,then leading both their hands in front of them making a scrathing motion#a/DET person/NOUN walk/VERB in/ADP a/DET circle/NOUN motion/NOUN with/ADP both/CCONJ thier/ADJ right/NOUN and/CCONJ left/VERB then/ADV lead/VERB both/CCONJ their/DET hand/NOUN in/ADP front/NOUN of/ADP them/PRON make/VERB a/DET scrathing/NOUN motion/NOUN#0.0#0.0

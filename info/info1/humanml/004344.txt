@@ -1,0 +1,3 @@
+a person walks straifht forward with head bent forward.#a/DET person/NOUN walk/VERB straifht/ADJ forward/ADV with/ADP head/NOUN bent/ADJ forward/ADV#0.0#0.0
+a person walking forward in a straight line, as if trying to model.#a/DET person/NOUN walk/VERB forward/ADV in/ADP a/DET straight/ADJ line/NOUN as/SCONJ if/SCONJ try/VERB to/PART model/VERB#0.0#0.0
+person having hard time walking straight line#person/NOUN have/VERB hard/ADJ time/NOUN walk/VERB straight/ADJ line/NOUN#0.0#0.0

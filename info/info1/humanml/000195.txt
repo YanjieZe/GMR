@@ -1,0 +1,3 @@
+a person opens something like a bottle, then tilts it to drink from it#a/DET person/NOUN open/VERB something/PRON like/SCONJ a/DET bottle/NOUN then/ADV tilt/VERB it/PRON to/PART drink/VERB from/ADP it/PRON#0.0#0.0
+hands in air doing a climbing upward motion.#hand/NOUN in/ADP air/NOUN do/VERB a/DET climbing/NOUN upward/ADV motion/NOUN#0.0#0.0
+a man reaches his arms up above his head, one at a time, then back down to his sides.#a/DET man/NOUN reach/VERB his/DET arm/NOUN up/ADP above/ADP his/DET head/NOUN one/NUM at/ADP a/DET time/NOUN then/ADV back/ADV down/ADP to/ADP his/DET side/NOUN#0.0#0.0

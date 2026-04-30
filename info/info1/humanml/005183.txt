@@ -1,0 +1,3 @@
+a person shakes their right knee.#a/DET person/NOUN shake/VERB their/DET right/ADJ knee/NOUN#0.0#0.0
+a person adjusting the temperature knobs on an oven.#a/DET person/NOUN adjust/VERB the/DET temperature/NOUN knob/NOUN on/ADP an/DET oven/NOUN#0.0#0.0
+a person jiggles their left knee, then their right knee.#a/DET person/NOUN jiggle/VERB their/DET left/ADJ knee/NOUN then/ADV their/DET right/ADJ knee/NOUN#0.0#0.0

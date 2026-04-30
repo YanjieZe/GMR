@@ -1,0 +1,3 @@
+a man standing appears to be drumming or hitting something.#a/DET man/NOUN stand/VERB appear/VERB to/PART be/AUX drum/VERB or/CCONJ hit/VERB something/PRON#0.0#0.0
+a man stands and moves his hands up and down trying to beat something.#a/DET man/NOUN stand/VERB and/CCONJ move/VERB his/DET hand/NOUN up/ADV and/CCONJ down/ADV try/VERB to/PART beat/VERB something/PRON#0.0#0.0
+a person moving hands up and down in front of them.#a/DET person/NOUN move/VERB hand/NOUN up/ADV and/CCONJ down/ADP in/ADP front/NOUN of/ADP them/PRON#0.0#0.0

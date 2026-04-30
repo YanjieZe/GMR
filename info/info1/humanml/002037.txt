@@ -1,0 +1,3 @@
+the person kicks something with their right foot.#the/DET person/NOUN kick/VERB something/PRON with/ADP their/DET right/ADJ foot/NOUN#0.0#0.0
+a person swings their right foot forward, kicking at something.#a/DET person/NOUN swing/VERB their/DET right/ADJ foot/NOUN forward/ADV kick/VERB at/ADP something/PRON#0.0#0.0
+a person take one step forward, kicks their red foot, then takes one step back.#a/DET person/NOUN take/VERB one/NUM step/NOUN forward/ADV kick/VERB their/DET red/ADJ foot/NOUN then/ADV take/VERB one/NUM step/NOUN back/ADV#0.0#0.0

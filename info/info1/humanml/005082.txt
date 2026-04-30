@@ -1,0 +1,3 @@
+the person is walking around looking around for something.#the/DET person/NOUN is/AUX walk/VERB around/ADP look/VERB around/ADV for/ADP something/PRON#0.0#0.0
+the man walks in a circle and turns.#the/DET man/NOUN walk/VERB in/ADP a/DET circle/NOUN and/CCONJ turn/NOUN#0.0#0.0
+a person walks around in a clockwise circle#a/DET person/NOUN walk/VERB around/ADV in/ADP a/DET clockwise/NOUN circle/NOUN#0.0#0.0

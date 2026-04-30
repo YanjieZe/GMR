@@ -1,0 +1,3 @@
+standing on one foot while the left foot moves behind the right leg.#stand/VERB on/ADP one/NUM foot/NOUN while/SCONJ the/DET left/ADJ foot/NOUN move/VERB behind/ADP the/DET right/ADJ leg/NOUN#0.0#0.0
+the stick figure lift his foot back words.#the/DET stick/PROPN figure/NOUN lift/VERB his/DET foot/NOUN back/ADV word/NOUN#0.0#0.0
+a person appears to be inspecting the bottom of their foot#a/DET person/NOUN appear/VERB to/PART be/AUX inspect/VERB the/DET bottom/NOUN of/ADP their/DET foot/NOUN#0.0#0.0

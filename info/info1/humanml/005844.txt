@@ -1,0 +1,3 @@
+person is jogging from left to right and then back to the center#person/NOUN is/AUX jog/VERB from/ADP left/VERB to/ADP right/NOUN and/CCONJ then/ADV back/ADV to/ADP the/DET center/NOUN#0.0#0.0
+the man runs to one side then back to the same spot.#the/DET man/NOUN run/VERB to/ADP one/NUM side/NOUN then/ADV back/ADV to/ADP the/DET same/ADJ spot/NOUN#0.0#0.0
+a person starts in the middle, runs to the right, then to the left, then returns back to their starting position#a/DET person/NOUN start/VERB in/ADP the/DET middle/NOUN run/VERB to/ADP the/DET right/NOUN then/ADV to/ADP the/DET left/NOUN then/ADV return/VERB back/ADV to/ADP their/DET starting/NOUN position/NOUN#0.0#0.0

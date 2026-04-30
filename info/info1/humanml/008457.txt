@@ -1,0 +1,3 @@
+a person warlk forward with a very possive stride.#a/DET person/NOUN warlk/VERB forward/ADV with/ADP a/DET very/ADV possive/ADJ stride/NOUN#0.0#0.0
+a person takes some steps forward.#a/DET person/NOUN take/VERB some/DET step/NOUN forward/ADV#0.0#0.0
+person takes slow steps forward slightly diagonally to their right#person/NOUN take/VERB slow/ADJ step/NOUN forward/ADV slightly/ADV diagonally/ADV to/ADP their/DET right/NOUN#0.0#0.0

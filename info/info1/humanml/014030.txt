@@ -1,0 +1,3 @@
+a person jumps up, flips backwards and twists in the air, landing on their back.#a/DET person/NOUN jump/VERB up/ADP flip/NOUN backwards/ADV and/CCONJ twist/NOUN in/ADP the/DET air/NOUN land/VERB on/ADP their/DET back/NOUN#0.0#0.0
+person swings arms, does a back flip, but twists midair and lands flat on their back.#person/NOUN swing/VERB arm/NOUN does/AUX a/DET back/NOUN flip/NOUN but/CCONJ twist/VERB midair/NOUN and/CCONJ land/VERB flat/ADJ on/ADP their/DET back/NOUN#0.0#0.0
+the person did a backflip and landed on his face.#the/DET person/NOUN did/AUX a/DET backflip/NOUN and/CCONJ land/VERB on/ADP his/DET face/NOUN#0.0#0.0

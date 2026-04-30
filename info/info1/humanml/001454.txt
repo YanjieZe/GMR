@@ -1,0 +1,3 @@
+a person walks backwards and stops.#a/DET person/NOUN walk/VERB backwards/ADV and/CCONJ stop/NOUN#0.0#0.0
+the body is walking backwards carefully.#the/DET body/NOUN is/AUX walk/VERB backwards/ADV carefully/ADV#0.0#0.0
+a person who is  walking backwards#a/DET person/NOUN who/PRON is/AUX walk/VERB backwards/ADV#0.0#0.0

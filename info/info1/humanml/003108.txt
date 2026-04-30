@@ -1,0 +1,3 @@
+a person with a wide stance repeatedly lash out with each hand at something in front of them.#a/DET person/NOUN with/ADP a/DET wide/ADJ stance/NOUN repeatedly/ADV lash/VERB out/ADP with/ADP each/DET hand/NOUN at/ADP something/PRON in/ADP front/NOUN of/ADP them/PRON#0.0#0.0
+a person punches as if they are boxing.#a/DET person/NOUN punch/VERB as/SCONJ if/SCONJ they/PRON are/AUX box/VERB#0.0#0.0
+a person with there knees bent and their arms out in front of them throws awkward punches with their arms#a/DET person/NOUN with/ADP there/ADV knee/NOUN bent/ADJ and/CCONJ their/DET arm/NOUN out/ADP in/ADP front/NOUN of/ADP them/PRON throw/VERB awkward/ADJ punch/NOUN with/ADP their/DET arm/NOUN#0.0#10.0

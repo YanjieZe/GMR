@@ -1,0 +1,3 @@
+a man stands with his legs parted and slowly rotates his upper torso a few times, then starts to rotate his hips.#a/DET man/NOUN stand/VERB with/ADP his/DET leg/NOUN part/VERB and/CCONJ slowly/ADV rotate/VERB his/DET upper/ADJ torso/NOUN a/DET few/ADJ time/NOUN then/ADV start/VERB to/PART rotate/VERB his/DET hip/NOUN#0.0#0.0
+a person moving the shoulders round and tries to wiggle the hips.#a/DET person/NOUN move/VERB the/DET shoulder/NOUN round/ADV and/CCONJ try/VERB to/PART wiggle/VERB the/DET hip/NOUN#0.0#0.0
+the person is doing his exercises.#the/DET person/NOUN is/AUX do/VERB his/DET exercise/NOUN#0.0#0.0

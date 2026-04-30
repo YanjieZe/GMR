@@ -1,0 +1,3 @@
+the man walked up to the door and knocked on it.#the/DET man/NOUN walk/VERB up/ADV to/ADP the/DET door/NOUN and/CCONJ knock/VERB on/ADP it/PRON#0.0#0.0
+person walks forward and lifts right hand to point in front  of them#person/NOUN walk/VERB forward/ADV and/CCONJ lift/VERB right/ADJ hand/NOUN to/PART point/VERB in/ADP front/ADJ of/ADP them/PRON#0.0#0.0
+a person walks forward and knocks on a door.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ knock/VERB on/ADP a/DET door/NOUN#0.0#0.0

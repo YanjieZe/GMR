@@ -1,0 +1,3 @@
+a person stretches their arms straight up while hopping slowly.#a/DET person/NOUN stretch/VERB their/DET arm/NOUN straight/ADV up/ADV while/SCONJ hop/VERB slowly/ADV#0.0#0.0
+a person reaches towards the sky and does a pushing motion and keeps their arms up.#a/DET person/NOUN reach/VERB towards/ADP the/DET sky/NOUN and/CCONJ does/AUX a/DET push/VERB motion/NOUN and/CCONJ keep/VERB their/DET arm/NOUN up/ADP#0.0#0.0
+a person stands straight with arms outstretched to yawn.#a/DET person/NOUN stand/VERB straight/ADV with/ADP arm/NOUN outstretche/VERB to/ADP yawn/PROPN#0.0#0.0

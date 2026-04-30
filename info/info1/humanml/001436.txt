@@ -1,0 +1,3 @@
+a person ducks down suddenly, steps forward, and stands back up.#a/DET person/NOUN duck/VERB down/ADP suddenly/ADV step/NOUN forward/ADV and/CCONJ stand/VERB back/ADV up/ADV#0.0#0.0
+a man bends forward and then takes a step.#a/DET man/NOUN bend/VERB forward/ADV and/CCONJ then/ADV take/VERB a/DET step/NOUN#0.0#0.0
+a man leans his upper body only forward at a 90 degree angle with both arms behind him to balance himself as if he is about to fall over.#a/DET man/NOUN lean/VERB his/DET upper/ADJ body/NOUN only/ADV forward/ADV at/ADP a/DET degree/NOUN angle/NOUN with/ADP both/DET arm/NOUN behind/ADP him/PRON to/PART balance/VERB himself/PRON as/SCONJ if/SCONJ he/PRON is/AUX about/ADJ to/PART fall/VERB over/ADP#0.0#0.0

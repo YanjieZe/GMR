@@ -1,0 +1,3 @@
+the person walks forward a few steps, appears to hold hands up, indicating a headache, and then steps back.#the/DET person/NOUN walk/VERB forward/ADV a/DET few/ADJ step/NOUN appear/VERB to/PART hold/VERB hand/NOUN up/ADP indicate/VERB a/DET headache/NOUN and/CCONJ then/ADV step/VERB back/ADV#0.0#0.0
+a person looks out over the space below them.#a/DET person/NOUN look/VERB out/ADP over/ADP the/DET space/NOUN below/ADP them/PRON#0.0#0.0
+this person steps forward then appears to look out a window.#this/DET person/NOUN step/VERB forward/ADV then/ADV appear/VERB to/PART look/VERB out/ADP a/DET window/NOUN#0.0#0.0

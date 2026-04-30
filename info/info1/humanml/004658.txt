@@ -1,0 +1,3 @@
+a person walking in a direction before turning around and walking in the order before squatting down.#a/DET person/NOUN walk/VERB in/ADP a/DET direction/NOUN before/ADP turn/VERB around/ADV and/CCONJ walk/VERB in/ADP the/DET order/NOUN before/ADP squat/VERB down/ADP#0.0#0.0
+person walks forward, grabs something, walks back and then sets item on the floor#person/NOUN walk/VERB forward/ADV grab/NOUN something/PRON walk/VERB back/ADV and/CCONJ then/ADV set/VERB item/NOUN on/ADP the/DET floor/NOUN#0.0#0.0
+a man walks forward and then turns around and bends down to pick something up.#a/DET man/NOUN walk/VERB forward/ADV and/CCONJ then/ADV turn/VERB around/ADP and/CCONJ bend/VERB down/ADP to/PART pick/VERB something/PRON up/ADP#0.0#0.0

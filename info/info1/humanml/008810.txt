@@ -1,0 +1,3 @@
+the figure makes a motion as if it's moving a large but light object to the side.#the/DET figure/NOUN make/VERB a/DET motion/NOUN as/SCONJ if/SCONJ it/PRON move/VERB a/DET large/ADJ but/CCONJ light/ADJ object/NOUN to/ADP the/DET side/NOUN#0.0#0.0
+a person picks up an object with both hands and places it somewhere else.#a/DET person/NOUN pick/VERB up/ADP an/DET object/NOUN with/ADP both/DET hand/NOUN and/CCONJ place/VERB it/PRON somewhere/ADV else/ADV#0.0#0.0
+a person lifts and moves something from left to right.#a/DET person/NOUN lift/VERB and/CCONJ move/VERB something/PRON from/ADP left/ADJ to/ADP right/NOUN#0.0#0.0

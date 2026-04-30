@@ -1,0 +1,3 @@
+a standing person holds their hands in front of their chest and claps three times.#a/DET stand/VERB person/NOUN hold/VERB their/DET hand/NOUN in/ADP front/NOUN of/ADP their/DET chest/NOUN and/CCONJ clap/NOUN three/NUM time/NOUN#0.0#0.0
+a man raises his hands to the middle of his body, claps and drops his hands.#a/DET man/NOUN raise/VERB his/DET hand/NOUN to/ADP the/DET middle/NOUN of/ADP his/DET body/NOUN clap/NOUN and/CCONJ drop/VERB his/DET hand/NOUN#0.0#0.0
+a person claps his hands together, then returns his hands to his sides.#a/DET person/NOUN clap/VERB his/DET hand/NOUN together/ADV then/ADV return/VERB his/DET hand/NOUN to/ADP his/DET side/NOUN#0.0#0.0

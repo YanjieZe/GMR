@@ -1,0 +1,3 @@
+a person is standing and adjusts their weight to lean more on their left side.#a/DET person/NOUN is/AUX stand/VERB and/CCONJ adjust/VERB their/DET weight/NOUN to/PART lean/VERB more/ADV on/ADP their/DET left/ADJ side/NOUN#0.0#0.0
+a person slightly sways to the left then right.#a/DET person/NOUN slightly/ADV sway/VERB to/ADP the/DET left/NOUN then/ADV right/INTJ#0.0#0.0
+a person who is standing moves his body and shoulders slightly to the left and returns to his original position.#a/DET person/NOUN who/PRON is/AUX stand/VERB move/VERB his/DET body/NOUN and/CCONJ shoulder/NOUN slightly/ADV to/ADP the/DET left/NOUN and/CCONJ return/VERB to/ADP his/DET original/ADJ position/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person is standing at a slight angle, he lifts his left hand twice leaving their fist at about shoulder length.#a/DET person/NOUN is/AUX stand/VERB at/ADP a/DET slight/ADJ angle/NOUN he/PRON lift/VERB his/DET left/ADJ hand/NOUN twice/ADV leave/VERB their/DET fist/NOUN at/ADP about/ADP shoulder/NOUN length/NOUN#0.0#2.0
+person lifts left arm up repeatedly#person/NOUN lift/VERB left/VERB arm/NOUN up/ADP repeatedly/ADV#0.0#0.0
+a man bends his arm at his elbow in front of him.#a/DET man/NOUN bend/VERB his/DET arm/NOUN at/ADP his/DET elbow/NOUN in/ADP front/NOUN of/ADP him/PRON#0.0#0.0

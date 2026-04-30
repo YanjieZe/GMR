@@ -1,0 +1,3 @@
+the sim is sitting down, appears to be either eating or drinking using their left hand.#the/DET sim/PROPN is/AUX sit/VERB down/ADP appear/VERB to/PART be/AUX either/CCONJ eat/VERB or/CCONJ drink/VERB use/VERB their/DET left/ADJ hand/NOUN#0.0#0.0
+the person raises and lowers their left hand while sitting.#the/DET person/NOUN raise/VERB and/CCONJ lower/VERB their/DET left/ADJ hand/NOUN while/SCONJ sit/VERB#0.0#0.0
+a person eats with left hand.#a/DET person/NOUN eat/VERB with/ADP left/ADJ hand/NOUN#0.0#0.0

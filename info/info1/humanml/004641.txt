@@ -1,0 +1,3 @@
+a person swing left arm all the way back and forward once.#a/DET person/NOUN swing/NOUN left/ADJ arm/NOUN all/DET the/DET way/NOUN back/ADV and/CCONJ forward/ADV once/ADV#0.0#0.0
+a person swipes ahead with their left arm.#a/DET person/NOUN swipe/VERB ahead/ADV with/ADP their/DET left/ADJ arm/NOUN#0.0#0.0
+person person swan his left arm down.#person/NOUN person/NOUN swan/VERB his/DET left/ADJ arm/NOUN down/ADP#0.0#0.0

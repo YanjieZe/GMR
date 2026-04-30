@@ -1,0 +1,3 @@
+a person steps up and sticks their arm out straight#a/DET person/NOUN step/VERB up/ADP and/CCONJ stick/VERB their/DET arm/NOUN out/ADP straight/ADV#0.0#0.0
+the person is standing with his right arm out.#the/DET person/NOUN is/AUX stand/VERB with/ADP his/DET right/ADJ arm/NOUN out/ADP#0.0#0.0
+a person holds their right arm straight out#a/DET person/NOUN hold/VERB their/DET right/ADJ arm/NOUN straight/ADV out/ADV#0.0#0.0

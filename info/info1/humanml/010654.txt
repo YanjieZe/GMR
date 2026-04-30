@@ -1,0 +1,3 @@
+a person scratches their head with their left hand.#a/DET person/NOUN scratch/VERB their/DET head/NOUN with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0
+a person raises their left hand above their head.#a/DET person/NOUN raise/VERB their/DET left/ADJ hand/NOUN above/ADP their/DET head/NOUN#0.0#0.0
+a person raises their left hand to scratch their head.#a/DET person/NOUN raise/VERB their/DET left/ADJ hand/NOUN to/PART scratch/VERB their/DET head/NOUN#0.0#0.0

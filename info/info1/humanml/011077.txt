@@ -1,0 +1,3 @@
+a man steps back and kneels down#a/DET man/NOUN step/VERB back/ADV and/CCONJ kneel/VERB down/ADP#0.0#0.0
+person shifts to the left, then steps up onto a box, steps over it, turns around and steps back over it.#person/NOUN shift/VERB to/ADP the/DET left/NOUN then/ADV step/VERB up/ADP onto/ADP a/DET box/NOUN step/VERB over/ADP it/PRON turn/VERB around/ADV and/CCONJ step/VERB back/ADV over/ADP it/PRON#0.0#0.0
+a person climbs and steps over a stool, and walks around it.#a/DET person/NOUN climb/VERB and/CCONJ step/NOUN over/ADP a/DET stool/NOUN and/CCONJ walk/VERB around/ADP it/PRON#0.0#0.0

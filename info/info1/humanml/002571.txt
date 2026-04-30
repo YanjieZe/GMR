@@ -1,0 +1,3 @@
+a person raises their left arm above their head and stretches to the right.#a/DET person/NOUN raise/VERB their/DET left/ADJ arm/NOUN above/ADP their/DET head/NOUN and/CCONJ stretch/VERB to/ADP the/DET right/NOUN#0.0#0.0
+a man raises his left hand over his head, the lets it back down next to his hip.#a/DET man/NOUN raise/VERB his/DET left/ADJ hand/NOUN over/ADP his/DET head/NOUN the/DET let/NOUN it/PRON back/ADV down/ADP next/ADV to/ADP his/DET hip/NOUN#0.0#0.0
+person waves with left arm above head.#person/NOUN wave/VERB with/ADP left/ADJ arm/NOUN above/ADP head/NOUN#0.0#0.0

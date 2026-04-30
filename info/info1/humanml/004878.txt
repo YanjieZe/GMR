@@ -1,0 +1,3 @@
+the person picks up one container with each hand, pours them at the same time, then grabs something with their right hand and mixes the concoction.#the/DET person/NOUN pick/VERB up/ADV one/NUM container/NOUN with/ADP each/DET hand/NOUN pour/VERB them/PRON at/ADP the/DET same/ADJ time/NOUN then/ADV grab/VERB something/PRON with/ADP their/DET right/ADJ hand/NOUN and/CCONJ mix/VERB the/DET concoction/NOUN#0.0#0.0
+a person trying to gain balance while standing.#a/DET person/NOUN try/VERB to/PART gain/VERB balance/NOUN while/SCONJ stand/VERB#0.0#0.0
+a man appears to picking up things and stacking them on top of each other#a/DET man/NOUN appear/VERB to/ADP pick/VERB up/ADP thing/NOUN and/CCONJ stack/VERB them/PRON on/ADP top/NOUN of/ADP each/DET other/ADJ#0.0#0.0

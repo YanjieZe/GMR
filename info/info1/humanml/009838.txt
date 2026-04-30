@@ -1,0 +1,3 @@
+a person bends his right arm inward in front of his chest#a/DET person/NOUN bend/VERB his/DET right/ADJ arm/NOUN inward/ADV in/ADP front/NOUN of/ADP his/DET chest/NOUN#0.0#0.0
+a person lifts their arm up to check their wrist, and then lower their arm back down.#a/DET person/NOUN lift/VERB their/DET arm/NOUN up/ADP to/PART check/VERB their/DET wrist/NOUN and/CCONJ then/ADV lower/VERB their/DET arm/NOUN back/ADV down/ADV#0.0#0.0
+a person holds their right wrist up, looking down at it like they are checking the time.#a/DET person/NOUN hold/VERB their/DET right/ADJ wrist/NOUN up/ADP look/VERB down/ADP at/ADP it/PRON like/SCONJ they/PRON are/AUX check/VERB the/DET time/NOUN#0.0#0.0

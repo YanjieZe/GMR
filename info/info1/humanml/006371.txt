@@ -1,0 +1,3 @@
+the person is doing arm gestures.#the/DET person/NOUN is/AUX do/VERB arm/NOUN gesture/NOUN#0.0#0.0
+a person moves his right and left hand around.#a/DET person/NOUN move/VERB his/DET right/NOUN and/CCONJ left/VERB hand/NOUN around/ADP#0.0#0.0
+a man repositions objects on a shelf then steps back away from them.#a/DET man/NOUN reposition/VERB object/NOUN on/ADP a/DET shelf/NOUN then/ADV step/VERB back/ADV away/ADV from/ADP them/PRON#0.0#0.0

@@ -1,0 +1,3 @@
+a person runs and leaps.#a/DET person/NOUN run/VERB and/CCONJ leap/NOUN#0.0#0.0
+a person is running and jumps.#a/DET person/NOUN is/AUX run/VERB and/CCONJ jump/NOUN#0.0#0.0
+the person is running and took a leap.#the/DET person/NOUN is/AUX run/VERB and/CCONJ take/VERB a/DET leap/NOUN#0.0#0.0

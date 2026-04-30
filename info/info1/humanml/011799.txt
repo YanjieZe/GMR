@@ -1,0 +1,3 @@
+this person strolls down the lane and then does a full 180 and walks back to almost the beginning.#this/DET person/NOUN stroll/VERB down/ADP the/DET lane/NOUN and/CCONJ then/ADV does/AUX a/DET full/ADJ and/CCONJ walk/VERB back/ADV to/ADP almost/ADV the/DET beginning/NOUN#0.0#0.0
+the person walks forward, turns around and walks back.#the/DET person/NOUN walk/VERB forward/ADV turn/VERB around/ADV and/CCONJ walk/VERB back/ADV#0.0#0.0
+walking in a diagonal line then back.#walk/VERB in/ADP a/DET diagonal/ADJ line/NOUN then/ADV back/ADV#0.0#0.0

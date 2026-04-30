@@ -1,0 +1,3 @@
+a person shifts left and right on their feet while stretching out their arms, bending them and raising them.#a/DET person/NOUN shift/NOUN left/VERB and/CCONJ right/ADV on/ADP their/DET foot/NOUN while/SCONJ stretch/VERB out/ADP their/DET arm/NOUN bend/VERB them/PRON and/CCONJ raise/VERB them/PRON#0.0#0.0
+a  person seems to be warming up both arms#a/DET person/NOUN seem/VERB to/PART be/AUX warm/VERB up/ADP both/DET arm/NOUN#0.0#0.0
+a man steps forward, lifts his arms then bends and stretches them.#a/DET man/NOUN step/VERB forward/ADV lift/VERB his/DET arm/NOUN then/ADV bend/VERB and/CCONJ stretch/VERB them/PRON#0.0#0.0

@@ -1,0 +1,3 @@
+a person remains relatively still in comparison to a bipedal organism and walks at a slow pace, clockwise at about a 30 degree angle.#a/DET person/NOUN remain/VERB relatively/ADV still/ADV in/ADP comparison/NOUN to/ADP a/DET bipedal/ADJ organism/NOUN and/CCONJ walk/VERB at/ADP a/DET slow/ADJ pace/NOUN clockwise/VERB at/ADP about/ADV a/DET degree/NOUN angle/NOUN#0.0#0.0
+a person walks a quarter circle to his right#a/DET person/NOUN walk/VERB a/DET quarter/NOUN circle/NOUN to/ADP his/DET right/NOUN#0.0#0.0
+the person walks forward but turning right and then stands still#the/DET person/NOUN walk/VERB forward/ADV but/CCONJ turn/VERB right/ADV and/CCONJ then/ADV stand/VERB still/ADV#0.0#0.0

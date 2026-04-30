@@ -1,0 +1,3 @@
+a person moves both of his hand left and right bended as well imitating movements of an animal#a/DET person/NOUN move/VERB both/DET of/ADP his/DET hand/NOUN left/VERB and/CCONJ right/ADV bend/VERB as/ADV well/ADV imitate/VERB movement/NOUN of/ADP an/DET animal/NOUN#0.0#0.0
+a person swift the hands in right and left direction#a/DET person/NOUN swift/VERB the/DET hand/NOUN in/ADP right/NOUN and/CCONJ left/ADJ direction/NOUN#0.0#0.0
+a person hunches over, holds arms out wide and swings them side to side before scratching self under the arm#a/DET person/NOUN hunch/VERB over/ADP hold/VERB arm/NOUN out/ADP wide/ADV and/CCONJ swing/VERB them/PRON side/VERB to/PART side/VERB before/ADP scratch/VERB self/NOUN under/ADP the/DET arm/NOUN#0.0#0.0

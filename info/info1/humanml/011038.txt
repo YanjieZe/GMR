@@ -1,0 +1,3 @@
+a person takes a jumpshot.#a/DET person/NOUN take/VERB a/DET jumpshot/NOUN#0.0#0.0
+person is dribbling a basketball and doing a crossover site.#person/NOUN is/AUX dribble/VERB a/DET basketball/NOUN and/CCONJ do/VERB a/DET crossover/NOUN site/NOUN#0.0#0.0
+a person appears to be dribbling a basketball with his left hand, then shoots with both hands#a/DET person/NOUN appear/VERB to/PART be/AUX dribble/VERB a/DET basketball/NOUN with/ADP his/DET left/ADJ hand/NOUN then/ADV shoot/VERB with/ADP both/DET hand/NOUN#0.0#0.0

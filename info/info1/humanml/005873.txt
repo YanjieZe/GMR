@@ -1,0 +1,3 @@
+a person does a throwing motion with their right arm.#a/DET person/NOUN does/AUX a/DET throwing/NOUN motion/NOUN with/ADP their/DET right/ADJ arm/NOUN#0.0#0.0
+a person moves their right arm over their shoulder as if to throw something.#a/DET person/NOUN move/VERB their/DET right/ADJ arm/NOUN over/ADP their/DET shoulder/NOUN as/SCONJ if/SCONJ to/PART throw/VERB something/PRON#0.0#0.0
+a person throws something hard#a/DET person/NOUN throw/VERB something/PRON hard/ADJ#0.0#0.0

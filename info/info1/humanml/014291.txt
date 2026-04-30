@@ -1,0 +1,3 @@
+a person pushes something away and then twists around.#a/DET person/NOUN push/VERB something/PRON away/ADV and/CCONJ then/ADV twist/VERB around/ADV#0.0#0.0
+the person is twisting around walking on the path.#the/DET person/NOUN is/AUX twist/VERB around/ADV walk/VERB on/ADP the/DET path/NOUN#0.0#0.0
+moving the hands go forward and backward.#move/VERB the/DET hand/NOUN go/VERB forward/ADV and/CCONJ backward/ADV#0.0#0.0

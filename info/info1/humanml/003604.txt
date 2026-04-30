@@ -1,0 +1,3 @@
+a person is imitating a chicken.#a/DET person/NOUN is/AUX imitate/VERB a/DET chicken/NOUN#0.0#0.0
+a person acting like a chicken.#a/DET person/NOUN act/VERB like/SCONJ a/DET chicken/NOUN#0.0#0.0
+a person bent over doing chicken arms#a/DET person/NOUN bent/ADJ over/ADP do/VERB chicken/NOUN arm/NOUN#0.0#0.0

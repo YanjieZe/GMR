@@ -1,0 +1,3 @@
+a person claps their hands together.#a/DET person/NOUN clap/VERB their/DET hand/NOUN together/ADV#0.0#0.0
+a person slowly claps in a sarcastic mannor#a/DET person/NOUN slowly/ADV clap/NOUN in/ADP a/DET sarcastic/ADJ mannor/NOUN#0.0#0.0
+someone raises both hands up to their chest and claps, then brings both hands back down to their sides.#someone/PRON raise/VERB both/DET hand/NOUN up/ADP to/ADP their/DET chest/NOUN and/CCONJ clap/NOUN then/ADV bring/VERB both/DET hand/NOUN back/ADV down/ADV to/ADP their/DET side/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person standing with their knees slightly bent is using both of their hands to hold on to something at chest level.#a/DET person/NOUN stand/VERB with/ADP their/DET knee/NOUN slightly/ADV bent/ADJ is/AUX use/VERB both/DET of/ADP their/DET hand/NOUN to/PART hold/VERB on/ADP to/ADP something/PRON at/ADP chest/NOUN level/NOUN#0.0#0.0
+person mounted on a motorcycle holding handle bars.#person/NOUN mount/VERB on/ADP a/DET motorcycle/NOUN hold/VERB handle/VERB bar/NOUN#0.0#0.0
+a person stands with their arms raised forward and wrists bent#a/DET person/NOUN stand/VERB with/ADP their/DET arm/NOUN raise/VERB forward/ADV and/CCONJ wrist/NOUN bent/ADJ#0.0#0.0

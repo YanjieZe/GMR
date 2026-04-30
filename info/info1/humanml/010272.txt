@@ -1,0 +1,3 @@
+a figure sits down and rises up.#a/DET figure/NOUN sit/VERB down/ADP and/CCONJ rise/VERB up/ADP#0.0#0.0
+a seated person uncrosses their legs, stands from the chair, sits in the chair and then rises from the chair.#a/DET seated/ADJ person/NOUN uncross/VERB their/DET leg/NOUN stand/VERB from/ADP the/DET chair/NOUN sit/VERB in/ADP the/DET chair/NOUN and/CCONJ then/ADV rise/VERB from/ADP the/DET chair/NOUN#0.0#0.0
+a person while sitting in a chair uncrosses its legs, gets up, sits back down, gets back up.#a/DET person/NOUN while/SCONJ sit/VERB in/ADP a/DET chair/NOUN uncross/VERB its/DET leg/NOUN get/VERB up/ADV sit/VERB back/ADV down/ADV get/VERB back/ADV up/ADV#0.0#0.0

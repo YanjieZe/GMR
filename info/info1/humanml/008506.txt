@@ -1,0 +1,3 @@
+character raises hands slowly to stetch their back while leaning left and right.#character/NOUN raise/VERB hand/NOUN slowly/ADV to/PART stetch/VERB their/DET back/NOUN while/SCONJ lean/VERB left/VERB and/CCONJ right/INTJ#0.0#0.0
+a figure stands on its tip toes, arches its back, and leans back and forth#a/DET figure/NOUN stand/VERB on/ADP its/DET tip/NOUN toe/NOUN arch/VERB its/DET back/NOUN and/CCONJ lean/VERB back/ADV and/CCONJ forth/ADV#0.0#0.0
+person raises both hands into the air above his head, before bending to his left, then bending to his right.#person/NOUN raise/VERB both/DET hand/NOUN into/ADP the/DET air/NOUN above/ADP his/DET head/NOUN before/ADP bend/VERB to/ADP his/DET left/NOUN then/ADV bend/VERB to/ADP his/DET right/NOUN#0.0#0.0

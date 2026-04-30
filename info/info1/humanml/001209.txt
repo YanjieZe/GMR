@@ -1,0 +1,3 @@
+the person was moving his arms around like he was drunk.#the/DET person/NOUN was/AUX move/VERB his/DET arm/NOUN around/ADV like/SCONJ he/PRON was/AUX drunk/ADJ#0.0#0.0
+the person is handling something.#the/DET person/NOUN is/AUX handle/VERB something/PRON#0.0#0.0
+an animal uses both of its hands to eat food#an/DET animal/NOUN use/VERB both/DET of/ADP its/DET hand/NOUN to/PART eat/VERB food/NOUN#0.0#0.0

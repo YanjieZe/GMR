@@ -1,0 +1,3 @@
+a person who seems to throw or hit something#a/DET person/NOUN who/PRON seem/VERB to/PART throw/VERB or/CCONJ hit/VERB something/PRON#0.0#0.0
+the person smashed a tennis ball with his tennis racket.#the/DET person/NOUN smash/VERB a/DET tennis/NOUN ball/NOUN with/ADP his/DET tennis/NOUN racket/NOUN#0.0#0.0
+person is practicing tennis techniques#person/NOUN is/AUX practice/VERB tennis/NOUN technique/NOUN#0.0#0.0

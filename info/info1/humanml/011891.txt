@@ -1,0 +1,3 @@
+a person is directing traffic by waving both his arms, then just his right arm, then both again, then left, then both#a/DET person/NOUN is/AUX direct/VERB traffic/NOUN by/ADP wave/VERB both/CCONJ his/DET arm/NOUN then/ADV just/ADV his/DET right/ADJ arm/NOUN then/ADV both/CCONJ again/ADV then/ADV left/VERB then/ADV both/DET#0.0#0.0
+a man motions traffic with his hands and arms.#a/DET man/NOUN motion/NOUN traffic/NOUN with/ADP his/DET hand/NOUN and/CCONJ arm/NOUN#0.0#0.0
+a person swing the hands and warm up the right and left arms#a/DET person/NOUN swe/VERB the/DET hand/NOUN and/CCONJ warm/VERB up/ADP the/DET right/NOUN and/CCONJ left/VERB arm/NOUN#0.0#0.0

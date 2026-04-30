@@ -1,0 +1,3 @@
+a person bending their legs up and down, doing squats.#a/DET person/NOUN bend/VERB their/DET leg/NOUN up/ADP and/CCONJ down/ADV do/VERB squat/NOUN#0.0#0.0
+a man is doing some lunges.#a/DET man/NOUN is/AUX do/VERB some/DET lunge/NOUN#0.0#0.0
+a person squats down halfway, two times.#a/DET person/NOUN squat/VERB down/ADP halfway/ADV two/NUM time/NOUN#0.0#0.0

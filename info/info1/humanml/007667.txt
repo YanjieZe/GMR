@@ -1,0 +1,3 @@
+the person is running in place.#the/DET person/NOUN is/AUX run/VERB in/ADP place/NOUN#0.0#0.0
+a person jogs in place#a/DET person/NOUN jog/VERB in/ADP place/NOUN#0.0#0.0
+the sim is running in place, stepping to their sides & backwards.#the/DET sim/PROPN is/AUX run/VERB in/ADP place/NOUN step/VERB to/ADP their/DET side/NOUN backwards/ADV#0.0#0.0

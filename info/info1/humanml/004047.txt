@@ -1,0 +1,3 @@
+person stands then takes big strides forward left leg first then finishes facing forward#person/NOUN stand/VERB then/ADV take/VERB big/ADJ stride/NOUN forward/ADV left/VERB leg/NOUN first/ADV then/ADV finish/VERB face/VERB forward/ADV#0.0#0.0
+person is walking down slowly#person/NOUN is/AUX walk/VERB down/ADP slowly/ADV#0.0#0.0
+a person walks straight forward while stepping over something#a/DET person/NOUN walk/VERB straight/ADV forward/ADV while/SCONJ step/VERB over/ADP something/PRON#0.0#0.0

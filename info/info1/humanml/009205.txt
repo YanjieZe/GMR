@@ -1,0 +1,3 @@
+the person is walking up a flight of stairs holding onto the railing with their right hand#the/DET person/NOUN is/AUX walk/VERB up/ADP a/DET flight/NOUN of/ADP stair/NOUN hold/VERB onto/ADP the/DET railing/NOUN with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+a person walks upstairs while holding on to something (rail).#a/DET person/NOUN walk/VERB upstairs/ADV while/SCONJ hold/VERB on/ADP to/ADP something/PRON rail/NOUN#0.0#0.0
+the person is walking upstairs holding onto the railing.#the/DET person/NOUN is/AUX walk/VERB upstairs/ADV hold/VERB onto/ADP the/DET railing/NOUN#0.0#0.0

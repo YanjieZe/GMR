@@ -1,0 +1,3 @@
+the man is he pacing  back and forth#the/DET man/NOUN is/AUX he/PRON pace/VERB back/ADV and/CCONJ forth/ADV#0.0#0.0
+person walks to the left then turns around and walks to the right before turning around and returning to starting position#person/NOUN walk/VERB to/ADP the/DET left/NOUN then/ADV turn/VERB around/ADP and/CCONJ walk/VERB to/ADP the/DET right/NOUN before/ADP turn/VERB around/ADV and/CCONJ return/VERB to/ADP start/VERB position/NOUN#0.0#0.0
+a person paces back and forth several times from left to right.#a/DET person/NOUN pace/VERB back/ADV and/CCONJ forth/ADV several/ADJ time/NOUN from/ADP left/VERB to/ADP right/NOUN#0.0#0.0

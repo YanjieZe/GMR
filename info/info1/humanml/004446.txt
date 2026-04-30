@@ -1,0 +1,3 @@
+the person is stepping on something.#the/DET person/NOUN is/AUX step/VERB on/ADP something/PRON#0.0#0.0
+a person walks up some stairs#a/DET person/NOUN walk/VERB up/ADP some/DET stair/NOUN#0.0#0.0
+a person quickly climbs a flight of stairs.#a/DET person/NOUN quickly/ADV climb/VERB a/DET flight/NOUN of/ADP stair/NOUN#0.0#0.0

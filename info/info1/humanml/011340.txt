@@ -1,0 +1,3 @@
+the person was pushed but stayed standing.#the/DET person/NOUN was/AUX push/VERB but/CCONJ stay/VERB standing/NOUN#0.0#0.0
+a person gets pushed back.#a/DET person/NOUN get/VERB push/VERB back/ADV#0.0#0.0
+someone is pushed backwards, but manages to regain his balance.#someone/PRON is/AUX push/VERB backwards/ADV but/CCONJ manage/VERB to/PART regain/VERB his/DET balance/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person runs in place at varying speeds#a/DET person/NOUN run/VERB in/ADP place/NOUN at/ADP varying/NOUN speed/NOUN#0.0#0.0
+a figure begins running in place, his speed increasing until he suddenly stops#a/DET figure/NOUN begin/VERB run/VERB in/ADP place/NOUN his/DET speed/NOUN increase/VERB until/ADP he/PRON suddenly/ADV stop/VERB#0.0#0.0
+a person faces forward and progressively runs faster while alternating arm bends at the elbow.#a/DET person/NOUN face/VERB forward/ADV and/CCONJ progressively/ADV run/VERB faster/ADV while/SCONJ alternate/VERB arm/NOUN bend/NOUN at/ADP the/DET elbow/NOUN#0.0#0.0

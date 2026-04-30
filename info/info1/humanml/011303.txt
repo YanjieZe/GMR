@@ -1,0 +1,3 @@
+a person sta on something and raised the hands and made some jesture#a/DET person/NOUN sta/NOUN on/ADP something/PRON and/CCONJ raise/VERB the/DET hand/NOUN and/CCONJ make/VERB some/DET jesture/NOUN#0.0#0.0
+the person is turning the steering wheel.#the/DET person/NOUN is/AUX turn/VERB the/DET steering/NOUN wheel/NOUN#0.0#0.0
+the person is moving is body from left to right slowly.#the/DET person/NOUN is/AUX move/VERB is/AUX body/NOUN from/ADP left/VERB to/ADP right/ADV slowly/ADV#0.0#0.0

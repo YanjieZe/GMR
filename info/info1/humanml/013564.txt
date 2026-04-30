@@ -1,0 +1,3 @@
+a person clutches sides and back with backache.#a/DET person/NOUN clutch/VERB side/NOUN and/CCONJ back/ADV with/ADP backache/NOUN#0.0#0.0
+the person moves their hands around their torso while hunching over.#the/DET person/NOUN move/VERB their/DET hand/NOUN around/ADP their/DET torso/NOUN while/SCONJ hunch/VERB over/ADP#0.0#0.0
+the person activities like pregent women.#the/DET person/NOUN activitie/VERB like/SCONJ pregent/NOUN woman/NOUN#0.0#0.0

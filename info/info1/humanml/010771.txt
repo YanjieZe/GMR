@@ -1,0 +1,3 @@
+a man climbs over a stool and then sits on it.#a/DET man/NOUN climb/VERB over/ADP a/DET stool/NOUN and/CCONJ then/ADV sit/VERB on/ADP it/PRON#0.0#5.0
+a person walks and sits down with his hands by his lap.#a/DET person/NOUN walk/VERB and/CCONJ sit/VERB down/ADP with/ADP his/DET hand/NOUN by/ADP his/DET lap/NOUN#0.0#0.0
+a figure step over something , sitting on top of it and then pats it a few times with his right hand#a/DET figure/NOUN step/NOUN over/ADP something/PRON sit/VERB on/ADP top/NOUN of/ADP it/PRON and/CCONJ then/ADV pat/VERB it/PRON a/DET few/ADJ time/NOUN with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0

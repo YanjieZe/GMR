@@ -1,0 +1,3 @@
+a person sits down to avoid pressure on their knees.#a/DET person/NOUN sit/VERB down/ADP to/PART avoid/VERB pressure/NOUN on/ADP their/DET knee/NOUN#0.0#0.0
+a person is sitting with their hands together, touches both knees, and then just the right.#a/DET person/NOUN is/AUX sit/VERB with/ADP their/DET hand/NOUN together/ADV touch/VERB both/DET knee/NOUN and/CCONJ then/ADV just/ADV the/DET right/NOUN#0.0#0.0
+person is adjusting their sitting position#person/NOUN is/AUX adjust/VERB their/DET sit/VERB position/NOUN#0.0#0.0

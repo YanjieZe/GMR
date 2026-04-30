@@ -1,0 +1,3 @@
+a person with their arms spread open moves them down and then sits in a sitting chair position then waves their right hand#a/DET person/NOUN with/ADP their/DET arm/NOUN spread/VERB open/ADJ move/VERB them/PRON down/ADP and/CCONJ then/ADV sit/VERB in/ADP a/DET sit/VERB chair/NOUN position/NOUN then/ADV wave/VERB their/DET right/ADJ hand/NOUN#0.0#0.0
+a man sat down at the poker table playing#a/DET man/NOUN sit/VERB down/ADP at/ADP the/DET poker/NOUN table/NOUN play/VERB#0.0#0.0
+a person sits on something then pets something on their lap#a/DET person/NOUN sit/VERB on/ADP something/PRON then/ADV pet/VERB something/PRON on/ADP their/DET lap/NOUN#0.0#0.0

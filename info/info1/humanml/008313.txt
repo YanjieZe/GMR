@@ -1,0 +1,3 @@
+the person is using both of his hands to pick up and move an object#the/DET person/NOUN is/AUX use/VERB both/DET of/ADP his/DET hand/NOUN to/PART pick/VERB up/ADP and/CCONJ move/VERB an/DET object/NOUN#0.0#0.0
+person reaches from right to left, twisting and taking a step and repeating this motion, then bends forward at knees and waist appearing to lift a large object.#person/NOUN reach/VERB from/ADP right/NOUN to/ADP left/NOUN twist/VERB and/CCONJ take/VERB a/DET step/NOUN and/CCONJ repeat/VERB this/DET motion/NOUN then/ADV bend/VERB forward/ADV at/ADP knee/NOUN and/CCONJ waist/NOUN appear/VERB to/PART lift/VERB a/DET large/ADJ object/NOUN#0.0#0.0
+the person moves an item around.#the/DET person/NOUN move/VERB an/DET item/NOUN around/ADV#0.0#0.0

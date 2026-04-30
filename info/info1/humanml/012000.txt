@@ -1,0 +1,3 @@
+a person squatting from top to bottom.#a/DET person/NOUN squat/VERB from/ADP top/NOUN to/ADP bottom/NOUN#0.0#0.0
+a person takes a wide stance the squats repeatedly while holding something in front of him#a/DET person/NOUN take/VERB a/DET wide/ADJ stance/NOUN the/DET squat/NOUN repeatedly/ADV while/SCONJ hold/VERB something/PRON in/ADP front/NOUN of/ADP him/PRON#0.0#0.0
+the person is squatting by pushing it's hips to the ground multiple times#the/DET person/NOUN is/AUX squat/VERB by/ADP push/VERB it/PRON hip/NOUN to/ADP the/DET ground/NOUN multiple/ADJ time/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+person is throwing something.#person/NOUN is/AUX throw/VERB something/PRON#0.0#0.0
+robot is swinging his left hand#robot/PROPN is/AUX swinge/VERB his/DET left/ADJ hand/NOUN#0.0#0.0
+a person lifts something with their left arm#a/DET person/NOUN lift/VERB something/PRON with/ADP their/DET left/ADJ arm/NOUN#0.0#0.0

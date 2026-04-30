@@ -1,0 +1,3 @@
+a man is in motion#a/DET man/NOUN is/AUX in/ADP motion/NOUN#0.0#0.0
+as the person moves in an oval, he slides his right foot.#as/SCONJ the/DET person/NOUN move/VERB in/ADP an/DET oval/NOUN he/PRON slide/VERB his/DET right/ADJ foot/NOUN#0.0#0.0
+a man take several steps forward, his arms are slightly stiff, then several steps backwards and to the side.#a/DET man/NOUN take/VERB several/ADJ step/NOUN forward/ADV his/DET arm/NOUN are/AUX slightly/ADV stiff/ADJ then/ADV several/ADJ step/NOUN backwards/ADV and/CCONJ to/ADP the/DET side/NOUN#0.0#0.0

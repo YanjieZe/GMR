@@ -1,0 +1,3 @@
+taking a deep breath and shaking it off#take/VERB a/DET deep/ADJ breath/NOUN and/CCONJ shake/VERB it/PRON off/ADP#0.0#0.0
+the sim is standing still, appears to shrug their shoulders once.#the/DET sim/PROPN is/AUX stand/VERB still/ADV appear/VERB to/PART shrug/VERB their/DET shoulder/NOUN once/ADV#0.0#2.0
+a person shrugs the shoulders very slightly.#a/DET person/NOUN shrug/VERB the/DET shoulder/NOUN very/ADV slightly/ADV#0.0#0.0

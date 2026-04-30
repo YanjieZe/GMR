@@ -1,0 +1,3 @@
+someone is learning a dance#someone/PRON is/AUX learn/VERB a/DET dance/NOUN#0.0#0.0
+a person dances while moving their arms.#a/DET person/NOUN dance/VERB while/SCONJ move/VERB their/DET arm/NOUN#0.0#0.0
+a person dances stepping forward then, back.#a/DET person/NOUN dance/VERB step/VERB forward/ADV then/ADV back/ADV#0.0#0.0

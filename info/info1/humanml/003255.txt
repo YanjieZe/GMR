@@ -1,0 +1,3 @@
+a person walking straight forward.#a/DET person/NOUN walk/VERB straight/ADV forward/ADV#0.0#0.0
+a person is walking in one place.#a/DET person/NOUN is/AUX walk/VERB in/ADP one/NUM place/NOUN#0.0#0.0
+the person is walking forward and 10 steps.#the/DET person/NOUN is/AUX walk/VERB forward/ADV and/CCONJ step/NOUN#0.0#0.0

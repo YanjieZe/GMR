@@ -1,0 +1,3 @@
+the person is getting ready to place the football for a kick off.#the/DET person/NOUN is/AUX get/VERB ready/ADJ to/PART place/VERB the/DET football/NOUN for/ADP a/DET kick/NOUN off/ADP#0.0#0.0
+a person is crouched over trying to swat at something.#a/DET person/NOUN is/AUX crouch/VERB over/ADP try/VERB to/PART swat/VERB at/ADP something/PRON#0.0#0.0
+a person is bent forward and swats at something on the ground with their right hand.#a/DET person/NOUN is/AUX bent/ADJ forward/ADP and/CCONJ swat/NOUN at/ADP something/PRON on/ADP the/DET ground/NOUN with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0

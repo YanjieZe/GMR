@@ -1,0 +1,3 @@
+a person who is standing with his hands by his sides steps back, takes three steps to his right, turns 180 degrees and walks four steps, turns 180 degrees and walks two steps and then faces forward.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP his/DET hand/NOUN by/ADP his/DET side/NOUN step/VERB back/ADV take/VERB three/NUM step/NOUN to/ADP his/DET right/NOUN turn/VERB degree/NOUN and/CCONJ walk/VERB four/NUM step/NOUN turn/VERB degree/NOUN and/CCONJ walk/VERB two/NUM step/NOUN and/CCONJ then/ADV face/VERB forward/ADV#0.0#0.0
+a person paces back and forth.#a/DET person/NOUN pace/VERB back/ADV and/CCONJ forth/ADV#0.0#0.0
+simple moving forward and backward on the floor.#simple/ADJ move/VERB forward/ADV and/CCONJ backward/ADV on/ADP the/DET floor/NOUN#0.0#0.0

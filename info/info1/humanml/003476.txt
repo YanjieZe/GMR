@@ -1,0 +1,3 @@
+a person stands in place while flexing both biceps.#a/DET person/NOUN stand/VERB in/ADP place/NOUN while/SCONJ flex/VERB both/DET bicep/NOUN#0.0#0.0
+the figure flexes its arms upwards towards its face at elbow level five times.#the/DET figure/NOUN flex/VERB its/DET arm/NOUN upwards/ADV towards/ADP its/DET face/NOUN at/ADP elbow/ADJ level/NOUN five/NUM time/NOUN#0.0#0.0
+a person uses both of their hands to curl an object 5 times at the same time.#a/DET person/NOUN use/VERB both/DET of/ADP their/DET hand/NOUN to/PART curl/VERB an/DET object/NOUN time/NOUN at/ADP the/DET same/ADJ time/NOUN#0.0#0.0

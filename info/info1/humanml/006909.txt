@@ -1,0 +1,3 @@
+person appears to hold hands as if they are holding a guitar and strums the guitar.#person/NOUN appear/VERB to/PART hold/VERB hand/NOUN as/SCONJ if/SCONJ they/PRON are/AUX hold/VERB a/DET guitar/NOUN and/CCONJ strum/VERB the/DET guitar/NOUN#0.0#0.0
+person is strumming on his guitar.#person/NOUN is/AUX strum/VERB on/ADP his/DET guitar/NOUN#0.0#0.0
+a person strums an air guitar one time and then lowers their arms.#a/DET person/NOUN strum/VERB an/DET air/NOUN guitar/NOUN one/NUM time/NOUN and/CCONJ then/ADV lower/VERB their/DET arm/NOUN#0.0#0.0

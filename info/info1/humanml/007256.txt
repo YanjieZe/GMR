@@ -1,0 +1,3 @@
+a person does salsa dancing forward and then turns around.#a/DET person/NOUN does/AUX salsa/VERB dancing/NOUN forward/ADV and/CCONJ then/ADV turn/VERB around/ADV#0.0#0.0
+a man moves forward by dancing.#a/DET man/NOUN move/VERB forward/ADV by/ADP dance/VERB#0.0#0.0
+person is doing the shimmy.#person/NOUN is/AUX do/VERB the/DET shimmy/NOUN#0.0#0.0

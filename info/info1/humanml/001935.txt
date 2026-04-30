@@ -1,0 +1,3 @@
+a man is riding a motorcycle.#a/DET man/NOUN is/AUX ride/VERB a/DET motorcycle/NOUN#0.0#0.0
+a man rides a motorcycle, and does not move very much at all.#a/DET man/NOUN ride/VERB a/DET motorcycle/NOUN and/CCONJ does/AUX not/PART move/VERB very/ADV much/ADV at/ADV all/ADV#0.0#0.0
+a man is holding up both their arm.#a/DET man/NOUN is/AUX hold/VERB up/ADP both/CCONJ their/DET arm/NOUN#0.0#0.0

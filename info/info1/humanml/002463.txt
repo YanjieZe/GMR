@@ -1,0 +1,3 @@
+a man jumps and turns to his left.#a/DET man/NOUN jump/VERB and/CCONJ turn/VERB to/ADP his/DET left/NOUN#0.0#0.0
+a person bends their knees slightly to then jump forward while turning 90 degrees to their left.#a/DET person/NOUN bend/VERB their/DET knee/NOUN slightly/ADV to/PART then/ADV jump/VERB forward/ADV while/SCONJ turn/VERB degree/NOUN to/ADP their/DET left/NOUN#0.0#0.0
+a man squats, jumps forward and spins 90 degrees counter clockwise before landing.#a/DET man/NOUN squats/PROPN jump/VERB forward/ADV and/CCONJ spin/VERB degree/NOUN counter/ADV clockwise/NOUN before/ADP landing/NOUN#0.0#0.0

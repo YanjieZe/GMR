@@ -1,0 +1,3 @@
+a person holds their arms out to their sides and jumps up and down.#a/DET person/NOUN hold/VERB their/DET arm/NOUN out/ADP to/ADP their/DET side/NOUN and/CCONJ jump/VERB up/ADV and/CCONJ down/ADV#0.0#0.0
+a person has arms out their side palms back and legs at shoulder width and slightly hops up and down in place.#a/DET person/NOUN has/AUX arm/NOUN out/ADP their/DET side/NOUN palm/NOUN back/ADV and/CCONJ leg/NOUN at/ADP shoulder/NOUN width/NOUN and/CCONJ slightly/ADV hop/VERB up/ADV and/CCONJ down/ADV in/ADP place/NOUN#0.0#0.0
+a person does small hops up and down.#a/DET person/NOUN does/AUX small/ADJ hop/NOUN up/ADV and/CCONJ down/ADV#0.0#0.0

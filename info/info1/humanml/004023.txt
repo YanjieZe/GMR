@@ -1,0 +1,2 @@
+a man picks something up and then puts it back.#a/DET man/NOUN pick/VERB something/PRON up/ADP and/CCONJ then/ADV put/VERB it/PRON back/ADV#0.0#0.0
+a person picks something up, tilts it, then lowers it#a/DET person/NOUN pick/VERB something/PRON up/ADP tilt/VERB it/PRON then/ADV lower/VERB it/PRON#0.0#0.0

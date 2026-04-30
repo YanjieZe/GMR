@@ -1,0 +1,3 @@
+a person takes a small hop forward.#a/DET person/NOUN take/VERB a/DET small/ADJ hop/NOUN forward/ADV#0.0#0.0
+a person hops forward once.#a/DET person/NOUN hop/VERB forward/ADV once/ADV#0.0#0.0
+a person slowly jumped forward#a/DET person/NOUN slowly/ADV jump/VERB forward/ADV#0.0#0.0

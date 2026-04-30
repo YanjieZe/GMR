@@ -1,0 +1,3 @@
+a person walks towards his left.#a/DET person/NOUN walk/VERB towards/ADP his/DET left/NOUN#0.0#0.0
+a man walks in an arch towards his left.#a/DET man/NOUN walk/VERB in/ADP an/DET arch/NOUN towards/ADP his/DET left/NOUN#0.0#0.0
+a person walking and turning to the left#a/DET person/NOUN walk/VERB and/CCONJ turn/VERB to/ADP the/DET left/NOUN#0.0#0.0

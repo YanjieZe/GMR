@@ -1,0 +1,3 @@
+a man seems to be holding something in his left hand and uses his right hand to run along the length of it, and does this several times.#a/DET man/NOUN seem/VERB to/PART be/AUX hold/VERB something/PRON in/ADP his/DET left/ADJ hand/NOUN and/CCONJ use/VERB his/DET right/ADJ hand/NOUN to/PART run/VERB along/ADP the/DET length/NOUN of/ADP it/PRON and/CCONJ does/AUX this/DET several/ADJ time/NOUN#0.0#0.0
+a person is handing a object with both hands.#a/DET person/NOUN is/AUX hand/VERB a/DET object/NOUN with/ADP both/DET hand/NOUN#0.0#0.0
+a person clumsily coiling a rope into their left hand.#a/DET person/NOUN clumsily/ADV coil/VERB a/DET rope/NOUN into/ADP their/DET left/ADJ hand/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+person walks forward and kicks, then walks back and repeats#person/NOUN walk/VERB forward/ADV and/CCONJ kick/NOUN then/ADV walk/VERB back/ADV and/CCONJ repeat/VERB#0.0#0.0
+person ran forward and kick someone.#person/NOUN run/VERB forward/ADV and/CCONJ kick/VERB someone/PRON#0.0#0.0
+walking back and then walking up stairs and kicking.#walk/VERB back/ADV and/CCONJ then/ADV walk/VERB up/ADP stair/NOUN and/CCONJ kick/VERB#0.0#0.0

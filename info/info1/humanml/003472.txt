@@ -1,0 +1,3 @@
+a person walks forwards, grabs something with his right hand, and walks backwards#a/DET person/NOUN walk/VERB forwards/ADJ grab/NOUN something/PRON with/ADP his/DET right/ADJ hand/NOUN and/CCONJ walk/VERB backwards/ADV#0.0#0.0
+a person takes a few steps forward and bend down slightly, takes their right arm and opens something#a/DET person/NOUN take/VERB a/DET few/ADJ step/NOUN forward/ADV and/CCONJ bend/VERB down/ADP slightly/ADV take/VERB their/DET right/ADJ arm/NOUN and/CCONJ open/VERB something/PRON#0.0#0.0
+a person steps forward to picks up and place an item.#a/DET person/NOUN step/VERB forward/ADV to/PART pick/NOUN up/ADP and/CCONJ place/VERB an/DET item/NOUN#0.0#0.0

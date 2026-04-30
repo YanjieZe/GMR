@@ -1,0 +1,3 @@
+the person is walking around the bend to the right.#the/DET person/NOUN is/AUX walk/VERB around/ADP the/DET bend/NOUN to/ADP the/DET right/NOUN#0.0#0.0
+a man stands upward with arms to his side and walks calmly forward then suddenly changes direction after two steps and turns to the right and continues walking.#a/DET man/NOUN stand/VERB upward/ADV with/ADP arm/NOUN to/ADP his/DET side/NOUN and/CCONJ walk/VERB calmly/ADV forward/ADV then/ADV suddenly/ADV change/VERB direction/NOUN after/ADP two/NUM step/NOUN and/CCONJ turn/VERB to/ADP the/DET right/NOUN and/CCONJ continue/VERB walk/VERB#0.0#0.0
+the figure takes a step forward before he turns to our left#the/DET figure/NOUN take/VERB a/DET step/NOUN forward/ADV before/ADP he/PRON turn/VERB to/ADP our/DET left/NOUN#0.0#0.0

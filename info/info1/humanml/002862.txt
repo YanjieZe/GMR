@@ -1,0 +1,3 @@
+the figure walks and takes a leap forward landing then moving forward.#the/DET figure/NOUN walk/VERB and/CCONJ take/VERB a/DET leap/NOUN forward/ADV landing/NOUN then/ADV move/VERB forward/ADV#0.0#0.0
+a person runs forward then jumps while swing arms, then walks forward#a/DET person/NOUN run/VERB forward/ADV then/ADV jump/VERB while/SCONJ swing/NOUN arm/NOUN then/ADV walk/VERB forward/ADV#0.0#0.0
+a person runs quickly downward and jumps over something, then walks downward towards the right hand side.#a/DET person/NOUN run/VERB quickly/ADV downward/ADV and/CCONJ jump/VERB over/ADP something/PRON then/ADV walk/VERB downward/ADV towards/ADP the/DET right/ADJ hand/NOUN side/NOUN#0.0#0.0

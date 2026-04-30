@@ -1,0 +1,3 @@
+a person walks in a wide winding path, making wide incomplete loops with his arms held low at his sides.#a/DET person/NOUN walk/VERB in/ADP a/DET wide/ADJ winding/NOUN path/NOUN make/VERB wide/ADJ incomplete/ADJ loop/NOUN with/ADP his/DET arm/NOUN hold/VERB low/ADV at/ADP his/DET side/NOUN#0.0#0.0
+walking side to side.#walk/VERB side/NOUN to/ADP side/VERB#0.0#0.0
+a person walks forward then to the right then to the left, then circles around back to the right again.#a/DET person/NOUN walk/VERB forward/ADV then/ADV to/ADP the/DET right/NOUN then/ADV to/ADP the/DET left/NOUN then/ADV circle/VERB around/ADV back/ADV to/ADP the/DET right/NOUN again/ADV#0.0#0.0

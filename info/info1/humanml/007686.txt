@@ -1,0 +1,3 @@
+a person moves their arms in front of them.#a/DET person/NOUN move/VERB their/DET arm/NOUN in/ADP front/NOUN of/ADP them/PRON#0.0#0.0
+a figure stands with its hands waist level, then tentatively raises its hands in response#a/DET figure/NOUN stand/VERB with/ADP its/DET hand/NOUN waist/ADJ level/NOUN then/ADV tentatively/ADV raise/VERB its/DET hand/NOUN in/ADP response/NOUN#0.0#0.0
+a person stnads still for a while, then appears to catch something in their hands.#a/DET person/NOUN stnad/VERB still/ADV for/ADP a/DET while/NOUN then/ADV appear/VERB to/PART catch/VERB something/PRON in/ADP their/DET hand/NOUN#0.0#0.0

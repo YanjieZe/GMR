@@ -1,0 +1,3 @@
+he stepped in a big gap#he/PRON step/VERB in/ADP a/DET big/ADJ gap/NOUN#0.0#0.0
+a man walks forward slowly with a medium gate.#a/DET man/NOUN walk/VERB forward/ADV slowly/ADV with/ADP a/DET medium/ADJ gate/NOUN#0.0#0.0
+a person walks forward and steps over small gap.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ step/NOUN over/ADP small/ADJ gap/NOUN#0.0#0.0

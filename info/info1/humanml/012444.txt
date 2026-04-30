@@ -1,0 +1,2 @@
+a person walks forward, turns and walks towards his right.#a/DET person/NOUN walk/VERB forward/ADV turn/VERB and/CCONJ walk/VERB towards/ADP his/DET right/NOUN#0.0#0.0
+a man walks forwards, turns to the right, and walks forwards again.#a/DET man/NOUN walk/VERB forwards/ADV turn/VERB to/ADP the/DET right/NOUN and/CCONJ walk/VERB forwards/ADJ again/ADV#0.0#0.0

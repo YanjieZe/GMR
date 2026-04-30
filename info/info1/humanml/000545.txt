@@ -1,0 +1,3 @@
+a man in running in place before stopping.#a/DET man/NOUN in/ADP run/VERB in/ADP place/NOUN before/ADP stop/VERB#0.0#0.0
+a person working out running in place#a/DET person/NOUN work/VERB out/ADP run/VERB in/ADP place/NOUN#0.0#0.0
+a person steps side to side in place.#a/DET person/NOUN step/VERB side/NOUN to/PART side/VERB in/ADP place/NOUN#0.0#0.0

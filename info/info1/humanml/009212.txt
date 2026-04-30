@@ -1,0 +1,3 @@
+the person pats something in front of them.#the/DET person/NOUN pat/VERB something/PRON in/ADP front/NOUN of/ADP them/PRON#0.0#0.0
+the man has a dry right arm#the/DET man/NOUN has/AUX a/DET dry/ADJ right/ADJ arm/NOUN#0.0#0.0
+a person leans over slightly, left arm at their side, scratching something with their right hand.#a/DET person/NOUN lean/VERB over/ADP slightly/ADV left/ADJ arm/NOUN at/ADP their/DET side/NOUN scratch/VERB something/PRON with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0

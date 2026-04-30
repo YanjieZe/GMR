@@ -1,0 +1,3 @@
+a man is walking in a large counter-clockwise circle.#a/DET man/NOUN is/AUX walk/VERB in/ADP a/DET large/ADJ counterclockwise/NOUN circle/NOUN#0.0#0.0
+a person walking by making a large circle#a/DET person/NOUN walk/VERB by/ADP make/VERB a/DET large/ADJ circle/NOUN#0.0#0.0
+a person is walking loosely in a big counter- clockwise circle and swinging their arms.#a/DET person/NOUN is/AUX walk/VERB loosely/ADV in/ADP a/DET big/ADJ counter/NOUN clockwise/NOUN circle/NOUN and/CCONJ swinge/VERB their/DET arm/NOUN#0.0#0.0

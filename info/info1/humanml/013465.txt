@@ -1,0 +1,3 @@
+walking forward and picking something up.#walk/VERB forward/ADV and/CCONJ pick/VERB something/PRON up/ADP#0.0#0.0
+a person walks forward slightly then with its right hand it reaches for something to the left.#a/DET person/NOUN walk/VERB forward/ADV slightly/ADV then/ADV with/ADP its/DET right/ADJ hand/NOUN it/PRON reach/VERB for/ADP something/PRON to/ADP the/DET left/NOUN#0.0#0.0
+a person walks forward, picks up something then walks backward.#a/DET person/NOUN walk/VERB forward/ADV pick/VERB up/ADP something/PRON then/ADV walk/VERB backward/ADV#0.0#0.0

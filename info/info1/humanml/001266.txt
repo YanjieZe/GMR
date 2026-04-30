@@ -1,0 +1,3 @@
+a person is walking forward.#a/DET person/NOUN is/AUX walk/VERB forward/ADV#0.0#0.0
+a man walks forward and then stops.#a/DET man/NOUN walk/VERB forward/ADV and/CCONJ then/ADV stop/VERB#0.0#0.0
+he takes many small steps forward.#he/PRON take/VERB many/ADJ small/ADJ step/NOUN forward/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+man stands straight up with his arms to his sides and walks calmly forward and to the right in a half circle then stops facing to the right.#man/NOUN stand/VERB straight/ADV up/ADV with/ADP his/DET arm/NOUN to/ADP his/DET side/NOUN and/CCONJ walk/VERB calmly/ADV forward/ADV and/CCONJ to/ADP the/DET right/NOUN in/ADP a/DET half/NOUN circle/NOUN then/ADV stop/VERB face/VERB to/ADP the/DET right/NOUN#0.0#0.0
+persons walking and turning right.#person/NOUN walk/VERB and/CCONJ turn/VERB right/ADV#0.0#0.0
+the man walks and makes a right turn#the/DET man/NOUN walk/VERB and/CCONJ make/VERB a/DET right/ADJ turn/NOUN#0.0#0.0

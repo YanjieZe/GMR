@@ -1,0 +1,3 @@
+person jogs around to the left and right#person/NOUN jog/VERB around/ADV to/ADP the/DET left/NOUN and/CCONJ right/ADJ#0.0#0.0
+a person is performing a right to left jogging move.#a/DET person/NOUN is/AUX perform/VERB a/DET right/NOUN to/ADP left/VERB jogging/NOUN move/NOUN#0.0#0.0
+a man runs to the right then runs to the left then back to the middle.#a/DET man/NOUN run/VERB to/ADP the/DET right/NOUN then/ADV run/VERB to/ADP the/DET left/NOUN then/ADV back/ADV to/ADP the/DET middle/NOUN#0.0#0.0

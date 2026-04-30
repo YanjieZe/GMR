@@ -1,0 +1,3 @@
+a person posing like a model for a photograph shoot#a/DET person/NOUN pose/VERB like/SCONJ a/DET model/NOUN for/ADP a/DET photograph/NOUN shoot/NOUN#0.0#0.0
+a person walks forward and places both hands on hips then walks backwards.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ place/VERB both/DET hand/NOUN on/ADP hip/NOUN then/ADV walk/VERB backwards/ADV#0.0#10.0
+the moves forward and makes a pose#the/DET move/NOUN forward/ADV and/CCONJ make/VERB a/DET pose/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person runs their right hand through their hair.#a/DET person/NOUN run/VERB their/DET right/ADJ hand/NOUN through/ADP their/DET hair/NOUN#0.0#0.0
+raising hands above head.#raise/VERB hand/NOUN above/ADP head/NOUN#0.0#0.0
+a person runs his right hand through his hair.#a/DET person/NOUN run/VERB his/DET right/ADJ hand/NOUN through/ADP his/DET hair/NOUN#0.0#0.0

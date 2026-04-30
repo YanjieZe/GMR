@@ -1,0 +1,3 @@
+a person steps back to the left and brings the arms upward to the sides.#a/DET person/NOUN step/VERB back/ADV to/ADP the/DET left/NOUN and/CCONJ bring/VERB the/DET arm/NOUN upward/ADV to/ADP the/DET side/NOUN#0.0#0.0
+a person starts by leaning slightly back, then steps backwards and raises both arms straight out to the side#a/DET person/NOUN start/VERB by/ADP lean/VERB slightly/ADV back/ADV then/ADV step/VERB backwards/ADV and/CCONJ raise/VERB both/DET arm/NOUN straight/ADV out/ADV to/ADP the/DET side/NOUN#0.0#0.0
+the person is doing a balance act.#the/DET person/NOUN is/AUX do/VERB a/DET balance/NOUN act/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks in a 90 degree arc counter-clockwise.#a/DET person/NOUN walk/VERB in/ADP a/DET degree/NOUN arc/NOUN counterclockwise/NOUN#0.0#0.0
+someone walks forward casually in a slight curve to their left.#someone/PRON walk/VERB forward/ADV casually/ADV in/ADP a/DET slight/ADJ curve/NOUN to/ADP their/DET left/NOUN#0.0#0.0
+casually walks a quarter of a counterclockwise circle.#casually/ADV walk/VERB a/DET quarter/NOUN of/ADP a/DET counterclockwise/ADJ circle/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person in squat position while extending elbows#a/DET person/NOUN in/ADP squat/ADJ position/NOUN while/SCONJ extend/VERB elbow/NOUN#0.0#0.0
+person presents in a squat elbows flexed he extends  elbows then flexes arms again#person/NOUN present/VERB in/ADP a/DET squat/ADJ elbow/NOUN flex/VERB he/PRON extend/VERB elbow/NOUN then/ADV flex/VERB arm/NOUN again/ADV#0.0#0.0
+he picks up something (maybe a magazine) using both hands and brings it close to his face.#he/PRON pick/VERB up/ADP something/PRON maybe/ADV a/DET magazine/NOUN use/VERB both/DET hand/NOUN and/CCONJ bring/VERB it/PRON close/ADJ to/ADP his/DET face/NOUN#0.0#0.0

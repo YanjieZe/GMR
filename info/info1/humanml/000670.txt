@@ -1,0 +1,3 @@
+a person slowly sways left to right before almost falling#a/DET person/NOUN slowly/ADV sway/VERB left/VERB to/ADP right/ADV before/ADP almost/ADV fall/VERB#0.0#0.0
+a person rocks back and forth to each side#a/DET person/NOUN rock/VERB back/ADV and/CCONJ forth/ADV to/ADP each/DET side/NOUN#0.0#0.0
+a person swaying left and right and then flinching#a/DET person/NOUN sway/VERB left/VERB and/CCONJ right/INTJ and/CCONJ then/ADV flinch/VERB#0.0#0.0

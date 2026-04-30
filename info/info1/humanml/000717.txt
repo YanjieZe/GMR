@@ -1,0 +1,3 @@
+person turns around from front to rear and whilst holding his hand and arm stomach level then turns around again and goes to original position#person/NOUN turn/VERB around/ADP from/ADP front/NOUN to/ADP rear/VERB and/CCONJ whilst/SCONJ hold/VERB his/DET hand/NOUN and/CCONJ arm/VERB stomach/NOUN level/NOUN then/ADV turn/VERB around/ADP again/ADV and/CCONJ go/VERB to/ADP original/ADJ position/NOUN#0.0#0.0
+a person paces backand forth with their right hand up at stomach level.#a/DET person/NOUN pace/VERB backand/VERB forth/ADV with/ADP their/DET right/ADJ hand/NOUN up/ADP at/ADP stomach/NOUN level/NOUN#0.0#0.0
+a person is walking with a purse on their right arm.#a/DET person/NOUN is/AUX walk/VERB with/ADP a/DET purse/NOUN on/ADP their/DET right/ADJ arm/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a man takes an object and lifts it to his head with his left hand.#a/DET man/NOUN take/VERB an/DET object/NOUN and/CCONJ lift/VERB it/PRON to/ADP his/DET head/NOUN with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0
+robot is standing in tilt position and touched something with his both hand and uplift his left arm.#robot/PROPN is/AUX stand/VERB in/ADP tilt/ADJ position/NOUN and/CCONJ touch/VERB something/PRON with/ADP his/DET both/DET hand/NOUN and/CCONJ uplift/VERB his/DET left/ADJ arm/NOUN#0.0#0.0
+a person opening a bottle with right hand and drinking from the bottle with the left hand.#a/DET person/NOUN open/VERB a/DET bottle/NOUN with/ADP right/ADJ hand/NOUN and/CCONJ drinking/NOUN from/ADP the/DET bottle/NOUN with/ADP the/DET left/ADJ hand/NOUN#0.0#0.0

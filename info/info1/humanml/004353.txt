@@ -1,0 +1,3 @@
+the person is running around.#the/DET person/NOUN is/AUX run/VERB around/ADV#0.0#0.0
+a figure faces forward and begins to run backwards, before twisting their body and continue to run, now facing forward#a/DET figure/NOUN face/VERB forward/ADV and/CCONJ begin/VERB to/PART run/VERB backwards/ADV before/ADP twist/VERB their/DET body/NOUN and/CCONJ continue/VERB to/PART run/VERB now/ADV face/VERB forward/ADV#0.0#0.0
+a man runs backwards ,quickly  turns on his left side and then runs faster.#a/DET man/NOUN run/VERB backwards/ADV quickly/ADV turn/VERB on/ADP his/DET left/ADJ side/NOUN and/CCONJ then/ADV run/VERB faster/ADV#0.0#0.0

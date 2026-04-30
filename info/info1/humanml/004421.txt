@@ -1,0 +1,3 @@
+man jumps in the air and then take several side steps to his left.#man/NOUN jump/VERB in/ADP the/DET air/NOUN and/CCONJ then/ADV take/VERB several/ADJ side/NOUN step/NOUN to/ADP his/DET left/NOUN#0.0#0.0
+person jumps then moves quickly three steps to the side to their left#person/NOUN jump/VERB then/ADV move/VERB quickly/ADV three/NUM step/NOUN to/ADP the/DET side/NOUN to/ADP their/DET left/NOUN#0.0#0.0
+the man jumps once, waits a moment, then shuffles to his left.#the/DET man/NOUN jump/VERB once/ADV wait/VERB a/DET moment/NOUN then/ADV shuffle/VERB to/ADP his/DET left/NOUN#0.0#0.0

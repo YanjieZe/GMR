@@ -1,0 +1,3 @@
+a person takes a right turn while walking forward#a/DET person/NOUN take/VERB a/DET right/ADJ turn/NOUN while/SCONJ walk/VERB forward/ADV#0.0#0.0
+a person walked slowly in an arch to end with a profile stance.#a/DET person/NOUN walk/VERB slowly/ADV in/ADP an/DET arch/NOUN to/PART end/VERB with/ADP a/DET profile/ADJ stance/NOUN#0.0#0.0
+the said person above, walks forward multiple steps, begining at12 o'clock and ending at 7 o'clock. preformed in a clock wise motion.#the/DET say/VERB person/NOUN above/ADP walk/VERB forward/ADV multiple/ADJ step/NOUN begin/VERB and/CCONJ end/VERB at/ADP preform/VERB in/ADP a/DET clock/ADJ wise/ADJ motion/NOUN#0.0#0.0

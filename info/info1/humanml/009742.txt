@@ -1,0 +1,3 @@
+this person does a round kick with his right leg.#this/DET person/NOUN does/AUX a/DET round/ADJ kick/NOUN with/ADP his/DET right/ADJ leg/NOUN#0.0#0.0
+a person  does high spinning kicks in the air.#a/DET person/NOUN does/AUX high/ADJ spinning/NOUN kick/NOUN in/ADP the/DET air/NOUN#0.0#0.0
+a figure steps forward then takes a big, clumsy kick#a/DET figure/NOUN step/VERB forward/ADV then/ADV take/VERB a/DET big/ADJ clumsy/ADJ kick/NOUN#0.0#0.0

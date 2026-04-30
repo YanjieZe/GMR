@@ -1,0 +1,3 @@
+this person stands still and raises both hands above his head.#this/DET person/NOUN stand/VERB still/ADV and/CCONJ raise/VERB both/DET hand/NOUN above/ADP his/DET head/NOUN#0.0#0.0
+stretching hands up while standing still.#stretch/VERB hand/NOUN up/ADP while/SCONJ stand/VERB still/ADV#0.0#0.0
+a person stretches arms up together above head.#a/DET person/NOUN stretch/VERB arm/NOUN up/ADV together/ADV above/ADP head/NOUN#0.0#0.0

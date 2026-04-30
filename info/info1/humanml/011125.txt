@@ -1,0 +1,3 @@
+a person holds an item in their right hand to their face , they turn to the left before stumbling a few steps back#a/DET person/NOUN hold/VERB an/DET item/NOUN in/ADP their/DET right/ADJ hand/NOUN to/ADP their/DET face/NOUN they/PRON turn/VERB to/ADP the/DET left/NOUN before/ADP stumble/VERB a/DET few/ADJ step/NOUN back/ADV#0.0#0.0
+a person touches their nose with their right hand.#a/DET person/NOUN touch/VERB their/DET nose/NOUN with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+a person is filming with one hand.#a/DET person/NOUN is/AUX film/VERB with/ADP one/NUM hand/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks backward while staring at the floor.#a/DET person/NOUN walk/VERB backward/ADV while/SCONJ stare/VERB at/ADP the/DET floor/NOUN#0.0#0.0
+a person carefully walks bakwards while looking back and pauses halfway before stopping.#a/DET person/NOUN carefully/ADV walk/VERB bakward/NOUN while/SCONJ look/VERB back/ADV and/CCONJ pause/VERB halfway/ADV before/ADP stop/VERB#0.0#0.0
+a person walks backwards slowly and cautiously while using their neck to look around them.#a/DET person/NOUN walk/VERB backwards/ADV slowly/ADV and/CCONJ cautiously/ADV while/SCONJ use/VERB their/DET neck/NOUN to/PART look/VERB around/ADP them/PRON#0.0#0.0

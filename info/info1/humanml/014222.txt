@@ -1,0 +1,3 @@
+a blind folded person walks around.#a/DET blind/ADJ fold/VERB person/NOUN walk/VERB around/ADV#0.0#0.0
+a person walks like a zombie confused throughout a room with their arms up going in different directions#a/DET person/NOUN walk/VERB like/SCONJ a/DET zombie/NOUN confuse/VERB throughout/ADP a/DET room/NOUN with/ADP their/DET arm/NOUN up/ADV go/VERB in/ADP different/ADJ direction/NOUN#0.0#0.0
+a person walks around frantically with their arms out in front of them.#a/DET person/NOUN walk/VERB around/ADP frantically/ADV with/ADP their/DET arm/NOUN out/ADP in/ADP front/NOUN of/ADP them/PRON#0.0#0.0

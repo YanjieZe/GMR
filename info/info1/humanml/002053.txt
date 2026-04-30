@@ -1,0 +1,3 @@
+a person walking a counter clockwise motion#a/DET person/NOUN walk/VERB a/DET counter/NOUN clockwise/NOUN motion/NOUN#0.0#0.0
+a man walking making a circle on the floor and stops just before the completion#a/DET man/NOUN walk/VERB make/VERB a/DET circle/NOUN on/ADP the/DET floor/NOUN and/CCONJ stop/VERB just/ADV before/ADP the/DET completion/NOUN#0.0#0.0
+a person is walking in a counter clockwise circle.#a/DET person/NOUN is/AUX walk/VERB in/ADP a/DET counter/NOUN clockwise/NOUN circle/NOUN#0.0#0.0

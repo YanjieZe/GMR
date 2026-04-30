@@ -1,0 +1,3 @@
+walking forward and then throwing something.#walk/VERB forward/ADV and/CCONJ then/ADV throw/VERB something/PRON#0.0#0.0
+the man moves forward slowly#the/DET man/NOUN move/VERB forward/ADV slowly/ADV#0.0#0.0
+a man takes a step forward and throws something with the right arm, then stands in a neutral position.#a/DET man/NOUN take/VERB a/DET step/NOUN forward/ADV and/CCONJ throw/VERB something/PRON with/ADP the/DET right/ADJ arm/NOUN then/ADV stand/VERB in/ADP a/DET neutral/ADJ position/NOUN#0.0#0.0

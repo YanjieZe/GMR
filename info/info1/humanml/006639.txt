@@ -1,0 +1,3 @@
+a person repeatedly gets hit in the face, making them stumble backwards.#a/DET person/NOUN repeatedly/ADV get/VERB hit/VERB in/ADP the/DET face/NOUN make/VERB them/PRON stumble/VERB backwards/ADV#0.0#0.0
+a person has his left hand on his face.#a/DET person/NOUN has/AUX his/DET left/ADJ hand/NOUN on/ADP his/DET face/NOUN#0.0#0.0
+a person acts like they bumped their head.#a/DET person/NOUN act/VERB like/SCONJ they/PRON bump/VERB their/DET head/NOUN#0.0#0.0

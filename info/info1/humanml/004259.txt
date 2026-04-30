@@ -1,0 +1,3 @@
+a man holds both hands together near his groin and then simultaneously lifts them up in a swaying motion.#a/DET man/NOUN hold/VERB both/DET hand/NOUN together/ADV near/SCONJ his/DET groin/NOUN and/CCONJ then/ADV simultaneously/ADV lift/VERB them/PRON up/ADP in/ADP a/DET swaying/NOUN motion/NOUN#0.0#0.0
+the person swings a golf club.#the/DET person/NOUN swing/VERB a/DET golf/NOUN club/NOUN#0.0#0.0
+a man swings his arms to the right and then through to his left.#a/DET man/NOUN swing/VERB his/DET arm/NOUN to/ADP the/DET right/NOUN and/CCONJ then/ADV through/ADP to/ADP his/DET left/NOUN#0.0#0.0

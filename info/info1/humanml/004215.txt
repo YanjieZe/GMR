@@ -1,0 +1,3 @@
+a man walks toward the front of the room#a/DET man/NOUN walk/VERB toward/ADP the/DET front/NOUN of/ADP the/DET room/NOUN#0.0#3.0
+a person casually walks in a straight line.#a/DET person/NOUN casually/ADV walk/VERB in/ADP a/DET straight/ADJ line/NOUN#0.0#0.0
+person is walking forward.#person/NOUN is/AUX walk/VERB forward/ADV#0.0#0.0

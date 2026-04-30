@@ -1,0 +1,3 @@
+person does a cartwheel like move, spin then do two twirls and a low jump landing using ballet movements#person/NOUN does/AUX a/DET cartwheel/NOUN like/SCONJ move/NOUN spin/NOUN then/ADV do/AUX two/NUM twirl/NOUN and/CCONJ a/DET low/ADJ jump/NOUN landing/NOUN use/VERB ballet/NOUN movement/NOUN#0.0#0.0
+person does a cartwheel and then spins around multiple times before curtsying.#person/NOUN does/AUX a/DET cartwheel/NOUN and/CCONJ then/ADV spin/VERB around/ADP multiple/ADJ time/NOUN before/ADP curtsy/VERB#0.0#0.0
+a man does a few ballet moves in a counter clockwise circle forward and to the right#a/DET man/NOUN does/AUX a/DET few/ADJ ballet/NOUN move/NOUN in/ADP a/DET counter/NOUN clockwise/NOUN circle/NOUN forward/ADV and/CCONJ to/ADP the/DET right/NOUN#0.0#0.0

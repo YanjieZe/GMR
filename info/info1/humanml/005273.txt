@@ -1,0 +1,3 @@
+the person did a little hop and then walked upstairs.#the/DET person/NOUN did/AUX a/DET little/ADJ hop/NOUN and/CCONJ then/ADV walk/VERB upstairs/ADV#0.0#0.0
+a person starts with both arms raised, then lowers them, makes a small hop, then walks up several stairs with their right hand on the railing.#a/DET person/NOUN start/VERB with/ADP both/DET arm/NOUN raise/VERB then/ADV lower/VERB them/PRON make/VERB a/DET small/ADJ hop/NOUN then/ADV walk/VERB up/ADP several/ADJ stair/NOUN with/ADP their/DET right/ADJ hand/NOUN on/ADP the/DET railing/NOUN#0.0#0.0
+the person walks forward as they climb stairs.#the/DET person/NOUN walk/VERB forward/ADV as/SCONJ they/PRON climb/VERB stair/NOUN#0.0#0.0

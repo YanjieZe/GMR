@@ -1,0 +1,3 @@
+a person catches a ball with both hands and then throws it with his right hand.#a/DET person/NOUN catch/VERB a/DET ball/NOUN with/ADP both/DET hand/NOUN and/CCONJ then/ADV throw/VERB it/PRON with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+a man catches and object and throws it repeatedly.#a/DET man/NOUN catch/NOUN and/CCONJ object/NOUN and/CCONJ throw/VERB it/PRON repeatedly/ADV#0.0#0.0
+throws and catches a ball#throw/NOUN and/CCONJ catch/VERB a/DET ball/NOUN#0.0#0.0

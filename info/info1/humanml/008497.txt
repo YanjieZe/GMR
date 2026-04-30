@@ -1,0 +1,3 @@
+a person hops forward three times before walking the rest of the way.#a/DET person/NOUN hop/VERB forward/ADV three/NUM time/NOUN before/ADP walk/VERB the/DET rest/NOUN of/ADP the/DET way/NOUN#0.0#0.0
+a man jumps forward a couple times.#a/DET man/NOUN jump/VERB forward/ADV a/DET couple/NOUN time/NOUN#0.0#0.0
+a man jumps forward repeatedly.#a/DET man/NOUN jump/VERB forward/ADV repeatedly/ADV#0.0#0.0

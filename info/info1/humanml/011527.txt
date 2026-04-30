@@ -1,0 +1,3 @@
+a person bows their head forward and then stands up straight.#a/DET person/NOUN bow/VERB their/DET head/NOUN forward/ADV and/CCONJ then/ADV stand/VERB up/ADP straight/ADV#0.0#0.0
+a person who is standing with his hands by his sides bows at the waist and straightens up.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP his/DET hand/NOUN by/ADP his/DET side/NOUN bow/VERB at/ADP the/DET waist/NOUN and/CCONJ straighten/VERB up/ADP#0.0#0.0
+a person slightly bows their upper body#a/DET person/NOUN slightly/ADV bow/VERB their/DET upper/ADJ body/NOUN#0.0#0.0

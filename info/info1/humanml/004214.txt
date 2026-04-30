@@ -1,0 +1,3 @@
+a person does martial arts by blocking with their right arm and hand.#a/DET person/NOUN does/AUX martial/ADJ art/NOUN by/ADP block/VERB with/ADP their/DET right/ADJ arm/NOUN and/CCONJ hand/NOUN#0.0#0.0
+a man repeatedly steps forward with his right leg making chopping for punching sounds with his right arm at the same time.#a/DET man/NOUN repeatedly/ADV step/VERB forward/ADV with/ADP his/DET right/ADJ leg/NOUN make/VERB chop/VERB for/ADP punch/VERB sound/NOUN with/ADP his/DET right/ADJ arm/NOUN at/ADP the/DET same/ADJ time/NOUN#0.0#0.0
+a person appears to be hitting something in front of them#a/DET person/NOUN appear/VERB to/PART be/AUX hit/VERB something/PRON in/ADP front/NOUN of/ADP them/PRON#0.0#0.0

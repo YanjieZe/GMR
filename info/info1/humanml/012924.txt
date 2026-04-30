@@ -1,0 +1,3 @@
+a man suddenly bends forward at his waist.#a/DET man/NOUN suddenly/ADV bend/VERB forward/ADV at/ADP his/DET waist/NOUN#0.0#0.0
+a person appears to be disappointed and sighs.#a/DET person/NOUN appear/VERB to/PART be/AUX disappoint/VERB and/CCONJ sigh/NOUN#0.0#0.0
+a person quickly juts their body forward.#a/DET person/NOUN quickly/ADV jut/VERB their/DET body/NOUN forward/ADV#0.0#0.0

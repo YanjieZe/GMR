@@ -1,0 +1,3 @@
+this person shuffles backwards then forward and to the side.#this/DET person/NOUN shuffle/VERB backwards/ADV then/ADV forward/ADV and/CCONJ to/ADP the/DET side/NOUN#0.0#0.0
+someone is jogging in place with there hands in running mode#someone/PRON is/AUX jog/VERB in/ADP place/NOUN with/ADP there/PRON hand/NOUN in/ADP running/ADJ mode/NOUN#0.0#0.0
+the person is jogging around and in place.#the/DET person/NOUN is/AUX jog/VERB around/ADP and/CCONJ in/ADP place/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person spinning his upper core body, and after shaking left and right legs, by doing circle movement#a/DET person/NOUN spin/VERB his/DET upper/ADJ core/NOUN body/NOUN and/CCONJ after/ADP shake/VERB left/VERB and/CCONJ right/ADJ leg/NOUN by/ADP do/VERB circle/NOUN movement/NOUN#0.0#0.0
+the movement of joints in the human body, typically stretching the joints to their fullest ability.#the/DET movement/NOUN of/ADP joint/NOUN in/ADP the/DET human/ADJ body/NOUN typically/ADV stretch/VERB the/DET joint/NOUN to/ADP their/DET fullest/ADJ ability/NOUN#0.0#0.0
+a person moves arms and legs in various ranges of movement.#a/DET person/NOUN move/VERB arm/NOUN and/CCONJ leg/NOUN in/ADP various/ADJ range/NOUN of/ADP movement/NOUN#0.0#0.0

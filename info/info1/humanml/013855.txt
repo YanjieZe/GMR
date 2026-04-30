@@ -1,0 +1,3 @@
+the toon has their both arms up & extending in a "dancing" position, while moving forwards then backwards.#the/DET toon/NOUN has/AUX their/DET both/DET arm/NOUN up/ADV extend/VERB in/ADP a/DET dance/VERB position/NOUN while/SCONJ move/VERB forwards/ADV then/ADV backwards/ADV#0.0#10.0
+person holds left arm out and right arm forward, then shuffles side to side as if doing the chacha dance#person/NOUN hold/VERB left/ADJ arm/NOUN out/ADP and/CCONJ right/ADJ arm/NOUN forward/ADV then/ADV shuffle/NOUN side/NOUN to/PART side/VERB as/SCONJ if/SCONJ do/VERB the/DET chacha/NOUN dance/NOUN#0.0#0.0
+a person is doing a dance.#a/DET person/NOUN is/AUX do/VERB a/DET dance/NOUN#0.0#0.0

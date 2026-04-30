@@ -1,0 +1,3 @@
+a person sits on the ground and gets back up.#a/DET person/NOUN sit/VERB on/ADP the/DET ground/NOUN and/CCONJ get/VERB back/ADV up/ADV#0.0#0.0
+sitting down on the ground then standing.#sit/VERB down/ADP on/ADP the/DET ground/NOUN then/ADV stand/VERB#0.0#0.0
+a man sits down on the ground then lays most of the way down on the ground uses both hands to push off the ground and stand back up.#a/DET man/NOUN sit/VERB down/ADP on/ADP the/DET ground/NOUN then/ADV lay/VERB most/ADJ of/ADP the/DET way/NOUN down/ADV on/ADP the/DET ground/NOUN use/VERB both/DET hand/NOUN to/PART push/VERB off/ADP the/DET ground/NOUN and/CCONJ stand/VERB back/ADV up/ADV#0.0#0.0

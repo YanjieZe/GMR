@@ -1,0 +1,3 @@
+the person holds something up to their face.#the/DET person/NOUN hold/VERB something/PRON up/ADP to/ADP their/DET face/NOUN#0.0#0.0
+a person holding a cell phone to ear.#a/DET person/NOUN hold/VERB a/DET cell/NOUN phone/NOUN to/PART ear/VERB#0.0#0.0
+an individual takes a long slow drink of something.#an/DET individual/NOUN take/VERB a/DET long/ADJ slow/ADJ drink/NOUN of/ADP something/PRON#0.0#0.0

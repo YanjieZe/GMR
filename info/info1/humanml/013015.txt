@@ -1,0 +1,3 @@
+man walks forwards and turns counter clockwise and walks back#man/NOUN walk/VERB forwards/ADJ and/CCONJ turn/VERB counter/ADJ clockwise/NOUN and/CCONJ walk/VERB back/ADV#0.0#0.0
+a person walks forward, does a sharp turn around and walks back.#a/DET person/NOUN walk/VERB forward/ADV does/AUX a/DET sharp/ADJ turn/NOUN around/ADP and/CCONJ walk/VERB back/ADV#0.0#0.0
+a person who was walking then did a swift turn to their left#a/DET person/NOUN who/PRON was/AUX walk/VERB then/ADV did/AUX a/DET swift/ADJ turn/NOUN to/ADP their/DET left/NOUN#0.0#0.0

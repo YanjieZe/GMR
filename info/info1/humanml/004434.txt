@@ -1,0 +1,3 @@
+a person walks forward with head and shoulders slouched and turns around to face away at the end#a/DET person/NOUN walk/VERB forward/ADV with/ADP head/NOUN and/CCONJ shoulder/NOUN slouch/VERB and/CCONJ turn/VERB around/ADP to/PART face/VERB away/ADV at/ADP the/DET end/NOUN#0.0#0.0
+person walks forward slowly looking upwards before turning around and facing the back#person/NOUN walk/VERB forward/ADV slowly/ADV look/VERB upwards/ADV before/ADP turn/VERB around/ADV and/CCONJ face/VERB the/DET back/NOUN#0.0#0.0
+a person sadly walks forwards, looking down at their feet.#a/DET person/NOUN sadly/ADV walk/VERB forwards/ADV look/VERB down/ADP at/ADP their/DET foot/NOUN#0.0#0.0

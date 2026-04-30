@@ -1,0 +1,3 @@
+a person walks on all fours#a/DET person/NOUN walk/VERB on/ADP all/DET four/NOUN#4.0#6.0
+a person quickly walks to the right hand side, gets on all fours and crawls to the left hand side, then turns around and crawls to the center.#a/DET person/NOUN quickly/ADV walk/VERB to/ADP the/DET right/ADJ hand/NOUN side/NOUN get/VERB on/ADP all/DET four/NOUN and/CCONJ crawl/NOUN to/ADP the/DET left/ADJ hand/NOUN side/NOUN then/ADV turn/VERB around/ADV and/CCONJ crawl/VERB to/ADP the/DET center/NOUN#0.0#0.0
+person moves to their left and gets down to crawl under something#person/NOUN move/VERB to/ADP their/DET left/NOUN and/CCONJ get/VERB down/ADV to/PART crawl/VERB under/ADP something/PRON#0.0#0.0

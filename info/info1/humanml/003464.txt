@@ -1,0 +1,3 @@
+a person dances the macarena.#a/DET person/NOUN dance/VERB the/DET macarena/PROPN#0.0#0.0
+a person dances la macarena#a/DET person/NOUN dance/VERB la/PROPN macarena/PROPN#0.0#0.0
+a person is doing the macarena dance.#a/DET person/NOUN is/AUX do/VERB the/DET macarena/PROPN dance/NOUN#0.0#0.0

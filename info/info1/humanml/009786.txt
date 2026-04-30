@@ -1,0 +1,3 @@
+a person shaked the hand and moved a little bit#a/DET person/NOUN shake/VERB the/DET hand/NOUN and/CCONJ move/VERB a/DET little/ADJ bit/NOUN#0.0#0.0
+the person his posing slowly to the right.#the/DET person/NOUN his/DET pose/VERB slowly/ADV to/ADP the/DET right/NOUN#0.0#0.0
+the person shifts to heir right and left.#the/DET person/NOUN shift/VERB to/PART heir/VERB right/ADV and/CCONJ left/VERB#0.0#0.0

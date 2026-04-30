@@ -1,0 +1,3 @@
+the sim runs down the plane before crouching down onto one knee.#the/DET sim/PROPN run/VERB down/ADP the/DET plane/NOUN before/ADP crouch/VERB down/ADP onto/ADP one/NUM knee/NOUN#0.0#2.0
+a person runs then touches an object.#a/DET person/NOUN run/VERB then/ADV touch/VERB an/DET object/NOUN#0.0#0.0
+a person sprints forwards and then crouches#a/DET person/NOUN sprint/NOUN forwards/ADV and/CCONJ then/ADV crouch/NOUN#0.0#0.0

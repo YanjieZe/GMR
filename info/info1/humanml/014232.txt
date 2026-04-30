@@ -1,0 +1,3 @@
+a person waalks forward and appears to pour two items into a bowl.#a/DET person/NOUN waalk/VERB forward/ADV and/CCONJ appear/VERB to/PART pour/VERB two/NUM item/NOUN into/ADP a/DET bowl/NOUN#0.0#0.0
+person walked over and is the mixing some thing together.#person/NOUN walk/VERB over/ADV and/CCONJ is/AUX the/DET mix/VERB some/DET thing/NOUN together/ADV#0.0#0.0
+person walks forward, bends down, grabs two beverages, and pours them into one container.#person/NOUN walk/VERB forward/ADV bend/VERB down/ADP grab/VERB two/NUM beverage/NOUN and/CCONJ pour/VERB them/PRON into/ADP one/NUM container/NOUN#0.0#0.0

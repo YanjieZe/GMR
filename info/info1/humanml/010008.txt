@@ -1,0 +1,3 @@
+a person continuously grabs something from their left side with their right hand and then discards it to the side.#a/DET person/NOUN continuously/ADV grab/VERB something/PRON from/ADP their/DET left/ADJ side/NOUN with/ADP their/DET right/ADJ hand/NOUN and/CCONJ then/ADV discard/VERB it/PRON to/ADP the/DET side/NOUN#0.0#0.0
+someone is repeatedly moving objects from the left to the right.#someone/PRON is/AUX repeatedly/ADV move/VERB object/NOUN from/ADP the/DET left/NOUN to/ADP the/DET right/NOUN#0.0#0.0
+the person is passing to the left.#the/DET person/NOUN is/AUX pass/VERB to/ADP the/DET left/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+the person is walking around holding onto a handrail.#the/DET person/NOUN is/AUX walk/VERB around/ADV hold/VERB onto/ADP a/DET handrail/NOUN#0.0#0.0
+a person walks with their hands on a rail.#a/DET person/NOUN walk/VERB with/ADP their/DET hand/NOUN on/ADP a/DET rail/NOUN#0.0#0.0
+a person walks forward at a slow pace while using both hands to steady themselves.#a/DET person/NOUN walk/VERB forward/ADV at/ADP a/DET slow/ADJ pace/NOUN while/SCONJ use/VERB both/DET hand/NOUN to/PART steady/VERB themselves/PRON#0.0#0.0

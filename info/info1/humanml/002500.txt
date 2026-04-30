@@ -1,0 +1,3 @@
+a person holds their arm out in front of them then lowers it#a/DET person/NOUN hold/VERB their/DET arm/NOUN out/ADP in/ADP front/NOUN of/ADP them/PRON then/ADV lower/VERB it/PRON#0.0#0.0
+a man moves his right hand in front of him and then lowers it.#a/DET man/NOUN move/VERB his/DET right/ADJ hand/NOUN in/ADP front/NOUN of/ADP him/PRON and/CCONJ then/ADV lower/VERB it/PRON#0.0#0.0
+a person holds their right hand out in front of them#a/DET person/NOUN hold/VERB their/DET right/ADJ hand/NOUN out/ADP in/ADP front/NOUN of/ADP them/PRON#0.0#0.0

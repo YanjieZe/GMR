@@ -1,0 +1,2 @@
+a person bends over to begin charging forward, turns around with arms raised, and charges back to original position.#a/DET person/NOUN bend/VERB over/ADP to/PART begin/VERB charge/VERB forward/ADV turn/VERB around/ADP with/ADP arm/NOUN raise/VERB and/CCONJ charge/VERB back/ADV to/ADP original/ADJ position/NOUN#0.0#0.0
+the person is walking around.#the/DET person/NOUN is/AUX walk/VERB around/ADV#0.0#0.0

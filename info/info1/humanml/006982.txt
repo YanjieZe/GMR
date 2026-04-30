@@ -1,0 +1,3 @@
+a person is bouncing up and down lightly.#a/DET person/NOUN is/AUX bounce/VERB up/ADP and/CCONJ down/ADV lightly/ADV#0.0#0.0
+a person hops up and down.#a/DET person/NOUN hop/VERB up/ADV and/CCONJ down/ADV#0.0#0.0
+a person lightly hops, the feet not leaving the ground#a/DET person/NOUN lightly/ADV hop/VERB the/DET foot/NOUN not/PART leave/VERB the/DET ground/NOUN#0.0#0.0

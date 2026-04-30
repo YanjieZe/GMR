@@ -1,0 +1,3 @@
+the person backed up and sat down.#the/DET person/NOUN back/VERB up/ADP and/CCONJ sit/VERB down/ADP#0.0#0.0
+person moves slowly before bending down into a sitting own with legs raised#person/NOUN move/VERB slowly/ADV before/ADP bend/VERB down/ADP into/ADP a/DET sitting/NOUN own/ADJ with/ADP leg/NOUN raise/VERB#0.0#0.0
+a person quickly sits down shakily#a/DET person/NOUN quickly/ADV sit/VERB down/ADP shakily/ADV#0.0#0.0

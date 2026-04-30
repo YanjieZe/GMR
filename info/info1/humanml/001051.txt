@@ -1,0 +1,2 @@
+a person gingerly walks forward and losses their balance.#a/DET person/NOUN gingerly/ADV walk/VERB forward/ADV and/CCONJ losse/VERB their/DET balance/NOUN#0.0#0.0
+a person walks very slowly forward, with one step causing their right foot to drag.#a/DET person/NOUN walk/VERB very/ADV slowly/ADV forward/ADV with/ADP one/NUM step/NOUN cause/VERB their/DET right/ADJ foot/NOUN to/PART drag/VERB#0.0#0.0

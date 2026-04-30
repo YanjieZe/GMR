@@ -1,0 +1,3 @@
+a person cautiously walks backwards.#a/DET person/NOUN cautiously/ADV walk/VERB backwards/ADV#0.0#0.0
+a person walks backwards and then stops#a/DET person/NOUN walk/VERB backwards/ADV and/CCONJ then/ADV stop/VERB#0.0#0.0
+a person takes 4 steps vackward.#a/DET person/NOUN take/VERB step/NOUN vackward/NOUN#0.0#0.0

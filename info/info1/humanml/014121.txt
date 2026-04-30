@@ -1,0 +1,3 @@
+person is going down the invisble stairs#person/NOUN is/AUX go/VERB down/ADP the/DET invisble/ADJ stair/NOUN#0.0#0.0
+a person climbing down the stairs while safely holdoing on to the rail.#a/DET person/NOUN climb/VERB down/ADP the/DET stair/NOUN while/SCONJ safely/ADV holdoe/VERB on/ADP to/ADP the/DET rail/NOUN#0.0#0.0
+a person holds on to a railing and descends downwards.#a/DET person/NOUN hold/VERB on/ADP to/ADP a/DET railing/NOUN and/CCONJ descend/VERB downwards/ADV#0.0#0.0

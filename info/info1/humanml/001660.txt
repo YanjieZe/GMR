@@ -1,0 +1,3 @@
+a person waves with their right hand the throws it outward repeatedly, turning to the right as they do.#a/DET person/NOUN wave/VERB with/ADP their/DET right/ADJ hand/NOUN the/DET throw/NOUN it/PRON outward/ADV repeatedly/ADV turn/VERB to/ADP the/DET right/NOUN as/SCONJ they/PRON do/AUX#0.0#0.0
+a person with right hand doing something, while walking forward#a/DET person/NOUN with/ADP right/ADJ hand/NOUN do/VERB something/PRON while/SCONJ walk/VERB forward/ADV#0.0#0.0
+a person waves their right arm several times before stumbling to their right.#a/DET person/NOUN wave/VERB their/DET right/ADJ arm/NOUN several/ADJ time/NOUN before/ADP stumble/VERB to/ADP their/DET right/NOUN#0.0#0.0

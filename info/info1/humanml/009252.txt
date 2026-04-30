@@ -1,0 +1,3 @@
+the man moves to his right#the/DET man/NOUN move/VERB to/ADP his/DET right/NOUN#0.0#0.0
+a person takes a few steps towards their right while lifting a cell phone to their ear.#a/DET person/NOUN take/VERB a/DET few/ADJ step/NOUN towards/ADP their/DET right/NOUN while/SCONJ lift/VERB a/DET cell/NOUN phone/NOUN to/ADP their/DET ear/NOUN#0.0#0.0
+a man walks forward with his right hand up against his head, then takes one step backwards.#a/DET man/NOUN walk/VERB forward/ADV with/ADP his/DET right/ADJ hand/NOUN up/ADP against/ADP his/DET head/NOUN then/ADV take/VERB one/NUM step/NOUN backwards/ADV#0.0#0.0

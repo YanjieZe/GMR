@@ -1,0 +1,3 @@
+a man raises his right arm and lowers it repeatedly.#a/DET man/NOUN raise/VERB his/DET right/ADJ arm/NOUN and/CCONJ lower/VERB it/PRON repeatedly/ADV#0.0#0.0
+a figure stands feet shoulder distance apart with their right arm curling up and down slowly as if holding a weight#a/DET figure/NOUN stand/VERB foot/NOUN shoulder/NOUN distance/NOUN apart/ADV with/ADP their/DET right/ADJ arm/NOUN curl/VERB up/ADP and/CCONJ down/ADV slowly/ADV as/SCONJ if/SCONJ hold/VERB a/DET weight/NOUN#0.0#0.0
+a person who seems to be lifting something with their right hand#a/DET person/NOUN who/PRON seem/VERB to/PART be/AUX lift/VERB something/PRON with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0

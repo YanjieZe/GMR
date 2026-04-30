@@ -1,0 +1,3 @@
+the person standing and saluting someone.#the/DET person/NOUN stand/VERB and/CCONJ salute/VERB someone/PRON#0.0#0.0
+a person raises his right hand to his head.#a/DET person/NOUN raise/VERB his/DET right/ADJ hand/NOUN to/ADP his/DET head/NOUN#0.0#0.0
+a person turns to the left and raises its arm, turns to the right then raises its arms.#a/DET person/NOUN turn/VERB to/ADP the/DET left/NOUN and/CCONJ raise/VERB its/DET arm/NOUN turn/VERB to/ADP the/DET right/NOUN then/ADV raise/VERB its/DET arm/NOUN#0.0#0.0

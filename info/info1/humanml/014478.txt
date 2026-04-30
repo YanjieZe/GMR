@@ -1,0 +1,3 @@
+the person is getting ready to relax.#the/DET person/NOUN is/AUX get/VERB ready/ADJ to/PART relax/VERB#0.0#0.0
+a person standing with hands up by chest, right  leg steps back.#a/DET person/NOUN stand/VERB with/ADP hand/NOUN up/ADP by/ADP chest/NOUN right/ADJ leg/NOUN step/VERB back/ADV#0.0#4.0
+person stands in a fighting posture then moves still to side#person/NOUN stand/VERB in/ADP a/DET fighting/NOUN posture/NOUN then/ADV move/VERB still/ADV to/PART side/VERB#0.0#0.0

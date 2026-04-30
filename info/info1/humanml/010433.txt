@@ -1,0 +1,3 @@
+the person walks forward in a slight diagonal#the/DET person/NOUN walk/VERB forward/ADV in/ADP a/DET slight/ADJ diagonal/ADJ#0.0#0.0
+person at stand still moves forward seven steps#person/NOUN at/ADP stand/NOUN still/ADV move/VERB forward/ADV seven/NUM step/NOUN#0.0#0.0
+a person walks forward normally#a/DET person/NOUN walk/VERB forward/ADV normally/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person runs in place for 4 seconds.#a/DET person/NOUN run/VERB in/ADP place/NOUN for/ADP second/NOUN#0.0#0.0
+a person runs forward without bending their knees.#a/DET person/NOUN run/VERB forward/ADV without/ADP bend/VERB their/DET knee/NOUN#0.0#0.0
+a man is running in place.#a/DET man/NOUN is/AUX run/VERB in/ADP place/NOUN#0.0#0.0

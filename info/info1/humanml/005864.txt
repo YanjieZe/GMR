@@ -1,0 +1,3 @@
+a person sits, moves hands and arms in a left and right motion and lifts right foot off the ground.#a/DET person/NOUN sit/VERB move/VERB hand/NOUN and/CCONJ arm/NOUN in/ADP a/DET left/ADJ and/CCONJ right/ADJ motion/NOUN and/CCONJ lift/VERB right/ADJ foot/NOUN off/ADP the/DET ground/NOUN#0.0#0.0
+subjects standing forward in a crouched position with arms level to their head waving them slowly#subject/NOUN stand/VERB forward/ADV in/ADP a/DET crouched/ADJ position/NOUN with/ADP arm/NOUN level/NOUN to/ADP their/DET head/NOUN wave/VERB them/PRON slowly/ADV#0.0#0.0
+a man seated and puts his hands around  an object.#a/DET man/NOUN seat/VERB and/CCONJ put/VERB his/DET hand/NOUN around/ADV an/DET object/NOUN#0.0#0.0

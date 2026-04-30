@@ -1,0 +1,3 @@
+a person walks top his right.#a/DET person/NOUN walk/VERB top/ADJ his/DET right/NOUN#0.0#0.0
+a person walks forward towards the right.#a/DET person/NOUN walk/VERB forward/ADV towards/ADP the/DET right/NOUN#0.0#0.0
+a man makes a curved right turn, then stops after a few steps.#a/DET man/NOUN make/VERB a/DET curved/ADJ right/ADJ turn/NOUN then/ADV stop/VERB after/ADP a/DET few/ADJ step/NOUN#0.0#0.0

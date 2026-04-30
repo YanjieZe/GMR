@@ -1,0 +1,3 @@
+a person waves his arm and then turns around.#a/DET person/NOUN wave/VERB his/DET arm/NOUN and/CCONJ then/ADV turn/VERB around/ADV#0.0#0.0
+a person waves to someone, then turns around and walks off.#a/DET person/NOUN wave/VERB to/ADP someone/PRON then/ADV turn/VERB around/ADV and/CCONJ walk/VERB off/ADP#0.0#0.0
+man waves with left arm and then turns around and walks away.#man/NOUN wave/NOUN with/ADP left/ADJ arm/NOUN and/CCONJ then/ADV turn/VERB around/ADV and/CCONJ walk/VERB away/ADV#0.0#0.0

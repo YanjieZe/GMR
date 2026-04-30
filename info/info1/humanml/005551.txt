@@ -1,0 +1,3 @@
+a figure jogs forward with elbows cocked#a/DET figure/NOUN jog/VERB forward/ADV with/ADP elbow/NOUN cock/VERB#0.0#0.0
+a man takes a light jog to get to a point a few feet in front of him. he he then stops walking altogether.#a/DET man/NOUN take/VERB a/DET light/ADJ jog/NOUN to/PART get/AUX to/ADP a/DET point/NOUN a/DET few/ADJ foot/NOUN in/ADP front/NOUN of/ADP him/PRON he/PRON he/PRON then/ADV stop/VERB walk/VERB altogether/ADV#0.0#0.0
+a man jogs forward a few steps than stops.#a/DET man/NOUN jog/VERB forward/ADV a/DET few/ADJ step/NOUN than/SCONJ stop/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person jumps up and then balances themselves.#a/DET person/NOUN jump/VERB up/ADP and/CCONJ then/ADV balance/VERB themselves/PRON#0.0#0.0
+person was jumping up and down balancing.#person/NOUN was/AUX jump/VERB up/ADP and/CCONJ down/ADP balance/VERB#0.0#0.0
+a person lifts both arms and jumps.#a/DET person/NOUN lift/VERB both/CCONJ arm/NOUN and/CCONJ jump/NOUN#0.0#0.0

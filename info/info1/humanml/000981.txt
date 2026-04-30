@@ -1,0 +1,3 @@
+person goes side to side to the left  then raises left hand high above head at same time they raise  right arm shoulder height twice as if throwing an object#person/NOUN go/VERB side/NOUN to/PART side/VERB to/ADP the/DET left/ADJ then/ADV raise/VERB left/ADJ hand/NOUN high/ADV above/ADP head/NOUN at/ADP same/ADJ time/NOUN they/PRON raise/VERB right/ADJ arm/NOUN shoulder/NOUN height/NOUN twice/ADV as/SCONJ if/SCONJ throw/VERB an/DET object/NOUN#0.0#0.0
+a person does a high five with their left hand.#a/DET person/NOUN does/AUX a/DET high/ADJ five/NUM with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0
+someone playing baseball catch the ball#someone/PRON play/VERB baseball/NOUN catch/VERB the/DET ball/NOUN#0.0#0.0

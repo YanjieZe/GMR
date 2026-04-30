@@ -1,0 +1,3 @@
+a man walks gradually down a slope whilst gently swaying his arms.#a/DET man/NOUN walk/VERB gradually/ADV down/ADP a/DET slope/NOUN whilst/SCONJ gently/ADV sway/VERB his/DET arm/NOUN#0.0#0.0
+a person who is standing with their feet shoulder width apart begins walking forward, swinging his arms in an alternating pattern, then stops after a few steps.#a/DET person/NOUN who/PRON is/AUX stand/VERB with/ADP their/DET foot/NOUN shoulder/VERB width/NOUN apart/ADV begin/VERB walk/VERB forward/ADV swinge/VERB his/DET arm/NOUN in/ADP an/DET alternate/VERB pattern/NOUN then/ADV stop/VERB after/ADP a/DET few/ADJ step/NOUN#0.0#0.0
+person walks forward with hands swinging on side.#person/NOUN walk/VERB forward/ADV with/ADP hand/NOUN swinge/VERB on/ADP side/NOUN#0.0#0.0

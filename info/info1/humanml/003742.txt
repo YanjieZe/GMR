@@ -1,0 +1,3 @@
+a person has both of their hands in front of them as they are carefully looking around.#a/DET person/NOUN has/AUX both/DET of/ADP their/DET hand/NOUN in/ADP front/NOUN of/ADP them/PRON as/SCONJ they/PRON are/AUX carefully/ADV look/VERB around/ADV#0.0#0.0
+a man stands with his elbows bent, moving slightly from side to side.#a/DET man/NOUN stand/VERB with/ADP his/DET elbow/NOUN bent/ADJ move/VERB slightly/ADV from/ADP side/NOUN to/ADP side/NOUN#0.0#0.0
+a person is just moving his neck around while standing still#a/DET person/NOUN is/AUX just/ADV move/VERB his/DET neck/NOUN around/ADV while/SCONJ stand/VERB still/ADV#0.0#0.0

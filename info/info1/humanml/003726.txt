@@ -1,0 +1,3 @@
+a person bring both their hand out to their side, then rolls them around and then returns them back to their side#a/DET person/NOUN bring/VERB both/CCONJ their/DET hand/NOUN out/ADP to/ADP their/DET side/NOUN then/ADV roll/VERB them/PRON around/ADP and/CCONJ then/ADV return/VERB them/PRON back/ADV to/ADP their/DET side/NOUN#0.0#0.0
+a person is performing a dance#a/DET person/NOUN is/AUX perform/VERB a/DET dance/NOUN#0.0#0.0
+circular dancing like moves are done with both arms.#circular/ADJ dancing/NOUN like/SCONJ move/NOUN are/AUX do/VERB with/ADP both/DET arm/NOUN#0.0#0.0

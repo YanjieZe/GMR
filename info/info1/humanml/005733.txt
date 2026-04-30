@@ -1,0 +1,3 @@
+a person raises his right hand above his head and waves it.#a/DET person/NOUN raise/VERB his/DET right/ADJ hand/NOUN above/ADP his/DET head/NOUN and/CCONJ wave/VERB it/PRON#0.0#0.0
+a person raises his right arm above his head, makes a scratching motion with his right hand and then lowers his arm back down.#a/DET person/NOUN raise/VERB his/DET right/ADJ arm/NOUN above/ADP his/DET head/NOUN make/VERB a/DET scratching/NOUN motion/NOUN with/ADP his/DET right/ADJ hand/NOUN and/CCONJ then/ADV lower/VERB his/DET arm/NOUN back/ADV down/ADV#0.0#0.0
+a person is scratching his head with his right hand.#a/DET person/NOUN is/AUX scratch/VERB his/DET head/NOUN with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0

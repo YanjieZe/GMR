@@ -1,0 +1,3 @@
+a person uses his right hand to slowly move an object from his left side to the right.#a/DET person/NOUN use/VERB his/DET right/ADJ hand/NOUN to/PART slowly/ADV move/VERB an/DET object/NOUN from/ADP his/DET left/ADJ side/NOUN to/ADP the/DET right/NOUN#0.0#0.0
+person grabs something from a shelf with their right hand and places it down to their right#person/NOUN grab/VERB something/PRON from/ADP a/DET shelf/NOUN with/ADP their/DET right/ADJ hand/NOUN and/CCONJ place/VERB it/PRON down/ADP to/ADP their/DET right/NOUN#0.0#0.0
+a person grabs something with their right arm#a/DET person/NOUN grab/VERB something/PRON with/ADP their/DET right/ADJ arm/NOUN#0.0#0.0

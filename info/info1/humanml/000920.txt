@@ -1,0 +1,3 @@
+a person walks forward, stoops then stands and steps backwards.#a/DET person/NOUN walk/VERB forward/ADV stoop/NOUN then/ADV stand/VERB and/CCONJ step/VERB backwards/ADV#0.0#0.0
+character takes a few steps forward. squats down then place right hsnd on leg ans stands up. then takes a few steps backwards.#character/NOUN take/VERB a/DET few/ADJ step/NOUN forward/ADV squat/VERB down/ADV then/ADV place/VERB right/ADJ hsnd/PROPN on/ADP leg/PROPN ans/PROPN stand/VERB up/ADP then/ADV take/VERB a/DET few/ADJ step/NOUN backwards/ADV#0.0#0.0
+a person walks forward, squats down, stands back up, and then walks back#a/DET person/NOUN walk/VERB forward/ADV squat/VERB down/ADP stand/VERB back/ADV up/ADV and/CCONJ then/ADV walk/VERB back/ADV#0.0#0.0

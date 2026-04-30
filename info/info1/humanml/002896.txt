@@ -1,0 +1,3 @@
+the person is walking around waving.#the/DET person/NOUN is/AUX walk/VERB around/ADP wave/VERB#0.0#0.0
+while standing, person performs 2 biceps curls with right arm, then 1 bicep curl with left arm#while/SCONJ standing/NOUN person/NOUN perform/VERB biceps/NOUN curl/NOUN with/ADP right/ADJ arm/NOUN then/ADV bicep/NOUN curl/NOUN with/ADP left/ADJ arm/NOUN#0.0#0.0
+a man with a shaking disorder learns to wave#a/DET man/NOUN with/ADP a/DET shake/VERB disorder/NOUN learn/VERB to/PART wave/VERB#0.0#0.0

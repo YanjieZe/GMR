@@ -1,0 +1,3 @@
+a person holding something in hand and makes a call.#a/DET person/NOUN hold/VERB something/PRON in/ADP hand/NOUN and/CCONJ make/VERB a/DET call/NOUN#0.0#0.0
+a person stayed on the place grabbed something with hands and lean near to face#a/DET person/NOUN stay/VERB on/ADP the/DET place/NOUN grab/VERB something/PRON with/ADP hand/NOUN and/CCONJ lean/VERB near/ADV to/PART face/VERB#0.0#0.0
+a man acts as if he is typing a number on his phone then lifts it to his ear as if on a phone call#a/DET man/NOUN act/VERB as/SCONJ if/SCONJ he/PRON is/AUX type/VERB a/DET number/NOUN on/ADP his/DET phone/NOUN then/ADV lift/VERB it/PRON to/ADP his/DET ear/NOUN as/SCONJ if/SCONJ on/ADP a/DET phone/NOUN call/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks while holding on to something.#a/DET person/NOUN walk/VERB while/SCONJ hold/VERB on/ADP to/ADP something/PRON#0.0#0.0
+a person is walking while holding onto something.#a/DET person/NOUN is/AUX walk/VERB while/SCONJ hold/VERB onto/ADP something/PRON#0.0#0.0
+the person is walking holding on to a hand rail#the/DET person/NOUN is/AUX walk/VERB hold/VERB on/ADP to/ADP a/DET hand/NOUN rail/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+the man shakes his foot as if he stepped in something then returns back to his original stance.#the/DET man/NOUN shake/VERB his/DET foot/NOUN as/SCONJ if/SCONJ he/PRON step/VERB in/ADP something/PRON then/ADV return/VERB back/ADV to/ADP his/DET original/ADJ stance/NOUN#0.0#0.0
+a person kicks backwards with their left foot.#a/DET person/NOUN kick/VERB backwards/ADV with/ADP their/DET left/ADJ foot/NOUN#0.0#0.0
+a person steps forward and kicks something twice#a/DET person/NOUN step/VERB forward/ADV and/CCONJ kick/VERB something/PRON twice/ADV#0.0#0.0

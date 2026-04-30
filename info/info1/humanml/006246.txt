@@ -1,0 +1,3 @@
+a person takes a step forward.#a/DET person/NOUN take/VERB a/DET step/NOUN forward/ADV#0.0#0.0
+a person takes one step forward with both feet.#a/DET person/NOUN take/VERB one/NUM step/NOUN forward/ADV with/ADP both/DET foot/NOUN#0.0#0.0
+a person is nudged forward one step to standstill.#a/DET person/NOUN is/AUX nudge/VERB forward/ADV one/NUM step/NOUN to/PART standstill/VERB#0.0#0.0

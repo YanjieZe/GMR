@@ -1,0 +1,3 @@
+a person uses their left hand to point forward.#a/DET person/NOUN use/VERB their/DET left/ADJ hand/NOUN to/PART point/VERB forward/ADV#0.0#0.0
+the person presses buttons while at the atm#the/DET person/NOUN press/VERB button/NOUN while/SCONJ at/ADP the/DET atm/NOUN#0.0#0.0
+person is hitting buttons on a touch screen#person/NOUN is/AUX hit/VERB button/NOUN on/ADP a/DET touch/NOUN screen/NOUN#0.0#0.0

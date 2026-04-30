@@ -1,0 +1,3 @@
+a person tumbles backwards and stops.#a/DET person/NOUN tumble/VERB backwards/ADV and/CCONJ stop/NOUN#0.0#0.0
+a person gets pushed backwards where they stumble and catch themselves.#a/DET person/NOUN get/VERB push/VERB backwards/ADV where/ADV they/PRON stumble/VERB and/CCONJ catch/VERB themselves/PRON#0.0#0.0
+a person holds their arms out in front of their body then quickly steps backwards.#a/DET person/NOUN hold/VERB their/DET arm/NOUN out/ADP in/ADP front/NOUN of/ADP their/DET body/NOUN then/ADV quickly/ADV step/VERB backwards/ADV#0.0#0.0

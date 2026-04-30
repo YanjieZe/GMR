@@ -1,0 +1,3 @@
+a person creeps forward quietly for 6 paces then bends down and picks up a cup and drinks from it.#a/DET person/NOUN creep/VERB forward/ADV quietly/ADV for/ADP pace/NOUN then/ADV bend/VERB down/ADP and/CCONJ pick/VERB up/ADP a/DET cup/NOUN and/CCONJ drink/NOUN from/ADP it/PRON#0.0#10.0
+a person looks down as if they are lookimg for something then keeps walking and seems to find what they are looking for on the ground#a/DET person/NOUN look/VERB down/ADP as/SCONJ if/SCONJ they/PRON are/AUX lookimg/ADJ for/ADP something/PRON then/ADV keep/VERB walk/VERB and/CCONJ seem/VERB to/PART find/VERB what/PRON they/PRON are/AUX look/VERB for/ADP on/ADP the/DET ground/NOUN#0.0#0.0
+a gang member crip walking#a/DET gang/NOUN member/NOUN crip/NOUN walk/VERB#0.0#0.0

@@ -1,0 +1,3 @@
+he walks forward while turning to his left.#he/PRON walk/VERB forward/ADV while/SCONJ turn/VERB to/ADP his/DET left/NOUN#0.0#0.0
+a man walks forward and then comes to a stop.#a/DET man/NOUN walk/VERB forward/ADV and/CCONJ then/ADV come/VERB to/ADP a/DET stop/NOUN#0.0#0.0
+the man takes step to the ledt.#the/DET man/NOUN take/VERB step/NOUN to/ADP the/DET ledt/PROPN#0.0#0.0

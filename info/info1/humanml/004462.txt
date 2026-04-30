@@ -1,0 +1,3 @@
+a man holds packaged food in his right hand, opens the package with his left, and eats the food#a/DET man/NOUN hold/VERB package/VERB food/NOUN in/ADP his/DET right/ADJ hand/NOUN open/VERB the/DET package/NOUN with/ADP his/DET left/NOUN and/CCONJ eat/VERB the/DET food/NOUN#0.0#0.0
+the person is workin on something.#the/DET person/NOUN is/AUX workin/ADJ on/ADP something/PRON#0.0#0.0
+a person raises their hands to above shoulder height, and flicks their foot at the end of the motion#a/DET person/NOUN raise/VERB their/DET hand/NOUN to/ADP above/ADP shoulder/NOUN height/NOUN and/CCONJ flick/VERB their/DET foot/NOUN at/ADP the/DET end/NOUN of/ADP the/DET motion/NOUN#0.0#0.0

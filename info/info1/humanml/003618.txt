@@ -1,0 +1,3 @@
+the stick figure  is squating but leaning side to side.#the/DET stick/NOUN figure/NOUN is/AUX squat/VERB but/CCONJ lean/VERB side/NOUN to/ADP side/VERB#0.0#0.0
+a person is warming up#a/DET person/NOUN is/AUX warm/VERB up/ADP#0.0#0.0
+the figurine is bending one leg to the left while the right leg is straight#the/DET figurine/NOUN is/AUX bend/VERB one/NUM leg/NOUN to/ADP the/DET left/ADJ while/SCONJ the/DET right/ADJ leg/NOUN is/AUX straight/ADJ#0.0#0.0

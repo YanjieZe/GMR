@@ -1,0 +1,3 @@
+a person does a defensive shuffle on a diagonal before stopping#a/DET person/NOUN does/AUX a/DET defensive/ADJ shuffle/NOUN on/ADP a/DET diagonal/ADJ before/ADP stop/VERB#0.0#0.0
+person lunges diagonally to their left and toward the camera.#person/NOUN lunge/VERB diagonally/ADV to/ADP their/DET left/NOUN and/CCONJ toward/ADP the/DET camera/NOUN#0.0#0.0
+person moves violently side to side#person/NOUN move/VERB violently/ADV side/VERB to/PART side/VERB#0.0#0.0

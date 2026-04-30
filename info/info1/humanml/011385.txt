@@ -1,0 +1,3 @@
+the person is picking something up and putting it on something.#the/DET person/NOUN is/AUX pick/VERB something/PRON up/ADV and/CCONJ put/VERB it/PRON on/ADP something/PRON#0.0#0.0
+a  man uses his right hand to fill in something and bends to collect it down,turns and goes back.#a/DET man/NOUN use/VERB his/DET right/ADJ hand/NOUN to/PART fill/VERB in/ADP something/PRON and/CCONJ bend/NOUN to/PART collect/VERB it/PRON down/ADP turn/VERB and/CCONJ go/VERB back/ADV#0.0#0.0
+a person turns off the faucet then unclogs the drain out of the bathtub#a/DET person/NOUN turn/VERB off/ADP the/DET faucet/NOUN then/ADV unclog/VERB the/DET drain/NOUN out/SCONJ of/ADP the/DET bathtub/NOUN#0.0#0.0

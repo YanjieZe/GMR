@@ -1,0 +1,3 @@
+a person reaches down and lifts a heavy object with both arms.#a/DET person/NOUN reach/VERB down/ADP and/CCONJ lift/VERB a/DET heavy/ADJ object/NOUN with/ADP both/DET arm/NOUN#0.0#0.0
+a person looks back, carefully sits down, then gets back up.#a/DET person/NOUN look/VERB back/ADV carefully/ADV sit/VERB down/ADV then/ADV get/VERB back/ADV up/ADV#0.0#0.0
+the man walks backwards to sit in the chair#the/DET man/NOUN walk/VERB backwards/ADV to/PART sit/VERB in/ADP the/DET chair/NOUN#0.0#0.0

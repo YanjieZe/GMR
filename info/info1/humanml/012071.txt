@@ -1,0 +1,3 @@
+the persons calling with his left hand.#the/DET person/NOUN call/VERB with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0
+moving hands in a circular motion.#move/VERB hand/NOUN in/ADP a/DET circular/ADJ motion/NOUN#0.0#0.0
+a person raises his left hand towards the head and then lowers it#a/DET person/NOUN raise/VERB his/DET left/ADJ hand/NOUN towards/ADP the/DET head/NOUN and/CCONJ then/ADV lower/VERB it/PRON#0.0#0.0

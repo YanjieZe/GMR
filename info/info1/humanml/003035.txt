@@ -1,0 +1,3 @@
+a person makes one step forward with each leg.#a/DET person/NOUN make/VERB one/NUM step/VERB forward/ADV with/ADP each/DET leg/NOUN#0.0#0.0
+a person takes two wide steps forward.#a/DET person/NOUN take/VERB two/NUM wide/ADJ step/NOUN forward/ADV#0.0#0.0
+does two steps forward. first with left leg, then with the right#does/AUX two/NUM step/NOUN forward/ADV first/ADV with/ADP left/ADJ leg/NOUN then/ADV with/ADP the/DET right/NOUN#0.0#0.0

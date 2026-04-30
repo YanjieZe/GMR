@@ -1,0 +1,3 @@
+a person walks while touching something with his left hand.#a/DET person/NOUN walk/VERB while/SCONJ touch/VERB something/PRON with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0
+a person walks with their left arm on a railing.#a/DET person/NOUN walk/VERB with/ADP their/DET left/ADJ arm/NOUN on/ADP a/DET railing/NOUN#0.0#0.0
+the sim is walking with both hands on a hand rail, appearing to be walking trough a hallway grabbing both a rail with both hands again.#the/DET sim/PROPN is/AUX walk/VERB with/ADP both/DET hand/NOUN on/ADP a/DET hand/NOUN rail/NOUN appear/VERB to/PART be/AUX walk/VERB trough/ADP a/DET hallway/NOUN grab/VERB both/DET a/DET rail/NOUN with/ADP both/DET hand/NOUN again/ADV#0.0#5.0

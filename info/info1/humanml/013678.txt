@@ -1,0 +1,3 @@
+a person punches the air with their left hand and then their right hand#a/DET person/NOUN punch/VERB the/DET air/NOUN with/ADP their/DET left/ADJ hand/NOUN and/CCONJ then/ADV their/DET right/ADJ hand/NOUN#0.0#0.0
+a person does a slow left hook with their left arm, then with their right arm#a/DET person/NOUN does/AUX a/DET slow/ADJ left/ADJ hook/NOUN with/ADP their/DET left/ADJ arm/NOUN then/ADV with/ADP their/DET right/ADJ arm/NOUN#0.0#0.0
+a person swaying side to side jabs forward with their left arm and then their right arm#a/DET person/NOUN sway/VERB side/NOUN to/PART side/VERB jab/NOUN forward/ADV with/ADP their/DET left/ADJ arm/NOUN and/CCONJ then/ADV their/DET right/ADJ arm/NOUN#0.0#0.0

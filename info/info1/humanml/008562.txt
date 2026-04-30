@@ -1,0 +1,3 @@
+figure is on its knees with hands on thighsand starting with its right leg gets up and shuffles diagonally to the left and looks back.#figure/NOUN is/AUX on/ADP its/DET knee/NOUN with/ADP hand/NOUN on/ADP thighsand/NOUN start/VERB with/ADP its/DET right/ADJ leg/NOUN get/VERB up/ADV and/CCONJ shuffle/NOUN diagonally/ADV to/ADP the/DET left/NOUN and/CCONJ look/VERB back/ADV#0.0#0.0
+a man kneeling on his knees and then he stands up straigh.#a/DET man/NOUN kneel/VERB on/ADP his/DET knee/NOUN and/CCONJ then/ADV he/PRON stand/VERB up/ADP straigh/NOUN#0.0#6.0
+a person on their knees gets up and steps to the left.#a/DET person/NOUN on/ADP their/DET knee/NOUN get/VERB up/ADV and/CCONJ step/NOUN to/ADP the/DET left/NOUN#0.0#0.0

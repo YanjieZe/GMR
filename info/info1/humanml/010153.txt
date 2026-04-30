@@ -1,0 +1,3 @@
+a figure opens a door#a/DET figure/NOUN open/VERB a/DET door/NOUN#0.0#0.0
+someone quickly moves their right arm#someone/PRON quickly/ADV move/VERB their/DET right/ADJ arm/NOUN#0.0#0.0
+a person punches forward with his right arm#a/DET person/NOUN punch/VERB forward/ADV with/ADP his/DET right/ADJ arm/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+he is self balancing while walking through a narrow bridge.#he/PRON is/AUX self/NOUN balance/VERB while/SCONJ walk/VERB through/ADP a/DET narrow/ADJ bridge/NOUN#0.0#0.0
+a person carefully walks forward with one foot in front of the other and arms held out to either side.#a/DET person/NOUN carefully/ADV walk/VERB forward/ADV with/ADP one/NUM foot/NOUN in/ADP front/NOUN of/ADP the/DET other/ADJ and/CCONJ arm/NOUN hold/VERB out/ADP to/ADP either/DET side/NOUN#0.0#0.0
+walking forward in a straight line.#walk/VERB forward/ADV in/ADP a/DET straight/ADJ line/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person paws with their hands in front of them while standing.#a/DET person/NOUN paw/VERB with/ADP their/DET hand/NOUN in/ADP front/NOUN of/ADP them/PRON while/SCONJ stand/VERB#0.0#0.0
+a person has their hands up by their chest acting like a cat.#a/DET person/NOUN has/AUX their/DET hand/NOUN up/ADP by/ADP their/DET chest/NOUN act/VERB like/SCONJ a/DET cat/NOUN#0.0#0.0
+a person raised the hands and showed the cat jesture#a/DET person/NOUN raise/VERB the/DET hand/NOUN and/CCONJ show/VERB the/DET cat/NOUN jesture/NOUN#0.0#10.0

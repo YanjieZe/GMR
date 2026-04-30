@@ -1,0 +1,3 @@
+he rinses his hands and then adds some soap and washes his hands.#he/PRON rinse/VERB his/DET hand/NOUN and/CCONJ then/ADV add/VERB some/DET soap/NOUN and/CCONJ wash/VERB his/DET hand/NOUN#0.0#0.0
+a man is washing his hands with soap and water.#a/DET man/NOUN is/AUX wash/VERB his/DET hand/NOUN with/ADP soap/NOUN and/CCONJ water/NOUN#0.0#0.0
+a man stands rubbing his hands quickly close together, in front of his body.#a/DET man/NOUN stand/VERB rub/VERB his/DET hand/NOUN quickly/ADV close/VERB together/ADV in/ADP front/NOUN of/ADP his/DET body/NOUN#0.0#0.0

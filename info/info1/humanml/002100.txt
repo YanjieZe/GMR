@@ -1,0 +1,2 @@
+person stands still moving both arms rotating a steering wheel in circular motions#person/NOUN stand/VERB still/ADV move/VERB both/DET arm/NOUN rotate/VERB a/DET steering/NOUN wheel/NOUN in/ADP circular/ADJ motion/NOUN#0.0#0.0
+a person lowers their right arm from their middle and then raises it again#a/DET person/NOUN lower/VERB their/DET right/ADJ arm/NOUN from/ADP their/DET middle/NOUN and/CCONJ then/ADV raise/VERB it/PRON again/ADV#5.0#6.0

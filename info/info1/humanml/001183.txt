@@ -1,0 +1,3 @@
+a person runs forward, then quickly turns off to the left.#a/DET person/NOUN run/VERB forward/ADV then/ADV quickly/ADV turn/VERB off/ADP to/ADP the/DET left/NOUN#0.0#0.0
+a person jogs forward and the cuts 45 degrees to their left#a/DET person/NOUN jog/VERB forward/ADV and/CCONJ the/DET cut/NOUN degree/NOUN to/ADP their/DET left/NOUN#0.0#0.0
+a person is running and makes a slight left turn.#a/DET person/NOUN is/AUX run/VERB and/CCONJ make/VERB a/DET slight/ADJ left/ADJ turn/NOUN#0.0#0.0

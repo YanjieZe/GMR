@@ -1,0 +1,3 @@
+a man slowly walks forward while stretching out his legs sideways.#a/DET man/NOUN slowly/ADV walk/VERB forward/ADV while/SCONJ stretch/VERB out/ADP his/DET leg/NOUN sideways/ADV#0.0#0.0
+a person walks while talking large steps to the side#a/DET person/NOUN walk/VERB while/SCONJ talk/VERB large/ADJ step/NOUN to/ADP the/DET side/NOUN#0.0#0.0
+a person slowly creeps down the path, while also bending their knees at one point.#a/DET person/NOUN slowly/ADV creep/VERB down/ADP the/DET path/NOUN while/SCONJ also/ADV bend/VERB their/DET knee/NOUN at/ADP one/NUM point/NOUN#0.0#0.0

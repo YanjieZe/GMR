@@ -1,0 +1,3 @@
+the man walks and makes a right turn#the/DET man/NOUN walk/VERB and/CCONJ make/VERB a/DET right/ADJ turn/NOUN#0.0#0.0
+the person walks in a quarter of a circle and stops.#the/DET person/NOUN walk/VERB in/ADP a/DET quarter/NOUN of/ADP a/DET circle/NOUN and/CCONJ stop/NOUN#0.0#0.0
+the person is walking forward turning right .#the/DET person/NOUN is/AUX walk/VERB forward/ADV turn/VERB right/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks forward, with a quickening step and stops tentatively, as they take their last step.#a/DET person/NOUN walk/VERB forward/ADV with/ADP a/DET quicken/VERB step/NOUN and/CCONJ stop/VERB tentatively/ADV as/SCONJ they/PRON take/VERB their/DET last/ADJ step/NOUN#nan#0.0
+a person runs forward with both arms still by his/her sides, only allowing the hands to sway during the run.#a/DET person/NOUN run/VERB forward/ADV with/ADP both/DET arm/NOUN still/ADV by/ADP his/DET her/DET side/NOUN only/ADV allow/VERB the/DET hand/NOUN to/PART sway/VERB during/ADP the/DET run/NOUN#0.0#0.0
+a person walks forward.#a/DET person/NOUN walk/VERB forward/ADV#0.0#0.0

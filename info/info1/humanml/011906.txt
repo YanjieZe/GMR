@@ -1,0 +1,3 @@
+a person walks forward and to the side, before stopping.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ to/ADP the/DET side/NOUN before/ADP stop/VERB#0.0#0.0
+a person walks in a straight line then turns left, perpendicular to their original path.#a/DET person/NOUN walk/VERB in/ADP a/DET straight/ADJ line/NOUN then/ADV turn/VERB left/VERB perpendicular/ADJ to/ADP their/DET original/ADJ path/NOUN#0.0#0.0
+a person walked forward in left left direction#a/DET person/NOUN walk/VERB forward/ADV in/ADP left/ADJ left/ADJ direction/NOUN#0.0#0.0

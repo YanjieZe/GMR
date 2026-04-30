@@ -1,0 +1,2 @@
+a person walks a semi-circle, clockwise, before turning around and sitting on the ground.#a/DET person/NOUN walk/VERB a/DET semicircle/NOUN clockwise/NOUN before/ADP turn/VERB around/ADV and/CCONJ sit/VERB on/ADP the/DET ground/NOUN#0.0#0.0
+takes a few steps and then sits down on the ground#take/VERB a/DET few/ADJ step/NOUN and/CCONJ then/ADV sit/VERB down/ADP on/ADP the/DET ground/NOUN#0.0#0.0

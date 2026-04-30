@@ -1,0 +1,3 @@
+the person is kicking to side.#the/DET person/NOUN is/AUX kick/VERB to/PART side/VERB#0.0#0.0
+a person steps forward and swings right leg across their body to the left and steps back#a/DET person/NOUN step/VERB forward/ADV and/CCONJ swing/VERB right/ADJ leg/NOUN across/ADP their/DET body/NOUN to/ADP the/DET left/NOUN and/CCONJ step/NOUN back/ADV#0.0#0.0
+a person steps forward and kicks, then returns to their starting position.#a/DET person/NOUN step/VERB forward/ADV and/CCONJ kick/NOUN then/ADV return/VERB to/ADP their/DET start/VERB position/NOUN#0.0#0.0

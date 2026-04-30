@@ -1,0 +1,3 @@
+a person skips several steps to the right, several steps to the left and then two steps to the right.#a/DET person/NOUN skip/VERB several/ADJ step/NOUN to/ADP the/DET right/ADJ several/ADJ step/NOUN to/ADP the/DET left/NOUN and/CCONJ then/ADV two/NUM step/NOUN to/ADP the/DET right/NOUN#0.0#0.0
+the figure side skips in a figure 8 motion.#the/DET figure/NOUN side/NOUN skip/NOUN in/ADP a/DET figure/NOUN motion/NOUN#0.0#0.0
+a person runs while sidestepping back and forth#a/DET person/NOUN run/VERB while/SCONJ sidestep/VERB back/ADV and/CCONJ forth/ADV#0.0#0.0

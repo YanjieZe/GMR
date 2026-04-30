@@ -1,0 +1,3 @@
+a person walk forward cautiously with their hand against a surface.#a/DET person/NOUN walk/VERB forward/ADV cautiously/ADV with/ADP their/DET hand/NOUN against/ADP a/DET surface/NOUN#0.0#0.0
+a person walks forward while leaning the left hand on something.#a/DET person/NOUN walk/VERB forward/ADV while/SCONJ lean/VERB the/DET left/ADJ hand/NOUN on/ADP something/PRON#0.0#0.0
+a person carefully walks forward, bracing themselves on something with their left hand.#a/DET person/NOUN carefully/ADV walk/VERB forward/ADV brace/VERB themselves/PRON on/ADP something/PRON with/ADP their/DET left/ADJ hand/NOUN#0.0#0.0

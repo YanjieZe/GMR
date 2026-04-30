@@ -1,0 +1,3 @@
+the person is sitting down possibly driving.#the/DET person/NOUN is/AUX sit/VERB down/ADP possibly/ADV drive/VERB#0.0#0.0
+a seated person turns a steering wheel.#a/DET seated/ADJ person/NOUN turn/VERB a/DET steering/NOUN wheel/NOUN#0.0#0.0
+someone is sitting down and driving#someone/PRON is/AUX sit/VERB down/ADP and/CCONJ drive/VERB#0.0#0.0

@@ -1,0 +1,3 @@
+a person in boxing class#a/DET person/NOUN in/ADP box/VERB class/NOUN#0.0#0.0
+a person boxes someone with their left hand rapidly.#a/DET person/NOUN box/VERB someone/PRON with/ADP their/DET left/ADJ hand/NOUN rapidly/ADV#0.0#0.0
+a man is practicing shadowboxing.#a/DET man/NOUN is/AUX practice/VERB shadowbox/VERB#0.0#0.0

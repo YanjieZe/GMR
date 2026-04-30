@@ -1,0 +1,3 @@
+the figure is comfortable with being alive in paid, still needing consumption/progress.#the/DET figure/NOUN is/AUX comfortable/ADJ with/ADP being/AUX alive/ADJ in/ADP pay/VERB still/ADV need/VERB consumption/NOUN progress/NOUN#0.0#0.0
+a person imitating a zombie#a/DET person/NOUN imitate/VERB a/DET zombie/NOUN#0.0#0.0
+person raises left arms to head and staggers forward in pain drags  feet along the floor#person/NOUN raise/VERB left/VERB arm/NOUN to/PART head/VERB and/CCONJ stagger/NOUN forward/ADV in/ADP pain/NOUN drag/VERB foot/NOUN along/ADP the/DET floor/NOUN#0.0#0.0

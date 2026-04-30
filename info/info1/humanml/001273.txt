@@ -1,0 +1,3 @@
+someone doing exercise, dumbbell over head#someone/PRON do/VERB exercise/NOUN dumbbell/VERB over/ADP head/NOUN#0.0#0.0
+a man stands with both arms bent at the elbows, shoulder height, raises them above his head, and then back down.#a/DET man/NOUN stand/VERB with/ADP both/DET arm/NOUN bent/NOUN at/ADP the/DET elbow/NOUN shoulder/NOUN height/NOUN raise/VERB them/PRON above/ADP his/DET head/NOUN and/CCONJ then/ADV back/ADV down/ADP#0.0#0.0
+a person is lifting something up and down above their head repeatedly.#a/DET person/NOUN is/AUX lift/VERB something/PRON up/ADV and/CCONJ down/ADV above/ADP their/DET head/NOUN repeatedly/ADV#0.0#0.0

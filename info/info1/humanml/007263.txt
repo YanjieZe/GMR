@@ -1,0 +1,3 @@
+a person gives high fives.#a/DET person/NOUN give/VERB high/ADJ five/NOUN#0.0#0.0
+a man leans forward and then rears back to throw with his right arm, he throws again.#a/DET man/NOUN lean/VERB forward/ADV and/CCONJ then/ADV rear/VERB back/ADV to/PART throw/VERB with/ADP his/DET right/ADJ arm/NOUN he/PRON throw/VERB again/ADV#0.0#0.0
+the person is getting hit with an upper right.#the/DET person/NOUN is/AUX get/VERB hit/VERB with/ADP an/DET upper/ADJ right/NOUN#0.0#0.0

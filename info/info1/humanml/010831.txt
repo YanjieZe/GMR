@@ -1,0 +1,3 @@
+man appears to be walking forward on a beam or tightrope#man/PROPN appear/VERB to/PART be/AUX walk/VERB forward/ADV on/ADP a/DET beam/NOUN or/CCONJ tightrope/NOUN#0.0#0.0
+a person is walking with one foot placed immediately in front of the other, while using their right arm to correct balance.#a/DET person/NOUN is/AUX walk/VERB with/ADP one/NUM foot/NOUN place/VERB immediately/ADV in/ADP front/NOUN of/ADP the/DET other/ADJ while/SCONJ use/VERB their/DET right/ADJ arm/NOUN to/PART correct/VERB balance/NOUN#0.0#0.0
+person walks forward and stumbles slightly.#person/NOUN walk/VERB forward/ADV and/CCONJ stumble/VERB slightly/ADV#0.0#0.0

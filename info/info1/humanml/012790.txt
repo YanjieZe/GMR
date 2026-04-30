@@ -1,0 +1,3 @@
+a person is jogging in pace with both hands in front of them mid torso.#a/DET person/NOUN is/AUX jog/VERB in/ADP pace/NOUN with/ADP both/DET hand/NOUN in/ADP front/NOUN of/ADP them/PRON mid/ADJ torso/PROPN#0.0#0.0
+the man is jogging in place again.#the/DET man/NOUN is/AUX jog/VERB in/ADP place/NOUN again/ADV#0.0#0.0
+a person jogs on the spot.#a/DET person/NOUN jog/VERB on/ADP the/DET spot/NOUN#0.0#0.0

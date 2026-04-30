@@ -1,0 +1,3 @@
+the person starts running quickly#the/DET person/NOUN start/VERB run/VERB quickly/ADV#0.0#0.0
+he ran diagonally toward the right.#he/PRON run/VERB diagonally/ADV toward/ADP the/DET right/NOUN#0.0#0.0
+a man jogs forward, holding something at chest level in both hands.#a/DET man/NOUN jog/VERB forward/ADV hold/VERB something/PRON at/ADP chest/NOUN level/NOUN in/ADP both/DET hand/NOUN#0.0#0.0

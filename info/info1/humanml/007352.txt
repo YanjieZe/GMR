@@ -1,0 +1,3 @@
+the person is walking forward.#the/DET person/NOUN is/AUX walk/VERB forward/ADV#0.0#0.0
+the figure is straddling the emerging wavy line while walking expeditiously forward.#the/DET figure/NOUN is/AUX straddle/VERB the/DET emerge/VERB wavy/PROPN line/NOUN while/SCONJ walk/VERB expeditiously/ADV forward/ADV#0.0#0.0
+a person walks forward while dancing.#a/DET person/NOUN walk/VERB forward/ADV while/SCONJ dance/VERB#0.0#0.0

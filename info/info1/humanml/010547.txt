@@ -1,0 +1,3 @@
+the person is walking to the left like a robot.#the/DET person/NOUN is/AUX walk/VERB to/ADP the/DET left/NOUN like/SCONJ a/DET robot/NOUN#0.0#0.0
+a person walks around like a robot#a/DET person/NOUN walk/VERB around/ADV like/SCONJ a/DET robot/NOUN#0.0#0.0
+person is walking forward like a robot#person/NOUN is/AUX walk/VERB forward/ADV like/SCONJ a/DET robot/NOUN#0.0#0.0

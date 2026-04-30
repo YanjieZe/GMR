@@ -1,0 +1,3 @@
+an upright person walks forwards, stumbling in a clumsy manner.#an/DET upright/ADJ person/NOUN walk/VERB forwards/ADV stumble/VERB in/ADP a/DET clumsy/ADJ manner/NOUN#0.0#7.0
+the person covers their mouth with both of their hands while staggering around in a small circle.#the/DET person/NOUN cover/VERB their/DET mouth/NOUN with/ADP both/DET of/ADP their/DET hand/NOUN while/SCONJ stagger/VERB around/ADV in/ADP a/DET small/ADJ circle/NOUN#1.0#5.0
+person has their hands on their mouth/face area and is walking around randomly#person/NOUN has/AUX their/DET hand/NOUN on/ADP their/DET mouth/NOUN face/NOUN area/NOUN and/CCONJ is/AUX walk/VERB around/ADV randomly/ADV#0.0#0.0

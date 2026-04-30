@@ -1,0 +1,3 @@
+person is unlocking a safe#person/NOUN is/AUX unlock/VERB a/DET safe/ADJ#0.0#0.0
+a person walks forward and turns right, then makes twisting motions with their right hand while slowly squatting toward the ground.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ turn/VERB right/ADJ then/ADV make/VERB twisting/NOUN motion/NOUN with/ADP their/DET right/ADJ hand/NOUN while/SCONJ slowly/ADV squat/VERB toward/ADP the/DET ground/NOUN#0.0#0.0
+the person put his hands down to the side and is walking forward turning a knob.#the/DET person/NOUN put/VERB his/DET hand/NOUN down/ADP to/ADP the/DET side/NOUN and/CCONJ is/AUX walk/VERB forward/ADV turn/VERB a/DET knob/NOUN#0.0#0.0

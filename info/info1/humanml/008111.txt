@@ -1,0 +1,3 @@
+a man lifts a weight with his right hand.#a/DET man/NOUN lift/VERB a/DET weight/NOUN with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+a person lifts something with their right hand#a/DET person/NOUN lift/VERB something/PRON with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+the right arm bends back and forth, and the left arm forms quick circles.#the/DET right/ADJ arm/NOUN bend/VERB back/ADV and/CCONJ forth/ADV and/CCONJ the/DET left/ADJ arm/NOUN form/NOUN quick/ADJ circle/NOUN#0.0#0.0

@@ -1,0 +1,2 @@
+a person is crawling on all fours, and then gets up.#a/DET person/NOUN is/AUX crawl/VERB on/ADP all/DET four/NOUN and/CCONJ then/ADV get/VERB up/ADP#0.0#0.0
+a person crawl around slowly and then stands up tall.#a/DET person/NOUN crawl/ADJ around/ADV slowly/ADV and/CCONJ then/ADV stand/VERB up/ADP tall/ADJ#0.0#0.0

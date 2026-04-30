@@ -1,0 +1,3 @@
+a person jumps up twice#a/DET person/NOUN jump/VERB up/ADP twice/ADV#0.0#0.0
+a person jumps up twice while in a stationary, standing position.#a/DET person/NOUN jump/VERB up/ADP twice/ADV while/SCONJ in/ADP a/DET stationary/ADJ standing/ADJ position/NOUN#0.0#0.0
+a person hops up in place three times.#a/DET person/NOUN hop/VERB up/ADP in/ADP place/NOUN three/NUM time/NOUN#0.0#0.0

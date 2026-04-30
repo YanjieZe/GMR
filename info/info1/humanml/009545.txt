@@ -1,0 +1,3 @@
+swinging body in a circular motion.#swinge/VERB body/NOUN in/ADP a/DET circular/ADJ motion/NOUN#0.0#0.0
+a person standing up rotating shoulders in a clockwise circle and then rotating hips in a clockwise circle .#a/DET person/NOUN stand/VERB up/ADP rotate/VERB shoulder/NOUN in/ADP a/DET clockwise/ADJ circle/NOUN and/CCONJ then/ADV rotate/VERB hip/NOUN in/ADP a/DET clockwise/ADJ circle/NOUN#0.0#0.0
+a person rotates their head in a clockwise pattern and then gyrates their hips in the same clockwise pattern.#a/DET person/NOUN rotate/VERB their/DET head/NOUN in/ADP a/DET clockwise/ADJ pattern/NOUN and/CCONJ then/ADV gyrate/VERB their/DET hip/NOUN in/ADP the/DET same/ADJ clockwise/NOUN pattern/NOUN#0.0#0.0

@@ -1,0 +1,2 @@
+a person rises from a seated position, turns to the left, walks three steps, stops and stretches out arms.#a/DET person/NOUN rise/VERB from/ADP a/DET seated/ADJ position/NOUN turn/VERB to/ADP the/DET left/NOUN walk/VERB three/NUM step/NOUN stop/VERB and/CCONJ stretch/VERB out/ADP arm/NOUN#0.0#0.0
+the person got up and put up his arms straight#the/DET person/NOUN get/VERB up/ADP and/CCONJ put/VERB up/ADP his/DET arm/NOUN straight/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a seated person motions in a "come here" movement with their right arm#a/DET seated/ADJ person/NOUN motion/NOUN in/ADP a/DET come/VERB here/ADV movement/NOUN with/ADP their/DET right/ADJ arm/NOUN#0.0#0.0
+a person sits down and talks with their hands.#a/DET person/NOUN sit/VERB down/ADV and/CCONJ talk/NOUN with/ADP their/DET hand/NOUN#0.0#0.0
+the person is squatting down while raising and then moving their right hand in a circular motion.#the/DET person/NOUN is/AUX squat/VERB down/ADP while/SCONJ raise/VERB and/CCONJ then/ADV move/VERB their/DET right/ADJ hand/NOUN in/ADP a/DET circular/ADJ motion/NOUN#0.0#7.0

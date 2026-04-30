@@ -1,0 +1,3 @@
+this person sits down with legs crossed then stands back up.#this/DET person/NOUN sit/VERB down/ADP with/ADP leg/NOUN cross/VERB then/ADV stand/VERB back/ADV up/ADV#0.0#0.0
+a person sits cross legged down on the ground and then stands back up#a/DET person/NOUN sit/VERB cross/PROPN legge/VERB down/ADP on/ADP the/DET ground/NOUN and/CCONJ then/ADV stand/VERB back/ADV up/ADV#0.0#0.0
+a person bends down while reaching down holding his right knee trying to sit down with legs crossed#a/DET person/NOUN bend/VERB down/ADP while/SCONJ reach/VERB down/ADP hold/VERB his/DET right/ADJ knee/NOUN try/VERB to/PART sit/VERB down/ADP with/ADP leg/NOUN cross/VERB#0.0#0.0

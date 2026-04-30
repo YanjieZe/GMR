@@ -1,0 +1,3 @@
+person backed up to throw a ball.#person/NOUN back/VERB up/ADP to/PART throw/VERB a/DET ball/NOUN#0.0#0.0
+the person walks back, and then uses all his energy to throw an object.#the/DET person/NOUN walk/VERB back/ADV and/CCONJ then/ADV use/VERB all/DET his/DET energy/NOUN to/PART throw/VERB an/DET object/NOUN#0.0#0.0
+walking back and then running forward and throwing something.#walk/VERB back/ADV and/CCONJ then/ADV run/VERB forward/ADV and/CCONJ throw/VERB something/PRON#0.0#0.0

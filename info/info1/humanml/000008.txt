@@ -1,0 +1,4 @@
+a man performs a squat while lifting his arms to shoulder height and hands above his head.#a/DET man/NOUN perform/VERB a/DET squat/NOUN while/SCONJ lift/VERB his/DET arm/NOUN to/ADP shoulder/NOUN height/NOUN and/CCONJ hand/NOUN above/ADP his/DET head/NOUN#0.0#0.0
+a person squats and raises both arms and then stand backup.#a/DET person/NOUN squat/VERB and/CCONJ raise/VERB both/DET arm/NOUN and/CCONJ then/ADV stand/VERB backup/ADJ#0.0#0.0
+a person does a squat and raises both arms over its head.#a/DET person/NOUN does/AUX a/DET squat/NOUN and/CCONJ raise/VERB both/DET arm/NOUN over/ADP its/DET head/NOUN#0.0#0.0
+a person squats down and puts their hands above their head#a/DET person/NOUN squat/VERB down/ADP and/CCONJ put/VERB their/DET hand/NOUN above/ADP their/DET head/NOUN#0.0#0.0

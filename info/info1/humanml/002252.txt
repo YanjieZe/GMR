@@ -1,0 +1,3 @@
+the person walks sideways in both directions.#the/DET person/NOUN walk/VERB sideways/ADV in/ADP both/DET direction/NOUN#0.0#0.0
+person is side stepping back and forth.#person/NOUN is/AUX side/NOUN step/VERB back/ADV and/CCONJ forth/ADV#0.0#0.0
+a person side steps to the right and then side steps to the left.#a/DET person/NOUN side/NOUN step/NOUN to/ADP the/DET right/NOUN and/CCONJ then/ADV side/VERB step/NOUN to/ADP the/DET left/NOUN#0.0#0.0

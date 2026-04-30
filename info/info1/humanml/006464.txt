@@ -1,0 +1,3 @@
+a person sits down with hands by his side#a/DET person/NOUN sit/VERB down/ADP with/ADP hand/NOUN by/ADP his/DET side/NOUN#0.0#0.0
+a man sits down in a chair and shuffles his feet.#a/DET man/NOUN sit/VERB down/ADP in/ADP a/DET chair/NOUN and/CCONJ shuffle/VERB his/DET foot/NOUN#0.0#0.0
+a figure backs up and sits down.#a/DET figure/NOUN back/VERB up/ADP and/CCONJ sit/VERB down/ADP#0.0#0.0

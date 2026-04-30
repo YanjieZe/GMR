@@ -1,0 +1,3 @@
+a person climbs stairs while using the railing#a/DET person/NOUN climb/VERB stair/NOUN while/SCONJ use/VERB the/DET railing/NOUN#0.0#0.0
+a person raises its right arm then climbs up somthing.#a/DET person/NOUN raise/VERB its/DET right/ADJ arm/NOUN then/ADV climb/VERB up/ADP somthe/VERB#0.0#0.0
+someone is walking up some steps with their right hand holding the hand rail.#someone/PRON is/AUX walk/VERB up/ADP some/DET step/NOUN with/ADP their/DET right/ADJ hand/NOUN hold/VERB the/DET hand/NOUN rail/NOUN#0.0#0.0

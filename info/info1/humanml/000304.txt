@@ -1,0 +1,3 @@
+a person is walking in a steady forward motion.#a/DET person/NOUN is/AUX walk/VERB in/ADP a/DET steady/ADJ forward/ADJ motion/NOUN#0.0#0.0
+a person walks forward in a normal fashion#a/DET person/NOUN walk/VERB forward/ADV in/ADP a/DET normal/ADJ fashion/NOUN#0.0#0.0
+a person walks slowly on a treadmill#a/DET person/NOUN walk/VERB slowly/ADV on/ADP a/DET treadmill/NOUN#0.0#0.0

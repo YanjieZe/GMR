@@ -1,0 +1,3 @@
+a person jogs on the spot, then stands still#a/DET person/NOUN jog/VERB on/ADP the/DET spot/NOUN then/ADV stand/VERB still/ADV#0.0#0.0
+a person goes into a short jog before stopping.#a/DET person/NOUN go/VERB into/ADP a/DET short/ADJ jog/NOUN before/ADP stop/VERB#0.0#0.0
+a person jogs forward with arms moving to his side.#a/DET person/NOUN jog/VERB forward/ADV with/ADP arm/NOUN move/VERB to/ADP his/DET side/NOUN#0.0#0.0

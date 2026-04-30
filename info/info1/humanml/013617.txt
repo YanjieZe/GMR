@@ -1,0 +1,3 @@
+a man turns and then slowly walks to the other end of the room,#a/DET man/NOUN turn/VERB and/CCONJ then/ADV slowly/ADV walk/VERB to/ADP the/DET other/ADJ end/NOUN of/ADP the/DET room/NOUN#0.0#0.0
+the person backed up and he’s walking creepily to the left.#the/DET person/NOUN back/VERB up/ADP and/CCONJ he/PRON walk/VERB creepily/ADV to/ADP the/DET left/NOUN#0.0#0.0
+a person looks around then moves slowly to their right in a slightly crouched position.#a/DET person/NOUN look/VERB around/ADP then/ADV move/VERB slowly/ADV to/ADP their/DET right/NOUN in/ADP a/DET slightly/ADV crouched/ADJ position/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+the person play some thing from the left to the right#the/DET person/NOUN play/VERB some/DET thing/NOUN from/ADP the/DET left/NOUN to/ADP the/DET right/NOUN#0.0#0.0
+bending down and movng arms side to side.#bend/VERB down/ADP and/CCONJ movng/VERB arm/NOUN side/NOUN to/PART side/VERB#0.0#0.0
+this person lifts something on the left and sets it down on the right.#this/DET person/NOUN lift/VERB something/PRON on/ADP the/DET left/NOUN and/CCONJ set/VERB it/PRON down/ADP on/ADP the/DET right/NOUN#0.0#0.0

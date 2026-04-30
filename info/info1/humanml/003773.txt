@@ -1,0 +1,3 @@
+man kicks and jumps with right leg#man/PROPN kicks/PROPN and/CCONJ jump/VERB with/ADP right/ADJ leg/NOUN#0.0#0.0
+a person kicks with there right leg, jumps forward aggressively, stomping the ground. they step back, looking down.#a/DET person/NOUN kick/VERB with/ADP there/ADV right/ADJ leg/NOUN jump/VERB forward/ADV aggressively/ADV stomp/VERB the/DET ground/NOUN they/PRON step/VERB back/ADV look/VERB down/ADV#0.0#0.0
+person is jumping and kicking forward.#person/NOUN is/AUX jump/VERB and/CCONJ kick/VERB forward/ADV#0.0#0.0

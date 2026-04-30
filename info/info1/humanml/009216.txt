@@ -1,0 +1,3 @@
+a person who seems to put slippers on#a/DET person/NOUN who/PRON seem/VERB to/PART put/VERB slipper/NOUN on/ADP#0.0#0.0
+a person steps forward and turns right, then shuffles around awkwardly.#a/DET person/NOUN step/VERB forward/ADV and/CCONJ turn/VERB right/ADJ then/ADV shuffle/VERB around/ADV awkwardly/ADV#0.0#0.0
+a person slow pacing up a line.#a/DET person/NOUN slow/ADJ pace/VERB up/ADP a/DET line/NOUN#0.0#0.0

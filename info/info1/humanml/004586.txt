@@ -1,0 +1,3 @@
+a person uses their strength to squat and lift something heavy above their shoulders.#a/DET person/NOUN use/VERB their/DET strength/NOUN to/PART squat/VERB and/CCONJ lift/VERB something/PRON heavy/ADJ above/ADP their/DET shoulder/NOUN#0.0#0.0
+a person lifting weights with both hands while bending their knees#a/DET person/NOUN lift/VERB weight/NOUN with/ADP both/DET hand/NOUN while/SCONJ bend/VERB their/DET knee/NOUN#0.0#0.0
+a man holds his arms at head height while he squats down, then raises back up.#a/DET man/NOUN hold/VERB his/DET arm/NOUN at/ADP head/NOUN height/ADV while/SCONJ he/PRON squat/VERB down/ADP then/ADV raise/VERB back/ADV up/ADV#0.0#0.0

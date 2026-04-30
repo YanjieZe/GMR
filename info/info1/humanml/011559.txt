@@ -1,0 +1,3 @@
+someone slowly swings his head and shoulders in a clockwise circle, then swings his hips slowly in a counter-clockwise circle#someone/PRON slowly/ADV swing/VERB his/DET head/NOUN and/CCONJ shoulder/NOUN in/ADP a/DET clockwise/ADJ circle/NOUN then/ADV swing/VERB his/DET hip/NOUN slowly/ADV in/ADP a/DET counterclockwise/ADJ circle/NOUN#0.0#0.0
+person appears to move hips in a circle while arms are out.#person/NOUN appear/VERB to/PART move/VERB hip/NOUN in/ADP a/DET circle/NOUN while/SCONJ arm/NOUN are/AUX out/ADV#0.0#0.0
+swaying from side to side,#sway/VERB from/ADP side/NOUN to/ADP side/VERB#0.0#0.0

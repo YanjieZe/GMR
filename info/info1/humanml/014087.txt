@@ -1,0 +1,3 @@
+a person walks forward while lifting their hands awkwardly.#a/DET person/NOUN walk/VERB forward/ADV while/SCONJ lift/VERB their/DET hand/NOUN awkwardly/ADV#0.0#0.0
+a person walks forward with a limp.#a/DET person/NOUN walk/VERB forward/ADV with/ADP a/DET limp/NOUN#0.0#0.0
+a person is walking very slowly forward and seems to be having trouble with bending both knees.#a/DET person/NOUN is/AUX walk/VERB very/ADV slowly/ADV forward/ADV and/CCONJ seem/VERB to/PART be/AUX have/VERB trouble/NOUN with/ADP bend/VERB both/DET knee/NOUN#0.0#0.0

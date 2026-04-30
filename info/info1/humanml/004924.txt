@@ -1,0 +1,3 @@
+person is walking down.#person/NOUN is/AUX walk/VERB down/ADP#0.0#0.0
+speed walking forward with a few steps.#speed/NOUN walk/VERB forward/ADV with/ADP a/DET few/ADJ step/NOUN#0.0#0.0
+a stick figure with no head walks forward with arms swinging, then stops.#a/DET stick/NOUN figure/NOUN with/ADP no/DET head/NOUN walk/VERB forward/ADV with/ADP arm/NOUN swinge/VERB then/ADV stop/VERB#0.0#0.0

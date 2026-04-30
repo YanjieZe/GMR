@@ -1,0 +1,3 @@
+a person lunges forward and plants their hands on the floor, swinging their legs above them and lands on their feet.#a/DET person/NOUN lunge/VERB forward/ADV and/CCONJ plant/VERB their/DET hand/NOUN on/ADP the/DET floor/NOUN swinge/VERB their/DET leg/NOUN above/ADP them/PRON and/CCONJ land/VERB on/ADP their/DET foot/NOUN#0.0#0.0
+a person doing cartwheel.#a/DET person/NOUN do/VERB cartwheel/NOUN#0.0#0.0
+a person does a cartwheel.#a/DET person/NOUN does/AUX a/DET cartwheel/NOUN#0.0#0.0

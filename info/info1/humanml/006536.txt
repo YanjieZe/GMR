@@ -1,0 +1,3 @@
+a person walking pass something seeming to brush pass a door.#a/DET person/NOUN walk/VERB pass/NOUN something/PRON seeming/ADJ to/ADP brush/NOUN pass/VERB a/DET door/NOUN#0.0#0.0
+person walks forward and puts their hand on something as they pass by it#person/NOUN walk/VERB forward/ADV and/CCONJ put/VERB their/DET hand/NOUN on/ADP something/PRON as/SCONJ they/PRON pass/VERB by/ADP it/PRON#0.0#0.0
+person takes a set forward with left foot first and continues waking they stumble a bit but continue on.#person/NOUN take/VERB a/DET set/NOUN forward/ADV with/ADP left/ADJ foot/NOUN first/ADV and/CCONJ continue/VERB wake/VERB they/PRON stumble/VERB a/DET bit/NOUN but/CCONJ continue/VERB on/ADP#0.0#0.0

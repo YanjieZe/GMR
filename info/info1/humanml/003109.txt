@@ -1,0 +1,3 @@
+a person has both shoulders raised while swaying back and forth, picks up both arms and pumps them back and forth 3 times.#a/DET person/NOUN has/AUX both/DET shoulder/NOUN raise/VERB while/SCONJ sway/VERB back/ADV and/CCONJ forth/ADV pick/VERB up/ADP both/DET arm/NOUN and/CCONJ pump/VERB them/PRON back/ADV and/CCONJ forth/ADV time/NOUN#0.0#0.0
+a man stays stationary and leans side to side, and then stretches his shoulders.#a/DET man/NOUN stay/VERB stationary/ADJ and/CCONJ lean/VERB side/NOUN to/PART side/VERB and/CCONJ then/ADV stretch/VERB his/DET shoulder/NOUN#0.0#0.0
+a person appears to be warming up their back or their elbows#a/DET person/NOUN appear/VERB to/PART be/AUX warm/VERB up/ADP their/DET back/NOUN or/CCONJ their/DET elbow/NOUN#0.0#0.0

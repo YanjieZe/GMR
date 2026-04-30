@@ -1,0 +1,3 @@
+the sim kicks an object with their right foot.#the/DET sim/PROPN kick/VERB an/DET object/NOUN with/ADP their/DET right/ADJ foot/NOUN#0.0#3.0
+a person kicks with his right foot.#a/DET person/NOUN kick/VERB with/ADP his/DET right/ADJ foot/NOUN#0.0#0.0
+kicking something hard and having a look#kick/VERB something/PRON hard/ADJ and/CCONJ have/VERB a/DET look/NOUN#0.0#0.0

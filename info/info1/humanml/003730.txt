@@ -1,0 +1,3 @@
+a person steps back on their left leg and brings their right arm in front of them.#a/DET person/NOUN step/VERB back/ADV on/ADP their/DET left/ADJ leg/NOUN and/CCONJ bring/VERB their/DET right/ADJ arm/NOUN in/ADP front/NOUN of/ADP them/PRON#0.0#0.0
+person is throwing something.#person/NOUN is/AUX throw/VERB something/PRON#0.0#0.0
+a person lunges to the right, moving their alternate hand into the beginning of a typical bowling celebration pose.#a/DET person/NOUN lunge/VERB to/ADP the/DET right/NOUN move/VERB their/DET alternate/ADJ hand/NOUN into/ADP the/DET beginning/NOUN of/ADP a/DET typical/ADJ bowling/NOUN celebration/NOUN pose/NOUN#0.0#0.0

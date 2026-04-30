@@ -1,0 +1,3 @@
+the person crouches down and sits on the floor.#the/DET person/NOUN crouch/VERB down/ADP and/CCONJ sit/VERB on/ADP the/DET floor/NOUN#0.0#0.0
+slowly sitting on the floor.#slowly/ADV sit/VERB on/ADP the/DET floor/NOUN#0.0#0.0
+a person crouches down to sit.#a/DET person/NOUN crouch/VERB down/ADP to/PART sit/VERB#0.0#0.0

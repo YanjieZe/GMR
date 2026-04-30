@@ -1,0 +1,3 @@
+the person was wobbling side to side.#the/DET person/NOUN was/AUX wobble/VERB side/NOUN to/ADP side/VERB#0.0#0.0
+someone kicked their left foot then their right foot then their left foot again while lightly swinging their arms forward and backwards.#someone/PRON kick/VERB their/DET left/ADJ foot/NOUN then/ADV their/DET right/ADJ foot/NOUN then/ADV their/DET left/ADJ foot/NOUN again/ADV while/SCONJ lightly/ADV swinge/VERB their/DET arm/NOUN forward/ADV and/CCONJ backwards/ADV#0.0#0.0
+person moves right to left two times shaking each foot#person/NOUN move/VERB right/ADJ to/ADP left/VERB two/NUM time/NOUN shake/VERB each/DET foot/NOUN#0.0#0.0

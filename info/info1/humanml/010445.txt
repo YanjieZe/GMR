@@ -1,0 +1,3 @@
+a person side steps to the left for a few steps.#a/DET person/NOUN side/NOUN step/NOUN to/ADP the/DET left/NOUN for/ADP a/DET few/ADJ step/NOUN#0.0#0.0
+moving sideways then stopping.#move/VERB sideways/ADV then/ADV stop/VERB#0.0#0.0
+a person is slowly shuffling side ways leading with their left leg.#a/DET person/NOUN is/AUX slowly/ADV shuffle/VERB side/NOUN way/NOUN lead/VERB with/ADP their/DET left/ADJ leg/NOUN#0.0#0.0

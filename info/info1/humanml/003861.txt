@@ -1,0 +1,3 @@
+a person sips something, then passes it to someone else.#a/DET person/NOUN sip/VERB something/PRON then/ADV pass/VERB it/PRON to/ADP someone/PRON else/ADV#0.0#0.0
+a man touches his mouth with his left arm and then puts it back down.#a/DET man/NOUN touch/VERB his/DET mouth/NOUN with/ADP his/DET left/ADJ arm/NOUN and/CCONJ then/ADV put/VERB it/PRON back/ADV down/ADP#0.0#0.0
+a person takes a sip from a cup and sets it down on a table.#a/DET person/NOUN take/VERB a/DET sip/NOUN from/ADP a/DET cup/NOUN and/CCONJ set/VERB it/PRON down/ADP on/ADP a/DET table/NOUN#0.0#0.0

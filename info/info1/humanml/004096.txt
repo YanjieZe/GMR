@@ -1,0 +1,3 @@
+a person walks forward while swinging their arms merrily#a/DET person/NOUN walk/VERB forward/ADV while/SCONJ swinge/VERB their/DET arm/NOUN merrily/ADV#0.0#0.0
+a person walks forward with their hands to their side#a/DET person/NOUN walk/VERB forward/ADV with/ADP their/DET hand/NOUN to/ADP their/DET side/NOUN#0.0#0.0
+a person takes four steps forward on what appears to be an incline.#a/DET person/NOUN take/VERB four/NUM step/NOUN forward/ADV on/ADP what/PRON appear/VERB to/PART be/AUX an/DET incline/NOUN#0.0#0.0

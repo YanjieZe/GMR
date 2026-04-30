@@ -1,0 +1,3 @@
+a person is pushed to the left while walking forward#a/DET person/NOUN is/AUX push/VERB to/ADP the/DET left/ADJ while/SCONJ walk/VERB forward/ADV#0.0#0.0
+a person is attempting to walk staright and is suddenly pushed out of the path. they recover and continue to walk.#a/DET person/NOUN is/AUX attempt/VERB to/PART walk/VERB staright/NOUN and/CCONJ is/AUX suddenly/ADV push/VERB out/SCONJ of/ADP the/DET path/NOUN they/PRON recover/VERB and/CCONJ continue/VERB to/PART walk/VERB#0.0#0.0
+a person recovers from being pushed while walking,.#a/DET person/NOUN recover/NOUN from/ADP being/AUX push/VERB while/SCONJ walk/VERB#0.0#0.0

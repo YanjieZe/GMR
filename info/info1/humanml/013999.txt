@@ -1,0 +1,2 @@
+crawl, zigzag, backward, laydown, downhill#crawl/PROPN zigzag/PROPN backward/ADV laydown/PROPN downhill/ADV#0.0#0.0
+stick figure is army crawling backwards#stick/PROPN figure/NOUN is/AUX army/NOUN crawl/VERB backwards/ADV#0.0#9.0

@@ -1,0 +1,3 @@
+a person is playing the violin#a/DET person/NOUN is/AUX play/VERB the/DET violin/NOUN#0.0#0.0
+a person is playing the violin#a/DET person/NOUN is/AUX play/VERB the/DET violin/NOUN#0.0#0.0
+a person plays the violin.#a/DET person/NOUN play/VERB the/DET violin/NOUN#0.0#0.0

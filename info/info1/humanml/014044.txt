@@ -1,0 +1,3 @@
+a man staggers in a confused direction.#a/DET man/NOUN stagger/VERB in/ADP a/DET confused/ADJ direction/NOUN#0.0#0.0
+person is walking forward in a wiggly line.#person/NOUN is/AUX walk/VERB forward/ADV in/ADP a/DET wiggly/ADJ line/NOUN#0.0#0.0
+person is walking forward in a sloppy way#person/NOUN is/AUX walk/VERB forward/ADV in/ADP a/DET sloppy/ADJ way/NOUN#0.0#0.0

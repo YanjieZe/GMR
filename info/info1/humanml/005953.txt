@@ -1,0 +1,3 @@
+the man is moving his body to the left#the/DET man/NOUN is/AUX move/VERB his/DET body/NOUN to/ADP the/DET left/NOUN#0.0#0.0
+a person picks something up with both arms and then turns to the right to put it down.#a/DET person/NOUN pick/VERB something/PRON up/ADP with/ADP both/DET arm/NOUN and/CCONJ then/ADV turn/VERB to/ADP the/DET right/NOUN to/PART put/VERB it/PRON down/ADP#0.0#0.0
+the man act like he lifted up a box then rotated rightward#the/DET man/PROPN act/PROPN like/SCONJ he/PRON lift/VERB up/ADP a/DET box/NOUN then/ADV rotate/VERB rightward/ADV#0.0#0.0

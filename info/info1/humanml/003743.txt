@@ -1,0 +1,3 @@
+shaking hips. brushing off feet. leans down on one knee forward#shake/VERB hip/NOUN brush/VERB off/ADP foot/NOUN lean/VERB down/ADV on/ADP one/NUM knee/NOUN forward/ADV#0.0#0.0
+a person waves each of their feet around one at a time then does a forward squat.#a/DET person/NOUN wave/VERB each/DET of/ADP their/DET foot/NOUN around/ADP one/NUM at/ADP a/DET time/NOUN then/ADV does/AUX a/DET forward/ADV squat/NOUN#0.0#0.0
+a person moves something off the ground with both feet and then lunges forward with his right leg.#a/DET person/NOUN move/VERB something/PRON off/ADP the/DET ground/NOUN with/ADP both/DET foot/NOUN and/CCONJ then/ADV lunge/VERB forward/ADV with/ADP his/DET right/ADJ leg/NOUN#0.0#0.0

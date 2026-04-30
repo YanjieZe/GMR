@@ -1,0 +1,3 @@
+person lunges forward with left foot first repeatedly#person/NOUN lunge/VERB forward/ADV with/ADP left/ADJ foot/NOUN first/ADV repeatedly/ADV#0.0#0.0
+a person lunges to the left.#a/DET person/NOUN lunge/VERB to/ADP the/DET left/NOUN#0.0#0.0
+a person kneels and strikes fist forward.#a/DET person/NOUN kneel/VERB and/CCONJ strike/NOUN fist/VERB forward/ADV#0.0#0.0

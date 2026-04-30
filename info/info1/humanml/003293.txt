@@ -1,0 +1,3 @@
+person reaches arms out then takes right arm and points outwards#person/NOUN reach/VERB arm/NOUN out/ADV then/ADV take/VERB right/ADJ arm/NOUN and/CCONJ point/NOUN outward/NOUN#0.0#0.0
+a man lowers his outstretched hands down to his sides.#a/DET man/NOUN lower/VERB his/DET outstretched/ADJ hand/NOUN down/ADP to/ADP his/DET side/NOUN#0.0#3.0
+person is typing a passcode in an order#person/NOUN is/AUX type/VERB a/DET passcode/NOUN in/ADP an/DET order/NOUN#0.0#0.0

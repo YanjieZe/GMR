@@ -1,0 +1,3 @@
+a person warming up by swinging back and arms around.#a/DET person/NOUN warm/VERB up/ADP by/ADP swinge/VERB back/ADV and/CCONJ arm/NOUN around/ADV#0.0#0.0
+a person squats down then stands back up and rotates their torso left and right.#a/DET person/NOUN squat/VERB down/ADV then/ADV stand/VERB back/ADV up/ADV and/CCONJ rotate/VERB their/DET torso/NOUN left/ADJ and/CCONJ right/INTJ#0.0#0.0
+a person holds their arms out in front of them, squats, then swivels from side to side#a/DET person/NOUN hold/VERB their/DET arm/NOUN out/ADP in/ADP front/NOUN of/ADP them/PRON squat/NOUN then/ADV swivel/VERB from/ADP side/NOUN to/PART side/VERB#0.0#0.0

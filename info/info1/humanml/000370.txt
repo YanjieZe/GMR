@@ -1,0 +1,3 @@
+a person jumps up and down three times#a/DET person/NOUN jump/VERB up/ADV and/CCONJ down/ADV three/NUM time/NOUN#0.0#0.0
+a person jumps up and down several times.#a/DET person/NOUN jump/VERB up/ADV and/CCONJ down/ADP several/ADJ time/NOUN#0.0#0.0
+a person jumps up and down.#a/DET person/NOUN jump/VERB up/ADV and/CCONJ down/ADV#0.0#0.0

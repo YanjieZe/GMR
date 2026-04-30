@@ -1,0 +1,3 @@
+a person is standing with hands togething and bending over stretching.#a/DET person/NOUN is/AUX stand/VERB with/ADP hand/NOUN togethe/VERB and/CCONJ bend/VERB over/ADP stretch/VERB#0.0#0.0
+a standing person has their hamds together in front of their chest and twists at their waist, bends down from their waist before raising again and twisting again.#a/DET stand/VERB person/NOUN has/AUX their/DET hamds/NOUN together/ADV in/ADP front/NOUN of/ADP their/DET chest/NOUN and/CCONJ twist/NOUN at/ADP their/DET waist/NOUN bend/VERB down/ADP from/ADP their/DET waist/NOUN before/ADP raise/VERB again/ADV and/CCONJ twist/VERB again/ADV#0.0#0.0
+a person exercising with hip rotations and bending#a/DET person/NOUN exercise/VERB with/ADP hip/NOUN rotation/NOUN and/CCONJ bend/VERB#0.0#0.0

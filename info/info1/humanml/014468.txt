@@ -1,0 +1,3 @@
+a person holds both arms out to the sides, drops his left arm, and then raises it back up before dropping both arms down to his sides.#a/DET person/NOUN hold/VERB both/DET arm/NOUN out/ADV to/ADP the/DET side/NOUN drop/VERB his/DET left/ADJ arm/NOUN and/CCONJ then/ADV raise/VERB it/PRON back/ADV up/ADP before/ADP drop/VERB both/DET arm/NOUN down/ADP to/ADP his/DET side/NOUN#0.0#0.0
+a person holds out their right arm and then both arms.#a/DET person/NOUN hold/VERB out/ADP their/DET right/ADJ arm/NOUN and/CCONJ then/ADV both/DET arm/NOUN#0.0#0.0
+a person raised the both hands and after pull down the left hand#a/DET person/NOUN raise/VERB the/DET both/DET hand/NOUN and/CCONJ after/ADP pull/VERB down/ADP the/DET left/ADJ hand/NOUN#0.0#0.0

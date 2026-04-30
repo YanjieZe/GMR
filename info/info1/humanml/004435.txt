@@ -1,0 +1,3 @@
+person balancing on imaginary object with their hands out wide.#person/NOUN balance/VERB on/ADP imaginary/ADJ object/NOUN with/ADP their/DET hand/NOUN out/ADP wide/ADV#0.0#0.0
+a man teeters back and forth on either of his two feet.#a/DET man/NOUN teeter/VERB back/ADV and/CCONJ forth/ADV on/ADP either/DET of/ADP his/DET two/NUM foot/NOUN#0.0#0.0
+person stands feet shoulder length apart with arms out to side and hovers side to side#person/NOUN stand/VERB foot/NOUN shoulder/PROPN length/NOUN apart/ADV with/ADP arm/NOUN out/ADV to/PART side/VERB and/CCONJ hover/NOUN side/VERB to/PART side/VERB#0.0#0.0

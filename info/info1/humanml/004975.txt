@@ -1,0 +1,3 @@
+a man shrugs his shoulders then takes a step back before waving with his right hand.#a/DET man/NOUN shrug/VERB his/DET shoulder/NOUN then/ADV take/VERB a/DET step/NOUN back/ADV before/ADP wave/VERB with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0
+a person waiving goodbye and stepping backwards.#a/DET person/NOUN waive/VERB goodbye/NOUN and/CCONJ stepping/ADJ backwards/ADV#0.0#0.0
+a man waves with his right hand, takes two steps backwards, takes two steps forward, and waves again with his right hand.#a/DET man/NOUN wave/VERB with/ADP his/DET right/ADJ hand/NOUN take/VERB two/NUM step/NOUN backwards/ADV take/VERB two/NUM step/NOUN forward/ADV and/CCONJ wave/NOUN again/ADV with/ADP his/DET right/ADJ hand/NOUN#0.0#0.0

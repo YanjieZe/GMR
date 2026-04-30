@@ -1,0 +1,3 @@
+person holding something in right hand but gets pulled and has to chase#person/NOUN hold/VERB something/PRON in/ADP right/ADJ hand/NOUN but/CCONJ get/VERB pull/VERB and/CCONJ has/AUX to/PART chase/VERB#0.0#0.0
+a person is stumbling around while being pulled by something.#a/DET person/NOUN is/AUX stumble/VERB around/ADV while/SCONJ being/AUX pull/VERB by/ADP something/PRON#0.0#0.0
+the person's struggles while walking the dog#the/DET person/NOUN struggle/NOUN while/SCONJ walk/VERB the/DET dog/NOUN#0.0#0.0

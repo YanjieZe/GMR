@@ -1,0 +1,3 @@
+a person lifts each knee towards the opposite elbow#a/DET person/NOUN lift/VERB each/DET knee/NOUN towards/ADP the/DET opposite/ADJ elbow/NOUN#0.0#0.0
+a person doing 4 knee lifts to opposite elbow touches, then shakes it off.#a/DET person/NOUN do/VERB knee/NOUN lift/NOUN to/ADP opposite/ADJ elbow/ADJ touch/NOUN then/ADV shake/VERB it/PRON off/ADP#0.0#0.0
+a person shimmies then starts exercising by lifting up their knees.#a/DET person/NOUN shimmy/VERB then/ADV start/VERB exercise/VERB by/ADP lift/VERB up/ADP their/DET knee/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person, walk forward and turned right side, and kept walk#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ turn/VERB right/ADJ side/NOUN and/CCONJ keep/VERB walk/ADV#0.0#0.0
+a person walks forward, then walks to the right and stops.#a/DET person/NOUN walk/VERB forward/ADV then/ADV walk/VERB to/ADP the/DET right/NOUN and/CCONJ stop/NOUN#0.0#0.0
+person walks forward a few steps then turns right walks a few more steps then stops.#person/NOUN walk/VERB forward/ADV a/DET few/ADJ step/NOUN then/ADV turn/VERB right/ADV walk/VERB a/DET few/ADJ more/ADJ step/NOUN then/ADV stop/VERB#0.0#0.0

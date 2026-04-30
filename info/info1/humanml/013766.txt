@@ -1,0 +1,3 @@
+this person reaches high with both arms.#this/DET person/NOUN reach/VERB high/ADJ with/ADP both/DET arm/NOUN#0.0#0.0
+a person throws both hands up#a/DET person/NOUN throw/VERB both/DET hand/NOUN up/ADP#0.0#0.0
+a person raises both hands above his head and throws something.#a/DET person/NOUN raise/VERB both/DET hand/NOUN above/ADP his/DET head/NOUN and/CCONJ throw/VERB something/PRON#0.0#0.0

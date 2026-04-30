@@ -1,0 +1,3 @@
+a person crosses his legs while standing and then lowers himself into a so-called crab walk position, using his hands and feet to stop him from touching the ground.#a/DET person/NOUN cross/VERB his/DET leg/NOUN while/SCONJ stand/VERB and/CCONJ then/ADV lower/VERB himself/PRON into/ADP a/DET socalled/ADJ crab/NOUN walk/NOUN position/NOUN use/VERB his/DET hand/NOUN and/CCONJ foot/NOUN to/PART stop/VERB him/PRON from/ADP touch/VERB the/DET ground/NOUN#0.0#0.0
+person struggles to sit on the ground.#person/NOUN struggle/VERB to/PART sit/VERB on/ADP the/DET ground/NOUN#0.0#0.0
+a person slowly sits down and turns counter clockwise.#a/DET person/NOUN slowly/ADV sit/VERB down/ADP and/CCONJ turn/VERB counter/NOUN clockwise/NOUN#0.0#0.0

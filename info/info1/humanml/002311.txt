@@ -1,0 +1,3 @@
+a person waves and beckons someone over with their right hand.#a/DET person/NOUN wave/NOUN and/CCONJ beckon/NOUN someone/PRON over/ADP with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+a person waves hello, then come here, then hello again#a/DET person/NOUN wave/VERB hello/INTJ then/ADV come/VERB here/ADV then/ADV hello/INTJ again/ADV#0.0#0.0
+person waiving and telling someone to come.#person/NOUN waive/VERB and/CCONJ tell/VERB someone/PRON to/PART come/VERB#0.0#0.0

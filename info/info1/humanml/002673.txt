@@ -1,0 +1,3 @@
+person walks slowly down some stairs using a railing.#person/NOUN walk/VERB slowly/ADV down/ADP some/DET stair/NOUN use/VERB a/DET railing/NOUN#0.0#0.0
+a person walks down stairs while using something for balance#a/DET person/NOUN walk/VERB down/ADP stair/NOUN while/SCONJ use/VERB something/PRON for/ADP balance/NOUN#0.0#0.0
+a man uses left arm as support as he walks down a flight of stairs.#a/DET man/NOUN use/VERB left/VERB arm/NOUN as/SCONJ support/NOUN as/SCONJ he/PRON walk/VERB down/ADV a/DET flight/NOUN of/ADP stair/NOUN#0.0#0.0

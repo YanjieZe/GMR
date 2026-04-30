@@ -1,0 +1,3 @@
+he goes downstairs forward directally#he/PRON go/VERB downstairs/ADV forward/ADV directally/ADV#0.0#0.0
+a person walks forward and hops in place.#a/DET person/NOUN walk/VERB forward/ADV and/CCONJ hop/VERB in/ADP place/NOUN#0.0#0.0
+person walking downstairs and then jumping after the last step#person/NOUN walk/VERB downstairs/ADV and/CCONJ then/ADV jump/VERB after/ADP the/DET last/ADJ step/NOUN#0.0#0.0

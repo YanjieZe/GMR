@@ -1,0 +1,3 @@
+a person lifts weight with both arms and bends legs.#a/DET person/NOUN lift/VERB weight/NOUN with/ADP both/DET arm/NOUN and/CCONJ bend/VERB leg/NOUN#0.0#0.0
+a man, while lifting something, attempts to do two squats parallel to the ground.#a/DET man/NOUN while/SCONJ lift/VERB something/PRON attempt/VERB to/PART do/AUX two/NUM squat/NOUN parallel/ADV to/ADP the/DET ground/NOUN#0.0#0.0
+a person lifting weights or squatting#a/DET person/NOUN lift/VERB weight/NOUN or/CCONJ squat/VERB#0.0#0.0

@@ -1,0 +1,3 @@
+a person takes a few slow steps forward while lightly swaying their hips.#a/DET person/NOUN take/VERB a/DET few/ADJ slow/ADJ step/NOUN forward/ADV while/SCONJ lightly/ADV sway/VERB their/DET hip/NOUN#0.0#0.0
+the person took four steps forward.#the/DET person/NOUN take/VERB four/NUM step/NOUN forward/ADV#0.0#0.0
+starting with their left foot, someone takes one foot after another forward at a leisurely pace.#start/VERB with/ADP their/DET left/ADJ foot/NOUN someone/PRON take/VERB one/NUM foot/NOUN after/ADP another/DET forward/ADV at/ADP a/DET leisurely/ADJ pace/NOUN#1.0#6.0

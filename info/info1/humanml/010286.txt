@@ -1,0 +1,3 @@
+a person jumps up and down.#a/DET person/NOUN jump/VERB up/ADV and/CCONJ down/ADV#0.0#0.0
+a person bends his knees and jumps up and down.#a/DET person/NOUN bend/VERB his/DET knee/NOUN and/CCONJ jump/VERB up/ADV and/CCONJ down/ADV#0.0#0.0
+a person hops in place three times.#a/DET person/NOUN hop/VERB in/ADP place/NOUN three/NUM time/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person quickly walks one step forward.#a/DET person/NOUN quickly/ADV walk/VERB one/NUM step/NOUN forward/ADV#0.0#0.0
+a man begins with his arms by his sides and his feet close together,  he takes two steps forward and his arms and legs end in the same locations they began.#a/DET man/NOUN begin/VERB with/ADP his/DET arm/NOUN by/ADP his/DET side/NOUN and/CCONJ his/DET foot/NOUN close/ADJ together/ADV he/PRON take/VERB two/NUM step/NOUN forward/ADV and/CCONJ his/DET arm/NOUN and/CCONJ leg/NOUN end/VERB in/ADP the/DET same/ADJ location/NOUN they/PRON begin/VERB#0.0#0.0
+a person taking one step toward an edge.#a/DET person/NOUN take/VERB one/NUM step/NOUN toward/ADP an/DET edge/NOUN#0.0#0.0

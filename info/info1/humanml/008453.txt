@@ -1,0 +1,3 @@
+this person dances across the floor waves his arms overhead as if to be dancing.#this/DET person/NOUN dance/VERB across/ADP the/DET floor/NOUN wave/VERB his/DET arm/NOUN overhead/ADV as/SCONJ if/SCONJ to/PART be/AUX dance/VERB#0.0#0.0
+the person is doing the salsa.#the/DET person/NOUN is/AUX do/VERB the/DET salsa/NOUN#0.0#0.0
+a person walks in circles and zig zags, swaying his arms.#a/DET person/NOUN walk/VERB in/ADP circle/NOUN and/CCONJ zig/VERB zag/NOUN sway/VERB his/DET arm/NOUN#0.0#0.0

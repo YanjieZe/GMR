@@ -1,0 +1,3 @@
+a person makes the signals for traveling, double-dribble, palming, and something else i don't recognize.#a/DET person/NOUN make/VERB the/DET signal/NOUN for/ADP travel/VERB doubledribble/ADJ palm/VERB and/CCONJ something/PRON else/ADV i/PRON do/AUX recognize/VERB#0.0#0.0
+a person makes various basketball referee signals, including traveling, double dribble, palming, and kicking.#a/DET person/NOUN make/VERB various/ADJ basketball/NOUN referee/NOUN signal/NOUN include/VERB travel/VERB double/ADJ dribble/ADJ palm/VERB and/CCONJ kick/VERB#0.0#0.0
+a person rolls both his arms and does different movements with them.#a/DET person/NOUN roll/VERB both/DET his/DET arm/NOUN and/CCONJ does/AUX different/ADJ movement/NOUN with/ADP them/PRON#0.0#0.0

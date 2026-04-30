@@ -1,0 +1,3 @@
+a person makes a circular rubbing motion with their right hand.#a/DET person/NOUN make/VERB a/DET circular/ADJ rubbing/NOUN motion/NOUN with/ADP their/DET right/ADJ hand/NOUN#0.0#0.0
+the person is watching something with his right arm.#the/DET person/NOUN is/AUX watch/VERB something/PRON with/ADP his/DET right/ADJ arm/NOUN#0.0#0.0
+the person moves their right hand around their chest in a clockwise circular motion and lets it fall to his side.#the/DET person/NOUN move/VERB their/DET right/ADJ hand/NOUN around/ADP their/DET chest/NOUN in/ADP a/DET clockwise/ADJ circular/ADJ motion/NOUN and/CCONJ let/VERB it/PRON fall/VERB to/ADP his/DET side/NOUN#0.0#0.0

@@ -1,0 +1,3 @@
+a person walks in anticlockwise direction dragging his left feet.#a/DET person/NOUN walk/VERB in/ADP anticlockwise/NOUN direction/NOUN drag/VERB his/DET left/ADJ foot/NOUN#0.0#0.0
+a person walks in a clockwise direction.#a/DET person/NOUN walk/VERB in/ADP a/DET clockwise/ADJ direction/NOUN#0.0#0.0
+a person walks a curved line in a very stiff manner.#a/DET person/NOUN walk/VERB a/DET curved/ADJ line/NOUN in/ADP a/DET very/ADV stiff/ADJ manner/NOUN#0.0#0.0

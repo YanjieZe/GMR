@@ -1,0 +1,3 @@
+a person is learning to the side#a/DET person/NOUN is/AUX learn/VERB to/ADP the/DET side/NOUN#0.0#0.0
+a person was moving from right to left sides#a/DET person/NOUN was/AUX move/VERB from/ADP right/NOUN to/ADP left/ADJ side/NOUN#0.0#0.0
+a person dodges something to their left before stepping back.#a/DET person/NOUN dodge/VERB something/PRON to/ADP their/DET left/NOUN before/ADP step/VERB back/ADV#0.0#0.0

@@ -1,0 +1,3 @@
+a person reaches down with alternating hands, then moves their right hand back and forth, then reaches down with alternating hands#a/DET person/NOUN reach/VERB down/ADP with/ADP alternate/VERB hand/NOUN then/ADV move/VERB their/DET right/ADJ hand/NOUN back/ADV and/CCONJ forth/ADV then/ADV reach/VERB down/ADP with/ADP alternate/VERB hand/NOUN#0.0#0.0
+person stretches across the body on both sides.#person/NOUN stretch/VERB across/ADP the/DET body/NOUN on/ADP both/DET side/NOUN#0.0#0.0
+person ism oving something maybe cleasning.#person/NOUN ism/NOUN ove/VERB something/PRON maybe/ADV cleasne/VERB#0.0#0.0

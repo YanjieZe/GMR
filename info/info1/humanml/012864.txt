@@ -1,0 +1,3 @@
+a man walks towards the left with hands at his side slightly bent, then he turns around to walk in the opposite direction.#a/DET man/NOUN walk/VERB towards/ADP the/DET left/NOUN with/ADP hand/NOUN at/ADP his/DET side/NOUN slightly/ADV bent/ADJ then/ADV he/PRON turn/VERB around/ADP to/PART walk/VERB in/ADP the/DET opposite/ADJ direction/NOUN#0.0#0.0
+a person is walking on a diagnol#a/DET person/NOUN is/AUX walk/VERB on/ADP a/DET diagnol/NOUN#0.0#0.0
+a person saunters across the floor.#a/DET person/NOUN saunter/VERB across/ADP the/DET floor/NOUN#0.0#0.0
