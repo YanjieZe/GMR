@@ -33,7 +33,7 @@ if __name__ == "__main__":
         choices=["unitree_g1", "unitree_g1_with_hands", "unitree_h1", "unitree_h1_2",
                  "booster_t1", "booster_t1_29dof","stanford_toddy", "fourier_n1", 
                 "engineai_pm01", "kuavo_s45", "hightorque_hi", "galaxea_r1pro", "berkeley_humanoid_lite", "booster_k1",
-                "pnd_adam_lite", "openloong", "tienkung", "fourier_gr3"],
+                "pnd_adam_lite", "openloong", "tienkung", "fourier_gr3", "asimov_1"],
         default="unitree_g1",
     )
     
@@ -55,6 +55,13 @@ if __name__ == "__main__":
         default=False,
         action="store_true",
         help="Record the video.",
+    )
+
+    parser.add_argument(
+        "--headless",
+        default=False,
+        action="store_true",
+        help="Run retargeting without opening the MuJoCo viewer. Use with --save_path to export motion data.",
     )
 
     parser.add_argument(
@@ -87,11 +94,19 @@ if __name__ == "__main__":
         tgt_robot=args.robot,
     )
     
-    robot_motion_viewer = RobotMotionViewer(robot_type=args.robot,
-                                            motion_fps=aligned_fps,
-                                            transparent_robot=0,
-                                            record_video=args.record_video,
-                                            video_path=f"videos/{args.robot}_{args.smplx_file.split('/')[-1].split('.')[0]}.mp4",)
+    robot_motion_viewer = None
+    if not args.headless:
+        try:
+            robot_motion_viewer = RobotMotionViewer(robot_type=args.robot,
+                                                    motion_fps=aligned_fps,
+                                                    transparent_robot=0,
+                                                    record_video=args.record_video,
+                                                    video_path=f"videos/{args.robot}_{args.smplx_file.split('/')[-1].split('.')[0]}.mp4",)
+        except Exception as exc:
+            raise RuntimeError(
+                "Failed to initialize the MuJoCo viewer. Run in a graphical X11 session, "
+                "or use --headless together with --save_path to export retargeted motion without visualization."
+            ) from exc
     
 
     curr_frame = 0
@@ -133,17 +148,18 @@ if __name__ == "__main__":
         qpos = retarget.retarget(smplx_data)
 
         # visualize
-        robot_motion_viewer.step(
-            root_pos=qpos[:3],
-            root_rot=qpos[3:7],
-            dof_pos=qpos[7:],
-            human_motion_data=retarget.scaled_human_data,
-            # human_motion_data=smplx_data,
-            human_pos_offset=np.array([0.0, 0.0, 0.0]),
-            show_human_body_name=False,
-            rate_limit=args.rate_limit,
-            follow_camera=False,
-        )
+        if robot_motion_viewer is not None:
+            robot_motion_viewer.step(
+                root_pos=qpos[:3],
+                root_rot=qpos[3:7],
+                dof_pos=qpos[7:],
+                human_motion_data=retarget.scaled_human_data,
+                # human_motion_data=smplx_data,
+                human_pos_offset=np.array([0.0, 0.0, 0.0]),
+                show_human_body_name=False,
+                rate_limit=args.rate_limit,
+                follow_camera=False,
+            )
         if args.save_path is not None:
             qpos_list.append(qpos)
             
@@ -170,4 +186,5 @@ if __name__ == "__main__":
             
       
     
-    robot_motion_viewer.close()
+    if robot_motion_viewer is not None:
+        robot_motion_viewer.close()
