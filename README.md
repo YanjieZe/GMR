@@ -174,6 +174,7 @@ This repo is licensed under the [MIT License](LICENSE).
 | More robots coming soon ! |
 | 18 | AgiBot A2 `agibot_a2` | TBD | TBD | TBD | TBD | TBD |
 | 19 | OpenLoong `openloong` | TBD | TBD | TBD | TBD | TBD |
+| 20 | Unitree H2 `unitree_h2` | ✅ | TBD | TBD | TBD | TBD |
 
 
 
@@ -609,3 +610,4 @@ The original robot models can be found at the following locations:
 * [PAL Robotics' Talos](https://github.com/google-deepmind/mujoco_menagerie): [Link to file](https://github.com/google-deepmind/mujoco_menagerie/tree/main/pal_talos)
 * [Toddlerbot](https://github.com/hshi74/toddlerbot): [Link to file](https://github.com/hshi74/toddlerbot/tree/main/toddlerbot/descriptions/toddlerbot_active)
 * [Unitree G1](https://github.com/unitreerobotics/unitree_ros): [Link to file](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/g1_description)
+* [Unitree H2](https://github.com/unitreerobotics/unitree_mujoco): [Link to file](https://github.com/unitreerobotics/unitree_mujoco/tree/main/unitree_robots/h2)
