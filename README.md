@@ -339,7 +339,26 @@ Then, run the command below to retarget the extracted human pose data to your ro
 uv run scripts/gvhmr_to_robot.py --gvhmr_pred_file <path_to_hmr4d_results.pt> --robot unitree_g1 --record_video
 ```
 
+### Retargeting from ExMR to Robot
 
+[ExMR](https://github.com/twehrbein/ExMR) builds on GVHMR and refines the motion of the hands and feet. It saves the world-frame motion as an AMASS SMPL-X file, which `smplx_to_robot.py` reads directly.
+
+First, install ExMR by following [their official instructions](https://github.com/twehrbein/ExMR/blob/main/docs/INSTALL.md), or upload your video to the [online demo](https://huggingface.co/spaces/twehrbein/ExMR), which returns the same file.
+
+And run their demo that can extract human motion from monocular video (`-s`: the camera does not move; `--snap_to_ground`: keeps the feet on a flat ground; for videos below 30 fps, add `--export_fps 30`, or tick "Resample to 30 fps" in the online demo):
+
+```bash
+cd PATH/TO/ExMR
+python tools/demo.py --video <path_to_video.mp4> -s --snap_to_ground
+```
+
+Then you should obtain the motion in `ExMR/outputs/<video_name>/<video_name>_amass.npz`.
+
+Then, run the command below to retarget it to your robot:
+
+```bash
+uv run scripts/smplx_to_robot.py --smplx_file <path_to_video_name_amass.npz> --robot unitree_g1 --save_path <path_to_save_robot_data.pkl> --rate_limit
+```
 
 ## Retargeting from BVH (LAFAN1, Nokov) to Robot
 
