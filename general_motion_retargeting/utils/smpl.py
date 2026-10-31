@@ -13,6 +13,23 @@ def load_smpl_file(smpl_file):
     return smpl_data
 
 
+def fit_betas(betas, num_betas):
+    """Return ``betas`` resized to ``num_betas`` shape coefficients.
+
+    Shorter inputs are zero-padded (the extra shape directions stay at their
+    mean), longer inputs are truncated. ``betas`` may be 1D ``(K,)`` or 2D
+    ``(B, K)``; only the last axis is resized.
+    """
+    betas = np.asarray(betas)
+    k = betas.shape[-1]
+    if k == num_betas:
+        return betas
+    if k > num_betas:
+        return betas[..., :num_betas]
+    pad = [(0, 0)] * (betas.ndim - 1) + [(0, num_betas - k)]
+    return np.pad(betas, pad)
+
+
 def load_smplx_file(smplx_file, smplx_body_model_path):
     smplx_data = np.load(smplx_file, allow_pickle=True)
     body_model = smplx.create(
@@ -57,14 +74,23 @@ def load_gvhmr_pred_file(gvhmr_pred_file, smplx_body_model_path):
     # print(smpl_params_global['global_orient'].shape)
     # print(smpl_params_global['transl'].shape)
 
-    betas = np.pad(smpl_params_global["betas"][0], (0, 6))
-
     # correct rotations
     # rotation_matrix = np.array([[1, 0, 0], [0, 0, -1], [0, 1, 0]])
     # rotation_quat = R.from_matrix(rotation_matrix).as_quat(scalar_first=True)
 
     # smpl_params_global['body_pose'] = smpl_params_global['body_pose'] @ rotation_matrix
     # smpl_params_global['global_orient'] = smpl_params_global['global_orient'] @ rotation_quat
+
+    body_model = smplx.create(
+        smplx_body_model_path,
+        "smplx",
+        gender="neutral",
+        use_pca=False,
+    )
+
+    # GVHMR predicts SMPL betas (10), while the SMPL-X body model may expect
+    # a different number (16 by default). Zero-pad or truncate to match.
+    betas = fit_betas(smpl_params_global["betas"][0], body_model.num_betas)
 
     smplx_data = {
         "pose_body": smpl_params_global["body_pose"].numpy(),
@@ -74,16 +100,9 @@ def load_gvhmr_pred_file(gvhmr_pred_file, smplx_body_model_path):
         "mocap_frame_rate": torch.tensor(30),
     }
 
-    body_model = smplx.create(
-        smplx_body_model_path,
-        "smplx",
-        gender="neutral",
-        use_pca=False,
-    )
-
     num_frames = smpl_params_global["body_pose"].shape[0]
     smplx_output = body_model(
-        betas=torch.tensor(smplx_data["betas"]).float().view(1, -1),  # (16,)
+        betas=torch.tensor(smplx_data["betas"]).float().view(1, -1),  # (num_betas,)
         global_orient=torch.tensor(smplx_data["root_orient"]).float(),  # (N, 3)
         body_pose=torch.tensor(smplx_data["pose_body"]).float(),  # (N, 63)
         transl=torch.tensor(smplx_data["trans"]).float(),  # (N, 3)
