@@ -172,9 +172,10 @@ This repo is licensed under the [MIT License](LICENSE).
 | 16 | PAL Robotics' Talos `pal_talos`  | Head (2) + Arm (2\*7) + Waist (2) + Leg (2\*6) = 30 | ✅ | TBD | TBD | TBD |
 | 17 | Fourier GR3 `fourier_gr3`  | Head (2) + Arm (2\*7) + Waist (3) + Leg (2\*6) = 31 | ✅ | TBD | TBD | TBD |
 | 18 | Unitree H2 `unitree_h2` | Leg (2\*6) + Waist (3) + Arm (2\*7) = 29 (head fixed in the MJCF) | TBD | ✅ | TBD | TBD | TBD |
+| 19 | LimX Oli `limx_oli_edu` | Leg (2\*6) + Waist (3) + Head (2) + Arm (2\*7) = 31 | ✅ | ✅ | TBD | TBD | TBD |
 | More robots coming soon ! |
-| 19 | AgiBot A2 `agibot_a2` | TBD | TBD | TBD | TBD | TBD |
-| 20 | OpenLoong `openloong` | TBD | TBD | TBD | TBD | TBD |
+| 20 | AgiBot A2 `agibot_a2` | TBD | TBD | TBD | TBD | TBD |
+| 21 | OpenLoong `openloong` | TBD | TBD | TBD | TBD | TBD |
 
 
 
