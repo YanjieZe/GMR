@@ -29,6 +29,7 @@ ROBOT_XML_DICT = {
     / "fourier_gr3v2_1_1"
     / "mjcf"
     / "gr3v2_1_1_dummy_hand.xml",
+    "limx_oli_edu": ASSET_ROOT / "limx_oli" / "HU_D04_01.xml",
 }
 
 IK_CONFIG_DICT = {
@@ -51,6 +52,7 @@ IK_CONFIG_DICT = {
         "pnd_adam_lite": IK_CONFIG_ROOT / "smplx_to_adam.json",
         "tienkung": IK_CONFIG_ROOT / "smplx_to_tienkung.json",
         "fourier_gr3": IK_CONFIG_ROOT / "smplx_to_gr3.json",
+        "limx_oli_edu": IK_CONFIG_ROOT / "smplx_to_oli_edu.json",
     },
     "bvh_lafan1": {
         "unitree_g1": IK_CONFIG_ROOT / "bvh_lafan1_to_g1.json",
@@ -61,6 +63,7 @@ IK_CONFIG_DICT = {
         "stanford_toddy": IK_CONFIG_ROOT / "bvh_lafan1_to_toddy.json",
         "engineai_pm01": IK_CONFIG_ROOT / "bvh_lafan1_to_pm01.json",
         "pal_talos": IK_CONFIG_ROOT / "bvh_to_talos.json",
+        "limx_oli_edu": IK_CONFIG_ROOT / "bvh_lafan1_to_oli_edu.json",
     },
     "bvh_nokov": {
         "unitree_g1": IK_CONFIG_ROOT / "bvh_nokov_to_g1.json",
@@ -105,6 +108,7 @@ ROBOT_BASE_DICT = {
     "tienkung": "Base_link",
     "pal_talos": "base_link",
     "fourier_gr3": "base_link",
+    "limx_oli_edu": "base_link",
 }
 
 VIEWER_CAM_DISTANCE_DICT = {
@@ -127,4 +131,5 @@ VIEWER_CAM_DISTANCE_DICT = {
     "tienkung": 3.0,
     "pal_talos": 3.0,
     "fourier_gr3": 2.0,
+    "limx_oli_edu": 2.0,
 }
